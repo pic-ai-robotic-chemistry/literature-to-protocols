@@ -1,0 +1,396 @@
+# Reactive high-spin iron(IV)-oxo sites through dioxygen activation in a metal–organic framework
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Ferrous chloride**: FeCl₂, [Purity: not specified], [Supplier: not specified], Used as the iron source during post‐synthetic cation exchange.
+- **Zinc source from Zn₅Cl₄(btdd)₃**: (framework precursor), [Purity: not specified], [Supplier: not specified], Provides the zinc nodes for constructing the parent MOF framework.
+
+#### 1.1.2 Organic Linkers
+- **btdd ligand**: Bis‐(1H-1,2,3‐triazolo[4,5-b],[4′,5′-i])dibenzo[dioxin], [Purity: not specified], [Supplier: not specified], Acts as the primary organic linker bridging metal centres.
+- **Pyruvic acid**: C₃H₄O₃, [Purity: not specified], [Supplier: not specified], Functions as a ligand in the post‐synthetic exchange, aiding in the formation of high‐spin Fe(IV)=O species, used in stoichiometric excess.
+- **3,3-Dimethyl-2-oxobutyrate (moba)**: (structural formula not specified), [Purity: not specified], [Supplier: not specified], Serves as an alternative ligand for bridging metal nodes in the FeZn₄(moba)₄(btdd)₃ framework.
+
+#### 1.1.3 Acid/Base Regulators
+- **Triethylamine**: C₆H₁₅N, [Purity: not specified], [Supplier: not specified], Acts as a base to deprotonate pyruvic acid, thereby facilitating ligand coordination during the synthesis.
+
+#### 1.1.4 Solvents
+- **Dichloromethane (CH₂Cl₂)**: CH₂Cl₂, [Purity: not specified], [Supplier: not specified], Used for suspending the MOF framework and during washing steps to remove unreacted species.
+- **Acetonitrile (CH₃CN)**: CH₃CN, [Purity: not specified], [Supplier: not specified], Employed both as a reaction medium for dissolving reagents such as pyruvic acid and for extensive washing to purify the framework.
+
+#### 1.1.5 Atmosphere Gases
+- **Oxygen (O₂)**: O₂, [Purity: not specified], [Operational: 200 mbar at 163 K, then dosing at 100 K with warming to 21 °C for 24 h], Utilized for dioxygen activation to generate the high‐spin Fe(IV)=O species.
+- **Argon (Ar)**: Ar, [Purity: not specified], [Operational: used as an inert atmosphere during synthesis steps], Maintains an oxygen‐free environment when necessary.
+
+#### 1.1.6 Other Reagents
+- **Dibromomethane (CH₂Br₂)**: CH₂Br₂, [Purity: not specified], [Supplier: not specified], Used as an internal standard for NMR analysis during post‐synthetic evaluation.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- 20 mL scintillation vial (glass; used for both cation and ligand exchange reactions)
+- Pressure vessel (generic pressure vessel for synthesis, no dimensions specified)
+- Schlenk-tube (glass reactor for air-sensitive operations)
+- 25 mL Parr bomb reactor (for post-synthetic ligand exchange and guest molecule loading)
+- Teflon-lined sealing caps (for securing reaction vessels)
+- Magnetic stir bar (for homogeneous mixing of CH₂Cl₂ suspensions with pyruvic acid solutions)
+
+#### Characterization Equipment
+- Powder X-ray diffractometer (instrument for confirming MOF crystallinity and isostructurality)
+- Scanning electron microscope (SEM) with energy-dispersive X-ray spectroscopy (EDS) capability (for morphology analysis and elemental distribution)
+- FTIR spectrometer (used in diffuse reflectance infrared Fourier transform spectroscopy, DRIFTS)
+- BET surface area analyzer (for N₂ adsorption measurements at 77 K)
+- Thermogravimetric analyzer (TGA; assesses framework stability)
+- X-ray photoelectron spectrometer (XPS; analyzes surface chemical states)
+- Solid-state NMR spectrometer (400 MHz, for structural analysis)
+- UV-Vis spectrophotometer (for optical data collection)
+
+#### Activation Equipment
+- Dynamic vacuum setup with temperature control (applied during desolvation at 120 °C)
+- Ar-filled glovebox (for handling activated MOF materials under inert atmosphere)
+- Tube furnace (generic high-temperature reactor for activation treatments)
+
+#### Reaction Equipment
+- Parr bomb reactor (25 mL, employed for post-synthetic modifications)
+- Teflon-lined caps (used in reaction vessel sealing)
+
+#### Product Analysis Equipment
+- Gas chromatograph (Agilent 7890B GC System coupled with a flame-ionization detector and a mass spectrometer, Agilent 5977A MSD; for analyzing catalytic oxidation products)
+
+#### Other Specific Equipment
+- Analytical balance (for precise measurement of reagents)
+- Magnetic stirrer (for continuous mixing during sample preparation)
+- Custom-made gas dosing manifold (ensures controlled O₂ dosing during reaction processes)
+
+This organized list captures all specific experimental equipment utilized throughout the MOF synthesis, post-synthetic modification, activation, and characterization workflows, providing clear equipment names and models where specified and offering concise generic descriptions otherwise.
+
+### 1.3 Common Laboratory Equipment
+
+A variety of common laboratory equipment plays a crucial role throughout the experimental workflow, from reagent handling to final product characterization. While certain instruments are used specifically in the MOF synthesis process, many devices serve general purposes such as facilitating reaction mixing, ensuring accurate measurements, and achieving precise heating or cooling conditions.
+
+#### Drying Equipment
+Drying is essential for desolvation and preparation of samples prior to analysis. In this context, a dynamic vacuum system is employed to remove residual solvents under controlled heating conditions (typically at 120 °C). Often, laboratories utilize specialized equipment such as:
+- Vacuum ovens, which provide the controlled environment necessary for solvent removal.
+- Freeze dryers and vacuum dryers, which can be used depending on the thermal sensitivity of the samples.
+
+#### Calcination Equipment
+High-temperature processing steps, such as calcination, require reliable and programmable heating devices. A muffle furnace is commonly utilized due to its capacity to offer uniform heat distribution during calcination. In some cases, tube furnaces or programmable ovens may be appropriate alternatives, particularly when precise temperature control is required for delicate post-synthetic treatments.
+
+#### Other Common Equipment
+A broad range of general laboratory tools is integrated into the MOF experimental procedure. These include:
+- Analytical balances for precise measurement of reagents like pyruvic acid and triethylamine.
+- Magnetic stirrers and stir bars to ensure uniform mixing during reagent preparation, post-synthetic cation exchange, and ligand exchange processes.
+- Filtration apparatus, such as Büchner funnels or glass fiber filters, to efficiently isolate solids during extended washing steps with solvents (CH₃CN and CH₂Cl₂).
+- Standard glassware, including 20 mL scintillation vials, beakers, and flasks, is essential for conducting reactions and handling reagents.
+- Pipettes and other liquid handling devices, which are critical for accurate addition of solvents and reagents.
+
+This equipment collectively ensures that all experimental conditions—from dynamic vacuum desolvation to high-temperature calcination and precise reagent handling—are maintained with high reproducibility, aligning with the advanced methodologies employed in preparing and evaluating high-spin iron(IV)-oxo frameworks.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+The synthesis of these MOF materials is achieved through post-synthetic modifications designed to provide precise control over metal substitution levels and ligand identity. For FexZn₅₋ₓ(prv)₄(btdd)₃, the process is divided into a post-synthetic cation exchange step followed by a ligand exchange with pyruvic acid. A comparable methodology is applied for the moba-based analogue (FeZn₄(moba)₄(btdd)₃) with adjustments to incorporate 3,3-dimethyl-2-oxobutanoic acid in place of pyruvic acid.
+
+• Comparative Analysis:  
+  - The two-step synthesis offers enhanced flexibility to adjust the iron content and ligand environment.  
+  - Use of a post-synthetic strategy minimizes framework disruption and maintains crystallinity, as confirmed by PXRD.  
+  - However, the requirement for multiple solvent washes and dynamic vacuum activation increases the overall complexity and may limit scalability compared to one-pot methods.
+
+### Step-by-step Experimental Procedures
+
+#### Solvothermal Method for Post-synthetic Cation and Ligand Exchange (FexZn₅₋ₓ(prv)₄(btdd)₃)
+1. Precursor Mixing/Dissolution  
+   - Suspend 0.120 g of Zn₅Cl₄(btdd)₃ in 2 mL CH₂Cl₂ within a 20 mL scintillation vial.
+2. Modulator or Structure-Directing Agent Addition  
+   - Add ferrous chloride to initiate cation exchange.  
+   - Dissolve 846 mg pyruvic acid in 18 mL CH₃CN, and include 1.34 mL triethylamine to deprotonate the acid; then add this solution to the suspension.
+3. Crystallization  
+   - Allow the reaction to proceed at 50 °C for 20 hours to promote crystallization.
+4. Cooling and Collection  
+   - Cool to room temperature and decant the supernatant; collect the resulting solid.
+5. Washing and Solvent Exchange  
+   - Perform sequential washes: four cycles with CH₃CN followed by three cycles with CH₂Cl₂, totalling 36 hours.
+6. Drying  
+   - Dry the solid using a rotary evaporator or under ambient conditions prior to activation.
+7. Activation  
+   - Heat the washed material under dynamic vacuum at 120 °C for 6–12 hours.
+8. Additional Post-treatments  
+   - If required, carry out mild post-synthetic modifications to fine-tune the ligand environment.
+
+#### Alternative Procedure for FeZn₄(moba)₄(btdd)₃  
+• Employ a similar sequence, substituting pyruvic acid with 3,3-dimethyl-2-oxobutanoic acid during the ligand exchange step.  
+• Maintain identical washing, drying, and activation parameters to ensure consistent crystallinity and robust framework formation.
+
+This detailed, stepwise procedure emphasizes precise reagent concentrations, controlled reaction conditions, and clearly defined washing protocols to ensure reproducibility and high-quality MOF synthesis.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+This section details the reagent preparation steps for each MOF material, ensuring full reproducibility through precise handling of solids and liquids as well as consistent mixing techniques.
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 FexZn₅₋ₓ(prv)₄(btdd)₃  
+- **FeZn₄Cl₄(btdd)₃**: Weighed 0.120 g using an analytical balance.
+
+##### 3.1.1.2 FeZn₄(moba)₄(btdd)₃  
+- **FeZn₄Cl₄(btdd)₃**: Weighed 0.120 g using an analytical balance.  
+- **3,3-Dimethyl-2-oxobutanoic acid (moba)**: Weighed 1.25 g.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 FexZn₅₋ₓ(prv)₄(btdd)₃  
+- **CH₂Cl₂**: Poured 2 mL into a 20 mL scintillation vial containing the weighed solid.  
+- **Pyruvic acid solution in CH₃CN with Triethylamine**: Transferred into the reaction vessel via pipetting to ensure accurate addition.
+
+##### 3.1.2.2 FeZn₄(moba)₄(btdd)₃  
+- **CH₂Cl₂**: Poured 2 mL into a 20 mL scintillation vial containing the weighed precursor.  
+- **CH₃CN**: Used to dissolve 3,3-dimethyl-2-oxobutanoic acid; 18 mL transferred using a graduated cylinder.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 FexZn₅₋ₓ(prv)₄(btdd)₃  
+- **Reaction mixture**: Mixed thoroughly after the addition of the CH₂Cl₂ and the pyruvic acid solution. The mixing was conducted under ambient temperature, ensuring complete ligand exchange as required by the post-synthetic procedure.
+
+##### 3.1.3.2 FeZn₄(moba)₄(btdd)₃  
+- **Reaction mixture**: Combined by stirring the dispersed FeZn₄Cl₄(btdd)₃ in CH₂Cl₂ and the moba solution in CH₃CN. The components were blended at ambient temperature until a homogenous suspension was achieved, facilitating effective ligand exchange.
+
+These detailed operations, specifying exact masses, volumes, transfer methods, and mixing conditions, are established to guarantee reproducibility. Minimal assumptions have been made, and each step is aligned with the defined synthesis conditions. The division into material-specific subsections allows researchers to accurately replicate the synthesis of either FexZn₅₋ₓ(prv)₄(btdd)₃ or FeZn₄(moba)₄(btdd)₃, ensuring that the nuances of reagent preparation—ranging from solid weighing precision to the methodical transfer of liquid reagents—are meticulously documented.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: FexZn₅₋ₓ(prv)₄(btdd)₃
+
+##### Step [1]: Precursor Preparation  
+- **Reagents**:  
+  - Zn₅Cl₄(btdd)₃ (0.120 g, 0.0951 mmol, 1.00 equiv)  
+  - FeCl₂: 50.0 mg (0.395 mmol, 4.14 equiv for x = 1) or 0.300 g (2.37 mmol, 24.9 equiv for x = 1.8)  
+  - N,N-Dimethylformamide (DMF, 20 mL)  
+- **Conditions**:  
+  - Heating at 50 °C for 20 hours with continuous stirring in a 20 mL reaction vial.  
+- **Process**:  
+  1. Dissolve Zn₅Cl₄(btdd)₃ and FeCl₂ in DMF.  
+  2. Ensure full dissolution by stirring and maintaining 50 °C for 20 hours.  
+- **Key Steps**:  
+  - Accurate reagent weighing and maintaining stirring ensure complete precursor formation.
+
+##### Step [2]: MOF Assembly (Post-Synthetic Exchange)  
+- **Reagents**:  
+  - Prepared precursor suspension  
+  - Pyruvic acid (846 mg, 9.61 mmol, 100 equiv) dissolved in 18 mL CH₃CN  
+  - Triethylamine (1.34 mL, 9.61 mmol, 100 equiv)  
+- **Conditions**:  
+  - The parent MOF is first suspended in 2 mL CH₂Cl₂ in a 20 mL vial, then mixed at room temperature for 24 hours.  
+- **Process**:  
+  1. Suspend 0.120 g of the parent MOF in CH₂Cl₂ with gentle stirring.  
+  2. Prepare the ligand solution in CH₃CN with triethylamine and transfer it to the suspension.  
+  3. Stir at room temperature for 24 hours to allow complete cation and ligand exchange.  
+- **Key Steps**:  
+  - Ensure full suspension and correct reagent addition order for reproducible exchange.
+
+##### Step [3]: Purification and Activation  
+- **Purification Process**:  
+  - Decant the supernatant and wash the solid residue by soaking in 20 mL CH₃CN (four times) followed by CH₂Cl₂ (three times), totaling 36 hours of washing.  
+- **Drying & Activation**:  
+  - Heat under dynamic vacuum at 120 °C for 6–12 hours.  
+- **Key Steps**:  
+  - Thorough washing and controlled desolvation are essential to maintain crystallinity.
+
+---
+
+#### MOF Preparation [2]: FeZn₄(moba)₄(btdd)₃
+
+##### Step [1]: Precursor and Ligand Exchange  
+- **Reagents**:  
+  - Similar initial framework (FeZn₄Cl₄(btdd)₃) suspended in CH₂Cl₂  
+  - 3,3-Dimethyl-2-oxobutanoic acid (moba) dissolved in CH₃CN  
+  - Triethylamine as base  
+- **Conditions & Process**:  
+  1. Suspend the framework in CH₂Cl₂.  
+  2. Prepare a solution of moba and triethylamine in CH₃CN, then transfer to the suspension.  
+  3. Stir at room temperature for 24 hours.  
+- **Key Steps**:  
+  - Careful reagent mixing and washing (using CH₃CN and CH₂Cl₂ for a combined 36-hour purification) ensure complete ligand exchange and preservation of the isostructural framework.
+
+##### General Notes  
+- All steps incorporate precise temperature control, appropriate stirring, and careful reagent addition order to ensure reproducibility.  
+- Monitoring each phase—precursor formation, exchange reactions, purification, and activation—allows for troubleshooting and consistent MOF crystallinity during scale-up.
+
+## 4. Characterization Methods
+
+### 4.1 Powder X-Ray Diffraction (PXRD)
+- **Operational Description**: PXRD was employed to assess the crystallinity and phase purity of the MOF samples. Samples were transferred directly from reaction environments into appropriate sample holders within an Ar‐filled glovebox to avoid moisture exposure.
+- **Instruments and Models**: Specific instrument details (manufacturer/model) were not provided.
+- **Characterization Conditions**: The analysis was completed under ambient laboratory conditions with precautions against air exposure; no detailed operating parameters (e.g., voltage, current) were reported.
+- **Test Parameters**: No precise 2θ range, step size or scan rate was mentioned.
+- **Key Notes**: Sample mounting avoided additional grinding steps, maintaining the as‐synthesized morphology.
+
+### 4.2 Gas Chromatography–Mass Spectrometry (GC-MS)
+- **Operational Description**: GC-MS was utilized to analyze reaction products from the catalytic oxidation tests, confirming the formation of oxidation products such as cyclohexanone, cyclohexanol, and acetic acid.
+- **Instruments and Models**: The article did not specify the GC-MS instrument’s manufacturer or model.
+- **Characterization Conditions**: Standard operating conditions for GC-MS were applied without explicit details on temperature programming or ionization parameters.
+- **Test Parameters**: The method relied on routine GC-MS scan settings for identification and quantification.
+- **Key Notes**: This analysis aided in correlating product composition with MOF catalytic performance.
+
+### 4.3 Mössbauer Spectroscopy
+- **Operational Description**: Mössbauer spectroscopy provided insights into the iron oxidation state and coordination environment, particularly targeting the detection of Fe(IV)=O intermediates.
+- **Instruments and Models**: No specific instrument model was noted.
+- **Characterization Conditions**: Measurements were conducted at 5 K under a magnetic field of 7 T.
+- **Test Parameters**: Spectra were fitted to reveal subspectra with parameters such as isomer shifts and quadrupole splittings.
+- **Key Notes**: The method is critical for distinguishing between high-spin iron(II), iron(III), and Fe(IV)=O species.
+
+### 4.4 BET Surface Area Analysis via N₂ Adsorption–Desorption
+- **Operational Description**: BET analysis was performed to determine the surface area and porosity of the MOF samples. Prior to measurement, samples were degassed under dynamic vacuum at 120 °C for 12 hours.
+- **Instruments and Models**: Specific details regarding the BET instrument were not provided.
+- **Characterization Conditions**: Measurements were carried out at 77 K using N₂ as the adsorptive.
+- **Test Parameters**: The BET method yielded high surface areas (~2130 and 2090 m²/g) with relative pressure ranges typical for such comparisons.
+- **Key Notes**: The degassing step was critical to ensure the removal of guest molecules and reliable subsequent adsorption data.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+The activation of the MOF frameworks involves a critical desolvation process designed to remove residual synthesis solvents, thereby preparing the materials for subsequent catalytic and adsorption applications. This procedure employs thermal treatment under dynamic vacuum, ensuring that the porous structure of the MOF is fully opened without compromising its crystallinity.
+
+#### 5.1.1 Activation Temperature
+- **Definition:** The activation temperature is crucial for providing sufficient thermal energy to overcome guest solvent-framework interactions and facilitate solvent evaporation.
+- **Experimental Conditions:** The MOF samples were heated at 120 °C during the activation process.
+- **Observations:** Maintaining the temperature at 120 °C was found to be optimal; it efficiently removed residual solvents while preserving the structural integrity and high surface area of the framework as confirmed by PXRD and BET analyses.
+
+#### 5.1.2 Activation Pressure
+- **Definition:** The application of dynamic vacuum lowers the ambient pressure, promoting rapid and complete solvent removal.
+- **Experimental Conditions:** Activation was performed under dynamic vacuum conditions. Although an exact numerical value for the vacuum is not specified, the dynamic vacuum setup continuously evacuates solvent vapors during the heating process.
+- **Observations:** The dynamic vacuum prevents solvent recondensation and enhances the overall desolvation efficiency, thereby maintaining the crystallinity and porosity of the MOF.
+
+#### 5.1.3 Activation Time
+- **Definition:** The duration of the activation process ensures that all residual solvent molecules are completely removed from the pore channels.
+- **Experimental Conditions:** The MOF samples were subjected to the activation process for a period ranging between 6 to 12 hours.
+- **Observations:** This activation time was sufficient to achieve complete desolvation without causing any degradation of the framework. The method effectively preserved the robust pore structure necessary for high catalytic performance and efficient adsorption.
+
+In summary, the activation protocol—comprising heating at 120 °C under dynamic vacuum for 6–12 hours—is integral to the desolvation step in MOF synthesis. This procedure not only guarantees complete removal of synthesis solvents but also plays a vital role in maintaining the structural and functional characteristics essential for the material’s performance in subsequent applications.
+
+### 5.2 Application/Performance Evaluation
+
+#### 5.2.1 Test Temperature
+- **Definition:** The test temperature is a critical parameter influencing reaction kinetics and product distribution in catalytic oxidation processes.
+- **Experimental Conditions:** For the cyclohexane oxidation experiments using the FexZn₅₋ₓ(prv)₄(btdd)₃ catalyst, the reaction was performed at 21 °C.
+- **Observations:** At 21 °C, the oxidation environment favored the formation of cyclohexanol, whereas lower temperatures (e.g., 195 K) led to altered product profiles with cyclohexanone formation, likely due to diffusion limitations.
+
+#### 5.2.2 Test Pressure
+- **Definition:** Test pressure directly impacts the oxidant availability and formation of reactive intermediates during the oxidation process.
+- **Experimental Conditions:** For both cyclohexane and ethane oxidation evaluations, the oxidation tests were conducted under 1 bar of O₂. In the high-pressure ethane oxidation test using the FeZn₄(moba)₄(btdd)₃ catalyst, 1 bar O₂ was maintained alongside a pressurized ethane atmosphere.
+- **Observations:** The prescribed O₂ pressure of 1 bar efficiently facilitated the generation of high-spin Fe(IV)=O species, contributing to effective substrate conversion.
+
+#### 5.2.3 Test Gas Composition
+- **Definition:** The reaction atmosphere, defined by its gas composition, affects catalyst selectivity and the stability of reactive intermediates.
+- **Experimental Conditions:** The catalytic oxidation of cyclohexane was carried out under a mixture consisting of O₂ and an inert argon atmosphere, ensuring controlled oxidant exposure. High-pressure ethane oxidation tests were performed with a gas mixture of 29 bar ethane combined with 1 bar O₂.
+- **Observations:** This gas composition was essential for achieving high overall yields (e.g., 82% in the ethane oxidation) and for controlling product distribution.
+
+#### 5.2.4 Test Flow Rate
+- **Definition:** In dynamic evaluations such as breakthrough experiments, the flow rate determines residence time and reaction efficiency.
+- **Experimental Conditions:** Specific flow rate parameters for dynamic tests were not explicitly reported.
+- **Observations:** Despite this, batch reactor experiments were precisely controlled, ensuring reproducibility.
+
+#### 5.2.5 Test Time
+- **Definition:** The duration of the catalytic test is linked to both conversion efficiency and catalyst stability.
+- **Experimental Conditions:** Catalytic oxidation reactions were conducted for 24 hours.
+- **Observations:** The prolonged reaction time allowed for high substrate conversion while PXRD analysis confirmed that the catalyst retained its crystallinity and porosity post-reaction.
+
+Additionally, supplementary experiments incorporated 100 equivalents of pyruvic acid as a co-substrate to enhance the formation of reactive intermediates, while product analysis was performed using ¹H NMR spectroscopy and GC-MS for precise yield and selectivity determination.
+
+## 6 Results
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** The crystal structure and phase purity of the MOFs were assessed using powder X-ray diffraction (PXRD) and, for the Zn analogue, single-crystal X-ray diffraction (SCXRD).
+- **Findings:** PXRD patterns of FexZn₅₋ₓ(prv)₄(btdd)₃ (x = 1, 1.8) and FeZn₄(moba)₄(btdd)₃ matched the simulated patterns derived from the single-crystal structure of Zn₅(prv)₄(btdd)₃, confirming isostructurality and high phase purity. The SCXRD analysis of Zn₅(prv)₄(btdd)₃ revealed a cubic structure (space group Fm-3m, a = 30.9085(3) Å).
+- **Observations:** No additional peaks or deviations were observed in PXRD after ligand exchange, O₂ dosing, or catalytic reactions, indicating retention of crystallinity and structural integrity.
+
+#### 6.1.2 Surface Area and Porosity
+- **Description:** Surface area and porosity were determined by nitrogen (N₂) adsorption isotherms at 77 K, with BET analysis.
+- **Findings:** FexZn₅₋ₓ(prv)₄(btdd)₃ exhibited BET surface areas of 2130 ± 12 m²/g (x = 1) and 2090 ± 15 m²/g (x = 1.8). FeZn₄(moba)₄(btdd)₃ displayed comparably high surface area, confirming substantial porosity.
+- **Observations:** The frameworks maintained high surface area and porosity after post-synthetic modifications and catalytic cycles, consistent with robust pore structures.
+
+#### 6.1.3 Thermal Stability
+- **Description:** Thermogravimetric analysis (TGA) was performed under N₂ to evaluate framework stability.
+- **Findings:** TGA of Fe₁.₈Zn₃.₂(prv)₄(btdd)₃ and FeZn₄(prv)₄(btdd)₃ showed stability up to the decomposition temperature, with analysis conducted from 30 to 600 °C at 2 °C/min.
+- **Observations:** The frameworks are thermally stable under inert atmosphere until decomposition, supporting their suitability for catalytic applications.
+
+#### 6.1.4 Morphology and Elemental Distribution
+- **Description:** Scanning electron microscopy (SEM) and energy-dispersive X-ray spectroscopy (EDS) were used to examine particle morphology and elemental homogeneity.
+- **Findings:** SEM images revealed well-formed, crystalline particles with no significant morphological changes after O₂ dosing or catalysis. EDS mapping confirmed homogeneous distribution of Fe, Zn, O, N, C, and Cl throughout the MOF particles.
+- **Observations:** No evidence of phase segregation or particle aggregation was detected, indicating preservation of morphology and uniform metal incorporation.
+
+#### 6.1.5 Chemical Composition and Coordination Environment
+- **Description:** Elemental analysis, inductively coupled plasma optical emission spectroscopy (ICP-OES), and advanced spectroscopies (Mössbauer, MCD, EPR) were employed to determine composition and metal site characteristics.
+- **Findings:** ICP-OES quantified Fe:Zn ratios, confirming targeted substitution. Mössbauer spectra at 5 K showed a major doublet (δ ≈ 1.06 mm/s, |ΔE_Q| ≈ 2.57 mm/s) consistent with high-spin, five-coordinate Fe(II). Upon O₂ dosing, a new doublet (δ ≈ 0.3 mm/s, |ΔE_Q| ≈ 0.61 mm/s) appeared, assigned to a high-spin (S = 2) Fe(IV)=O species, which disappeared upon warming, indicating its transient nature. MCD and EPR corroborated the high-spin state and coordination environment.
+- **Observations:** Elemental and spectroscopic analyses confirmed quantitative ligand exchange, homogeneous Fe incorporation, and the absence of linker decomposition.
+
+#### 6.1.6 Vibrational and Isotopic Characterization
+- **Description:** Diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) was used to probe vibrational features, including Fe=O stretches.
+- **Findings:** DRIFTS revealed a new band at 831 cm⁻¹ upon O₂ dosing at 100 K, assigned to the Fe(IV)=O stretch. Isotopic substitution with ¹⁸O₂ shifted this band to 796 cm⁻¹, confirming the assignment. Additional bands indicated CO₂ formation and Fe(III)–OH species upon Fe(IV)=O decay.
+- **Observations:** The vibrational features and their isotopic shifts, supported by DFT calculations, provided strong evidence for the formation and reactivity of the Fe(IV)=O intermediate.
+
+---
+
+These comprehensive characterization results confirm the successful synthesis, structural integrity, high porosity, thermal stability, and the presence of reactive iron-oxo species in the MOF materials, underpinning their function as biomimetic catalysts.
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Gas Adsorption Capacity
+- **Description:** Gas adsorption capacity is quantified by the Brunauer–Emmett–Teller (BET) surface area, measured via N₂ adsorption at 77 K. This metric reflects the accessible porosity of the MOF, which is critical for substrate diffusion and catalytic performance.
+- **Experimental Data:**  
+  - FeZn₄(prv)₄(btdd)₃ (x = 1): 2130 ± 12 m²/g  
+  - Fe₁.₈Zn₃.₂(prv)₄(btdd)₃ (x = 1.8): 2090 ± 15 m²/g  
+  - FeZn₄(moba)₄(btdd)₃: 2180 ± 11 m²/g  
+- **Observations and Trends:**  
+  All frameworks exhibit high surface areas, confirming permanent porosity. BET values remain largely unchanged after catalytic reactions, indicating robust structural integrity.
+
+#### 6.2.2 Catalytic Activity in Hydrocarbon Oxidation
+- **Description:** Catalytic activity is assessed by the yield of oxidation products (cyclohexanol, cyclohexanone, ethanol, acetaldehyde) relative to the number of Fe sites, typically determined by ^1H NMR integration against an internal standard and confirmed by GC-MS.
+- **Experimental Data:**  
+  - *Cyclohexane oxidation (stoichiometric, 21 °C, 1 bar O₂):*  
+    - FeZn₄(prv)₄(btdd)₃: Cyclohexanol yield 22–24% (relative to Fe), no cyclohexanone detected.  
+    - FeZn₄(moba)₄(btdd)₃: Cyclohexanol yield 51% (relative to Fe), no cyclohexanone at room temperature.  
+  - *Cyclohexane oxidation (catalytic, with 11 equiv pyruvic acid):*  
+    - Cyclohexanol: 33%, cyclohexanone: 70%, combined yield: 173% (relative to Fe), product ratio (A:K) 2.1:1.  
+    - Acetic acid byproduct: 288%.  
+  - *Ethane oxidation (high-pressure):*  
+    - Ethanol and acetaldehyde (3:1 ratio), combined yield: 82%.  
+- **Observations and Trends:**  
+  The frameworks efficiently catalyze selective hydrocarbon oxidation, with product distribution tunable by ligand environment and reaction conditions. The presence of pyruvic acid enhances overall yield and enables formation of both alcohol and ketone products.
+
+#### 6.2.3 Selectivity and Kinetic Isotope Effect
+- **Description:** Selectivity is defined as the preferential formation of one product over another, while the kinetic isotope effect (KIE) quantifies the rate difference between C–H and C–D bond activation, providing mechanistic insight.
+- **Experimental Data:**  
+  - *Selectivity:*  
+    - FeZn₄(prv)₄(btdd)₃: High selectivity for cyclohexanol at 21 °C; cyclohexanone formed at lower temperatures or with excess pyruvic acid.  
+    - FeZn₄(moba)₄(btdd)₃: Cyclohexanol at 21 °C, cyclohexanone at 195 K (48% yield).  
+  - *KIE (cyclohexane vs. cyclohexane-d₁₂):*  
+    - KIE = 29.8 ± 1.0  
+- **Observations and Trends:**  
+  The large KIE indicates a C–H bond activation mechanism involving a high-spin Fe(IV)=O intermediate. Product selectivity is modulated by ligand structure and temperature.
+
+#### 6.2.4 Structural and Cycling Stability
+- **Description:** Stability is evaluated by retention of crystallinity (PXRD) and porosity (BET surface area) after catalytic cycles.
+- **Experimental Data:**  
+  - PXRD patterns after reaction match those of pristine materials, confirming crystallinity.  
+  - BET surface area after catalysis: e.g., FeZn₄(prv)₄(btdd)₃ retains 1980 ± 23 m²/g.  
+- **Observations and Trends:**  
+  The frameworks maintain structural integrity and porosity after catalytic reactions, supporting their reusability and robustness as heterogeneous catalysts.
+
+#### 6.2.5 Formation and Reactivity of Fe(IV)=O Species
+- **Description:** The formation of a high-spin Fe(IV)=O intermediate is monitored by Mössbauer spectroscopy and DRIFTS, correlating with catalytic performance.
+- **Experimental Data:**  
+  - Mössbauer: New doublet (δ ≈ 0.26–0.30 mm/s, |ΔE_Q| ≈ 0.57–0.61 mm/s) upon O₂ dosing, assigned to Fe(IV)=O.  
+  - DRIFTS: Fe=O stretch at 831 cm⁻¹ (shifts to 796 cm⁻¹ with ¹⁸O₂).  
+  - Fe(IV)=O content increases to ~20% at 125–150 K under O₂.  
+- **Observations and Trends:**  
+  The generation of Fe(IV)=O is essential for catalytic C–H activation. Its formation is facilitated by pyruvate or moba ligands and correlates with observed oxidation activity and selectivity.
+

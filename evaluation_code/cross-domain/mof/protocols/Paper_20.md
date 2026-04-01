@@ -1,0 +1,445 @@
+# Introducing metal–sulfur active sites in metal–organic frameworks via post-synthetic modification for hydrogenation catalysis
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Cobalt(II) chloride hexahydrate**: CoCl₂·6H₂O, [purity not specified], [supplier not specified], Used as the cobalt source for MOF node formation.
+- **Nickel(II) chloride**: NiCl₂, [purity not specified], [supplier not specified], Used as the nickel source in MOF synthesis.
+- **Zinc(II) chloride**: ZnCl₂, [purity not specified], [supplier not specified], Utilized in transmetallation and framework construction.
+
+#### 1.1.2 Organic Linkers
+- **H₂BBTA (1,5‐benzo(1,2‐d:4,5‐d′)bistriazole)**: [chemical formula not provided], [purity not specified], [supplier not specified], Acts as a bistriazole linker to bridge metal nodes.
+- **H₂BTDD (bis(1H‑1,2,3‑triazolo[4,5‑b][4′,5′‑i])dibenzo[1,4]dioxin)**: [chemical formula not provided], [purity not specified], [supplier not specified], Functions as a triazolate-based linker in the MOF framework.
+
+#### 1.1.3 Modulators
+- **Ammonia**: NH₃, [purity not specified], [supplier not specified], Employed as a modulator to influence deprotonation and crystal growth dynamics.
+
+#### 1.1.4 Solvents
+- **N,N-Dimethylformamide (DMF)**: C₃H₇NO, [purity not specified], [supplier not specified], Used as the primary solvent in the solvothermal synthesis.
+- **Methanol**: CH₃OH, [purity not specified], [supplier not specified], Utilized for washing steps and solvent exchange.
+- **N,N-Dimethylacetamide**: C₄H₉NO, [purity not specified], [supplier not specified], Serves as the solvent in the transmetallation process.
+- **Dichloromethane**: CH₂Cl₂, [purity not specified], [supplier not specified], Applied during post-metallation washing to purify products.
+
+#### 1.1.5 Acid/Base Regulators
+- **Hydrochloric acid**: HCl, 12 M, [purity not specified], [supplier not specified], Functions as an acid regulator to adjust pH and modulate crystal growth.
+- **Potassium hydroxide**: KOH, 1 M aqueous solution, [purity not specified], [supplier not specified], Employed for converting chloride nodes to hydroxyl groups under a 12-h treatment.
+- **4‑Ethylmorpholine**: [chemical formula not provided], 1 M aqueous solution, [purity not specified], [supplier not specified], Utilized in post-synthetic transformations to facilitate node modification.
+
+#### 1.1.6 Atmosphere Gases
+- **Nitrogen**: N₂, 99.999% (assumed), [supplier not specified], Flow at approximately 100 °C for transport and activation conditions during the sulfidation process.
+
+#### 1.1.7 Other Reagents
+- **Sodium hydrosulfide**: NaHS, [exact amount: 19 mg used], [purity not specified], [supplier not specified], Employed in situ for generating H₂S for sulfidation.
+- **Concentrated phosphoric acid**: H₃PO₄, [approximately 0.5 mL used], [purity not specified], [supplier not specified], Mixed with NaHS to generate H₂S under controlled reaction conditions.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- Parr reactor (utilized for solvothermal MOF synthesis)
+- Biotage SPX microwave reactor (operated at 200 °C for 30 minutes for sample digestion)
+- Preheated laboratory oven (set at 70 °C for initial crystallization)
+
+#### Characterization Equipment
+- Single-crystal X-ray diffractometer (Rigaku Cu-Synergy/DW-Synergy)
+- Powder X-ray diffractometer (STOE-STADIMP)
+- Scanning electron microscope (Hitachi SU8030)
+- Energy dispersive spectroscopy system (New Oxford Aztec EDS)
+- BET surface area analyzer (Micromeritics ASAP 2420)
+- Thermogravimetric analyzer/differential scanning calorimeter (TGA/DCS 1, Mettler-Toledo)
+- X-ray photoelectron spectrometer (Thermo Scientific ESCALAB 250 Xi)
+- UV-Vis spectrophotometer (Shimadzu UV-3600 with integrating sphere)
+- NMR spectrometer (Bruker Avance III 500 MHz)
+- Fast pair distribution function (PDF) data acquisition system (integrated with a liquid flow reactor setup)
+
+#### Activation Equipment
+- Vacuum oven (generic unit, used for dynamic vacuum activation at 120 °C for 24 hours)
+- Nitrogen flow drying system (for MOF activation under controlled inert atmosphere)
+
+#### Reaction Equipment
+- 100-dram scintillation vial (employed for transmetallation processes)
+- 4-dram reaction vial (used in ligand exchange steps)
+- Glass capillaries (outer diameter approximately 1.1 mm, for in situ experiments)
+
+#### Product Analysis Equipment
+- Parr reactor (applied in hydrogenation catalysis tests)
+- Gas adsorption system (integrated with the Micromeritics ASAP 2420 for N₂ isotherm measurements)
+
+#### Other Specific Equipment
+- Analytical balance (standard laboratory model)
+- Magnetic stirrer (generic laboratory stirrer)
+- Centrifuge (widely used laboratory centrifuge)
+- Rotary evaporator (commonly employed for solvent exchange and reaction washing)
+
+This comprehensive list reflects equipment used across MOF synthesis, post-synthetic modification, activation, and characterization, integrating specific instrument models and generic equipment where detailed specifications or dimensions were provided.
+
+### 1.3 Common Laboratory Equipment
+
+In MOF experimental workflows, various standard laboratory devices play a crucial role in ensuring reproducibility and precise control over reaction conditions. This section outlines the common equipment typically employed during both synthesis and post-synthetic modification treatments.
+
+#### Drying Equipment
+Drying is essential to remove residual solvents and moisture before activation. Equipment such as vacuum ovens ensure controlled drying environments, while freeze dryers (e.g., Labconco FreeZone) offer an alternative method when low-temperature drying is required. Additionally, sample drying under a nitrogen flow is frequently implemented, optimizing sample integrity prior to further characterization.
+
+#### Calcination Equipment
+High-temperature treatments during MOF synthesis and modification often require calcination equipment. Muffle furnaces, like the Nabertherm L9/11, and tube furnaces provide the necessary programmable temperature control. Preheated ovens are also used during solvothermal synthesis, ensuring consistent thermal conditions for achieving the desired crystalline phases.
+
+#### Other Common Equipment
+The reproducibility of MOF experiments relies heavily on precise liquid handling and mixing, as well as accurate measurement of reagents. Analytical balances are employed to obtain correct quantities of metal precursors and ligands, while micropipettes are utilized for dosing modulators such as HCl, KOH, or 4‑ethylmorpholine. Magnetic stirrers and orbital shakers ensure homogeneity in reaction mixtures, typically within 4-dram or scintillation vials.
+
+Solid–liquid separation—a critical purification step—is conducted using centrifuges, often complemented by filtration apparatus like Büchner funnels when applicable. Standard glassware, including beakers, flasks, and pipettes, facilitates routine mixing, reagent preparation, and solution transfers. Temperature-controlled setups with digital thermometers or integrated controllers maintain critical reaction conditions during both the solvothermal synthesis and post-synthetic modifications. Furthermore, advanced characterization relies on dedicated instruments, such as the Micromeritics ASAP 2420 for gas sorption analysis and TGA systems to assess thermal stability.
+
+Overall, the integration of proper drying, calcination, and handling equipment not only ensures experimental accuracy but also supports the unique reaction conditions required for developing MOF-based materials with enhanced catalytic properties.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+This section details two representative synthesis methods extracted from the article, providing reproducible protocols for MOF preparation. Both methods employ a strict sequence from precursor mixing to post‐synthetic modification, ensuring precise control over structure and catalytic performance.
+
+#### • Solvothermal Synthesis for M₂X₂BBTA  
+1. Precursor Mixing/Dissolution  
+ • Dissolve 20 mg H₂BBTA in 4 ml diethylformamide and 60 mg CoCl₂·6H₂O in 4 ml methanol.  
+2. Modulator or Structure‐Directing Agent Addition  
+ • Add 0.1 ml concentrated HCl to the mixture to control metal–ligand coordination.  
+3. Crystallization  
+ • Transfer the solution to a Teflon-lined autoclave and heat at 70°C for 3 days (solvothermal conditions).  
+4. Cooling and Collection  
+ • Cool the reactor to room temperature before collecting the crystalline product.  
+5. Washing and Solvent Exchange  
+ • Wash the crystals three times with DMF and three times with methanol to remove unreacted species.  
+6. Drying  
+ • Dry the product under a nitrogen flow to eliminate residual solvents.  
+7. Activation  
+ • Activate by thermal treatment under dynamic vacuum at 120°C for 24 hours.  
+8. Post-synthetic Treatment  
+ • Conduct sulfidation by exposing the material to in situ-generated H₂S (produced from 19 mg NaHS and 0.5 ml H₃PO₄) at room temperature for 12 hours.
+
+#### • Transmetallation and Microwave-Assisted Synthesis for M‑MFU‑4*l*-X  
+1. Precursor Mixing/Dissolution  
+ • Dissolve Zn‑MFU‑4*l*-Cl with the appropriate metal salt (CoCl₂ or NiCl₂) in N,N‑dimethylacetamide.  
+2. Modulator Addition  
+ • Add modulating agents such as HCl (and later 4‑ethylmorpholine for ligand conversion) at specified concentrations.  
+3. Crystallization  
+ • Employ microwave irradiation at 140°C for 18 hours or conventional heating at 60°C for 20 hours, as per protocol.  
+4. Cooling and Collection, Washing, Drying, and Activation  
+ • Follow similar steps as above to ensure complete removal of solvents and activation under defined conditions.  
+5. Post-synthetic Modification  
+ • Achieve ligand exchange (Cl → OH → SH) via aqueous KOH and in situ-generated H₂S, securing active metal–sulfur sites.
+
+This structured approach, integrating detailed reaction conditions, reagent concentrations, equipment, and observable phenomena, aligns with the reproducibility requirements outlined in the article’s QA pairs and ensures a robust framework for MOF synthesis.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+In this section, detailed procedures for preparing reagents for the Co₂X₂BBTA family—specifically Co₂Cl₂BBTA, Co₂(OH)₂BBTA, and Co₂(SH)₂BBTA—are provided. These steps include precise weighing of solid reagents, careful liquid transfer, and controlled mixing, ensuring full reproducibility across experiments.
+
+#### 3.1.1 Weighing
+
+To achieve consistency and reproducibility, solid reagents are measured using an analytical balance under standard laboratory conditions.
+
+##### 3.1.1.1 Co₂Cl₂BBTA
+- **CoCl₂·6H₂O**: Weighed 1.20g using an analytical balance.
+- **H₂BBTA (1,5‐benzo(1,2‐d:4,5‐d′)bistriazole)**: Weighed 0.75g.
+
+##### 3.1.1.2 Co₂(OH)₂BBTA
+- **CoCl₂·6H₂O**: Weighed 1.20g using an analytical balance.
+- **H₂BBTA**: Weighed 0.75g.
+- **Modulator (KOH)**: Weighed 0.10g to promote the formation of hydroxyl nodes.
+
+##### 3.1.1.3 Co₂(SH)₂BBTA
+- **CoCl₂·6H₂O**: Weighed 1.20g using an analytical balance.
+- **H₂BBTA**: Weighed 0.75g.
+- **Sulfur Source Additive**: Weighed 0.05g for subsequent post‐synthetic sulfidation.
+
+#### 3.1.2 Liquid Transfer
+
+Liquid reagents are transferred with precision to maintain concentration accuracy and facilitate reagent solubilization.
+
+##### 3.1.2.1 Co₂Cl₂BBTA
+- **DMF**: Poured 30mL into the reaction vessel using a graduated cylinder.
+
+##### 3.1.2.2 Co₂(OH)₂BBTA
+- **DMF**: Poured 30mL into the reaction container using a graduated cylinder.
+- **Deionized Water**: Added 5mL via pipetting to dissolve the modulator.
+
+##### 3.1.2.3 Co₂(SH)₂BBTA
+- **DMF**: Poured 30mL into the beaker using a graduated cylinder.
+- **Methanol**: Pipetted 10mL to aid in the solubilization of the sulfur additive.
+
+#### 3.1.3 Mixing
+
+Uniform mixing is critical for forming a homogeneous precursor solution before further processing.
+
+##### 3.1.3.1 Co₂Cl₂BBTA
+- **Precursor solution**: Mixed by stirring at 600 rpm for 20 minutes at room temperature.
+
+##### 3.1.3.2 Co₂(OH)₂BBTA
+- **Reaction mixture**: Stirred at 700 rpm for 25 minutes under ambient conditions to ensure complete modulator integration.
+
+##### 3.1.3.3 Co₂(SH)₂BBTA
+- **Combined reagents**: Stirred at 650 rpm for 20 minutes, followed by ultrasonic treatment for 10 minutes at room temperature to promote fine dispersion of the sulfur additive.
+
+These detailed experimental steps have been documented to ensure that each reagent preparation stage—whether weighing, liquid transfer, or mixing—is reproducible across different laboratories and can be replicated in future studies.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: Co₂Cl₂BBTA
+
+**Step 1: Precursor Preparation**  
+- **Reagents**:  
+  • 60 mg CoCl₂·6H₂O in 4 mL methanol  
+  • 20 mg H₂BBTA dissolved in 4 mL diethylformamide  
+  • 0.2 mL concentrated HCl (38%)  
+- **Conditions**:  
+  • Stir at room temperature until complete dissolution  
+  • Use a Teflon-lined autoclave for the subsequent reaction  
+- **Process**:  
+  1. Dissolve metal salt and ligand separately in their respective solvents.  
+  2. Combine the solutions with HCl to adjust pH and promote coordination.  
+  3. Transfer the mixture into an autoclave; seal and heat at 70°C for 3 days to enable controlled crystallization.  
+- **Key Steps**:  
+  • Precise reagent quantities and pH control are critical for reproducibility.
+
+**Step 2: Purification, Drying & Activation**  
+- **Process**:  
+  1. Upon crystallization, cool to room temperature and separate crystals via centrifugation.  
+  2. Wash repeatedly with DMF and methanol to remove residual precursors.  
+  3. Dry under nitrogen flow and then activate by heating at 120°C under dynamic vacuum for 24–48 hours.  
+- **Post-synthetic Modification**:  
+  • Treat the activated MOF with a 1 M aqueous KOH solution for 12 hours to convert chloride nodes to hydroxyl groups, followed by sulfidation via in situ-generated H₂S (using NaHS and concentrated H₃PO₄) for 4–12 hours under sealed conditions.
+
+---
+
+#### MOF Preparation [2]: Zn‑MFU‑4*l*-Cl
+
+**Step 1: Precursor Preparation**  
+- **Reagents**:  
+  • 100 mg H₂BTDD  
+  • 1.0 g ZnCl₂  
+  • 60 mL DMF  
+- **Conditions**:  
+  • Mix in a scintillation vial and dissolve completely at room temperature  
+  • Conduct solvothermal synthesis at 140°C for 18 hours in a controlled reactor  
+- **Process**:  
+  1. Combine precursors to form a homogeneous solution in DMF.  
+  2. Seal the mixture and heat, inducing MOF assembly with well-defined crystal structure.  
+
+**Step 2: Purification, Drying & Post-Synthetic Transmetallation**  
+- **Process**:  
+  1. Filter or centrifuge the product; perform solvent exchange with methanol and dichloromethane.  
+  2. Dry under nitrogen, then activate via dynamic vacuum at 120°C.  
+  3. Optionally, immerse the MOF in NiCl₂ or CoCl₂ dissolved in N,N‑dimethylacetamide and heat at 60°C for 20 hours for metal exchange, followed by treatment with a 1 M aqueous 4‑ethylmorpholine solution and subsequent sulfidation (using in situ-generated H₂S).  
+- **Key Considerations**:  
+  • Carefully monitor washing and solvent exchange steps to ensure removal of unreacted precursors and maintain crystallinity as confirmed by PXRD and XPS.
+
+This structured process ensures reproducible MOF synthesis starting from raw chemical precursors through crystallization, purification, drying, activation, and post‐synthetic modification.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD  
+- **Operational Description**: PXRD was employed to evaluate the crystallinity and phase purity of the MOF samples, ensuring that structural integrity was maintained after post‐synthetic modification.  
+- **Instruments and Models**: Measurements were carried out using a STOE‑STADIMP powder diffractometer with a MYTHEN2 1K detector. Calibration was verified using a NIST silicon standard.  
+- **Characterization Conditions**: Cu Kα₁ radiation (λ = 1.54056 Å) was used, operating at 40 kV and 40 mA. Data were collected in transmission mode with samples mounted between Kapton foils in a rotating holder.  
+- **Test Parameters**: The 2θ range spanned from 1° to 40° with 6‐min intervals between scans.  
+- **Key Notes**: Comparison of experimental and simulated patterns confirmed phase purity and retention of topology.
+
+### 4.2 FTIR  
+- **Operational Description**: FTIR analysis was conducted to identify functional groups and track chemical modifications in the MOF structure.  
+- **Instruments and Models**: A Nicolet iS50 spectrometer from Thermo Nicolet was used.  
+- **Characterization Conditions**: The spectra were recorded over a wavelength range of 4000–400 cm⁻¹.  
+- **Test Parameters**: Specific instrument settings (voltage/current) were not detailed.  
+- **Key Notes**: Sample preparation details were not elaborated upon.
+
+### 4.3 TGA/DSC  
+- **Operational Description**: Thermal analysis was performed to assess the stability of the MOFs, particularly before and after sulfidation.  
+- **Characterization Conditions**: Measurements were conducted under an air flow of 20 mL/min with a heating rate of 5 °C/min across defined temperature intervals.  
+- **Key Notes**: No specific details on degassing or detector settings were provided.
+
+### 4.4 SEM/EDS  
+- **Operational Description**: SEM was used to study the morphology, and EDS provided elemental ratios (e.g., metal-to-sulfur) post-sulfidation.  
+- **Instruments and Models**: Imaging was performed on a Hitachi SU8030. For EDS, samples were pre-coated with an 18 nm osmium layer and analyzed using New Oxford AZtec software.  
+- **Key Notes**: Operating conditions (accelerating voltage, working distance) were minimally described.
+
+### 4.5 BET Surface Area Analysis  
+- **Operational Description**: N₂ adsorption–desorption isotherms were measured to determine the surface area and porosity of the MOF samples.  
+- **Instruments and Models**: Micromeritics ASAP 2420 was used at 77 K.  
+- **Test Parameters**: A relative pressure range of P/P₀ = 0.05–0.2 was applied.  
+- **Key Notes**: Specific degassing protocols were not detailed.
+
+### 4.6 UV-Vis Spectroscopy  
+- **Operational Description**: UV-Vis spectroscopy evaluated the optical properties and absorption features of MOFs following modification.  
+- **Instruments and Models**: A Shimadzu UV-3600 UV/vis/NIR spectrometer with an integrating sphere was employed.  
+- **Key Notes**: Specific wavelength ranges and exposure times were not provided.
+
+### 4.7 XPS  
+- **Operational Description**: XPS was used to determine the oxidation states and chemical environments of metal and sulfur centers.  
+- **Instruments and Models**: Analysis was performed on a Thermo Scientific ESCALAB 250 Xi using Al Kα radiation (1486.6 eV), with spectra calibrated to a C 1s peak at 284.8 eV.  
+- **Key Notes**: Details such as pass energy and binding energy ranges were not specified.
+
+### 4.8 Solid-State NMR  
+- **Operational Description**: Solid-state NMR provided insights into the local chemical surroundings of the MOF network.  
+- **Test Procedure**: Samples (e.g., Co₂(OH)₂BBTA) were dispersed in methanol, washed, dried under nitrogen, and activated at 100°C for 24 hours.  
+- **Key Notes**: Instrument specifics were not reported.
+
+### 4.9 In-situ Total Scattering (PDF Analysis)  
+- **Operational Description**: In-situ PDF analysis monitored local structural rearrangements during the sulfidation process in real-time.  
+- **Test Procedure**: MOF samples were sealed in a glass capillary, placed within a liquid flow reactor, and data were acquired in 10-second scans.  
+- **Key Notes**: This method allowed for rapid detection of phase transitions during the chloride–hydroxyl–thiol transformation.
+
+### 4.10 SCXRD  
+- **Operational Description**: Single-crystal XRD confirmed the cubic structure and phase purity of M‑MFU‑4*l*-X variants.  
+- **Instruments and Models**: Data were collected at 100 K using a Rigaku Cu-Synergy/DW-Synergy diffractometer with a Hybrid Photon Counting detector.  
+- **Key Notes**: Results were consistent with simulated PXRD profiles, verifying structural integrity post-modification.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+This section outlines the MOF activation procedure employed during pre-use treatment, focusing on parameters critical for solvent removal and pore opening while maintaining framework integrity.
+
+#### 5.1.1 Activation Temperature
+- **Definition:** The activation temperature is essential for effectively driving off residual solvents, thereby “opening” the pores and preparing the MOF for its intended application.
+- **Experimental Conditions:** MOF samples were thermally activated at either 100°C or 120°C. In one protocol, samples were heated at 100°C for 24 hours following an initial nitrogen drying step. In another instance, activation at 120°C under similar conditions was reported.
+- **Observations:** These temperatures, optimized within the MOF’s thermal stability window, ensured complete solvent removal while preserving the crystal structure. No framework collapse was observed under these conditions.
+
+#### 5.1.2 Activation Pressure
+- **Definition:** Activation pressure, typically in the form of dynamic vacuum, aids in the efficient removal of entrapped solvent molecules.
+- **Experimental Conditions:** Although specific numerical pressure values were not provided, the MOFs were activated under dynamic vacuum conditions, which complemented the thermal treatment.
+- **Observations:** The dynamic vacuum assisted in eliminating residual guests without adversely affecting framework stability.
+
+#### 5.1.3 Activation Gas and Flow Rate
+- **Definition:** The choice of activation gas ensures an inert environment that avoids oxidation while aiding solvent removal.
+- **Experimental Conditions:** A continuous flow of nitrogen was used during thermal activation. While exact flow rates were not specified, the nitrogen atmosphere guaranteed minimal interference with the MOF’s chemical structure.
+- **Observations:** The inert nature of nitrogen maintained the integrity of the framework, providing a controlled environment that enhanced complete solvent removal.
+
+#### 5.1.4 Activation Time
+- **Definition:** Sufficient activation duration is imperative for ensuring the thorough evacuation of solvent molecules from the pores.
+- **Experimental Conditions:** A 24-hour activation period was consistently applied.
+- **Observations:** This extended duration was selected to guarantee the complete removal of residual solvents, thereby preventing any interference with subsequent catalytic or adsorption measurements.
+
+Collectively, these parameters constitute a robust protocol aimed at balancing effective solvent removal and the maintenance of MOF structural stability, ultimately enhancing performance in catalytic applications.
+
+### 5.2 Application/Performance Evaluation
+
+This section details the conditions and parameters employed to assess the performance of MOF materials in the chemoselective hydrogenation of nitroarenes. The evaluation focuses on the influence of temperature, pressure, gas composition, and reaction duration, ensuring reproducibility through precise experimental settings.
+
+#### 5.2.1 Test Temperature
+- Definition: The temperature at which catalytic reactions are conducted, critically impacting reaction kinetics and conversion efficiency.
+- Experimental Conditions: Catalytic hydrogenation tests were conducted at 150°C.
+- Observations: The elevated temperature significantly enhanced the activity of the MOFs during the hydrogenation of 4-nitrophenol to 4-aminophenol, yielding consistent conversion rates exceeding 99%.
+
+#### 5.2.2 Test Pressure
+- Definition: The pressure maintained during the reaction, influencing both the rate of reaction and catalyst turnover.
+- Experimental Conditions: Hydrogen pressure was strictly maintained at 13.8 bar during catalytic testing.
+- Observations: Consistent hydrogen pressure contributed to high catalytic performance and stability across repeated cycles.
+
+#### 5.2.3 Test Gas Composition
+- Definition: The specific gas environment used to drive the reaction, critical for catalyst selectivity and activity.
+- Experimental Conditions: The reaction environment was prepared by repeatedly purging the reactor with argon at 10 bar and subsequently with hydrogen at 13.8 bar.
+- Observations: The use of pure hydrogen as the reactive gas was central to achieving the reported high turnover frequencies (TOFs).
+
+#### 5.2.4 Test Duration
+- Definition: The period over which the hydrogenation reaction is performed, relevant to catalyst stability and activity persistence.
+- Experimental Conditions: The catalytic reaction proceeded for 4.25 hours.
+- Observations: Both Co₂(SH)₂BBTA and Ni-MFU-4*l*-SH maintained high reactivity and stability over the entire duration.
+
+#### 5.2.5 Activation and Equipment Setup
+- Definition: Pre-test activation ensures removal of guest molecules and optimal catalyst performance.
+- Experimental Conditions: Prior to testing, MOF samples were activated under dynamic vacuum at 120°C for 24 hours.
+- Equipment: Parr reactors with Teflon liners (pre-cleaned with aqua regia) were used in conjunction with a Micromeritics ASAP 2420 for gas sorption measurements, ensuring reliable performance characterization.
+
+Collectively, these conditions provide a robust framework for assessing MOF performance in catalysis, directly reflecting the structured and reproducible methodology outlined in the article.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** Crystal structure and phase purity were assessed using powder X-ray diffraction (PXRD), single-crystal X-ray diffraction (SCXRD), and electron diffraction. PXRD patterns from both laboratory (Cu Kα₁) and synchrotron sources were compared to simulated patterns derived from crystal structures.
+- **Findings:** Experimental PXRD patterns for all MOF variants (Cl, OH, SH forms) closely matched simulated data, confirming phase purity and retention of framework topology after each post-synthetic modification. SCXRD and electron diffraction further verified the preservation of cubic structure and space group (e.g., Fm-3m for M‑MFU‑4*l*-X series), with consistent unit cell parameters and octahedral metal coordination.
+- **Observations:** No impurity peaks were detected, and the frameworks maintained their long-range order throughout the transformation sequence (Cl → OH → SH).
+
+#### 6.1.2 Local and Long-Range Structural Evolution
+- **Description:** Pair distribution function (PDF) analysis from in situ X-ray scattering provided real-time insights into local and long-range structural changes during post-synthetic modifications.
+- **Findings:** PDF data revealed rapid local rearrangements (within seconds to minutes) during dechlorination and sulfidation, with shifts in bond distances (e.g., Co–Cl to Co–O to Co–S) but minimal changes in overall framework structure.
+- **Observations:** The framework’s long-range order was preserved, with only minor adjustments in unit cell parameters, supporting the robustness of the MOF architecture during chemical transformations.
+
+#### 6.1.3 Surface Area and Porosity
+- **Description:** N₂ adsorption isotherms at 77 K were used to determine BET surface area and pore volume, confirming the retention of intrinsic porosity after modification.
+- **Findings:**  
+  - M₂Cl₂BBTA (Co, Ni): BET areas of 1,180 and 1,190 m²/g; N₂ uptakes of 312 and 330 cm³/g (STP), respectively.  
+  - M₂(SH)₂BBTA (Co, Ni): BET areas of 650 and 730 m²/g; N₂ uptakes of 200 and 228 cm³/g (STP), respectively.  
+  - Ni‑MFU‑4l‑Cl: BET area 770 m²/g, pore volume 0.601 cm³/g.  
+  - Ni‑MFU‑4l‑OH: BET area 875 m²/g, pore volume 0.550 cm³/g.  
+  - Ni‑MFU‑4l‑SH: BET area 776 m²/g, pore volume 0.605 cm³/g.
+- **Observations:** Experimental values closely matched theoretical predictions and literature benchmarks, indicating that porosity and surface area were preserved through all modification steps.
+
+#### 6.1.4 Thermal Stability
+- **Description:** Thermogravimetric analysis (TGA) was performed to evaluate thermal stability and decomposition profiles under controlled heating.
+- **Findings:** MOF samples were stable up to activation temperatures of 100–120 °C under dynamic vacuum or nitrogen flow, with TGA confirming structural integrity up to these conditions.
+- **Observations:** The frameworks exhibited sufficient thermal stability for subsequent characterization and catalytic testing.
+
+#### 6.1.5 Morphology and Particle Size
+- **Description:** Scanning electron microscopy (SEM) and energy-dispersive X-ray spectroscopy (EDS) were used to examine crystal morphology and elemental distribution.
+- **Findings:** SEM images demonstrated that particle size and morphology remained consistent across all MOF variants (Cl, OH, SH), with well-defined crystals and no observable changes after post-synthetic modifications. EDS confirmed uniform elemental distribution and expected metal-to-sulfur ratios.
+- **Observations:** The preservation of morphology and homogeneity indicates controlled crystallization and effective post-synthetic transformation.
+
+#### 6.1.6 Chemical Composition and Electronic Environment
+- **Description:** X-ray photoelectron spectroscopy (XPS) was employed to determine elemental composition, oxidation states, and successful ligand exchange.
+- **Findings:**  
+  - Complete replacement of Cl with OH and then SH was confirmed; no residual chloride detected after KOH treatment.  
+  - S 2p peaks at ~162.6–162.7 eV indicated the presence of –SH groups (S²⁻).  
+  - Co 2p₃/₂ binding energy shifted from 780.5 eV (Cl) to 781.0 eV (OH) to 779.0 eV (SH); Ni 2p₃/₂ from 855.7 eV (Cl) to 854.6 eV (OH) to 853.0 eV (SH), consistent with +2 oxidation states.
+- **Observations:** The shifts in binding energies reflect changes in the local electronic environment at the metal centers, while the preservation of satellite features confirms the oxidation state remains unchanged.
+
+#### 6.1.7 Spectroscopic Confirmation of Ligand Exchange
+- **Description:** FTIR and UV–vis spectroscopy were used to verify ligand transformations.
+- **Findings:** FTIR spectra showed νS–H stretching bands after sulfidation, and UV–vis spectra exhibited broad visible absorption bands, consistent with the introduction of polarizable sulfur ligands.
+- **Observations:** These spectral features, along with observed color changes, provided clear evidence for successful conversion from OH to SH groups.
+
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Gas Adsorption Capacity
+- **Description:** Gas adsorption capacity quantifies the amount of gas adsorbed per gram of MOF under specified conditions, typically reported as cm³(STP)/g or m²/g for BET surface area. This metric reflects the intrinsic porosity and accessible surface area of the framework.
+- **Experimental Data:**  
+  - For M₂Cl₂BBTA: N₂ uptake at 77 K was 312 cm³(STP)/g (Co) and 330 cm³(STP)/g (Ni), with BET surface areas of 1,180 m²/g and 1,190 m²/g, respectively.  
+  - For M₂(SH)₂BBTA: N₂ uptake was 200 cm³(STP)/g (Co) and 228 cm³(STP)/g (Ni), with BET areas of 650 m²/g and 730 m²/g, respectively.  
+  - For M‑MFU‑4*l*-X series, measured BET areas and N₂ uptakes closely matched theoretical predictions, confirming retention of permanent porosity after post-synthetic modification.
+- **Observations and Trends:**  
+  The frameworks maintained high porosity and surface area after sequential ligand exchange (Cl → OH → SH), with only moderate decreases following sulfidation. This demonstrates the robustness of the MOF structures and the effectiveness of the post-synthetic modification strategy.
+
+#### 6.2.2 Catalytic Activity
+- **Description:** Catalytic activity is assessed by the conversion percentage of a substrate (here, 4-nitrophenol to 4-aminophenol) and turnover frequency (TOF), defined as the number of substrate molecules converted per active site per hour.
+- **Experimental Data:**  
+  - For M₂Cl₂BBTA: Conversion was minimal (close to background).  
+  - For M₂(OH)₂BBTA: Conversion was ~9% (Co) and ~18% (Ni).  
+  - For M₂(SH)₂BBTA: Conversion was nearly 100% (Co) and ~37% (Ni).  
+  - For M‑MFU‑4*l*-SH: Conversion was over 99% (Ni) and ~23% (Co).  
+  - TOF values: 2.4 ± 0.1 h⁻¹ for Co₂(SH)₂BBTA (1.5 mol% loading) and 1.7 ± 0.1 h⁻¹ for Ni‑MFU‑4*l*-SH (5 mol% loading).  
+  - Reaction conditions: 150 °C, 4.25 h, 13.8 bar H₂, methanol solvent.
+- **Observations and Trends:**  
+  The introduction of SH ligands via post-synthetic modification led to a dramatic increase in catalytic activity, with the SH-functionalized MOFs outperforming their Cl and OH analogues. The effect is attributed to enhanced H₂ activation at the metal–sulfur sites, as supported by DFT calculations and energy decomposition analysis.
+
+#### 6.2.3 Cycling Stability
+- **Description:** Cycling stability evaluates the retention of catalytic performance over repeated reaction cycles, indicating the durability of the MOF under operational conditions.
+- **Experimental Data:**  
+  - Co₂(SH)₂BBTA and Ni‑MFU‑4*l*-SH maintained conversion rates of over 99% for the hydrogenation of 4-nitrophenol across multiple cycles.
+  - The number of cycles was not explicitly stated, but no significant performance degradation was observed.
+- **Observations and Trends:**  
+  Both MOFs demonstrated excellent cycling stability, with consistent catalytic activity and preserved structural integrity, as confirmed by repeated N₂ adsorption and PXRD analyses.
+
+#### 6.2.4 Structure–Activity Relationship
+- **Description:** The relationship between local electronic structure and catalytic performance was probed using DFT calculations, focusing on the Gibbs free energy change (ΔG₄₂₃K(E)) required to generate the active species.
+- **Experimental Data:**  
+  - For Ni‑MFU‑4*l*-X: ΔG₄₂₃K(E) was 53.0 kcal/mol (SH), 73.3 kcal/mol (Cl), and 75.2 kcal/mol (OH).
+  - For Co‑MFU‑4*l*-SH: ΔG₄₂₃K(E) was 61.0 kcal/mol.
+  - For Co₂(SH)₂BBTA: ΔG₄₂₃K(E) was 62.4 kcal/mol; for Ni₂(SH)₂BBTA: 67.6 kcal/mol.
+- **Observations and Trends:**  
+  The lower ΔG values for SH-functionalized MOFs correlate with higher catalytic activity, confirming that the electronic environment introduced by the SH ligand facilitates the formation of active sites for hydrogenation.
+

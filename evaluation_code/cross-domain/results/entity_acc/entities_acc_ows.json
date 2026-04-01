@@ -1,0 +1,322 @@
+[
+    [
+        {
+            "paper_id": 1,
+            "method_index": 0,
+            "total_entities": 47,
+            "true_entities": 47,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 1,
+            "method_index": 1,
+            "total_entities": 51,
+            "true_entities": 44,
+            "acc_rate": 0.8627
+        }
+    ],
+    [
+        {
+            "paper_id": 2,
+            "method_index": 0,
+            "total_entities": 123,
+            "true_entities": 122,
+            "acc_rate": 0.9919
+        },
+        {
+            "paper_id": 2,
+            "method_index": 1,
+            "total_entities": 56,
+            "true_entities": 55,
+            "acc_rate": 0.9821
+        }
+    ],
+    [
+        {
+            "paper_id": 3,
+            "method_index": 0,
+            "total_entities": 48,
+            "true_entities": 47,
+            "acc_rate": 0.9792
+        },
+        {
+            "paper_id": 3,
+            "method_index": 1,
+            "total_entities": 46,
+            "true_entities": 45,
+            "acc_rate": 0.9783
+        }
+    ],
+    [
+        {
+            "paper_id": 6,
+            "method_index": 0,
+            "total_entities": 56,
+            "true_entities": 54,
+            "acc_rate": 0.9643
+        },
+        {
+            "paper_id": 6,
+            "method_index": 1,
+            "total_entities": 55,
+            "true_entities": 54,
+            "acc_rate": 0.9818
+        }
+    ],
+    [
+        {
+            "paper_id": 7,
+            "method_index": 0,
+            "total_entities": 70,
+            "true_entities": 70,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 7,
+            "method_index": 1,
+            "total_entities": 29,
+            "true_entities": 29,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 8,
+            "method_index": 0,
+            "total_entities": 77,
+            "true_entities": 77,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 8,
+            "method_index": 1,
+            "total_entities": 44,
+            "true_entities": 44,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 9,
+            "method_index": 0,
+            "total_entities": 47,
+            "true_entities": 47,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 9,
+            "method_index": 1,
+            "total_entities": 38,
+            "true_entities": 37,
+            "acc_rate": 0.9737
+        }
+    ],
+    [
+        {
+            "paper_id": 10,
+            "method_index": 0,
+            "total_entities": 38,
+            "true_entities": 38,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 10,
+            "method_index": 1,
+            "total_entities": 43,
+            "true_entities": 43,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 4,
+            "method_index": 0,
+            "total_entities": 65,
+            "true_entities": 65,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 4,
+            "method_index": 1,
+            "total_entities": 48,
+            "true_entities": 48,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 5,
+            "method_index": 0,
+            "total_entities": 60,
+            "true_entities": 58,
+            "acc_rate": 0.9667
+        },
+        {
+            "paper_id": 5,
+            "method_index": 1,
+            "total_entities": 50,
+            "true_entities": 49,
+            "acc_rate": 0.98
+        }
+    ],
+    [
+        {
+            "paper_id": 11,
+            "method_index": 0,
+            "total_entities": 79,
+            "true_entities": 78,
+            "acc_rate": 0.9873
+        },
+        {
+            "paper_id": 11,
+            "method_index": 1,
+            "total_entities": 52,
+            "true_entities": 52,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 12,
+            "method_index": 0,
+            "total_entities": 76,
+            "true_entities": 75,
+            "acc_rate": 0.9868
+        },
+        {
+            "paper_id": 12,
+            "method_index": 1,
+            "total_entities": 52,
+            "true_entities": 52,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 13,
+            "method_index": 0,
+            "total_entities": 64,
+            "true_entities": 64,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 13,
+            "method_index": 1,
+            "total_entities": 52,
+            "true_entities": 52,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 14,
+            "method_index": 0,
+            "total_entities": 69,
+            "true_entities": 69,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 14,
+            "method_index": 1,
+            "total_entities": 51,
+            "true_entities": 50,
+            "acc_rate": 0.9804
+        }
+    ],
+    [
+        {
+            "paper_id": 15,
+            "method_index": 0,
+            "total_entities": 34,
+            "true_entities": 34,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 15,
+            "method_index": 1,
+            "total_entities": 41,
+            "true_entities": 41,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 16,
+            "method_index": 0,
+            "total_entities": 86,
+            "true_entities": 86,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 16,
+            "method_index": 1,
+            "total_entities": 62,
+            "true_entities": 62,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 17,
+            "method_index": 0,
+            "total_entities": 59,
+            "true_entities": 58,
+            "acc_rate": 0.9831
+        },
+        {
+            "paper_id": 17,
+            "method_index": 1,
+            "total_entities": 51,
+            "true_entities": 51,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 18,
+            "method_index": 0,
+            "total_entities": 70,
+            "true_entities": 70,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 18,
+            "method_index": 1,
+            "total_entities": 46,
+            "true_entities": 46,
+            "acc_rate": 1.0
+        }
+    ],
+    [
+        {
+            "paper_id": 19,
+            "method_index": 0,
+            "total_entities": 66,
+            "true_entities": 65,
+            "acc_rate": 0.9848
+        },
+        {
+            "paper_id": 19,
+            "method_index": 1,
+            "total_entities": 63,
+            "true_entities": 62,
+            "acc_rate": 0.9841
+        }
+    ],
+    [
+        {
+            "paper_id": 20,
+            "method_index": 0,
+            "total_entities": 60,
+            "true_entities": 60,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 20,
+            "method_index": 1,
+            "total_entities": 58,
+            "true_entities": 57,
+            "acc_rate": 0.9828
+        }
+    ]
+]

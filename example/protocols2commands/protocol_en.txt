@@ -1,0 +1,91 @@
+Here is the English translation:
+
+1. **Step 1: Material Station**
+
+   * Operation: Material pickup
+   * Sample vial numbers: [1, 2, 3]
+
+2. **Step 2: Liquid Injection Station**
+
+   * Operation: Liquid addition
+   * Sample vial numbers: [1, 2, 3]
+   * Stock solution numbers: [1, 2, 3, 4, 5, 6, 7, 8]
+   * Stock solution volumes: [[0.5, 0.5, 0.5, 0.5, 0.5, 1.0, 0.5, 0.5], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0]]
+   * Note: Liquid chemicals used are No. 1 (0.2 M Ni(NO₃)₂), No. 2 (0.2 M Fe(NO₃)₃), No. 3 (0.2 M Co(NO₃)₂), No. 4 (0.2 M Mn(NO₃)₂), No. 5 (0.2 M Cr(NO₃)₃), No. 6 (1 M NaOH), No. 7 (0.1 M Na₂CO₃), and No. 8 (deionized water)
+
+3. **Step 3: Magnetic Stirring Workstation**
+
+   * Operation: Magnetic stirring
+   * Sample vial number: [1]
+   * Stirring time (min): 120
+
+4. **Step 4: Ultrasonic Cleaning**
+
+   * Operation: Ultrasonic cleaning
+   * Sample vial number: [1]
+   * Cleaning time (s): 600
+
+5. **Step 5: Purification Workstation**
+
+   * Operation: Centrifugation
+   * Sample vial number: [1]
+   * Mode: Retain solid
+   * Time (min): 5
+   * Speed: 3000 rpm
+   * Number of washing cycles: 3
+   * Washing solvent: Water
+   * Automatic liquid addition setting: Yes
+   * Manually set liquid addition volume (mL): 15
+   * Retain washing liquid: No
+
+6. **Step 6: Drying Oven**
+
+   * Operation: Static drying
+   * Sample vial number: [1]
+   * Constant temperature (°C): 80
+   * Drying time (min): 60
+
+7. **Step 7: Liquid Injection Station**
+
+   * Operation: Liquid addition
+   * Sample vial numbers: [1, 2, 3]
+   * Stock solution numbers: [8, 4]
+   * Stock solution volumes: [[0, 0], [0, 0], [1.0, 0.1]]
+   * Note: Liquid chemicals used are No. 8 (deionized water) and No. 4 (ethanol)
+
+8. **Step 8: Ultrasonic Cleaning**
+
+   * Operation: Ultrasonic cleaning
+   * Sample vial number: [3]
+   * Cleaning time (s): 900
+
+9. **Step 9: Dual-Position Electrochemical Workstation**
+
+   * Operation: Electrochemical testing
+   * Sample vial number: [3]
+   * Carbon paper drying setting: Heating
+   * Carbon paper drying temperature (°C): 60
+   * Electrochemical Task 1:
+
+     * Enable: Enabled
+     * Sample vial number: 3
+     * Catalyst loading volume (μL): 50
+     * Electrolyte addition volume (mL): 20
+     * Carbon paper drying time (min): 30
+     * Number of reaction cell cleaning cycles: 3
+     * Carbon paper type: Hydrophilic
+     * Magnetic stirring speed in electrochemical cell: 500
+   * Test template:
+
+     * Template name: Intelligent Data Test
+
+10. **Step 10: Storage Workstation**
+
+    * Operation: Material placement
+    * Sample vial numbers: [1, 2, 3]
+
+**Chemical List:**
+
+* **Liquid chemicals:** No. 1 (0.2 M Ni(NO₃)₂), No. 2 (0.2 M Fe(NO₃)₃), No. 3 (0.2 M Co(NO₃)₂), No. 4 (0.2 M Mn(NO₃)₂), No. 5 (0.2 M Cr(NO₃)₃), No. 6 (1 M NaOH), No. 7 (0.1 M Na₂CO₃), No. 8 (deionized water), No. 4 (ethanol)
+* **Electrolyte:** 1 M KOH
+* **Washing solvent:** Water

@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "paper_id": 1,
+            "method_index": 0,
+            "total_entities": 131,
+            "true_entities": 128,
+            "acc_rate": 0.9771
+        },
+        {
+            "paper_id": 1,
+            "method_index": 1,
+            "total_entities": 140,
+            "true_entities": 138,
+            "acc_rate": 0.9857
+        },
+        {
+            "paper_id": 1,
+            "method_index": 2,
+            "total_entities": 117,
+            "true_entities": 117,
+            "acc_rate": 1.0
+        },
+        {
+            "paper_id": 1,
+            "method_index": 3,
+            "total_entities": 127,
+            "true_entities": 124,
+            "acc_rate": 0.9764
+        },
+        {
+            "paper_id": 1,
+            "method_index": 4,
+            "total_entities": 136,
+            "true_entities": 129,
+            "acc_rate": 0.9485
+        },
+        {
+            "paper_id": 1,
+            "method_index": 5,
+            "total_entities": 14,
+            "true_entities": 13,
+            "acc_rate": 0.9286
+        }
+    ]
+]

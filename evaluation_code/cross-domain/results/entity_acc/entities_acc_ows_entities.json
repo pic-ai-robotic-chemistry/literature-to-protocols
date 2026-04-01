@@ -1,0 +1,150 @@
+[
+    [
+        [
+            [
+                "One-step system with (Ga₁₋ₓZnₓ)(N₁₋ₓOₓ) solid solution loaded with Rh–Cr mixed oxide nanoparticles as single particulate photocatalyst; Intended light absorption range up to ~510 nm; Reaction conducted in a closed system with periodic evacuation every 5 h; Pyrex glass reaction vessels used for catalyst suspension and gas evolution management."
+            ],
+            [
+                "Powder samples of (Ga₁₋ₓZnₓ)(N₁₋ₓOₓ) (samples A, B, C)",
+                "Powder samples, including those with loaded Rh–Cr oxide nanoparticles",
+                "(Ga₁₋ₓZnₓ)(N₁₋ₓOₓ) powder with Rh–Cr oxide nanoparticles (sample B)",
+                "(Ga₁₋ₓZnₓ)(N₁₋ₓOₓ) powder with Rh–Cr oxide nanoparticles (sample B)",
+                "Powder samples (samples A, B, C)"
+            ],
+            [
+                "(Ga₁₋ₓZnₓ)(N₁₋ₓOₓ) (x = 0.12, 0.16, 0.42)",
+                "GaN–ZnO solid solution",
+                "Rh–Cr oxide (mixed)",
+                "powder X-ray diffraction",
+                "energy-dispersive X-ray analysis",
+                "TEM",
+                "diffuse reflectance spectroscopy (DRS)",
+                "SEM",
+                "yellow powder"
+            ],
+            [
+                "Stoichiometric evolution of H₂ and O₂ observed from the start of the reaction (H₂:O₂ ratio consistent with 2:1)",
+                "Quantum efficiency calculated based on the number of incident photons (measured by calibrated Si photodiode) and evolved H₂ molecules.",
+                "Quantum Efficiency (QE) ~2.5% at 420–440 nm for overall water splitting",
+                "Quantum Efficiency at 400 nm 3.0 ± 0.2% (measured with a 400 nm band pass filter)",
+                "Total Gas Evolution 16.2 mmol after 35 h of visible light irradiation (>400 nm)",
+                "Continuous Operation no noticeable degradation of photocatalytic activity observed over 35 h of repeated runs under visible light irradiation",
+                "Gas Evolution Consistency stoichiometric H₂ and O₂ evolution maintained throughout the 35 h test",
+                "Control with Sacrificial Agent quantum efficiency for O₂ evolution increased to 51% at 420–440 nm when AgNO₃ was used as a sacrificial electron acceptor",
+                "Comparison to Prior Art QE is about an order of magnitude higher than previously reported visible-light OWS photocatalysts",
+                "Material Stability photocatalyst is stable during OWS under visible light, as evidenced by sustained activity and lack of reported deactivation"
+            ],
+            [
+                "Solid Solution Preparation",
+                "Nitridation",
+                "Cooling",
+                "Hydrolysis",
+                "Impregnation",
+                "Evaporation",
+                "Calcination",
+                "Ga₂O₃",
+                "ZnO",
+                "NH₃",
+                "Ga(NO₃)₃·xH₂O",
+                "urea",
+                "Na₃RhCl₆·2H₂O",
+                "Cr(NO₃)₃·9H₂O",
+                "250 mL·min⁻¹ NH₃ flow at 950 °C for 0.25 h",
+                "250 mL·min⁻¹ NH₃ flow at 850 °C for 15 h",
+                "250 mL·min⁻¹ NH₃ flow at 950 °C for 1.5 h",
+                "heating in air at 500 °C for 2 h",
+                "heating in air at 350 °C for 1 h"
+            ],
+            [
+                "300 W xenon lamp with cutoff filters",
+                "450 W high-pressure mercury lamp",
+                "band pass filter at 400 nm",
+                "2 M NaNO₂ aqueous solution in a Pyrex glass tube blocking UV light",
+                "calibrated Si photodiode measuring number of incident photons",
+                "suspension of photocatalyst powder in water irradiated from the top (top-irradiation)",
+                "suspension of photocatalyst powder in water irradiated from within (inner-irradiation)",
+                "Pyrex top-irradiation-type reaction vessel connected to a glass closed gas circulation system, total solution volume 100 mL",
+                "Pyrex inner-irradiation-type reaction vessel, total solution volume 370 mL",
+                "reactant solution evacuated several times to remove air completely before irradiation",
+                "system evacuated every 5 h to remove evolved gases",
+                "evolved gases (H₂ and O₂) analyzed by gas chromatography (model and column not specified)",
+                "distilled water adjusted to pH 4.5 with H₂SO₄, 100 mL solution, 0.1 g photocatalyst for quantum efficiency",
+                "distilled water adjusted to pH 4.5 with H₂SO₄, 370 mL solution, 0.3 g photocatalyst for time-course OWS",
+                "air removed by evacuation; reaction performed at atmospheric pressure",
+                "no electron donors or acceptors added for overall water splitting tests (true OWS)"
+            ]
+        ],
+        [
+            [
+                "300 W xenon lamp equipped with a cutoff filter providing top irradiation to the catalyst suspension in the Pyrex vessel",
+                "450 W high-pressure mercury lamp with UV light blocked by a 2 M NaNO₂ aqueous solution in a Pyrex tube allowing primarily 436 nm emission",
+                "band pass filter at 400 nm for quantum efficiency measurements",
+                "calibrated silicon photodiode for incident photon flux measurement"
+            ],
+            [
+                "Ga₁–ₓZnₓ (N₁–ₓOₓ)",
+                "Zn doping",
+                "Ga₂O₃",
+                "ZnO",
+                "NH₃",
+                "Rh–Cr mixed oxide",
+                "powder X-ray diffraction",
+                "diffuse reflectance spectroscopy",
+                "SEM",
+                "TEM",
+                "synthesis conditions (950°C, 850°C)",
+                "heating apparatus"
+            ],
+            [
+                "Standard laboratory diffractometer",
+                "Cu Kα radiation",
+                "ambient temperature and atmospheric pressure",
+                "baseline alignment scan",
+                "full pattern scan",
+                "Rietveld methods using standard databases",
+                "silicon calibration standard",
+                "standard high-vacuum conditions",
+                "nanoparticles in the 10–20 nm range",
+                "BaSO₄ standard for 100% reflectance",
+                "absorption edge around 510 nm",
+                "data conversion using the Kubelka–Munk function",
+                "Tauc plot analysis for band gap estimation"
+            ],
+            [
+                "One-step overall water splitting system with (Ga₁–ₓZnₓ)(N₁–ₓOₓ) solid solution as photocatalyst, Rhodium–chromium mixed oxide nanoparticles (10–20 nm) as co-catalysts; Operational parameters: synthesis at 950°C for 0.25 h for sample A and 850°C for 15 h for sample B, visible light absorption with absorption edge at approximately 510 nm, band gap tuning from ~2.68 to 2.43 eV, 300 W xenon lamp or 450 W high-pressure mercury lamp as light source, photocatalyst powder (0.1 g or 0.3 g) in aqueous solution (100 mL or 370 mL) at pH 4.5 with H₂SO₄."
+            ],
+            [
+                "solid‐state nitridation",
+                "surface functionalization",
+                "impregnation",
+                "calcination",
+                "Ga₂O₃",
+                "ZnO",
+                "NH₃ (250 mL/min)",
+                "Na₃RhCl₆·2H₂O",
+                "Cr(NO₃)₃·9H₂O",
+                "3–4 mL distilled water",
+                "0.3–0.4 g of the as-synthesized photocatalyst",
+                "heat at 950 °C for 0.25 h",
+                "heat at 850 °C for 15 h",
+                "heat at 950 °C for 1.5 h",
+                "cool to room temperature while maintaining NH₃ atmosphere",
+                "calcine in air at 350 °C for 1 h"
+            ],
+            [
+                "H₂:O₂ stoichiometric ratio maintained at 2:1 from the onset of the reaction, as confirmed by gas chromatography, indicating true overall water splitting",
+                "product origin confirmation supports water as the sole source of both gases",
+                "suppression of side reactions shows no evidence of undesired side reactions or byproduct formation was detected; the use of Rh–Cr mixed oxide co-catalyst was critical, as individual Rh or Cr oxides did not yield comparable activity",
+                "mechanistic controls confirm that the observed O₂ in standard OWS arises from water oxidation, not from catalyst decomposition or other sources",
+                "post-reaction characterization confirmed retention of the solid solution structure, composition, and optical properties (band gap and absorption edge unchanged)",
+                "morphological integrity revealed that Rh–Cr mixed oxide nanoparticles (10–20 nm) remained uniformly distributed on the catalyst surface post-reaction",
+                "H₂ evolution rate sustained over a 35-hour period, with a total evolved gas (H₂ + O₂) of 16.2 mmol, exceeding the catalyst amount (3.7 mmol) under visible-light irradiation",
+                "O₂ evolution tracked concurrently with H₂, maintaining the expected stoichiometry throughout the reaction",
+                "quantum efficiency (QE) 2.5% at 420–440 nm, and 3.0±0.2% at 400 nm",
+                "enhanced O₂ evolution QE for O₂ evolution increased to 51% at 420–440 nm in the presence of AgNO₃ as a sacrificial electron acceptor",
+                "long-term operation indicates photocatalyst maintained activity without noticeable degradation over repeated 35-hour runs, indicating robust photostability under continuous visible-light irradiation",
+                "mass balance validation confirmed accurate mass balance and reaction stoichiometry as the total evolved gas volume exceeded the catalyst amount"
+            ]
+        ]
+    ]
+]

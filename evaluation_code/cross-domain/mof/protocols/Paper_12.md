@@ -1,0 +1,339 @@
+# Crystalline coordination framework endowed with dynamic gate-opening behaviour by being downsized to a thin film
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Fe(BF₄)₂·6H₂O**: (Fe(BF₄)₂·6H₂O), [Purity as supplied], Purchased from Wako Pure Chemical Industries Ltd./TCI Co., Ltd., Used to supply Fe²⁺ centers for MOF synthesis.
+- **[(C₄H₉)₄N]₂[Pt(CN)₄]**: ([(C₄H₉)₄N]₂[Pt(CN)₄]), [Purity as supplied], Purchased from Alfa Aesar/Sigma-Aldrich, Provides Pt-based nodes in the framework; prepared via cation exchange from K₂[Pt(CN)₄] using [(C₄H₉)₄N](ClO₄) in methanol.
+
+#### 1.1.2 Organic Linkers
+- **Pyridine**: C₅H₅N, [Purity as supplied], Purchased from Wako Pure Chemical Industries Ltd./TCI Co., Ltd., Functions as an organic linker coordinating to Fe²⁺ centers and, in excess (100 mM), also serves as a modulator to control crystal growth during the layer-by-layer synthesis.
+
+#### 1.1.3 Solvents
+- **Ethanol**: C₂H₅OH, [Purity as supplied], Purchased from Sigma-Aldrich/Merck, Serves as the solvent for the deposition solutions (10 mM for both Fe(BF₄)₂·6H₂O and [(C₄H₉)₄N]₂[Pt(CN)₄]) used in the liquid-phase layer-by-layer synthesis.
+- **Methanol**: CH₃OH, [Purity as supplied], Purchased from Sigma-Aldrich/Merck, Employed as the solvent in the cation exchange reaction during the preparation of the Pt-based reagent.
+
+#### 1.1.4 Surface Modifiers
+- **4‑Mercaptopyridine**: C₅H₄NSH, [Purity as supplied], Purchased from Alfa Aesar/TCI Co., Ltd., Utilized for substrate modification by forming a self-assembled monolayer on the Au/Cr/Si substrate prior to MOF deposition.
+
+
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- H-shaped glass tube (used for diffusion-based single crystal growth; dimensions not specified)
+- BEL-Flow apparatus (for controlling layer-by-layer deposition cycles)
+
+#### Characterization Equipment
+- Synchrotron XRD system (multi-axis diffractometer on the BL13XU beamline, SPring-8, Japan)
+- Rigaku SmartLab X-ray diffractometer
+- Bruker SMART APEX II CCD detector (for single-crystal XRD)
+- Atomic Force Microscope (NanoScope IIIa with a Si cantilever)
+- Infrared Reflection Absorption Spectroscopy (IRRAS) system
+- Raman spectrometer
+- X-ray photoelectron spectrometer (ESCA-3400 with Mg Kα radiation)
+- TG-DTA 2000SA (NETZSCH Japan; for thermal analysis)
+- BELSORP-max apparatus (for gas sorption experiments)
+- BELQCM apparatus (MicrotracBEL Corp.; for quartz-crystal microbalance measurements)
+
+#### Activation Equipment
+- Vacuum oven (DZF-6020)
+- Tube furnace (Carbolite Gero, up to 1200 °C)
+- Supercritical CO₂ dryer (Tousimis Autosamdri-815B)
+
+#### Reaction Equipment
+- Glass reaction vessel (generic vessel used for post-synthetic modification and guest molecule loading)
+- Stainless steel batch reactor (Parr, 50 mL)
+
+#### Product Analysis Equipment
+- Gas chromatograph (Agilent 7890B)
+- Mass spectrometer (Shimadzu GCMS-QP2010)
+
+#### Other Specific Equipment
+- Analytical balance (Mettler Toledo XS205)
+- Magnetic stirrer (IKA C-MAG HS 7)
+- Centrifuge (Eppendorf 5810R)
+- Rotary evaporator (Büchi R-300)
+
+This concise list integrates the specific equipment employed during MOF thin film synthesis via a liquid-phase layer-by-layer approach and the subsequent characterization, activation, and performance evaluations. Each entry reflects either a precise model/brand or a generic reference where model details are unavailable, ensuring reproducibility and adherence to experimental protocols.
+
+### 1.3 Common Laboratory Equipment
+
+The synthesis and characterization of metal-organic frameworks (MOFs) require a suite of reliable, routine laboratory equipment to ensure experimental consistency and reproducibility. Although some devices are specific to particular stages of MOF experimentation, numerous common lab tools play a central role throughout the workflow, from sample preparation to final analysis.
+
+#### Drying Equipment
+Drying apparatuses are essential for the removal of solvents post-synthesis. In this study, a high-vacuum oven was used to dry the as-synthesized bulk sample under high vacuum (<10⁻² Pa) at 343 K for 12 hours. In addition, freeze dryers and standard vacuum dryers are often deployed to facilitate the preparation of dry samples, ensuring that solvents are fully removed before subsequent experimental steps.
+
+#### Calcination Equipment
+While the current synthesis protocol did not require specific calcination steps, equipment such as muffle furnaces, tube furnaces, or programmable ovens is conventionally utilized for controlled thermal treatments. These devices are particularly relevant when adjustments in thermal processing are needed to modify material properties or to activate MOF samples.
+
+#### Other Common Equipment
+Accurate reagent handling is critical and typically involves the use of analytical balances for weighing chemicals like Fe(BF₄)₂·6H₂O and [(C₄H₉)₄N]₂[Pt(CN)₄]. During solution preparation and the alternate soaking steps of the layer-by-layer technique, micropipettes, volumetric flasks, and automated liquid handling systems ensure precise reagent delivery. Common glassware—including beakers, flasks, and pipettes—is employed for mixing ethanol solutions and reagent mixtures. Additionally, magnetic stirrers and mechanical agitators are used for homogeneous solution mixing, and filtration apparatuses (e.g., Büchner funnels) may be implemented for isolating and purifying solid products. Temperature-control devices, such as hot plates or programmable ovens, help maintain stable conditions during deposition, ensuring uniform film thickness.
+
+In summary, these standard pieces of laboratory equipment collectively support the meticulous experimental procedures, contributing to the replicability and consistency of MOF synthesis and subsequent performance evaluations.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+The synthesis methods reported for {Fe(py)₂[Pt(CN)₄]} are presented as two complementary approaches: the liquid-phase layer-by-layer (LbL) method for thin-film fabrication and a diffusion method for bulk single crystal growth. Below, each method is outlined with step-by-step procedural details.
+
+#### Liquid-Phase Layer-by-Layer (LbL) Method for Thin-Film Formation
+1. **Precursor Mixing / Dissolution**  
+   - Reagents: Fe(BF₄)₂·6H₂O and [(C₄H₉)₄N]₂[Pt(CN)₄] are dissolved in ethanol at 10 mM.  
+   - Equipment: Standard solution bath and substrate holder for Au/Cr/Si substrates.
+2. **Modulator or Structure-Directing Agent Addition**  
+   - The substrate is first soaked overnight in an ethanol solution of 4‑mercaptopyridine. An excess of pyridine (100 mM) is employed to stabilize the self-assembled monolayer prior to layering.
+3. **Crystallization**  
+   - The substrate undergoes alternate immersion in the precursor solutions, with each cycle lasting 3 minutes at room temperature.  
+   - The number of cycles (30–150) controls film thickness (e.g., ~16 nm for 30 cycles and ~49 nm for 150 cycles).
+4. **Cooling and Collection**  
+   - The film remains at ambient conditions following the final deposition.
+5. **Washing and Solvent Exchange**  
+   - Each deposition cycle is immediately followed by a wash in ethanol to remove unreacted species.
+6. **Drying**  
+   - Drying is performed under a gentle nitrogen flow.
+7. **Activation**  
+   - No explicit activation step is reported; however, consistent film quality is maintained via rigorous washing and controlled deposition.
+
+#### Diffusion Method for Bulk Crystal Growth
+1. **Precursor Mixing / Dissolution**  
+   - Reagents: Aqueous solutions containing Fe(NH₄)₂(SO₄)₂·6H₂O, K₂[Pt(CN)₄], and citric acid are prepared.
+   - Equipment: Standard glassware is used to prepare a homogeneous yellow transparent solution.
+2. **Modulator or Structure-Directing Agent Addition**  
+   - An excess of pyridine is introduced via slow diffusion through an H‑shaped glass tube, ensuring a controlled modulator concentration.
+3. **Crystallization**  
+   - The gradual diffusion process at room temperature over a period of three weeks induces nucleation and growth of block‑shaped single crystals.
+4. **Cooling, Collection, and Washing**  
+   - Crystals are collected directly from the solution, followed by appropriate washing to remove residual reactants.
+
+This structured approach ensures reproducibility and precision in both thin-film and bulk synthesis, with controlled reaction conditions and systematic processing steps that facilitate subsequent characterization and performance evaluation.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+This section details the specific steps for preparing the reagents for each MOF material, ensuring clear and reproducible protocols.
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 Fe(NH3)₂[Pt(CN)₄]
+- **Fe(NH₄)₂(SO₄)₂·6H₂O**: Weighed 196 mg using an analytical balance.
+- **Citric acid**: Weighed 451 mg.
+
+##### 3.1.1.2 K₂[Pt(CN)₄]
+- **K₂[Pt(CN)₄]**: Weighed 189 mg using an analytical balance.
+
+In this step, the precise measurement of metal salts and additives is documented by their chemical identity and exact mass. The use of an analytical balance ensures the necessary precision for reproducibility.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 Fe(NH3)₂[Pt(CN)₄]
+- **Water**: Poured 60 mL into the reaction vessel.
+- **Pyridine**: Transferred 5.0 mL using a syringe to allow for controlled addition.
+
+##### 3.1.2.2 K₂[Pt(CN)₄]
+- No specific liquid reagent details were provided.
+
+For Fe(NH3)₂[Pt(CN)₄], liquid reagents are introduced via pouring and syringe transfer, ensuring accurate volumes and minimizing variability. The absence of explicit details for K₂[Pt(CN)₄] underlines that only the reagents present in the original documentation are included.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 Fe(NH3)₂[Pt(CN)₄]
+- **Reagent mixture**: Mixed at room temperature with the added pyridine, ensuring that the solid reagents are fully dispersed to form a homogeneous solution.
+
+##### 3.1.3.2 K₂[Pt(CN)₄]
+- **Reagent mixture**: Mixed thoroughly at room temperature within the reaction vessel to obtain a uniform suspension.
+
+Although explicit stirring speeds and durations were not provided, combining the precursors at controlled ambient conditions helps achieve complete mixing. This MOF-specific grouping of procedures—from weighing solids to transferring liquids and final mixing—provides a transparent and traceable approach, which supports reproducibility in synthesizing these coordination frameworks.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: Fe(py)₂[Pt(CN)₄]
+
+##### Step 1: Precursor Preparation
+- **Reagents**:  
+  • 10 mM Fe(BF₄)₂·6H₂O solution in ethanol  
+  • 10 mM [(C₄H₉)₄N]₂[Pt(CN)₄] solution in ethanol  
+  • Excess pyridine at 100 mM (added to both precursor solutions)
+- **Conditions**:  
+  All reagents are used without further purification, and both solutions are prepared at room temperature (298 K) under ambient conditions.
+- **Process**:  
+  1. Dissolve the measured amount of Fe(BF₄)₂·6H₂O in ethanol; similarly, dissolve [(C₄H₉)₄N]₂[Pt(CN)₄] in a separate ethanol solution.  
+  2. Introduce an excess of pyridine to each solution to ensure optimal coordination with Fe²⁺ centers, stabilizing the solution.  
+  3. Stir both solutions adequately until complete homogenization is achieved.
+- **Key Steps**:  
+  Precise control of reagent concentrations and purity is critical to ensure reproducibility.
+
+##### Step 2: MOF Assembly/Crystallization
+- **Reagents**:  
+  The two precursor solutions prepared above.
+- **Conditions**:  
+  The layer-by-layer (LbL) process is conducted entirely at room temperature. Each cycle consists of a 3-minute immersion followed by a 1-minute ethanol rinse.
+- **Process**:  
+  1. Prepare the Au/Cr/Si substrate by soaking it overnight in an ethanol solution of 4‑mercaptopyridine, then rinse and dry it to enhance surface compatibility.
+  2. Alternately immerse the substrate in the Fe(BF₄)₂·6H₂O and [(C₄H₉)₄N]₂[Pt(CN)₄] solutions for a prescribed number of cycles (30–150 cycles), thereby controlling the film thickness.
+  3. Rinse the substrate with ethanol after each deposition cycle to remove any unbound reagents.
+
+##### Step 3: Purification
+- **Process**:  
+  Perform thorough ethanol washes after deposition cycles to eliminate residual reactants and ensure a clean, uniform film.
+
+##### Step 4: Drying & Activation
+- **Drying**:  
+  Dry the thin film at 343 K under high vacuum conditions (below 10⁻² Pa) for 12 hours.
+- **Activation**:  
+  This procedure readies the film for guest-induced dynamic transformations by removing any trapped solvents.
+
+##### Step 5: Post-synthetic Modification (if applicable)
+- **Process**:  
+  Optionally, re-treat the substrate with an ethanol solution of 4‑mercaptopyridine, followed by an ethanol rinse and drying by nitrogen flow to further functionalize the MOF interface.
+- **Key Steps**:  
+  Uniform deposition, precise rinse durations, and controlled drying/activation are essential for achieving the desired dynamic gate-opening behaviour.
+
+## 4. Characterization Methods
+
+### 4.1 Synchrotron XRD  
+- **Operational Description**: Synchrotron XRD was employed to assess the MOF thin film's crystallinity, phase purity, and preferential orientation by capturing both in-plane and out-of-plane reflections.  
+- **Instruments and Models**: A multi-axis diffractometer (Kohzu-Seiki TDT-17) equipped with a NaI scintillation detector was used on the BL13XU beamline at SPring-8, Japan.  
+- **Characterization Conditions**: X-rays were monochromated to 8 keV (λ = 1.55 Å). In-plane measurements used a grazing-incidence mode with an incident angle of 0.15°, while out-of-plane patterns were collected in θ–2θ geometry.  
+- **Test Parameters**: A step size of 0.1° was maintained during scanning; although the full scan range is not detailed, measurements focused on key peaks (e.g., 020, 001).  
+- **Key Notes**: The thin films, produced via liquid-phase layer-by-layer (LbL) synthesis, provided highly oriented samples critical for resolving anisotropic lattice expansions during guest uptake.
+
+### 4.2 IRRAS/FTIR  
+- **Operational Description**: Infrared Reflection Absorption Spectroscopy (IRRAS) was conducted to probe the chemical state of the MOF framework and verify ligand coordination.  
+- **Instruments and Models**: Measurements were acquired using a Thermo Nicolet NEXUS 670 FT-IR spectrometer with a Thermo Scientific Spectra-Tech Collector diffuse reflectance accessory.  
+- **Characterization Conditions**: Sample preparation involved evaporating a 5-nm chromium buffer and 100 nm gold onto polished silicon wafers, followed by modification with 4‑mercaptopyridine.  
+- **Test Parameters**: Specific wavenumber ranges and resolutions were not detailed.  
+- **Key Notes**: Ethanol rinsing and N₂ drying ensured a clean surface for analysis.
+
+### 4.3 Thermogravimetric Analysis (TGA)  
+- **Operational Description**: TGA was employed to evaluate thermal stability and decomposition characteristics of the MOF thin film versus its bulk counterpart.  
+- **Instruments and Models**: The analysis was performed on a TG-DTA 2000SA from NETZSCH Japan.  
+- **Characterization Conditions**: Measurements were conducted under a nitrogen atmosphere with samples heated up to ~470 K at a rate of 5 K/min.  
+- **Test Parameters**: Prior to testing, bulk samples were dried under high vacuum (<10⁻² Pa) at 343 K for 12 hours.  
+- **Key Notes**: The technique highlighted differences in thermal behavior between thin film and bulk materials.
+
+### 4.4 Atomic Force Microscopy (AFM)  
+- **Operational Description**: AFM was used to capture 2-D topographic images in height and amplitude modes to analyze the domain morphology of the MOF films.  
+- **Instruments and Models**: Specific instrumentation details were not provided.  
+- **Characterization Conditions & Test Parameters**: Imaging parameters (scan rate, resolution) were not explicitly detailed.  
+- **Key Notes**: AFM revealed average in-plane domain sizes (~22 nm), confirming the film’s nanostructured characteristics.
+
+### 4.5 Quartz Crystal Microbalance (QCM)  
+- **Operational Description**: QCM measurements monitored dynamic guest uptake by detecting frequency shifts corresponding to mass changes upon ethanol vapor exposure.  
+- **Instruments and Models**: A BELQCM apparatus from MicrotracBEL Corp. was utilized.  
+- **Characterization Conditions & Test Parameters**: Measurements were conducted at room temperature under controlled vapor pressures, with successive recordings to capture gate‑opening behavior.  
+- **Key Notes**: This method provided crucial insights into reversible structural changes during host–guest interactions.
+
+### 4.6 Raman Spectroscopy  
+- **Operational Description**: Raman spectroscopy was performed to identify chemical bonds and confirm the framework structure of the MOF.  
+- **Instruments and Models**: A JASCO NRS-1000 Raman spectrometer featuring a CVI Melles Griot 25 LHP 925 He–Ne laser (632.8 nm) was used.  
+- **Characterization Conditions & Test Parameters**: Specific power settings and exposure times were not provided.  
+- **Key Notes**: Careful calibration and sample handling ensured reliable structural assignments.
+
+### 4.7 X-ray Photoelectron Spectroscopy (XPS)  
+- **Operational Description**: XPS was conducted to analyze oxidation states and surface chemistry of the MOF thin films deposited on an Au substrate.  
+- **Instruments and Models**: Manufacturer and model details were not specified.  
+- **Characterization Conditions & Test Parameters**: Critical parameters such as binding energy range and pass energy are not provided.  
+- **Key Notes**: Despite potential challenges due to the low electron density of the thin films, XPS contributed valuable insights into surface compositions and chemical states.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+The activation process for the MOF pre‑use treatment was carried out during sample preparation to ensure that all residual solvents or guest molecules were effectively removed prior to sorption measurements. This controlled procedure was critical for obtaining reliable performance data in subsequent experiments.
+
+#### 5.1.1 Activation Temperature  
+• **Definition:** The activation temperature is essential for providing the thermal energy required to facilitate the desorption of solvent molecules from the MOF pores, thereby opening the framework.  
+• **Experimental Conditions:** The as‑synthesized MOF (bulk‑1) was subjected to an activation temperature of 343 K.  
+• **Observations:** Operating at 343 K provided sufficient thermal energy to remove entrapped solvents while avoiding framework degradation, ensuring that the pore system remained accessible for guest uptake.
+
+#### 5.1.2 Activation Pressure  
+• **Definition:** Low environmental pressure during activation assists in lowering the boiling points of residual solvents, thereby enhancing their removal through desorption.  
+• **Experimental Conditions:** The activation was performed under a high vacuum with a pressure lower than 10⁻² Pa.  
+• **Observations:** The stringent vacuum conditions ensured efficient evacuation of solvent molecules without imposing stress on the MOF structure, a crucial factor for maintaining framework integrity during subsequent guest adsorption studies.
+
+#### 5.1.3 Activation Time  
+• **Definition:** The activation time determines the duration for which the sample is maintained under the specified conditions, ensuring complete removal of any guest species.  
+• **Experimental Conditions:** The MOF was held at 343 K and under high vacuum for 12 hours.  
+• **Observations:** This extended drying period was sufficient to achieve complete solvent removal, setting a reproducible baseline for the subsequent evaluation of the MOF’s dynamic gate-opening behavior during sorption experiments.
+
+Overall, the parameters applied in the activation process—temperature at 343 K, vacuum pressure below 10⁻² Pa, and an activation duration of 12 hours—were chosen to optimize solvent removal from the MOF material while preserving its crystalline framework for further functional investigations.
+
+### 5.2 Application/Performance Evaluation
+
+The performance evaluation of the MOF, Fe(py)₂[Pt(CN)₄], was conducted under precisely controlled conditions to elucidate its guest uptake behavior and dynamic structural transformation upon exposure to ethanol vapor.
+
+#### Test Temperature
+- Definition: The temperature setting for adsorption and in situ measurements, critical for ensuring consistent guest–host interactions.
+- Experimental Conditions: All performance evaluations, including QCM and in situ X-ray diffraction (XRD) measurements, were performed at room temperature (approximately 298 K).
+- Observations: Maintaining ambient temperature supported reproducible kinetics in guest uptake while facilitating clear observation of the structural transformation.
+
+#### Test Pressure and Relative Pressure (P/P₀)
+- Definition: The applied pressure, particularly in relation to the saturation pressure of the guest vapor, serves as a trigger for the gate-opening behavior.
+- Experimental Conditions: Ethanol vapor was introduced at controlled relative pressures. Key measurements were taken at P/P₀ = 0, with significant guest uptake and lattice expansion observed at P/P₀ = 0.93. Additionally, gate-opening behavior was noted at pressures below P/P₀ = 0.4 during adsorption.
+- Observations: Variations in relative pressure directly correlated with the transition between the closed and open forms of the MOF framework, as evidenced by shifts in the XRD peaks.
+
+#### Test Gas Composition
+- Definition: The nature of the guest species used in the performance evaluation.
+- Experimental Conditions: Pure ethanol vapor was utilized as the test medium. Its composition was maintained by modulating the vapor-to-helium gas mixture using a BEL-Flow apparatus equipped with a mass flow controller, a bubbler, and a condenser.
+- Observations: Ethanol vapor effectively triggered the reversible structural gate-opening response in the thin films, a behavior not observed in the bulk material.
+
+#### Test Flow Rate and Time
+- Definition: The gas flow rate and duration of exposure are vital in dynamic testing setups such as breakthrough experiments.
+- Experimental Conditions: Although specific flow rate and test time data were not provided, the BEL-Flow apparatus ensured precise control of vapor pressures, maintaining steady-state conditions during weight change observations with QCM.
+- Observations: The consistent performance over repeated cycles underscores the reproducibility of the evaluation setup.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** The crystal structure and phase purity of the MOF thin films were determined using synchrotron X-ray diffraction (XRD), employing both in-plane (grazing-incidence 2θ scan) and out-of-plane (θ–2θ mode) measurements. These techniques are essential for assessing crystallinity, preferential orientation, and structural integrity, which are critical for MOF performance.
+- **Findings:** The XRD patterns of the thin films exhibited sharp, well-defined Bragg peaks that matched the simulated patterns based on the single-crystal structure of the bulk MOF, confirming an orthorhombic crystal system with space group Cmmm. No impurity peaks were observed, indicating high phase purity and successful synthesis. 
+- **Observations:** The films displayed strong preferential orientation, with periodic ordering evident in both in-plane and out-of-plane directions. In situ XRD under ethanol vapor revealed that the in-plane pattern remained unchanged, while the out-of-plane 020 and 040 peaks shifted to lower angles, corresponding to a reversible expansion of the interlayer spacing (b-axis) from 15.19 Å to 15.44 Å (∼1.6% increase) at P/P₀ = 0.93. This demonstrates a dynamic, anisotropic gate-opening transformation upon guest uptake.
+
+#### 6.1.2 Morphology and Domain Structure
+- **Description:** Atomic force microscopy (AFM) was used to investigate the surface morphology, domain (island) structure, and thickness of the MOF thin films. Morphological features at the nanoscale are crucial for understanding guest-responsive behavior.
+- **Findings:** AFM images revealed a domain (island) structure with a large dispersion in lateral sizes, ranging from less than 30 nm to over 100 nm. The average in-plane domain size, as estimated from in-plane XRD, was approximately 22 nm. Film thickness increased systematically with the number of layer-by-layer (LbL) deposition cycles, from ~16 nm (film-1-30L) to ~49 nm (film-1-150L).
+- **Observations:** With increasing LbL cycles, both the thickness and lateral size of islands increased, and the interfaces between adjacent domains became less distinct. The nanocrystalline domain structure is directly linked to the observed gate-opening behavior.
+
+#### 6.1.3 Chemical Composition and Framework Integrity
+- **Description:** The chemical composition and framework formation were confirmed using infrared reflection absorption spectroscopy (IRRAS), Raman spectroscopy, and X-ray photoelectron spectroscopy (XPS). These techniques verify the presence of key functional groups, elemental composition, and chemical states.
+- **Findings:** IRRAS showed a successive increase in the ν(CN) absorbance band with each deposition cycle, indicating controlled layer-by-layer growth. Raman spectra of the thin film matched those of the bulk MOF, confirming retention of the framework’s chemical structure. XPS spectra displayed the expected elemental peaks, verifying the presence of Fe, Pt, and coordinated ligands.
+- **Observations:** The combined spectroscopic analyses confirmed the chemical integrity and successful formation of the MOF framework in the thin film.
+
+#### 6.1.4 Thermal Stability
+- **Description:** Thermogravimetric analysis (TGA) was employed to assess the thermal stability of the MOF thin film, which is important for evaluating its operational limits.
+- **Findings:** The thin film (film-1-30L) decomposed at approximately 423 K, whereas the bulk MOF decomposed at around 470 K.
+- **Observations:** The reduced thermal stability of the thin film compared to the bulk material is attributed to its nanoscale morphology and increased surface area.
+
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Guest Uptake and Gate-Opening Behavior
+- **Description:** Guest uptake refers to the reversible adsorption of small molecules by the MOF thin film, accompanied by a dynamic gate-opening structural transformation. This behavior is characterized by changes in mass (measured by QCM) and lattice parameters (measured by in situ XRD) upon exposure to guest vapors.
+- **Experimental Data:** The thin film (film-1-30L, ~16 nm thick) exhibited clear guest uptake under ethanol vapor at a relative pressure (P/P₀) of 0.93 (P₀ = 7.833 kPa at 298 K). QCM measurements confirmed successive weight changes upon guest exposure, while out-of-plane XRD revealed a shift in the 020 Bragg peak from 2θ = 11.69° (b = 15.19 Å) to 2θ = 11.51° (b = 15.44 Å), corresponding to an anisotropic lattice expansion of approximately 1.6% along the b-axis. The structural transformation was fully reversible upon removal of the guest.
+- **Observations and Trends:** The gate-opening behavior was pronounced in nanometre-scale thin films but was markedly suppressed in thicker films (e.g., film-1-60L and above). Bulk MOF particles (~135 nm) showed negligible guest uptake, attributed to strong π–π stacking that inhibits guest penetration. The dynamic response is thus critically dependent on downsizing to thin films.
+
+#### 6.2.2 Selective Adsorption
+- **Description:** Selectivity is defined as the MOF thin film’s ability to preferentially adsorb small guest molecules based on size and shape, as evidenced by structural and mass changes.
+- **Experimental Data:** The thin film demonstrated reversible uptake and structural transformation for small molecules such as ethanol, acetonitrile, water, and methanol, as confirmed by QCM and in situ XRD. For acetonitrile, a smaller lattice expansion (~0.5%) was observed compared to ethanol (~1.6%). No significant uptake or structural change was detected for larger molecules like benzene.
+- **Observations and Trends:** Selectivity arises from the size-exclusion effect of the MOF’s pore structure, with only sufficiently small or linear molecules inducing the gate-opening transformation. The extent of expansion and uptake correlates with the molecular dimensions of the guest.
+
+#### 6.2.3 Thickness-Dependent Performance
+- **Description:** The relationship between film thickness and guest uptake performance was systematically evaluated by varying the number of LbL cycles.
+- **Experimental Data:** Films fabricated with 30 LbL cycles (~16 nm) exhibited pronounced guest uptake and dynamic structural response. Increasing the number of cycles (and thus thickness) led to larger domain sizes and suppressed gate-opening behavior, as evidenced by diminished QCM weight changes and absence of XRD peak shifts.
+- **Observations and Trends:** The dynamic, switchable sorption properties are maximized in thinner films, highlighting the importance of nanometre-scale dimensions for enabling guest-responsive dynamics.
+
+#### 6.2.4 Reversibility and Stability
+- **Description:** Reversibility and stability refer to the ability of the MOF thin film to undergo repeated guest-induced structural transformations without degradation.
+- **Experimental Data:** In situ XRD measurements during multiple cycles of ethanol vapor exposure and removal showed fully reversible shifts in the 020 and 040 peaks, with only minor hysteresis at lower pressures (P/P₀ ≤ 0.4). The film maintained its structural integrity and dynamic response over repeated cycles.
+- **Observations and Trends:** The thin film’s robust reversibility and stability under cycling conditions underscore its potential for applications in sensing and selective separation.
+

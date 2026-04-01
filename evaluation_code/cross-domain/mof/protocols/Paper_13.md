@@ -1,0 +1,382 @@
+# The MOF-driven synthesis of supported palladium clusters with catalytic activity for carbene-mediated chemistry
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Palladium Complex (Sample 3)**: [PdII(NH₃)₄][PdII₂(–H₂O)(NH₃)₆], [No purity details, No supplier], Used as the source of palladium in both mononuclear and dinuclear forms for incorporation into the MOF.
+- **Palladium Nanoclusters (Sample 4)**: [Pd₄]²⁺, [No purity details, No supplier], Employed as the post-synthetic form of palladium for enhanced catalytic performance.
+- **Nickel(II) Source**: Ni²⁺ ions, [No chemical formula, purity, or supplier details], Utilized as a principal metal node in the anionic open‐framework.
+- **Copper(II) Source**: Cu²⁺ ions, [No chemical formula, purity, or supplier details], Integral to the formation of the framework along with nickel.
+
+#### 1.1.2 Organic Linkers
+- **Trimethyl‐substituted Phenylene Spacer (Me₃mpba)**: C₁₀H₁₂O₄ (approximate composition), [No purity details, No supplier], Serves as the organic linker dictating pore formation and structural integrity.
+
+#### 1.1.3 Solvents
+- **Water**: H₂O, [No purity details, No supplier], Used in synthesis, reduction, and stabilization steps.
+- **Methanol**: CH₃OH, [No purity details, No supplier], Part of the 1:2 H₂O/CH₃OH mixture employed during reduction and for washing purposes.
+- **Benzene**: C₆H₆, [No purity details, No supplier], Utilized as a solvent in the Buchner reaction and for dissolving diazoacetates.
+- **Dichloromethane**: CH₂Cl₂, [No purity details, No supplier], Applied for washing the catalyst post-reaction.
+- **Tetrahydrofuran (THF) & Acetonitrile (CH₃CN)**: Employed as a 1:1 mixture in the preparation of diazocompound 8, [No purity details, No supplier].
+
+#### 1.1.4 Other Reagents
+- **Sodium Borohydride**: NaBH₄, [No purity details, No supplier], Used as the reducing agent to convert Pd(II) species to Pd nanoclusters; operationally added in fractions over 72 hours to achieve a final NaBH₄/Pd molar ratio of 13.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- Teflon-lined autoclave – used for solvothermal MOF crystallization  
+- 50 mL round-bottomed flask with magnetic stirrer – utilized for post-synthetic modification incorporating Pd species  
+- 25 mL round-bottomed flask with magnetic stirrer – employed for reactions involving diazoacetate 6a
+
+#### Characterization Equipment
+- Powder X-ray diffractometer – instrument for phase purity analysis  
+- Single-crystal X-ray diffractometer – instrument for detailed crystallinity studies  
+- XL30 ESEM (PHILIPS) – scanning electron microscope for morphology examination  
+- HAADF-FEI-TITAN G2 – high-resolution transmission electron microscope for imaging nanoclusters  
+- Biorad FTS-40A FTIR spectrometer with DTGS detector – device for recording vibrational spectra  
+- Mettler Toledo TGA/STDA 851E – thermogravimetric analyzer for assessing thermal stability  
+- SPECS XPS spectrometer (Phoibos 150 MCD-9 analyzer) – instrument for elemental oxidation state analysis  
+- Bruker AVIII HD 400 WB – solid-state NMR spectrometer for chemical coordination studies  
+- Varian UV0811M209 – UV-Vis spectrophotometer for optical analysis  
+- Micromeritics ASAP2020 – gas sorption analyzer for BET surface area measurements
+
+#### Activation Equipment
+- Vacuum oven – used for sample evacuation at 50 °C under 10⁻⁶ Torr  
+- Tube furnace – generic thermal activation equipment  
+- Supercritical CO₂ dryer – apparatus for solvent removal and pore activation
+
+#### Reaction Equipment
+- Soxhlet apparatus – employed for continuous dichloromethane washing during post-synthetic processing  
+- Paper cartridge setup within a Soxhlet configuration – used in flow reactor evaluations for catalytic performance
+
+#### Product Analysis Equipment
+- Gas chromatograph – model unspecified, used for analyzing catalytic reaction products  
+- ICP-MS system – utilized for elemental analysis after acid digestion procedures
+
+#### Other Specific Equipment
+- Analytical balance – used for precise reagent measurement  
+- Magnetic stirrer – ensures homogeneous blending of solvents and reagents  
+- Centrifuge – applied for sample separation  
+- Rotary evaporator – employed for solvent removal during reagent preparation
+
+### 1.3 Common Laboratory Equipment
+
+In our experimental workflow for the synthesis and characterization of MOF materials, a range of common laboratory equipment is employed to ensure consistency, precision, and reproducibility. This section details the primary tools used at various stages—from reagent preparation and mixing to post-synthetic processing and sample conditioning.
+
+#### Drying Equipment
+Drying is a critical step for both sample preparation and activation prior to characterization. For this purpose, laboratory setups include:
+- Vacuum ovens: Often used to dehydrate samples prior to techniques such as TGA or PXRD, typically maintaining temperatures around 80 °C under controlled vacuum for extended periods.
+- Freeze dryers: Utilized in cases where gentle drying is necessary to preserve the MOF framework.
+- Other drying instruments: Additional apparatus such as vacuum setups or air drying units complement the primary drying tools.
+
+#### Calcination Equipment
+Although specific calcination parameters are not detailed in every protocol, when thermal treatment is required, the following equipment is standard:
+- Muffle furnaces: Offer uniform heating for calculated thermal treatment processes.
+- Tube furnaces (or programmable ovens): Employed when controlled temperature profiles are necessary to ensure proper phase conversion without compromising the MOF integrity.
+
+#### Other Common Equipment
+Throughout synthesis and post-synthetic stages, general laboratory equipment plays a vital role in ensuring precise execution and reproducibility. Common items include:
+- Analytical balances: Critical for accurate reagent measurement and quality control.
+- Magnetic stirrers: Consistently used to ensure homogeneous mixing of solvents and reagents during various synthetic steps.
+- Micropipettes and volumetric flasks: Essential for the precise dosing of solvents and reagents.
+- General glassware: A variety of beakers, round-bottomed flasks (e.g., 250 mL, 50 mL two-necked), and pipettes are used widely for solution preparation and handling of reagents.
+- Filtration apparatus: Equipment such as Büchner funnels and standard filtration systems isolate solid products or MOF crystals efficiently during washing and separation steps.
+
+This assortment of equipment not only supports the high standards of MOF synthesis and analysis but also ensures that subsequent catalytic performance evaluations are carried out under rigorously controlled experimental conditions.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+This section outlines the synthesis methods used to prepare the palladium-incorporated MOF materials, detailing the sequential steps for framework formation and subsequent post-synthetic modification.
+
+#### Solvothermal Synthesis of the MOF Framework (Sample 3)
+
+1. • Precursor Mixing / Dissolution  
+  – Dissolve approximately 1 g of compound 7a in 100 mL of benzene (∼0.1 M).  
+  – An excess of NaBH₄ is prepared for later use, ensuring a final NaBH₄/MOF molar ratio of 26.
+
+2. • Modulator or Structure-Directing Agent Addition  
+  – In cases where a modulator is employed, it is added immediately following precursor dissolution to promote uniform crystalline growth. (No additional quantitative details are provided.)
+
+3. • Crystallization  
+  – The solution is transferred to a reaction vessel (e.g., a Teflon-lined autoclave) and heated under controlled, solvothermal conditions to promote MOF crystallization. Specific temperature and duration parameters are not detailed in the text.
+
+4. • Cooling and Collection  
+  – After crystallization, the reactor is cooled to room temperature, and the resultant crystals are collected by filtration.
+
+5. • Washing and Solvent Exchange  
+  – The collected MOF is washed with dichloromethane and subsequently exchanged in a 50 mL H₂O/CH₃OH (1:2) solution to remove residual reagents.
+
+6. • Drying and Activation  
+  – The as-synthesized MOF is dried at 80°C for 18 hours.  
+  – Prior to further analysis, the MOF is evacuated at 50°C for 15 hours under a vacuum of 10⁻⁶ Torr.
+
+#### Reduction Protocol to Convert Pd(II) Species into Pd₄ Clusters (Sample 4)
+
+1. • Starting Material  
+  – Use the solvothermally synthesized Sample 3 as the precursor.
+
+2. • Reduction Step  
+  – The sample is re-suspended in a 50 mL H₂O/CH₃OH (1:2) solution.  
+  – NaBH₄ is added gradually in 26 fractions over a 72-hour period, with each addition followed by 1.5 hours of stirring to facilitate the reduction of mononuclear/dinuclear Pd(II) species into tetranuclear [Pd₄] clusters.
+
+3. • Post-treatment  
+  – Following reduction, the resulting material is gently washed with the same H₂O/CH₃OH solution and filtered to remove excess reducing agent.  
+  – Subsequent drying under controlled conditions finalizes the synthesis while preserving the integrity of the MOF framework.
+
+This structured protocol ensures reproducibility and high crystallinity of the final materials, with careful attention to reaction steps, reagent concentrations, and processing conditions.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+In this section, the protocol is organized into three distinct preparative steps—solid reagent weighing, liquid transfer, and mixing—to clearly outline the experimental procedure for each MOF sample. This systematic documentation enhances reproducibility by detailing each operation separately, even though not every quantitative parameter is explicitly listed in the article.
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 Sample 3 – [PdII(NH₃)₄][PdII₂(–H₂O)(NH₃)₆]₀.₅{NiII₄[CuII₂(Me₃mpba)₂]₃}·(solvent)
+- The protocol indicates that solid reagents (including the metal salt precursors and organic linkers) were measured using an analytical balance. Although exact masses, chemical formulas, and precision details are not explicitly provided, the analytical composition of Sample 3 was later validated by comparing calculated and found elemental percentages.
+
+##### 3.1.1.2 Sample 4 – [Pd₄]₀.₅@Na₃{NiII₄[CuII₂(Me₃mpba)₂]₃}·56H₂O
+- Similar to Sample 3, the detailed weighing of solids for forming the Pd nanoclusters is not elaborated upon. The emphasis is placed on rigorous control and validation of the overall composition through subsequent analyses.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 Sample 3 – [PdII(NH₃)₄][PdII₂(–H₂O)(NH₃)₆]₀.₅{NiII₄[CuII₂(Me₃mpba)₂]₃}·(solvent)
+- While the exact volumes and transfer methods for liquid reagents (e.g., solvents or modulator solutions) are not provided, standard procedures apply, using clean glassware and calibrated pipettes to ensure reproducibility.
+
+##### 3.1.2.2 Sample 4 – [Pd₄]₀.₅@Na₃{NiII₄[CuII₂(Me₃mpba)₂]₃}·56H₂O
+- **NaBH₄ solution**: Added progressively in a H₂O/CH₃OH mixture using a syringe pump to facilitate controlled reduction of Pd(II) precursors. This step was critical for converting the precursor to the tetranuclear [Pd₄] clusters.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 Sample 3 – [PdII(NH₃)₄][PdII₂(–H₂O)(NH₃)₆]₀.₅{NiII₄[CuII₂(Me₃mpba)₂]₃}·(solvent)
+- Standard magnetic stirring was applied to obtain a homogeneous solution. Although specific stirring speeds and durations are not described, the process was conducted under ambient conditions.
+
+##### 3.1.3.2 Sample 4 – [Pd₄]₀.₅@Na₃{NiII₄[CuII₂(Me₃mpba)₂]₃}·56H₂O
+- **Reduction mixture**: Continuously stirred under controlled conditions to ensure uniform mixing and effective reduction throughout the 72-hour protocol.
+
+This structured record, with distinct subsections for weighing, liquid transfer, and mixing, supports reproducibility by clearly outlining each preparative step and aligning with the verified experimental protocol.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: Sample 3 – [PdII(NH₃)₄][PdII₂(–H₂O)(NH₃)₆]₀.₅{NiII₄[CuII₂(Me₃mpba)₂]₃}·(solvent)
+
+##### Step 1: Precursor Preparation  
+- **Reagents**: Primary precursors include metal salts (Cu²⁺, Ni²⁺) and organic linker Me₃mpba.  
+  *Note: Exact quantities are not specified.*  
+- **Conditions**: Standard laboratory stirring at room temperature; pH control is performed to ensure optimal complexation.  
+- **Process**:  
+  • Prepare a solution by dissolving the metal salts in an appropriate solvent mixture.  
+  • Add Me₃mpba gradually under continuous stirring until fully dissolved.  
+- **Key Steps**: Ensure complete dissolution of all starting materials to promote uniform precursor formation.
+
+##### Step 2: MOF Assembly/Crystallization  
+- **Reagents**: The precursor solution combined with additional modulators if needed.  
+- **Conditions**: Solvothermal crystallization at 90°C using a Teflon-lined autoclave under typical pressure conditions.  
+- **Process**:  
+  • Transfer the fully dissolved precursor solution into the autoclave.  
+  • Maintain at 90°C for the crystallization period, ensuring stable temperature throughout.  
+  • Allow the system to cool to room temperature gradually before opening.  
+- **Key Steps**: Consistent temperature control and inert atmosphere to maintain phase purity and high crystallinity.
+
+##### Step 3: Purification  
+- **Process**:  
+  • Recover the crystals by filtration.  
+  • Perform successive washing steps with a H₂O/CH₃OH (1:2) mixture to remove unreacted precursors and impurities.  
+  • Optionally, a secondary wash with DMF and ethanol may be implemented for enhanced purity.
+
+##### Step 4: Drying & Activation  
+- **Drying Conditions**: Dehydrate the filtered MOF in glass inserts at 80°C for 18 hours.  
+- **Activation**: Post-drying activation can utilize vacuum conditions as required.
+
+---
+
+#### MOF Preparation [2]: Sample 4 – [Pd₄]₀.₅@Na₃{NiII₄[CuII₂(Me₃mpba)₂]₃}·56H₂O
+
+##### Step 1: Post-synthetic Reduction  
+- **Reagents**: NaBH₄ is used as the reducing agent, added in fractional amounts to achieve an overall NaBH₄/MOF molar ratio of 26.  
+- **Conditions**: Conducted in a H₂O/CH₃OH (1:2) solution at ambient temperature with each fraction allowed to react for 1.5 hours over a total period of 72 hours.  
+- **Process**:  
+  • Suspend the as-synthesized Sample 3 crystals in the solvent mixture.  
+  • Incrementally add NaBH₄, pausing 1.5 hours after each addition to ensure complete conversion of Pd(II) to Pd₄ clusters.  
+- **Key Steps**: Careful, gradual addition of NaBH₄ avoids framework disruption and cross-contamination.
+
+##### Step 2: Purification and Drying  
+- **Process**:  
+  • Gently wash the reduced sample with dichloromethane followed by the H₂O/CH₃OH mixture.  
+  • Dry and dehydrate under the same conditions (80°C for 18 hours) to obtain the final activated MOF.
+
+Both workflows emphasize meticulous control of reagent addition, temperature, and washing procedures to ensure high crystallinity, phase purity, and reproducibility of the synthesized MOFs.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD
+- **Operational Description**: Powder X-ray diffraction was performed on both crystal and polycrystalline MOF samples to confirm phase purity and crystallinity. Samples were prepared by suspending in a H₂O/CH₃OH mixture, followed by filtration and drying.
+- **Instruments and Models**: Empyrean PANalytical powder diffractometer.
+- **Characterization Conditions**: Measurements conducted at room temperature using Cu Kα radiation.
+- **Test Parameters**: Scanned over a 2θ range from 2° to 60°; specific step size and scan rate were not provided.
+- **Key Notes**: Emphasis on sample cleanliness is critical to minimize residual solvent interference with the diffraction pattern.
+
+### 4.2 FTIR
+- **Operational Description**: FTIR spectroscopy monitored CO adsorption on MOF samples to assess framework functionality. Samples were subjected to evacuation before measurements.
+- **Instruments and Models**: Biorad FTS-40A spectrometer (DTGS detector) in conjunction with a homemade IR cell.
+- **Characterization Conditions**: Pre-treatment by evacuation at 298 K under vacuum for 1 hour; measurements performed at 77 K.
+- **Test Parameters**: CO adsorption tests conducted within a specified pressure range.
+- **Key Notes**: Dual temperature capability of the IR cell permits high- and low-temperature analyses.
+
+### 4.3 TGA/DSC
+- **Operational Description**: Thermogravimetric analysis assessed thermal stability and solvent content of the MOF.
+- **Instruments and Models**: Mettler Toledo TGA/STDA 851 thermobalance.
+- **Characterization Conditions**: Experiments executed under a dry nitrogen atmosphere.
+- **Test Parameters**: Heating rate set at 10 ºC per minute.
+- **Key Notes**: Focus on stability; DSC details were limited.
+
+### 4.4 BET Surface Area Analysis
+- **Operational Description**: N₂ adsorption–desorption isotherms were measured to determine surface area and porosity.
+- **Instruments and Models**: Micromeritics ASAP2020 instrument.
+- **Characterization Conditions**: Samples degassed at 50 ºC for 15 hours under a vacuum of 10⁻⁶ Torr; adsorption performed at 77 K.
+- **Test Parameters**: Although the precise P/P₀ range was not stated, standard protocols were followed.
+- **Key Notes**: Pre-treatment ensures reproducibility despite incomplete parameter disclosure.
+
+### 4.5 SEM/TEM
+- **Operational Description**: Morphological and microstructural analyses were conducted to visualize MOF morphology and metal dispersion.
+- **Instruments and Models**: HAADF-FEI-TITAN G2 for HR-TEM and XL 30 ESEM (PHILIPS) for SEM.
+- **Characterization Conditions**: 5 mg of sample dispersed in 1 mL ethanol, drop-cast on carbon-reinforced copper grids (200 mesh), then air-dried for 24 hours.
+- **Test Parameters**: Operating conditions (e.g., acceleration voltage) were not explicitly detailed.
+- **Key Notes**: Grid preparation is vital for ensuring clear imaging of lattice fringes.
+
+### 4.6 XPS
+- **Operational Description**: XPS analysis evaluated the surface chemical composition and oxidation states of metal species.
+- **Instruments and Models**: SPECS spectrometer with Phoibos 150 MCD-9 analyzer using non-monochromatic Mg Kα (1253.6 eV) at 50 W.
+- **Characterization Conditions**: Samples prepared by drop-casting a water suspension onto a molybdenum plate followed by air drying.
+- **Test Parameters**: C1s peak calibrated at 284.5 eV.
+- **Key Notes**: Provides detailed surface composition insights, particularly for palladium.
+
+### 4.7 In-situ Techniques
+- **Operational Description**: In-situ methods tracked structural dynamics during experimental conditions.
+- **Instruments and Models**: Home-made IR cell for in-situ FTIR and Empyrean PANalytical diffractometer for in-situ PXRD.
+- **Characterization Conditions**: In-situ FTIR conducted at both high and 77 K; PXRD used borosilicate capillaries at room temperature.
+- **Test Parameters**: Specific scan parameters for in-situ measurements were not elaborated.
+- **Key Notes**: These techniques enable real-time monitoring of structural changes under reaction conditions.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+The MOF activation process was integrated into the material preparation protocol to ensure effective solvent removal while preserving framework integrity. Although dedicated activation equipment or parameters such as vacuum pressure, controlled gas flow, or extended treatment durations were not expressly specified, the experimental workflow incorporated procedures that served to activate the MOF before catalytic testing.
+
+#### 5.1.1 Activation Temperature
+- **Definition:** The activation temperature is key for facilitating the removal of residual solvents while maintaining the structural integrity of the MOF.
+- **Experimental Conditions:** The setup employed pre-heated oil baths set at 80°C. This temperature was chosen to aid in solvent evaporation and to safeguard the porous network.
+- **Observations:** Operating at 80°C ensured that the MOF retained its high porosity and crystallinity, as demonstrated by consistent PXRD patterns and effective catalytic performance.
+
+#### 5.1.2 Activation Pressure
+- **Definition:** Activation pressure typically assists in solvent removal through vacuum conditions.
+- **Experimental Conditions:** No dedicated vacuum or pressure control was implemented during the activation stage; the process was conducted under standard ambient conditions.
+- **Observations:** The absence of specific pressure manipulation did not detract from solvent removal effectiveness, as the framework remained robust post-treatment.
+
+#### 5.1.3 Activation Gas
+- **Definition:** Utilization of an activation gas can promote efficient removal of volatile species and further stabilize the framework.
+- **Experimental Conditions:** No activation gas was applied in the pre-use treatment of the MOF.
+- **Observations:** The experimental design relied on thermal treatment alone, with solvent evacuation achieved without additional gas purging.
+
+#### 5.1.4 Activation Flow Rate
+- **Definition:** If used, the flow rate of an activation gas ensures uniform exposure and removal of residual species.
+- **Experimental Conditions:** Since no activation gas was introduced, no flow rate was controlled.
+- **Observations:** The process effectively proceeded without the need to regulate gas flow.
+
+#### 5.1.5 Activation Time
+- **Definition:** Activation time determines the duration required for complete solvent removal without compromising framework stability.
+- **Experimental Conditions:** A discrete activation time was not specifically defined beyond the standard sample processing.
+- **Observations:** The adopted procedures, which included subsequent washing with dichloromethane post-catalysis, were sufficient to maintain catalytic efficacy and structural stability.
+
+### 5.2 Application/Performance Evaluation
+
+#### 5.2.1 Test Temperature  
+- **Definition:** The temperature at which the catalytic reactions, including the Buchner-type cycloheptatriene synthesis, are performed to drive reaction kinetics and influence catalyst performance.  
+- **Experimental Conditions:** The catalytic tests were conducted at 80°C.  
+- **Observations:** The elevated temperature supports rapid conversion while maintaining the stability of the MOF-supported Pd clusters.
+
+#### 5.2.2 Test Pressure  
+- **Definition:** The pressure during catalytic evaluations, which can affect gas–solid interactions in processes such as adsorption or dynamic reactions.  
+- **Experimental Conditions:** Pressure conditions were not specified in the reported experiments.  
+- **Observations:** The focus was maintained on liquid-phase and batch or flow reactor conditions where pressure was kept ambient.
+
+#### 5.2.3 Reactant Composition  
+- **Definition:** The chemical components introduced into the reactor, which include substrates and any necessary reducing agents to activate the catalyst.  
+- **Experimental Conditions:** In Sample 3, a diazoacetate solution was used as the reactant. In Sample 4, the catalytic tests involved a mixture where NaBH₄ was employed in a H₂O/CH₃OH solution.  
+- **Observations:** These reactant selections facilitated both the activation of the MOF through reduction of Pd²⁺ species and subsequent product formation, achieving complete conversion.
+
+#### 5.2.4 Flow Rate and Reaction Time  
+- **Definition:** Flow rate pertains to the controlled addition of reactants during continuous flow experiments, while reaction time refers to the duration of the catalytic process.  
+- **Experimental Conditions:** Although a specific flow rate value was not provided, continuous flow experiments utilized a syringe pump for the diazoacetate solution. Batch experiments were performed for 2 hours, and continuous flow tests lasted 24 hours.  
+- **Observations:** Consistent operation over these durations yielded a turnover number (TON) >2,000 and demonstrated reproducible performance.
+
+#### 5.2.5 Catalyst Activation and Reactor Configuration  
+- **Definition:** Catalyst activation involves post-synthetic treatments converting Pd²⁺ species to active Pd⁰/Pd¹⁺ clusters. Reactor configuration ensures controlled reaction environments.  
+- **Experimental Conditions:** NaBH₄ was used for post-synthetic reduction to form homogeneously distributed Pd clusters. Batch reactors employed a round-bottom flask with a magnetic stirrer, whereas continuous flow systems used a Soxhlet apparatus connected to a two-necked round-bottom flask.  
+- **Observations:** These protocols ensured high conversion rates (100%) and excellent catalyst recyclability (up to 20 cycles) with robust activity in both reactor setups.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** The crystal structure and phase purity of the MOF samples were assessed using powder X-ray diffraction (PXRD) and single-crystal X-ray diffraction (SCXRD). PXRD is essential for confirming bulk crystallinity and phase purity, while SCXRD provides detailed structural information at the atomic level.
+- **Findings:** For Sample 3 ([PdII(NH₃)₄][PdII₂(–H₂O)(NH₃)₆]₀.₅{NiII₄[CuII₂(Me₃mpba)₂]₃}·(solvent)), PXRD patterns matched the simulated patterns in the 2θ range of 2.0–60.0°, confirming high crystallinity and phase purity, with no peaks attributable to Pd nanoparticles, even after catalysis. SCXRD revealed a tetragonal structure (space group P4/mmm) with cell parameters a = 35.920(2) Å, c = 15.3561(9) Å, and V = 19,813(2) Å³, and confirmed the presence of mononuclear and dinuclear Pd(II) complexes within the pores. For Sample 4 ([Pd₄]₀.₅@Na₃{NiII₄[CuII₂(Me₃mpba)₂]₃}·56H₂O), PXRD patterns indicated preserved crystallinity and phase purity after post-synthetic reduction, with no evidence of Pd nanoparticle formation.
+- **Observations:** Both samples retained their crystalline frameworks after catalytic cycles and reduction processes, demonstrating robust structural integrity.
+
+#### 6.1.2 Morphology and Nanocluster Dispersion
+- **Description:** Scanning electron microscopy (SEM), transmission electron microscopy (TEM), high-angle annular dark-field scanning TEM (HAADF-STEM), and energy-dispersive X-ray (EDX) mapping were employed to examine particle morphology, size, and the spatial distribution of metal species.
+- **Findings:** In Sample 3, SEM and TEM images showed homogeneous distribution of Pd, Ni, and Cu throughout the MOF crystals, with no aggregation of Pd species. For Sample 4, HR-TEM and HAADF-STEM imaging revealed uniformly dispersed Pd₄ nanoclusters within the framework, with clear lattice fringes (0.248 nm) corresponding to the (110) planes. EDX mapping confirmed the even spatial distribution of all metal components.
+- **Observations:** The absence of Pd aggregation and the direct visualization of nanoclusters confirm effective confinement and stabilization within the MOF channels.
+
+#### 6.1.3 Surface Area, Porosity, and Hydration
+- **Description:** The porosity and hydration state were inferred from structural analysis and thermogravimetric data. The Me₃mpba ligand directs the formation of multiple pore types, with virtual diameters ranging from approximately 0.4 nm to 2.2 nm.
+- **Findings:** Sample 4 contains 56 H₂O molecules per formula unit, as confirmed by TGA, indicating high hydration and porosity. The framework architecture supports the encapsulation of Pd₄ clusters and facilitates substrate access during catalysis.
+- **Observations:** The well-defined pore structure and high water content are consistent with the MOF’s ability to stabilize ultrasmall metal clusters and enable shape-selective catalysis.
+
+#### 6.1.4 Thermal Stability
+- **Description:** Thermogravimetric analysis (TGA) was used to evaluate the thermal stability and quantify solvent/lattice water content.
+- **Findings:** For Sample 3, the framework remained stable up to approximately 250°C under dry N₂, with initial weight loss attributed to lattice and coordinated water. Sample 4 exhibited initial weight loss corresponding to the release of 56 H₂O molecules, with the framework remaining intact up to the onset of decomposition at higher temperatures.
+- **Observations:** Both samples demonstrate sufficient thermal stability for catalytic applications, with framework decomposition occurring only after significant solvent loss.
+
+#### 6.1.5 Chemical Composition and Oxidation States
+- **Description:** X-ray photoelectron spectroscopy (XPS), Fourier-transform infrared spectroscopy (FTIR) of adsorbed CO, inductively coupled plasma mass spectrometry (ICP-MS), and elemental analysis were used to determine elemental composition and metal oxidation states.
+- **Findings:** In Sample 3, XPS showed a Pd3d₅/₂ peak at 338.6 eV, indicating exclusive presence of Pd(II). FTIR of adsorbed CO detected characteristic bands for Pd²⁺ species. ICP-MS and elemental analysis confirmed the expected stoichiometry of Pd, Ni, Cu, and Na. In Sample 4, FTIR revealed CO adsorption bands at 2,140 cm⁻¹ (Pd⁺) and 1,882 cm⁻¹ (Pd⁰), while XPS displayed Pd3d₅/₂ peaks at 335.7 eV (Pd⁰) and 337.0 eV (Pd⁺) in a 1:1 ratio, with a minor Pd²⁺ component at 338.7 eV, confirming a mixed-valence Pd⁺/Pd⁰ state.
+- **Observations:** The transformation from Pd(II) complexes in Sample 3 to mixed-valence Pd₄ clusters in Sample 4 is clearly evidenced by combined spectroscopic and analytical techniques, validating the post-synthetic reduction strategy and the resulting electronic structure of the active sites.
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Catalytic Conversion and Yield
+- **Description:** Catalytic conversion refers to the percentage of starting material transformed into products under specified conditions. Yield denotes the proportion of desired product isolated, typically expressed as a percentage. For the Buchner-type cycloheptatriene synthesis, conversion and yield are quantified using in situ ^1H NMR, GC–MS, and isolated product measurements.
+- **Experimental Data:** Both Sample 3 ([PdII(NH₃)₄][PdII₂(–H₂O)(NH₃)₆]₀.₅{NiII₄[CuII₂(Me₃mpba)₂]₃}·(solvent)) and Sample 4 ([Pd₄]₀.₅@Na₃{NiII₄[CuII₂(Me₃mpba)₂]₃}·56H₂O) catalyze the Buchner reaction with 100% conversion of diazoacetate under standard conditions (80 °C, 2–8 h batch or 24 h flow). For cycloheptatriene 7a, a 90% isolated yield was achieved in flow mode (~1 g product in 100 mL benzene, 0.1 M). For other products (7a–l), yields are comparable to Rh₂(OAc)₄, with values reported as averages ±5%.
+- **Observations and Trends:** Complete conversion is consistently observed, and high yields are maintained across multiple substrates. The MOF catalyst outperforms conventional Pd sources and matches or exceeds benchmark Rh catalysts.
+
+#### 6.2.2 Turnover Number (TON)
+- **Description:** Turnover number (TON) is defined as the number of substrate molecules converted per active catalytic site before deactivation, calculated as:  
+  $$ \text{TON} = \frac{\text{moles of product}}{\text{moles of catalyst}} $$
+- **Experimental Data:** For Sample 4, TON > 2,000 was achieved in both batch and continuous flow Buchner reactions. In other carbene-transfer reactions (alcohol insertion, dimerization), TONs approached 100,000 at catalyst loadings as low as 0.005 mol%.
+- **Observations and Trends:** These TON values are an order of magnitude higher than those for Rh₂(OAc)₄ (TON = 104), demonstrating the exceptional efficiency of the MOF-supported Pd₄ clusters.
+
+#### 6.2.3 Selectivity and Shape Selectivity
+- **Description:** Selectivity is assessed by the isomeric distribution of products, reflecting the catalyst’s ability to favor specific reaction pathways or product isomers. Shape selectivity arises from the MOF’s pore architecture restricting access to certain transition states.
+- **Experimental Data:** For methyl-substituted cycloheptatriene products (7b), the isomeric ratio (2-, 3-, 4-methyl) shifts from ~1:1:2.5 (Rh₂(OAc)₄) to 0:1:1 (Sample 4), indicating strong shape selectivity. For bulkier substrates (e.g., diazoacetate 8), yield drops to 57%, and no conversion is observed with zeolites of smaller pore size.
+- **Observations and Trends:** The MOF’s defined pore structure imposes significant shape selectivity, favoring less hindered products and restricting larger substrates.
+
+#### 6.2.4 Cycling Stability and Reusability
+- **Description:** Cycling stability measures the retention of catalytic activity and structural integrity over repeated reaction cycles.
+- **Experimental Data:** Sample 4 was reused up to 20 times in batch mode (0.5 mol% loading) without significant loss of activity. In flow mode, the catalyst retained full activity after 24 hours. PXRD patterns before and after five cycles confirmed unchanged crystallinity and absence of Pd nanoparticle formation.
+- **Observations and Trends:** The catalyst exhibits robust recyclability and stability, with no need for reactivation and no detectable degradation or aggregation of Pd clusters.
+
+#### 6.2.5 Structural Integrity Post-Catalysis
+- **Description:** Structural integrity is evaluated by comparing crystallinity and morphology before and after catalysis using PXRD, HR-TEM, and HAADF-STEM.
+- **Experimental Data:** PXRD patterns remain unchanged after multiple catalytic cycles. Microscopy confirms homogeneous distribution of Pd₄ clusters and absence of aggregation.
+- **Observations and Trends:** The MOF framework preserves its structure and active site dispersion, underpinning the observed high performance and durability.

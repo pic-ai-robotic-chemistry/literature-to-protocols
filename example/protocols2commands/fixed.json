@@ -1,0 +1,661 @@
+{
+  "startNodeId": "开始节点id",
+  "endNodeId": "结束节点id",
+  "nodeMap": {
+    "开始节点id": {
+      "nodeId": "开始节点id",
+      "dataId": "开始节点属性",
+      "stepType": "ProcessControl",
+      "workstationType": "start",
+      "workstationTypeName": "开始"
+    },
+    "结束节点id": {
+      "nodeId": "结束节点id",
+      "dataId": "结束节点属性",
+      "stepType": "ProcessControl",
+      "workstationType": "end",
+      "workstationTypeName": "结束"
+    },
+    "物料站0节点id": {
+      "nodeId": "物料站0节点id",
+      "dataId": "物料站0节点属性",
+      "stepType": "workstation",
+      "workstationType": "starting_station",
+      "workstationTypeName": "物料站"
+    },
+    "液体进样站0节点id": {
+      "nodeId": "液体进样站0节点id",
+      "dataId": "液体进样站0节点属性",
+      "stepType": "workstation",
+      "workstationType": "liquid_dispensing",
+      "workstationTypeName": "液体进样站"
+    },
+    "磁力搅拌工作站0节点id": {
+      "nodeId": "磁力搅拌工作站0节点id",
+      "dataId": "磁力搅拌工作站0节点属性",
+      "stepType": "workstation",
+      "workstationType": "magnetic_stirring",
+      "workstationTypeName": "磁力搅拌工作站"
+    },
+    "超声清洗0节点id": {
+      "nodeId": "超声清洗0节点id",
+      "dataId": "超声清洗0节点属性",
+      "stepType": "workstation",
+      "workstationType": "ultrasonic_cleaning",
+      "workstationTypeName": "超声清洗"
+    },
+    "纯化工作站0节点id": {
+      "nodeId": "纯化工作站0节点id",
+      "dataId": "纯化工作站0节点属性",
+      "stepType": "workstation",
+      "workstationType": "pure",
+      "workstationTypeName": "纯化工作站"
+    },
+    "烘干机0节点id": {
+      "nodeId": "烘干机0节点id",
+      "dataId": "烘干机0节点属性",
+      "stepType": "workstation",
+      "workstationType": "dryer",
+      "workstationTypeName": "烘干机"
+    },
+    "液体进样站1节点id": {
+      "nodeId": "液体进样站1节点id",
+      "dataId": "液体进样站1节点属性",
+      "stepType": "workstation",
+      "workstationType": "liquid_dispensing",
+      "workstationTypeName": "液体进样站"
+    },
+    "超声清洗1节点id": {
+      "nodeId": "超声清洗1节点id",
+      "dataId": "超声清洗1节点属性",
+      "stepType": "workstation",
+      "workstationType": "ultrasonic_cleaning",
+      "workstationTypeName": "超声清洗"
+    },
+    "双工位电化学工作站0节点id": {
+      "nodeId": "双工位电化学工作站0节点id",
+      "dataId": "双工位电化学工作站0节点属性",
+      "stepType": "workstation",
+      "workstationType": "dual_electrochemical",
+      "workstationTypeName": "双工位电化学工作站"
+    },
+    "置物工作站0节点id": {
+      "nodeId": "置物工作站0节点id",
+      "dataId": "置物工作站0节点属性",
+      "stepType": "workstation",
+      "workstationType": "elec_chem_storage_workstation",
+      "workstationTypeName": "置物工作站"
+    }
+  },
+  "path": {
+    "开始节点id": "物料站0节点id",
+    "物料站0节点id": "液体进样站0节点id",
+    "液体进样站0节点id": "磁力搅拌工作站0节点id",
+    "磁力搅拌工作站0节点id": "超声清洗0节点id",
+    "超声清洗0节点id": "纯化工作站0节点id",
+    "纯化工作站0节点id": "烘干机0节点id",
+    "烘干机0节点id": "液体进样站1节点id",
+    "液体进样站1节点id": "超声清洗1节点id",
+    "超声清洗1节点id": "双工位电化学工作站0节点id",
+    "双工位电化学工作站0节点id": "置物工作站0节点id",
+    "置物工作站0节点id": "结束节点id"
+  },
+  "dataMap": {
+    "开始节点属性": {
+      "stepType": "ProcessControl",
+      "workstationType": "start",
+      "workstationTypeName": "开始",
+      "definitionVersion": null,
+      "pipeline": null,
+      "actionParams": [],
+      "container": null,
+      "dataId": "开始节点属性"
+    },
+    "结束节点属性": {
+      "stepType": "ProcessControl",
+      "workstationType": "end",
+      "workstationTypeName": "结束",
+      "definitionVersion": null,
+      "pipeline": null,
+      "actionParams": [],
+      "container": null,
+      "dataId": "结束节点属性"
+    },
+    "物料站0节点属性": {
+      "stepType": "workstation",
+      "workstationType": "starting_station",
+      "workstationTypeName": "物料站",
+      "definitionVersion": "303物料站",
+      "pipeline": "common_take_flow",
+      "actionParams": [],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 3,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "new",
+            "selectedContainers": [
+              {
+                "logicNo": 1,
+                "selected": true
+              },
+              {
+                "logicNo": 2,
+                "selected": true
+              },
+              {
+                "logicNo": 3,
+                "selected": true
+              }
+            ]
+          },
+          {
+            "containerCount": 0,
+            "containerTypeCode": "96_hole_plate",
+            "containerTypeName": "96孔板",
+            "allocateMode": "new",
+            "selectedContainers": []
+          }
+        ]
+      },
+      "dataId": "物料站0节点属性"
+    },
+    "液体进样站0节点属性": {
+      "stepType": "workstation",
+      "workstationType": "liquid_dispensing",
+      "workstationTypeName": "液体进样站",
+      "definitionVersion": "移液平台2.0-1ml",
+      "pipeline": "multi_add_flow",
+      "actionParams": [
+        {
+          "actionCode": "add_liquid",
+          "key": "add_liquid",
+          "params": [
+            {
+              "paramCode": "project",
+              "value": "[{\"tube_num\": 1, \"cap\": \"1\", \"bottle0\": 0.5, \"bottle1\": 0.5, \"bottle2\": 0.5, \"bottle3\": 0.5, \"bottle4\": 0.5, \"bottle5\": 1.0, \"bottle6\": 0.5, \"bottle7\": 0.5}, {\"tube_num\": 2, \"cap\": \"1\", \"bottle0\": 0, \"bottle1\": 0, \"bottle2\": 0, \"bottle3\": 0, \"bottle4\": 0, \"bottle5\": 0, \"bottle6\": 0, \"bottle7\": 0}, {\"tube_num\": 3, \"cap\": \"1\", \"bottle0\": 0, \"bottle1\": 0, \"bottle2\": 0, \"bottle3\": 0, \"bottle4\": 0, \"bottle5\": 0, \"bottle6\": 0, \"bottle7\": 0}]"
+            }
+          ]
+        }
+      ],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 3,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 1,
+                "selected": true
+              },
+              {
+                "logicNo": 2,
+                "selected": true
+              },
+              {
+                "logicNo": 3,
+                "selected": true
+              }
+            ]
+          },
+          {
+            "containerCount": 0,
+            "containerTypeCode": "96_hole_plate",
+            "containerTypeName": "96孔板",
+            "allocateMode": "extend",
+            "selectedContainers": []
+          },
+          {
+            "containerCount": 0,
+            "containerTypeCode": "bottle",
+            "containerTypeName": "西林瓶",
+            "allocateMode": "extend",
+            "selectedContainers": []
+          }
+        ]
+      },
+      "dataId": "液体进样站0节点属性"
+    },
+    "磁力搅拌工作站0节点属性": {
+      "stepType": "workstation",
+      "workstationType": "magnetic_stirring",
+      "workstationTypeName": "磁力搅拌工作站",
+      "definitionVersion": "303-25通道磁力搅拌控制器",
+      "pipeline": "multi_main_flow",
+      "actionParams": [
+        {
+          "actionCode": "mixing_time",
+          "key": "mixing_time",
+          "params": [
+            {
+              "paramCode": "mixing_time",
+              "value": "10"
+            }
+          ]
+        }
+      ],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 1,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 1,
+                "selected": true
+              }
+            ]
+          }
+        ]
+      },
+      "dataId": "磁力搅拌工作站0节点属性"
+    },
+    "超声清洗0节点属性": {
+      "stepType": "workstation",
+      "workstationType": "ultrasonic_cleaning",
+      "workstationTypeName": "超声清洗",
+      "definitionVersion": "1.0",
+      "pipeline": "multi_main_flow",
+      "actionParams": [
+        {
+          "actionCode": "start_clean",
+          "key": "start_clean",
+          "params": [
+            {
+              "paramCode": "value",
+              "value": "30"
+            }
+          ]
+        }
+      ],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 1,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 1,
+                "selected": true
+              }
+            ]
+          }
+        ]
+      },
+      "dataId": "超声清洗0节点属性"
+    },
+    "纯化工作站0节点属性": {
+      "stepType": "workstation",
+      "workstationType": "pure",
+      "workstationTypeName": "纯化工作站",
+      "definitionVersion": "1.0",
+      "pipeline": "new_pure_flow",
+      "actionParams": [
+        {
+          "actionCode": "start",
+          "key": "start",
+          "params": [
+            {
+              "paramCode": "program",
+              "value": "3"
+            },
+            {
+              "paramCode": "time",
+              "value": "5"
+            },
+            {
+              "paramCode": "speed",
+              "value": "3000"
+            },
+            {
+              "paramCode": "cleanNum",
+              "value": "3"
+            },
+            {
+              "paramCode": "washSolutions",
+              "value": "[{\"washSolution\": 1}]"
+            },
+            {
+              "paramCode": "autoStatus",
+              "value": "1"
+            },
+            {
+              "paramCode": "addLiquidNum",
+              "value": "15"
+            },
+            {
+              "paramCode": "isLeaveWashSolution",
+              "value": "0"
+            },
+            {
+              "paramCode": "leaveParam",
+              "value": "{\"leaveLiquidAmount\": \"10\", \"washSolution\": \"1\"}"
+            }
+          ]
+        }
+      ],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 1,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 1,
+                "selected": true
+              }
+            ]
+          },
+          {
+            "containerCount": 0,
+            "containerTypeCode": "bottle_sample_retention",
+            "containerTypeName": "留样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 0,
+                "selected": true
+              }
+            ]
+          }
+        ]
+      },
+      "dataId": "纯化工作站0节点属性"
+    },
+    "烘干机0节点属性": {
+      "stepType": "workstation",
+      "workstationType": "dryer",
+      "workstationTypeName": "烘干机",
+      "definitionVersion": "gxq_1.0",
+      "pipeline": "multi_main_flow",
+      "actionParams": [
+        {
+          "actionCode": "close-door",
+          "key": "close-door",
+          "params": [
+            {
+              "paramCode": "temperature",
+              "value": "80"
+            }
+          ]
+        },
+        {
+          "actionCode": "pure_dry",
+          "key": "pure_dry",
+          "params": [
+            {
+              "paramCode": "time",
+              "value": "60"
+            }
+          ]
+        },
+        {
+          "actionCode": "close-door",
+          "key": "close-door_2",
+          "params": [
+            {
+              "paramCode": "temperature",
+              "value": "80"
+            }
+          ]
+        }
+      ],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 1,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 1,
+                "selected": true
+              }
+            ]
+          }
+        ]
+      },
+      "dataId": "烘干机0节点属性"
+    },
+    "液体进样站1节点属性": {
+      "stepType": "workstation",
+      "workstationType": "liquid_dispensing",
+      "workstationTypeName": "液体进样站",
+      "definitionVersion": "移液平台2.0-1ml",
+      "pipeline": "multi_add_flow",
+      "actionParams": [
+        {
+          "actionCode": "add_liquid",
+          "key": "add_liquid",
+          "params": [
+            {
+              "paramCode": "project",
+              "value": "[{\"tube_num\": 1, \"cap\": \"1\", \"bottle0\": \"0\", \"bottle1\": \"0\", \"bottle2\": \"0\", \"bottle3\": 0, \"bottle4\": \"0\", \"bottle5\": \"0\", \"bottle6\": \"0\", \"bottle7\": 0}, {\"tube_num\": 2, \"cap\": \"1\", \"bottle0\": \"0\", \"bottle1\": \"0\", \"bottle2\": \"0\", \"bottle3\": 0, \"bottle4\": \"0\", \"bottle5\": \"0\", \"bottle6\": \"0\", \"bottle7\": 0}, {\"tube_num\": 3, \"cap\": \"1\", \"bottle0\": \"0\", \"bottle1\": \"0\", \"bottle2\": \"0\", \"bottle3\": 0.1, \"bottle4\": \"0\", \"bottle5\": \"0\", \"bottle6\": \"0\", \"bottle7\": 1.0}]"
+            }
+          ]
+        }
+      ],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 3,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 1,
+                "selected": true
+              },
+              {
+                "logicNo": 2,
+                "selected": true
+              },
+              {
+                "logicNo": 3,
+                "selected": true
+              }
+            ]
+          },
+          {
+            "containerCount": 0,
+            "containerTypeCode": "96_hole_plate",
+            "containerTypeName": "96孔板",
+            "allocateMode": "extend",
+            "selectedContainers": []
+          },
+          {
+            "containerCount": 0,
+            "containerTypeCode": "bottle",
+            "containerTypeName": "西林瓶",
+            "allocateMode": "extend",
+            "selectedContainers": []
+          }
+        ]
+      },
+      "dataId": "液体进样站1节点属性"
+    },
+    "超声清洗1节点属性": {
+      "stepType": "workstation",
+      "workstationType": "ultrasonic_cleaning",
+      "workstationTypeName": "超声清洗",
+      "definitionVersion": "1.0",
+      "pipeline": "multi_main_flow",
+      "actionParams": [
+        {
+          "actionCode": "start_clean",
+          "key": "start_clean",
+          "params": [
+            {
+              "paramCode": "value",
+              "value": "30"
+            }
+          ]
+        }
+      ],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 1,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 3,
+                "selected": true
+              }
+            ]
+          }
+        ]
+      },
+      "dataId": "超声清洗1节点属性"
+    },
+    "双工位电化学工作站0节点属性": {
+      "stepType": "workstation",
+      "workstationType": "dual_electrochemical",
+      "workstationTypeName": "双工位电化学工作站",
+      "definitionVersion": "2.0",
+      "pipeline": "multi_main_flow",
+      "actionParams": [
+        {
+          "actionCode": "chemicalTest",
+          "key": "chemicalTest",
+          "params": [
+            {
+              "paramCode": "bottleType",
+              "value": "uncapScrewBottle"
+            },
+            {
+              "paramCode": "cathodePoolOperate",
+              "value": "no"
+            },
+            {
+              "paramCode": "cathodePoolRetentionVolume",
+              "value": "10"
+            },
+            {
+              "paramCode": "carbonPaperOperate",
+              "value": "heat"
+            },
+            {
+              "paramCode": "carbonPaperOperateTemperature",
+              "value": "60"
+            },
+            {
+              "paramCode": "liquidFill",
+              "value": "no"
+            },
+            {
+              "paramCode": "taskOne",
+              "value": "{\"isStart\": \"true\", \"sampleInjectionBottle\": 3, \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": 50, \"electrolyteAdditionAmount\": 20, \"carbonPaperOperateTime\": 30, \"cleaningFrequency\": 3, \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": 350}"
+            },
+            {
+              "paramCode": "taskTwo",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "taskThree",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "taskFour",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "taskFive",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "taskSix",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "taskSeven",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "taskEight",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "taskNine",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "taskTen",
+              "value": "{\"isStart\": \"false\", \"sampleInjectionBottle\": \"\", \"retentionSampleBottle\": \"\", \"catalystDropletVolume\": \"100\", \"electrolyteAdditionAmount\": \"20\", \"carbonPaperOperateTime\": \"10\", \"cleaningFrequency\": \"3\", \"carbonPaperType\": \"hydrophilicity\", \"ventilationStatus\": \"none\", \"ventilationDuration\": \"1\", \"velocityFlow\": \"3\", \"magneticStirringSpeed\": \"350\"}"
+            },
+            {
+              "paramCode": "testTemplate",
+              "value": "[{\"id\": 1549499770798080, \"modelName\": \"智能数据调试\", \"modelValue\": [{\"order\": 0, \"workDetectionType\": \"linearSweepVoltammetry\", \"param\": {\"initE\": \"0\", \"finalE\": \"0.8\", \"scanRate\": \"0.05\", \"sampleInterval\": \"0.001\", \"quietTime\": \"2\", \"sensitivity\": \"1e-001\"}}]}]"
+            }
+          ]
+        }
+      ],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 1,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 3,
+                "selected": true
+              }
+            ]
+          }
+        ]
+      },
+      "dataId": "双工位电化学工作站0节点属性"
+    },
+    "置物工作站0节点属性": {
+      "stepType": "workstation",
+      "workstationType": "elec_chem_storage_workstation",
+      "workstationTypeName": "置物工作站",
+      "definitionVersion": "1.0",
+      "pipeline": "put_flow",
+      "actionParams": [],
+      "container": {
+        "allocation": [
+          {
+            "containerCount": 3,
+            "containerTypeCode": "bottle_storage",
+            "containerTypeName": "进样瓶",
+            "allocateMode": "extend",
+            "selectedContainers": [
+              {
+                "logicNo": 1,
+                "selected": true
+              },
+              {
+                "logicNo": 2,
+                "selected": true
+              },
+              {
+                "logicNo": 3,
+                "selected": true
+              }
+            ]
+          }
+        ]
+      },
+      "dataId": "置物工作站0节点属性"
+    }
+  },
+  "lockMap": {},
+  "planName": "HE-LDH OER 电催化",
+  "planId": ""
+}

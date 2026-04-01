@@ -1,0 +1,82 @@
+openai:
+  api_key: ""
+  base_url: 'https://api.openai.com/v1' # TODO: set your base url, e.g., https://api.openai.com/v1
+  organization: ''
+  prompts_path:
+    'prompts_config.json' # Path to the prompts configuration file
+  ignore_title: ["reference","appendix","acknowledg"] # Titles to ignore during summarization
+  rpm_limit: 3   # Max requests per minute; 0 means no limit， 3 means max 3 requests per minute
+  num_processes: 6 # Number of parallel processes for requests
+  prompt_ratio: 0.8 # Proportion of max tokens that can be prompt
+  model_config:
+    model: "gpt-4o-mini"  
+    # model: "qwen2.5-coder:32b"  
+    temperature: 0
+    max_tokens: 128000 # Max tokens per request 
+    top_p: 0
+    frequency_penalty: 0
+    presence_penalty: 0
+    max_output_tokens: 16384 # Max tokens for each response
+  compression_ratio: 0.4 # Compression ratio for document summarization, avoid the length of the document is too short
+  min_length: 700 # Minimum document length; regenerate if below this
+  json_qa_model: "gpt-3.5-turbo-1106" # Model for JSON generation
+  max_regenerate: 3 # Max regenerations for the document-level summarization
+  img_qa_model: "gpt-4o" # Model for image question answering
+  tts_model: "tts-1" # Model for text-to-speech
+
+qwen:
+  api_key: ""
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  model_config:
+    model: "qwen-plus"  
+    # model: "qwen2.5-coder:32b"  
+    temperature: 0.1
+    max_tokens: 128000 # Max tokens per request
+    top_p: 1.0
+    frequency_penalty: 0.1
+    presence_penalty: 0.2
+    max_output_tokens: 16384 # Max tokens for each response
+
+deepseek:
+  api_key: ""
+  base_url: "https://api.deepseek.com" 
+ 
+  model_config:
+    model: "deepseek-reasoner"
+    # model: "qwen2.5-coder:32b"  
+    temperature: 0
+    max_tokens: 128000 # Max tokens per request
+    top_p: 0
+    frequency_penalty: 0
+    presence_penalty: 0
+    max_output_tokens: 16384 # Max tokens for each response
+
+
+split:
+  base_url: 'https://api.openai.com/v1' # TODO: set your base url, e.g., https://api.openai.com/v1
+  organization: ''
+  api_key: ""
+  model_config:
+    model: "gpt-4o-mini"  
+    temperature: 0
+    max_tokens: 128000 # Max tokens per request
+    top_p: 0
+    frequency_penalty: 0
+    presence_penalty: 0
+    max_output_tokens: 16384 # Max tokens for each response
+
+tts:
+  base_url: "xxx" # Set your TTS base URL (required for Youdao API)
+  api_key: 'xxx' # Set your TTS API key (required for Youdao API)
+  app_secret: "xxx" # Set your app secret (required for Youdao API)
+  model: "openai" # Model for text-to-speech; supports "youdao" or "openai"
+
+alignment:
+  min_grained_level: 3  # Minimum granularity level for aligning images with subtitles, e.g., setting to 3 means images can be aligned with the finest 3rd-level subtitle (### subtitle), the higher the value, the more precise the alignment
+  max_grained_level: 4  # Maximum granularity level for section splitting, e.g., setting to 4 means the article structure can be split into 4th-level subtitles (#### subtitle), the higher the value, the more detailed the structure
+  threshold: 0.9 # Threshold for section title similarity
+  img_width: 300 # Width of images displayed in the frontend
+  margin: 10
+
+
+
