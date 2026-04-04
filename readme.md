@@ -3,8 +3,6 @@
 A **Literature-to-Protocols** toolkit repository for chemical experimental literature.  
 This project combines **knowledge graphs (KGs)** and **large language models (LLMs)** to extract experiment-related information from scientific papers and generate structured, reviewable, and traceable protocol templates for experiment design reference, result organization, and further exploration of conversion into laboratory platform code.
 
-> This repository is currently better suited as a **paper method implementation + example showcase repository**.  
-> Some directories are mainly intended to demonstrate prompt design, generated examples, entity-level comparison, and evaluation logic, so not all contents are meant to support one-click execution of complete baseline comparison experiments.
 
 ---
 
