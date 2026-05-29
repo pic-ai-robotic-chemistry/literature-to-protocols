@@ -1,0 +1,133 @@
+{
+  "pair_id": 15,
+  "winner": "protocol",
+  "winner_reason_short": "The protocol plan provides clearer automation boundaries, more explicit vessel/sample transitions, and better mapping of manual/external steps, resulting in higher platform adaptation practicality and automation-scope fidelity.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid dosing",
+      "liquid dosing",
+      "precursor solution preparation",
+      "mixing/stirring/dispersion",
+      "main synthesis reaction",
+      "washing/purification/centrifugation",
+      "drying/activation",
+      "final storage",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "electrochemical testing",
+      "glass-state melt/quench",
+      "PXRD, TGA/DSC, SEM, BET, NMR characterization"
+    ],
+    "notes": "Both plans automate ZIF-UC-2/3/4/5 synthesis, purification, and drying, but the protocol plan is more explicit about vessel/sample transitions, manual/external boundaries, and does not conflate downstream steps."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 10,
+      "covered_material_stage_count": 10,
+      "material_coverage": 1.0,
+      "coverage_reason": "All core material-preparation stages are present, including waste handling and explicit drying/activation."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 1,
+      "correctly_isolated_boundary_count": 1,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 4.5,
+      "boundary_reason": "Manual/external steps (e.g., platform default parameters) are clearly marked, and downstream steps are excluded."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 1,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or offline analysis steps are included in the main workflow."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 17.5,
+      "practicality_reason": "Good module mapping and container tracking; some ambiguity in step-to-container mapping for purification and drying, but overall practical."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 18.0,
+      "fidelity_reason": "Faithful to the automation-scope material workflow, with clear exclusion of downstream/application steps."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Each ZIF variant is handled in a clearly separated branch with independent containers."
+    },
+    "main_strengths": [
+      "Full coverage of material-preparation lifecycle",
+      "Clear exclusion of downstream/application steps"
+    ],
+    "main_weaknesses": [
+      "Some ambiguity in purification/drying vessel transitions",
+      "Less explicit about manual/external step boundaries compared to protocol plan"
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 10,
+      "covered_material_stage_count": 10,
+      "material_coverage": 1.0,
+      "coverage_reason": "All required material-preparation stages are present, including explicit washing, drying, and waste handling."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "Manual/external steps (e.g., undefined parameters, downstream tests) are explicitly marked as out-of-scope or requiring platform defaults."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 2,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or offline analysis steps are included in the main workflow; all are clearly excluded or marked as external."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 19.0,
+      "practicality_reason": "Very clear module mapping, vessel/sample transitions, and explicit handling of manual/external boundaries; all steps are actionable."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 19.5,
+      "fidelity_reason": "Highly faithful to the automation-scope workflow, with explicit exclusion of downstream steps and clear handling of all boundaries."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Each ZIF variant is handled independently with clear sample-to-step mapping and no branch conflicts."
+    },
+    "main_strengths": [
+      "Explicit vessel/sample transitions and module mapping",
+      "Clear isolation of manual/external and downstream steps"
+    ],
+    "main_weaknesses": [
+      "Some required parameters defaulted due to protocol incompleteness (but this is handled transparently)",
+      "Slightly more complex vessel handling (but well documented)"
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "tie",
+    "fewer_material_omissions": "tie",
+    "better_automation_boundary_quality": "protocol",
+    "less_application_overreach": "tie",
+    "better_platform_adaptation_practicality": "protocol",
+    "better_automation_scope_fidelity": "protocol",
+    "better_branch_handling": "tie",
+    "better_overall_for_automation_scope_material_workflow": "protocol"
+  }
+}

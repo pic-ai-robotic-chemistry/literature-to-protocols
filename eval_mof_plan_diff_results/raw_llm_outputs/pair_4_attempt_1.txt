@@ -1,0 +1,139 @@
+{
+  "pair_id": 4,
+  "winner": "protocol",
+  "winner_reason_short": "The protocol plan provides a more complete, clearly bounded, and platform-adapted material-preparation workflow without mixing in downstream analysis steps.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid dosing",
+      "liquid dosing",
+      "precursor solution preparation",
+      "mixing/stirring",
+      "main synthesis reaction",
+      "post-synthetic modification (secondary growth)",
+      "washing/purification/centrifugation",
+      "solvent exchange",
+      "drying",
+      "activation",
+      "final dispersion/storage",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "XRD analysis",
+      "HPLC analysis",
+      "electrochemical testing"
+    ],
+    "notes": "Both plans automate MOF material synthesis, washing, drying, and activation, but protocol excludes downstream analysis from the main workflow and provides clearer stepwise adaptation and boundaries."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 12,
+      "covered_material_stage_count": 10,
+      "material_coverage": 0.83,
+      "coverage_reason": "Covers all core material-preparation stages but includes XRD and HPLC analysis as main workflow steps, which are downstream."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 2,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": [
+        "activation (as a distinct step)",
+        "final dispersion/storage (explicit)"
+      ]
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 3,
+      "correctly_isolated_boundary_count": 3,
+      "unsupported_as_automated_count": 2,
+      "automation_boundary_score_5": 3.0,
+      "boundary_reason": "Manual/external steps are mostly noted, but some unsupported operations (e.g., XRD/HPLC) are not clearly isolated as external."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 2,
+      "optional_or_external_downstream_count": 0,
+      "application_overreach_penalty_5": 2.0,
+      "overreach_reason": "XRD and HPLC analysis are included as required workflow steps, not marked as optional/external."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 14.0,
+      "practicality_reason": "Most steps are mapped to modules with actionable parameters, but downstream analysis steps and some unclear boundaries reduce practical automation."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 13.0,
+      "fidelity_reason": "Material-preparation lifecycle is mostly preserved, but mixing in analysis steps lowers automation-scope fidelity."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Multiple MOF branches are clearly separated and independently handled."
+    },
+    "main_strengths": [
+      "Detailed stepwise mapping to platform modules",
+      "Explicit handling of multi-branch MOF synthesis"
+    ],
+    "main_weaknesses": [
+      "Includes downstream XRD/HPLC analysis as main workflow steps",
+      "Some unsupported steps not clearly isolated as external"
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 12,
+      "covered_material_stage_count": 12,
+      "material_coverage": 1.0,
+      "coverage_reason": "All required material-preparation stages are covered, including activation and waste handling, with downstream analysis excluded."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "Manual/external steps are clearly marked, and no unsupported operations are treated as automated."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 1,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or analysis steps are included in the main workflow; analysis is clearly excluded."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 18.0,
+      "practicality_reason": "All steps are mapped to valid modules with clear containers, actionable parameters, and practical sample transitions."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 18.0,
+      "fidelity_reason": "Faithfully converts the protocol into a complete automation-scope workflow, with clear boundaries and no mixing of downstream steps."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "MOF variants and parallel synthesis are clearly separated and independently handled."
+    },
+    "main_strengths": [
+      "Full coverage of all material-preparation stages",
+      "No downstream analysis in main workflow; clear automation boundaries"
+    ],
+    "main_weaknesses": [
+      "Some parameters defaulted due to literature gaps",
+      "Slightly less module detail than origin_paper in some steps"
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "protocol",
+    "fewer_material_omissions": "protocol",
+    "better_automation_boundary_quality": "protocol",
+    "less_application_overreach": "protocol",
+    "better_platform_adaptation_practicality": "protocol",
+    "better_automation_scope_fidelity": "protocol",
+    "better_branch_handling": "tie",
+    "better_overall_for_automation_scope_material_workflow": "protocol"
+  }
+}

@@ -1,0 +1,354 @@
+# Hetero-interpenetrated metal–organic frameworks
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Zinc(II) nitrate tetrahydrate**: Zn(NO₃)₂·4H₂O, [Purity not specified], [Supplier not specified], Used as the metal node precursor for forming Zn₄O clusters in frameworks such as α‐MUF‐9.
+- **Cobalt(II) nitrate hexahydrate**: Co(NO₃)₂·6H₂O, [Purity not specified], [Supplier not specified], Employed to introduce cobalt in the synthesis of the [Co₄O(bpdc)₃] sublattice in MUF‐93.
+
+#### 1.1.2 Organic Linkers
+- **2,2’-Diaminobiphenyl-4,4’-dicarboxylic acid (H₂L1)**: C₁₄H₁₄N₂O₄, [Purity not specified], Synthesized in‐lab, Serves as the principal linker for forming the [Zn₄O(L1)₃] framework in α‐MUF‐9.
+- **4,4′-Biphenyldicarboxylic acid (bpdc)**: C₁₄H₁₀O₄, [Purity not specified], [Supplier not specified], Used to template the secondary sublattice in MUF‐91 and MUF‐93.
+- **2‑Amino‑4,4′‑biphenyldicarboxylic acid (bpdc–NH₂)**: C₁₄H₁₂N₂O₄, [Purity not specified], [Supplier not specified], Incorporated in MUF‐92 to generate a functional interpenetrated structure.
+- **Chiral organic linker (L2)**: [Composition details not fully provided], [Purity not specified], [Supplier not specified], Utilized in MUF‐101 for constructing a chiral host sublattice and enabling catalytic activity.
+
+#### 1.1.3 Modulators
+- **2‑Fluorobenzoic acid (FBA)**: C₇H₅FO₂, [Purity not specified], [Supplier not specified], Acts as a modulator to control crystal growth and simultaneously serves as a structure‐directing agent by suppressing the formation of undesired phases.
+
+#### 1.1.4 Solvents
+- **N,N‑di‑n‑butylformamide (DBF)**: [Chemical composition not detailed], [Purity not specified], [Supplier not specified], Primary solvent supporting solvothermal and secondary growth processes.
+- **Dioxane**: C₄H₈O₂, [Purity not specified], [Supplier not specified], Employed with trifluoroacetic acid (TFA) during the microwave‐assisted synthesis of the H₂L1 precursor.
+
+#### 1.1.5 Acid/Base Regulators
+- **Hydrochloric acid (HCl)**: HCl, 2 M when used, [Supplier not specified], Adjusts pH during synthesis and aids sample digestion.
+- **Sodium hydroxide (NaOH)**: NaOH, 1 M when used, [Supplier not specified], Applied during the washing process to regulate pH.
+
+#### 1.1.6 Other Reagents
+- **Trifluoroacetic acid (TFA)**: CF₃COOH, [Purity not specified], [Supplier not specified], Combined with dioxane for efficient precursor synthesis.
+- **Washing agents**: Water (H₂O) and Dichloromethane (CH₂Cl₂), [Purity not specified], [Supplier not specified], Utilized for impurity removal and solvent exchange.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- 100 mL round-bottom flask (used for synthesis of H₂L1 precursor)
+- Microwave reactor (employed for precursor synthesis in dioxane/TFA at 200 °C for 2 hours)
+- Dry bath (set at 95 °C to maintain reaction temperatures during secondary growth)
+- Oven (set at 85 °C for heating the initial reaction mixture)
+
+#### Characterization Equipment
+- Powder X-ray diffractometer: Rigaku Spider diffractometer with a copper rotating anode generator
+- Single-crystal X-ray diffraction (SCXRD) setups at the Australian Synchrotron (MX1 and MX2 beamlines)
+- Optical microscope: Zeiss Axiophot with Differential Interference Contrast (DIC) optics and a Colour CCD camera
+- Scanning electron microscope: FEI Quanta 200 Environmental Scanning Electron Microscope
+- Atomic absorption spectrometer: GBC XplorAA
+- ¹H NMR spectrometer (standard instrument for chemical structure analysis)
+- High-performance liquid chromatography (HPLC): Dionex Ultimate 3000 system with UV detector
+
+#### Activation Equipment
+- Vacuum oven (standard equipment for controlled drying and activation)
+- Tube furnace (equipment designed for high-temperature treatments under a controlled atmosphere)
+- Supercritical CO₂ dryer (used to remove solvents while preserving material porosity)
+
+#### Reaction Equipment
+- 25 mL Schott bottle (glass reactor used in post-synthetic modification processes)
+- 4 mL glass vial with phenolic cap (provides a sealed environment during the synthesis of MUF‐101)
+
+#### Product Analysis Equipment
+- Gas chromatograph (for evaluating catalytic reaction outcomes; specific models not provided)
+
+#### Other Specific Equipment
+- Centrifuge (for sample separation and processing)
+- Rotary evaporator (for solvent removal in reagent preparation)
+- Magnetic stirrer (ensuring homogenous mixing of reactants)
+- Analytical balance (for precise mass measurements)
+
+This list integrates key equipment across synthesis, characterization, activation, reaction, and analysis steps, directly reflecting the experimental workflow and maintaining clarity for replicability.
+
+### 1.3 Common Laboratory Equipment
+
+In MOF experimental workflows, precise control of the reaction environment and accurate handling of reagents are crucial. This section details the common laboratory equipment employed across various experimental stages, from reagent preparation to MOF activation and product isolation.
+
+#### Drying Equipment
+Drying is essential for solvent removal and sample activation. High vacuum ovens are frequently used to dry MOF samples under controlled, low-pressure conditions, ensuring complete solvent removal without compromising the framework. Additionally, freeze dryers are sometimes utilized for samples sensitive to thermal degradation. These devices enable the sublimation of solvents, thus preserving the MOF’s structural integrity during the drying process.
+
+#### Calcination Equipment
+For high-temperature treatment steps, such as calcination, dedicated equipment is necessary. Although muffle furnaces and tube furnaces are common in many synthesis contexts, MOF experiments have also referenced the use of programmable ovens and dry baths. For instance, a dry bath set at high temperatures has been employed to facilitate thermal treatments during reaction sequences. This equipment provides accurate temperature control, ensuring reproducible reaction kinetics and efficient calcination where needed.
+
+#### Other Common Equipment
+General laboratory tools support the entirety of the synthesis and characterization processes. Analytical balances and pipettes are indispensable for precise measurement and handling of reagents. Magnetic stirrers play a key role in ensuring the homogeneity of solution mixtures during reagent preparation, which is critical for consistent reaction conditions. Filtration apparatus—such as Büchner funnels—and centrifuges are used to isolate or purify MOF crystals; centrifugation, for example, has been executed at specific speeds (e.g., 4000 rpm for 15 minutes) to collect products effectively. In addition, standard glassware, including round-bottom flasks, beakers, and specialized glass vials (such as a 4 mL vial with a phenolic cap) are integral to both synthesis and secondary growth procedures.
+
+The integration of this equipment facilitates a seamless workflow, where controlled reaction conditions and precision in reagent preparation contribute significantly to reproducible MOF synthesis and the subsequent performance evaluation of these frameworks.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+The article reports several MOF synthesis routes, each rigorously documented to ensure reproducibility.
+
+#### Solvothermal Synthesis of α‐MUF‐9
+
+• Step 1 – Precursor Mixing/Dissolution:  
+  • A stock solution is prepared by dissolving 20 µmol of H₂L₁ together with Zn(NO₃)₂·4H₂O in 4 mL of N,N‑di‑n‑butylformamide (DBF) and 10 µL of H₂O.  
+
+• Step 2 – Modulator/Structure‑Directing Agent Addition:  
+  • 2‑Fluorobenzoic acid is incorporated into the stock solution immediately after mixing, acting to suppress standalone phase formation.
+
+• Step 3 – Crystallization:  
+  • The mixture is transferred into a 4 mL glass vial with a phenolic cap (featuring a PTFE-lined PDMS septum) and heated in a dry bath at 95 °C for three-hour cycles.  
+  • During these cycles, the cloudy supernatant is periodically removed and replaced with fresh stock solution.
+
+• Step 4 – Cooling and Collection:  
+  • After the desired growth time, the vial is removed from the dry bath and cooled to room temperature, allowing crystal collection.
+
+• Step 5 – Washing and Solvent Exchange:  
+  • Crystals undergo sequential washing—three washes with DBF followed by multiple acetone washes—to eliminate unreacted species and small crystallites.
+
+• Step 6 – Drying:  
+  • The product is dried under high vacuum overnight.
+
+• Step 7 – Activation:  
+  • Activation is performed thermally (e.g., heating at 80–150 °C under vacuum) to remove residual solvents and de-solvate the MOF.
+
+#### Microwave‐Assisted Precursor Synthesis and Secondary Growth Procedures
+
+• For H₂L₁ precursor synthesis, microwave irradiation is employed:  
+  • The reaction is conducted at 200 °C for 2 hours in a dioxane/TFA solvent system using an appropriate microwave reactor.
+
+• Secondary growth processes (for MUF‐91, MUF‐92, MUF‐93, and MUF‐101) involve:  
+  • Incubation of pre‐formed α‐MUF‐9 (or chiral α‐MUF‐10) crystals in a DBF stock solution containing additional reagents (e.g., H₂bpdc or H₂bpdc–NH₂, Zn(NO₃)₂, and 2‑fluorobenzoic acid).  
+  • Reactions are maintained at 95 °C (or 80 °C for MUF‐101) with periodic stock renewal (every 2–3 hours) over reaction times ranging from 9 to 60 hours, ensuring controlled interpenetration without displacement of the original L₁ linkers.
+
+This structured approach, including precise reagent concentrations, reaction conditions, and sequential processing steps, provides a clear and replicable protocol for MOF synthesis as detailed in the article.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+In this section, the preparation of reagents for each MOF material (MUF‐91, MUF‐92, and MUF‐93) is organized into three key steps—solid reagent weighing, liquid transfer, and mixing—to ensure reproducibility using calibrated equipment and standardized techniques.
+
+#### 3.1.1 Weighing
+
+Each MOF’s synthesis begins with the precise weighing of all solid components using calibrated analytical balances.
+
+##### 3.1.1.1 MUF‐91
+- **Zn(NO₃)₂**: Weighed with a calibrated analytical balance.
+- **H₂bpdc**: Weighed accurately under controlled conditions.
+- **2‐Fluorobenzoic acid (FBA)**: Weighed according to the established experimental parameters.
+
+##### 3.1.1.2 MUF‐92
+- **Zn(NO₃)₂**: Weighed using an analytical balance with high precision.
+- **H₂bpdc–NH₂**: Weighed under standardized laboratory conditions.
+- **2‐Fluorobenzoic acid (FBA)**: Weighed precisely to meet protocol requirements.
+
+##### 3.1.1.3 MUF‐93
+- **Co(NO₃)₂·6H₂O**: Weighed using a high‐precision balance.
+- **H₂bpdc**: Weighed accurately as per experimental procedure.
+- **2‐Fluorobenzoic acid (FBA)**: Weighed using standard protocols for reproducibility.
+
+#### 3.1.2 Liquid Transfer
+
+Following reagent weighing, the liquid component—predominantly N,N‑di‑n‑butylformamide (DBF)—is introduced into the reaction vessel using precise measurement tools.
+
+##### 3.1.2.1 MUF‐91
+- **DBF**: Poured into the reaction vessel using a graduated cylinder to deliver the required volume.
+
+##### 3.1.2.2 MUF‐92
+- **DBF**: Transferred by pipetting the specified volume into the mixture, ensuring accuracy.
+
+##### 3.1.2.3 MUF‐93
+- **DBF**: Added by pipette to maintain consistency in reagent concentration.
+
+#### 3.1.3 Mixing
+
+Following the addition of all reagents, a controlled mixing step is critical for obtaining a homogeneous precursor solution or suspension.
+
+##### 3.1.3.1 MUF‐91
+- **Precursor Solution**: Mixed under controlled stirring for a designated duration to ensure uniformity.
+
+##### 3.1.3.2 MUF‐92
+- **Reaction Mixture**: Stirred continuously at a set speed and maintained at stable ambient conditions to promote full dispersion.
+
+##### 3.1.3.3 MUF‐93
+- **Mixture Constituents**: Combined and stirred until a homogeneous mixture is achieved, following the procedural standards that underpin reproducibility across experiments.
+
+Each step is performed following strict laboratory routines to ensure that the reagent preparation is fully reproducible, employing standardized weighing, accurate liquid transfers, and controlled mixing operations tailored to the synthesis protocol of each MOF.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: α‐MUF‐9  
+##### Step 1: Precursor Preparation  
+- **Reagents**: 
+  - H₂L1 (20 µmol, e.g., 36 mg)
+  - Zn(NO₃)₂·4H₂O (64 mg)
+  - N,N-di‑n‑butylformamide (DBF, 4 mL)
+  - Trace water (≈10 µL)  
+- **Conditions**: 
+  - Dissolve reagents in a 25 mL Schott bottle.
+  - Maintain temperature at 85 °C in a dry bath for 6 hours with periodic shaking.
+- **Process**:  
+  1. Combine H₂L1 and Zn(NO₃)₂·4H₂O in DBF along with water.  
+  2. Heat the solution at 85 °C; ensure homogeneity by shaking every hour.  
+  3. After synthesis, transfer small crystals to a centrifuge vial, centrifuge, and replace the supernatant with a fresh DBF stock solution.  
+- **Key Steps**:  
+  Monitor temperature closely; confirm crystallization via periodic optical observation.
+
+##### Step 2: Purification, Drying & Activation  
+- **Process**:  
+  1. Filter the crystals and wash three times with DMF followed by five washes with acetone.  
+  2. Dry under high vacuum at 95 °C for optimal activation.
+- **Key Points**:  
+  Uniform washing ensures removal of unreacted precursors.
+
+---
+
+#### MOF Preparation [2]: MUF‐91, MUF‐92 & MUF‐93 (Secondary Growth Procedures)  
+- **Precursor Assembly**:  
+  - Begin with purified α‐MUF‐9 crystals as the host.  
+  - For MUF‐91, add H₂bpdc and additional Zn(NO₃)₂ in DBF with 2‑fluorobenzoic acid (3 mg mL⁻¹) as a modulator.  
+  - For MUF‐92, include H₂bpdc–NH₂ (0.5 mg mL⁻¹) and Zn(NO₃)₂ (2 mg mL⁻¹) in similar conditions.
+  - For MUF‐93, use Co(NO₃)₂·6H₂O in DBF (reaction temperature 75–95 °C, 18–60 hours) with microcrystalline α‐MUF‐9.
+- **Process**:  
+  1. Incubate the host crystals in the respective DBF stock.  
+  2. Renew the supernatant every 2–3 hours to remove self‐nucleated crystallites and maintain controlled growth.
+- **Key Points**:  
+  Maintain strict temperature (≈95 °C) and time protocols to optimize interpenetration (PIP levels of 70–80%).
+
+---
+
+#### MOF Preparation [3]: MUF‐101 (Asymmetric Catalyst)  
+- **Reagents & Conditions**:  
+  - Use enantiopure (R)- or (S)-H₂L1 to form α‐MUF‐10 and add H₂L2 (along with Zn(NO₃)₂·4H₂O and 2‑fluorobenzoic acid) in a 4 mL vial with a phenolic cap.  
+  - Reaction at 80 °C with stock renewal every 2 hours over a 10-hour period.
+- **Process**:  
+  1. Combine reagents to form the chiral host and interpenetrating catalytic sublattice.
+  2. Follow purification steps similar to α‐MUF‐9.
+- **Key Steps**:  
+  Fine-tune the interpenetration level (≈7%) to maximize porosity and catalytic effectiveness.
+
+Each procedure emphasizes reagent dissolution, controlled heating, systematic supernatant renewal, and standardized washing/drying protocols to ensure reproducibility across MOF syntheses.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD  
+- **Operational Description**:  
+  Powder X-ray Diffraction (PXRD) was applied to assess the crystallinity and phase purity of the MOF samples. The method involved collecting diffraction patterns that serve as a diagnostic tool for verifying the formation of the desired framework structure.  
+- **Instruments and Models**:  
+  The measurements were performed using a Rigaku Spider diffractometer. The system employed Cu K radiation, which is standard for obtaining high-contrast diffraction data.  
+- **Characterization Conditions**:  
+  The PXRD analysis was conducted under conditions conducive to capturing the diffraction from MOF crystalline domains. The instrument operated with Cu K radiation, providing the characteristic wavelength (λ ≈ 1.5406 Å). The samples were maintained at room temperature and measured in ambient atmospheric conditions. Critical sample preparation steps included washing the MOF crystals several times with N,N-di‑n‑butylformamide (DBF) to remove residual synthesis solvent, followed by drying under high vacuum to ensure that solvent molecules did not interfere with the diffraction profile.  
+- **Test Parameters**:  
+  Although explicit test parameters such as the 2θ range, step size, and scan rate were not detailed, the method setup implies standard settings typically used in MOF characterization. This includes a broad scan range sufficient to cover principal diffraction peaks and a step size that balances resolution with measurement time.  
+- **Key Notes**:  
+  Care was taken to ensure that the MOF samples were fully activated via solvent removal prior to PXRD analysis, which is important for obtaining accurate phase information. The method’s limitations include the absence of specific scan parameters; thus, replication may require adjustment based on standard laboratory practices.  
+   
+*The PXRD method provided crucial structural insights, validating the framework’s integrity without inferring additional properties not specified in the article.*
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+#### Overview  
+In this work, the activation step for MOF materials is limited to a post‐synthesis vacuum drying procedure aimed at removing residual solvent molecules from the pores. The protocol, as described, involves drying the MOF samples under vacuum conditions overnight. This minimal activation process differs from more elaborate procedures that typically involve controlled heating, specific gas flows, or pressure adjustments. Here, the focus is on ensuring that the MOF frameworks are free of guest molecules prior to application through a straightforward drying process.
+
+#### Activation Process  
+Upon completion of the synthesis and any subsequent secondary growth steps, the MOF samples were subjected to vacuum drying. This process was carried out by placing the freshly synthesized materials in a vacuum apparatus for an overnight treatment. Although experimental details such as activation temperature, pressure level, gas composition, or flow rate are commonly reported in activation protocols for MOF pre-use treatment, no explicit values were provided for these parameters in the current study. Consequently, the activation protocol relies solely on sustained vacuum conditions to facilitate solvent removal.
+
+#### Observations and Implications  
+The absence of additional activation parameters suggests that the reported MOF systems—such as the α‐MUF‐9-based materials—are robust enough to withstand a simple vacuum drying approach. The MOFs maintained their structural integrity and porosity following this procedure, as evidenced by the subsequent high-quality characterization results (e.g., through PXRD and SCXRD) and performance outcomes observed in applications. This observation implies that, for the systems under study, the minimal activation method was sufficient to achieve the desired removal of entrapped solvents without compromising the framework stability.
+
+In summary, the activation method applied in these experiments consisted of an overnight vacuum drying step, ensuring efficient solvent removal while maintaining the inherent properties of the MOF materials for further use.
+
+### 5.2 Application/Performance Evaluation
+
+In this section, the performance evaluation of the MOF materials is presented based on the conditions reported in the study. The evaluation includes parameters relevant to catalytic tests and secondary growth experiments, with a focus on temperature and test duration, which were found to significantly influence performance.
+
+#### 5.2.1 Test Temperature
+- **Definition:** Test temperature is the controlled thermal setting under which crystallization, catalytic reactions, and secondary growth occur. It is critical for both material synthesis and subsequent performance.
+- **Experimental Conditions:** Two distinct temperature conditions were reported. For α‐MUF‐9 and related secondary growth experiments, a heating condition of 95 °C was maintained. In contrast, during the preparation of the catalyst stock solution for MUF‐101 experiments, the reaction was conducted at 80 °C.
+- **Observations:** The elevated temperatures used during these processes contribute to enhanced crystal growth and effective catalytic activity, as indicated by improved framework formation and reaction selectivity.
+
+#### 5.2.2 Test Duration
+- **Definition:** Test duration refers to the time span over which performance evaluations, including catalytic reactions and stability assessments, are conducted.
+- **Experimental Conditions:** For the secondary growth experiments, a reaction time of up to 60 hours was noted. In the catalytic evaluations of MUF‐101, the aldol reaction was conducted at room temperature over three days, while the Henry reaction was maintained at 30 °C for five days.
+- **Observations:** The prolonged test durations confirm the stability and reproducibility of the frameworks. Additionally, the differences in reaction times and temperatures between the catalytic tests highlight the nuanced role of operational conditions in achieving optimal performance.
+
+#### 5.2.3 Catalytic Reaction Conditions
+- **Definition:** Catalytic reaction conditions pertain to specific parameters such as catalyst loading, reaction temperature, and duration that influence conversion rates and enantioselective outcomes.
+- **Experimental Conditions:** In the performance evaluation of MUF‐101, a catalyst loading of approximately 3% was employed for the aldol reaction, yielding distinct enantiomeric excesses that reversed when switching between (R)‐MUF‐101 and (S)‐MUF‐101.
+- **Observations:** These results underscore the significant impact of chiral induction on catalytic performance, demonstrating that precise control of conditions leads to reproducible and tunable catalytic outcomes.
+
+Other parameters—such as test pressure, gas composition, and flow rate—were not specified within the evaluation context.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** The crystal structure and phase purity of the MOF materials were determined using powder X-ray diffraction (PXRD) and single-crystal X-ray diffraction (SCXRD). PXRD is essential for confirming bulk phase purity and crystallinity, while SCXRD provides detailed structural information, including lattice type, space group, and sublattice arrangement.
+- **Findings:** For α‐MUF‐9, PXRD patterns matched the simulated pattern derived from SCXRD data, confirming high phase purity and crystallinity. SCXRD revealed that α‐MUF‐9 adopts a primitive cubic (pcu) lattice in the P4̄3m space group, a structural motif retained throughout secondary growth and interpenetration. In MUF‐91 and MUF‐92, SCXRD allowed direct refinement of the occupancy (PIP) of the secondary sublattice, reaching 70% and 74% respectively after 9 hours of secondary growth. For MUF‐93, SCXRD and anomalous dispersion experiments confirmed the exclusive incorporation of cobalt into the secondary [Co₄O(bpdc)₃] sublattice during early growth.
+- **Observations:** The retention of the P4̄3m space group across all frameworks indicates robust structural stability. PXRD peak changes (e.g., decrease at 2θ = 5.2° and increase at 2θ = 7.3°) tracked the progression of interpenetration, while the absence of impurity peaks confirmed phase purity.
+
+#### 6.1.2 Chemical Composition and Metal Distribution
+- **Description:** Elemental composition and metal distribution were assessed using atomic absorption spectroscopy (AAS) and anomalous dispersion SCXRD. These techniques are critical for distinguishing between different metal nodes and quantifying their incorporation into specific sublattices.
+- **Findings:** In MUF‐93, AAS quantified the Zn/Co ratio, confirming selective cobalt incorporation into the secondary sublattice. Anomalous dispersion SCXRD, using X-ray energies near the cobalt and zinc absorption edges, provided site-specific occupancy data, showing cobalt exclusively in the secondary lattice after 60 hours of growth.
+- **Observations:** Only after extended reaction times (168 hours) did cobalt begin to occupy host sites, as evidenced by new peaks in difference electron density maps.
+
+#### 6.1.3 Linker Incorporation and Framework Composition
+- **Description:** ^1H NMR spectroscopy of digested MOF samples was used to quantify the incorporation of secondary organic linkers (bpdc, bpdc–NH₂, L2) relative to the original L1 linker. This method enables precise measurement of partial interpenetration (PIP) and framework composition.
+- **Findings:** For MUF‐91 and MUF‐92, the bpdc/L1 and bpdc–NH₂/L1 ratios increased over time, matching PIP values determined by SCXRD. In MUF‐101, the L2/L1 ratio from NMR corroborated the low but optimal PIP (~7%) refined by SCXRD.
+- **Observations:** The close agreement between NMR and SCXRD data confirms controlled and selective incorporation of secondary linkers, with minimal displacement of L1 in the host framework during early growth.
+
+#### 6.1.4 Morphology and Crystal Growth
+- **Description:** Optical microscopy was employed to assess crystal morphology, size, and the progression of secondary growth. This technique provides visual confirmation of structural changes and uniformity.
+- **Findings:** Micrographs revealed well-formed crystals and the development of distinct core–shell structures, such as the [Zn₄O(bpdc)₃] shell around MUF‐91 after 9 hours of secondary growth. The use of microcrystalline α‐MUF‐9 facilitated more rapid and homogeneous secondary growth.
+- **Observations:** The formation of shell layers was correlated with the endpoint of controlled interpenetration, supporting the two-step synthesis strategy.
+
+#### 6.1.5 Structural Integrity and Framework Stability
+- **Description:** The maintenance of lattice symmetry and absence of significant defects were monitored by SCXRD and PXRD throughout synthesis and secondary growth.
+- **Findings:** The frameworks consistently retained the P4̄3m space group and cubic symmetry, even after extensive interpenetration. PXRD and SCXRD data showed no evidence of significant impurity phases or framework collapse.
+- **Observations:** These results demonstrate the structural robustness of the MOF materials under the applied synthetic conditions and confirm the effectiveness of the secondary growth approach in producing stable, hetero-interpenetrated frameworks.
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Partial Interpenetration Percentage (PIP)
+- **Description:** The partial interpenetration percentage (PIP) quantifies the occupancy of a secondary, interpenetrating sublattice within a host MOF framework. It is defined as the fraction of the secondary sublattice (e.g., [Zn₄O(bpdc)₃], [Zn₄O(bpdc–NH₂)₃], or [Co₄O(bpdc)₃]) incorporated into the host structure, as determined by single-crystal X-ray diffraction (SCXRD), powder X-ray diffraction (PXRD), and ^1H NMR spectroscopy.
+- **Experimental Data:**
+  - MUF-91: PIP of [Zn₄O(bpdc)₃] reaches up to 70% after 9 hours of secondary growth at 95 °C.
+  - MUF-92: PIP of [Zn₄O(bpdc–NH₂)₃] is approximately 74% after 9 hours under similar conditions.
+  - MUF-93: PIP of [Co₄O(bpdc)₃] attains ~70% after 60 hours in large crystals and up to 80% in microcrystalline samples after 18 hours.
+  - MUF-101: PIP of [Zn₄O(L2)₃] is maintained at ~7–15% to maximize porosity for catalytic applications.
+- **Observations and Trends:** PIP increases with reaction time and is tunable by adjusting growth conditions. High PIP values correlate with enhanced framework stability and controlled pore modification, while moderate PIP in MUF-101 preserves porosity for catalysis.
+
+#### 6.2.2 Framework Stability and Pore Modification
+- **Description:** Framework stability refers to the retention of crystallinity, space group, and pore structure during and after secondary growth. Pore modification is assessed by the successful incorporation of a secondary sublattice without significant displacement of the original linkers or metal nodes.
+- **Experimental Data:** SCXRD and PXRD confirm that the host frameworks (e.g., α‐MUF‐9) retain their P4̄3m space group and crystallinity throughout secondary growth. ^1H NMR analysis of digested samples shows minimal displacement of L1 linkers.
+- **Observations and Trends:** The frameworks remain structurally robust up to high PIP values. After extended growth, a shell of the secondary phase may form on the crystal surface, but the core structure and PIP remain unaffected.
+
+#### 6.2.3 Catalytic Activity and Enantioselectivity (MUF-101)
+- **Description:** Catalytic activity is evaluated by the enantiomeric excess (ee) achieved in asymmetric reactions, measured by high-performance liquid chromatography (HPLC). Enantiomeric excess is calculated as:
+  \[
+  ee = \frac{|A_{R} - A_{S}|}{A_{R} + A_{S}} \times 100\%
+  \]
+  where \(A_{R}\) and \(A_{S}\) are the HPLC peak areas of the respective enantiomers.
+- **Experimental Data:**
+  - Aldol reaction (2-chloro-5-nitrobenzaldehyde + acetone, ~3% catalyst loading): (R)-MUF-101 yields ee = −13.9%; (S)-MUF-101 gives the opposite sign.
+  - Henry reaction (2-chloro-5-nitrobenzaldehyde + nitromethane, 4% catalyst loading): (R)-MUF-101 yields ee = −9.4%; (S)-MUF-101 yields ee = +10.2%.
+- **Observations and Trends:** The sign of ee reverses with the host’s chirality, confirming chiral induction. Control experiments with non-chiral hosts or molecular catalysts yield 0% ee, highlighting the unique performance of the hetero-interpenetrated, chiral MOF.
+
+#### 6.2.4 Metal Incorporation Selectivity (MUF-93)
+- **Description:** Selective incorporation of metal ions into the secondary sublattice is assessed by anomalous dispersion X-ray experiments and atomic absorption spectroscopy.
+- **Experimental Data:** In MUF-93, cobalt is incorporated almost exclusively into the [Co₄O(bpdc)₃] sublattice during the first 60 hours, with significant exchange into the host sublattice only after 168 hours.
+- **Observations and Trends:** Kinetic control and low precursor concentrations enable precise tuning of metal composition, supporting the design of functionally distinct pore environments.
+
+---
+
+**Summary:**  
+The performance of the studied MOFs is defined by their tunable interpenetration levels (PIP), robust framework stability during secondary growth, and, in the case of MUF-101, their ability to catalyze asymmetric reactions with measurable enantioselectivity. The selective incorporation of metals and linkers further enables precise control over pore environments and functional properties, demonstrating the versatility and application potential of hetero-interpenetrated MOFs.
+
+
+根据提供的文献内容，生成实验流程复现文献实验

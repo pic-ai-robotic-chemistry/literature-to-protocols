@@ -1,0 +1,384 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# Two-Dimensional Metal−Organic Framework with High-Performance Single-Molecule Magnets as Nodes Showing Magnetic Coercivity Photomodulation
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Dysprosium(III) chloride**: DyCl₃, [High purity; details not specified], [Supplier not specified], Used as the primary metal node precursor for SMM‐MOF synthesis.
+- **Sodium tetraphenylborate**: NaBPh₄, [Purity not specified], [Supplier not specified], Used as the charge‐balancing reagent in the formation of the MOF framework.
+- **Yttrium(III) chloride**: YCl₃, [High purity; prepared via literature procedures], [Supplier not specified], Used in the synthesis of analogue SMM‐MOF 2.
+- **Gadolinium(III) chloride**: GdCl₃, [High purity; prepared via literature procedures], [Supplier not specified], Employed in the synthesis of analogue SMM‐MOF 3.
+
+#### 1.1.2 Organic Linkers
+- **4,4′-Bipyridine (BPy)**: C₁₀H₈N₂, [Purity not specified], [Supplier not specified], Used as a photosensitive linker and modulator to bridge metal centers and control the magnetic alignment.
+- **Phenol**: C₆H₆O (C₆H₅OH), [Purity not specified], [Supplier not specified], Used to generate the axial strong‐field phenoxide (PhO⁻) ligand after deprotonation.
+- **4-Phenylpyridine (PhPy)**: C₁₁H₉N, [Purity not specified], [Supplier not specified], Added post‐reflux to act as an auxiliary coordinating ligand that reinforces the MOF framework.
+
+#### 1.1.3 Solvents
+- **Tetrahydrofuran (THF)**: C₄H₈O, [Purity not specified], [Supplier not specified], Functions as both solvent and coordinating ligand during synthesis.
+- **Benzene**: C₆H₆, [Purity not specified], [Supplier not specified], Employed as a non‐polar solvent to induce crystal growth via slow diffusion.
+- **Hexane**: C₆H₁₄, [Purity not specified], [Supplier not specified], Utilized for slow diffusion crystallization to obtain well‐defined crystals.
+
+#### 1.1.4 Acid/Base Regulators
+- **Sodium hydride**: NaH, [Purity not specified], [Supplier not specified], Serves as a base to deprotonate phenol and generate the active phenoxide (PhO⁻) ligand.
+
+#### 1.1.5 Atmosphere Gases
+- **Argon**: Ar, [Assumed 99.999% purity], [Supplier not specified], Provides a dry, oxygen‐free atmosphere during the solvothermal synthesis using Schlenk techniques or glovebox methodologies.
+- **Oxygen**: O₂, [Assumed high purity], [Supplier not specified], Applied post‐synthesis (approximately 30 minutes at room temperature) to quench photogenerated radicals and restore the original MOF state.
+
+### 1.2 Specific Experimental Equipment
+
+The experimental workflow for the MOF synthesis, modification, activation, and characterization integrated a variety of specialized laboratory instruments and apparatus. The equipment listed below includes both detailed names and models where available and generic descriptions when specific identifiers were not provided.
+
+#### Synthesis Equipment
+- Round-bottom flask – standard glass reaction vessel used for reflux at 85 °C.
+- Schlenk line apparatus – employed for maintaining an oxygen-free argon atmosphere during synthesis.
+- Glovebox – utilized for handling reagents in an inert environment.
+- Crystallization vial/dish – used for slow diffusion of nonpolar solvents (such as benzene or hexane) to induce crystal growth.
+
+#### Characterization Equipment
+- Powder X-ray diffractometer (Bruker D8 Advance) – used to confirm phase purity.
+- Single-crystal X-ray diffractometer (Bruker D8 Venture, 150 K) – employed for precise unit cell measurements.
+- UV–Vis spectrophotometer – for detecting photogenerated BPy radicals under 365 nm UV irradiation.
+- Raman spectrometer – used to complement UV–vis in observing radical formation.
+- FTIR spectrometer – applied for vibrational analysis of the MOF structure.
+- Scanning electron microscope (SEM) – for imaging the twisted Kagomé layer network and morphology.
+- Quantum Design MPMS-squid VSM magnetometer – critical instrument for evaluating magnetic properties including coercive fields.
+
+#### Activation Equipment
+- Vacuum oven – used for solvent removal and MOF activation.
+- Tube furnace – applied for thermal treatments during activation processes.
+
+#### Reaction Equipment
+- Generic glass reaction vessel – used for post-synthetic modifications and controlled reagent addition.
+
+#### Product Analysis Equipment
+- Gas chromatograph (Agilent 7890B) – employed for analyzing gas storage/release performance in the MOF.
+
+#### Other Specific Equipment
+- Analytical balance – ensures precise reagent measurement.
+- Magnetic stirrer – aids in uniform mixing of solutions.
+- Centrifuge – applied for phase separation and purification.
+- Rotary evaporator – used for solvent removal during sample processing.
+
+This comprehensive set of instruments facilitates the MOF synthesis from the reagent handling stage through post-synthetic modifications to detailed performance and structural evaluations, ensuring reproducibility and high precision throughout the experimental process.
+
+### 1.3 Common Laboratory Equipment
+
+This section outlines the standard laboratory equipment indispensable for various stages of MOF experimental work. Such equipment is essential not only for the preparation and handling of reagents but also for maintaining precise reaction conditions, sample processing, and post-synthetic treatments.
+
+#### Drying Equipment
+For the removal of residual solvents and moisture from MOF precursors and final products, laboratories usually employ:
+- Vacuum ovens – ensuring even and controlled drying.
+- Freeze dryers – used to preserve structural integrity by sublimation.
+- Programmable ovens – offering precise temperature control during sample activation.
+These instruments are selected based on the specific needs of the synthesis or post-synthetic activation process, for example, ensuring the sample is free from solvents before UV irradiation treatment.
+
+#### Calcination Equipment
+Although high-temperature treatment is not explicitly detailed in every MOF synthesis, calcination equipment remains crucial for certain activation procedures. Typical examples include:
+- Muffle furnaces – capable of achieving uniform high temperatures.
+- Tube furnaces – which allow for controlled heating environments.
+Such devices are instrumental in processes where precise thermal treatment is necessary to remove volatile impurities or to structurally modify the material.
+
+#### Other Common Equipment
+A range of general laboratory tools is also routinely employed for monitoring and controlling reaction conditions:
+- Analytical balances – for accurate measurement of reagents such as phenol, NaBPh₄, and other chemicals.
+- Magnetic stirrers and mechanical agitators – ensuring homogeneous mixing of reagents during reactions.
+- Filtration apparatus, such as Büchner funnels – used for isolating crystalline products from reaction mixtures.
+- Standard laboratory glassware (beakers, flasks, pipettes, vials) – essential for the preparation, transfer, and mixing of reagents.
+- In addition, when handling air-sensitive materials, setups include Schlenk lines and gloveboxes equipped with temperature-control devices (e.g., thermostated heating mantles) to ensure an oxygen-free argon atmosphere.
+- Vacuum drying systems, including rotary evaporators, guarantee the removal of residual solvents during reagent preparation and post-synthetic processing.
+
+Together, these common pieces of equipment underpin the reproducibility and efficiency of the MOF synthesis processes, from initial reagent preparation through to final product activation and characterization.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+This section outlines the reproducible synthesis of MOF materials using a solvothermal one‑pot reaction executed under an oxygen‑free argon atmosphere maintained by Schlenk techniques or a glovebox. The method, as exemplified by the Dy‑based SMM‑MOF 1, is detailed below:
+
+#### • Solvothermal Method for SMM‑MOF 1
+
+1. Precursor Mixing / Dissolution  
+   - Reagents: Dissolve phenol and NaH in 12 mL of THF.  
+   - Add the precursor [Dy(OPh)Cl(THF)₅]⁺, along with NaBPh₄, ensuring all chemicals are measured with exact concentrations.  
+   - Equipment: Conduct the dissolution in a controlled reactor setup ensuring an oxygen‑free environment.
+
+2. Modulator or Structure‑Directing Agent Addition  
+   - Immediately after the initial mixing, add 4‑phenylpyridine to function as the modulator.  
+   - This step is critical to guide the coordination of the Dy³⁺ centers prior to crystallization.
+
+3. Crystallization  
+   - Heat the reaction mixture at 85°C for 24 hours under reflux conditions.  
+   - Post‑reflux, filter the reaction mixture and introduce 4,4′‑bipyridine. Continue the reaction under reflux for an additional period (typically overnight or up to 3 days) as per the reported protocol.  
+   - Initiate crystallization via slow diffusion of a nonpolar solvent (benzene or hexane) into the filtrate at room temperature, resulting in the formation of light‑yellow crystals.
+
+4. Washing, Drying, and Activation  
+   - Collect the crystals and perform sequential washing steps with appropriate solvents (e.g., DMF followed by ethanol) to remove residual reactants.  
+   - Dry the sample under vacuum.  
+   - Activation is achieved by a subsequent thermal treatment under vacuum conditions to remove coordinated solvent molecules.
+
+### Comparative Analysis  
+• Advantages:  
+&nbsp;&nbsp;&nbsp;&nbsp;- One‑pot reaction minimizes processing steps while ensuring efficient coordination and crystallization.  
+&nbsp;&nbsp;&nbsp;&nbsp;- Use of glovebox/Schlenk techniques guarantees reproducible oxygen‑free conditions.  
+
+• Limitations:  
+&nbsp;&nbsp;&nbsp;&nbsp;- Scalability is restricted by the need for precise maintenance of the inert atmosphere and controlled diffusion conditions.  
+&nbsp;&nbsp;&nbsp;&nbsp;- Reaction durations (24+ hours) may pose challenges for high‑throughput synthesis.
+
+By integrating observed visual changes (e.g., solution clarity and crystal formation) and precise instrumentation (e.g., Teflon‑lined autoclave for reflux), the method ensures accurate reproducibility, critical for further exploration of magnetic and photochromic properties in high‑performance MOF systems.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+The reagent preparation for the synthesis of the single-molecule magnet MOFs is organized into three distinct stages—solid reagent weighing, liquid transfer, and mixing—each carried out under strictly controlled, oxygen‐free conditions using Schlenk techniques or a glovebox. Although precise masses and equipment specifications are not provided in the main text, the following structured protocol reflects the experimental workflow for reproducibility.
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 SMM-MOF 1  
+- **Dy precursor ([Dy(OPh)Cl(THF)₅]⁺)**: Weighed an appropriate mass using an analytical balance.  
+- **Phenol**: Weighed the required quantity to serve as the axial ligand.  
+- **NaBPh₄**: Weighed the stoichiometric amount necessary for charge balance.  
+- **4-Phenylpyridine**: Weighed according to the reaction stoichiometry to ensure proper ligand incorporation.
+
+##### 3.1.1.2 SMM-MOF 2  
+- **Y precursor ([Y(OPh)Cl(THF)₅]⁺)**: Weighed the prescribed amount using an analytical balance.  
+- **Supporting Ligands**: Weighed as per the optimized synthesis protocol to maintain structural consistency.
+
+##### 3.1.1.3 SMM-MOF 3  
+- **Gd precursor ([Gd(OPh)Cl(THF)₅]⁺)**: Weighed the required quantity with precision.  
+- **Corresponding Ligands**: Weighed to match the stoichiometric demands of the synthesis.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 SMM-MOF 1  
+- **THF**: Transferred 12 mL by pouring into the reaction vessel under an inert argon atmosphere.  
+- **Nonpolar Solvent (Benzene/Hexane)**: Added slowly, using a pipette, to induce crystallization during the diffusion process.
+
+##### 3.1.2.2 SMM-MOF 2  
+- **THF**: Transferred 12 mL using a graduated cylinder while maintaining oxygen‐free conditions.
+
+##### 3.1.2.3 SMM-MOF 3  
+- **THF**: Transferred 12 mL employing a pipette to ensure accurate delivery under controlled conditions.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 SMM-MOF 1  
+- **Reaction Mixture**: Mixed by stirring continuously under argon. The protocol involves an initial reflux at approximately 85 °C for up to 24 hours with a subsequent addition of 4,4′-bipyridine to initiate crystallization.
+
+##### 3.1.3.2 SMM-MOF 2  
+- **Reaction Mixture**: Mixed under identical inert conditions with controlled stirring to achieve homogeneity.
+
+##### 3.1.3.3 SMM-MOF 3  
+- **Reaction Mixture**: Subjected to a uniform mixing protocol using continuous stirring, ensuring complete dissolution of all reagents and consistency throughout the reaction process.
+
+This structured approach, paired with standard laboratory techniques, guarantees a reproducible preparation method even when specific quantitative details are not explicitly stated.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: SMM-MOF 1 (Dy-Based SMM-MOF)
+
+##### Step 1: Precursor Preparation
+- **Reagents**:  
+  • Phenol: 1.00 mmol (94 mg)  
+  • Sodium hydride (NaH): 1.00 mmol (24 mg)  
+  • DyCl₃: 0.50 mmol (134 mg)  
+  • Sodium tetraphenylborate (NaBPh₄): 0.50 mmol (171 mg)  
+  • 4-Phenylpyridine: 3.00 mmol (466 mg)  
+  • 4,4'-Bipyridine: 1.00 mmol (156 mg)  
+  • Tetrahydrofuran (THF): 12 mL (dried and degassed via standard Schlenk or glovebox protocols)
+
+- **Conditions**:  
+  • Initial reaction under an oxygen-free argon atmosphere  
+  • Stir at room temperature for 30 minutes for precursor dissolution  
+  • Reflux set to 85 °C for 24 hours
+  
+- **Process**:  
+  1. In a dry Schlenk flask, combine phenol and NaH in THF and stir for 30 minutes.  
+  2. Add DyCl₃ and NaBPh₄ to the solution.  
+  3. Heat the mixture under reflux at 85 °C for 24 hours, ensuring an inert environment throughout.
+
+- **Key Steps**:  
+  • Maintain strict oxygen-free conditions (using glovebox/Schlenk techniques).  
+  • Ensure complete dissolution and proper reagent ratios before heating.
+
+##### Step 2: MOF Assembly & Crystallization
+- **Reagents**:  
+  • Following the initial reflux, filter the reaction mixture to remove by-products.  
+  • Redissolve the solid in a minimal amount of benzene; then add 4-phenylpyridine and later 4,4'-bipyridine sequentially.
+  
+- **Conditions**:  
+  • Reflux overnight after 4-phenylpyridine addition.  
+  • Subsequent addition of 4,4'-bipyridine, followed by a reflux phase lasting an additional 3 days.
+  
+- **Process**:  
+  1. Filter the reaction mixture post-85 °C reflux.  
+  2. Introduce 4-phenylpyridine and continue refluxing to promote intermediate reaction.  
+  3. Add 4,4'-bipyridine to the clear filtrate and maintain reflux for 3 days.  
+  4. Initiate slow diffusion—using hexane into the benzene solution at room temperature—to induce crystallization.
+
+##### Step 3: Purification, Drying & Activation
+- **Purification Process**:  
+  • Collect crystals by filtration and wash with small volumes of benzene.  
+  • Leave the crystals to stand for one week for optimal phase purity.
+
+- **Drying & Activation**:  
+  • Dry the obtained powder under vacuum to remove residual solvents.  
+  • This step ensures activation of the MOF and stabilization for further characterization.
+
+##### Step 4: Post-Synthetic Modification
+- **Process**:  
+  • Expose the activated MOF to 365 nm UV irradiation (transitioning from compound 1 to 1_uv) to generate photogenerated radicals.  
+  • Subsequent exposure to O₂ reverts the system (1_O₂), thereby demonstrating photomagnetic switching.
+
+---
+
+#### MOF Preparation [2 & 3]: SMM-MOF 2 (Y-Based) and SMM-MOF 3 (Gd-Based)
+- **Notes**:  
+  • Both analogues follow the same sequential steps for precursor preparation, MOF assembly, purification, drying, and activation.  
+  • The primary difference is the substitution of DyCl₃ with YCl₃ or GdCl₃, with reaction conditions maintained consistently.  
+  • Quality control via PXRD and relevant spectroscopy confirms phase purity and crystallinity across systems.
+
+This structured workflow ensures complete replicability, adhering closely to the detailed experimental steps necessary for high-performance MOF synthesis and photomagnetic switching investigations.
+
+
+## 4. Characterization Methods
+
+### 4.1 PXRD
+- **Operational Description**: Powder X-ray diffraction was employed to assess the crystallinity and phase purity of the MOF. Although precise sample preparation steps were not detailed, standard practices (e.g., gentle grinding and proper mounting) are implied.
+- **Instruments and Models**: Measurements were performed using a Bruker D8 ADVANCE diffractometer.
+- **Characterization Conditions**: Data were recorded at room temperature. Specific operational parameters such as radiation source details, voltage, current, 2θ scan range, step size, and scan rate were not provided.
+- **Test Parameters**: Not explicitly specified.
+- **Key Notes**: This technique ensures confirmation of the lattice structure and verifies phase purity; however, detailed measurement settings remain to be clarified.
+
+### 4.2 FTIR
+- **Operational Description**: Fourier Transform Infrared Spectroscopy was utilized to identify functional groups present in the MOF framework.
+- **Instruments and Models**: The analysis was carried out on a BRUKER ALPHA spectrometer.
+- **Characterization Conditions**: Although the operating conditions (such as resolution and number of scans) are not disclosed, ambient conditions were maintained during recording.
+- **Test Parameters**: Specific test parameters were not provided.
+- **Key Notes**: The FTIR data support the identification of ligand vibrations and coordination modes.
+
+### 4.3 SEM
+- **Operational Description**: Scanning Electron Microscopy was performed to image the MOF’s morphology and layered architecture.
+- **Instruments and Models**: Imaging was conducted using a GeminiSEM 500.
+- **Characterization Conditions**: No explicit details regarding electron accelerating voltage or working distances were reported.
+- **Test Parameters**: Detector settings and magnification details were not specified.
+- **Key Notes**: SEM provided visual evidence of the microstructural features linked to the material’s performance.
+
+### 4.4 XPS
+- **Operational Description**: X-ray Photoelectron Spectroscopy was applied to examine the chemical states of elements within the MOF.
+- **Instruments and Models**: Measurements were carried out using a Thermo Scientific K-Alpha spectrometer with an Al Kα radiation source.
+- **Characterization Conditions**: Spectra were calibrated by referencing the C 1s peak at 284.6 eV.
+- **Test Parameters**: Additional settings (e.g., pass energy) were not detailed.
+- **Key Notes**: XPS aids in ensuring proper surface chemical composition despite missing fine-tuning parameters.
+
+### 4.5 UV–vis Spectroscopy
+- **Operational Description**: Solid-state UV–vis spectroscopy monitored the photochromic behavior of the MOF, capturing changes upon UV irradiation.
+- **Instruments and Models**: A PerkinElmer Lambda950 spectrophotometer was used.
+- **Characterization Conditions**: The measurement captured a strong absorption peak near 265 nm with additional bands emerging at approximately 375 and 570 nm following 365 nm UV exposure.
+- **Test Parameters**: Precise resolution and integration times were not provided.
+- **Key Notes**: This method is critical for linking optical response to the MOF’s functional properties.
+
+### 4.6 Raman Spectroscopy
+- **Operational Description**: Raman spectroscopy supported the identification of photogenerated species within the MOF.
+- **Instruments and Models**: Data were recorded using a Renishaw inVia Qontor Raman spectrometer equipped with a 785 nm laser.
+- **Characterization Conditions**: Measurements were performed at room temperature.
+- **Test Parameters**: Detailed operational parameters beyond the laser wavelength were not specified.
+- **Key Notes**: Raman data complement other spectroscopic findings, despite limited operational specifics.
+
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+In this study, the MOF activation procedure was distinct from typical thermal or vacuum activation protocols. Rather than employing conventional parameters such as defined heating temperatures, controlled pressures, specific gas compositions, or flow rates, the activation step was exclusively achieved by a photochemical treatment aimed at modulating the magnetic properties of the MOF.
+
+The activation process involved exposing the synthesized SMM-MOF to controlled 365 nm UV irradiation under an inert argon atmosphere. This photoinduced treatment was specifically designed to trigger electron transfer processes that generate BPy radical anions within the framework. As a result, the coordination environment around the single-molecule magnet centers is subtly modified, leading to the observed photomagnetic switching behavior. The generated radicals influence magnetic relaxation dynamics and facilitate a reversible modulation of key magnetic parameters such as coercivity, as verified by repeated diffraction and magnetic measurements.
+
+It should be noted that the study did not report standard activation conditions—such as a defined activation temperature, an activation time period, vacuum levels, or activation gas flow rates—that are typically used to remove solvents or open the pore structure. Instead, the focus was on the photoactivation step, which was qualitatively monitored by maintaining the structural integrity of the MOF. This ensured that while the photoresponsive behavior was effectively induced, the overall crystallinity and framework order were preserved, as confirmed by PXRD and single-crystal X-ray analyses.
+
+In summary, the selected activation strategy for the MOF relied solely on photochemical activation via 365 nm UV irradiation, thereby differentiating it from activation methods associated with characterization techniques like TGA or in-situ PXRD. This targeted approach ensured that the induced radical generation and subsequent modulation of magnetic properties did not compromise the material’s structural robustness.
+
+### 5.2 Application/Performance Evaluation
+
+The performance evaluation of the MOF materials focused on assessing their single-molecule magnetic behavior under controlled external stimuli. A test temperature of 150 K was employed during initial performance measurements, with low-temperature experiments conducted at 2 K to reveal intrinsic magnetic properties. At 2 K, the Dy-based MOF demonstrated a high coercive field of 4500 Oe under dc magnetic susceptibility measurements using a Quantum Design MPMS-squid VSM magnetometer. This low-temperature environment was critical for quantifying the energy barrier for magnetization reversal and confirming exceptional single-molecule magnet behavior.
+
+Pressure conditions were not explicitly manipulated or reported during the evaluations. Instead, the experimental design emphasized gas composition control. While the MOF was exposed to ambient air to introduce oxidative stimuli for reverting the photogenerated state, UV irradiation was specifically performed under a nitrogen atmosphere to prevent premature oxidation. This careful management of the gas environment ensured reproducibility and clarity of the magnetic modulation observed.
+
+UV irradiation played a pivotal role in the photomagnetic switching. The MOF samples underwent exposure to a 365 nm UV light source for 25 to 30 minutes, triggering a rapid, reversible color transition from yellow to deep blue-violet. This photochromic transition was directly linked to the generation of photogenerated radicals, which accelerated the magnetic relaxation dynamics and reduced the energy barriers. Reversible switching was confirmed by a subsequent oxygen exposure that restored the original yellow state, underscoring the material's responsiveness to external stimuli. Moreover, the performance tests were repeated over five irradiation cycles, with observations highlighting a gradual reduction in radical generation efficiency after the second cycle, pointing to fatigue effects in prolonged cycling.
+
+These precisely documented parameters—test temperature, gas composition, irradiation conditions, and magnetic measurement techniques—provide a robust framework ensuring that the evaluation outcomes for the MOF’s magnetic and photoresponsive properties are both reproducible and directly traceable to the experimental conditions outlined in the article.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** The crystal structure and phase purity of the MOFs were determined using single-crystal X-ray diffraction (SCXRD) and powder X-ray diffraction (PXRD). These techniques are essential for confirming the intended framework topology, unit cell parameters, and the absence of impurities.
+- **Findings:** SMM-MOF 1 crystallizes in the monoclinic space group C2/c, with unit cell parameters: a = 14.1759(3) Å, b = 46.2729(9) Å, c = 14.9180(3) Å, β = 95.7240(10)°, and V = 9736.8(3) Å³ at 150 K. PXRD patterns of the bulk material match well with those calculated from the single-crystal data, confirming high phase purity and structural integrity. The unit cell parameters remain nearly unchanged after photochromic cycling, indicating robust phase stability.
+- **Observations:** The framework features a twisted Kagomé layer network with AB stacking, and interlayer C–H···π interactions (2.4–2.9 Å) contribute to the structural cohesion. Analogous Y- and Gd-based MOFs exhibit similar crystallinity and unit cell parameters.
+
+#### 6.1.2 Spectroscopic Analysis and Photochromic Behavior
+- **Description:** UV–vis, Raman, IR, and EPR spectroscopies were employed to probe the electronic structure, ligand environment, and photoresponsive properties. These methods are critical for detecting radical formation and monitoring reversible photochromic switching.
+- **Findings:** Upon 365 nm UV irradiation, SMM-MOF 1 exhibits new UV–vis absorption bands at ~375 nm and ~570 nm, attributed to BPy anion radicals. Raman spectra show a shift of the BPy ring stretch from 1616 to 1628 cm⁻¹ and the emergence of a strong band at 1517 cm⁻¹, indicating charge transfer and radical formation. EPR spectroscopy reveals a sharp signal at g = 2.0000 after irradiation, confirming stable radical generation, which disappears upon O₂ exposure. IR spectra confirm the presence of PhO⁻ ligands.
+- **Observations:** The photochromic response is reversible over multiple cycles, though some spectral features show incomplete recovery, suggesting partial structural reversibility. Y- and Gd-based analogues display similar but less pronounced spectroscopic changes, with Gd(III) signals dominating EPR spectra.
+
+#### 6.1.3 Morphology and Layered Structure
+- **Description:** Scanning electron microscopy (SEM) was used to examine the morphology and microstructure, providing insight into the layered arrangement and crystallinity.
+- **Findings:** SEM images reveal plate-like, polycrystalline crystals with a well-defined layered stacking, consistent with the twisted Kagomé network observed in XRD analysis.
+- **Observations:** The morphology supports the presence of periodic stacking and strong polycrystallinity, with interlayer interactions reinforcing the AB stacking mode.
+
+#### 6.1.4 Chemical Composition and Elemental States
+- **Description:** X-ray photoelectron spectroscopy (XPS) was utilized to verify elemental composition and chemical states, ensuring the correct incorporation of metal nodes and organic linkers.
+- **Findings:** XPS spectra confirm the presence of Dy, C, N, O, and other expected elements, with binding energies referenced to the C 1s peak at 284.6 eV. The data support the integrity of the MOF structure and successful ligand incorporation.
+- **Observations:** No evidence of linker decomposition or unexpected chemical states was detected.
+
+#### 6.1.5 Comparative Characterization of Analogues
+- **Description:** The Y- and Gd-based MOFs were characterized using the same suite of techniques to assess structural and electronic similarities.
+- **Findings:** Both analogues exhibit similar PXRD patterns, unit cell parameters, and photochromic responses. The Y-based MOF shows a weak radical EPR signal, while the Gd-based MOF’s EPR is dominated by the Gd(III) signal.
+- **Observations:** These results confirm that the observed photochromic and magnetic behaviors are intrinsic to the framework and the BPy ligand, with minor variations due to the metal center.
+
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Single-Molecule Magnet (SMM) Properties
+
+- **Description:** SMM performance is characterized by the energy barrier for magnetic relaxation (\(U_{\text{eff}}\)), coercive field (\(H_c\)), blocking temperature (\(T_B\)), and the presence of magnetic hysteresis. These metrics quantify the ability of the MOF to retain magnetization and exhibit slow magnetic relaxation, essential for data storage and spintronic applications.
+- **Experimental Data:**
+  - **Energy Barrier (\(U_{\text{eff}}\)):** For SMM-MOF 1 (Dy-based), \(U_{\text{eff}}\) values of 1048(17) K and 822(46) K were determined in the pristine state. After UV irradiation (1uv), these decreased to 1000(9) K and 641(34) K.
+  - **Coercive Field (\(H_c\)):** At 2 K, \(H_c\) was 4500 Oe for the pristine sample and reduced to 1300 Oe after UV irradiation.
+  - **Blocking Temperature (\(T_B\)):** The hysteresis loop remained open up to 20 K (pristine) and 14 K (UV-irradiated).
+- **Observations and Trends:** The Dy-based MOF exhibits record-high energy barriers and coercive fields for 2D MOFs. UV irradiation induces a significant decrease in both \(U_{\text{eff}}\) and \(H_c\), demonstrating efficient photomodulation of magnetic properties. The structural integrity and SMM behavior are retained after multiple cycles of photoactivation and oxidation.
+
+#### 6.2.2 Photochromic and Photomagnetic Switching
+
+- **Description:** Photochromic response is assessed by reversible color change and corresponding modulation of magnetic properties upon UV irradiation and O₂ exposure. Performance is quantified by changes in optical absorption, magnetic relaxation, and coercivity.
+- **Experimental Data:**
+  - **Photochromic Response:** Rapid color change from yellow to deep blue-violet upon 365 nm UV irradiation (6 W), with new UV–vis absorption bands at 375 and 570 nm indicating BPy radical formation. Reversion to yellow and disappearance of these bands upon O₂ exposure.
+  - **Magnetic Modulation:** UV irradiation accelerates magnetic relaxation (shorter relaxation times, τ) and narrows the hysteresis loop. The process is reversible, with magnetic properties restored after O₂ treatment.
+- **Observations and Trends:** The MOF demonstrates robust, reversible photomagnetic switching over at least five cycles, though some fatigue is observed (declining radical yield and incomplete spectral recovery). The direct correlation between BPy radical formation and magnetic property modulation is supported by UV–vis, Raman, and EPR spectroscopy.
+
+#### 6.2.3 Cycling Stability
+
+- **Description:** Cycling stability evaluates the retention of photochromic and magnetic performance over repeated activation–deactivation cycles.
+- **Experimental Data:** Five consecutive cycles of UV irradiation and O₂ exposure were performed. The material maintained photochromic and magnetic responsiveness, with gradual decline in radical generation efficiency and minor loss of spectral features.
+- **Observations and Trends:** The MOF exhibits good cycling stability, with partial fatigue attributed to depletion of electron donors. Most structural and functional properties are retained after multiple cycles.
+
+#### 6.2.4 Comparative Performance of Analogues
+
+- **Description:** Performance comparison with Y(III) and Gd(III) analogues assesses the role of the metal center in SMM and photochromic behavior.
+- **Experimental Data:** All analogues display reversible photochromic switching. Only the Dy-based MOF exhibits pronounced SMM behavior and photomodulation of magnetic properties; Y(III) and Gd(III) analogues serve as structural benchmarks with weaker or obscured radical signals.
+- **Observations and Trends:** The unique combination of high SMM performance and efficient photomagnetic switching is exclusive to the Dy-based MOF, highlighting the critical role of Dy(III) centers and BPy radical formation in achieving advanced multifunctionality.
+
+
+根据提供的文献内容，生成实验流程复现文献实验
+

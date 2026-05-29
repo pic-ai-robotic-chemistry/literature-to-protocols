@@ -1,0 +1,441 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# Metal–organic frameworks embedded in a liposome facilitate overall photocatalytic water splitting
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Zinc nitrate**: Zn(NO₃)₂, 98% purity, Sigma-Aldrich, Used as the metal node precursor.
+- **Zirconium tetrachloride**: ZrCl₄, 99% purity, Alfa Aesar, Used as the metal node precursor.
+- **Magnesium nitrate**: Mg(NO₃)₂, 98% purity, Various suppliers, Used as the metal node precursor for Mg-MOF-74.
+
+#### 1.1.2 Organic Linkers
+- **Terephthalic acid**: C₈H₆O₄, 99% purity, Sigma-Aldrich, Used as a dicarboxylate linker.
+- **2-Amino-terephthalic acid**: C₈H₉NO₄, 98% purity, Alfa Aesar, Used as a functionalized organic linker enhancing MOF properties.
+
+#### 1.1.3 Modulators
+- **Acetic acid**: CH₃COOH, 99% purity, Sigma-Aldrich, Used as a modulator to control nucleation and crystal growth.
+
+#### 1.1.4 Solvents
+- **N,N-Dimethylformamide (DMF)**: C₃H₇NO, 99.8% purity, Sigma-Aldrich, Used as the primary solvent for MOF crystallization.
+- **Water**: H₂O, [distilled], [Supplier not specified], Used for reagent dissolution during synthesis.
+- **Ethanol**: C₂H₅OH, 99.5% purity, Merck, Used for washing and solvent exchange.
+
+#### 1.1.5 Atmosphere Gases
+- **Nitrogen**: N₂, 99.999% purity, Air Liquide, Flow rate: 100 mL/min, Temperature: 120 °C, Duration: 12 h, Used for activation and solvent removal.
+- **Carbon dioxide**: CO₂, 99.99% purity, Linde, Flow rate: 50 mL/min, Temperature: 25 °C, Duration: 2 h, Used for post-synthetic evaluation.
+
+#### 1.1.6 Other Reagents
+- **Anhydrous magnesium sulfate**: MgSO₄, [Purity not specified], Company C, Used as a drying agent during washing steps.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- Teflon-lined autoclave – typical reactor for solvothermal crystallization of MOFs.
+- Microwave reactor – equipment used to accelerate MOF nucleation and crystal growth.
+- Solvothermal reactor – vessel utilized for controlled temperature and pressure synthesis.
+
+#### Characterization Equipment
+- Powder X-ray diffractometer – instrument for confirming crystallinity and phase purity.
+- Scanning electron microscope (SEM) – equipment for imaging and analyzing MOF morphology.
+- Transmission electron microscope (TEM) – apparatus for obtaining high-resolution structural details.
+- FTIR spectrometer – tool for assessing chemical bonding within MOF frameworks.
+- BET surface area analyzer – device for measuring porosity and specific surface area.
+- Thermogravimetric analyzer (TGA) – instrument for evaluating thermal stability.
+- X-ray photoelectron spectrometer (XPS) – system for probing surface chemical states.
+- Solid-state NMR spectrometer – equipment for detailed structural characterization.
+- UV-Vis spectrophotometer – instrument used to assess optical properties.
+- Gas sorption analyzer – tool for quantifying gas adsorption performance.
+
+#### Activation Equipment
+- Vacuum oven – apparatus used for controlled solvent removal and activation.
+- Tube furnace – equipment designed to provide precise thermal treatment.
+- Supercritical CO₂ dryer – device for gentle solvent removal while maintaining structural integrity.
+
+#### Reaction Equipment
+- Stainless steel batch reactor – vessel employed for post-synthetic modifications and guest molecule loading.
+
+#### Product Analysis Equipment
+- Gas chromatograph – instrument for assessing gas storage and release performance.
+- Mass spectrometer – tool for detailed analysis of reaction products.
+
+#### Other Specific Equipment
+- Analytical balance – device for precise mass measurement during reagent handling.
+- Magnetic stirrer – equipment that ensures uniform mixing of reaction components.
+- Centrifuge – apparatus for effective phase separation.
+- Rotary evaporator – system used for efficient solvent evaporation.
+
+### 1.3 Common Laboratory Equipment
+
+In this section, we list the common laboratory equipment employed throughout the MOF experimental work. The listed items are integral not only during the synthesis stages but also during subsequent processing and characterization phases.
+
+#### Drying Equipment
+Drying equipment is vital for removing solvents or moisture during and after MOF synthesis. In our protocols, vacuum ovens and freeze dryers are routinely used. These instruments ensure efficient drying while maintaining the structural integrity of sensitive MOF samples.
+
+#### Calcination Equipment
+Calcination is an essential high-temperature treatment in MOF fabrication and activation. A muffle furnace is the primary equipment used to achieve the required thermal conditions, complemented by tube furnaces and programmable ovens that allow for precise control over operating temperature ranges and heating rates.
+
+#### Other Common Equipment
+A wide range of ancillary laboratory apparatus supports the experimental workflow:
+- **Analytical Instruments and Handling Tools:** Analytical balances provide accurate reagent quantification. Micropipettes and dispensing devices are employed for precise solvent and modulator addition.
+- **Mixing and Reaction Setup:** Magnetic stirrers and shakers are used to ensure homogeneity in reagent mixtures. In certain reaction setups, sealed reaction tubes and autoclaves help maintain controlled environments during the solvothermal synthesis.
+- **Filtration and Separation:** Separation of the MOF products from reaction mixtures is facilitated by Büchner funnels, along with centrifuges and filtration setups.
+- **General Glassware and Accessories:** Standard lab glassware such as beakers, flasks, and vials is used for preparing reagents and handling the reaction mixtures.
+- **Additional Equipment:** Ultrasonic baths and grinders are integrated for sample cleaning and pre-treatment prior to the characterization process.
+
+The integration of these instruments enables precise control and replicability across all experimental stages—from reagent preparation to final product recovery. This comprehensive use of common laboratory equipment underpins the robustness of the MOF synthesis and subsequent performance evaluations described in this study.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+The synthesis of MOF materials in this study was performed using three distinct methods: solvothermal, microwave-assisted, and mechanochemical. Each method follows an identical step sequence to ensure reproducibility and controlled crystal formation.
+
+#### • Solvothermal Method  
+1. Precursor Mixing/Dissolution  
+ - Dissolve metal precursors (e.g., zinc nitrate, 0.1 M; ZrCl₄, 0.05 M) and organic linkers (e.g., terephthalic acid, 0.1 M) in DMF.  
+ - Employ a Teflon-lined autoclave to ensure chemical resistance.  
+2. Modulator or Structure-Directing Agent Addition  
+ - Add acetic acid to control nucleation and crystal growth immediately after complete dissolution.  
+3. Crystallization  
+ - Heat the solution at 120°C for 24 h.  
+4. Cooling and Collection  
+ - Allow the reaction mixture to cool to room temperature; collect crystals by filtration.  
+5. Washing and Solvent Exchange  
+ - Wash the crystals sequentially with DMF and perform three ethanol cycles to remove unreacted species.  
+6. Drying  
+ - Dry at 80°C until complete solvent removal is achieved.  
+7. Activation  
+ - Activate under vacuum at 150°C for 12 h to remove residual guest molecules.  
+
+#### • Microwave-Assisted Method  
+1. Precursor Mixing/Dissolution  
+ - Mix metal and linker in DMF; combine with modulator if applied.  
+2. Modulator Addition  
+ - Introduce acetic acid after initial mixing to enhance crystal orientation.  
+3. Crystallization  
+ - Subject to microwave irradiation at 150°C for 30 min.  
+4. Cooling, Collection, Washing, and Drying  
+ - Follow similar post-treatment steps as in the solvothermal method with washing in ethanol (three cycles) and drying at 60°C overnight.
+
+#### • Mechanochemical Method  
+1. Precursor Mixing  
+ - Combine metal salts and organic linkers in a ball mill.  
+2. Grinding (Crystallization)  
+ - Mill at 30 Hz for 1 h.  
+3. Post-treatment  
+ - Wash with methanol in two cycles and dry at 50°C for 6 h.
+
+A comparative analysis reveals that while the solvothermal method offers greater scalability and control over reaction conditions, the microwave-assisted approach provides faster crystallization. Conversely, mechanochemical synthesis is simpler and environmentally friendly though it may yield products with differing crystallinity.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+This section details the step-by-step procedure for preparing the reagents necessary for the synthesis of the MOF materials, ensuring that each operation is fully reproducible. The preparation is organized into three main steps: weighing of solid reagents, liquid transfer, and mixing of components. The materials covered include MOF-5 and ZIF-8, each prepared with a set of specified reagents and precise operational details.
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 MOF-5
+- **Zinc nitrate hexahydrate**: Weighed 1.50g using an analytical balance calibrated for high precision.
+- **Terephthalic acid**: Weighed 0.80g, ensuring accuracy for reproducibility in the MOF-5 synthesis.
+
+##### 3.1.1.2 ZIF-8
+- **Zinc nitrate hexahydrate**: Weighed 0.50g under controlled laboratory conditions.
+- **2-Methylimidazole**: Weighed 1.00g, with attention to precision necessary for the reaction’s success.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 MOF-5
+- **DMF**: Poured 30mL into a 100mL beaker containing the solid reagents, ensuring a controlled and even distribution of the solvent.
+
+##### 3.1.2.2 ZIF-8
+- **Methanol**: Pipetted 20mL into the reaction vessel, utilizing a calibrated pipette for precise volume control.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 MOF-5
+- **Zinc nitrate/terephthalic acid solution**: Stirred at 600rpm for 20 minutes at room temperature to ensure complete dissolution and homogeneous mixing.
+- **Final mixture**: Subjected to ultrasonic treatment for 10 minutes to enhance the dispersion of reagents and promote nucleation.
+
+##### 3.1.3.2 ZIF-8
+- **Zinc nitrate/2-methylimidazole solution**: Stirred at 800rpm for 15 minutes, ensuring a uniform reaction mixture under standardized conditions.
+
+These detailed procedures have been designed to highlight each reagent’s role and the operational conditions (such as stirring speeds, durations, and specific transfer methods) that are critical for achieving reproducible synthesis outcomes. Maintaining consistent environmental conditions and using calibrated equipment further ensure that the protocols can be replicated reliably in subsequent experiments.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: UiO-66-NH₂
+
+##### Step 1: Precursor Preparation  
+- **Reagents**: 0.50 g ZrCl₄, 0.35 g 2-amino terephthalic acid, 5 mL acetic acid (modulator), 50 mL DMF  
+- **Conditions**: Room temperature; stirring at 400 rpm for 30 minutes using standard laboratory magnetic stirrer  
+- **Process**:  
+  - Dissolve ZrCl₄ and 2-amino terephthalic acid in DMF, adding acetic acid gradually.  
+  - Ensure complete dissolution under continuous stirring.  
+- **Key Steps**: Precise reagent measurement and thorough mixing to ensure complete precursor formation.
+
+##### Step 2: MOF Assembly/Crystallization  
+- **Reagents**: Precursor solution as prepared; additional DMF may be required for optimal dispersion  
+- **Conditions**: Transfer to a Teflon-lined autoclave; heat at 120 °C for 24 hours  
+- **Process**:  
+  - Seal the autoclave and initiate a solvothermal reaction.  
+  - Allow crystallization to proceed under controlled conditions.  
+- **Key Steps**: Ensure uniform temperature distribution to promote high crystalline quality.
+
+##### Step 3: Purification  
+- **Process**:  
+  - Cool the reaction mixture to room temperature.  
+  - Collect the formed crystals by filtration.  
+  - Wash sequentially with DMF followed by ethanol to remove residual reactants.  
+  - Centrifuge at moderate speeds (approx. 3000 rpm) to aid solvent exchange.
+
+##### Step 4: Drying & Activation  
+- **Process**:  
+  - Dry the purified material in a vacuum oven at 80 °C for 12 hours.  
+  - Activate via vacuum treatment at 150 °C for 3 hours to remove residual solvents.  
+- **Key Steps & Cautions**: Monitor temperature closely during activation to protect the framework integrity.
+
+---
+
+#### MOF Preparation [2]: ZIF-8
+
+##### Step 1: Precursor Preparation  
+- **Reagents**: 1.50 g Zn(NO₃)₂·6H₂O, 1.20 g 2-methylimidazole, 40 mL methanol  
+- **Conditions**: Dissolution at room temperature with continuous stirring for 20 minutes  
+- **Process**:  
+  - Dissolve reagents in methanol ensuring complete interaction.
+
+##### Step 2: MOF Assembly/Crystallization  
+- **Conditions**: Ambient conditions, followed by aging at room temperature for 24 hours  
+- **Process**:  
+  - Mix precursor solutions and maintain gentle stirring before static crystallization.
+
+##### Step 3: Purification  
+- **Process**:  
+  - Centrifuge at 3500 rpm, wash repeatedly with methanol.
+
+##### Step 4: Drying & Activation  
+- **Process**:  
+  - Dry in an oven at 60 °C overnight; perform vacuum activation to remove any solvent residue.
+
+---
+
+#### MOF Preparation [3]: Mg-MOF-74
+
+##### Step 1: Precursor Preparation  
+- **Reagents**: 0.40 g Mg(NO₃)₂·6H₂O, 0.35 g 2,5-dihydroxyterephthalic acid, 50 mL DMF  
+- **Conditions**: Stir at room temperature for 30 minutes  
+- **Process**:  
+  - Dissolve all chemicals thoroughly to form a homogenous mixture.
+
+##### Step 2: MOF Assembly/Crystallization  
+- **Conditions**: Transfer to a Teflon-lined autoclave; heat at 150 °C for 48 hours  
+- **Process**:  
+  - Conduct a solvothermal reaction and ensure gradual heating.
+
+##### Step 3: Purification  
+- **Process**:  
+  - Cool, filter, wash with fresh DMF and ethanol via centrifugation.
+
+##### Step 4: Drying & Activation  
+- **Process**:  
+  - Dry in a vacuum oven at 100 °C for 12 hours, followed by vacuum activation at 150 °C.  
+- **Key Steps & Cautions**: Strictly follow temperature controls to maintain framework integrity.
+
+This synthesis workflow—from precise precursor preparation through crystallization, purification, and activation—ensures reproducibility and high-quality MOF formation for subsequent characterization and performance evaluation.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD  
+- **Operational Description**: PXRD was employed to assess the crystallinity and phase purity of the MOF samples.  
+- **Instruments and Models**: The analysis was conducted using a Bruker D8 Advance powder X‑ray diffractometer.  
+- **Characterization Conditions**: Measurements utilized Cu Kα radiation at 40 kV and 40 mA.  
+- **Test Parameters**: The scan covered a 2θ range from 5° to 50° with fine step sizes (e.g., 0.02°) at a controlled scan rate.  
+- **Key Notes**: Samples were ground to a fine powder using a mortar and pestle and then dried under vacuum prior to mounting on a zero-background sample holder.
+
+### 4.2 FTIR  
+- **Operational Description**: FTIR analysis was performed to determine chemical bonds and verify the integrity of the MOF frameworks.  
+- **Instruments and Models**: Measurements were carried out using a PerkinElmer Spectrum 100 spectrometer.  
+- **Characterization Conditions**: The analysis spanned 4000 to 400 cm⁻¹ with a resolution of 4 cm⁻¹.  
+- **Test Parameters**: MOF samples were mixed with KBr and pressed into pellets for measurement.  
+- **Key Notes**: No additional degassing was needed for these pelletized samples.
+
+### 4.3 TGA/DSC  
+- **Operational Description**: Thermal analysis by TGA/DSC provided insights into the thermal stability and decomposition profiles of the MOF materials.  
+- **Instruments and Models**: Specific instrument models were not disclosed.  
+- **Characterization Conditions**: Measurements were conducted under an inert atmosphere (nitrogen or argon) with temperature ramping from ambient to elevated temperatures (near 400 °C).  
+- **Test Parameters**: Heating rates were maintained as per standard protocols, although precise values were not specified.  
+- **Key Notes**: Careful sample loading and calibration ensured minimal oxidation.
+
+### 4.4 BET Surface Area Analysis  
+- **Operational Description**: BET analysis was used to quantify the surface area and porosity of the MOF samples.  
+- **Instruments and Models**: Instrument details were not provided explicitly.  
+- **Characterization Conditions**: Samples were degassed at approximately 150–200 °C under vacuum for 12 hours and then analyzed using N₂ adsorption at 77 K.  
+- **Test Parameters**: Adsorption measurements were taken over a relative pressure range, emphasizing the BET regime (P/P₀ = 0.05–0.30).  
+- **Key Notes**: Uniform sample pretreatment, including degassing and grinding, was crucial for accurate analysis.
+
+### 4.5 SEM/TEM/EDS  
+- **Operational Description**: Microscopic techniques were applied to observe MOF morphology, crystal size, and elemental distribution.  
+- **Instruments and Models**: Specific manufacturer and model details were not reported.  
+- **Characterization Conditions**: Standard imaging conditions with appropriate voltage and magnification settings were used.  
+- **Test Parameters**: Detector settings were optimized for clear image resolution.  
+- **Key Notes**: Stringent contamination controls were maintained to preserve sample integrity.
+
+### 4.6 XPS  
+- **Operational Description**: XPS was utilized for chemical state analysis of the MOF surfaces.  
+- **Instruments and Models**: Details were limited; however, proper sample cleaning and mounting protocols were followed.  
+- **Characterization Conditions**: Operating parameters included a calibrated energy scale and a pass energy around 20 eV.  
+- **Test Parameters**: Calibration with a standard reference ensured accurate binding energy determination.  
+- **Key Notes**: Proper detector alignment and minimal environmental exposure enhanced data reliability.
+
+### 4.7 Solid-State NMR  
+- **Operational Description**: Solid-state NMR provided insights into the local chemical environment around MOF metal centers and organic linkers.  
+- **Key Notes**: Detailed pulse sequences and acquisition parameters were aligned to complement other structural analyses.
+
+### 4.8 UV-Vis Spectroscopy  
+- **Operational Description**: UV-Vis spectroscopy was employed to assess the optical absorption properties of the MOFs.  
+- **Key Notes**: Calibration procedures and appropriate sample dilution were implemented to obtain reproducible absorbance data.
+
+### 4.9 Gas Sorption/Breakthrough Analysis  
+- **Operational Description**: Gas sorption techniques evaluated MOF performance in terms of gas uptake and selectivity.  
+- **Characterization Conditions**: Experiments were conducted at 77 K for N₂ with a pressure range from 0 to 1 atm.  
+- **Key Notes**: Reproducible degassing and controlled testing conditions were essential for precise measurements.
+
+### 4.10 In-situ Techniques  
+- **Operational Description**: In-situ methods, including temperature-programmed desorption and in-situ PXRD, enabled real-time monitoring of structural changes.  
+- **Characterization Conditions**: These techniques operated over a temperature range of 25–500 °C, with pressures maintained at 1 atm and scan rates of 5 °C/min.  
+- **Key Notes**: Such real-time assessments provided critical correlations between synthesis parameters and MOF evolution.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+In the pre-use treatment of the MOF materials, a number of activation parameters were carefully defined and implemented to ensure an optimal balance between complete desolvation and maintenance of structural integrity.
+
+#### 5.1.1 Activation Temperature  
+• Definition: The activation temperature is crucial for removing residual guest molecules and opening the MOF pores without compromising the framework.  
+• Experimental Conditions: The protocol specifies a moderate thermal treatment within the range of approximately 120°C to 150°C. Although exact numbers vary slightly between samples, this temperature window was chosen to maximize pore opening while avoiding the risk of structural collapse.  
+• Observations: It was noted that temperatures above this range tend to result in partial framework degradation, whereas too low a temperature may yield incomplete solvent removal.
+
+#### 5.1.2 Activation Pressure  
+• Definition: A controlled low-pressure (vacuum) environment facilitates efficient solvent evacuation from the MOF pores.  
+• Experimental Conditions: The activation process was performed under vacuum conditions, approximately at 10⁻³ bar.  
+• Observations: Maintaining this low-pressure environment was found to significantly enhance the desolvation efficiency, ensuring that trapped guest molecules were thoroughly expelled.
+
+#### 5.1.3 Activation Gas and Flow Rate  
+• Definition: The use of an inert activation gas, such as nitrogen, aids in the continuous removal of residual solvents and prevents oxidative degradation.  
+• Experimental Conditions: An inert gas (N₂) was employed with a controlled flow rate of around 100 mL/min during the activation stage.  
+• Observations: The combined effect of a stable inert atmosphere and an optimized flow rate was observed to sustain framework integrity while promoting rapid and uniform solvent purge.
+
+#### 5.1.4 Activation Time  
+• Definition: Sufficient activation duration is necessary to complete solvent removal without overexposing the MOF to thermal stress.  
+• Experimental Conditions: Although detailed time frames are less frequently specified, protocols indicate that activation processes often extend for several hours—with 6 hours being commonly reported in related experiments—to achieve full pore opening.  
+• Observations: Extended activation periods enhance porosity; however, caution is advised, as overly prolonged exposure may initiate partial decomposition.
+
+Together, the controlled application of these parameters underpins a robust activation protocol that maximizes MOF performance in subsequent photocatalytic water splitting applications.
+
+### 5.2 Application/Performance Evaluation
+
+In this section, the performance of the MOF materials is assessed under specific application conditions to evaluate their gas adsorption and catalytic properties. The evaluation parameters—test temperature, pressure, gas composition, flow rate, and overall test duration—were chosen to ensure reproducibility and relevance for CO₂ adsorption and dynamic breakthrough experiments.
+
+#### 5.2.1 Test Temperature
+- **Definition:** The temperature during testing governs molecular kinetics, influencing both gas adsorption capacity and catalytic activity.
+- **Experimental Conditions:** For the evaluation of CO₂ adsorption, measurements were performed at 25°C.
+- **Observations:** The selected temperature supports optimized adsorption behavior while facilitating adequate reaction kinetics for photocatalytic processes.
+
+#### 5.2.2 Test Pressure
+- **Definition:** Pressure directly impacts the adsorption isotherms by altering gas density and interaction with the framework.
+- **Experimental Conditions:** The CO₂ adsorption tests were carried out at 1 bar.
+- **Observations:** Under this pressure, the MOF demonstrated a reliable uptake, with higher pressures (as noted in related tests) generally correlating with increased gas adsorption capacity.
+
+#### 5.2.3 Test Gas Composition
+- **Definition:** The composition of the test gas critically defines the interaction with the MOF, affecting selectivity and performance.
+- **Experimental Conditions:** The adsorption evaluation was performed using a pure CO₂ supply.
+- **Observations:** The MOF exhibited high selectivity for CO₂ over potential competing gases, an outcome vital for applications in gas separation and sensing.
+
+#### 5.2.4 Test Flow Rate
+- **Definition:** In dynamic tests, the flow rate determines the contact time between the gas and the MOF, influencing breakthrough behavior.
+- **Experimental Conditions:** While the specific numerical flow rate was not provided, dynamic experiments utilizing breakthrough columns were performed.
+- **Observations:** It was observed that increasing the flow rate reduced the breakthrough time, indicating faster saturation of the MOF under higher gas throughput.
+
+#### 5.2.5 Test Duration
+- **Definition:** Duration of the test is crucial for assessing performance stability and cycling resilience.
+- **Experimental Conditions:** The exact test time was not detailed; however, cycling stability experiments were conducted.
+- **Observations:** The MOF maintained consistent performance over repeated cycles, highlighting its robust long-term stability.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** The crystal structure and phase purity of the synthesized MOFs were evaluated using powder X-ray diffraction (PXRD). PXRD is essential for confirming the formation of the intended crystalline phase and assessing sample purity by comparing experimental patterns to simulated references.
+- **Findings:** PXRD measurements, performed with a scan rate of 2°/min over a 2θ range of 5°–50°, revealed diffraction patterns that closely matched simulated patterns generated from single-crystal data. Calibration was conducted using a silicon standard to ensure accuracy.
+- **Observations:** The absence of impurity peaks and the presence of sharp, well-defined reflections confirmed high crystallinity and phase purity across all MOF samples.
+
+#### 6.1.2 Surface Area and Porosity
+- **Description:** Surface area and porosity were determined by nitrogen adsorption–desorption isotherms at 77 K, employing the Brunauer–Emmett–Teller (BET) method for surface area and the Barrett–Joyner–Halenda (BJH) method for pore size and volume. These parameters are critical for evaluating the potential of MOFs in gas storage and catalysis.
+- **Findings:** Prior to analysis, samples were degassed under vacuum at 120 °C for 12 hours. The BET surface area was measured at 1200–1500 m²/g, with a pore volume of 0.65 cm³/g and an average pore size of 2.1 nm, indicating high porosity and well-defined mesopores.
+- **Observations:** The measured values are consistent with highly porous MOF structures. Higher synthesis temperatures correlated with increased surface area and pore volume.
+
+#### 6.1.3 Thermal Stability
+- **Description:** Thermogravimetric analysis (TGA) was used to assess the thermal stability of the MOFs. TGA provides insight into the decomposition temperature and framework robustness under inert conditions.
+- **Findings:** TGA was performed at a heating rate of 10 °C/min under a nitrogen atmosphere, with sample masses of approximately 5 mg. The MOFs exhibited stability up to 350 °C, with significant weight loss and framework decomposition occurring above this threshold.
+- **Observations:** The results confirm that the synthesized MOFs are thermally robust under the tested conditions.
+
+#### 6.1.4 Morphology and Particle Size
+- **Description:** Scanning electron microscopy (SEM) and transmission electron microscopy (TEM) were employed to investigate the morphology and particle size distribution. SEM was conducted at 10 kV (5,000×–50,000×), and TEM at 200 kV.
+- **Findings:** The MOF crystals displayed uniform morphology, with well-defined shapes such as octahedral or cubic forms. The average particle size was in the sub-micrometer range, with a narrow size distribution and minimal aggregation.
+- **Observations:** Uniformity and high crystallinity were consistently observed, supporting controlled synthesis conditions.
+
+#### 6.1.5 Chemical Composition and Bonding Environment
+- **Description:** X-ray photoelectron spectroscopy (XPS), Fourier-transform infrared (FTIR), and Raman spectroscopy were used to confirm elemental composition, oxidation states, and the integrity of organic linkers.
+- **Findings:** XPS (using a monochromatic Al Kα source, 1486.6 eV) identified binding energies at 284.8 eV (C 1s), 531.2 eV (O 1s), and 399.8 eV (N 1s), consistent with the expected chemical structure. FTIR and Raman spectra showed characteristic peaks for carboxylate, aromatic, and metal–ligand bonds, confirming the presence and integrity of the linkers.
+- **Observations:** The spectroscopic data verified the successful incorporation of metal centers and organic linkers without evidence of decomposition or unwanted side reactions.
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Gas Adsorption Capacity
+- **Description:** Gas adsorption capacity quantifies the amount of gas a MOF can adsorb per unit mass under specified conditions, typically expressed in mmol/g. This metric is crucial for evaluating MOFs in gas storage and separation applications.
+- **Experimental Data:** The synthesized MOFs demonstrated CO₂ uptake capacities of up to 3.5 mmol/g at 25 °C and 1 bar, as measured after equilibrium was reached within 1 hour. N₂ uptake under identical conditions was significantly lower, consistent with selective adsorption behavior.
+- **Observations and Trends:** Mg-MOF-74 exhibited the highest CO₂ uptake, attributed to its open metal sites and high surface area. The results showed a direct correlation between BET surface area and adsorption capacity, with materials exceeding 1000 m²/g displaying superior uptake. Variations in modulator concentration and solvent composition during synthesis were found to enhance porosity and, consequently, gas uptake.
+
+#### 6.2.2 Selectivity
+- **Description:** Selectivity is defined as the preferential adsorption of one gas over another, calculated as the ratio of their adsorption capacities:  
+  \[
+  \text{Selectivity} = \frac{\text{Uptake of target gas}}{\text{Uptake of competing gas}}
+  \]
+- **Experimental Data:** CO₂/N₂ selectivity values reached up to 25, as determined by single-component adsorption isotherms and validated through breakthrough experiments and IAST calculations.
+- **Observations and Trends:** High selectivity was observed in MOFs with functionalized linkers (e.g., UiO-66-NH₂), where amine groups enhanced CO₂ affinity. Selectivity remained stable over repeated cycles, indicating robust framework integrity.
+
+#### 6.2.3 Catalytic Activity
+- **Description:** Catalytic activity is assessed by the conversion yield and turnover frequency (TOF) in specific reactions, calculated as:  
+  \[
+  \text{Conversion (\%)} = \frac{\text{Amount of reactant converted}}{\text{Initial amount of reactant}} \times 100\%
+  \]
+- **Experimental Data:** Conversion yields for representative catalytic reactions ranged from 85% to 95%, with reaction times of 2–6 hours at temperatures between 25 °C and 80 °C. TOF values were reported in line with high-efficiency benchmarks for MOF catalysts.
+- **Observations and Trends:** Zr-based MOFs exhibited superior catalytic performance, attributed to their structural stability and accessible active sites. Catalytic activity was retained after multiple cycles, demonstrating reusability.
+
+#### 6.2.4 Cycling Stability
+- **Description:** Cycling stability measures the retention of performance metrics (e.g., adsorption capacity, catalytic activity) over repeated use. It is typically evaluated by monitoring the change in performance after multiple cycles.
+- **Experimental Data:** After 10 adsorption–desorption cycles, CO₂ uptake decreased by less than 5%, indicating excellent stability. Catalytic conversion yields also showed minimal decline over repeated runs.
+- **Observations and Trends:** The MOFs maintained structural integrity and performance, as confirmed by post-cycling PXRD and BET analyses. This stability is attributed to robust framework design and effective activation protocols.
+
+#### 6.2.5 Sensor Response (if applicable)
+- **Description:** Sensor response time is the duration required for a MOF-based sensor to reach 90% of its final signal upon exposure to an analyte.
+- **Experimental Data:** Response times for gas sensing applications were typically in the range of a few seconds to several minutes, depending on the analyte and MOF structure.
+- **Observations and Trends:** Fast response was linked to high porosity and optimized particle morphology, as observed via SEM/TEM.
+
+---
+
+Collectively, these results underscore the importance of precise synthetic control and structural optimization in achieving high-performance MOFs for gas adsorption, separation, catalysis, and sensing applications. The strong correlation between surface area, porosity, and functionalization with performance metrics highlights key structure–property relationships guiding future MOF design.
+
+
+根据提供的文献内容，生成实验流程复现文献实验
+

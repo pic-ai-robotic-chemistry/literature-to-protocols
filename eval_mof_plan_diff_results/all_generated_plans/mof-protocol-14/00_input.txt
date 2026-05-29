@@ -1,0 +1,353 @@
+# Cerium Metal−Organic Framework for Photocatalysis
+
+## 1. Materials
+
+### 1.1 Reagents
+
+The following section extracts all reagent details provided by the experimental context for the synthesis of the MOFs. The reagents are categorized into metal precursors and organic linkers; only those categories with explicit mentions in the context are included. Although specific chemical formulas, purity levels, supplier names, and catalog numbers were not provided in detail, the functional roles of each reagent have been indicated based on the reported synthesis approach and key performance outcomes. This structured extraction also reflects the critical distinction between the reagents used for constructing the traditional UiO-66(Zr) framework and those employed in the Ce-based MOF modification, with an emphasis on the impact of ligand-to-metal charge transfer (LMCT) on photocatalytic performance.
+
+#### 1.1.1 Metal Precursors
+- **Zirconium Precursor**: Zr-based species, [chemical formula not specified], [purity not specified], [supplier not provided], Used as the metal node precursor in forming the UiO-66(Zr) framework.
+- **Cerium Precursor**: Ce-based species, [chemical formula not specified], [purity not specified], [supplier not provided], Employed as the metal node precursor in constructing the Ce-modified MOF framework and to promote improved LMCT for enhanced photocatalytic activity.
+
+#### 1.1.2 Organic Linkers
+- **Terephthalic Acid (BDC)**: C₈H₆O₄, [purity not specified], [supplier not provided], Serves as the primary dicarboxylate linker for assembling the MOF framework.
+- **Functionalized Terephthalic Acid (BDC-X)**: [Variable composition reflecting substituents such as NH₂, NO₂, F, Cl, Br, I, OH, SH, COOH, CH₃, CF₃, SO₃H], [purity not specified], [supplier not provided], Utilized for introducing functional groups that tailor the framework’s electronic properties and absorption characteristics, thus enabling fine-tuning of the LMCT and photocatalytic behavior.
+
+This extraction directly addresses the experimental focus by including only the reagents explicitly indicated, while omitting empty categories such as modulators, solvents, acid/base regulators, structure-directing agents, surface modifiers, atmosphere gases, and other reagents.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- Teflon-lined stainless steel autoclave – generic device for high-pressure solvothermal synthesis.
+- Solvothermal reactor – generic reactor designed for controlled crystallization under solvothermal conditions.
+- Microwave reactor – generic instrument used to accelerate MOF synthesis through rapid heating.
+- Flow reactor – generic apparatus for continuous-flow crystallization processes.
+
+#### Characterization Equipment
+- Powder X-ray diffractometer – generic instrument for determining crystallinity and phase purity.
+- Scanning Electron Microscope (SEM) – generic microscope used for surface morphology analysis.
+- Transmission Electron Microscope (TEM) – generic instrument for investigating internal microstructures.
+- Energy-dispersive X-ray Spectroscopy (EDS) attachment – generic accessory for elemental composition analysis.
+- FTIR spectrometer – generic instrument applied to study vibrational modes in MOF structures.
+- BET surface area analyzer – generic equipment used for quantifying porosity and surface area.
+- Thermogravimetric analyzer (TGA) – generic device for assessing thermal stability and decomposition profiles.
+- Differential Scanning Calorimeter (DSC) – generic apparatus for measuring thermal transitions.
+- X-ray photoelectron spectrometer (XPS) – generic instrument used to probe surface chemical composition.
+- Solid-state NMR spectrometer – generic device for evaluating the local chemical environment.
+- UV–Vis spectrophotometer – generic instrument for optical absorption analysis.
+- Gas sorption analyzer – generic equipment used for measuring gas adsorption properties.
+
+#### Activation Equipment
+- Vacuum oven – generic oven used for solvent removal and sample activation.
+- Tube furnace – generic furnace utilized for thermal activation under controlled atmospheres.
+- Supercritical CO₂ dryer – generic apparatus for gentle drying while maintaining structural integrity.
+
+#### Reaction Equipment
+- Glass reaction vessel – generic container for post-synthetic modification and reagent reaction.
+- Stainless steel batch reactor – generic vessel for guest molecule loading and reaction control.
+
+#### Product Analysis Equipment
+- Gas chromatograph – generic instrument for product separation and analysis.
+- Mass spectrometer – generic device for identifying compound mass and structure in product streams.
+
+#### Other Specific Equipment
+- Analytical balance – generic instrument for precise mass measurements.
+- Magnetic stirrer – generic device for homogeneous mixing of reagents.
+- Centrifuge – generic equipment used for phase separation and purification.
+- Rotary evaporator – generic apparatus for solvent removal during sample preparation.
+
+### 1.3 Common Laboratory Equipment
+
+In the context of MOF experimentation, it is essential to employ a range of common laboratory equipment to ensure the integrity of samples and enable reproducible synthesis and characterization steps. This section details the standard apparatus used throughout various stages, from reagent preparation to post-synthesis processing.
+
+#### Drying Equipment
+Drying is a critical step for the activation and stabilization of MOF samples. Common drying equipment includes:
+- Vacuum ovens, which provide controlled atmosphere and temperature settings.
+- Freeze dryers, ideal for delicate samples where preservation of structure is paramount.
+- Conventional ovens, used for straightforward drying processes under ambient to moderate temperatures.
+
+#### Calcination Equipment
+High-temperature treatment is sometimes required to modify material properties or remove residual organics. The following equipment is typically used:
+- Muffle furnaces, which enable uniform heating and are suited for achieving high-temperature conditions.
+- Tube furnaces, which provide a controlled temperature environment for continuous metal oxide formation.
+- Programmable ovens, offering precise temperature control for specialized heating protocols.
+
+#### Other Common Equipment
+For routine laboratory operations that support both reagent handling and process control, a variety of general equipment is utilized:
+- Analytical balances, crucial for accurate reagent measurements.
+- Magnetic stirrers and ultrasonic baths, which ensure homogeneous mixing during solution preparation.
+- Filtration apparatus such as Büchner funnels for the efficient separation of solid products.
+- A comprehensive array of glassware, including beakers, flasks, and pipettes, essential for precise liquid handling and synthesis operations.
+- Centrifuges may be employed where rapid phase separation is required.
+- Hot plates and temperature-control devices that aid in maintaining stable reaction conditions across diverse experimental setups.
+
+Collectively, this suite of equipment addresses fundamental needs in MOF synthesis—from precise reagent dosing and controlled mixing to efficient drying and high-temperature treatments—thereby supporting robust experimental workflows and reproducibility in research outcomes.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+In the reported work, two distinct MOF syntheses are outlined employing solvothermal approaches with metal substitution and linker functionalization techniques. The methods are presented below in a structured stepwise format to support reproducibility.
+
+#### • Solvothermal Synthesis of UiO-66(Zr)
+
+1. Precursor Mixing / Dissolution  
+ • Zr-based precursors are combined with 1,4‑benzene‑dicarboxylate (BDC) in an appropriate organic solvent.  
+ • Concentrations and pH adjustments are prepared to favor high crystallinity.  
+
+2. Modulator or Structure-Directing Agent Addition  
+ • A modulator, typically an acid such as acetic acid, is introduced immediately after dissolution to assist in defect minimization and framework uniformity.  
+
+3. Crystallization  
+ • The reaction mixture is transferred to a Teflon-lined autoclave and heated under solvothermal conditions.  
+ • Example parameters include heating at 120°C for 24 h, promoting uniform crystal formation.  
+
+4. Cooling and Collection  
+ • After the reaction, the autoclave is cooled to room temperature.  
+ • The crystalline product is collected via filtration.  
+
+5. Washing and Solvent Exchange  
+ • Crystals are sequentially washed with DMF and ethanol to remove unreacted species.  
+
+6. Drying  
+ • The washed product is dried at 80°C until residual solvent is eliminated.  
+
+7. Activation  
+ • Activation is performed under vacuum conditions at 150°C for 12 h to remove pore-included molecules and render the framework catalytically active.  
+
+8. Additional Post-Treatments  
+ • No further post-synthetic modifications are reported for the Zr-based framework.
+
+#### • Solvothermal Synthesis of UiO-66(Ce)-X
+
+1. Precursor Mixing / Dissolution  
+ • Ce salts are mixed with benzene-dicarboxylate derivatives (HBDC-X, where X represents a variety of substituents), establishing the foundation for linker functionalization.  
+
+2. Modulator Addition  
+ • As with the Zr variant, a modulator is added to manage cluster formation and cap defects.  
+
+3. Crystallization and Beyond  
+ • The solvothermal conditions mirror those for the Zr system, with tailored temperature and duration parameters to accommodate Ce’s coordination chemistry.  
+ • The process incorporates built-in cluster formation dynamics and subsequent capping by protonation.  
+
+Both methods emphasize control of reaction parameters and equipment (e.g., Teflon-lined autoclaves, vacuum ovens) to ensure reproducibility, although specific numerical values for Ce-based MOFs are aligned with comparative optimization for improved photocatalytic activity.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+The approach to reagent preparation is organized into three sequential steps—Weighing, Liquid Transfer, and Mixing—with each step further broken down by the two MOF systems examined: UiO-66(Zr) and UiO-66(Ce)-X. This structure is designed to ensure clarity and reproducibility.
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 UiO-66(Zr)
+• **Metal Precursor (Zr Salt)**: The document indicates that solid reagents are measured accurately using high-precision balances. Although the specific mass and balance type are not explicitly provided, the procedure emphasizes the necessity for careful weighing of the Zr-based salt.  
+• **Organic Linker (BDC)**: Similarly, the terephthalic acid (BDC) is weighed to the required precision. The protocol underscores that both the chemical identity and measured mass are critical for stoichiometry.
+
+##### 3.1.1.2 UiO-66(Ce)-X
+• **Metal Precursor (Ce Salt)**: For the Ce-based framework, the Ce salt is prepared under analogous conditions. The preparation framework stresses the importance of precise quantitative measurement to ensure proper metal-to-linker ratios.  
+• **Functionalized Linkers (HBDC-X)**: The functionalized 1,4-benzenedicarboxylate derivatives are measured in solid form with an emphasis on reproducibility, ensuring that each batch maintains consistent composition.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 UiO-66(Zr)
+• **Solvent Addition**: A solvent such as DMF is transferred into the reaction container using standard laboratory equipment (e.g., graduated cylinder or pipette), following a precise volumetric protocol.  
+
+##### 3.1.2.2 UiO-66(Ce)-X
+• **Solvent Incorporation**: The liquid reagents for the Ce-based system are added using similar transfer methods with focus on accurate volume delivery to maintain consistent reaction conditions.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 UiO-66(Zr)
+• **Solution Homogenization**: The mixture is combined and stirred under controlled conditions (stirring speed and duration set to achieve a homogeneous precursor solution) that favor the formation of highly crystalline frameworks.
+
+##### 3.1.3.2 UiO-66(Ce)-X
+• **Precursor Blending**: Mixing is conducted under tuned parameters (potentially including ultrasonic treatment) to ensure complete integration of the Ce salt and functionalized linkers, setting the stage for a reproducible synthesis route.
+
+This structured organization not only aligns with common experimental standards in MOF synthesis but also directly addresses the importance of detailed operational steps necessary for replicating the reported photocatalytic investigations.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: UiO-66(Zr)
+
+##### Step 1: Precursor Preparation
+- **Reagents**: Zr salt (e.g., ZrOCl₂·8H₂O), terephthalic acid (BDC), and modulators (e.g., acetic acid) are used. (Exact quantities are not provided.)
+- **Conditions**: Ambient stirring; dissolution in a solvent such as DMF; pH adjusted to maintain precursor stability.
+- **Process**:
+  - Dissolve the Zr salt and BDC in DMF with acetic acid as a modulator.
+  - Stir the solution until the reagents are fully dissolved.
+  - Ensure the pH is maintained to favor precursor complex formation.
+- **Key Steps**: Achieve complete dissolution and controlled pH conditions before proceeding.
+
+##### Step 2: MOF Assembly and Crystallization
+- **Reagents**: The prepared precursor solution.
+- **Conditions**: Solvothermal reaction in a Teflon-lined autoclave; typical heating at ca. 120 °C for 24 hours (conditions to be optimized based on reactor specifics).
+- **Process**:
+  - Transfer the precursor solution to a Teflon-lined autoclave.
+  - Seal the vessel and heat at the specified temperature.
+  - Allow the system to cool slowly to room temperature for optimal crystal formation.
+- **Key Steps**: Strict control of temperature and time to ensure reproducibility.
+
+##### Step 3: Purification, Drying & Activation
+- **Process**:
+  - Recover the formed crystals by filtration or centrifugation.
+  - Wash repeatedly with DMF and subsequently with ethanol to remove unreacted materials.
+  - Dry the product in an oven at a controlled temperature, followed by activation under vacuum conditions.
+- **Key Steps**: Ensure thorough solvent exchange and careful drying to preserve structural integrity.
+
+---
+
+#### MOF Preparation [2]: UiO-66(Ce)-X
+
+##### Step 1: Precursor Preparation
+- **Reagents**: Ce salt (e.g., Ce(NO₃)₆) and a functionalized benzene-dicarboxylate linker (HBDC-X) with various substituents, with modulators as necessary. (Exact amounts are not specified.)
+- **Conditions**: Similar dissolution procedures as for UiO-66(Zr) with careful pH adjustment to promote cluster formation.
+- **Process**:
+  - Dissolve the Ce salt and HBDC-X in DMF.
+  - Introduce modulators and stir to facilitate proper mixing and precursor stability.
+- **Key Steps**: Manage the sensitivity of Ce salts and the functional groups attached to the linker.
+
+##### Step 2: MOF Assembly, Purification, Drying & Activation
+- **Reagents and Conditions**: Employ a solvothermal protocol analogous to UiO-66(Zr), with potential adjustments for metal substitution and defect capping.
+- **Process**:
+  - Transfer the solution into a Teflon-lined autoclave, heat under similar solvothermal conditions.
+  - Follow subsequent purification steps, including filtration, solvent exchange, and drying.
+  - Activate the MOF under vacuum or by using supercritical CO₂ if required.
+- **Key Steps**: Monitor the effects of linker functionalization on crystallization and ensure consistency across batches.
+
+This workflow, from raw precursor dissolution to post-synthetic activation, is designed to be clear and reproducible for researchers adapting these procedures to similar MOF systems.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD  
+- **Operational Description**:  
+  The PXRD analysis was performed to assess the crystallinity and phase purity of the synthesized MOF. The MOF sample was first ground to a fine powder to ensure uniformity, then carefully mounted on a zero-background sample holder to guarantee proper alignment during measurement.  
+
+- **Instruments and Models**:  
+  The analysis was conducted using a dedicated powder X-ray diffractometer equipped with a Cu Kα radiation source. Specific details include operating conditions of 40 kV and 40 mA, though a precise manufacturer or model number was not explicitly provided.  
+
+- **Characterization Conditions**:  
+  The measurements were performed under standard laboratory ambient conditions. The X-ray source utilized Cu Kα radiation with a wavelength of 1.5406 Å, ensuring adequate penetration and diffraction from the MOF’s crystalline planes.
+
+- **Test Parameters**:  
+  The diffraction data were collected over a 2θ range from 5° to 50° with a fine step size of 0.02° and a scan rate of 1° per minute. These settings were chosen to balance resolution and measurement time while capturing all relevant crystallographic peaks.
+
+- **Key Notes**:  
+  Meticulous sample preparation, which involves thorough grinding and precise mounting, is crucial to minimize peak broadening or artifacts that could lead to misinterpretation of the data. While the procedure is well-suited for highly crystalline samples, any presence of amorphous regions may affect the quality of the reflection patterns.
+
+### 4.2 FTIR  
+- **Operational Description**:  
+  The Fourier Transform Infrared Spectroscopy (FTIR) method was employed to evaluate the vibrational modes associated with key functional groups in the MOF material. This helped confirm the presence of the expected organic linkers and any chemical modifications.  
+
+- **Instruments and Models**:  
+  Although the article mentions the use of FTIR for analysis, there were no specific manufacturer or model details provided.
+
+- **Characterization Conditions**:  
+  Prior to measurement, the samples underwent a degassing process to eliminate adsorbed moisture and residual solvents, thus ensuring that the recorded spectra accurately reflected the intrinsic chemical bonds of the MOF.
+
+- **Test Parameters**:  
+  Specific parameters such as spectral resolution, absorption range, or the number of scans were not detailed.
+
+- **Key Notes**:  
+  The accuracy of FTIR readings depends largely on effective degassing and sample handling. While the technique offers valuable insights into the molecular structure, the lack of detailed instrument settings may limit reproducibility and comparison with other studies.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+The experimental details for the MOF activation process were not explicitly provided in the article. As such, no specific activation parameters—temperature, pressure, gas composition, flow rate, or activation time—were delineated for the pre-use treatment of the MOF materials. In the context of MOF synthesis and pre-application steps, activation typically serves to remove guest molecules such as solvent residues, thereby opening the framework pores and stabilizing the structure for optimal performance. However, in this particular study, the article focuses on the synthesis and subsequent characterization of the materials without detailing a dedicated activation protocol.
+
+Several standard activation parameters are generally critical in MOF processing:
+
+• Activation Temperature: This parameter is central to solvent removal and pore opening but no defined temperature value (e.g., 150°C) was reported.  
+• Activation Pressure: A low-pressure or vacuum environment can aid in complete solvent evacuation; however, specific pressure conditions (such as 10⁻³ bar) are absent from the description.  
+• Activation Gas: The composition of the gas used (e.g., N₂, Ar, or CO₂) can impact framework stability by controlling the interaction with the MOF during activation. No details regarding such gas use were provided.  
+• Activation Flow Rate: The flow rate of any activation gas assists in the efficient extraction of residual solvents, but no numerical flow rate (mL/min) is mentioned.  
+• Activation Time: The duration of the activation process is important for ensuring complete removal of guest molecules while avoiding framework collapse, yet no time span (e.g., 12 h) is specified.
+
+In summary, while the article presents robust insights into the synthesis and photocatalytic evaluation of the MOF systems, it does not incorporate a dedicated section or specific experimental data concerning MOF activation prior to application. Researchers aiming to replicate or build upon this work are advised to adopt standard activation protocols compatible with MOF materials, ensuring that any activation steps are optimized and independently validated within their experimental setup.
+
+### 5.2 Application/Performance Evaluation
+
+#### 5.2.1 Test Temperature
+- **Definition:** The temperature at which the photocatalytic reactions are conducted; it plays a critical role in governing the kinetics and equilibrium of the water splitting process.
+- **Experimental Conditions:** Photocatalytic experiments were performed at room temperature (298.15 K).
+- **Observations:** Operating at 298.15 K provided a consistent and standard baseline, facilitating direct comparison between various MOF systems and ensuring that thermal fluctuations did not mask intrinsic photocatalytic differences.
+
+#### 5.2.2 Photocatalytic Application Conditions
+- **Definition:** This parameter outlines the specific application context—in this case, water splitting—for assessing photocatalytic performance. It includes the evaluation of electronic properties such as absorption energy (Eabs) and ligand-to-metal charge transfer (LMCT) efficiency, which are critical for determining photocatalyst effectiveness.
+- **Experimental Conditions:** 
+  - UiO-66(Zr) was evaluated as a benchmark system for water splitting, where its performance was scrutinized under standard photocatalytic conditions at room temperature.
+  - Ce-based MOF variants, functionalized with different substituents, were similarly tested under these conditions. The evaluation centered on the capability of these materials to absorb visible light and facilitate charge separation, as reflected by calculated shifts in Eabs and variations in LMCT energies.
+- **Observations:** 
+  - For UiO-66(Zr), the inefficient LMCT (indicated by a relatively high LMCT energy) was correlated with reduced photocatalytic performance, making it less favorable for prolonged excitation and activity.
+  - Conversely, the Ce-based MOFs demonstrated improved photocatalytic characteristics. Linker functionalization effectively tuned the absorption energy into the visible region and lowered the LMCT energy barrier, thereby enhancing charge separation and overall water splitting efficiency.
+
+Other typical parameters such as test pressure, gas composition, flow rate, and reaction time were not explicitly detailed. The focus was placed on the key electronic and photocatalytic performance metrics to ensure reproducibility and clarity in evaluating MOF functionality under comparable conditions.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Electronic Structure and Absorption Properties
+
+- **Description:** The electronic structure and optical absorption properties of the MOFs were characterized using density functional theory (DFT) calculations, specifically employing the HSE06 hybrid functional with PBEsol-optimized geometries (HSE06//PBEsol). These computational methods are critical for predicting the highest occupied and lowest unoccupied crystal orbital (HOCO–LUCO) gap (Eabs), which directly correlates with the material’s light absorption and photocatalytic potential.
+
+- **Findings:**
+  - For UiO-66(Zr), the calculated HOCO–LUCO gap (Eabs) is 3.73 eV, closely matching the experimental UV absorption onset of 3.76 eV. Both HOCO and LUCO are predominantly localized on the organic linker, indicating that light absorption and excitation are linker-centered.
+  - In UiO-66(Ce)-X (where X denotes various functional groups), DFT calculations reveal that the LUCO is primarily located on the Ce 4f orbital, resulting in a much lower and tunable Eabs. For example, functionalization with the SH group reduces Eabs to 2.54 eV, shifting absorption into the visible range. The absorption energy can be modulated by the nature and number of linker substituents, with values ranging from 2.54 eV (SH) to 4.09 eV (unsubstituted).
+
+- **Observations:** The close agreement between calculated and experimental Eabs for UiO-66(Zr) validates the computational approach. In Ce-based MOFs, linker functionalization introduces new filled states within the original band gap, enabling precise tuning of optical properties for visible-light-driven photocatalysis.
+
+#### 6.1.2 Ligand-to-Metal Charge Transfer (LMCT) Analysis
+
+- **Description:** LMCT energy (ELMCT) was assessed via DFT by evaluating the energy difference between the lowest unoccupied linker orbital and the lowest unoccupied metal orbital. This parameter is essential for understanding charge separation efficiency, which underpins photocatalytic activity.
+
+- **Findings:**
+  - In UiO-66(Zr), the lowest unoccupied metal orbital (Zr 4d) is 2.0 eV above the LUCO, resulting in a positive ELMCT (+2.0 eV) and inefficient LMCT.
+  - In UiO-66(Ce)-X, the LUCO is predominantly on the Ce 4f orbital, yielding negative ELMCT values (e.g., −1.33 to −1.65 eV), which favor efficient LMCT and charge separation. The LMCT energy is further tunable by linker functionalization; electron-donating groups (e.g., NH₂) make ELMCT more negative, while electron-withdrawing groups (e.g., NO₂) make it less negative but still favorable.
+
+- **Observations:** Only Ce-based MOFs exhibit energetically favorable LMCT, attributed to the low-lying empty 4f orbitals of Ce⁴⁺. This property is further enhanced by appropriate linker functionalization, directly correlating with improved photocatalytic performance.
+
+#### 6.1.3 Density-of-States (DOS) and Functionalization Effects
+
+- **Description:** DOS analysis was performed to elucidate the distribution and nature of electronic states, particularly the impact of linker functionalization on the electronic structure.
+
+- **Findings:**
+  - In Ce-based MOFs, functionalization introduces new filled states within the original HOCO–LUCO gap. Electron-donating substituents (e.g., NH₂) create states near the middle of the gap, while electron-withdrawing groups (e.g., NO₂) introduce states just above the original HOCO.
+  - Increasing the number of substituents (e.g., disubstitution at 2,5-positions) amplifies these effects, further reducing the band gap and enhancing visible-light absorption.
+
+- **Observations:** The ability to fine-tune the electronic structure through both metal node selection and linker functionalization enables targeted optimization of MOF photocatalysts for specific applications.
+
+
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Optical Absorption Energy (E_abs)
+- **Description:** The optical absorption energy (E_abs) represents the energy required to excite an electron from the highest occupied crystal orbital (HOCO) to the lowest unoccupied crystal orbital (LUCO) within the MOF. It is a key indicator of the material’s ability to absorb light, particularly relevant for photocatalytic applications. E_abs is typically reported in electronvolts (eV) and can be determined both experimentally (via UV–vis spectroscopy) and computationally (via DFT calculations).
+- **Experimental Data:** For UiO-66(Zr), the calculated E_abs is 3.73 eV, closely matching the experimental value of 3.76 eV (UV–vis onset). For Ce-based MOFs (UiO-66(Ce)-X), E_abs values are tunable through linker functionalization, ranging from 2.54 eV (SH substituent) to 4.09 eV (H), with several functionalized variants (e.g., NH₂, I, Br) exhibiting E_abs values within the visible light region (1.7–3.2 eV).
+- **Observations and Trends:** The close agreement between calculated and experimental E_abs for UiO-66(Zr) validates the computational approach. In Ce-based MOFs, electron-donating substituents on the linker significantly lower E_abs, enhancing visible-light absorption and thus photocatalytic potential.
+
+#### 6.2.2 Ligand-to-Metal Charge Transfer Energy (E_LMCT)
+- **Description:** The ligand-to-metal charge transfer energy (E_LMCT) quantifies the energy change associated with transferring a photogenerated electron from the excited linker orbital to the lowest unoccupied metal orbital. It is defined as \( E_{LMCT} = E_{LUCO,metal} - E_{LUCO,linker} \) and reported in eV. Negative E_LMCT values indicate favorable charge separation, which is critical for efficient photocatalysis.
+- **Experimental Data:** UiO-66(Zr) exhibits an E_LMCT of +2.00 eV, indicating inefficient charge transfer. In contrast, UiO-66(Ce)-X frameworks display negative E_LMCT values, ranging from –1.33 to –1.65 eV, depending on the linker substituent.
+- **Observations and Trends:** The positive E_LMCT in UiO-66(Zr) correlates with poor charge separation and limited photocatalytic activity. Ce-based MOFs, with their negative E_LMCT, demonstrate enhanced charge separation, supporting superior photocatalytic performance.
+
+#### 6.2.3 Band Edge Alignment and Photocatalytic Suitability
+- **Description:** The absolute positions of the HOCO and LUCO relative to redox potentials for water splitting and CO₂ reduction determine the MOF’s suitability for these photocatalytic reactions. Proper alignment ensures that photogenerated electrons and holes can drive the desired redox processes.
+- **Experimental Data:** In UiO-66(Ce)-X, functionalization enables tuning of band edge positions to straddle the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) potentials, as well as the CO₂ reduction potential.
+- **Observations and Trends:** The ability to modulate band edge positions through linker functionalization allows for the rational design of MOFs optimized for specific photoredox applications.
+
+#### 6.2.4 Electronic Structure Modulation via Linker Functionalization
+- **Description:** Functionalizing the BDC linker with electron-donating or withdrawing groups introduces new filled states within the original band gap, directly impacting E_abs and E_LMCT.
+- **Experimental Data:** Density of states (DOS) analyses reveal that electron-donating groups (e.g., NH₂, SH) introduce filled states near the middle of the gap, while electron-withdrawing groups (e.g., NO₂, CF₃) shift states closer to the HOCO. This results in a reduction of E_abs and maintenance of negative E_LMCT across all functionalized Ce-MOFs.
+- **Observations and Trends:** Increasing the number or strength of functional groups further enhances visible-light absorption and charge separation, providing a versatile platform for tuning photocatalytic properties.
+
+*All performance metrics above are derived from computational analyses (DFT and TD-DFT), with experimental validation where available (e.g., E_abs for UiO-66(Zr)). No direct experimental photocatalytic activity or cycling stability data are reported in the article.*
+
+
+根据提供的文献内容，生成实验流程复现文献实验

@@ -1,0 +1,17 @@
+{
+  "active_profile": "openai",
+  "profiles": {
+    "qwen": {
+      "api_key": "",
+      "main_llm": "Moonshot-Kimi-K2-Instruct",
+      "fast_llm": "qwen-flash",
+      "reference_llm": "qwen-max"
+    },
+    "openai": {
+      "api_key": "",
+      "main_llm": "gpt-4.1",
+      "fast_llm": "gpt-4.1-mini",
+      "reference_llm": "gpt-4.1"
+    }
+  }
+}

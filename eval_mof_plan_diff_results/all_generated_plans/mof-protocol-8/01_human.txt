@@ -1,0 +1,392 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# Metal-halide porous framework superlattices
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Zirconium oxychloride octahydrate**: ZrOCl₂·8H₂O, [purity not specified], [commercially available], Provides Zr nodes for framework construction in NU-1000 and related MOFs.
+- **Zirconium tetrachloride**: ZrCl₄, [purity not specified], [commercially available], Serves as a Zr source for MOF formation in PCN-700, PCN-609, and PCN-606.
+
+#### 1.1.2 Organic Linkers
+- **H₄TBAPy**: (4,4′,4″-tricarboxylic acid derivative), [purity not specified], [commercially available], Links Zr nodes in NU-1000 to form a robust porous structure.
+- **H₄TCPB-Br₂**: (dibromo-substituted tetracarboxylic acid), [purity not specified], [commercially available], Employed in NU-600 for framework assembly.
+- **H₂Me₂-BPDC**: (dimethyl biphenyl dicarboxylate), [purity not specified], [commercially available], Utilized in PCN-700 to generate nanochannels.
+- **H₄CBTB**: [composition details not specified], [purity not specified], [commercially available], Used in PCN-609 for constructing three-dimensional frameworks.
+- **H₄TPCB**: [composition details not specified], [purity not specified], [commercially available], Integral to the flexible framework formation in PCN-606.
+
+#### 1.1.3 Modulators
+- **Benzoic acid**: C₇H₆O₂, [purity not specified], [commercially available], Modulates crystal growth and enhances framework crystallinity in NU-1000 and PCN-609.
+- **Acetic acid**: CH₃COOH, [purity not specified], [commercially available], Employed as a modulator in NU-600 (e.g., 0.8 mL usage) to control crystal size.
+- **Trifluoroacetic acid**: CF₃COOH, [purity not specified], [commercially available], Acts as a modulator in PCN-700 to promote uniform growth.
+
+#### 1.1.4 Solvents
+- **N,N-Dimethylformamide (DMF)**: C₃H₇NO, [purity not specified], [commercially available], Solvent for MOF crystallization and post-synthetic washing.
+- **N,N-Diethylformamide (DEF)**: [composition analogous to DMF], [purity not specified], [commercially available], Facilitates the solvothermal synthesis, particularly in NU-1000.
+- **Ethanol & Methanol**: C₂H₅OH / CH₃OH, [purity not specified], [commercially available], Utilized in washing and solvent exchange steps.
+
+#### 1.1.5 Surface Modifiers
+- **R-α-methylbenzylamine**: [chemical formula not specified], [purity not specified], [commercially available], Employed for post-synthetic functionalization to tune optical properties.
+- **S-α-methylbenzylamine**: [chemical formula not specified], [purity not specified], [commercially available], Applied for chiral surface modification.
+- **R-α-methyl-1-naphthalenemethanamine & S-α-methyl-1-naphthalenemethanamine**: [chemical formula not specified], [purity not specified], [commercially available], Function as surface modifiers to enhance photoluminescence.
+
+#### 1.1.6 Atmosphere Gases
+- **Nitrogen**: N₂, [purity not specified], [commercially available], Operational condition: bubbled through electrolytes for 30 minutes to establish an inert atmosphere during experiments.
+
+#### 1.1.7 Other Reagents
+- **Lead(II) iodide**: PbI₂, [purity not specified], [commercially available], Used for confined growth of 0D PbI₂ superlattices.
+- **Lead(II) bromide**: PbBr₂, [purity not specified], [commercially available], Facilitates formation of PbBr₂ sublattices.
+- **Cadmium(II) iodide**: CdI₂, [purity not specified], [commercially available], Employed for CdI₂ superlattice synthesis.
+- **Nickel(II) bromide**: NiBr₂, [purity not specified], [commercially available], Applied in forming NiBr₂ confined sublattices.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- 20 mL reaction vials (Generic – employed for solvothermal MOF synthesis and confined metal-halide growth)
+- Glass reaction vials (Generic – utilized for post-synthetic modification experiments)
+
+#### Characterization Equipment
+- Powder X-ray diffractometer (Bruker D8 Advance)
+- Single-crystal X-ray diffractometer (Bruker D8 Venture; operating with Cu Kα radiation at 173 K)
+- High-resolution transmission electron microscope (Themis ETEM 60-300 equipped with a Gatan double-tilt cryo-transfer holder for low-dose cryogenic imaging)
+- Scanning electron microscope (NOVA NanoSEM 230)
+- FTIR spectrometer (Nicolet Magna 750)
+- BET surface area analyzer (Micromeritics ASAP 2020 – employed for porosity assessment at 77 K)
+- Thermogravimetric analyzer (Q5000IR – used for determining thermal stability)
+- X-ray photoelectron spectrometer (AXIS Ultra-DLD)
+- Raman spectrometer (iHR-550 Horiba with 600g/mm and 1,800g/mm gratings)
+- Optical microscope with a fluorescence module (Olympus BX53M – implemented for photoluminescence evaluations)
+- Inductively Coupled Plasma Optical Emission Spectrometer (ICP-OES; Generic – for elemental composition analysis)
+
+#### Activation Equipment
+- Vacuum oven (Generic – designed to remove residual solvents during MOF activation)
+- Tube furnace (Generic – applicable for controlled thermal treatments if needed)
+
+#### Reaction Equipment
+- Flame-sealed Pyrex tubes (10×8 mm; used to establish inert atmospheres for solvothermal reactions)
+- Stainless steel batch reactor (Generic – designated for guest molecule loading and post-synthetic modifications)
+
+#### Product Analysis Equipment
+- Optional gas chromatograph (Generic – applicable for evaluating gas adsorption and desorption performance where relevant)
+
+#### Other Specific Equipment
+- Analytical balance (Generic – for precise mass measurements)
+- Centrifuge (Generic – for phase separation in post-synthetic processing)
+- Rotary evaporator (Generic – used in solvent recovery protocols)
+- Magnetic stirrer (Generic – ensuring homogeneous mixing)
+- Mortar and pestle (Generic – applied for sample grinding prior to PXRD collection)
+- Liquid nitrogen bath cryostat (Generic – utilized for low-temperature measurements, such as photoluminescence studies)
+
+### 1.3 Common Laboratory Equipment
+
+In the context of MOF experimental work, a wide range of common laboratory equipment is utilized to support various stages, from sample preparation to synthesis and subsequent analysis. This section outlines the key apparatus employed in these studies.
+
+#### Drying Equipment
+To ensure the removal of residual solvents and to prepare dried samples prior to further synthesis or analysis, drying equipment plays a pivotal role. Although specific models are not always mentioned, standard drying devices such as vacuum ovens, freeze dryers, and vacuum-assisted dryers are typically employed. In several procedures, an oven maintained at 120 °C facilitates controlled solvent evaporation and drying of the synthesized frameworks.
+
+#### Calcination Equipment
+High-temperature treatments are occasionally necessary to achieve material stabilization or to induce phase changes within certain MOF frameworks. In these cases, calcination equipment such as muffle furnaces and tube furnaces are applicable. For instance, controlled heating within these furnaces ensures uniform temperature application during reactions, even though the experimental context may only reference an oven without specifying whether it is muffle or tube-based.
+
+#### Other Common Equipment
+General laboratory tools remain essential throughout MOF synthesis experiments. Analytical balances and pipettes are employed for precise measurement and dispensing of reagents and solvents such as DEF and DMF, ensuring correct stoichiometric ratios. Glassware—including beakers, flasks, and specifically designated 20-mL and 10-mL vials—is used for solution preparation and for dispersing activated MOF crystals. Additionally, magnetic stirrers and ultrasonic baths contribute to effective reagent mixing and improved dispersion, while centrifuges facilitate the isolation of solid superlattice products from suspensions. Flame-sealed Pyrex tube setups are also implemented to maintain an inert atmosphere during certain reactions, preventing contamination and ensuring the integrity of sensitive materials. 
+
+Collectively, these instruments ensure that careful temperature control, reagent handling, and process replication are maintained during every phase of the experimental workflow, thereby contributing to the reliable synthesis and characterization of MOF-based materials.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+The synthesis techniques for the zirconium-based MOFs described in the article are predominantly based on solvothermal methods. These methods facilitate controlled crystal growth and reproducibility, ensuring that the confined formation of metal‐halide superlattices within the MOF frameworks is both reliable and scalable. A comparative overview shows that the careful control of reagent mixing, modulator addition, and thermal conditions leads to high-quality crystalline products, though differences exist in reaction temperatures and durations across various MOFs.
+
+#### Solvothermal Method Example: NU-1000
+1. **Precursor Mixing/Dissolution**  
+   - • Reagents: ZrOCl₂·8H₂O (388 mg, 1.20 mmol) and H₄TBAPy are dissolved in N,N‐diethylformamide (DEF, 32 mL).  
+   - • Equipment: Sealed vial with ultrasonic assistance ensures uniform dissolution.
+2. **Modulator or Structure-Directing Agent Addition**  
+   - • Benzoic acid (10.8 g, 88.43 mmol) is introduced to enhance crystallinity.
+3. **Crystallization**  
+   - • Conditions: The mixture is heated at 100°C–120°C for 1–2 days in a preheated oven using sealed vials.  
+   - • Observations: Formation of well-faceted crystals is noted.
+4. **Cooling and Collection**  
+   - • The reaction mixture is allowed to cool to room temperature before crystal collection.
+5. **Washing and Solvent Exchange**  
+   - • Procedure: Crystals undergo sequential washes with DMF (20 mL × 3) followed by ethanol or methanol (20 mL × 3) to remove residual reagents.
+6. **Drying**  
+   - • Conditions: Crystals are dried in air at room temperature.
+7. **Activation**  
+   - • Method: Thermal activation is carried out—often under vacuum at 150°C for 12 h—to remove guest molecules and fully activate the framework.
+8. **Additional Post-treatments**  
+   - • For example, an optional amine post-synthetic modification is conducted to tailor photoluminescence properties.
+
+#### Comparative Procedures for Other MOFs
+- **NU-600**: Mixes ZrCl₄ with H₄TCPB-Br₂ in DEF using acetic acid as the modulator, crystallized at 120°C for 24 h.
+- **PCN-700**: Involves ZrCl₄ (9 mg), H₂Me₂-BPDC (9 mg), trifluoroacetic acid (0.08 mL), and DMF (1.5 mL) in a 20 mL vial heated at 120°C for 24 h.
+- **PCN-609/606**: Follow similar stepwise procedures with extended reaction times (48 h) and subsequent amine treatments to fine-tune electronic and photoluminescence characteristics.
+
+This structured, step-by-step protocol with detailed reagent quantities, controlled reaction conditions, and methodical post-processing ensures that researchers can accurately replicate the synthesis of these MOF superlattices.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 NU-1000
+- **ZrOCl₂·8H₂O**: Weighed 388 mg using an analytical balance.
+- **Benzoic acid**: Weighed 10.8 g.
+
+##### 3.1.1.2 NU-600
+- **ZrCl₄**: Weighed 10 mg.
+- **H₄TCPB-Br₂**: Weighed 8 mg.
+
+##### 3.1.1.3 PCN-700
+- **ZrCl₄**: Weighed 9 mg.
+- **H₂Me₂-BPDC**: Weighed 9 mg.
+
+##### 3.1.1.4 PCN-609
+- **ZrCl₄**: Weighed 20 mg.
+- **H₄CBTB**: Weighed 10 mg.
+
+##### 3.1.1.5 PCN-606
+- **ZrCl₄**: Weighed 20 mg.
+- **H₄TPCB**: Weighed 10 mg.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 NU-1000
+- **N,N-diethylformamide (DEF)**: Poured 32 mL into a 100 mL medium bottle containing the solid reagents.
+
+##### 3.1.2.2 NU-600
+- **DEF**: Transferred 2 mL into a 20 mL vial.
+- **Acetic acid**: Transferred 0.8 mL into the same vial.
+
+##### 3.1.2.3 PCN-700
+- **Trifluoroacetic acid**: Transferred 0.08 mL.
+- **N,N-dimethylformamide (DMF)**: Transferred 1.5 mL into a 20 mL vial.
+
+##### 3.1.2.4 PCN-609
+- **DMF**: Transferred 3 mL into a 20 mL vial containing the weighed reagents and benzoic acid.
+
+##### 3.1.2.5 PCN-606
+- **DMF**: Transferred 3 mL into a 20 mL vial with the solid reagents and benzoic acid.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 NU-1000
+- **ZrOCl₂·8H₂O/benzoic acid solution**: Ultrasonically dissolved to form a homogeneous solution, followed by incubation at 100 °C for 1 hour.
+
+##### 3.1.3.2 NU-600
+- **Reagent mixture**: Ultrasonically dissolved and subsequently stirred during heating at 120 °C for 24 hours to ensure complete mixing.
+
+##### 3.1.3.3 PCN-700
+- **Reagent mixture**: Sealed in a vial and heated at 120 °C for 24 hours, facilitating homogeneous mixing through controlled heating conditions.
+
+##### 3.1.3.4 PCN-609
+- **Reagent mixture**: Sealed in a vial and maintained at 120 °C for 48 hours, ensuring thorough mixing of all components.
+
+##### 3.1.3.5 PCN-606
+- **Reagent mixture**: Sealed in a vial and heated at 120 °C for 48 hours under inert conditions, providing uniform mixing and reproducibility across experiments.
+
+The protocols for each MOF material have been meticulously detailed to guarantee full reproducibility. Precise weighing using analytical balances, controlled liquid transfers with calibrated pipettes or equivalent equipment, and standardized mixing procedures—featuring ultrasonic pre-treatment and specified heating regimes—ensure that the reagent preparation process is consistent and directly comparable across NU-1000, NU-600, PCN-700, PCN-609, and PCN-606.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: NU-1000
+##### Step 1: Precursor Preparation
+- **Reagents**: 1.5 g ZrOCl₂·8H₂O, 0.8 g H₄TBAPy, 2.0 g benzoic acid, 30 mL DMF.
+- **Conditions**: Stir at room temperature for 20 minutes.
+- **Process**:
+  - Dissolve the zirconium salt and H₄TBAPy in DMF.
+  - Introduce benzoic acid as a modulator to control nucleation.
+  - Ensure complete dissolution before progressing.
+- **Key Steps**: Confirm reagent purity and accurate weighing for reproducibility.
+
+##### Step 2: MOF Assembly/Crystallization
+- **Reagents**: The homogeneous precursor solution.
+- **Conditions**: Transfer to a Teflon-lined autoclave, then heat at 120 °C for 24 h.
+- **Process**:
+  - Seal the autoclave to prevent solvent loss.
+  - Allow solvothermal conditions to drive crystal growth.
+  - Cool slowly to room temperature to maximize crystal quality.
+- **Key Steps**: Maintain constant temperature and minimize disturbances during the crystallization phase.
+
+##### Step 3: Purification, Drying & Activation
+- **Process**:
+  - Collect crystals by filtration and wash repeatedly with DMF and ethanol to remove residual unreacted species.
+  - Dry the washed crystals in an oven at 100 °C for approximately 10 hours.
+  - If needed, proceed with vacuum activation to ensure complete solvent removal.
+- **Key Steps**: Ensure thorough solvent exchange to achieve a high-quality, activated framework.
+
+#### MOF Preparation [2]: NU-600, PCN-700, PCN-609, and PCN-606
+For each subsequent MOF, a similar systematic workflow is applied:
+
+1. **Precursor Preparation**: Dissolve appropriate Zr precursors with specific organic linkers (e.g., H₄TCPB-Br₂ for NU-600, H₂Me₂-BPDC for PCN-700, H₄CBTB for PCN-609, H₄TPCB for PCN-606) and modulators (acetic or benzoic acid) in DMF or DEF.
+2. **MOF Assembly/Crystallization**: Conduct solvothermal reactions at 120 °C for 24–48 hours under controlled conditions.
+3. **Purification**: Undertake filtration, washing with DMF and acetone, and solvent exchange to ensure removal of impurities.
+4. **Drying & Activation**: Dry in a calibrated oven at 100 °C, optionally applying vacuum methods for enhanced activation.
+5. **Post-synthetic Modification (if applicable)**: For frameworks such as NU-1000 and PCN-609, perform amine treatments (e.g., with S-MBA) at room temperature for several days to tailor photoluminescence and other functional properties.
+
+**Caution**: Follow precise reagent quantities, maintain undisturbed reaction conditions, and adhere strictly to the timing and temperature protocols to ensure reproducibility and integrity of the MOF synthesis.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD  
+• Operational Description: PXRD was employed to assess the crystallinity and phase purity of the MOF samples. This method provided insight into the overall structural integrity of the synthesized frameworks.  
+• Instruments and Models: Specific instruments, manufacturers, and model numbers were not provided.  
+• Characterization Conditions: Detailed operational parameters (e.g., radiation source, voltage, current, scan range, and step size) were not described.  
+• Test Parameters and Key Notes: Standard powder sample preparation procedures are assumed; however, explicit pre-treatment or mounting details were not mentioned.
+
+### 4.2 SC-XRD  
+• Operational Description: Single-crystal X-ray diffraction was utilized to resolve precise atomic coordinates and to confirm the single crystallinity and ordered superlattice structures of the MOFs.  
+• Instruments and Models: No manufacturer or model information is provided.  
+• Characterization Conditions and Key Notes: The article does not specify operating conditions, limiting further replication details.
+
+### 4.3 FTIR  
+• Operational Description: FTIR analysis was conducted to investigate the chemical bonding and confirm functional group integrity within the MOF frameworks.  
+• Instruments and Models: Instrument specifications and model details were omitted.  
+• Characterization Conditions and Test Parameters: Specific spectral windows, resolution, and sample preparation protocols were not outlined.
+
+### 4.4 TGA/DSC  
+• Operational Description: Thermogravimetric analysis was performed to determine thermal stability, with observations noting solvent elimination between 80 and 120 °C and maintenance of structural integrity up to 450 °C.  
+• Test Parameters and Key Notes: Heating or ramping rates as well as gas flow conditions were not provided.
+
+### 4.5 HR-TEM (SEM/TEM/EDS)  
+• Operational Description: High-resolution transmission electron microscopy was used to reveal nanoscale features and the atomic ordering within the MOF-based superlattices.  
+• Instruments and Models: An aberration‐corrected Themis ETEM 60-300 electron microscope operated at 300 kV, coupled with a Gatan K3 direct-detection camera in electron counting mode, was utilized.  
+• Characterization Conditions and Test Parameters: Specimen searching and alignment were conducted at ×13,000 magnification under a dose rate of 0.01 eÅ⁻²s⁻¹, and HR-TEM images were recorded at ×55,000 magnification with a dose rate of 1 eÅ⁻²s⁻¹ using a Gatan double-tilt cryo-transfer holder to minimize beam damage.
+
+### 4.6 BET Surface Area Analysis  
+• Operational Description: N₂ adsorption–desorption isotherms at 77 K were measured to assess surface area and porosity.  
+• Key Notes: While sample degassing is acknowledged, specific pre-treatment parameters and degassing conditions were not detailed.
+
+### 4.7 XPS  
+• Operational Description: X-ray photoelectron spectroscopy was employed to analyze the elemental composition and chemical states on the MOF surfaces.  
+• Key Notes: Detailed instrument settings, sample pre-treatment, and operating conditions were not provided.
+
+### 4.8 Raman Spectroscopy  
+• Operational Description: Raman spectroscopy complemented the vibrational analysis of the MOF materials, using an excitation wavelength of 633 nm.  
+• Key Notes: Additional parameters such as integration time and calibration protocols remain unspecified.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+The activation process for the zirconium‐based MOFs is an essential pre‐use treatment designed to remove residual solvents and guest molecules, thereby ensuring maximal pore accessibility for subsequent metal‐halide sublattice formation.
+
+#### 5.1.1 Activation Equipment and Procedure
+- **Definition:** Activation in this context entails preparing the MOF framework through a rigorous thermal treatment that removes entrapped solvents. This step is critical for achieving the necessary cleanliness and pore structure prior to its use as a template for metal‐halide incorporation.
+- **Experimental Conditions:** The activation was executed by flame‑sealing a Pyrex tube containing the MOF reactants. The sealed tube was then placed in an oven maintained at 120°C for one month. This prolonged treatment period was employed to ensure that the internal solvent molecules and impurities were effectively expelled from the MOF structure.
+- **Observations:** Although specific quantitative measures of solvent removal or porosity enhancement were not detailed, the use of a flame‑sealing approach followed by extended heating provided a controlled environment. This method is inferred to foster uniform activation without exposing the metal–organic framework to rapid thermal gradients that could otherwise damage the structure.
+
+#### 5.1.2 Considerations for Activation Specificity
+- **Scope of Activation:** The activation parameters outlined here are exclusively related to the MOF synthesis and pre‑use treatment. Procedures employed during post‐synthesis characterization (e.g., evacuation for BET analysis) are not considered in this section.
+- **Parameter Reporting:** No additional details regarding activation gas composition, flow rate, pressure, or alternative thermal protocols were provided. The focus on the flame‑sealing and extended oven heating method underscores the importance of maintaining both structural integrity and consistent framework cleanliness for subsequent superlattice formation.
+
+This activation approach, tailored for zirconium-based MOFs, ensures a reproducible and effective pre-use treatment, ultimately contributing to the material’s performance when employed as a host template for metal–halide porous framework superlattices.
+
+### 5.2 Application/Performance Evaluation
+
+The application and performance evaluation of the metal–halide porous framework superlattices were conducted under carefully defined experimental conditions to ensure reproducibility and meaningful comparison across different MOF architectures.
+
+#### 5.2.1 Test Temperature
+- **Definition:** The temperature at which performance evaluations (e.g., cyclic voltammetry, electrochemical impedance spectroscopy, and photoluminescence measurements) are carried out, influencing charge transport, reaction kinetics, and overall material response.
+- **Experimental Conditions:** Electrochemical experiments were performed at a controlled temperature of 25°C, providing a stable environment for measurements. Additionally, electron–hole separation studies were compared at 298 K, while photoluminescence assessments were conducted at 78 K with a power density of 10 W/cm² during excitation.
+- **Observations:** Stable temperature conditions at 25°C contributed to reliable electrochemical performance, whereas lower temperatures (78 K) during photoluminescence tests enhanced the resolution of emission metrics.
+
+#### 5.2.2 Test Pressure
+- **Definition:** The pressure during testing, which can affect adsorption capacities and catalytic behavior.
+- **Experimental Conditions:** Experiments were performed under atmospheric pressure.
+- **Observations:** No variations in pressure were reported; therefore, the influence of pressure on performance was not directly assessed.
+
+#### 5.2.3 Test Gas Composition
+- **Definition:** The specific gas or gas mixtures used during the evaluation that can impact selectivity in applications such as adsorption or catalysis.
+- **Experimental Conditions:** No explicit gas compositions (such as pure CO₂ or CO₂/N₂ mixtures) were employed in the reported evaluations.
+- **Observations:** Evaluation of gas interactions was not a focus in this study.
+
+#### 5.2.4 Test Flow Rate
+- **Definition:** The flow rate at which reactant streams pass through the MOF systems, relevant for dynamic tests like breakthrough experiments.
+- **Experimental Conditions:** No flow rate settings were reported since dynamic flow experiments were not part of the performance evaluation.
+- **Observations:** Static evaluation conditions were maintained without active gas flow.
+
+#### 5.2.5 Test Time
+- **Definition:** The duration over which tests are conducted, important for assessing stability and cycling performance.
+- **Experimental Conditions:** Test durations varied; some experiments involved soaking periods of 25–30 days while others lasted for 10 days.
+- **Observations:** Extended soaking has been linked to the stabilization of superlattice formation, although no specific cycling or time-based degradation trends were detailed.
+
+Overall, these defined parameters provide a reproducible framework for evaluating the key performance metrics such as photoluminescence quantum yield, emission characteristics, and charge separation efficiency within the studied MOF systems.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** Crystal structure and phase purity were determined using single-crystal X-ray diffraction (SC-XRD) and powder X-ray diffraction (PXRD). SC-XRD provides atomic-level resolution of framework and guest ordering, while PXRD assesses bulk phase purity and structural integrity.
+- **Findings:** SC-XRD confirmed the formation of atomically ordered, single-crystalline superlattices in all MOFs studied (NU-1000, NU-600, PCN-700, PCN-609, PCN-606), resolving the intended dimensionality (0D, 1D, 2D) of the metal-halide sublattices. PXRD patterns of both pristine MOFs and their metal-halide superlattices matched simulated or parent patterns, with no impurity peaks observed.
+- **Observations:** The absence of secondary phases or unreacted precursors in PXRD, and the distinct diffraction patterns of superlattices, confirm high phase purity and successful guest incorporation. Post-synthetic treatments (acid, base, boiling water) did not alter PXRD patterns, indicating robust framework stability.
+
+#### 6.1.2 Morphology and Particle Size
+- **Description:** Morphology and particle size were examined by scanning electron microscopy (SEM) and high-resolution transmission electron microscopy (HR-TEM), which reveal crystal habit, size distribution, and atomic ordering.
+- **Findings:** SEM and TEM images showed well-faceted, uniform crystals for all MOFs, typically around 100 μm in size. HR-TEM of NU-1000 and PCN-700 visualized periodic lattice fringes and, in PCN-700, 1D PbI₂ nanorods aligned within nanochannels.
+- **Observations:** The observed uniformity and faceting reflect controlled crystallization and precise templating. In PCN-606, cryogenic HR-TEM confirmed fully filled 2D PbI₂ layers and diverse lead coordination sites, matching SC-XRD models.
+
+#### 6.1.3 Surface Area and Porosity
+- **Description:** Surface area and porosity were assessed by N₂ adsorption (BET analysis), providing insight into framework accessibility and guest accommodation.
+- **Findings:** BET surface areas remained high after guest incorporation and chemical challenge: 518 cm²/g for PbI₂@NU-1000, and 496 cm²/g for PbI₂@PCN-700, PCN-609, and PCN-606. Pore size distributions indicated minimal reduction post-modification.
+- **Observations:** The retention of high surface area and porosity supports the frameworks’ ability to host and align metal-halide superlattices.
+
+#### 6.1.4 Thermal Stability
+- **Description:** Thermogravimetric analysis (TGA) was used to evaluate framework and superlattice stability under heat.
+- **Findings:** For PCN-606 and its PbI₂ superlattice, solvent loss occurred between 80–120 °C, with no significant weight loss until 450 °C.
+- **Observations:** The frameworks and incorporated superlattices exhibit high thermal stability, maintaining integrity well above typical application temperatures.
+
+#### 6.1.5 Chemical Composition and Elemental Analysis
+- **Description:** Elemental composition and oxidation states were determined by inductively coupled plasma optical emission spectrometry (ICP-OES), Fourier-transform infrared spectroscopy (FTIR), and X-ray photoelectron spectroscopy (XPS).
+- **Findings:** ICP-OES confirmed expected Zr:I:Pb ratios (e.g., 1:1.91:1.5 for PbI₂@PCN-609; 1:0.62:0.74 for PbI₂@NU-1000), indicating successful guest loading. FTIR spectra showed no significant changes after harsh treatments, while XPS revealed a ~0.5 eV increase in Pb²⁺ binding energy and a ~0.5 eV decrease in Zr⁴⁺ upon PbI₂ incorporation, suggesting partial electron transfer. Amine modification introduced new FTIR peaks (700 cm⁻¹, 1,630 cm⁻¹) and XPS shifts in Pb4f and N1s bands, indicating electron sharing.
+- **Observations:** The frameworks demonstrate chemical robustness and stable guest incorporation, with post-synthetic modifications directly reflected in spectroscopic signatures.
+
+#### 6.1.6 Nanochannel Structure and Guest Alignment
+- **Description:** The dimensions and orientation of nanochannels, and the alignment of metal-halide guests, were elucidated by SC-XRD and HR-TEM.
+- **Findings:** PCN-700 exhibited tetragonal-like nanochannels hosting 1D PbI₂ chains, while PCN-609 featured low-symmetry channels for 2D PbI₂ sheets. In PCN-606, six distinct Pb coordination sites were resolved.
+- **Observations:** The precise channel geometries enable controlled dimensionality and ordering of superlattices, underpinning the materials’ tunable optoelectronic properties.
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Photoluminescence Properties
+- **Description:** Photoluminescence (PL) properties, including emission spectra, quantum yield (PLQY), and lifetime, are critical indicators of the optoelectronic performance of MOF-based superlattices. PLQY is defined as the ratio of emitted to absorbed photons, while PL lifetime reflects the average time an exciton remains in the excited state before recombination.
+- **Experimental Data:** Amine-modified PbI₂@MOF superlattices exhibited room-temperature PLQY values ranging from 1–15%. PL lifetimes were consistently in the sub-nanosecond regime (e.g., <1 ns), characteristic of exciton emission. The emission peak position and intensity were tunable via amine modification and superlattice dimensionality, with 2D S-MBA/PbI₂@PCN-606 displaying a bandgap of ~1.75 eV, notably smaller than typical layered perovskites (~2.5 eV).
+- **Observations and Trends:** Enhanced and tunable PL was observed after post-synthetic amine modification, with emission intensity increasing with treatment time and amine size. The PL emission was attributed to excitonic processes, as confirmed by lifetime and temperature-dependent studies. Dimensionality-dependent PL emission was evident, with quantum confinement effects observed as the sublattice dimensionality decreased.
+
+#### 6.2.2 Circularly Polarized Luminescence (CPL) and Chiroptical Activity
+- **Description:** CPL quantifies the degree of circular polarization in emitted light, defined by the polarization degree \( P = \frac{I_L - I_R}{I_L + I_R} \), where \( I_L \) and \( I_R \) are the intensities of left- and right-circularly polarized emission, respectively.
+- **Experimental Data:** Chiral amine-modified PCN-606 (R/S-MBA/PbI₂@PCN-606) exhibited strong CPL, with \( P \) values up to ~29% at 77 K and above 13% at 298 K. Circular dichroism (CD) spectra confirmed efficient chirality transfer from the amine to the superlattice.
+- **Observations and Trends:** The CPL degree decreased with increasing temperature but remained significant at room temperature. These results demonstrate the potential of these materials for chiral optoelectronic applications.
+
+#### 6.2.3 Optoelectronic Performance and Charge Separation
+- **Description:** Optoelectronic performance was assessed via transient photocurrent response and electrochemical impedance spectroscopy (EIS). Photocurrent response reflects the efficiency of photoinduced charge separation, while EIS (Nyquist plots) quantifies charge-transfer resistance.
+- **Experimental Data:** PbI₂@PCN-700 and PbI₂@PCN-606 superlattices exhibited enhanced photocurrent responses and lower charge-transfer resistance compared to their pristine MOF counterparts. For example, 2D PbI₂@PCN-606 showed the highest photocurrent and lowest resistance among the series.
+- **Observations and Trends:** The alignment and dimensionality of the PbI₂ sublattice within the MOF channels facilitated efficient charge transport and electron–hole separation, as evidenced by improved optoelectronic metrics.
+
+#### 6.2.4 Bandgap Engineering
+- **Description:** The optical bandgap, determined from UV-Vis absorption and Tauc plots, is a key parameter for optoelectronic applications.
+- **Experimental Data:** The bandgap of PCN-606 decreased from 2.75 eV (pristine) to 1.79 eV (PbI₂@PCN-606), and further to 1.52 eV after S-MBA amine modification. The absorption edge shifted systematically with sublattice dimensionality, from 1.75 eV (2D) to 2.56 eV (0D).
+- **Observations and Trends:** Bandgap narrowing correlated with increased dimensionality and guest inclusion, supporting the role of structural design in tuning electronic properties.
+
+#### 6.2.5 Stability and Durability
+- **Description:** Stability was evaluated by monitoring structural and performance retention after exposure to harsh chemical and thermal conditions.
+- **Experimental Data:** PXRD, BET, and ICP-OES analyses confirmed that framework integrity and Pb²⁺/Zr⁴⁺ ratios remained unchanged after acid, base, and boiling water treatments. Pb²⁺ leaching was minimal (<5 ppm). TGA showed stability up to 450°C.
+- **Observations and Trends:** The MOF superlattices demonstrated exceptional chemical and thermal stability, with negligible performance degradation under challenging conditions.
+
+#### 6.2.6 Recovery Lifetime and Charge Carrier Dynamics
+- **Description:** Recovery lifetime, measured via transient absorption spectroscopy, reflects the average time for photoexcited carriers to return to the ground state, indicating recombination dynamics.
+- **Experimental Data:** Average recovery lifetimes for PbI₂@MOF superlattices were: NU-1000 (132±12 ps), PCN-700 (368±14 ps), PCN-609 (1,317±244 ps), and PCN-606 (1,619±509 ps).
+- **Observations and Trends:** Longer recovery lifetimes in higher-dimensional superlattices indicate more efficient charge separation and reduced recombination, supporting their suitability for optoelectronic applications.
+
+
+根据提供的文献内容，生成实验流程复现文献实验
+

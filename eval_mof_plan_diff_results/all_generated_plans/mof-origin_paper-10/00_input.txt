@@ -1,0 +1,920 @@
+![](_page_0_Picture_0.jpeg)
+
+### **Pore-Space-Partition-Oriented Sandwich Platinum Array Confined in a Metal**−**Organic Framework for Boosting Overall Water Splitting**
+
+[Jia-Min](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Jia-Min+Huo"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Huo, Ying [Wang,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Ying+Wang"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf)[\\*](#page-7-0) [Ze-Lin](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Ze-Lin+Ma"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Ma, Jie [Meng,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Jie+Meng"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Tian-Shu](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Tian-Shu+He"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) He, [Bo-Lin](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Bo-Lin+Sun"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Sun, [Shu-Ni](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Shu-Ni+Li"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Li,[\\*](#page-7-0) and [Quan-Guo](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Quan-Guo+Zhai"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Zhai[\\*](#page-7-0)
+
+**Cite This:** *J. Am. Chem. Soc.* 2025, 147, [21855−21864](https://pubs.acs.org/action/showCitFormats?doi=10.1021/jacs.5c04935&ref=pdf) **Read [Online](https://pubs.acs.org/doi/10.1021/jacs.5c04935?ref=pdf)**
+
+![](_page_0_Picture_6.jpeg)
+
+ACCESS [Metrics](https://pubs.acs.org/doi/10.1021/jacs.5c04935?goto=articleMetrics&ref=pdf) & More Article [Recommendations](https://pubs.acs.org/doi/10.1021/jacs.5c04935?goto=recommendations&?ref=pdf) \***sı** Supporting [Information](https://pubs.acs.org/doi/10.1021/jacs.5c04935?goto=supporting-info&ref=pdf)
+
+ABSTRACT: The atomic-level dispersion of noble metals in porous materials is prospective for highly efficient catalyst systems but is still inscrutable. Inspired by sandwich compounds, platinum (Pt) atoms were rationally confined within a metal−organic framework (MOF) through pore space partition by conjugate interactions between Pt and parallel-distributed aromatic pore partitioners, forming 1D infinite Pt arrays. By regulating the distance between adjacent aromatic rings from 7 to 4.5 to 3 Å (∼ the diameter of the Pt atom), the particle size in sandwich Pt arrays decreased in a linear fashion with the Pt electronic orbital simultaneously regulated by a pore partitioner, MOF nodes, and near noble atoms, as revealed by AC highangle annular dark-field scanning transmission electron microscopy, X-ray absorption spectroscopy, and theoretical simulations. The optimized MOF
+
+![](_page_0_Figure_9.jpeg)
+
+pore endows the Pt@MOF-BCP material with highly efficient utilization of Pt sites, best electron transmission efficiency, and excellent catalytic stability. At 10 mA·cm<sup>−</sup><sup>2</sup> , an optimal Pt@MOF-BCP catalyst only needs ultralow overpotentials of 2.5 mV for hydrogen evolution reaction in the acidic electrolyte and 265 mV for oxygen evolution reaction in the alkaline electrolyte, exhibiting exceptional difunctional electrocatalytic performance superior to most benchmark catalysts. Remarkably, the cell voltage of Pt@ MOF-BCP was dramatically reduced to 1.47 V at 10 mA·cm<sup>−</sup><sup>2</sup> in practical application.
+
+# ■ **INTRODUCTION**
+
+Water splitting is considered as an environment-friendly energy conversion for mitigating the global energy and environmental crisis.[1](#page-8-0) Hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) are the cores of electrocatalytic water splitting[.2](#page-8-0) However, the sluggish kinetics of two reactions limit energy conversion efficiency.[3](#page-8-0) To realize the high catalytic efficiency during water electrolysis, efficiency catalysts that can minimize overpotential are desiderate[.4](#page-8-0) To date, noble metals are still considered to be the most efficient commercial electrocatalyst for water splitting[.5](#page-8-0) However, high cost, low durability, and scarcities of noble metal catalysts plagued their large-scale application in water splitting.[6](#page-8-0)
+
+Construction of noble metal-based catalysts with precise atomic-level control over size, structure, and composition is the most effective strategy to balance cost and catalytic efficiency.[7](#page-8-0) At the same time, the interactions of noble metals and support materials can promote effective dissociation of reactants and optimize the adsorption/desorption of key intermediates.[8](#page-8-0) Several strategies have been developed to anchor noble metals including defect engineering, interface inducing, and pore encapsulating. Nevertheless, the adjustable size, loading amount, stability, and defined atomic structure still remain formidable challenges.[9](#page-8-0)
+
+Organic linker-protected noble metals with customized metal size, transparent structure, and explicit interaction force are typical for molecular catalysts.[10](#page-8-0) Especially, sandwich organometal compounds with a metal atom lying between two aromatic organic rings can display exceptional electrochemical stability and catalytic performance.[11](#page-8-0) Parallel aromatic rings with a *π* hole feature are utilized as electronic acceptors for crystal engineering[,12](#page-8-0) and the center metal atoms serve as donor typically,[13](#page-8-0) forming the metals-*π*-conjugated system. Benefiting from the dominant interactions with high bond energy, center noble metals are always stabilized extremely[.14](#page-8-0) Moreover, the d-electronic orbitals of the metal overlap with the *π* electronic orbit of organic rings in sandwich structures and may effectively regulate the electronic structure of catalysts and enhance the electron transport rate.[15](#page-8-0)
+
+A metal−organic framework (MOF) possessing vast types of aromatic linkers and porous structures is regarded as the ideal model support to encapsulate noble metals at the atomic
+
+Received: March 22, 2025 Revised: May 30, 2025 Accepted: June 3, 2025 Published: June 13, 2025
+
+![](_page_0_Picture_17.jpeg)
+
+![](_page_0_Picture_18.jpeg)
+
+level.[16](#page-8-0) Notably, the dimension of encapsulated noble metals is mainly regulated by the MOF pore; however, the feeble confined operation usually results in a low loading amount, torpid electron transport efficiency, and poor catalytic efficiency. The atomic-level dispersion of noble metals in MOF pores has been a huge challenge up to now.
+
+Pore space partition (PSP), an efficient strategy, has been proposed to maximize the utilization efficiency of MOF channels/pores. PSP in *acs*-type metal−organic frameworks (*pacs*-MOFs) through the induction of triangular aromatic organic partitioners into one-dimensional (1D) hexagonal channels formed by ditopic linkers effectively promoted their gas adsorption and separation ability.[17](#page-8-0) The original continuous 1D hexagonal channels are precisely partitioned into small finite segments by tuning the pore-partitioning agents and ditopic linkers.[18](#page-8-0) Building upon previous advances, the vertical pore dimension of each finite segment can be finely modulated by adjusting the length of the ditopic linkers.[19](#page-8-0) Herein, the *pacs*-MOF platform is demonstrated as an ideal platform to precisely load Pt metals. The aromatic partitioners with a *π* hole lying in a 1D hexagonal MOF channel are parallel to each other with a regulatable separation distance, which rationally anchor Pt atoms and isolate them in the confined pores. The sizes of trapped Pt clusters are engineered by regulating ditopic linkers, and aromatic pore partitioners act as a *π* electron donor with Pt metals to generate unique 1D infinite Pt arrays with a clear structure and composition. Benefiting from the tandem *π*···Pt···*π* electronic conjugate system, Pt@MOF catalysts exhibited enhanced catalytic activity and stability. Specially, Pt atoms confined in a MOF-BCP skeleton with a comparable pore size of 3 Å (∼the diameter of the Pt atom) can interact with not only aromatic partitioned linkers but also MOF metal nodes, which strongly promoted the atomic utilization and electron transmission efficiency of Pt. The optimal Pt@MOF-BCP catalyst at 10 mA· cm<sup>−</sup><sup>2</sup> only needs overpotentials of 2.5 mV for HER in the acidic electrolyte and 265 mV for the OER in alkaline electrolyte together with a cell voltage as low as 1.47 V for practical overall water splitting.
+
+# ■ **RESULTS AND DISCUSSION**
+
+A series of FeNi-MIL-88 bimetallic MOF precursors[20](#page-8-0) with outstanding synergistic catalytic effects were first designed to implement the precise Pt encapsulation (Figure 1). The continuous 1D hexagonal channels were then partitioned into small finite segments precisely along the *c* axis via a 2,4,6-tri(4 pyridinyl)-1-pyridine (TPP) pore partitioner. Sandwich *π*electron spaces between two parallel TPP linkers were then formed to stabilize Pt atoms. To further control the size of trapped Pt atoms, different ditopic linkers of varying lengths, including bicyclo[1.1.1]pentane, 1,4-terephthalic acid, and naphthalene-2,6-dicarboxylic acid (denoted as BCP, BDC, and 2,6-NDC) are adopted. The corresponding MOF precursors, designated as MOF-BCP, MOF-BDC, and MOF-NDC, with the similar structural configuration as Cambridge Crystallographic Data Centre (CCDC) deposition numbers of 2159092,[21](#page-8-0) 2043323,[22](#page-8-0) and 2043329,[22](#page-8-0) respectively, exhibit the sandwich *π*-electron space heights of about 3.0 Å, 4.5 Å, and 7 Å (the heights correspond to the distances between two adjacent TPP planes with the van der Waals radii taken into account), respectively (Figure 1)[.22](#page-8-0) Notably, the pore sizes are just 1-fold, 1.5-fold, and 2-fold the diameter of the single Pt atom (∼3 Å), promoting the atomic-level dispersion-like
+
+![](_page_1_Figure_7.jpeg)
+
+Figure 1. Schematic illustration of sandwich Pt arrays rationally confined in a MOF oriented by PSP.
+
+sandwich organometal compounds. Each segment space contains two parallel TPP, six metal trinuclear clusters, and six ditopic linkers. The high density of exposed nitrogen sites provided by the TPP linkers effectively confines the Pt within each segment. Overall, the aromatic pore partitioner alignments and suitable pore space in these MOFs facilitate the atomic-level Pt encapsulation and lead to the formation of a series of catalysts denoted as Pt@MOF-BCP, Pt@MOF-BDC, and Pt@MOF-NDC (Figure 1).
+
+Density functional theory (DFT) calculations further confirmed the interactions and electron density distributions of these Pt@MOF catalysts ([Figures](#page-2-0) 2 and [S1](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)).[23](#page-8-0) The Pt atoms confined within the MOF pores were used in DFToptimized models to approximate the behavior of Pt. As expected, confined in limited partitioned space, the electronic orbits of the Pt atom overlapped the *π* electronic orbit of aromatic TPP linkers,[24](#page-8-0) giving *π*···Pt···*π* electronic conjugated coordination. Optimal Pt atoms can locate in the tandem pore segments between parallel TPP partitioners, forming an infinite ···Pt···TPP···Pt···TPP··· sandwich array structure. Derived from the stronger electronegativity and higher electron density of the pyridine N atom, favorable Pt−N coordination bonds further stabilized the Pt array arranged between Pt atoms and TPP linkers ([Figures](#page-2-0) 2a and [S2](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)−S4)[.25](#page-8-0)
+
+Charge redistribution between Pt and the MOFs could be clearly observed [\(Figure](#page-2-0) 2b). Due to the electronegativity difference of Pt (2.28) < C (2.55) < N (3.04),[26](#page-9-0) electron accumulation around N and C and electron depletion around Pt were demonstrated obviously. The movement of an electron from metal Pt to a nonmetallic TPP linker indicated that the TPP organic linker served as an electronic acceptor and Pt was regarded as a donor. Notably, due to the best encapsulation space, the electronic orbit of Pt and MOF-BCP overlapped the furthest, exhibiting an obvious charge redistribution phenomenon, indicating the strong interaction between Pt and MOF frameworks.[27](#page-9-0) A two-dimensional electron localization function (ELF) of Pt@MOF-BCP exhibited a stronger interaction and shorter interatomic distance between Pt−N, further manifesting the strongly electron overlap in Pt@MOF-BCP ([Figure](#page-2-0) 2c).[28](#page-9-0)
+
+The theoretical lengths of Pt−N bonds in Pt@MOF-BCP/ BDC/NDC were 1.94, 2.04, and 2.04 Å with the adsorption energies between the Pt atom and MOFs of −2.56 eV, −1.31
+
+<span id="page-2-0"></span>![](_page_2_Figure_3.jpeg)
+
+Figure 2. (a) Computed position of Pt atoms in MOF structures. (b) Electron density distribution of Pt@MOFs. Yellow and cyan represent the accumulation and depletion of electron density, respectively. Atomic color schemes include Fe (blue), O (red), C (gray), N (purple), and Pt (orange). (c) ELF of Pt@MOF-BCP. (d) Bond length of Pt−N in Pt@MOFs and corresponding adsorption energy.
+
+![](_page_2_Figure_5.jpeg)
+
+Figure 3. (a−c) TEM images, (d−f) HAADF-STEM images, (g−i) magnified HAADF-STEM images, and (j−l) corresponding structural models of Pt@MOFs. (m) Quantify Pt clusters of the series Pt@MOFs. (n−o) AC HAADF-STEM images and FFT image of Pt@MOF-BCP.
+
+eV, and −0.95 eV, respectively (Figure 2d). All these results indicated that Pt was successfully encapsulated in the pore of MOFs by PSP and interacted with parallel pore partitioners, forming *π*···Pt···*π* electronic conjugated coordination.[27](#page-9-0) Among these, Pt@MOF-BCP with the optimal pore size possessed the strongest host−guest interaction and most stable *π*···Pt···*π* electronic conjugated coordination and thus can optimize the electronic structure extremely.
+
+Powder X-ray diffraction (PXRD) patterns of MOF precursors were all in good agreement with the simulated patterns from single crystallographic data ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S5−S7). The main diffraction peaks of MOF-BCP, MOF-BDC, and MOF-NDC appeared at 9.48°, 8.33°, and 7.39°, respectively,
+
+<span id="page-3-0"></span>![](_page_3_Figure_2.jpeg)
+
+Figure 4. (a) XPS spectra for Pt@MOFs, K2PtCl4, and Pt foil of Pt 4f. (b) XPS spectra for Pt@MOF-BCP and MOF-BCP of N 1s. (c) Normalized Pt L-edge XANES spectra. (d) Corresponding FT-EXAFS spectra. (e) EXAFS fitting and quantitative least-squares EXAFS curve-fitting. (f) Schematic of sandwich Pt array in Pt@MOFs. (g) Wavelet transforms for the *k*3-weighted EXAFS.
+
+all corresponding to the (101) planes of their previously reported structures.[21,22](#page-8-0) Following the subsequent introduction and reduction reaction of Pt, the PXRD patterns of the Pt@ MOFs remained well, suggesting that the MOF frameworks remained intact and their crystallinity was well retained ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S8−S10). On the other hand, MIL-88 MOF without pore space partitioners exhibited lower operation stability and failed to anchor Pt atoms into the 1D channels ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S11− [S14\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf). Scanning electron microscopy (SEM) images of the pore-space-partitioned MOF-BCP, MOF-BDC, and MOF-NDC precursors exhibited their spherical and spindle-like morphology with 50 ∼ 200 nm ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S15−S17). SEM and transmission electron microscopy (TEM) images clearly indicated that Pt@MOF catalysts well maintain their regular morphologies ([Figures](#page-2-0) 3a−c and S18−[S20](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)).
+
+High-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) images of Pt@MOFs revealed abundant dispersive bright spots, representing the heavier Pt clusters [\(Figure](#page-2-0) 3d−i). The magnified HAADF-STEM images displayed that Pt atoms were successfully packaged into MOF pores uniformly without agglomeration. Due to the interconnected pore space, Pt clusters were formed. The Pt cluster sizes were linearly regulated by the smallest axis of the pore spaces with average sizes of 1.22 ± 0.22, 1.56 ± 0.13, and 1.78 ± 0.22 nm for Pt@MOF-BCP/BDC/NDC [\(Figure](#page-2-0) 3j−l).
+
+Elemental mappings, energy-dispersive X-ray (EDX) analyses, inductively coupled plasma optical emission spectroscopy (ICP−OES), and thermogravimetric analysis (TGA) measurements were performed to further quantify the loading amount of Pt. Elemental mappings displayed that Pt, Fe, Ni, and O elements were distributed homogeneously [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S21−S23). EDX revealed that the Pt mass contents of Pt@MOF-BCP/ BDC/NDC were 24.6%, 18.4%, and 14.5%, respectively ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S24−S26). ICP-OES analysis showed that the actual amounts of Pt clusters were 22.1, 16.0, and 8.2 wt % ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) [S1](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)). TGA measurements of Pt@MOF-BCP/BDC/NDC exhibited mass losses of 23.3%, 18.0%, and 13.2%, respectively ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S27−S29). Pt@MOF-BCP exhibited the highest dispersion density and greatest Pt loading within the pores, attributable to the minimal segment space of the MOF-BCP precursor. The Pt loading increased linearly as the pore sizes of MOF precursors decreased. All results demonstrated that the loading amount and particle size of Pt clusters are clearly regulated by the PSP process ([Figure](#page-2-0) 3m).
+
+The atomic structure of the Pt cluster was further characterized by aberration-corrected HAADF-STEM (AC HAADF-STEM). As shown in [Figure](#page-2-0) 3n, bright spots were observed at the edge of Pt@MOF-BCP, representing the existence of Pt clusters. AC HAADF-STEM images displayed that the size of domination Pt clusters in Pt@MOF-BCP was about 1.2 nm. The lattice spacings of 0.252 nm can be attributed to the (111) planes of Pt clusters ([Figures](#page-2-0) 3o and [S30\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf). The lattice fringe of Pt clusters within Pt@MOF-BCP was slightly larger than the interplanar distance of intrinsic Pt (111) (0.226 nm),[29](#page-9-0) attributed to the stretched coordination environment. The fast Fourier transform (FFT) image was assigned to metallic Pt (111), further confirming the formation of Pt clusters in partitioned pore space.
+
+N2 adsorption/desorption isotherms at 77 K showed Pt@ MOFs with microporous features, illustrating their integral crystalline structures [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S31−S33). Compared with their pristine MOF precursors, the dramatically decreased specific surface areas and pore volumes of Pt@MOFs indicate that Pt incorporation within the pores induces partial pore occlusion, thereby confirming the strong spatial confinement effect and structural fastness of Pt within MOFs [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S2).
+
+The electronic structures of Pt@MOFs were verified by Xray photoelectron spectroscopy (XPS) and X-ray absorption spectroscopy. The Pt 4f spectrum of Pt@MOF-BCP was located between K2PtCl4 and Pt foil, confirming the formation of metallic Pt and charge consumption on the Pt clusters side ([Figure](#page-3-0) 4a)[.30](#page-9-0) With the pore space enlarged, the energy of Pt shifted to a higher energy, suggesting that there is more dispersity of Pt clusters. The discrete coordination increased the surface energy and shifted to higher electron binding energies.[31](#page-9-0) In the XPS spectra of N 1s, the peak at 399.2 eV was attributed to the pyridine N atoms in MOF-BCP.[32](#page-9-0) After introduction of Pt clusters, a new peak at 400.2 eV was observed in Pt@MOF-BCP, which can be assigned to the Pt− N bond.[33](#page-9-0) The new peak further confirmed the newly generated coordination modes between Pt and the precursor MOFs [\(Figure](#page-3-0) 4b). Besides, the peak of pyridine N in Pt@ MOF-BCP showed a negative shift, proving the electrons transfer from Pt clusters to the TPP linker, which was in accord with the above DFT calculations.
+
+The normalized Pt L3-edge X-ray absorption near edge structure (XANES) spectra of Pt@MOFs displayed that all of the white line intensity located between Pt foil and PtO2, verifying the average valence state of Pt was between Pt0 and Pt4+ ([Figure](#page-3-0) 4c). Among them, the white line intensity of Pt@ MOF-BCP was much closer to Pt foil, suggesting the most metallic Pt.[34](#page-9-0) According to the correlation of absorption edge, the average valence states of Pt were +0.05, +0.10, and +1.10 in Pt@MOF-BCP/BDC/NDC catalysts, respectively [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) [S34\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf). The monitor trends mainly originated from a greater degree of electron overlap in Pt@MOF-BCP.[35](#page-9-0) Pt L-edge EXAFS spectra of three Pt@MOFs exhibited major peaks at a distance of 2.1, 1.8, and 1.8 Å, respectively [\(Figure](#page-3-0) 4d). Particularly, the major peak of Pt@MOF-BCP showed the greatest degree of shift, which was attributed to the multiple coordination in the smallest pore space and the strongly interaction between Pt clusters and MOF-BCP.
+
+Combined with structural design and theoretical calculation, the EXAFS fitting results indicated that the main peaks of Pt@ MOFs were assigned to Pt−N and Pt-metal coordination ([Figures](#page-3-0) 4e and [S35](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)−S36). On account of the most electronegativity difference, Pt atoms contact N atoms from parallel TPP linkers to form Pt−N bonds, which was reasonable. Furthermore, EXAFS fitting of Pt@MOF-BCP/ BDC/NDC confirmed the lengths of Pt−N were 1.96, 1.98, and 2.03 Å, respectively, stating the different atomic coordination configuration of Pt−N in different pore spaces ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S3). Benefiting from the smallest pore size and the strong conjugated system between Pt clusters and MOF support, the Pt−N bonds in Pt@MOF-BCP possessed the shortest bond length, which was also consistent with the DFT calculation.
+
+Remarkably, except for the formation of major coordination Pt−N bonds, Pt-metal coordination was also formed in Pt@ MOFs. Pt-metal coordination configuration was further surveyed using quantitative least-squares EXAFS curvefitting.[36](#page-9-0) EXAFS fitting of Pt@MOF-BCP exhibited the predominant Pt−Fe/Ni (2.52 Å) and Pt−Pt (2.66 Å) configurations. That is, due to the interconnected partitioned pore space of MOF-BCP, Pt can interact with the metal nodes of the MOF-BCP support to form Pt−Fe/Ni bonds. Besides, the inherent infinity frameworks of MOF-BCP provided the chance to cross-link the adjacent Pt atoms to form the infinite 1D Pt array. Above all, as shown in [Figure](#page-3-0) 4f, each Pt atom can interact with aromatic TPP partitioners, Fe/Ni nodes of intrinsic MOF, and adjacent Pt atoms simultaneously to give a triple coordination configuration.
+
+To more precisely clarify the coordination conditions of Pt, WT analysis was carried out. Especially, the intensity maximum at 6.6 Å<sup>−</sup><sup>1</sup> for Pt@MOF-BCP located between PtO2 and Pt foil, which is different from that for the Pt−O (5.6 Å<sup>−</sup><sup>1</sup> ) as well as Pt−Pt coordination mode (9.4 Å<sup>−</sup><sup>1</sup> ), further confirms the intercoordination conditions for Pt in MOF-BCP. With the pore spaces of precursor MOFs increased, triple coordination configurations trend to clearness. This may be caused by the more discrete Pt clusters in the pore and the more distinguishable average coordination [\(Figure](#page-3-0) 4g). All these results successfully resolve the precise coordination configuration and atomic-level structural details of the sandwichstructured Pt array encapsulated within Pt@MOFs.
+
+Fe 2p and Ni 2p XPS spectra of three Pt@MOFs all showed positive shifts compared with MOF supports, implying the electron transfer from the Fe/Ni to TPP linker ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S37 and [S38\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf). Meanwhile, the higher oxidation states of both Fe and Ni were observed within the smaller pores, which were attributed to enhanced electronic interactions between the contracted MOF pore architecture and the encapsulated Pt clusters [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S39). The energy absorption edge of the Pt@ MOF-BCP catalyst was located at the position near Fe2O3, verifying the existence of Fe3+ ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S40). EXAFS spectra of Fe validated that the typical Fe−O(N) scattering configuration was located at ∼1.4 Å with a slight shift, further implying the interaction between Pt and the intrinsic MOF-BCP [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) [S41\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf). Ni K-edge XANES spectra of Pt@MOF-BCP showed features similar to those of NiO, implying a +2 oxidation state similar to that of NiO ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S42). Similar to Fe, the main peak at 1.5 Å corresponding to Ni−O coordination showed a slight shift [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S43). EXAFS fitting results of Fe/Ni in Pt@ MOF-BCP suggested that except the normal coordination of metal (FeNi)−O in nodes of intrinsic MOF, the coordination between Pt and Fe/Ni was formed undoubtedly [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S44− S45 and [Tables](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S4−S5).
+
+HER and OER performances of Pt@MOF catalysts were investigated in 0.5 M H2SO4 and 1 M KOH electrolyte to reveal the facilitation of catalytic reactions. Cyclic voltammetry (CV) curves were measured in a N2-saturated 0.5 M H2SO4 solution. Compared with the precursor MOF-BCP, an obvious hydroxyl adsorption/desorption peak can be observed on Pt@ MOF-BCP, which can be attributed to the stronger H\* intermediates' adsorption energy on Pt@MOF-BCP [\(Figure](#page-5-0) [5](#page-5-0)a).[37](#page-9-0) Deriving from the sandwich Pt arrays within MOFs, the
+
+<span id="page-5-0"></span>![](_page_5_Figure_2.jpeg)
+
+Figure 5. (a) CV curves of Pt@MOF-BCP and MOF-BCP in a N2-saturated atmosphere. (b) LSV curves of the series Pt@MOFs and 40% Pt/C for HER in 0.5 M H2SO4. (c) Comparison of overpotential and Tafel slopes on Pt@MOFs. (d) Free energy of adsorbed H\* intermediates on the Pt@MOF-BCP and Pt cluster. (e) Comparison of other similar catalysts. (f) *i*−*t* test for HER and OER. (g) HAADF-STEM image after HER. (h) Wavelet transforms for the *k*3-weighted EXAFS of Pt@MOF-BCP after the *i*−*t* test for HER.
+
+local charge distribution in Pt@MOFs was enhanced, the electron supply capacity was promoted, and then the energies of H\* intermediate adsorption and H2 evolution were determined.
+
+Among them, Pt@MOF-BCP exhibited excellent HER performance in 0.5 M H2SO4. Linear sweep voltammetry (LSV) curves demonstrated that the overpotential of Pt@ MOF-BCP at 10 mA·cm<sup>−</sup><sup>2</sup> was 2.5 mV. Moreover, to reach the high current density of 100 mA·cm<sup>−</sup><sup>2</sup> , the overpotential of only 57.5 mV is required for Pt@MOF-BCP, which is much lower than those required for Pt@MOF-BDC (85.5 mV), Pt@MOF-NDC (138.5 mV), Pt@MIL-88 (274.5 mV), and even Pt/C (82.5 mV) (Figures 5b and S46−[S47\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf). Notably, Pt@MOF-BCP still exhibited the lowest onset potential, the highest BETnormalized current density, and a pronounced enhancement in turnover frequency (TOF) value and mass activity, highlighting its superior intrinsic HER activity [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S48 and [Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S6).
+
+The Tafel slope of Pt@MOF-BCP (42.5 mV·dec<sup>−</sup><sup>1</sup> ) was significantly lower than those of Pt@MOF-BDC and Pt@ MOF-NDC, consistent with a Volmer−Heyrovsky ratedetermining step, confirming the more favorable reaction kinetics for H\* adsorption on Pt@MOF-BCP ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) [S49\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf).[38](#page-9-0),[39](#page-9-0) In addition, Pt@MOF-BCP showed the smallest charge transfer resistance (*R*ct) of 18.04 Ω, which is 1.3 and 2.2-fold diminution for Pt@MOF-BDC (22.79 Ω) and Pt@ MOF-NDC (39.64 Ω) ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S50). Pt@MOF-BCP displayed the largest electric double-layer capacitance *C*dl value of 76.6 mF·cm<sup>−</sup><sup>2</sup> , which is 1.2 and 7.0-fold enhancement over Pt@ MOF-BDC (62.1 mF·cm<sup>−</sup><sup>2</sup> ) and Pt@MOF-NDC (11.0 mF· cm<sup>−</sup><sup>2</sup> ), respectively [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S51). Clearly, the Pt@MOF-BCP catalyst exhibits most efficient charge-transfer kinetics and largest electrochemically active area. The consistent trends in electrochemical performance, including *η*10, Tafel slope, *C*dl, and *R*ct, suggested that the optimized Pt@MOF-BCP can facilitate favorable reaction kinetics for H\* adsorption and conversion [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S52).
+
+HER performance was also investigated in the alkaline electrolyte. Pt@MOF-BCP displayed the most excellent HER performance in acidic and alkaline electrolytes simultaneously (Figures 5c and [S53](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)−S56). Pt clusters within packaged MOFs were considered as active species for HER. Variations in the confined pore spaces of Pt@MOFs resulted in distinct spatial distributions and host−guest interaction forces between the Pt cluster and MOF frameworks via *π*···Pt···*π* electronic conjugated coordination. Pt@MOF-BCP, characterized by
+
+<span id="page-6-0"></span>![](_page_6_Figure_1.jpeg)
+
+Figure 6. (a) Value of Δ*E* for Pt@MOFs and Pt/C + RuO2 in 1 M KOH for HER and OER. (b) LSV curves for overall water splitting in 1 M KOH. (c) Comparison of overall water splitting activity. (d) *i*−*t* test at 50 mA·cm<sup>−</sup><sup>2</sup> for 12 h.
+
+minimal Pt−N(TPP) distances (1.94 Å), exhibited the strongest electronic interaction between Pt and the framework ([Figure](#page-3-0) 4a). Furthermore, the inevitable interplay between Pt and pristine Fe/Ni metal clusters within the MOF-BCP frameworks also modulated the electronic structure, as evidenced by XPS results ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S39). The synergistic electronic optimization of Pt enhances electronic coupling, accelerates interfacial charge transfer, and stabilizes the H\* intermediates during HER catalysis.
+
+To elucidate the intrinsic relationship between *π*···Pt···*π* coordination and enhanced electrocatalytic activity, DFT calculations were further performed on Pt@MOF-BCP and Pt clusters in the acidic electrolyte ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S57−S59). DFT calculations revealed that Δ*G*H\* at Pt@MOF-BCP was −0.17 eV, which was closer to the ideal thermoneutral value of Δ*G*H\* = 0 eV compared to the standard Pt cluster of Δ*G*H\* of −0.26 eV,[40](#page-9-0) indicating the more favorable adsorption/desorption kinetics for a key intermediate of H\* ([Figure](#page-5-0) 5d).[41](#page-9-0) Therefore, due to the high density of Pt sites and optimized electronic structure within Pt@MOF-BCP, the greatest extent modulation of intermediate H\* binding energy through the *π*···Pt···*π* electronic conjugate system facilitates the H2 evolution.
+
+Furthermore, the different loading amounts of Pt were further explored. Pt@MOF-BCP catalysts with different input amounts of Pt were prepared. The excessive concentration would result in the agglomeration of Pt clusters, thereby compromising their catalytic efficacy. The insufficient amount of Pt leads to the inadequate modulation of electronic structure and ultimately impairs the desired catalytic performance ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S60−S70).
+
+OER performances of Pt@MOFs were tested in 1 M KOH. It can be seen that to reach a high current density of 100 mA· cm<sup>−</sup><sup>2</sup> , the potential of Pt@MOF-BCP was 1.54 V ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S71 and [S72](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)), which was lower than those of Pt@MOF-BDC (1.55 V), Pt@MOF-NDC (1.56 V), RuO2 (1.8 V), Pt/C (1.75 V), and Pt@MIL-88 (1.67 V) catalysts. Compared with commercial Pt- and Ru- based catalysts, Pt@MOF-BCP exhibited superior intrinsic activity, achieving a TOF value of 0.043 s <sup>−</sup><sup>1</sup> and mass activity of 42.1 A·g<sup>−</sup><sup>1</sup> at *η* = 300 mV during OER [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S7). Bode plots of Pt@MOF-BCP exhibited the greatest degree of impedance, further indicating the fast charge-transfer kinetics [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S73).[42](#page-9-0) Pt@MOF-BCP exhibited the a smallest Tafel slope, smallest *R*ct value, and the largest *C*dl value during the OER reaction on account of the outperforming reaction kinetics [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S74−S76). The superior OER performance of Pt@MOF-BCP is attributed to the stabilization of high-valent metal centers (Fe3+/Ni3+), which is facilitated by the stronger Pt-support interactions compared to Pt@MOF-BDC and Pt@MOF-NDC. This enhanced charge polarization of metal centers promotes the formation of active intermediates, directly contributing to catalytic enhancement.[43](#page-9-0)
+
+During the OER process, DFT calculations showed that the energy barrier of the O\* formation step was 0.59 eV for Pt@ MOF-BCP, which was smaller than that of the pristine Pt cluster (0.71 eV), indicating the improvement of electronic structure via Pt-support interactions [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S77−S80). Thus, the newly generated *π*···Pt···*π* electronic conjugate system enhances the intrinsic reactive kinetics for water oxidation.[44,45](#page-9-0) Hence, Pt@MOF-BCP exhibited best performance for HER and OER in acidic and alkaline electrolytes, which was superior to nearly all similar catalysts ([Figure](#page-5-0) 5e and [Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S8).[46](#page-9-0),[47](#page-9-0)
+
+Catalytic durability plays a crucial role in practical applications. Profiting from the unique sandwich Pt array within pore-space-partitioned MOFs, Pt@MOF-BCP also exhibited superior stability for HER and OER in acidic and alkaline electrolytes ([Figure](#page-5-0) 5f). The XRD revealed that the structure of the MOF was maintained after HER ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S81). <span id="page-7-0"></span>Pt clusters were still confined in the pore spaces with slight agglomeration, and the size was about 1.24 ± 0.1 nm ([Figures](#page-5-0) [5](#page-5-0)g and S82−[S83](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)). Postreaction EDX, TGA, and ICP-OES analyses revealed the negligible percentage composition of Pt loading after HER reaction, indicating the structural stability of a sandwich Pt array within the MOF ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S84). Furthermore, ICP-OES analysis of the post-HER electrolyte detected no leaching of Pt species, conclusively demonstrating the structural robustness of Pt within MOFs and further substantiating exceptional electrochemical durability. Furthermore, XPS, normalized XANES spectra, and WT analysis indicated the slight shift after HER reaction [\(Figures](#page-5-0) 5h and [S85](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)−S86). EXAFS fitting results showed that the bond length of Pt−N was 1.82 Å, slightly shortened after HER, demonstrating the slight variation of local electronic structures ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S87 and Table S9), which may be caused by the mild agglomeration of Pt clusters. Overall, the Pt@MOF-BCP catalyst exhibited excellent activity and robust stability, making it possible to be utilized in practical overall water splitting application ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S88−S98).
+
+Inspired by the exceptional HER and OER performance, two-electrode electrolyzer tests were carried out in 1 M KOH with Pt@MOFs as the cathode and anode. The Δ*E* value of Pt@MOF-BCP was about 1.55 V at 10 mA·cm<sup>−</sup><sup>2</sup> , which was lower than those of Pt@MOF-BDC (1.60 V), Pt@MOF-NDC (1.67 V), and Pt/C + RuO2 (1.72 V), indicating the excellent performance in two-electrode tests ([Figure](#page-6-0) 6a). The cell voltage of Pt@MOF-BCP||Pt@MOF-BCP (1.47 V) reached the current density of 10 mA·cm<sup>−</sup><sup>2</sup> , which was significantly lower than those of Pt@MOF-BDC (1.55 V), Pt@MOF-NDC (1.71 V), and Pt/C||RuO2 (1.50 V), indicating outstanding electrocatalytic activity of Pt@MOF-BCP for overall water splitting in practice ([Figure](#page-6-0) 6b). The Tafel slope of Pt@MOF-BCP||Pt@MOF-BCP proved to possess superior reaction kinetics for water electrolysis in 1 M KOH [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S99). Encouragingly, the bifunctional Pt@MOF-BCP catalyst exhibited extraordinary performance toward overall water splitting in alkaline media, which was superior to most MOF-based catalysts [\(Figure](#page-6-0) 6c). Long-term stability of the bifunctional Pt@MOF-BCP catalyst was further examined, which showed superior electrocatalytic stability in twoelectrode in alkaline media ([Figure](#page-6-0) 6d). Large amounts of H2 and O2 gas products can be generated on the cathode and anode devices simultaneously, indicating the competent and persistent catalyst for overall water splitting. Faradaic efficiency of overall water splitting reaction over the Pt@MOF-BCP catalyst was calculated to be around 97% under the current density of 100 mA·cm<sup>−</sup><sup>2</sup> for 120 min ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf) S100). SEM, TEM, and HAADF-STEM images for the catalyst after overall water splitting further revealed the ultrarobust structure of Pt@ MOF-BCP under high current density [\(Figures](#page-6-0) 6d inset and S101−[S102\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf).
+
+# ■ **CONCLUSION**
+
+In this study, a series of precisely engineered sandwichstructured platinum arrays were successfully constructed within pore-space-partitioned MOFs. Platinum was encapsulated within two parallel aromatic partitioners, forming a welldefined sandwich architecture. The size of Pt clusters was systematically controlled by modulating the geometry of ditopic linkers, while a stable *π*···Pt···*π* conjugated electronic system was established through interactions between *π*electrons from the partitioners and d-orbitals of Pt. Notably, Pt clusters located in adjacent pores lined up to form continuous 1D Pt arrays extending along the partitioned MOF channel. The spatial confinement stabilized the sandwich Pt arrays and modified their electronic structure. The optimized catalyst, Pt@MOF-BCP (derived from the smallest pore size), demonstrated exceptional electrocatalytic performance with an overpotential of 2.5 mV for HER in the acidic electrolyte and 265 mV for OER in the alkaline electrolyte at 10 mA·cm<sup>−</sup><sup>2</sup> as well as top-level overall water splitting activity and stability superior to benchmark catalysts. This work provides a paradigm for the atomic-level design of noble-metal secondary structures within MOFs, offering new avenues for advanced energy conversion technologies.
+
+# ■ **ASSOCIATED CONTENT**
+
+### \***sı Supporting Information**
+
+The Supporting Information is available free of charge at [https://pubs.acs.org/doi/10.1021/jacs.5c04935.](https://pubs.acs.org/doi/10.1021/jacs.5c04935?goto=supporting-info)
+
+> Experimental details; DFT calculation details; morphology and structure characterizations; and electrochemical data ([PDF\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c04935/suppl_file/ja5c04935_si_001.pdf)
+
+# ■ **AUTHOR INFORMATION**
+
+### **Corresponding Authors**
+
+- Ying Wang − *Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education, Key Laboratory of Macromolecular Science of Shaanxi Province, School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710062, China;* [orcid.org/](https://orcid.org/0000-0002-6199-6783) [0000-0002-6199-6783](https://orcid.org/0000-0002-6199-6783); Email: [wangyingyoyo@](mailto:wangyingyoyo@snnu.edu.cn) [snnu.edu.cn](mailto:wangyingyoyo@snnu.edu.cn)
+- Shu-Ni Li − *Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education, Key Laboratory of Macromolecular Science of Shaanxi Province, School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710062, China;* [orcid.org/](https://orcid.org/0000-0002-6614-9241) [0000-0002-6614-9241](https://orcid.org/0000-0002-6614-9241); Email: [lishuni@snnu.edu.cn](mailto:lishuni@snnu.edu.cn)
+- Quan-Guo Zhai − *Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education, Key Laboratory of Macromolecular Science of Shaanxi Province, School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710062, China;* [orcid.org/](https://orcid.org/0000-0003-1117-4017) [0000-0003-1117-4017](https://orcid.org/0000-0003-1117-4017); Email: [zhaiqg@snnu.edu.cn](mailto:zhaiqg@snnu.edu.cn)
+
+### **Authors**
+
+- Jia-Min Huo − *Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education, Key Laboratory of Macromolecular Science of Shaanxi Province, School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710062, China; School of Chemistry and Chemical Engineering, Yulin University, Yulin, Shaanxi 719000, China*
+- Ze-Lin Ma − *State Key Laboratory of Solidification Processing, Center for Nano Energy Materials, School of Materials Science and Engineering, Northwestern Polytechnical University and Shaanxi Joint Laboratory of Graphene (NPU), Xi'an, Shaanxi 710072, China*
+- Jie Meng − *Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education, Key Laboratory of Macromolecular Science of Shaanxi Province, School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710062, China*
+
+<span id="page-8-0"></span>Tian-Shu He − *Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education, Key Laboratory of Macromolecular Science of Shaanxi Province, School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710062, China*
+
+Bo-Lin Sun − *Key Laboratory of Applied Surface and Colloid Chemistry, Ministry of Education, Key Laboratory of Macromolecular Science of Shaanxi Province, School of Chemistry & Chemical Engineering, Shaanxi Normal University, Xi'an, Shaanxi 710062, China*
+
+Complete contact information is available at: [https://pubs.acs.org/10.1021/jacs.5c04935](https://pubs.acs.org/doi/10.1021/jacs.5c04935?ref=pdf)
+
+### **Notes**
+
+The authors declare no competing financial interest.
+
+# ■ **ACKNOWLEDGMENTS**
+
+This work was supported by the National Natural Science Foundation of China (22371174 and 22471149), the Youth Innovation Team of Shaanxi Universities (24JP038), and the Fundamental Research Funds for the Central Universities (GK202309003, GK202304032, and GK202307009).
+
+# ■ **REFERENCES**
+
+(1) Liu, Y.; Ding, J.; Li, F.; Su, X.; Zhang, Q.; Guan, G.; Hu, F.; Zhang, J.; Wang, Q.; Jiang, Y.; Liu, B.; Yang, H. B. [Modulating](https://doi.org/10.1002/adma.202207114) Hydrogen Adsorption via Charge Transfer at the [Semiconductor-](https://doi.org/10.1002/adma.202207114)Metal [Heterointerface](https://doi.org/10.1002/adma.202207114) for Highly Efficient Hydrogen Evolution [Catalysis.](https://doi.org/10.1002/adma.202207114) *Adv. Mater.* 2022, *35*, 2207114.
+
+(2) Zeng, L.; Zhao, Z.; Huang, Q.; Zhou, C.; Chen, W.; Wang, K.; Li, M.; Lin, F.; Luo, H.; Gu, Y.; Li, L.; Zhang, S.; Lv, F.; Lu, G.; Luo, M.; Guo, S. [Single-Atom](https://doi.org/10.1021/jacs.3c06863?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Cr-N4 Sites with High Oxophilicity [Interfaced](https://doi.org/10.1021/jacs.3c06863?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) with Pt Atomic Clusters for Practical Alkaline Hydrogen [Evolution](https://doi.org/10.1021/jacs.3c06863?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Catalysis. *J. Am. Chem. Soc.* 2023, *145*, 21432−21441.
+
+(3) Liu, J.; Niu, W.; Liu, G.; Chen, B.; Huang, J.; Cheng, H.; Hu, D.; Wang, J.; Liu, Q.; Ge, J.; Yin, P.; Meng, F.; Zhang, Q.; Gu, L.; Lu, Q.; Zhang, H. Selective Epitaxial Growth of Rh [Nanorods](https://doi.org/10.1021/jacs.1c00612?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) on 2H/fcc Heterophase Au Nanosheets to Form 1D/2D Rh-Au [Heterostructures](https://doi.org/10.1021/jacs.1c00612?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) for Highly Efficient Hydrogen [Evolution.](https://doi.org/10.1021/jacs.1c00612?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2021, *143*, 4387−4396.
+
+(4) Chen, H.; Li, J.; Shen, Y.; Jiao, W.; Wang, J.; Zou, Y.; Zou, X. Room [temperature,](https://doi.org/10.1016/j.apcatb.2022.121605) fast fabrication of square meter-sized oxygen evolution electrode toward industrial alkaline [electrolyzer.](https://doi.org/10.1016/j.apcatb.2022.121605) *Appl. Catal., B* 2022, *316*, 121605.
+
+(5) Sun, K.; Wu, X.; Zhuang, Z.; Liu, L.; Fang, J.; Zeng, L.; Ma, J.; Liu, S.; Li, J.; Dai, R.; Tan, X.; Yu, K.; Liu, D.; Cheong, W.-C.; Huang, A.; Liu, Y.; Pan, Y.; Xiao, H.; Chen, C. Interfacial water [engineering](https://doi.org/10.1038/s41467-022-33984-5) boosts neutral water [reduction.](https://doi.org/10.1038/s41467-022-33984-5) *Nat. Commun.* 2022, *13*, 6260.
+
+(6) Yao, L.; Zhang, F.; Yang, S.; Zhang, H.; Li, Y.; Yang, C.; Yang, H.; Cheng, Q. Sub-2 nm IrRuNiMoCo [High-Entropy](https://doi.org/10.1002/adma.202314049) Alloy with Iridium-Rich [Medium-Entropy](https://doi.org/10.1002/adma.202314049) Oxide Shell to Boost Acidic Oxygen [Evolution.](https://doi.org/10.1002/adma.202314049) *Adv. Mater.* 2024, *36*, 2314049.
+
+(7) Jia, C.; Sun, Q.; Liu, R.; Mao, G.; Maschmeyer, T.; Gooding, J. J.; Zhang, T.; Dai, L.; Zhao, C. Challenges and [Opportunities](https://doi.org/10.1002/adma.202404659) for Single-Atom [Electrocatalysts:](https://doi.org/10.1002/adma.202404659) From Lab-Scale Research to Potential [Industry-Level](https://doi.org/10.1002/adma.202404659) Applications. *Adv. Mater.* 2024, *36*, 2404659.
+
+(8) Xu, W. W.; Wang, Z. F.; Liu, P. Y.; Tang, X.; Zhang, S. X.; Chen, H. C.; Yang, Q. H.; Chen, X.; Tian, Z. Q.; Dai, S.; Chen, L.; Lu, Z. Y. Ag [Nanoparticle-Induced](https://doi.org/10.1002/adma.202306062) Surface Chloride Immobilization Strategy Enables Stable Seawater [Electrolysis.](https://doi.org/10.1002/adma.202306062) *Adv. Mater.* 2023, *36*, 2306062.
+
+(9) Zhang, W.; Wu, J.; Shi, W.; Qin, P.; Lang, W.; Zhang, X.; Gu, Z.; Li, H.; Fan, Y.; Shen, Y.; Zhang, S.; Liu, Z.; Fu, Y.; Zhang, W.; Huo, F. New Function of [Metal-Organic](https://doi.org/10.1002/adma.202303216) Framework: Structurally Ordered Metal [Promoter.](https://doi.org/10.1002/adma.202303216) *Adv. Mater.* 2023, *35*, 2303216.
+
+(10) Malenov, D. P.; Antonijevic,́ I. S.; Hall, M. B.; Zaric,́ S. D. Stacking of [cyclopentadienyl](https://doi.org/10.1039/C8CE00597D) organometallic sandwich and halfsandwich [compounds.](https://doi.org/10.1039/C8CE00597D) Strong interactions of sandwiches at large [offsets.](https://doi.org/10.1039/C8CE00597D) *CrystEngComm* 2018, *20*, 4506−4514.
+
+(11) Á lvarez-Ruiz, E.; Sancho, I.; Navarro, M.; Fernández, I.; Santamaría, C.; Hernán-Gómez, A. A [Mixed-Valence](https://doi.org/10.1021/acs.inorgchem.4c00149?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Ti(II)/Ti(III) Inverted Sandwich Compound as a [Regioselective](https://doi.org/10.1021/acs.inorgchem.4c00149?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Catalyst for the Uncommon 1,3,5-Alkyne [Cyclotrimerization.](https://doi.org/10.1021/acs.inorgchem.4c00149?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Inorg. Chem.* 2024, *63*, 8642−8653.
+
+(12) Rozhkov, A. V.; Krykova, M. A.; Ivanov, D. M.; Novikov, A. S.; Sinelshchikova, A. A.; Volostnykh, M. V.; Konovalov, M. A.; Grigoriev, M. S.; Gorbunova, Y. G.; Kukushkin, V. Y. [Reverse](https://doi.org/10.1002/anie.201814062) Arene Sandwich [Structures](https://doi.org/10.1002/anie.201814062) Based upon *π*-Hole···[MII] (d8M = Pt, Pd) [Interactions,](https://doi.org/10.1002/anie.201814062) where Positively Charged Metal Centers Play the Role of a [Nucleophile.](https://doi.org/10.1002/anie.201814062) *Angew. Chem., Int. Ed.* 2019, *58*, 4164−4168. (13) Rauguth, A.; Kredel, A.; Carrella, L. M.; Rentschler, E. [3d/4f](https://doi.org/10.1021/acs.inorgchem.1c01356?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Sandwich Complex Based on [Metallacrowns.](https://doi.org/10.1021/acs.inorgchem.1c01356?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Inorg. Chem.* 2021, *60*, 14031−14037.
+
+(14) Tang, S.; Dang, Q.; Liu, T.; Zhang, S.; Zhou, Z.; Li, X.; Wang, X.; Sharman, E.; Luo, Y.; Jiang, J. Realizing a [Not-Strong-Not-Weak](https://doi.org/10.1021/jacs.0c09527?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Polarization Electric Field in [Single-Atom](https://doi.org/10.1021/jacs.0c09527?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Catalysts Sandwiched by Boron Nitride and [Graphene](https://doi.org/10.1021/jacs.0c09527?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Sheets for Efficient Nitrogen Fixation. *J. Am. Chem. Soc.* 2020, *142*, 19308−19315.
+
+(15) Mathialagan, S. K.; Parreiras, S. O.; Tenorio, M.; Č erna, L.; Moreno, D.; Muñiz-Cano, B.; Navío, C.; Valvidares, M.; Valbuena, M. A.; Urgel, J. I.; Gargiani, P.; Miranda, R.; Camarero, J.; Martínez, J. I.; Gallego, J. M.; É cija, D. On-Surface Synthesis of [Organolanthanide](https://doi.org/10.1002/advs.202308125) Sandwich [Complexes.](https://doi.org/10.1002/advs.202308125) *Adv. Sci.* 2024, *11*, 2308125.
+
+(16) Li, L.; Li, Z.; Yang, W.; Huang, Y.; Huang, G.; Guan, Q.; Dong, Y.; Lu, J.; Yu, S.-H.; Jiang, H.-L. Integration of Pd [nanoparticles](https://doi.org/10.1016/j.chempr.2020.11.023) with [engineered](https://doi.org/10.1016/j.chempr.2020.11.023) pore walls in MOFs for enhanced catalysis. *Chem.* 2021, *7*, 686−698.
+
+(17) Ye, Y.; Ma, Z.; Lin, R. B.; Krishna, R.; Zhou, W.; Lin, Q.; Zhang, Z.; Xiang, S.; Chen, B. Pore Space [Partition](https://doi.org/10.1021/jacs.9b00232?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) within a Metal-Organic [Framework](https://doi.org/10.1021/jacs.9b00232?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) for Highly Efficient C2H2/CO2 Separation. *J. Am. Chem. Soc.* 2019, *141*, 4130−4136.
+
+(18) Hong, A. N.; Kusumoputro, E.; Wang, Y.; Yang, H.; Chen, Y.; Bu, X.; Feng, P. [Simultaneous](https://doi.org/10.1002/anie.202116064) Control of Pore-Space Partition and Charge Distribution in [Multi-Modular](https://doi.org/10.1002/anie.202116064) Metal-Organic Frameworks. *Angew. Chem., Int. Ed.* 2022, *61*, 202116064.
+
+(19) Xiao, Y.; Chen, Y.; Wang, W.; Yang, H.; Hong, A. N.; Bu, X.; Feng, P. [Simultaneous](https://doi.org/10.1021/jacs.3c03130?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Control of Flexibility and Rigidity in Pore-[Space-Partitioned](https://doi.org/10.1021/jacs.3c03130?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal-Organic Frameworks. *J. Am. Chem. Soc.* 2023, *145*, 10980−10986.
+
+(20) Serre, C.; Mellot-Draznieks, C.; Surblé, S.; Audebrand, N.; Filinchuk, Y.; Férey, G. Role of [Solvent-Host](https://doi.org/10.1126/science.1137975) Interactions That Lead to Very Large Swelling of Hybrid [Frameworks.](https://doi.org/10.1126/science.1137975) *Science* 2007, *315*, 1828.
+
+(21) Yang, H.; Chen, Y.; Dang, C.; Hong, A. N.; Feng, P.; Bu, X. Optimization of [Pore-Space-Partitioned](https://doi.org/10.1021/jacs.2c09349?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal-Organic Frameworks Using the [Bioisosteric](https://doi.org/10.1021/jacs.2c09349?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Concept. *J. Am. Chem. Soc.* 2022, *144*, 20221− 20226.
+
+(22) Xue, Y. Y.; Bai, X. Y.; Zhang, J.; Wang, Y.; Li, S. N.; Jiang, Y. C.; Hu, M. C.; Zhai, Q. G. Precise Pore Space Partitions [Combined](https://doi.org/10.1002/anie.202015861) with High-Density [Hydrogen-Bonding](https://doi.org/10.1002/anie.202015861) Acceptors within Metal-Organic [Frameworks](https://doi.org/10.1002/anie.202015861) for Highly Efficient Acetylene Storage and Separation. *Angew. Chem., Int. Ed.* 2021, *60*, 10122.
+
+(23) Paille, G.; Gomez-Mingot, M.; Roch-Marchal, C.; Lassalle-Kaiser, B.; Mialane, P.; Fontecave, M.; Mellot-Draznieks, C.; Dolbecq, A. A Fully Noble Metal-Free [Photosystem](https://doi.org/10.1021/jacs.7b11788?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Based on Cobalt-[Polyoxometalates](https://doi.org/10.1021/jacs.7b11788?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Immobilized in a Porphyrinic Metal-Organic [Framework](https://doi.org/10.1021/jacs.7b11788?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) for Water Oxidation. *J. Am. Chem. Soc.* 2018, *140*, 3613−3618.
+
+(24) Yang, L.; Chen, Z.; Cao, Q.; Liao, H.; Gao, J.; Zhang, L.; Wei, W.; Li, H.; Lu, J. Structural Regulation of [Photocatalyst](https://doi.org/10.1002/adma.202306758) to Optimize Hydroxyl Radical [Production](https://doi.org/10.1002/adma.202306758) Pathways for Highly Efficient Photocatalytic [Oxidation.](https://doi.org/10.1002/adma.202306758) *Adv. Mater.* 2024, *36*, 2306758.
+
+(25) Chen, Y.; Wang, P.; Hao, H.; Hong, J.; Li, H.; Ji, S.; Li, A.; Gao, R.; Dong, J.; Han, X.; Liang, M.; Wang, D.; Li, Y. [Thermal](https://doi.org/10.1021/jacs.1c08581?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Atomization of Platinum [Nanoparticles](https://doi.org/10.1021/jacs.1c08581?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) into Single Atoms: An <span id="page-9-0"></span>Effective Strategy for Engineering [High-Performance](https://doi.org/10.1021/jacs.1c08581?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Nanozymes. *J. Am. Chem. Soc.* 2021, *143*, 18643−18651.
+
+(26) Zhou, K. L.; Wang, Z.; Han, C. B.; Ke, X.; Wang, C.; Jin, Y.; Zhang, Q.; Liu, J.; Wang, H.; Yan, H. Platinum [single-atom](https://doi.org/10.1038/s41467-021-24079-8) catalyst coupled with transition metal/metal oxide [heterostructure](https://doi.org/10.1038/s41467-021-24079-8) for [accelerating](https://doi.org/10.1038/s41467-021-24079-8) alkaline hydrogen evolution reaction. *Nat. Commun.* 2021, *12*, 3783.
+
+(27) Ren, G. M.; Zhao, J. Y.; Zhao, Z. H.; Li, Z. Z.; Wang, L.; Zhang, Z. S.; Li, C. H.; Meng, X. C. [Defects-Induced](https://doi.org/10.1002/anie.202314408) Single-Atom Anchoring on Metal-Organic Frameworks for [High-Efficiency](https://doi.org/10.1002/anie.202314408) Photocatalytic Nitrogen [Reduction.](https://doi.org/10.1002/anie.202314408) *Angew. Chem., Int. Ed.* 2023, *63*, 202314408.
+
+(28) Chen, Z.; Gong, W.; Wang, J.; Hou, S.; Yang, G.; Zhu, C.; Fan, X.; Li, Y.; Gao, R.; Cui, Y. Metallic W/WO2 [solid-acid](https://doi.org/10.1038/s41467-023-41097-w) catalyst boosts hydrogen evolution reaction in alkaline [electrolyte.](https://doi.org/10.1038/s41467-023-41097-w) *Nat. Commun.* 2023, *14*, 5363.
+
+(29) Huo, J. M.; Ma, Z. L.; Wang, Y.; Cao, Y. J.; Jiang, Y. C.; Li, S. N.; Chen, Y.; Hu, M. C.; Zhai, Q. G. [Monodispersed](https://doi.org/10.1002/smll.202207044) Pt Sites Supported on NiFe-LDH from [Synchronous](https://doi.org/10.1002/smll.202207044) Anchoring and [Reduction](https://doi.org/10.1002/smll.202207044) for High Efficiency Overall Water Splitting. *Small* 2023, *19*, 2207044.
+
+(30) Chen, Y.; Ding, R.; Li, J.; Liu, J. Highly active [atomically](https://doi.org/10.1016/j.apcatb.2021.120830) dispersed [platinum-based](https://doi.org/10.1016/j.apcatb.2021.120830) electrocatalyst for hydrogen evolution reaction achieved by defect [anchoring](https://doi.org/10.1016/j.apcatb.2021.120830) strategy. *Appl. Catal., B* 2022, *301*, 120830−120839.
+
+(31) Sun, Z. X.; Sun, K.; Gao, M. L.; Metin, O. ̈ .; Jiang, H. L. [Optimizing](https://doi.org/10.1002/anie.202206108) Pt Electronic States through Formation of a Schottky Junction on Non-reducible [Metal-Organic](https://doi.org/10.1002/anie.202206108) Frameworks for Enhanced [Photocatalysis.](https://doi.org/10.1002/anie.202206108) *Angew. Chem., Int. Ed.* 2022, *61*, 202206108.
+
+(32) Niu, H.; Huang, L.; Qin, Y.; Qi, R.; Mei, B.; Wu, D.; Li, F.-M.; You, B.; Li, Q.; Yao, Y.; Wang, Z.; Yao, T.; Ding, S.; Guo, W.; Chen, Y.; Su, Y.; Song, F.; Xia, B. Y. [Hydrogen](https://doi.org/10.1021/jacs.4c06904?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Peroxide Spillover on Platinum-Iron Hybrid [Electrocatalyst](https://doi.org/10.1021/jacs.4c06904?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) for Stable Oxygen Reduction. *J. Am. Chem. Soc.* 2024, *146*, 22650−22660.
+
+(33) He, X.; Ding, Y.; Huang, Z.; Liu, M.; Chi, M.; Wu, Z.; Segre, C. U.; Song, C.; Wang, X.; Guo, X. [Engineering](https://doi.org/10.1002/anie.202217439) a self-grown TiO2/Ti-MOF [heterojunction](https://doi.org/10.1002/anie.202217439) with selectively anchored high-density Pt singleatomic cocatalysts for efficient [visible-light-driven](https://doi.org/10.1002/anie.202217439) hydrogen evolution. *Angew. Chem., Int. Ed.* 2023, *62*, 202217439.
+
+(34) Hu, S.-N.; Xu, W.-C.; Tian, N.; Chen, S.-M.; Li, M.-Y.; Shen, J.- F.; Lin, J.-X.; Guo, S.-L.; Huang, X.-Y.; Zhou, Z.-Y.; Sun, S.-G. A [P-O](https://doi.org/10.1039/D3EE04503J) functional group anchoring Pt-Co electrocatalyst for [high-durability](https://doi.org/10.1039/D3EE04503J) [PEMFCs.](https://doi.org/10.1039/D3EE04503J) *Energy Environ. Sci.* 2024, *17*, 3099.
+
+(35) Wei, J.; Tang, H.; Sheng, L.; Wang, R.; Fan, M.; Wan, J.; Wu, Y.; Zhang, Z.; Zhou, S.; Zeng, J. Site-specific [metal-support](https://doi.org/10.1038/s41467-024-44815-0) [interaction](https://doi.org/10.1038/s41467-024-44815-0) to switch the activity of Ir single atoms for oxygen [evolution](https://doi.org/10.1038/s41467-024-44815-0) reaction. *Nat. Commun.* 2024, *15*, 559.
+
+(36) Gao, R.; Wang, J.; Huang, Z.-F.; Zhang, R.; Wang, W.; Pan, L.; Zhang, J.; Zhu, W.; Zhang, X.; Shi, C.; Lim, J.; Zou, J.-J. [Pt/Fe2O3](https://doi.org/10.1038/s41560-021-00826-5) with Pt-Fe pair sites as a catalyst for oxygen [reduction](https://doi.org/10.1038/s41560-021-00826-5) with ultralow Pt [loading.](https://doi.org/10.1038/s41560-021-00826-5) *Nat. Energy* 2021, *6*, 614−623.
+
+(37) Kuang, P.; Ni, Z.; Zhu, B.; Lin, Y.; Yu, J. [Modulating](https://doi.org/10.1002/adma.202303030) the d-Band Center Enables Ultrafine Pt3Fe Alloy [Nanoparticles](https://doi.org/10.1002/adma.202303030) for pH-Universal [Hydrogen](https://doi.org/10.1002/adma.202303030) Evolution Reaction. *Adv. Mater.* 2023, *35*, 2303030.
+
+(38) MoralesGuio, C. G.; Stern, L.; Hu, X. [Nanostructured](https://doi.org/10.1039/C3CS60468C) Hydrotreating Catalysts for [Electrochemical](https://doi.org/10.1039/C3CS60468C) Hydrogen Evolution. *Chem. Soc. Rev.* 2014, *43*, 6555−6569.
+
+(39) Li, Y. J.; Sun, Y. J.; Qin, Y. N.; Zhang, W. Y.; Wang, L.; Luo, M. C.; Yang, H.; Guo, S. J. Recent Advances on [Water-Splitting](https://doi.org/10.1002/aenm.201903120) Electrocatalysis Mediated by [Noble-Metal-Based](https://doi.org/10.1002/aenm.201903120) Nanostructured [Materials.](https://doi.org/10.1002/aenm.201903120) *Adv. Energy Mater.* 2020, *10*, 1903120.
+
+(40) Smiljanic,́ M.; Panic,́ S.; Bele, M.; Ruiz-Zepeda, F.; Pavko, L.; Gasparic ̌ , ̌ L.; Kokalj, A.; Gabersček, ̌ M.; Hodnik, N. [Improving](https://doi.org/10.1021/acscatal.2c03214?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) the HER Activity and Stability of Pt [Nanoparticles](https://doi.org/10.1021/acscatal.2c03214?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) by Titanium [Oxynitride](https://doi.org/10.1021/acscatal.2c03214?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Support. *ACS Catal.* 2022, *12*, 13021−13033.
+
+(41) Yao, Y.; Gu, X.-K.; He, D.; Li, Z.; Liu, W.; Xu, Q.; Yao, T.; Lin, Y.; Wang, H.-J.; Zhao, C.; Wang, X.; Yin, P.; Li, H.; Hong, X.; Wei, S.; Li, W.-X.; Li, Y.; Wu, Y. [Engineering](https://doi.org/10.1021/jacs.9b09391?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) the Electronic Structure of [Submonolayer](https://doi.org/10.1021/jacs.9b09391?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Pt on Intermetallic Pd3Pb via Charge Transfer Boosts the [Hydrogen](https://doi.org/10.1021/jacs.9b09391?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Evolution Reaction. *J. Am. Chem. Soc.* 2019, *141*, 19964−19968.
+
+(42) Chen, W.; Wu, B.; Wang, Y.; Zhou, W.; Li, Y.; Liu, T.; Xie, C.; Xu, L.; Du, S.; Song, M.; Wang, D.; liu, Y.; Li, Y.; Liu, J.; Zou, Y.; Chen, R.; Chen, C.; Zheng, J.; Li, Y.; Chen, J.; Wang, S. [Deciphering](https://doi.org/10.1039/D1EE01395E) the Alternating Synergy between Interlayer Pt [Single-Atom](https://doi.org/10.1039/D1EE01395E) and NiFe Layered Double [Hydroxide](https://doi.org/10.1039/D1EE01395E) for Overall Water Splitting. *Energy Environ. Sci.* 2021, *14*, 6428−6440.
+
+(43) Mehmood, R.; Fan, W.; Hu, X.; Li, J.; Liu, P.; Zhang, Y.; Zhou, Z.; Wang, J.; Liu, M.; Zhang, F. Confirming [High-Valent](https://doi.org/10.1021/jacs.3c02288?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Iron as Highly Active Species of Water Oxidation on the Fe, [V-Coupled](https://doi.org/10.1021/jacs.3c02288?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Bimetallic [Electrocatalyst:](https://doi.org/10.1021/jacs.3c02288?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) In Situ Analysis of X-ray Absorption and Mössbauer [Spectroscopy.](https://doi.org/10.1021/jacs.3c02288?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2023, *145*, 12206−12213.
+
+(44) Lin, L.; Zhang, C.; Liang, C.; Zhang, H.; Wang, Z.; Wang, P.; Zheng, Z.; Cheng, H.; Xing, D.; Dai, Y.; Huang, B.; Liu, Y. [Hydrogen](https://doi.org/10.1002/adma.202402388) Bonds Induced Ultralong Stability of [Conductive](https://doi.org/10.1002/adma.202402388) *π*-d Conjugated [FeCo3\(DDA\)2](https://doi.org/10.1002/adma.202402388) with High OER Activity. *Adv. Mater.* 2024, *36*, 2402388.
+
+(45) Luan, B. B.; Chu, X.; Wang, Y.; Qiao, X.; Jiang, Y.; Zhang, F. M. Construction of COF/COF Organic S-Scheme [Heterostructure](https://doi.org/10.1002/adma.202412653) for [Enhanced](https://doi.org/10.1002/adma.202412653) Overall Water Splitting. *Adv. Mater.* 2024, *36*, 2412653.
+
+(46) Liu, M.; Kong, L.; Wang, X.; He, J.; Bu, X. H. [Engineering](https://doi.org/10.1002/smll.201903410) Bimetal Synergistic [Electrocatalysts](https://doi.org/10.1002/smll.201903410) Based on Metal-Organic Frameworks for Efficient Oxygen [Evolution.](https://doi.org/10.1002/smll.201903410) *Small* 2019, *15*, 1903410.
+
+(47) Qi, Q.; Shao, D.; Zhou, Y.; Wang, Q.; Yu, X.-Y. [Plasma-induced](https://doi.org/10.1039/D3TA02610H) implanting of active species in [metal-organic](https://doi.org/10.1039/D3TA02610H) frameworks for efficient [hydrogen](https://doi.org/10.1039/D3TA02610H) evolution reaction. *J. Mater. Chem. A* 2023, *11*, 15663− 15669.
+
+![](_page_9_Picture_27.jpeg)
+
+![](_page_9_Picture_32.jpeg)# **Supporting Information**
+
+## **S1. Experimental Details**
+
+#### **S1.1. Materials and reagents**
+
+Chemical reagents and materials, including Fe(NO3)3, Ni(NO3)2, bicyclo[1.1.1]pentane (BCP), 1,4 terephthalic acid (H2BDC), naphthalene-2,6-dicarboxylic acid (2,6-NDC), K2PtCl4, N,Ndimethylacetamide (DMA), 1,3-dimethyl-3,4,5,6-tetrahydro-2(1H)-pyrimidinone (DMPU), 1,1,1,5,5,5-hexafluoro-2,4-pentanedione (HFP), CH3OH and HCOOK were purchased from Aladdin and China National Pharmaceutical Group Corporation (Shanghai, China). Deionized water was prepared in the lab.
+
+#### **S1.2. Characterizations**
+
+Powder X-ray diffractions (PXRD) were carried out on a MiniFlex600 X-ray diffractometer (Rigaku, Japan) using a Cu-Ka source equipped within the range of 2θ = 5-50°. The morphological and element mapping of as-prepared samples were measured on scanning electron microscope (SEM, SU8220, HITACHI, Japan) and transmission electron microscope (TEM, JEM-2800F, JEOL, Japan). Energy-dispersive X-ray analyses (EDX) were tested on by using a Quanta 200 spectrometer (FEI Co. Ltd, America). Chemical composition and state of samples were investigated using the X-ray photoelectron spectroscopy (XPS, AXIS ULTRA, Japan). All of the binding energy was corrected using the C *1s* peak as an internal standard at 284.6 eV except for Pt. Inductively coupled plasma optical emission spectroscopy (ICP-OES) spectrometry of samples was tested on AGILENT ICP 730 (Agilent Co. Ltd, America). N<sup>2</sup> adsorption isotherms were carried out on a Micromeritics 3- Flex surface-area and pore-size analyzer at standard atmospheric pressure by the static volumetric method. Acetonitrile-exchanged compounds were loaded into the sample tube and dried at 80 °C to remove the solvent. The X-ray absorption spectra of Fe, Ni and Pt including X-ray absorption nearedge structure (XANES) and extended X-ray absorption fine structure (EXAFS) of the samples were conducted in fluorescence mode at the BL14W1 beamline of the Shanghai Synchrotron Radiation Facility, China, operated at 3.5 GeV with maximum injection currents of 230 mA. The synchrotron beam was monochromatized using a double-crystal monochromator equipped with a Si (111) crystal to reduce the harmonic component of the monochrome beam.
+
+#### **Electrochemical measurements**
+
+All electrochemical measurements were carried out in 0.5 M H2SO<sup>4</sup> and 1 M KOH (pH = 13.7) solution on an electrochemical workstation (CHI 760E) with a three-electrode system. The prepared samples were used as the working electrodes and a graphite rod and Hg2Cl2/Hg (HgO/Hg) electrode in 0.5 M H2SO<sup>4</sup> (1 M KOH) were used as the counter and reference electrode, respectively. The asprepared catalyst (10 mg) and acetylene black (10 mg) was added into 1 mL of mixture solution of water (640 μL), ethanol (310 μL) and Nafion (50 μL) and sonicated for at least 1 h forming ink to prepare electrocatalyst. The ink (150 μL) was dropped on the cleaned carbon cloth for HER, OER and water splitting. The working area of the carbon cloth electrode was 1 cm<sup>2</sup> and the catalyst loading amount was 1.5 mg·cm-2 . Before LSV measurements, cyclic voltammetry curves (CV) were used to activate the working electrode. Linear sweep voltammetry (LSV) measurements were tested at a scan rate of 5 mV∙s-1 with 95 % *iR*-compensation. Electrochemical impedance spectroscopy (EIS) was carried out by applying with 5 mV amplitude in a frequency range from 0.1 Hz to 100 kHz. Electrochemically active surface areas (ECSA) were evaluated by measuring the double-layer capacitance (*C*dl) *via* cyclic voltammograms (CV) in a potential range of 1.1 to 1.2 V *vs.* RHE for OER in 1 M KOH, 0.3 to 0.4 V *vs.* RHE for HER in 0.5 M H2SO<sup>4</sup> and 0.4 to 0.5 V *vs.* RHE for HER in 1 M KOH, in which without redox process by *C*dl = *I*/*ν*, where *I* was the charging current (mA∙cm-2 ), and ν was the scan rate (mV∙s-1 ). The *C*dl values were calculated by using the CV curves from 5 to 100 mV∙s-1 scan rates. The long-term durabilities of these samples were assessed by the *i-t* testing at the potential of *η*100 mA∙cm-2 for 12 h in 0.5 M H2SO<sup>4</sup> and 1 M KOH.
+
+**Faradaic efficiency measurements:** The closed electrolyser was purged with N<sup>2</sup> for several time to completely remove the air in the system. In the N2-saturated system, the generation H<sup>2</sup> over the Pt@MOF-BCP catalyst at 100 mA·cm-2 was based on gas chromatography measurement (GC9790 II, Fuli, Zhejiang, China) every 20 min. Faradaic efficiency of Pt@MOF-BCP was calculated by the ratio of amount of H<sup>2</sup> experimentally generated to the theoretically calculated H2.
+
+Turnover frequencies (TOF) for HER and OER at different potentials were calculated as follow equation:
+
+$$
+TOF = jS/(zFn)
+$$
+
+where *j* (A∙cm-2 ) is the current density, S is the surface area (1 cm-2 ), z the number of electrons transfer, F is the Faraday constant of 96485 C·mol-1 , n is the total metal ions molar number calculated from the EDX results of Pt@MOFs. Assuming that the Ni, Fe and Pt sites were all catalytically active, the TOF values of Pt@MOFs and commercial Pt-based catalysts were calculated.
+
+Metals mass activity was calculated as follow:
+
+mass activity = *j*/mmetal
+
+where *j* (A·cm-2 ) is the current density, mmetal is metal loading mass of catalyst from EDX. In order to compare the metals activities, their activity values have been normalized to all metals.
+
+BET-normalized LSV curves were calculated as follow:
+
+$$
+j_{\text{surface areas}} = j/\text{BET}
+$$
+
+In ICP-OES experiments, Pt@MOFs powder (8.8 mg) was deconstructed by 1 mL nitric acid and 1 mL perchloric acid under 200 <sup>o</sup>C with 1 h. Then the deconstructed-solution and electrolyte after the reaction were transferred to a 10 mL volumetric flask and filled to constant volume with H2O and diluted the obtained solution tenfold. The diluted solution was test on ICP-OES equipment. The actual concentration of metal elements was calculated as:
+
+$$
+C(mg/kg) = \frac{Cx (mg/L) * f * V(mL) * 0.001}{m(g) * 0.001}
+$$
+
+where *C<sup>x</sup>* is the concentration obtained from ICP-OES equipment, *f* is the dilution ratio, *V* is the constant volume, *m* is the sample mass.
+
+### **S1.3. Synthesis**
+
+**Preparation of MOF precursors.** To prepare MOF-BCP, a mixture solution of Fe(NO3)<sup>3</sup> (20 mg), Ni(NO3)<sup>2</sup> (20 mg), BCP (31 mg), TPP (21 mg) and 3 g DMA/H2O (v/v = 5/1) was sealed in a 20 mL vial and heated at 130 °C for 1 day. The precipitate was filtrated and washed with EtOH. The precipitate was placed in a vacuum oven at 60 <sup>o</sup>C to remove the residual EtOH.
+
+To prepare MOF-BDC, a mixture solution of Fe(NO3)<sup>3</sup> (30 mg), Ni(NO3)<sup>2</sup> (30 mg), BDC (33 mg), TPP (30 mg) and 3 g DMA/H2O (v/v = 5/1) was sealed in a 20 mL vial and heated at 130 °C for 12 h. After cooling to room-temperature, the precipitate was centrifuged and washed with EtOH, respectively. The precipitate was placed in a vacuum oven at 60 <sup>o</sup>C to remove the residual EtOH. To prepare MOF-NDC, a solution mixture of Fe(NO3)<sup>3</sup> (30 mg), Ni(NO3)<sup>2</sup> (30 mg), NDC (43 mg), TPP (62 mg), 6 g DMA/DMPU (v/v = 2/1), and 28 μL HFP was sealed in a 20 mL vial and heated
+
+at 130 °C for 1 day. After cooling to room-temperature, the precipitate was centrifuged and washed with EtOH, respectively. The precipitate was placed in a vacuum oven at 60 <sup>o</sup>C to remove the residual EtOH.
+
+**Preparation of MIL-88.** FeCl<sup>3</sup> (0.13 g), Ni(NO3)<sup>2</sup> (0.13 g), BDC (0.1661 g) and DMF (10 mL) were sealed in a 20 mL vial and heated at 100 °C for 12 h. After cooling to room-temperature, the precipitate was centrifuged and washed with EtOH, respectively. The precipitate was placed in a vacuum oven at 60 <sup>o</sup>C to remove the residual EtOH.
+
+**Preparation of Pt@MOFs.** MOF precursors (20 mg) and K2PtCl<sup>4</sup> (10 mg) were added into 10 ml H2O. The mixed solution was ultrasonically dispersed for 10 seconds and heated at 90 °C (for 8 h to MOF-BCP precursor, 12 h for MOF-BDC precursor and MOF-NDC precursor). These products were centrifuged and washed with EtOH and then were placed in a vacuum oven at 60 <sup>o</sup>C to remove the residual EtOH. Then 20 mg precipitates and HCOOK (5 mg) were added into 5 mL CH3OH and 100 μL H2O. The mixed solutions were heated at 110 °C for 6 h (90 °C for MOF-BCP precursor). These products were second centrifuged and washed with EtOH and then were placed in a vacuum oven at 60 <sup>o</sup>C to remove the residual EtOH. Then the final products were obtained, and named as Pt@MOFs.
+
+#### **S1.4 Density Functional Theory (DFT) calculations**
+
+Density functional theory (DFT) calculations were performed using the DMol3 module within the Materials Studio software suite. The exchange-correlation interactions were described using the Perdew-Burke-Ernzerhof (PBE) functional, a widely adopted generalized gradient approximation (GGA) approach. Spin-polarized calculations were implemented with a Quintet numerical polarization basis set. The self-consistent field (SCF) procedure employed a convergence criterion of 1.0 × 10- ⁶ Hartree (Ha) for electronic energy minimization. For geometry optimization, the convergence thresholds were set at 1.0 × 10- ⁵ Ha for energy, 0.002 Ha/Å for maximum force, and 0.005 Å for maximum atomic displacement. To explicitly elucidate the spatial distribution and electronic interactions between Pt clusters and the MOF, Pt atoms were selected as a DFT-optimized model to approximate the electrochemical behavior of the Pt.
+
+![](_page_5_Figure_0.jpeg)
+
+**Figure S1.** The simplified model of MOF precursors.
+
+![](_page_5_Figure_2.jpeg)
+
+**Figure S2.** Computed position of Pt atoms in Pt@MOF-BCP.
+
+![](_page_5_Figure_4.jpeg)
+
+**Figure S3.** Computed position of Pt atoms in Pt@MOF-BDC.
+
+![](_page_5_Figure_6.jpeg)
+
+**Figure S4.** Computed position of Pt atoms in Pt@MOF-NDC.
+
+![](_page_6_Figure_0.jpeg)
+
+**Figure S5.** PXRD patterns of MOF-BCP precursor.
+
+![](_page_6_Figure_2.jpeg)
+
+**Figure S6.** PXRD patterns of MOF-BDC precursor.
+
+![](_page_7_Figure_0.jpeg)
+
+**Figure S7.** PXRD patterns of MOF-NDC precursor.
+
+![](_page_7_Figure_2.jpeg)
+
+**Figure S8.** PXRD patterns of Pt@MOF-BCP.
+
+![](_page_8_Figure_0.jpeg)
+
+**Figure S9.** PXRD patterns of Pt@MOF-BDC.
+
+![](_page_8_Figure_2.jpeg)
+
+**Figure S10.** PXRD patterns of Pt@MOF-NDC.
+
+![](_page_9_Figure_0.jpeg)
+
+**Figure S11.** PXRD patterns of MIL-88 precursor.
+
+![](_page_9_Picture_2.jpeg)
+
+**Figure S12.** SEM image of MIL-88 precursor.
+
+![](_page_10_Figure_0.jpeg)
+
+**Figure S13.** PXRD patterns of Pt@MIL-88.
+
+![](_page_10_Picture_2.jpeg)
+
+**Figure S14.** TEM images of Pt@MIL-88.
+
+![](_page_11_Picture_0.jpeg)
+
+**Figure S15.** SEM image of MOF-BCP precursor.
+
+![](_page_11_Picture_2.jpeg)
+
+**Figure S16.** SEM image of MOF-BDC precursor.
+
+![](_page_12_Picture_0.jpeg)
+
+**Figure S17.** SEM image of MOF-NDC precursor.
+
+![](_page_12_Picture_2.jpeg)
+
+**Figure S18.** SEM image of Pt@MOF-BCP.
+
+![](_page_13_Picture_0.jpeg)
+
+**Figure S19.** SEM image of Pt@MOF-BDC.
+
+![](_page_13_Picture_2.jpeg)
+
+**Figure S20.** SEM image of Pt@MOF-NDC.
+
+![](_page_14_Picture_0.jpeg)
+
+**Figure S21.** Mapping images of Pt@MOF-BCP.
+
+![](_page_14_Figure_2.jpeg)
+
+**Figure S22.** Mapping images of Pt@MOF-BDC.
+
+![](_page_15_Picture_0.jpeg)
+
+**Figure S23.** Mapping images of Pt@MOF-NDC.
+
+| c:ledax32lgene:<br>$2-EDS$<br>3.2 | <b>Element</b>               | Wt %                                 | At %                   |  |  |
+|-----------------------------------|------------------------------|--------------------------------------|------------------------|--|--|
+|                                   | CK                           | 53.27                                | 81.66                  |  |  |
+| 2.6                               | O <sub>K</sub>               | 10.74                                | 12.36                  |  |  |
+|                                   | <b>FeK</b>                   | 05.97                                | 01.97                  |  |  |
+| 1.9                               | <b>Nik</b>                   | 05.39                                | 01.69                  |  |  |
+| <b>KCnt</b>                       | PtL                          | 24.63                                | 02.32                  |  |  |
+| 1.3                               |                              |                                      |                        |  |  |
+| 0.6<br>Ni                         |                              | Fe<br>Mi                             | Pt                     |  |  |
+| 0.0<br>1.00                       | 4.00<br>2.00<br>3.00<br>5.00 | 7.00<br>8.00<br>6.00<br>Energy - keV | 9.00<br>11.00<br>10.00 |  |  |
+
+**Figure S24.** The EDX of Pt@MOF-BCP.
+
+| c:ledax32lgene:<br>$2-EDS$         | <b>Element</b>               | Wt %                                             | At %                         |  |  |
+|------------------------------------|------------------------------|--------------------------------------------------|------------------------------|--|--|
+| 4.2                                | <b>CK</b>                    | 60.91                                            | 82.63                        |  |  |
+| 3.3                                | O <sub>K</sub>               | 13.56                                            | 13.81                        |  |  |
+|                                    | <b>FeK</b>                   | 03.77                                            | 01.10                        |  |  |
+| 2.5                                | <b>Nik</b>                   | 03.30                                            | 00.92                        |  |  |
+| <b>KCnt</b>                        | <b>PtL</b>                   | 18.46                                            | 01.54                        |  |  |
+| 1.7<br><b>Pt</b><br>0.8<br>ົ<br>Ni |                              |                                                  |                              |  |  |
+| Fe<br>0.0<br>1.00                  | 4.00<br>2.00<br>3.00<br>5.00 | Fe<br>Ni<br>7.00<br>8.00<br>6.00<br>Energy - keV | Pt<br>10.00<br>11.00<br>9.00 |  |  |
+
+**Figure S25.** The EDX of Pt@MOF-BDC.
+
+| c:ledax32lgene:<br>2-EDS<br>3.8 | <b>Element</b>               | Wt%                                  | At %                   |
+|---------------------------------|------------------------------|--------------------------------------|------------------------|
+|                                 | <b>CK</b>                    | 65.72                                | 83.70                  |
+| 3.1                             | <b>OK</b>                    | 14.32                                | 13.70                  |
+|                                 | FeK                          | 03.00                                | 00.82                  |
+| 2.3                             | <b>Nik</b>                   | 02.51                                | 00.65                  |
+| <b>KCnt</b>                     | <b>PtL</b>                   | 14.45                                | 01.13                  |
+| 1.5                             |                              |                                      |                        |
+| 0.8<br>Mi<br>Fe                 | Pt                           | Fe<br>Mi                             | Pt                     |
+| 0.0<br>1.00                     | 3.00<br>2.00<br>4.00<br>5.00 | 7.00<br>8.00<br>6.00<br>Energy - keV | 11.00<br>10.00<br>9.00 |
+
+**Figure S26.** The EDX of Pt@MOF-NDC.
+
+**Table S1.** The content of Pt, Fe and Ni of Pt@MOFs determined by ICP-OES.
+
+| Sample     | Fe (wt %) | Ni (wt %) | Pt (wt %) |
+|------------|-----------|-----------|-----------|
+| Pt@MOF-NDC | 5.1       | 5.9       | 8.2       |
+| Pt@MOF-BDC | 4.5       | 4.8       | 16.0      |
+| Pt@MOF-BCP | 4.2       | 4.0       | 22.1      |
+
+![](_page_16_Figure_4.jpeg)
+
+**Figure S27.** Thermogravimetric analyses (TGA) curves for the MOF-BCP and Pt@MOF-BCP.
+
+![](_page_17_Figure_0.jpeg)
+
+**Figure S28.** Thermogravimetric analyses (TGA) curves for the MOF-BDC and Pt@MOF-BDC.
+
+![](_page_17_Figure_2.jpeg)
+
+**Figure S29.** Thermogravimetric analyses (TGA) curves for the MOF-NDC and Pt@MOF-NDC.
+
+![](_page_18_Figure_0.jpeg)
+
+**Figure S30.** The lattice spacings of Pt@MOF-BCP.
+
+![](_page_18_Figure_2.jpeg)
+
+**Figure S31.** N<sup>2</sup> isotherms at 77 K and pore size distribution of MOF-BCP and Pt@MOF-BCP.
+
+![](_page_19_Figure_0.jpeg)
+
+**Figure S32.** N<sup>2</sup> isotherms at 77 K and pore size distribution of MOF-BDC and Pt@MOF-BDC.
+
+![](_page_19_Figure_2.jpeg)
+
+**Figure S33.** N<sup>2</sup> isotherms at 77 K and pore size distribution of MOF-NDC and Pt@MOF-NDC.
+
+| Sample     | (m2<br>·g-1<br>SBET<br>) | Pore size (Å) | Pore Volume (cm3<br>·g-1<br>) |
+|------------|--------------------------|---------------|-------------------------------|
+| Pt@MOF-BCP | 393.4                    | 5.2           | 0.34                          |
+| MOF-BCP    | 820.4                    | 5.4           | 0.52                          |
+| Pt@MOF-BDC | 390.0                    | 5.6           | 0.57                          |
+| MOF-BDC    | 1325.6                   | 5.7           | 1.44                          |
+| Pt@MOF-NDC | 281.2                    | 5.6           | 0.66                          |
+| MOF-NDC    | 960.2                    | 7.0           | 1.40                          |
+
+**Table S2.** The comparison of pore structural parameters of Pt@MOFs and corresponding MOF precursors.
+
+**Note:** Detailed N<sup>2</sup> adsorption-desorption isotherms confirm that MOF-BDC exhibits the largest specific surface area (1325.6 m<sup>2</sup> ·g-1 ) compared with MOF-BCP and MOF-NDC. Reasonably, MOF-BCP, constructed with the shortest ditopic linker displays the smallest surface area and pore volume. MOF-NDC, which coordinated with the longest length ditopic linker (9.1 Å), exhibits the intermediate-values of surface area and pore volume unexpectedly. The excessive ditopic linker of NDC leads to suboptimal pore architecture and partial incomplete coordination, diminishing the porosity advantageous for N₂ adsorption.
+
+![](_page_20_Figure_3.jpeg)
+
+**Figure S34.** The calculated Pt oxidation state derived from XANES spectrum.
+
+![](_page_21_Figure_0.jpeg)
+
+**Figure S35.** EXAFS fitting results of Pt for Pt@MOF-BDC.
+
+![](_page_21_Figure_2.jpeg)
+
+**Figure S36.** EXAFS fitting results of Pt for Pt@MOF-NDC.
+
+| Pt-N<br>1.96<br>±<br>0.05<br>-<br>Pt@MOF-BCP<br>Pt-Fe<br>2.52<br>±<br>0.04<br>0.030<br>-0.9<br>0.0181<br>Pt-Pt<br>2.66<br>±<br>0.01<br>0.011<br>Pt-N<br>1.98<br>±<br>0.07<br>0.013<br>Pt@MOF-BDC<br>Pt-Fe<br>2.63<br>±<br>0.15<br>0.024<br>-6.8<br>±<br>3.7<br>0.0126<br>Pt-Pt<br>2.88<br>±<br>0.24<br>0.021<br>Pt-N<br>2.03<br>±<br>0.11<br>-<br>Pt@MOF<br>Pt-Fe<br>2.50<br>±<br>0.02<br>0.023<br>-9.9<br>0.0173 | Sample | Scattering<br>pair | R (Å) | *σ2<br>(Å2<br>) | ΔE0<br>(eV) | R factor |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------------------|-------|-----------------|-------------|----------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                   |        |                    |       |                 |             |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                   |        |                    |       |                 |             |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                   |        |                    |       |                 |             |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                   |        |                    |       |                 |             |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                   |        |                    |       |                 |             |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                   |        |                    |       |                 |             |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                   |        |                    |       |                 |             |          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                   | NDC    |                    |       |                 |             |          |
+| Pt-Pt<br>2.64<br>±<br>0.00<br>0.017                                                                                                                                                                                                                                                                                                                                                                               |        |                    |       |                 |             |          |
+| Pt foil<br>Pt-Pt<br>2.76<br>±<br>0.12<br>0.005<br>9.5<br>±<br>0.7<br>0.0072                                                                                                                                                                                                                                                                                                                                       |        |                    |       |                 |             |          |
+
+**Table S3.** EXAFS fitting parameters at Pt L-edge for Pt@MOFs. (S<sup>0</sup> <sup>2</sup> = 0.826)
+
+S0 2 : Amplitude reduction factor; R (Å): Interatomic distance;
+
+\*σ<sup>2</sup> (Å<sup>2</sup> ): Debye-Waller factor; In Pt@MOF-BCP and Pt@MOF-NDC, Debye-Waller: debye (temp, thetad). Here, it should be noted that the EXAFS analysis obtained is the average coordination result. Data ranges of Pt@MOF-BCP: 3.3 ≤ k ≤ 10.7 Å-1 , 1.1 ≤ R ≤ 3.3 Å. The number of variable parameters is 7, out of a total of 10.2 independent points. R-factor for this fit is 1.8 %.
+
+Data ranges of Pt@MOF-BDC: 2.7 ≤ k ≤ 10.3 Å-1 , 1.0 ≤ R ≤ 3.0 Å. The number of variable parameters is 7, out of a total of 9.4 independent points. R-factor for this fit is 1.2 %.
+
+Data ranges of Pt@MOF-NDC: 2.8 ≤ k ≤ 8.6 Å-1 , 1.2 ≤ R ≤ 3.1 Å. The number of variable parameters is 7, out of a total of 7.6 independent points. R-factor for this fit is 1.7 %.
+
+Data ranges of Pt foil: 3.4 ≤ k ≤12.6 Å-1 , 1.5 ≤ R ≤ 3.1 Å. The number of variable parameters is 4, out of a total of 9.3 independent points. R-factor for this fit is 0.7 %.
+
+Here, it should be noted that the EXAFS analysis obtained is the average coordination result.
+
+![](_page_23_Figure_0.jpeg)
+
+**Figure S37.** XPS spectra of Fe *2p* for Pt@MOFs and the corresponding MOF precursors.
+
+![](_page_23_Figure_2.jpeg)
+
+**Figure S38.** XPS spectra of Ni *2p* for Pt@MOFs and the corresponding MOF precursors.
+
+![](_page_23_Figure_4.jpeg)
+
+**Figure S39.** (a) XPS spectra of Fe *2p* for Pt@MOFs. (b) XPS spectra of Ni *2p* for Pt@MOFs. (c) The area ration of Fe3+ and Ni2+ of Pt@MOFs.
+
+**Note:** The gradual increase in FeIII and the decrease in NiII area ratios with decreasing pore size of MOF precursor indicate the presence of more high-valent metal center in Pt@MOF-BCP, which can be attributed to the stronger Pt-support interaction.
+
+![](_page_24_Figure_0.jpeg)
+
+**Figure S40.** Normalized Fe K-edge XANES spectra for Pt@MOF-BCP, Fe2O3, FeO and Fe foil.
+
+![](_page_24_Figure_2.jpeg)
+
+**Figure S41.** FT-EXAFS spectra of Fe K-edge in Pt@MOF-BCP.
+
+![](_page_25_Figure_0.jpeg)
+
+**Figure S42.** Normalized Ni K-edge XANES spectra for Pt@MOF-BCP, NiO and Ni foil.
+
+![](_page_25_Figure_2.jpeg)
+
+**Figure S43.** FT-EXAFS spectra of Ni K-edge in Pt@MOF-BCP.
+
+![](_page_26_Figure_0.jpeg)
+
+**Figure S44.** EXAFS fitting results of Fe for Pt@MOF-BCP.
+
+![](_page_26_Figure_2.jpeg)
+
+**Figure S45.** EXAFS fitting results of Ni for Pt@MOF-BCP.
+
+| Sample     | Scattering<br>pair | R (Å)             | *σ2<br>(Å2<br>) | ΔE0<br>(eV)      | R factor |
+|------------|--------------------|-------------------|-----------------|------------------|----------|
+|            | Fe-O               | 2.00<br>±<br>0.17 | 0.013           |                  |          |
+| Pt@MOF-BCP | Fe-Fe              | 2.64<br>±<br>0.22 | 0.031           | ±<br>-3.7<br>3.1 | 0.0196   |
+|            | Fe-Pt              | 2.62<br>±<br>0.02 | 0.016           |                  |          |
+
+**Table S4.** EXAFS fitting parameters at Fe K-edge for Pt@MOF-BCP sample. (S<sup>0</sup> <sup>2</sup> = 0.826)
+
+Data ranges: 2.5 ≤ k ≤ 9.5 Å-1 , 1.0 ≤ R ≤ 3.0 Å. The number of variable parameters is 7, out of a total of 8.7 independent points. R-factor for this fit is 1.9 %.
+
+**Table S5.** EXAFS fitting parameters at Ni K-edge for Pt@MOF-BCP sample. (S<sup>0</sup> <sup>2</sup> = 0.826)
+
+| Sample     | Scattering<br>pair | R (Å)             | *σ2<br>(Å2<br>) | ΔE0<br>(eV)      | R factor |
+|------------|--------------------|-------------------|-----------------|------------------|----------|
+| Pt@MOF-BCP | Ni-O               | 2.05<br>±<br>0.03 | 0.006           |                  |          |
+|            | Ni-Ni              | 2.55<br>±<br>0.11 | 0.034           | ±<br>-3.9<br>1.3 | 0.0133   |
+|            | Ni-Pt              | 2.67<br>±<br>0.02 | 0.018           |                  |          |
+
+Data ranges: 2.5 ≤ k ≤ 10.3 Å-1 , 1.0 ≤ R ≤ 3.0 Å. The number of variable parameters is 7, out of a total of 9.7 independent points. R-factor for this fit is 1.3 %.
+
+![](_page_27_Figure_6.jpeg)
+
+**Figure S46.** LSV curves of MOF precursors, Pt@MOFs and 40% Pt/C for HER in 0.5 M H2SO4.
+
+![](_page_28_Figure_0.jpeg)
+
+**Figure S47.** LSV curves of Pt@MIL-88, Pt@MOF-BCP and 40% Pt/C in 0.5 M H2SO<sup>4</sup> for HER.
+
+![](_page_28_Figure_2.jpeg)
+
+**Figure S48.** BET-normalized LSV curves of Pt@MOFs.
+
+**Note:** BET-normalized LSV curves indicated that Pt@MOF-BCP required the lowest initial overpotential to drive the HER, indicating its superior intrinsic HER catalytic activity.
+
+| Sample     | TOF (s-1<br>) | Mass activity (A·g-1<br>) |
+|------------|---------------|---------------------------|
+| Pt@MOF-BCP | 0.249         | 122.1                     |
+| Pt@MOF-BDC | 0.173         | 80.3                      |
+| Pt@MOF-NDC | 0.107         | 47.1                      |
+| Pt/C       | 0.211         | 81.6                      |
+
+**Table S6.** The TOF value and mass activity of Pt@MOFs and Pt/C for HER in 0.5 M H2SO<sup>4</sup> at *η* = 100 mV.
+
+![](_page_29_Figure_2.jpeg)
+
+**Figure S49.** Tafel slopes of Pt@MOFs and 40% Pt/C for HER in 0.5 M H2SO4.
+
+![](_page_29_Figure_4.jpeg)
+
+**Figure S50.** The Electrochemical impedance spectra (EIS) of Pt@MOFs and 40% Pt/C for HER in 0.5 M H2SO4.
+
+![](_page_30_Figure_0.jpeg)
+
+**Figure S51.** *C*dl calculation of Pt@MOFs and 40% Pt/Cfor HER in 0.5 M H2SO4.
+
+![](_page_30_Figure_2.jpeg)
+
+**Figure S52.** Comparison of performance metrics of Pt@MOFs and 40% Pt/C for HER.
+
+![](_page_31_Figure_0.jpeg)
+
+**Figure S53.** (a-c) LSV curves of MOF precursors, Pt@MOFs and 40% Pt/C for HER in 1 M KOH. (d) LSV curves of Pt@MOFs and 40% Pt/C for HER in 1 M KOH.
+
+![](_page_31_Figure_2.jpeg)
+
+**Figure S54.** Tafel slopes of Pt@MOFs and 40% Pt/C for HER in 1 M KOH.
+
+![](_page_32_Figure_0.jpeg)
+
+**Figure S55.** The Electrochemical impedance spectra (EIS) of Pt@MOFs and 40% Pt/C for HER in 1 M KOH.
+
+![](_page_32_Figure_2.jpeg)
+
+**Figure S56.** *C*dl calculation of Pt@MOFs and 40% Pt/C for HER in 1 M KOH.
+
+**Note:** Impressively, a current density of 10 mA·cm-2 for Pt@MOF-BCP was obtained at an ultralow overpotential of 56.7 mV in 1 M KOH for HER, highlighting its promising applicability across a broad pH range (Figure S53). Tafel value of Pt@MOF-BCP (106.7 mV·dec-1 ) was smaller than that of other sample, demonstrating faster HER kinetics in alkaline media (Figure S54). *R*ct of Pt@MOF-BCP was low than that of Pt@MOF-BDC and Pt@MOF-NDC catalysts, primarily due to the excellent mass transfer by modulated electronic structure of Pt (Figure S55). Additionally, the larger *C*dl value and higher specific activity further confirmed the superior intrinsic HER activity of Pt@MOF-BCP in 1 M KOH (Figure S56).
+
+![](_page_33_Figure_1.jpeg)
+
+**Figure S57.** Modeling of the elementary electrochemical steps for HER on the Pt site of Pt@MOF-BCP.
+
+**Note:** The first step involves the Volmer reaction, where protons are reduced to form adsorbed hydrogen on the Pt site of the catalyst (H<sup>+</sup> + e-→ H\*). Subsequently, the followed by the Heyrovsky step, in which adsorbed H\* reacts with another proton and electron to generate a hydrogen molecule (H\* + H<sup>+</sup> + e- → H2) (Figure S57).
+
+![](_page_33_Figure_4.jpeg)
+
+**Figure S58.** Schematic illustration of the crystal structure models of the Pt@MOF-BCP with adsorbed H\* intermediates.
+
+![](_page_33_Figure_6.jpeg)
+
+**Figure S59.** Schematic illustration of the crystal structure models of the Pt cluster with adsorbed H\* intermediates.
+
+**Note:** To investigate the effect of noble metal loading, a series of Ptx@MOF-BCP catalysts with varying Pt contents were prepared, where x represents the input amount of Pt. SEM, TEM and HAADF-STEM images of Pt5@MOF-BCP and Pt15@MOF-BCP revealed that the spindle-like morphology was maintained after introducing Pt clusters (Figures S60-S65). And mapping images showed that the uniform distribution of Pt, Fe and Ni (Figures S66-S67). Meanwhile, Pt15@MOF-BCP showed the higher Pt loading content compared with Pt5@MOF-BCP (Figures S68-S69). Electrochemical analysis indicated that the HER performance in 0.5 M H2SO<sup>4</sup> and 1 M KOH of Pt10@MOF-BCP (named as Pt@MOF-BCP in the manuscript) (57.5 mV/218.7 mV) was much better than that of Pt5@MOF-BCP (110.5 mV/292.7 mV) and Pt15@MOF-BCP (131.5 mV/437.7 mV) at 100 mA·cm-2 (Figure S70).
+
+![](_page_34_Picture_1.jpeg)
+
+**Figure S60.** SEM image of Pt5@MOF-BCP.
+
+![](_page_34_Picture_3.jpeg)
+
+**Figure S61.** TEM images of Pt5@MOF-BCP.
+
+![](_page_35_Picture_0.jpeg)
+
+**Figure S62.** HAADF-STEM images of Pt5@MOF-BCP.
+
+![](_page_35_Picture_2.jpeg)
+
+**Figure S63.** SEM image of Pt15@MOF-BCP.
+
+![](_page_35_Figure_4.jpeg)
+
+**Figure S64.** TEM images of Pt15@MOF-BCP.
+
+![](_page_36_Picture_0.jpeg)
+
+**Figure S65.** HAADF-STEM images of Pt15@MOF-BCP.
+
+![](_page_36_Figure_2.jpeg)
+
+**Figure S66.** Mapping images of Pt5@MOF-BCP.
+
+![](_page_37_Figure_0.jpeg)
+
+**Figure S67.** Mapping images of Pt15@MOF-BCP.
+
+| c:ledax32\gene<br>$2-EDS$<br>5.1 | <b>Element</b>               | <b>Wt %</b>                                  | At %                    |
+|----------------------------------|------------------------------|----------------------------------------------|-------------------------|
+|                                  | C K                          | 65.42                                        | 85.91                   |
+| 4.1                              | O <sub>K</sub>               | 10.77                                        | 10.62                   |
+|                                  | FeK                          | 04.21                                        | 01.19                   |
+| 3.0                              | <b>Nik</b>                   | 03.71                                        | 01.00                   |
+| <b>KCnt</b>                      | <b>PtL</b>                   | 15.90                                        | 01.29                   |
+| 2.0                              | Pt                           |                                              |                         |
+| o<br>1.0<br>Ni                   |                              | Fe<br>Mi                                     | Pt                      |
+| 0.0<br>1.00                      | 3.00<br>4.00<br>2.00<br>5.00 | 7.00<br>8.00<br>9.00<br>6.00<br>Energy - keV | 12.00<br>10.00<br>11.00 |
+
+**Figure S68.** The EDX of Pt5@MOF-BCP.
+
+| c:ledax32\gene:<br>$2-EDS$ | <b>Element</b>                               | Wt %                         | At %                    |  |
+|----------------------------|----------------------------------------------|------------------------------|-------------------------|--|
+| 4.1                        | CK                                           | 56.90                        | 83.79                   |  |
+| 3.2                        | O <sub>K</sub>                               | 09.48                        | 10.48                   |  |
+|                            | <b>FeK</b>                                   | 06.84                        | 02.17                   |  |
+| 2.4                        | <b>Nik</b>                                   | 05.40                        | 01.63                   |  |
+| <b>KCnt</b>                | <b>PtL</b>                                   | 21.39                        | 01.94                   |  |
+| 1.6<br>o<br>Fe<br>Ni       |                                              |                              |                         |  |
+| 0.8<br>Fe<br>Ni<br>Pt      |                                              |                              |                         |  |
+| 0.0<br>1.00                | 2.00<br>4.00<br>5.00<br>3.00<br>Energy - keV | 8.00<br>9.00<br>7.00<br>6.00 | 12.00<br>10.00<br>11.00 |  |
+
+**Figure S69.** The EDX of Pt15@MOF-BCP.
+
+![](_page_38_Figure_0.jpeg)
+
+**Figure S70.** (a) LSV curves of Ptx@MOF-BCP and 40% Pt/C for HER in 0.5 M H₂SO4. (b) LSV curves of Ptx@MOF-BCP and 40% PtC for HER in 1 M KOH. (Pt10@MOF-BCP is abbreviated to Pt@MOF-BCP in manuscript).
+
+![](_page_38_Figure_2.jpeg)
+
+**Figure S71.** LSV curves of Pt@MIL-88, Pt@MOF-BCP and RuO<sup>2</sup> for OER in 1 M KOH.
+
+![](_page_39_Figure_0.jpeg)
+
+**Figure S72.** LSV curves of Pt@MOFs, Pt/C and RuO<sup>2</sup> for OER in 1 M KOH.
+
+**Table S7.** The TOF value and mass activity of Pt@MOF-BCP, Pt/C and RuO<sup>2</sup> for OER in 1 M KOH at *η* = 300 mV.
+
+| Sample     | TOF (s-1<br>) | Mass activity (A·g-1<br>) |
+|------------|---------------|---------------------------|
+| Pt@MOF-BCP | 0.043         | 42.1                      |
+| RuO2       | 0.00002       | 0.406                     |
+| Pt/C       | 0.00002       | 2.0                       |
+
+![](_page_39_Figure_4.jpeg)
+
+**Figure S73.** Bode plots of Pt@MOFs and RuO<sup>2</sup> for OER in 1 M KOH.
+
+![](_page_40_Figure_0.jpeg)
+
+**Figure S74.** Tafel slopes of Pt@MOFs and RuO<sup>2</sup> for OER in 1 M KOH.
+
+![](_page_40_Figure_2.jpeg)
+
+**Figure S75.** The Electrochemical impedance spectra (EIS) of Pt@MOFs and RuO<sup>2</sup> for OER in 1 M KOH.
+
+![](_page_41_Figure_0.jpeg)
+
+**Figure S76.** *C*dl calculation of Pt@MOFs and RuO<sup>2</sup> for OER in 1 M KOH.
+
+![](_page_41_Figure_2.jpeg)
+
+**Figure S77.** Modeling of the elementary electrochemical steps for OER on the Pt site of Pt cluster.
+
+![](_page_42_Figure_0.jpeg)
+
+**Figure S78.** Modeling of the elementary electrochemical steps for OER on the Pt site of Pt@MOF-BCP.
+
+**Note:** Following the four-step proton-coupled electron transfer (PCET) mechanism, the OER process in an alkaline solution was illustrated by local structural configurations with adsorbed intermediates (Figures S77-S78). Initially, OHis adsorbed onto the metal active site (M) to form M-OH\*, followed by deprotonation and electron transfer to generate M-O\*. Subsequently, the M-O\* undergoes a nucleophilic attack by another OHto form M-OOH\* intermediate. Finally, O<sup>2</sup> is released via deportation of the M-OOH\*, regenerating the metal active site for the next OER cycle.
+
+![](_page_42_Figure_3.jpeg)
+
+**Figure S79.** Free energy diagrams of the OER process on the Pt sites of Pt@MOF-BCP and Pt cluster at 0 V.
+
+![](_page_43_Figure_0.jpeg)
+
+**Figure S80.** Free energy diagrams of the OER process on the Pt sites of Pt@MOF-BCP and Pt cluster at 1.23 V.
+
+| Catalyst              | HER/OER Catalysis | (mV)<br>10 mA·cm-2 | Ref.                                           |
+|-----------------------|-------------------|--------------------|------------------------------------------------|
+| Pt@MOF-BCP            | HER (0.5 M H2SO4) | 2.5                |                                                |
+| Pt@MOF-BDC            | HER (0.5 M H2SO4) | 3.5                | This work                                      |
+| Pt@MOF-NDC            | HER (0.5 M H2SO4) | 6.5                |                                                |
+| CoP/Co-MOF            | HER (0.5 M H2SO4) | 27                 | Angew. Chem. Int. Ed. 2019,<br>58, 4679.       |
+| AB&CTGU-5 (1:4)       | HER (0.5 M H2SO4) | 18                 | Angew. Chem. Int. Ed.,<br>2017,<br>56, 13001.  |
+| CoBDC/MXene           | HER (0.5 M H2SO4) | 29                 | Adv. Funct. Mater.,<br>2023, 33,<br>2210322.   |
+| Pt/MOF-O              | HER (0.5 M H2SO4) | 29                 | J. Am. Chem. Soc. 2021, 143,<br>16512.         |
+| P-Ni MOF/POM          | HER (0.5 M H2SO4) | 35                 | J. Mater. Chem. A, 2023,11,<br>15663-15669.    |
+| Co-BPDC               | HER (0.5 M H2SO4) | 37                 | Small, 2023,<br>19, 2301850.                   |
+| Ir@Ni-NDC             | HER (0.5 M H2SO4) | 41                 | Angew. Chem. Int. Ed. 2023,<br>62, 202302220.  |
+| PtCu–MoO2@C           | HER (0.5 M H2SO4) | 42                 | J. Mater. Chem. A, 2020, 8,<br>19348.          |
+| MOF-808-EDTA          | HER (0.5 M H2SO4) | 42.1               | J. Mater. Chem. A, 2019,<br>7,<br>20239.       |
+| Pt@UiO-66-SH          | HER (0.5 M H2SO4) | 57                 | Inorg. Chem. 2022, 61, 13271.                  |
+| MIL-(IrNiFe)@NF       | HER (0.5 M H2SO4) | 69                 | J. Mater. Chem. A, 2023,<br>11,<br>15663.      |
+| NU-1000               | HER (0.5 M H2SO4) | 101                | Inorg. Chem.,<br>2023, 62, 7195.               |
+| Pt@MOF-BCP            | OER (1 M KOH)     | 265                |                                                |
+| Pt@MOF-BDC            | OER (1 M KOH)     | 271                | This work                                      |
+| Pt@MOF-NDC            | OER (1 M KOH)     | 275                |                                                |
+| Cu-doped NiFe<br>MOFs | OER (1 M KOH)     | 200                | Adv. Energy Mater.,<br>2023, 13,<br>2301224.   |
+| 2D MOF NSs            | OER (1 M KOH)     | 221                | Small,<br>2022, 18, 2201076.                   |
+| Ni-M@C-400            | OER (1 M KOH)     | 229                | Nano Res.,<br>2022, 15,<br>5884.               |
+| NiFe-btz              | OER (1 M KOH)     | 239                | Adv. Sci.,<br>2022, 9, 2203712.                |
+| FeNiBDC/SSM           | OER (1 M KOH)     | 239                | Appl. Catal. B Environ., 2023,<br>325, 122343. |
+| CTGU-10a2-d2          | OER (1 M KOH)     | 240                | Angew. Chem. Int. Ed.,<br>2019,<br>58, 4227.   |
+| Ni8Co2-BDC            | OER (1 M KOH)     | 274                | Adv. Funct. Mater.,<br>2023, 34,<br>2304380.   |
+| FN-2                  | OER (1 M KOH)     | 275                | Small,<br>2019, 15, 1903410.                   |
+| Fe(py)2Ni(CN)4        | OER (1 M KOH)     | 285                | Inorg. Chem.,<br>2022, 61, 7095.               |
+
+**Table S8.** Comparison of electrocatalytic performance for HER catalysts in 0.5 M H2SO4. and OER in 1 M KOH.
+
+![](_page_45_Figure_0.jpeg)
+
+**Figure S81.** XRD pattern of Pt@MOF-BCP after HER test in 0.5 M H2SO4.
+
+![](_page_45_Picture_2.jpeg)
+
+**Figure S82.** SEM image of Pt@MOF-BCP after HER test in 0.5 M H2SO4.
+
+![](_page_46_Picture_0.jpeg)
+
+**Figure S83.** HAADF-STEM image of Pt@MOF-BCP after HER test in 0.5 M H2SO4.
+
+![](_page_46_Figure_2.jpeg)
+
+**Figure S84.** (a) The EDX of Pt@MOF-BCP after HER test in 0.5 M H2SO4. (b) The thermogravimetric analyses (TGA) curves of Pt@MOF-BCP after HER test in 0.5 M H2SO4. (c) The content of Pt, Fe and Ni of Pt@MOF-BCP in 40 mL 0.5 M H2SO<sup>4</sup> electrolyte after HER test. (d) Comparison of the Pt mass content after HER test with the pristine sample in 0.5 M H2SO4.
+
+**Note:** The post-reaction electrolyte was collected and analyzed after 1000 cyclic voltammetry (CV) cycles using a carbon cloth-supported catalyst with a loading of 1.5 mg·cm- ², enabling the evaluation of its electrochemical durability under operational conditions. The post-reaction electrolyte was then diluted tenfold to analyze concentrations of metallic species *via* ICP-OES.
+
+![](_page_47_Figure_0.jpeg)
+
+**Figure S85.** XPS spectra of (a) Pt *4f*, (b) Fe *2p* and (c) Ni *2p* of Pt@MOF-BCP after HER test in 0.5 M H2SO4.
+
+![](_page_47_Figure_2.jpeg)
+
+**Figure S86.** Normalized Pt L-edge XANES spectra of Pt@MOF-BCP after HER test in 0.5 M H2SO4.
+
+![](_page_48_Figure_0.jpeg)
+
+**Figure S87.** EXAFS fitting results of Pt for Pt@MOF-BCP after HER test in 0.5 M H2SO4.
+
+**Table S9.** EXAFS fitting parameters at Pt L-edge for Pt@MOF-BCP sample after HER test in 0.5 M H2SO4. (S<sup>0</sup> <sup>2</sup> = 0.826)
+
+| Sample     | Scattering<br>pair | R (Å)             | *σ2<br>(Å2<br>) | ΔE0<br>(eV) | R factor |
+|------------|--------------------|-------------------|-----------------|-------------|----------|
+|            | Pt-N               | 1.82<br>±<br>0.09 | 0.018           |             |          |
+| Pt@MOF-BCP | Pt-Fe              | 2.50<br>±<br>0.02 | 0.018           | -7.6        | 0.032    |
+|            | Pt-Pt              | 2.80<br>±<br>0.15 | 0.016           |             |          |
+
+Data ranges: 3 ≤ k ≤ 12.2 Å-1 , 1 ≤ R ≤ 2.5 Å. The number of variable parameters is 7, out of a total of 8.5 independent points. R-factor for this fit is 3.2 %.
+
+![](_page_49_Figure_0.jpeg)
+
+**Figure S88.** The *i*-*t* test for HER in 1 M KOH.
+
+![](_page_49_Figure_2.jpeg)
+
+**Figure S89.** XRD pattern of Pt@MOF-BCP after HER test in 1 M KOH.
+
+![](_page_50_Picture_0.jpeg)
+
+**Figure S90.** SEM image of Pt@MOF-BCP after HER in 1 M KOH.
+
+![](_page_50_Picture_2.jpeg)
+
+**Figure S91.** TEM image of Pt@MOF-BCP after HER in 1 M KOH.
+
+![](_page_51_Figure_0.jpeg)
+
+**Figure S92.** HAADF-STEM image of Pt@MOF-BCP after HER test in 1 M KOH.
+
+![](_page_51_Figure_2.jpeg)
+
+**Figure S93.** XPS spectra of (a) Pt *4f*, (b) Fe *2p* and (c) Ni *2p* of Pt@MOF-BCP after HER test in 1 M KOH.
+
+**Note:** Pt@MOF-BCP also exhibited an excellent stability after the HER durability test in 1 M KOH (Figure S88). The XRD, SEM, TEM and HAADF-STEM revealed that the original structure and morphology of Pt@MOF-BCP were well retained after HER. XPS analysis demonstrated that the valence state of Pt clusters remained largely unchanged, confirming the electronic structure stability of the catalyst under alkaline HER conditions (Figures S89-S93).
+
+![](_page_52_Figure_0.jpeg)
+
+**Figure S94.** XRD pattern of Pt@MOF-BCP after OER test in 1 M KOH.
+
+![](_page_52_Picture_2.jpeg)
+
+**Figure S95.** SEM image of Pt@MOF-BCP for OER in 1 M KOH.
+
+![](_page_53_Picture_0.jpeg)
+
+**Figure S96.** TEM image of Pt@MOF-BCP for OER in 1 M KOH.
+
+![](_page_53_Figure_2.jpeg)
+
+**Figure S97.** HAADF-STEM image of Pt@MOF-BCP for OER in 1 M KOH.
+
+![](_page_54_Figure_0.jpeg)
+
+**Figure S98.** XPS spectra of (a) Pt *4f*, (b) Fe *2p* and (c) Ni *2p* of Pt@MOF-BCP after OER test in 1 M KOH.
+
+**Note:** XRD pattern, along with SEM, TEM and HAADF-STEM images of Pt@MOF-BCP, showed no evidence of Pt aggregation or MOF structural degradation after OER testing in 1.0 M KOH (Figures S94-S97). The Pt *4f* XPS spectra exhibited only slight changes. In addition, the appearance of partially high-valence metal centers (Fe/Ni) in Pt@MOF-BCP after OER process is attributed to the inevitable oxidation process that occurs under alkaline OER conditions (Figure S98).
+
+![](_page_54_Figure_3.jpeg)
+
+**Figure S99.** Tafel slopes of Pt@MOFs and 40% Pt/C RuO<sup>2</sup> for overall water splitting in 1M KOH.
+
+![](_page_55_Figure_0.jpeg)
+
+**Figure S100.** Theoretical and experimental amounts of H<sup>2</sup> evolved during the overall water splitting.
+
+![](_page_55_Picture_2.jpeg)
+
+**Figure S101.** TEM image after *i*-*t* test of Pt@MOF-BCP for overall water splitting.
+
+![](_page_55_Figure_4.jpeg)
+
+**Figure S102.** HAADF-STEM image after *i*-*t* test of Pt@MOF-BCP for overall water splitting.
+
+根据提供的文献内容，生成实验流程复现文献实验

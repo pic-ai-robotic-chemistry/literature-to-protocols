@@ -1,0 +1,690 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# **nature materials**
+
+**Article** <https://doi.org/10.1038/s41563-024-02029-1>
+
+# **Trace benzene capture by decoration of structural defects in metal–organic framework materials**
+
+Received: 22 December 2023
+
+Accepted: 16 September 2024
+
+Published online: 29 October 2024
+
+ [C](http://crossmark.crossref.org/dialog/?doi=10.1038/s41563-024-02029-1&domain=pdf)heck for updates
+
+**Yu Han <sup>1</sup> , Wenyuan Huang2 , Meng He  <sup>1</sup> , Bing An <sup>1</sup> , Yinlin Chen1 , Xue Han  <sup>3</sup> , Lan An4 , Meredydd Kippax-Jones1,5, Jiangnan Li  <sup>2</sup> , Yuhang Yang4 , Mark D. Frogley  <sup>5</sup> , Cheng Li <sup>6</sup> , Danielle Crawshaw1 , Pascal Manuel  <sup>7</sup> , Svemir Rudić  <sup>7</sup> , Yongqiang Cheng <sup>6</sup> , Ian Silverwood  <sup>7</sup> , Luke L. Daemen6 , Anibal J. Ramirez-Cuesta <sup>6</sup> , Sarah J. Day5 , Stephen P. Thompson <sup>5</sup> , Ben F. Spencer 8,9, Marek Nikiel8,9,10, Daniel Lee <sup>4</sup> , Martin Schröder 1 & Sihai Yang 1,2**
+
+Capture of trace benzene is an important and challenging task. Metal– organic framework materials are promising sorbents for a variety of gases, but their limited capacity towards benzene at low concentration remains unresolved. Here we report the adsorption of trace benzene by decorating a structural defect in MIL-125-defect with single-atom metal centres to aford MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn; MIL-125, Ti8O8(OH)4(BDC)6 where H2BDC is 1,4-benzenedicarboxylic acid). At 298 K, MIL-125-Zn exhibits a benzene uptake of 7.63 mmol g−1 at 1.2 mbar and 5.33 mmol g−1 at 0.12 mbar, and breakthrough experiments confrm the removal of trace benzene (from 5 to <0.5 ppm) from air (up to 111,000 min g−1 of metal–organic framework), even after exposure to moisture. The binding of benzene to the defect and open Zn(II) sites at low pressure has been visualized by difraction, scattering and spectroscopy. This work highlights the importance of fne-tuning pore chemistry for designing adsorbents for the removal of air pollutants.
+
+Benzene is known as a genotoxic carcinogen with no safe level of exposure as recommended by the World Health Organizatio[n1](#page-6-0),[2](#page-6-1) . The ubiquitous presence of benzene in both indoor and outdoor settings underscores the need to remove trace benzene for the protection of health and the environment. Currently, oxidation[3](#page-6-2) and biological treatment[4](#page-6-3) are widely used for the removal of benzene, but the formation of hazardous by-products and the low efficiency of these processes restrict their application. Physisorption of benzene has attracted growing interest due to the cost-effective regeneration of the sorbent[5](#page-6-4)[–7](#page-7-0) . However, the lack of order and/or structural tunability in conventional porous materials, such as activated carbons, mesoporous silica and zeolites, render the precise control of pore structure and sorption properties extremely difficult[8](#page-7-1)[,9](#page-7-2) .
+
+Metal–organic framework (MOF) materials show great promise as sorbents for toxic gases owing to their high porosity and tunable pore enviroment[10–](#page-7-3)[13.](#page-7-4) A number of MOFs show high benzene uptakes that
+
+1 Department of Chemistry, University of Manchester, Manchester, UK. 2 College of Chemistry and Molecular Engineering, Beijing National Laboratory for Molecular Sciences, Peking University, Beijing, China. 3 College of Chemistry, Beijing Normal University, Beijing, China. 4 Department of Chemical Engineering, University of Manchester, Manchester, UK. 5 Diamond Light Source, Harwell Science and Innovation Campus, Didcot, UK. 6 Chemical and Engineering Materials Division (CEMD), Neutron Sciences Directorate, Oak Ridge National Laboratory, Oak Ridge, TN, USA. 7 ISIS Neutron and Muon Source, STFC Rutherford Appleton Laboratory, Chilton, UK. 8 Photon Science Institute, University of Manchester, Manchester, UK. 9 Department of Materials, University of Manchester, Manchester, UK. 10National Graphene Institute, University of Manchester, Manchester, UK.  e-mail: [m.schroder@manchester.ac.uk;](mailto:m.schroder@manchester.ac.uk) [Sihai.Yang@pku.edu.cn](mailto:Sihai.Yang@pku.edu.cn)
+
+![](_page_1_Figure_2.jpeg)
+
+<span id="page-1-0"></span>**Fig. 1 | Schematic of decoration of defects by single-atom Zn(II) sites in MIL-125-defect. a**, The crystal structure of MIL-125. The tetrahedral and octahedral cages are highlighted by pink and purple spheres, respectively, and hydrogen atoms are omitted for clarity. **b**, Schematic representation of the decoration of structural defects (missing metal centres) in the {Ti7O7(OH)3} cluster of
+
+MIL-125-defect by Zn(II) single-atom sites to afford a bimetallic {Ti7ZnO7(OH)4} cluster of MIL-125-Zn. The coordinated water molecules on Zn(II) were removed by activation under heating and vacuum to give unsaturated Zn(II) sites. Colour code: Ti, lime; Zn, turquoise; C, grey; O, red; H, white.
+
+outperform commercialized sorbents, such as MIL-101 (16.7 mmol g−1 at 303 K and 80 mbar; MIL, Material of Institute Lavoisier), MOF-177 (16.8 mmol g−1 at 298 K and relative pressure *P*/*P*0 = 1) and MOF-5 (12.8 mmol g−1 at 298 K and *P*/*P*0 = 1; *P*0 refers to the vapour pressure of benzene at saturation; *P* refers to measured vapour pressure of benzene)[14](#page-7-7)[–17.](#page-7-8) However, these uptakes at a relatively high partial pressure do not guarantee optimal performance under real-world conditions at low partial pressures. Several MOFs have been tested for benzene adsorption at low pressure (*P* < 1.2 mbar or *P*/*P*0 < 0.01), but they often exhibit low capacities[18](#page-7-9)[–25](#page-7-10). Crystal engineering and pore manipulation have proven effective in increasing benzene uptake in MOFs at low pressure, with notable examples including BUT-55 (3.28 mmol g−1 at 7.3 Pa and 298 K) and CuII/UiO-66 (3.92 mmol g−1 at 1.2 mbar and 298 K)[20](#page-7-11),[21.](#page-7-12) However, the effective control of pore chemistry to improve benzene capture remains a substantial challenge. Furthermore, direct observation of the dynamics of binding interactions of captured benzene molecules within the confined voids of MOF hosts is largely lacking, impeding the design of improved sorbent materials.
+
+Here we report the control of pore chemistry by the decoration of structural defects (missing metal centres) in MIL-125-defect by introduction of divalent single-atom sites to afford a series of bimetallic materials, MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn). At 298 K, MIL-125-Zn exhibits a benzene uptake of 7.63 mmol g−1 at 1.2 mbar and 5.33 mmol g−1 at 0.12 mbar, a defining adsorption for porous solids. Dynamic breakthrough experiments demonstrate the potential of MIL-125-Zn to remove benzene at parts per million levels, even after exposure to moisture. In situ experiments based upon synchrotron powder X-ray diffraction, neutron powder diffraction (NPD), inelastic neutron scattering (INS), solid-state nuclear magnetic resonance (NMR), electron paramagnetic resonance and Fourier transformed infrared (FTIR) microspectroscopy, coupled with density functional theory (DFT) calculations, directly visualize the binding domains of captured benzene molecules and the dynamics of host–guest interactions at low pressure. The study provides a strategy to fine-tune the pore chemistry in MOFs to achieve optimal capture of trace toxic volatile organic compounds to mitigate air pollution.
+
+# **Materials and characterization**
+
+MIL-125 possesses high stability and high porosity as well as tailorable pores. The robust structure of MIL-125 consists of ring-shaped {Ti8} titanium–oxo moieties connected by BDC2− linkers, comprising octahedral and tetrahedral cages (dimensions of ~12.6 and 6.1 Å, respectively) interlinked by triangular apertures[26](#page-7-5),[27](#page-7-6) (Fig. [1a\)](#page-1-0). The introduction of metal vacancies into the 12-connected {Ti8} ring using a deficient Ti source, accompanied with uncoordinated carboxylate oxygens, results in the formation of MIL-125-defect. Moreover, a secondary M(II) ion (M = Mn, Fe, Co, Ni, Cu, Zn) can be attached onto the metal vacancies to produce bimetallic MIL-125-X (Fig. [1b\)](#page-1-0). Powder X-ray diffraction (Supplementary Figs. 1 and 2) of these MOFs confirms their phase purity and retention of structure after activation and long-term air exposure. Thermogravimetric analysis (Supplementary Fig. 3) confirms their thermal stability up to ∼620 K. Desolvated MOFs display a Brunauer–Emmett–Teller surface area of 1,462–1,866 m2  g−1 (Supplementary Fig. 4), comparable with that of MIL-125, reported previously[26.](#page-7-5)
+
+The averaged crystal structures of disordered MIL-125-defect and MIL-125-Zn were determined by Rietveld refinements of the NPD data. The refined Ti(IV) occupancy of 0.894(5) in MIL-125-defect (Ti7.1O7.1( OH)3.6BDC5.3(H2BDC)0.7) confirms the absence of, on average, nearly one Ti atom per {Ti8} ring, along with three disordered terminal carboxylate –O/–OH groups (Odefect atoms) surrounding the defect site. In MIL-125-Zn, the Zn(II) site occupies the Ti(IV) vacancy, resulting in bimetallic {Ti7Zn} rings with a Zn/Ti ratio of 1.04:6.95, confirmed by inductively coupled plasma–optical emission spectrometry and thermogravimetric analysis (Supplementary Section 1.1 and Supplementary Fig. 3). The anchored Zn(II) ion is stabilized through coordination to two carboxylate oxygen atoms (Ocarb) from the linker and one terminal hydroxyl group with Zn–O bonds of typically 2.0–2.1 Å, leaving a terminal carboxylate oxygen. The atomic dispersion of Zn(II) sites was also confirmed through X-ray absorption spectroscopy (Supplementary Fig. 5) and X-ray photoelectron spectroscopy (Supplementary Fig. 6). Transmission electron microscopy, scanning electron microscopy images and energy dispersive X-ray spectroscopy element mapping confirm an even distribution of the secondary metal ion within the MIL-125-X structure (Supplementary Fig. 7), and the refinement of high-resolution synchrotron X-ray diffraction data suggests that MIL-125-X (X = Mn, Fe, Co, Ni, Cu) incorporates a similar {Ti7X1} ring (Supplementary Table 3).
+
+# **Benzene adsorption and removal from air**
+
+Single-component adsorption isotherms of benzene were collected for desolvated MIL-125, MIL-125-defect and MIL-125-X at 298–323 K (Fig. [2a,b](#page-3-0) and Supplementary Figs. 8 and 9). In contrast to the characteristic type-I isotherms observed for MIL-125 and MIL-125-X (X = Mn, Co, Ni, Cu, Zn), the adsorption isotherms of MIL-125-defect and MIL-125-Fe exhibit type-IV profiles likely due to the presence of structural voids and of slight structural flexibility, respectively. MIL-125-Zn shows a benzene uptake of 7.63 mmol g−1 at 298 K and 1.2 mbar, higher than that of MIL-125 (1.92 mmol g−1) and MIL-125-defect (7.23 mmol g−1) and reported values obtained under the same conditions for ZJU-520(Al) (5.98 mmol g−1) [25,](#page-7-10) BUT-54 (4.31 mmol g−1) [20](#page-7-11), Carboxen 1000 (2.25 mmol g−1) [19](#page-7-13) and MCM-41 (0.45 mmol g−1) [19](#page-7-13). More importantly, compared with MIL-125 (0.15 mmol g−1) and MIL-125-defect (3.83 mmol g−1), MIL-125-Zn exhibits a notably higher adsorption capacity of 5.33 mmol g−1 at 298 K and 0.12 mbar (Supplementary Table 1), exceeding the leading sorbent, BUT-55 (3.39 mmol g−1) [20.](#page-7-11) The performance of state-of-the-art porous materials for benzene adsorption at low pressure is summarized in Supplementary Table 2 and Fig. [2e](#page-3-0). Notably, the introduction of defect sites and, more importantly, the presence of atomically dispersed Zn(II) sites greatly boost the adsorption of benzene at low pressure. The slightly higher adsorption of benzene by MIL-125-Zn compared with other MIL-125-X materials can be partially attributed to the higher charge density of Zn(II) ions that promotes stronger electrostatic interactions with benzene molecules. However, softer Cu(II) and Mn(II) ions can form enhanced Lewis acid–base interactions with benzene molecule[s28.](#page-7-14) Despite the high uptake at low pressure, adsorbed benzene can be readily removed upon desorption at *P*/*P*0 = 0, thus regenerating the free MOF and confirming the strong yet reversible adsorption affinity of benzene in these materials. MIL-125-Zn shows full retention of crystallinity and sorption capacity after 15 cycles of benzene adsorption–desorption (Fig. [2c\)](#page-3-0). The isosteric heats of adsorption (*Q*st) analysis and toluene/ cyclohexane adsorption measurements confirm the strong preferential affinity of MIL-125-Zn for aromatic compounds (Supplementary Section 15.1 and Supplementary Figs. 10–12).
+
+To evaluate the efficiency of MIL-125-Zn for the capture of trace benzene from ambient air, we performed dynamic breakthrough experiments (Fig. [2d](#page-3-0) and Supplementary Fig. 13). Given the typically low concentrations of benzene present in air and industrial gas streams, an air mixture containing benzene (5 ppm) was passed through a column packed with ~10 mg of desolvated MOF at a flow rate of 200 ml min−1. Benzene started to break through the column of MIL-125-Zn after ~72,000 min g−1 of MOF (at 1% breakthrough time, that is, when the outlet concentration of benzene reaches 1% of the inlet concentration), corresponding to a dynamic adsorption capacity of ~3.21 mmol g−1, surpassing other reported values (2.14 mmol g−1 for BUT-55 at 10 ppm of benzene and 10 ml min−1 of gas flow rate[\)20](#page-7-11). Thus, for an inlet feed of 5 ppm benzene, the benzene concentration can be purified to <0.05 ppm until breakthrough. Furthermore, the ability of MIL-125-Zn to capture benzene in the presence of moisture has been demonstrated by breakthrough experiments using MIL-125-Zn pre-saturated with water. Under different humidities (40–80% relative humidity), slightly reduced dynamic capacities are observed: 51,000 min g−1 and 2.27 mmol g−1 at 40% relative humidity, and 47,000 min g−1 and 2.09 mmol g−1 at 80% relative humidity, reflecting the competitive adsorption of water. MIL-125-Zn can be fully regenerated post-adsorption without loss of crystallinity or porosity (Supplementary Figs. 14–17). In addition, the breakthrough of benzene from MIL-125-defect shows a breakthrough time of ~40,200 min g−1 and benzene capacity of 1.79 mmol g−1, much higher than those of MIL-125 (10,800 min g−1 and 0.48 mmol g−1), indicating that the missing metal site plays a key role in the adsorption of trace benzene.
+
+While no recommended safe level of exposure exists for airborne benzene concentrations, as determined by the World Health Organization, a number of agencies including the UK Health and Safety Executive, US Occupational Safety and Health Administration and European Union have established a threshold exposure limit for benzene at 0.5–1 ppm as an 8 h time-weighted average exposure[29](#page-7-15). In this context, a 10% breakthrough time (the time at which the outlet benzene concentration reaches 10% of the inlet concentration, that is, 0.5 ppm) was recorded. MIL-125-Zn demonstrates a 10% breakthrough time of 111,000 min g−1, which slightly decreases to 95,400 min g−1 on exposure to air, outperforming MIL-125-defect (76,200 min g−1) and MIL-125 (22,800 min g−1). These results indicate that MIL-125-Zn is capable of removing benzene from air to meet the most demanding criteria. The potential of MIL-125-Zn was further validated through gas separation experiments involving mixed matrix membranes composed of MIL-125-Zn and a polymer binder (Supplementary Section 1.3 and Supplementary Figs. 18 and 19).
+
+### **Determination of the binding domains for adsorbed benzene**
+
+The binding domains of benzene were studied by high-resolution synchrotron X-ray diffraction and NPD experiments, with deuterated substrates used in the latter. Refinement of the NPD data for benzene-d6-loaded MIL-125, MIL-125-defect and MIL-125-Zn confirms the retention of the long-range order of these structures upon the inclusion of benzene (Supplementary Figs. 20–23). For MIL-125 and MIL-125-defect, four distinct binding sites (I–IV) were identified (Fig. [3a–c](#page-4-0) and Supplementary Figs. 24–27). The occupancy refers to benzene per {M7} or {M8} ring throughout this study. In MIL-125-defect, sites I–III (occupancies of 2.00, 1.39 and 1.26, respectively) are located in the octahedral cages, while site IV (occupancy of 2.21) resides in tetrahedral cages (Fig. [3a](#page-4-0) and Supplementary Figs. 24a and 26a,b). Site I is anchored through interactions with the phenyl rings of ligands (C–Dbenzene···*π*framework =  3.35(6)–3.53(7) Å) and bridging hydroxyl groups (O–Hframework···*π*benzene =  3.46(2)–3.52(3) Å) (Fig. [3b](#page-4-0) and Supplementary Fig. 26c). Sites II–IV are stabilized by multiple C–Dbenzene···*π*framework interactions (distances of 2.74(3)–3.93(3) Å) and C–Hframework···*π*benzene interactions (distances of 2.50(1)–3.08(1) Å; Fig. [3c](#page-4-0) and Supplementary Figs. 24b,c and 26d–f). Moreover, benzene molecules confined in MIL-125-defect also interact with the terminal carboxylate oxygens (Odefect) at the defect sites (C–Dbenzene···Odefect = 1.97(3)–3.81(5) Å). The strong adsorption of benzene in MIL-125-defect was further confirmed by DFT calculations, which indicate a higher adsorption energy for MIL-125-defect (−227 kJ mol−1) compared with MIL-125 (−178 kJ mol−1) at the strongest binding site.
+
+For MIL-125-Zn, five binding sites are observed. Four of them (sites I–IV with occupancies of 0.42, 3.63, 2.67 and 1.50, respectively) are located in octahedral cages, and site V (occupancy of 2.37) is within the tetrahedral cages (Fig. [3g–j](#page-4-0) and Supplementary Figs. 28 and 29). Compared with MIL-125-defect, an additional binding site (site I) is found partially embedded in the {Ti7Zn} ring, forming ZnII ···*π*benzene interactions (distances of 3.69(9) Å), accompanied by O–Hframework···*π*benzene interactions (distances of 2.08(3)–3.63(9) Å) and C–Dbenzene···Odefect interactions (distances of 2.65(9) Å; Fig. [3h\)](#page-4-0). Sites II–V are anchored by terminal carboxylate oxygen sites (C–Dbenzene···Odefect = 3.11(3)– 3.60(4) Å), hydroxyl groups (O–Hframework···*π*benzene = 3.62(9) Å) and neighbouring phenyl rings (C–Dbenzene···*π*framework = 2.41(4)–3.74(3) Å and C–Hframework···*π*benzene = 3.02(1)–3.69(1) Å; Fig. [3i,j](#page-4-0) and Supplementary Fig. 28b,c).
+
+To understand further the adsorption behaviour at low concentrations, an additional NPD experiment was carried out for MIL-125-Zn with a low loading of benzene-d6. Structural analysis reveals three binding sites (sites I–III with occupancies of 0.35, 0.22 and 0.38, respectively)
+
+![](_page_3_Figure_2.jpeg)
+
+![](_page_3_Figure_3.jpeg)
+
+<span id="page-3-0"></span>**Fig. 2 | Benzene adsorption and breakthrough data. a**, Adsorption isotherms for benzene in MIL-125, MIL-125-defect and MIL-125-X (X = Mn, Co, Ni, Cu, Zn) at 298 K (desorption data are shown in Supplementary Information for clarity). **b**, Logarithmic-scale plots of *P*/*P*0 to view the adsorption of benzene at low partial pressure. **c**, Comparison of benzene uptake capacities of MIL-125-Zn over 15 cycles at 298 K. At the 15th cycle, MIL-125-Zn retained over 99.99% of its initial
+
+benzene adsorption capacity, confirming the excellent stability of this material. **d**, Breakthrough curves of 0.0005% benzene (5 ppm) diluted in air through a fixed bed packed with MIL-125, MIL-125-defect, MIL-125-Zn and MIL-125-Zn presaturated with water under different humidities (40–80% relative humidity (RH)) at 298 K and 1 bar. **e**, Comparison of the benzene uptakes of MIL-125, MIL-125 defect and MIL-125-X with all leading sorbents reported to date.
+
+in octahedral cages and one binding site (site IV with an occupancy of 0.42) in tetrahedral cages (Fig. [3d–f](#page-4-0) and Supplementary Figs. 30 and 31). Interestingly, site I is closer to the Zn(II) site and is immobilized by stronger ZnII ···*π*benzene interactions (distance of 2.43(9) Å; Fig. [3e](#page-4-0)). Furthermore, site II is observed in close proximity to the {Ti7Zn} ring, with interactions with the Zn(II) site (ZnII ···*π*benzene = 3.58(7) Å; Fig. [3f\)](#page-4-0). DFT calculations suggest that the Zn(II) centre is a thermodynamically strong binding site for benzene. This demonstrates the pivotal role of Zn(II) sites in binding benzene molecules, especially at low concentrations, consistent with the observed capture of benzene at low concentrations. By contrast, MIL-125-X (X = Mn, Fe, Co, Ni, Cu) presents only four binding sites for benzene with weaker XII ···*π*benzene interactions (Supplementary Section 15.2, Supplementary Table 2 and Supplementary Figs. 32–41).
+
+![](_page_4_Figure_2.jpeg)
+
+<span id="page-4-0"></span>**Fig. 3 | Structural models for the adsorption domains of benzene-d6 in MIL-125-defect and MIL-125-Zn determined from NPD data. a**,**d**,**g**, Distribution of adsorbed benzene-d6 molecules within the octahedral cages in MIL-125 defect·6.84C6D6, MIL-125-Zn·1.38C6D6 and MIL-125-Zn·10.59C6D6. The radii of the coloured balls represent different binding sites and are proportional to their crystallographic occupancies. **b**,**c**, Views of host–guest interactions with benzene at sites I and II in MIL-125-defect·6.84C6D6. **e**,**f**, Views of host–guest
+
+interactions with benzene at sites I and II in MIL-125-Zn·1.38C6D6. **h**–**j**, Views of host–guest interactions with benzene at sites I–III in MIL-125-Zn·10.59C6D6. The ZnII ···*π*benzene interactions, C–Dbenzene···Odefect interactions, O–Hframework···*π*benzene interactions and C–H···*π* (or C–D···*π*) interactions are highlighted in blue, pink, orange and sea green, respectively. The estimated standard deviation for the distances are typically within the range 0.01–0.09 Å. Colour code: Ti, lime; Zn, turquoise; O, red; C, grey; D, sky blue; H, white.
+
+# **Analysis of the host–guest binding dynamics**
+
+In situ FTIR microspectroscopy of MIL-125-defect and MIL-125-Zn as a function of benzene loading (Fig. [4a,b\)](#page-5-0) shows depletion of the O–H stretching bands at 3,687 and 3,674 cm−1 together with a notable redshift (*Δ* = 16–31 cm−1), consistent with binding of benzene molecules to the –OH moiety from both bridging hydroxyl groups and defect sites (for MIL-125-defect). MIL-125-Zn exhibits smaller *v*(O–H) vibrational changes than MIL-125-defect at 1.27 mbar. This is consistent with the role of Zn(II) sites as dedicated binding sites for benzene under low pressure conditions. In addition, the perturbation of the framework C–H band (3,060 cm−1) and continuous growth of benzene C–H band (3,090 cm−1) reflect the presence of interactions between benzene and phenyl rings of the framework. The substantial change observed at 1.27 mbar aligns with the sharp adsorption of benzene at low pressure. By contrast, upon benzene adsorption, MIL-125 shows only a perturbation in one O–H stretching band (Supplementary Fig. 42), consistent with the presence of a single type of hydroxyl group within MIL-125.
+
+INS experiments were conducted for MIL-125-defect and MIL-125-Zn to gain further insights into the dynamics of framework vibrations and the translational and rotational motion of adsorbed benzene. Simulated INS spectra were obtained via DFT calculations based on the above structural models and show excellent agreement with experimental spectra (Supplementary Fig. 43). This allows the assignment of observed INS intensities to the corresponding vibrational modes. Solid benzene shows bands at 50.2–64.0 cm−1, assigned to rotation along the *C*6 axis; at 75.7 cm−1 for rotation at one of the *C*<sup>2</sup> axes; and at 84.6–96.8 cm−1 for another *C*2 axis. Although the adsorbed benzene exhibits relatively broad features in this frequency range, a more detailed analysis can be performed by examining the underlying vibrational modes based on DFT calculations. The analysis reveals that the wave number difference between *C*6 and *C*2 rotations increases to *Δ* = ~40 and ~70 cm−1 for benzene adsorbed at site I, indicating a marked energy discrepancy between *C*6 and *C*2 rotations. This substantial energy difference, coupled with the presence of new peaks in the low-frequency domain (10–40 cm−1) and the splitting of vibrational peaks in region I demonstrate robust and directional host–guest interactions, consistent with the NPD results. Meanwhile, the decrease near 46.4 cm−1 and the redshift in the C–H bending region (region II) in both MOFs suggest restricted ligand phenyl ring rotation along its *C*2 axis due to guest molecules. Peaks observed at 150–250 cm−1 (framed in Fig. [4c,d\)](#page-5-0) can be attributed to the hydroxyl groups on the Ti cluster and attached Zn(II) centre in MIL-125-defect and MIL-125-Zn, respectively. The broadening of these peaks is due to the emergence of new vibration modes induced by additional benzene molecules at site I.
+
+To probe the structural changes of the host framework upon benzene adsorption, magic angle spinning (MAS) NMR spectra were recorded for MIL-125, MIL-125-defect and MIL-125-Zn (Supplementary Section 15.3, Fig. [4e](#page-5-0) and Supplementary Fig. 44)[30.](#page-7-16) After doping
+
+![](_page_5_Figure_2.jpeg)
+
+<span id="page-5-0"></span>**Fig. 4 | In situ FTIR, solid-state NMR and INS spectra for MIL-125-defect and MIL-125-Zn as a function of adsorption of benzene. a**,**b**, In situ FTIR spectra of MIL-125-defect and MIL-125-Zn at partial pressures of benzene from 0 to 127 mbar (diluted in dry N2) and samples after regeneration at 353 K with a dry N2 flow. Bands at 3,720–3,500 cm−1 and 3,150–3,000 cm−1 correspond to *v*(O–H) and C–H stretching modes, respectively. **c**,**d**, INS spectra of bare and benzene-loaded MIL-125-defect and MIL-125-Zn. Difference spectra were obtained by subtraction of the INS spectra of the bare MOF from that of the benzene-loaded MOF. The INS spectra of solid benzene are also shown for comparison. The rotation of the
+
+the MOFs with benzene-d6, all the 13C resonances shift, except for the methanol peak at *δ*{ 13C} = 45 ppm. This indicates that the framework undergoes a slight structural change to accommodate the benzene molecules. Interestingly, this change is the same for all the studied MOFs. The most notable change is in the overlapping peaks at *δ*{ 13C} ≈ 135 ppm, which split into three discrete peaks upon the loading of benzene. This suggests that the phenyl ring in the organic ligand has twisted away from its original quasi-planar position. The shift of the methanol peak at *δ*{ 13C} = 60 ppm demonstrates that it is part of the framework, likely as {Ti–MeOH} moieties. The absence of a large shift of the carboxylate benzene ring is present and marked in the spectra. *S*, dynamic structure factor; *Q*, momentum transfer; *ω*, energy transfer. **e**, The {1 H}–13C cross-polarization MAS solid-state NMR spectra of MIL-125 (black, bottom), MIL-125-defect (red, middle) and MIL-125-Zn (blue, top), and benzene-d6-loaded counterparts (above corresponding spectra). Asterisks denote spinning side bands. DMA, dimethylamine. **f**, The 2 H solid–echo solid-state NMR spectra of benzene-d6 loaded MIL-125 (black, bottom), MIL-125-defect (red, middle) and MIL-125-Zn (blue, top). All spectra were recorded at 9.4 T using a MAS frequency of 12 kHz.
+
+13C resonances upon benzene adsorption highlights that the MIL-125 framework remains similar, without major breathing effect[s31,](#page-7-17) although twisting of the ligands within the framework seems likely.
+
+To investigate further the host–guest interactions of benzene molecules in MIL-125, MIL-125-defect and MIL-125-Zn, static 2 H NMR spectra were recorded at ambient temperature for a low loading of benzene-d6, at less than one molecule per pore to minimize guest–guest interactions (Fig. [4f\)](#page-5-0). The <sup>2</sup> H NMR spectra all display similar characteristic motionally averaged quadrupolar line shapes. This indicates that the motion of benzene molecules is anisotropic for all MIL-125 materials
+
+![](_page_6_Figure_1.jpeg)
+
+<span id="page-6-5"></span>**Fig. 5 | QENS analysis for adsorbed benzene molecules in MIL-125 and MIL-125-Zn. a**,**b**, Fitted values of the width of the Lorentzian curve (*Γ*) for the narrow (*Γ*n) and broad (*Γ*b) components. **c**,**d**, Arrhenius plots for the narrow and broad components. In both cases (that is, narrow and broad components), the activation energies (*E*act) for the processes are very similar. *Γ*n(*Q*) and *Γ*b(*Q*) are the widths of the Lorentzian curves; these are set to a constant value independent
+
+at ambient temperature and, as such, provides further evidence of the strong interaction of the framework with benzene. This is contrary to what is observed for benzene in a mesoporous silica (SBA-15; ref. [32\)](#page-7-18) and in the MOF UiO-66(Zr) (ref. [33\)](#page-7-19), where isotropic motion is observed at ambient temperature. Therefore, the MIL-125 framework interacts with benzene, with the introduction of defects in MIL-125-defect and the formation of MIL-125-Zn providing higher capacity, with the framework retaining a robust structure that allows local movements (rotation of ligands) to maximize host–guest interactions. This underpins the observed high uptake of benzene at low partial pressures.
+
+Quasi-elastic neutron scattering (QENS) has been employed to analyse the impact of Zn(II) sites on host–guest binding in MIL-125 and MIL-125-Zn (Supplementary Section 14). QENS is a powerful technique to study the diffusion of guest molecules in porous materials, but has been rarely applied to study benzene adsorption in MOF[s33](#page-7-19)[–35](#page-7-20). Fitting of the QENS data collected at 300–500 K, using an equation and model that includes a narrow and broad component (Fig. [5a,b](#page-6-5) and Supplementary Figs. 45 and 46), suggests that MIL-125-Zn has a higher averaged activation energy (0.0295 ± 0.0013 eV) compared with MIL-125 (0.0237 ± 0.0018 eV; Fig. [5c,d\)](#page-6-5). Thus, the QENS analysis confirms the important role of Zn(II) sites in promoting the binding of benzene molecules, fully consistent with the superior adsorption at low pressure in MIL-125-Zn.
+
+#### **Outlook**
+
+The enhancement of trace benzene capture through the decoration of structural defects in MIL-125-defect with single-atom sites demonstrates a promising strategy for tackling air pollution. The highly efficient removal of trace benzene by MIL-125-Zn under ambient conditions underscores its potential for practical indoor air quality management. The principles of defect engineering and single-atom site decoration
+
+![](_page_6_Figure_8.jpeg)
+
+of *Q*, and the subscripts n and b refer to a narrow and broad component, respectively. Data points represent mean values with error bars indicating the standard deviation (s.d.) derived from the fitting method described in Supplementary Section 14 against *Q* at five temperatures (*T*) of 27, 77, 127, 177 and 227 °C. The lines are the Arrhenius fitting result to determine the activation energies. The empty circles are excluded from the Arrhenius fitting process.
+
+could be extended beyond benzene capture, offering adaptability for targeting other volatile organic compounds and gaseous pollutants. Additionally, the multifaceted characterization in this study provides a valuable framework for probing host–guest interactions in porous materials, potentially accelerating the discovery and optimization of sorbents for various environmental and industrial applications. This work highlights the critical importance of fine-tuning pore chemistry in the design of viable and efficient sorbents.
+
+#### **Online content**
+
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at<https://doi.org/10.1038/s41563-024-02029-1>.
+
+# **References**
+
+- <span id="page-6-0"></span>1. World Health Organization. *Guidelines for Indoor Air Quality: Selected Pollutants* (WHO Regional Ofice for Europe, 2010).
+- <span id="page-6-1"></span>2. Li, W. et al. Fluorescence enhancement of a metal‐organic framework for ultra‐eficient detection of trace benzene vapor. *Angew. Chem. Int. Ed.* **62**, e202303500 (2023).
+- <span id="page-6-2"></span>3. Bathla, A., Vikrant, K., Kukkar, D. & Kim, K. H. Photocatalytic degradation of gaseous benzene using metal oxide nanocomposites. *Adv. Colloid Interface Sci.* **305**, 102696 (2022).
+- <span id="page-6-3"></span>4. Vogt, C., Kleinsteuber, S. & Richnow, H. H. Anaerobic benzene degradation by bacteria. *Microb. Biotechnol.* **4**, 710–724 (2011).
+- <span id="page-6-4"></span>5. Khan, A. et al. A comparison of figure of merit (FOM) for various materials in adsorptive removal of benzene under ambient temperature and pressure. *Environ. Res.* **168**, 96–108 (2019).
+
+- 6. Sun, X. et al. Novel hierarchical Fe(III)-doped Cu-MOFs with enhanced adsorption of benzene vapor. *Front. Chem.* **7**, 652 (2019).
+- <span id="page-7-0"></span>7. Dedecker, K., Drobek, M., Rouessac, V. & Julbe, A. A palladium-based MOF for the preferential sorption of benzene. *ACS Appl. Mater. Interfaces* **15**, 6831–6838 (2023).
+- <span id="page-7-1"></span>8. Li, X. et al. Adsorption materials for volatile organic compounds (VOCs) and the key factors for VOCs adsorption process: a review. *Sep. Purif. Technol.* **235**, 116213 (2020).
+- <span id="page-7-2"></span>9. Yuan, J., Liu, X., Li, M. & Wang, H. Design of nanoporous materials for trace removal of benzene through high throughput screening. *Sep. Purif. Technol.* **324**, 124558 (2023).
+- <span id="page-7-3"></span>10. Furukawa, H., Cordova, K. E., O'Keefe, M. & Yaghi, O. M. The chemistry and applications of metal-organic frameworks. *Science* **341**, 1230444 (2013).
+- 11. Ji, Z., Wang, H., Canossa, S., Wuttke, S. & Yaghi, O. M. Pore chemistry of metal–organic frameworks. *Adv. Funct. Mater.* **30**, 2000238 (2020).
+- 12. Woellner, M. et al. Adsorption and detection of hazardous trace gases by metal–organic frameworks. *Adv. Mater.* **30**, 1704679 (2018).
+- <span id="page-7-4"></span>13. Han, X. et al. Reversible adsorption of nitrogen dioxide within a robust porous metal–organic framework. *Nat. Mater.* **17**, 691–696 (2018).
+- <span id="page-7-7"></span>14. Ahmed, E., Deep, A., Kwon, E. E., Brown, R. J. & Kim, K. H. Performance comparison of MOF and other sorbent materials in removing key odorants emitted from pigpen slurry. *Sci. Rep.* **6**, 31283 (2016).
+- 15. Vikrant, K., Na, C. J., Younis, S. A., Kim, K. H. & Kumar, S. Evidence for superiority of conventional adsorbents in the sorptive removal of gaseous benzene under real-world conditions: test of activated carbon against novel metal-organic frameworks. *J. Clean. Prod.* **235**, 1090–1102 (2019).
+- 16. Jhung, S. H. et al. Microwave synthesis of chromium terephthalate MIL‐101 and its benzene sorption ability. *Adv. Mater.* **19**, 121–124 (2007).
+- <span id="page-7-8"></span>17. Gwardiak, S., Szczęśniak, B., Choma, J. & Jaroniec, M. Benzene adsorption on synthesized and commercial metal–organic frameworks. *J. Porous Mater.* **26**, 775–783 (2019).
+- <span id="page-7-9"></span>18. Zhang, D., Liu, J., Liu, M., Liu, L. & Do, D. D. On the capture of ultralow-level benzene in indoor environments: experiments, modeling and molecular simulation. *Sep. Purif. Technol.* **251**, 117306 (2020).
+- <span id="page-7-13"></span>19. Xie, L. H., Liu, X. M., He, T. & Li, J. R. Metal-organic frameworks for the capture of trace aromatic volatile organic compounds. *Chem* **4**, 1911–1927 (2018).
+- <span id="page-7-11"></span>20. He, T. et al. Trace removal of benzene vapour using double-walled metal–dipyrazolate frameworks. *Nat. Mater.* **21**, 689–695 (2022).
+- <span id="page-7-12"></span>21. Han, Y. et al. Control of the pore chemistry in metal-organic frameworks for eficient adsorption of benzene and separation of benzene/cyclohexane. *Chem* **9**, 739–754 (2023).
+- 22. Hu, L. et al. A novel aluminum‐based metal‐organic framework with uniform micropores for trace BTEX adsorption. *Angew. Chem. Int. Ed.* **62**, e202215296 (2023).
+- 23. Zhang, S. et al. Remarkable performance of N-doped carbonization modified MIL-101 for low-concentration benzene adsorption. *Sep. Purif. Technol.* **289**, 120784 (2022).
+- 24. Lv, J. A. et al. Interior and exterior surface modification of Zr-based metal–organic frameworks for trace benzene removal. *Inorg. Chem.* **63**, 4249–4259 (2024).
+- <span id="page-7-10"></span>25. Hu, L. et al. Double-walled Al-based MOF with large microporous specific surface area for trace benzene adsorption. *Nat. Commun.* **15**, 3204 (2024).
+- <span id="page-7-5"></span>26. Dan-Hardi, M. et al. A new photoactive crystalline highly porous titanium (IV) dicarboxylate. *J. Am. Chem. Soc.* **131**, 10857–10859 (2009).
+- <span id="page-7-6"></span>27. Zhang, Y. et al. Single-atom Cu anchored catalysts for photocatalytic renewable H2 production with a quantum eficiency of 56. *Nat. Commun.* **13**, 58 (2022).
+- <span id="page-7-14"></span>28. Kumar, N., Gaur, A. S. & Sastry, G. N. A perspective on the nature of cation-π interactions. *J. Chem. Sci.* **133**, 97 (2021).
+- <span id="page-7-15"></span>29. International Agency for Research on Cancer. *Monographs on the Evaluation of Carcinogenic Risks to Humans* Report No. 120 (WHO Press, 2018).
+- <span id="page-7-16"></span>30. Fu, Y. et al. Solvent-derived defects suppress adsorption in MOF-74. *Nat. Commun.* **14**, 2386 (2023).
+- <span id="page-7-17"></span>31. Giovine, R. et al. NMR crystallography to probe the breathing efect of the MIL-53 (Al) metal–organic framework using solid-state NMR measurements of 13C–27Al distances. *Acta Crystallogr. C Struct. Chem.* **73**, 176–183 (2017).
+- <span id="page-7-18"></span>32. Masierak, W. et al. Microcrystallization of benzene-*d*6 in mesoporous silica revealed by 2 H solid-state nuclear magnetic resonance. *J. Phys. Chem. B* **108**, 18890–18896 (2004).
+- <span id="page-7-19"></span>33. Kolokolov, D. I. et al. Uncovering the rotation and translational mobility of benzene confined in UiO-66 (Zr) metal–organic framework by the 2 H NMR–QENS experimental toolbox. *J. Phys. Chem. C* **121**, 2844–2857 (2017).
+- 34. Kolokolov, D. I. et al. Difusion of benzene in the breathing metal–organic framework MIL-53(Cr): a joint experimental– computational investigation. *J. Phys. Chem. C* **119**, 8217–8225 (2015).
+- <span id="page-7-20"></span>35. Kolokolov, D. I. et al. Experimental and simulation evidence of a corkscrew motion for benzene in the metal–organic framework MIL-47. *J. Phys. Chem. C* **116**, 15093–15098 (2012).
+
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afiliations.
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit [http://creativecommons.](http://creativecommons.org/licenses/by/4.0/) [org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+
+© The Author(s) 2024
+
+# **Methods**
+
+#### **Gas adsorption isotherms and breakthrough experiments**
+
+Measurements of the benzene adsorption isotherm (relative pressure of 0–0.9) were performed using an Intelligent Gravimetric Analyzer (Hiden Isochema). Methanol-exchanged samples were loaded into the system and degassed at 443 K and high dynamic vacuum (10−10 bar) for 12 h to give fully desolvated samples. Breakthrough experiments were carried out in a 3-mm-diameter fixed bed tube of 50 mm length packed with ~10 mg of the samples. The sample was heated at 150 °C under a flow of He overnight for complete activation. The fixed bed was then cooled to room temperature and the breakthrough experiment was performed with a calibration gas (5 ppm benzene balanced with air) at atmospheric pressure and room temperature. The flow rate of the entering gas was maintained at 200 ml min−1, and the concentration of benzene at the outlet determined by mass spectrometry. For the breakthrough experiment for moisture-exposed MIL-125-Zn, no activation was conducted before the measurement[13](#page-7-4),[36](#page-9-0). The breakthrough was defined as 1% of initial concentration (that is, 0.05 ppm) detected in the eluted stream. This is higher than the detection limit of the mass spectrometer (<0.01 ppm) and is recorded as 1% breakthrough time. Mixed matrix membrane preparation and gas separation experiments are detailed in the Supplementary Information.
+
+#### **Structure determination from NPD and high-resolution synchrotron X-ray diffraction experiments**
+
+NPD experiments were carried out on WISH at the ISIS Neutron and Muon Source at Rutherford Appleton Laboratory, UK (bare MIL-125-defect, low-C6D6-loaded MIL-125-Zn) and on POWGEN at the Oak Ridge National Laboratory, US (C6D6-loaded MIL-125, bare MIL-125-Zn and high-C6D6-loaded MIL-125-Zn). The methanol-exchanged MOF samples were activated at 423 K and 10−10 mbar for 12 h, noted as bare samples, before exposure to benzene-d6 vapour at room temperature for 12 h to give benzene-d6-loaded samples. The powder was then transferred into cylindrical vanadium sample cells in a glove box. All NPD patterns were collected at 7 K. Rietveld refinements were carried out on NPD patterns of the bare MOF sample and samples dosed with C6D6 using the TOPAS v.5.0 package. Structure-independent Pawley refinements were first carried out to extract the peak shape and background parameters, which were used and initially fixed in the following Rietveld refinement. The structural model of the initial MIL-125 framework was obtained from the reported crystal structure. For the bare bimetallic MIL-125-Zn, the positions of Zn and the terminal OH were initially determined based on the Fourier difference map followed by full-profile Rietveld refinement including the positions of metal and linkers, the occupancy of atom sites, thermal parameters (*U*iso) and lattice parameters. Residual solvent methanol was described by the rigid-body model, where the position and orientation were refined based on the Fourier map. Chemically reasonable restraints on bond distance and angle were applied on the organic linker to keep the molecule geometry. In addition, the phenyl ring of the BDC linker was allowed to rotate along its *C*2 axis to reflect the influence of host–guest interactions on the framework structure. All other non-structural parameters, including that of the background, peak shape and peak broadening correction function, were released and refined at the final stage. For the structure of C6D6-loaded samples, rigid bodies were used to define the molecular geometry of the C6D6 molecule with refinable C–C and C–H bond distance and fixed bond angles. Structural models of the framework were taken from the previous refinement. The initial centres of mass and orientations of C6D6 molecules in the pore were chosen by simulated annealing. At the final stage, all structure parameters including atomic coordinates, thermal parameters and occupancies and the non-structural parameters were refined with restraints on the linker geometry. All structure solutions were accepted with good agreement factors of the refinement.
+
+High-resolution synchrotron powder X-ray diffraction patterns for C6H6-loaded MIL-125-X (X = Mn, Fe, Co, Ni, Cu) were collected at beamline i11 of the Diamond Light Source using a position sensitive detector and monochromated radiation (wavelength *λ* = 0.824388 Å). The methanol-exchanged MOF samples were loaded into capillary tubes of 0.7 mm diameter, which were treated at 443 K and 10−10 bar for 12 h followed by exposure to saturated benzene atmosphere at room temperature for 12 h to give benzene-loaded samples. Diffraction patterns were then collected at room temperature. Rietveld structure refinement on synchrotron powder X-ray diffraction patterns were carried out using the TOPAS package. Pawley refinement was conducted first to obtain the refined non-structural parameters, including background, peak shape and lattice parameters. Structural models from the NPD results were used and fixed at the beginning of refinement. A rigid-body model was used to define the geometry of benzene molecules. The initial centre of mass values and orientations of the benzene molecules were guessed using the simulated annealing method. All parameters were released to be refined in the final stage, and structure solutions were accepted with good agreement factors.
+
+All crystal structures determined reflect a set of averaged structures due to the presence of multi-fold disorders from both the framework and the distribution of guest molecules. The physical properties reported in this paper are merely the average values of the assembly of microcrystals.
+
+#### **In situ FTIR spectroscopy**
+
+In situ FTIR microspectroscopy was carried out at the Multimode InfraRed Imaging and Microspectroscopy (MIRIAM) beamline at the Diamond Light Source. The in situ FTIR spectroscopy was performed according to ref. [21](#page-7-12). Samples were desolvated under dry N2 flow at 423 K for 2 h, cooled to 298 K and dosed with benzene vapour at different partial pressures (0–127 mbar).
+
+#### **INS**
+
+INS spectra were recorded on the VISION spectrometer at the Spallation Neutron Source, Oak Ridge National Laboratory and on the TOSCA Facility at Rutherford Appleton Laboratory. The methanol-exchanged MOF samples were activated at 423 K and 10−10 mbar for 12 h, noted as bare samples, before exposure to benzene vapour at room temperature for 12 h to give benzene-loaded samples. The powder was then transferred into cylindrical vanadium sample cells in a glove box. The temperature was kept below 10 K during the scattering measurements to minimize the thermal motion of the framework host and the adsorbed benzene molecules. Background spectra (sample can plus bare MOF) were subtracted to obtain the difference spectra.
+
+#### **QENS**
+
+QENS experiments were carried out on four samples, including bare and benzene-loaded MIL-125 and MIL-125-Zn, on the neutron spectrometer (IRIS) at the ISIS Pulsed Neutron and Muon Source, Chilton, UK. IRIS is a time-of-flight inverted-geometry neutron spectrometer with a single-crystal array of pyrolytic graphite as an energy analyser that makes use of Bragg reflections close to backscattering geometry (Bragg angle *θ*B = 175°) to analyse the energy of scattered neutrons. The detector array that counts those scattered neutrons covers a scattering angle (2*θ*) range of 27–158°, yielding a wave vector (*Q*) range of 0.4–1.8 Å−1. In each measurement, IRIS performed in the PG(002) configuration, which offers an energy resolution of 17 μeV and an energy window (*ħω*, where *ħ* is the reduced Planck constant) of −0.5–0.5 meV. The sample (~1.2 g) was packed into an annular aluminium container with an appropriate thickness (0.5 mm) to minimize multi-scattering effects. Data collection was made at every 50 K in the temperature range of 300–500 K. Fitting and analysis of the QENS data are detailed in the Supplementary Information.
+
+#### **DFT calculations**
+
+The DFT calculations were performed according to ref. [37.](#page-9-1) The DFT calculations in this work were conducted via a simplified structural model to assign the experimentally observed INS peaks to their corresponding vibrational modes so that the measured changes upon benzene dosing can be fully interpreted with less ambiguity and in more detail.
+
+#### **Solid-state NMR**
+
+Solid-state NMR spectroscopy was carried out on a Bruker 9.4 T (400 MHz <sup>1</sup> H Larmor frequency) Avance III spectrometer equipped with a 4 mm HFX MAS probe. The {<sup>1</sup> H}–13C cross-polarization MAS NMR experiments were acquired at ambient temperature using a MAS frequency of 12 kHz. <sup>1</sup> H and 13C pulses of 100 and 50 kHz were used, respectively, and 13C spin-locking at 50 kHz was applied for 2 ms, with corresponding ramped (70–100%) 1 H spin-locking at ∼73 kHz for crosspolarization experiments with 100 kHz of SPINAL-64 heteronuclear 1 H decouplin[g38](#page-9-2) used throughout signal acquisition. The 1 H MAS NMR spectra were recorded after an echo of two rotor periods total duration. The <sup>2</sup> H NMR experiments were acquired under static sample conditions at ambient temperature using a solid–echo pulse sequence (90*x*–*τ*–90*y*–*τ*–acquisition) with π/2 pulses of 4.5 μs duration and half-echo delays (*τ*) of 10 μs. Samples were packed into 4-mm-outerdiameter zirconia rotors and activated (423 K and 10−2 mbar for 12 h) and were subsequently exposed to benzene-d6 at room temperature before being sealed with a Kel-F rotor cap. The benzene-d6-loaded samples were exposed to vacuum (10−2 mbar) at 298 K for 5 min to give low-loading samples.
+
+# **Data availability**
+
+All relevant data are available from the corresponding authors and/ or are included in Supplementary Information. The crystallographic data of the MOFs reported in this work have been deposited in the Cambridge Crystallographic Data Centre (CCDC) under accession numbers CCDC [2301737](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301737) (MIL-125-defect), [2301736](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301736) (MIL-125-Zn), [2301732](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301732) (C6D6-loaded MIL-125), [2301735](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301735) (C6D6-loaded MIL-125-defect), [2301734](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301734) (C6D6-loaded MIL-125-Zn-high), [2301733](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301733) (C6D6-loaded MIL-125-Zn-low), [2301739](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301739) (C6H6-loaded MIL-125-Mn), [2301738](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301738) (C6H6-loaded MIL-125-Fe), [2301740](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301740) (C6H6-loaded MIL-125-Co), [2301741](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301741) (C6H6-loaded MIL-125-Ni) and [2301742](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2301742) (C6H6-loaded MIL-125-Cu). These data can be obtained free of charge from the CCDC via [www.ccdc.cam.ac.uk/data\\_request/](http://www.ccdc.cam.ac.uk/data_request/cif) [cif](http://www.ccdc.cam.ac.uk/data_request/cif). All other data supporting the findings of this study are available within the article and its Supplementary Information. Source data are provided with this paper.
+
+# **References**
+
+- <span id="page-9-0"></span>36. Boyd, P. G. et al. Data-driven design of metal–organic frameworks for wet flue gas CO2 capture. *Nature* **576**, 253–256 (2019).
+- <span id="page-9-1"></span>37. Marsh, C. et al. Binding of carbon dioxide and acetylene to free carboxylic acid sites in a metal–organic framework. *Chem. Sci.* **15**, 8197–8203 (2024).
+
+<span id="page-9-2"></span>38. Fung, B. M., Khitrin, A. K. & Ermolaev, K. An improved broadband decoupling sequence for liquid crystals and solids. *J. Magn. Reson.* **142**, 97–101 (2000).
+
+# **Acknowledgements**
+
+We thank the Engineering and Physical Sciences Research Council (EPSRC; EP/I011870, EP/V056409), the University of Manchester, National Science Foundation of China and Peking University for funding. This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 742401, NANOCHEM). We are grateful to the STFC/ISIS Facility for access to beamlines WISH and TOSCA. We acknowledge the Diamond Light Source for access to beamlines I11 and B22. A portion of this research used resources at the Spallation Neutron Source, a US Department of Energy (DOE) Ofice of Science User Facility operated by the Oak Ridge National Laboratory (ORNL), as well as the National Energy Research Scientific Computing Center (NERSC), a DOE Ofice of Science User Facility located at Lawrence Berkeley National Laboratory, operated under contract no. DE-AC02-05CH11231 using NERSC award ERCAP0024340. Additional computing resources were made available through the VirtuES and the ICE-MAN projects, funded by the Laboratory Directed Research and Development programme and Compute and Data Environment for Science (CADES) at ORNL. Y.H., M.H., W.H. and Y.Y. thank the China Scholarship Council (CSC) for funding.
+
+# **Author contributions**
+
+Y.H., W.H., M.S. and S.Y. conceptualized the project; Y.H. synthesized materials; Y.H., M.H., B.A., Y. Cheng, L.A., C.L., Y. Chen, A.J.R.-C. and D.L. analysed data; Y.H., W.H., M.H., B.A., Y. Chen, X.H., L.A., M.K.-J., J.L., Y.Y., M.D.F., C.L., D.C., P.M., S.R., I.S., L.L.D., A.J.R.-C., S.J.D., S.P.T., B.F.S., M.N. and D.L. performed the experimental investigation; Y.H., M.S. and S.Y. prepared the paper with all authors; and M.S. and S.Y. designed, supervised and developed the project. All authors discussed the results and contributed to the final paper.
+
+# **Competing interests**
+
+The authors declare no competing interests.
+
+# **Additional information**
+
+**Supplementary information** The online version contains supplementary material available at [https://doi.org/10.1038/s41563-024-02029-1.](https://doi.org/10.1038/s41563-024-02029-1)
+
+**Correspondence and requests for materials** should be addressed to Martin Schröder or Sihai Yang.
+
+**Peer review information** *Nature Materials* thanks Jian-Rong Li, Ryotaro Matsuda and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+
+**Reprints and permissions information** is available at [www.nature.com/reprints](http://www.nature.com/reprints).**Supplementary information**
+
+**Article** <https://doi.org/10.1038/s41563-024-02029-1>
+
+# **Trace benzene capture by decoration of structural defects in metal–organic framework materials**
+
+In the format provided by the authors and unedited
+
+![](_page_0_Picture_5.jpeg)
+
+# **Index for Supplementary Information**
+
+- 1. Experimental section
+	- 1.1. MOF synthesis
+	- 1.2 Characterisation of materials
+	- 1.3. Preparation of mixed-matrix membranes and gas separation experiments
+- 2. PXRD, TGA and N<sup>2</sup> isotherms
+- 3. X-ray absorption spectroscopy (XAS) and XPS
+- 4. Scanning electron microscopy and energy-dispersive X-ray spectroscopic elemental mapping
+- 5. Gas sorption isotherms
+- 6. Breakthrough curves
+- 7. Membrane-based separation
+- 8. Rietveld refinement of NPD and SPXRD patterns
+- 9. Crystallographic data for crystal structures
+- 10. Views of crystal structures
+- 11. *In situ* FTIR spectra
+- 12. DFT-simulated INS spectra
+- 13. ssNMR spectra
+- 14. QENS analysis
+- 15. Additional discussion
+	- 15.1. *Qst* and toluene/cyclohexane adsorption
+	- 15.2 Binding domains for adsorbed benzene
+	- 15.3. ssNMR
+- 16. References
+
+#### **1. Experimental Section**
+
+#### **1.1. MOF synthesis**
+
+All the reagents were used as received from commercial suppliers without further purification. MIL-125 was synthesised according to the reported method<sup>1</sup> but with modifications. MIL-125-defect and MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn) were synthesised according to the reported methodology<sup>2</sup> but with modifications as described below.
+
+**Synthesis of MIL-125.** Terephthalic acid (3.0 g, 18.1 mmol) and N,N-dimethylacetamide (DMF) (54 mL, 0.58 mmol) were mixed under stirring for 10 mins, and methanol (6 mL, 0.15 mmol) and tetrabutyl titanate (1.56 mL, 4.58 mmol) were added. The mixture was heated at 130 °C for 20 h under reflux. After cooling down to room temperature, the resulting product was collected by centrifugation and washed with DMF and methanol several times.
+
+**Synthesis of MIL-125-defect.** The same procedure was used as for the synthesis of MIL-125 except from that 1.2 mL (3.52 mmol) of tetrabutyl titanate was used. The use of an insufficient amount of Ti(IV) with respect to the metal/linker ratio allows a fraction of the carboxylates to be not fully coordinated, resulting in defect sites. These coordinatively free oxygen centers can be utilised to anchor a secondary X(Ⅱ) (X = Mn, Fe, Co, Ni, Cu, Zn) ion at the Ti vacancies to obtain MIL-125-X. The molar ratio of metal/ligand was determined as 1.06 using inductively coupled plasma-optical emission spectrometry (ICP-OES).
+
+**Synthesis of MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn).** MIL-125-defect (0.5 g, 0.33 mmol) was dispersed in methanol (35 mL, 0.86 mmol), and 0.33 mmol of metal salt [manganese(II) chloride, iron(II) chloride, cobalt chloride, nickel dichloride, copper(II) chloride, zinc chloride] was added and stirred for 3 h. The resulting product was collected by centrifugation and washed with methanol. The loading of X(II) in resultant materials was determined by ICP-OES and the X(II):Ti molar ratio lies in the range of 0.9-1.1:7). We attempted to incorporate double and triple quantities of ZnCl<sup>2</sup> (i.e., 0.66 and 0.99 mmol, respectively) during the preparation of MIL-125-Zn. However, the Ti/Zn ratio in the resulting MOFs remained at approximately 1:7 in all cases (as determined by ICP). This observation is attributed to the missing-metal defects in MIL-125-defect being the controlling factor to the incorporation of ZnCl2.
+
+#### **1.2 Characterisation of materials**
+
+Powder X-ray diffraction (PXRD) data was collected in flat plate mode over the 2θ range 5−50° on an X'pert multipurpose diffractometer using Cu-Kα radiation (λ = 1.54056 Å, 40 kV/30 mA). Thermo-gravimetric analysis (TGA) was carried out on a SDTQ600 TA instrument under air flow with a heating rate of 5 °C min-1 . ICP-OES analysis was performed on a Thermo Scientific iCAP 6300 Duo.
+
+**Characterisation of porosity.** The as-synthesised MOF samples were soaked in methanol at room temperature for 3 days, with the solution exchanged with fresh acetone every day. The resulting solvent-exchanged samples were dried in air followed by degassing at 443 K and 10-10 bar for 12 h to afford the fully desolvated samples, which were loaded in a Tristar Ⅱ PLUS (Micrometrics company) for porosity analysis. The BET surface areas were calculated using the N<sup>2</sup> isotherms measured at 77 K for MIL-125, MIL-125-defect and MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn).
+
+**X-ray photoelectron spectroscopy (XPS).** X-ray photoelectron spectroscopy (XPS) was carried out using a Kratos Axis Ultra Hybrid spectrometer using Al Kα X-rays (1486.6 eV, 150 W at 15 kV bias); a charge neutraliser was used to replenish the electron supply at the surface. Survey spectra were measured using a pass energy of 80 eV and high-resolution core levels with a pass energy of 20 eV. Charge (binding energy scale) calibration was performed using C 1s at 284.8 eV, and data were analysed using CASAXPS [\(www.casaxps.com\)](http://www.casaxps.com/). Voigt peak shape was used for all 2p.
+
+**Scanning electron microscopy (SEM) and energy dispersive spectroscopy (EDS).** SEM and EDS images were captured using a FEI Quanta 650 system equipped with a Bruker Quantax energy dispersive spectrometer. Sample powder was sprayed onto adhesive carbon tapes attached to aluminium sample stages. All samples were further coated with carbon to avoid surface charging. The SEM images and EDS mapping were captured with a working distance of 10 mm and an accelerating voltage of 15 kV with a spot size of 5 µm.
+
+**Transmission electron microscopy (TEM)**. Samples for scanning transmission electron microscopy (STEM) were prepared by drop-casting the nanoparticle dispersion in methanol directly onto a gold grid coated with an amorphous holey carbon film. STEM images were collected using a JEOL ARM300F equipped with a Cs probe aberration corrector, XMAX 100 EDX detector (Oxford Instruments), high-angle annular dark-field and segmented detectors. The system was operated at 300kV.
+
+**X-Ray absorption spectroscopy (XAS)**. Zn-K edge X-ray absorption for MIL-125-Zn was collected at Diamond Light Source on beamline B18 in transmission mode to illustrate both the oxidation state and local structure. The X-ray beam was monochromated using a Si [3 1 1] monochromater. A metallic Zn foil standard was used as a reference for energy calibration and was measured simultaneously with experimental samples. Data were processed using the Athena and Artemis programs of the IFEFFIT package based on FEFF 6. Prior to merging, spectra from transmission mode were calibrated against the reference spectra and aligned to the first peak in the smoothed first derivative of the absorption spectrum, with background removed. Spectra were processed to obtain a normalized unit edge step. Refinement was performed by optimizing an amplitude factor *S*0 2 and energy shift Δ*E*0, which are common to all paths, in addition to parameters for bond length (Δ*R*) and Debye-Waller factor (*σ 2* ). All XAS plots are represented without phase correction. Therefore, the radial distances observed in the EXAFS plots are ∼0.4–0.5 Å below their actual value.
+
+#### **1.3. Preparation of mixed-matrix membrane and gas separation experiments**
+
+The 15 wt.% MIL-125-Zn/6FDA-Durene membrane was prepared by a solvent evaporation method. A solution
+
+containing 0.35g of combined MOF particles in 6FDA-Durene polymer was prepared by dispersing desolvated MIL-125-Zn powder (52.5 mg) in THF (5 mL) followed by sonication for 2 hours. Dried 6FDA-Durene polymer powder (297.5 mg) was added to the dispersion in portions and the mixture vigorous stirred for 4 h. The solution was sonicated for 15 mins sonication and stirred for a further 15 min. This was further repeated twice. The cast solution was then poured into a clean petri dish laid on a flat surface and the THF slowly evaporated. The membrane was then peeled off and activated under dynamic vacuum at 393K overnight to remove any residual THF.
+
+The potential of MIL-125-Zn as the porous filler in membrane-based benzene/air separation was evaluated. Membrane separation experiments were carried out using a customised rig in full-permeation mode (Figure S34). The activated membrane was cut and placed on a porous stainless-steel support, and clamped between O-rings in a flange. The flow rate of the benzene/air mixture (containing 5 ppm in benzene) was set to 40 standard cubic centimetre per minute (SCCM) controlled by a Alicat digital mass flow controller (MFC). The permeate was swept by 20 SCCM helium, and the composition was monitored using an in-line connected Hiden Analytics mass spectrometer. The experiment was conducted at room temperature for up to 24 h and no signal of continuous benzene permeation could be observed.
+
+#### **2. PXRD, TGA and N<sup>2</sup> isotherms**
+
+![](_page_5_Figure_1.jpeg)
+
+**Figure S1.** PXRD patterns (λ = 1.54056 Å) for MIL-125, MIL-125-defect and MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn) (a) as-synthesised and (b) post activation.
+
+![](_page_6_Figure_0.jpeg)
+
+**Figure S2.** PXRD patterns (λ = 1.54056 Å) for MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn) (a) after being soaked in liquid benzene for 60 days, and (b) after being exposed in air for 1 year. These results confirm the excellent stability of MIL-125-X following the introduction of metal sites.
+
+![](_page_7_Figure_0.jpeg)
+
+**Figure S3.** TGA curves of MIL-125, MIL-125-defect and MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn). The 62.9% weight loss observed in MIL-125-defect corresponds to a metal-to-ligand molar ratio of 1.14 (theorical value of 1.16), consistent with the ICP-OES results.
+
+![](_page_8_Figure_0.jpeg)
+
+**Figure S4.** N<sup>2</sup> isotherms for MIL-125, MIL-125-defect and MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn) at 77 K (adsorption, solid symbols; desorption, open symbols).
+
+#### **3. X-ray absorption spectroscopy (XAS) and XPS**
+
+![](_page_9_Figure_1.jpeg)
+
+**Figure S5.** (a) EXAFS spectra and fitted spectra using the model in R-space (1.2-3.0 Å, black lines) at Zn Kedge with the magnitude (hollow squares, red) and real components (hollow squares, blue) of the Fourier transforms. (b) The coordination model of Zn. (Colour code for atoms: Zn, turquoise; O, red; C, grey; H, white.) The EXAFS fitting agrees well with the single crystal model (b) with a Zn–O2g bond length of 1.93 ± 0.003 Å (×1), Zn–O2m bond lengths of 1.98 ± 0.003 Å (×3) and Zn–O19a bond length of 2.15 ± 0.003 Å (×1). Fitting parameters: 3 < *k* < 8.2, independent points: 5.73, Number of variables:3, R factor: 0.0195, ΔE<sup>o</sup> = 8.84±2.63, *S*0 <sup>2</sup>= 0.973; σ <sup>2</sup> = 0.003 ± 0.001.
+
+![](_page_10_Figure_0.jpeg)
+
+**Figure S6.** X-ray photoelectron spectra (XPS) of MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn). XPS analysis is consistent with the divalent secondary metal sites, and charge calibration was conducted with C 1s at BE 248.8 eV. All element spectra adopted the Shirley or linear type background depending on the background slope, and fittings of the peaks were done with CasaXPS software.
+
+![](_page_11_Figure_0.jpeg)
+
+![](_page_11_Figure_1.jpeg)
+
+**Figure S7.** (a-e) SEM images and energy dispersive X-ray spectroscopic (EDS) elemental mapping of MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn). (g) STEM images and EDS elemental mapping of MIL-125-Zn.
+
+#### **5. Gas sorption isotherms**
+
+![](_page_12_Figure_1.jpeg)
+
+**Figure S8.** Adsorption isotherms for benzene in MIL-125, MIL-125-defect and MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn) at 298-323 K (adsorption, solid symbols; desorption, open symbols).
+
+![](_page_13_Figure_0.jpeg)
+
+**Figure S9.** (a) Benzene adsorption isotherms for MIL-125, MIL-125-Mn, MIL-125-Zn, MIL-125-Co and MIL-125-Ni at 298 K and 0-2 mbar. Data points are presented as mean values with error bars indicating standard deviation from three measurements (*n* = 3). (b) PXRD patterns for MIL-125-Zn samples before and after 15 cycles of adsorption/desorption of benzene at 298 K.
+
+![](_page_14_Figure_0.jpeg)
+
+**Figure S10.** Isosteric heats of adsorption (*Qst*) and entropy of adsorption of benzene in MIL-125, MIL-125 defect and MIL-125-X (X = Mn, Fe, Co, Ni, Cu, Zn). Data points (*Qst* and Delta *S*) are presented as mean values with error bars indicating standard deviation from fitting of all four isotherms at 298, 308, 318 and 323 K to the van't Hoff equation: *ln*(*p*) = Δ*H*/*RT* - Δ*S*/*R*, where *p* is the pressure, *T* is the temperature (K) and *R* is the real gas constant.
+
+![](_page_15_Figure_0.jpeg)
+
+**Figure S11.** Adsorption isotherms for (a) toluene and (b) cyclohexane in MIL-125-Zn at 298-318 K (adsorption, solid symbols; desorption, open symbols).
+
+![](_page_15_Figure_2.jpeg)
+
+**Figure S12.** Isosteric heats of adsorption (*Qst*) and entropy of adsorption for (a) toluene and (b) cyclohexane in MIL-125-Zn. Data points (*Qst* and Delta *S*) are presented as mean values with error bars indicating standard deviation from fitting of all three isotherms at 298, 308 and 318 K to the van't Hoff equation: *ln*(*p*) = Δ*H*/*RT* - Δ*S*/*R*, where *p* is the pressure, *T* is the temperature (K) and *R* is the real gas constant.
+
+| Materials      | BET surface<br>area (m2<br>/g) | Benzene uptake<br>at 298 K, 100 | Benzene uptake at<br>298 K, 1.2 mbar | Benzene uptake at<br>298 K, 0.12 mbar |
+|----------------|--------------------------------|---------------------------------|--------------------------------------|---------------------------------------|
+|                |                                | mbar (mmol/g)                   | (mmol/g)                             | (mmol/g)                              |
+| MIL-125        | 1462                           | 6.14                            | 1.92                                 | 0.15                                  |
+| MIL-125-defect | 1866                           | 10.05                           | 7.23                                 | 3.83                                  |
+| MIL-125-Mn     | 1854                           | 9.53                            | 7.12                                 | 5.06                                  |
+| MIL-125-Fe     | 1700                           | 8.41                            | 1.56                                 | 0.85                                  |
+| MIL-125-Co     | 1777                           | 8.98                            | 5.43                                 | 1.69                                  |
+| MIL-125-Ni     | 1766                           | 8.94                            | 4.43                                 | 1.61                                  |
+| MIL-125-Cu     | 1831                           | 9.19                            | 6.70                                 | 4.43                                  |
+| MIL-125-Zn     | 1847                           | 9.45                            | 7.63                                 | 5.33                                  |
+
+**Table S1.** Summary of benzene adsorption data.
+
+| No. | Adsorbent name, chemical                                   | Structural characteristics |                                                                                                                                                           |                      | Adsorption sites and                                                                                                                                                                                                                                                                               | Benzene                                  | Uptake                | Ref. |
+|-----|------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----------------------|------|
+|     | composition                                                | SBET (m2<br>-1<br>g<br>)   | Pore size (Å)                                                                                                                                             | Structural<br>defect | interaction mechanism                                                                                                                                                                                                                                                                              | partial<br>pressure<br>at 298K<br>(P/P0) | (mmol<br>-1<br>g<br>) |      |
+| 1   | MIL-101(Cr),<br>Cr3O(OH)(BDC)3                             | 2925                       | 30-40 Å for cages;<br>12-16 Å for windows.                                                                                                                | no                   | n/a                                                                                                                                                                                                                                                                                                | 3.8 × 10-4                               | 0.50                  | 3    |
+| 2   | UiO-66, Zr6O4(OH)4(BDC)6                                   | 1180 –<br>1240             | 11 Å for octahedral<br>cage; 8 Å for<br>tetrahedral cage;<br>window aperture of<br>4.5 Å.9                                                                | no                   | Adsorption in the tetrahedral<br>cage via π–π and C–H⸱⸱⸱π<br>interaction.9                                                                                                                                                                                                                         | 6.5 × 10-4                               | 0.73                  | 3    |
+| 3   | HKUST-1, Cu3(BTC)2                                         | 1568.5                     | Small pore size of 5 Å<br>with window aperture<br>of 3.7 Å; Large pore<br>size of 11 and 14 Å<br>with window aperture<br>of 7 Å.9                         | no                   | Adsorption at the open metal<br>sites and tetrahedral pores.                                                                                                                                                                                                                                       | 9.8 × 10-4                               | 1.27                  | 4    |
+| 4   | BUT-54, Co(DPN)                                            | 1128                       | Channels of ~ 10.0 Å,<br>and adsorption<br>cavities of ~ 3.7 Å.9                                                                                          | no                   | Adsorption at the wall-to-wall<br>cavities via C–H (MOF)⸱⸱⸱π<br>(benzene), C–H (benzene)⋯N<br>(MOF) hydrogen bond, C–H<br>(benzene)⸱⸱⸱π (MOF) interaction.<br>Adsorption in the channel via C–<br>H (benzene)⸱⸱⸱π (MOF)<br>interaction, C–H (benzene)–N<br>(MOF) hydrogen bond.                    | 7.8 × 10-4<br>1.2 × 10-2                 | 2.62<br>4.36          | 4    |
+| 5   | Co(BDP)                                                    | n/a                        | Rectangular 1D<br>channels of ~ 13.2 Å.                                                                                                                   | no                   | n/a                                                                                                                                                                                                                                                                                                | 2.5 × 10-3                               | 1.8                   | 4    |
+| 6   | BUT-67<br>Zr6O4(μ3-OH)4 (NDB)6                             | 984                        | Channel of 7.0 Å, and<br>adsorption cavities of<br>5.5 Å.9                                                                                                | no                   | n/a                                                                                                                                                                                                                                                                                                | 4.3 × 10-3                               | 2.85                  | 3    |
+| 7   | PAF-1, [C25H16]                                            | 5600                       | ~7-12 Å 3D pore<br>system.                                                                                                                                | no                   | n/a                                                                                                                                                                                                                                                                                                | 6.0 × 10-3                               | 3.3                   | 3    |
+| 8   | CuⅡ<br>/UiO-66,<br>Zr6O4(OH)4(BDC)5.60(defect<br>CuII)0.40 | 1250                       | Octahedral cage of 11<br>Å, and tetrahedral<br>cage of 8 Å, window<br>aperture of 4.5 Å.<br>Larger pore at the<br>missed linker and/or<br>cluster sites.9 | yes                  | Adsorption in the tetrahedral<br>pore via C–H (benzene)⸱⸱⸱π<br>(MOF), CuII (MOF)⸱⸱⸱π<br>(benzene) and –OH (MOF)⸱⸱⸱π<br>(benzene) interactions.<br>Adsorption in the octahedral pore<br>via C–H (MOF)⸱⸱⸱π (benzene)<br>interaction.                                                                 | 6.0 × 10-3                               | 3.92                  | 5    |
+| 9   | ZJU-620(Al),<br>Al3O3(HCOO)3(TMTA)                         | 13479                      | Channels of 8.2 Å.                                                                                                                                        | no                   | Strong adsorption sites at the<br>triangle edge of the channel with<br>C–H (MOF)⸱⸱⸱π (benzene), and π<br>⋯π and Al (MOF)⸱⸱⸱π (benzene)<br>interaction. Weak adsorption site<br>at the trapezoid edge of the<br>channel with C–H (MOF)⸱⸱⸱π<br>(benzene), and Al (MOF)⸱⸱⸱π<br>(benzene) interaction. | 1.0 × 10-2                               | 3.8                   | 6    |
+| 10  | BUT-55, Co(BDP)                                            | 873                        | Channels of 8.4 Å,<br>and adsorption<br>cavities of ~ 3.7 Å.                                                                                              | no                   | Adsorption at the wall-to-wall<br>cavities via C–H (MOF)⸱⸱⸱π<br>(benzene), C–H (benzene)–N<br>(MOF) hydrogen bond, C–H<br>(benzene)⸱⸱⸱π (MOF) interaction.<br>Adsorption in the channel via C–<br>H (benzene)⸱⸱⸱π (MOF)<br>interaction, C–H (benzene)–N<br>(MOF) hydrogen bond.                    | 5.7 × 10-4<br>1.6 × 10-2                 | 3.28<br>3.53          | 4    |
+
+#### **Table S2.** Comparison of benzene adsorption data reported for solid adsorbent.
+
+| 11 | MFM-300(Sc),<br>Sc2(OH)2(BPTC)            | 1228   | Channels of 8.1 Å.                                                                                                       | no  | Adsorption in the channel via T<br>shaped interaction fashion<br>through multiple C–H⸱⸱⸱ π<br>interactions between benzene<br>and the framework.                                                                  | 6.0 × 10-3                 | 3.02                 | 5    |
+|----|-------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|----------------------|------|
+| 12 | Ni(BPB)                                   | 160010 | Rhombic channels                                                                                                         | no  | n/a                                                                                                                                                                                                               | 1.8 × 10-2                 | 2.8                  | 4    |
+| 13 | MOF-177, Zn4O(BTB)2                       | 29709  | 3D channels with<br>window of ~ 10 Å.9                                                                                   | no  | n/a                                                                                                                                                                                                               | 2 × 10-2                   | 2.69                 | 4    |
+| 14 | Zn(BDP)                                   | n/a    | Rectangular 1D<br>channels of ~ 13.2 Å.                                                                                  | no  | n/a                                                                                                                                                                                                               | 4 × 10-3                   | 1                    | 4    |
+| 15 | MCM-41                                    | 1139   | 3-5 nm 1D mesopores                                                                                                      | no  | n/a                                                                                                                                                                                                               | 4.3 × 10-3                 | 0.15                 | 3    |
+| 16 | ZIF-8, Zn(MIM)2                           | 1510   | ~12.5 Å for cages<br>~3.3 Å for windows                                                                                  | no  | n/a                                                                                                                                                                                                               | 4.5 × 10-3                 | 0.03                 | 3    |
+| 17 | Zn(bpb)                                   | 220010 | Square channels                                                                                                          | no  | n/a                                                                                                                                                                                                               | 1.9 × 10-2                 | 0.65                 | 4    |
+| 18 | ZJU-520(Al), Al(OH)(DBP)                  | 2235   | Double-walled<br>channels with pore<br>size distribution<br>(PSD) in the range of<br>9.26–12.99 Å centred<br>at 10.96 Å. | no  | Adsorption at the inorganic node<br>via Al – π interactions and C –<br>H⸱⸱⸱X interactions.<br>Adsorption in the channels via C<br>– H⸱⸱⸱N interactions                                                            | 3.8 × 10-3<br>1 × 10-2     | 0.52<br>5.98         | 7    |
+| 19 | BUT-12,<br>Zr6O4(OH)8(H2O)4(L1<br>)8/3    | 3734   | Cages of ~13 Å and<br>1D channels of ~20<br>Å; PSD of 10 and 20<br>Å.                                                    | no  | n/a                                                                                                                                                                                                               | 1 × 10-2<br>~1             | 0.15<br>14.41        | 8    |
+| 20 | BUT-12-Et,<br>Zr6O4(OH)8(H2O)4(L2<br>)8/3 | 3016   | Isostructure of BUT<br>12 with PSD of 6 and<br>17 Å.                                                                     | no  | n/a                                                                                                                                                                                                               | 1 × 10-2<br>~1             | 0.17<br>13.07        | 8    |
+| 21 | STA-26,<br>Zr6O4(OH)8(H2O)4(L1<br>)8/3    | 1071   | 2-fold interpenetrated<br>structure of BUT-12;<br>PSD of ~7 Å.                                                           | no  | n/a                                                                                                                                                                                                               | 1 × 10-3<br>1 × 10-2<br>~1 | 1.14<br>4.20<br>4.93 | 8    |
+| 22 | STA-26-Et,<br>Zr6O4(OH)8(H2O)4(L2<br>)8/3 | 710    | Isostructure of STA<br>12 with PSD of ~5 Å.                                                                              | no  | n/a                                                                                                                                                                                                               | 1 × 10-3<br>1 × 10-2<br>~1 | 2.21<br>4.13<br>4.95 | 8    |
+|    | Activated carbon                          | n/a    | n/a                                                                                                                      | no  | n/a                                                                                                                                                                                                               | 4 × 10-2                   | 1.67                 | 4    |
+|    | 13X Zeolite                               | n/a    | n/a                                                                                                                      | no  | n/a                                                                                                                                                                                                               | 5.3 × 10-2                 | 0.07                 | 4    |
+|    | MIL-125                                   | 1462   | Octahedral cage of<br>~12.6 Å; Tetrahedral<br>cage of 6.1 Å;<br>Triangular windows.                                      | no  | Adsorption in the<br>octahedral/tetrahedral cages via<br>multiple C–H⸱⸱⸱π interactions<br>between the framework and<br>benzene; Adsorption in the<br>octahedral cage with extra O–H<br>(framework)⸱⸱⸱π (benzene). | 9 × 10-4<br>9 × 10-3       | 0.15<br>1.92         |      |
+|    | MIL-125-defect                            | 1866   | MIL-125 with<br>missing metal defects<br>on the {Ti8}-ring.                                                              | yes | Interactions includes those in<br>MIL-125 and an extra C–H<br>(benzene)⸱⸱⸱O (terminal<br>carboxylate) interaction.                                                                                                | 9 × 10-4<br>9 × 10-3       | 3.83<br>7.23         |      |
+|    | MIL-125-Zn                                | 1847   | MIL-125 with ZnII<br>-<br>doped {Ti7Zn}-ring.                                                                            | yes | Interactions includes those in<br>MIL-125-defect and an extra<br>ZnII⸱⸱⸱π (benzene) interaction.                                                                                                                  | 9 × 10-4<br>9 × 10-3       | 5.33<br>7.63         | This |
+|    | MIL-125-Mn                                | 1854   | MIL-125 with MnII<br>-<br>doped {Ti7Zn}-ring.                                                                            | yes | Interactions includes those in<br>MIL-125-defect and an extra<br>MnII⸱⸱⸱π (benzene) interaction                                                                                                                   | 9 × 10-4<br>9 × 10-3       | 5.06<br>7.12         | work |
+|    | MIL-125-Cu                                | 1831   | MIL-125 with CuII<br>-<br>doped {Ti7Zn}-ring.                                                                            | yes | Interactions includes those in<br>MIL-125-defect and an extra<br>CuII⸱⸱⸱π (benzene) interaction                                                                                                                   | 9 × 10-4<br>9 × 10-3       | 4.43<br>6.7          |      |
+|    | MIL-125-Co                                | 1777   | MIL-125 with CoII<br>-<br>doped {Ti7Zn}-ring.                                                                            | yes | Interactions includes those in<br>MIL-125-defect and an extra<br>CoII⸱⸱⸱π (benzene) interaction                                                                                                                   | 9 × 10-4<br>9 × 10-3       | 1.69<br>5.43         |      |
+|    | MIL-125-Ni                                | 1766   | MIL-125 with NiII<br>-<br>doped {Ti7Zn}-ring.                                                                            | yes | Interactions includes those in<br>MIL-125-defect and an extra<br>NiII⸱⸱⸱π (benzene) interaction                                                                                                                   | 9 × 10-4<br>9 × 10-3       | 1.61<br>4.43         |      |
+
+| MIL-125-Fe | 1700 | MIL-125 with FeII<br>-<br>doped {Ti7Zn}-ring. | yes | Interactions includes those in<br>MIL-125-defect and an extra<br>FeII⸱⸱⸱π (benzene) interaction | 9 × 10-4<br>9 × 10-3 | 0.85<br>1.56 |  |
+|------------|------|-----------------------------------------------|-----|-------------------------------------------------------------------------------------------------|----------------------|--------------|--|
+|            |      |                                               |     |                                                                                                 |                      |              |  |
+
+BDC2- = benzene-1,4-dicarboxylate; BTC3- = benzenetricarboxylate; DPN2- = 2,7-di(1H-pyrazolate-4-yl)naphthalene; NDB2- = 4,4′-(naphthalene-2,7 diyl)dibenzoate; TMTA3- = 4,4′,4′′-(2,4,6-trimethylbenzene-1,3,5-triyl) tribenzoate; BPTC4- = biphenyl-3,3′,5,5′-tetracarboxylate; BPB2− = 1,2 bis(pyridine-2-carboxamido)benzoate; BTB = 1,3,5-benzenetribenzoate; MIM-1 = 2-methylimidazole; DBP2- = 4,6-di(4-carboxylatephenyl)pyrimidine; H3L <sup>1</sup> = 5′-(4-carboxyphenyl)-2′,4′,6′-trimethyl-[1,1′:3′,1″-terphenyl]-4,4″-dicarboxylic acid; H3L <sup>2</sup> = 5′-(4-carboxylatephenyl)-2′,4′,6′-triethyl- (1,1′:3′,1″-terphenyl)-4,4″-dicarboxylic acid.
+
+#### **6. Breakthrough curves**
+
+To evaluate the performance of MIL-125-Zn for the capture of trace benzene, breakthrough experiments were conducted under both dry and wet conditions. An air stream containing benzene (5 ppm) was flowed through a fixed-bed of MIL-125-Zn (approximately 10 mg) at a flow rate of 200 mL min-1 at atmospheric pressure and room temperature. The concentration of benzene in the eluted stream was assessed using a calibration curve obtained by flowing various benzene/air mixtures diluted with helium (Fig. S38). The breakthrough was defined as 1% of the initial concentration (i.e., 0.05 ppm) being detected in the eluted stream, recorded as 1% breakthrough time. The same experiments were repeated with MIL-125-Zn pre-saturated with water under different humidities (40% and 80% RH), in which minor reductions in the breakthrough time were observed due to the presence of competitive adsorption with water (Fig. 2d).
+
+The regeneration of MIL-125-Zn post benzene adsorption was achieved under a flow of dry helium at 40 mL min-1 at atmospheric pressure and room temperature, and complete desorption was observed after 7 h (Fig. S39). PXRD patterns and N<sup>2</sup> isotherms at 77 K were collected for the regenerated MIL-125-Zn, confirming the retention of crystallinity and porosity (Fig. S40 and S41). It is worth noting that the regeneration conditions used here are considerably milder compared with those employed in literature, which often use high temperatures (up to 120 ℃).<sup>4</sup> The full regeneration of MIL-125-Zn after benzene adsorption can be achieved in only 10 mins by heating at 80 ℃ in a flow of dry N2, as confirmed by *in situ* FTIR spectra (Fig. 4b). Moreover, the isothermal desorption of benzene from MIL-125-Zn has been recorded at 298 K under pressure-swing conditions after initial adsorption (Fig. S42). MIL-125-Zn can be readily regenerated post benzene adsorption upon reduction of pressure at 298 K for 30 minutes, consistent with its excellent reversibility and rapid kinetics for benzene sorption (Fig. 2c).
+
+![](_page_20_Figure_3.jpeg)
+
+**Figure S13.** Standard curve for the concentration of benzene. Data points are presented as mean values with error bars indicating standard deviation from three measurements by mass spectrometry after reaching steady state.
+
+![](_page_21_Figure_0.jpeg)
+
+**Figure S14.** Benzene desorption curve for MIL-125-Zn under a flow of pure He at a rate of 40 mL/min at 298 K and atmospheric pressure.
+
+![](_page_21_Figure_2.jpeg)
+
+**Figure S15.** PXRD patterns of MIL-125-Zn before and after the breakthrough experiment.
+
+![](_page_22_Figure_0.jpeg)
+
+**Figure S16.** N<sup>2</sup> isotherms at 77 K for regenerated MIL-125-Zn post breakthrough experiments (adsorption, solid symbols; desorption, open symbols).
+
+![](_page_22_Figure_2.jpeg)
+
+**Figure S17.** The isothermal desorption profiles of benzene from MIL-125-Zn, observed post-adsorption at 298 K, confirming that MIL-125-Zn can be readily regenerated using pressure-swing conditions.
+
+#### **7. Membrane-based separation**
+
+![](_page_23_Figure_1.jpeg)
+
+**Figure S18**. Schematic of the membrane separation test rig.
+
+![](_page_23_Figure_3.jpeg)
+
+**Figure S19**. Separation experiments and cross-section SEM images of 15 wt.% MIL-125-Zn/6FDA-Durene membrane. (a) Mass spectrometric signals of permeate after flow through membrane. (b) Photograph of the membrane. (c, d) Cross-section SEM images of the membrane at different magnifications.
+
+#### **8. Rietveld refinement of NPD and SPXRD patterns**
+
+![](_page_24_Figure_1.jpeg)
+
+**Figure S20**. Rietveld refinement of NPD patterns of (a) C6D6@MIL-125, (b) C6D6@MIL-125-defect, (c) MIL-125-Zn and (d) C6D6@MIL-125-Zn-high. Insets are enlarged fitting range of 1-4 Å.
+
+![](_page_25_Figure_0.jpeg)
+
+**Figure S21.** Rietveld refinement of of NPD patterns of C6D6@MIL-125-Zn-low.
+
+![](_page_26_Figure_0.jpeg)
+
+**Figure S22.** Rietveld refinement of NPD patterns of MIL-125-defect.
+
+![](_page_27_Figure_0.jpeg)
+
+**Figure S23.** Rietveld refinement of SPXRD (λ = 0.824388 Å) patterns of C6H6-loaded MIL-125-X (X = Mn, Fe, Co, Ni, Cu).
+
+## **9. Crystallographic data for crystal structures**
+
+| Samples                       | C6D6@MIL-125                   | C6D6@MIL-125-<br>defect                              | MIL-125-defect                                            | MIL-125-Zn                                           |
+|-------------------------------|--------------------------------|------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------|
+| CCDC                          | 2301732                        | 2301735                                              | 2301737                                                   | 2301736                                              |
+| Formula                       | [Ti8O8(OH)4BDC6]<br>(C6D6)7.38 | [(Ti8O8(OH)4)0.87<br>(defect)0.13BDC6]<br>(C6D6)6.84 | [(Ti8O8(OH)4)0.89<br>(defect)0.11<br>BDC6]<br>(CH3OH)3.02 | [(Ti8O8(OH)4)0.90<br>Zn0.1(OH)0.1BDC6]<br>(CH3OH)2.0 |
+| Crystal system                | Tetragonal                     | Tetragonal                                           | Tetragonal                                                | Tetragonal                                           |
+| Space group                   | I41/mmm<br>(139)               | I41/mmm<br>(139)                                     | I41/mmm<br>(139)                                          | I41/mmm<br>(139)                                     |
+| a, b<br>(Å)                   | 18.6015(9)                     | 18.5706(11)                                          | 18.6200(1)                                                | 18.6250(1)                                           |
+| c<br>(Å)                      | 18.1692(9)                     | 18.1366(11)                                          | 18.1533(2)                                                | 18.1596(3)                                           |
+| Vol. (Å3<br>)                 | 6286.8(7)                      | 6254.7(8)                                            | 6293.8(1)                                                 | 6299.4(2)                                            |
+| (calc) g/cm3<br>ρ             | 1.130                          | 1.075                                                | 0.845                                                     | 0.862                                                |
+| Diffractometer                | POWGEN, ORNL                   | POWGEN, ORNL                                         | WISH, ISIS                                                | POWGEN, ORNL                                         |
+| Radiation                     | Neutron                        | Neutron                                              | Neutron                                                   | Neutron                                              |
+| Method                        | Time of flight                 | Time of flight                                       | Time of flight                                            | Time of flight                                       |
+| Temperature                   | 10 K                           | 10 K                                                 | 10 K                                                      | 10 K                                                 |
+| Refinement d<br>spacing range | 1-14 Å                         | 1-14 Å                                               | 0.7-20 Å                                                  | 1-14 Å                                               |
+| Rwp/Rexp /Rp (%)              | 2.291/0.472/1.899              | 2.270/0.548/2.093                                    | 1.352/0.328/1.090                                         | 2.070/0.592/2.004                                    |
+| 2<br>GoF (𝜒<br>)              | 4.853                          | 4.144                                                | 4.115                                                     | 3.495                                                |
+|                               | C6D6@MIL-125-                  | C6D6@MIL-125-                                        | C6H6@MIL-125-                                             | C6H6@MIL-125-                                        |
+| Samples                       |                                |                                                      |                                                           |                                                      |
+|                               | Zn-high                        | Zn-low                                               | Mn                                                        | Fe                                                   |
+| CCDC                          | 2301734                        | 2301733                                              | 2301739                                                   | 2301738                                              |
+|                               | [(Ti8O8(OH)4)0.83              | [(Ti8O8(OH)4)0.87                                    | [(Ti8O8(OH)4)0.89                                         | [(Ti8O8(OH)4)0.89                                    |
+| Formula                       | Zn0.17(OH)0.7BDC6]             | Zn0.13(OH)0.3BDC6]                                   | Mn0.11(OH)0.11BDC6]                                       | Fe0.11(OH)0.11BDC6]                                  |
+|                               | (C6D6)10.59                    | (C6D6)1.38                                           | (C6H6)8.928                                               | (C6H6)10.06                                          |
+| Crystal system                | Tetragonal                     | Tetragonal                                           | Tetragonal                                                | Tetragonal                                           |
+| Space group                   | I41/mmm<br>(139)               | I41/mmm<br>(139)                                     | I41/mmm<br>(139)                                          | I41/mmm<br>(139)                                     |
+| a, b<br>(Å)                   | 18.6048(6)                     | 18.6461(1)                                           | 18.6539(1)                                                | 18.6554(1)                                           |
+| c<br>(Å)                      | 18.1660(6)                     | 18.1348(2)                                           | 18.2054(1)                                                | 18.2026(1)                                           |
+| Vol. (Å3<br>)                 | 6288.0(4)                      | 6305.0(1)                                            | 6293.8(1)                                                 | 6334.9(1)                                            |
+| (calc) g/cm3<br>ρ             | 1.270                          | 0.886                                                | 1.185                                                     | 1.232                                                |
+| Diffractometer                | POWGEN, ORNL                   | POWGEN, ORNL                                         | I11, DLS                                                  | I11, DLS                                             |
+| Radiation                     | Neutron                        | Neutron                                              | Synchrotron X-ray                                         | Synchrotron X-ray                                    |
+| Method                        | Time of flight                 | Time of flight                                       | Capillary, PSD<br>detector                                | Capillary, PSD<br>detector                           |
+| Temperature                   | 10 K                           | 10 K                                                 | 298 K                                                     | 298 K                                                |
+| Refinement                    |                                |                                                      | 2.5-50°                                                   | 2.5-50°                                              |
+| range                         | 1-14 Å                         | 1-14 Å                                               | (λ = 0.824388 Å)                                          | (λ = 0.824388 Å)                                     |
+| Rwp/Rexp /Rp (%)              | 1.824/0.488/1.613              | 2.270/0.548/2.093                                    | 1.679 /0.328/1.177                                        | 2.189/0.329/1.470                                    |
+
+**Table S3.** Crystallographic details of structure from Rietveld refinement on NPD and SPXRD patterns.
+
+| Samples           | C6H6@MIL-125-Co          | C6H6@MIL-125-Ni          | C6H6@MIL-125-Cu          |
+|-------------------|--------------------------|--------------------------|--------------------------|
+| CCDC              | 2301740                  | 2301741                  | 2301742                  |
+|                   | [(Ti8O8(OH)4)0.90        | [(Ti8O8(OH)4)0.89        | [(Ti8O8(OH)4)0.89        |
+| Formula           | Co0.10(OH)0.10BDC6]      | Ni0.11(OH)0.11BDC6]      | Cu0.11(OH)0.11BDC6]      |
+|                   | (C6H6)8.91               | (C6H6)9.28               | (C6H6)9.71               |
+| Crystal system    | Tetragonal               | Tetragonal               | Tetragonal               |
+| Space group       | I41/mmm (139)            | I41/mmm (139)            | I41/mmm (139)            |
+| a, b<br>(Å)       | 18.6497(1)               | 18.6512(1)               | 18.6554(1)               |
+| c<br>(Å)          | 18.1942(1)               | 18.2022(1)               | 18.2052(1)               |
+| Vol. (Å3<br>)     | 6328.2(1)                | 6331.9(1)                | 6335.8(1)                |
+| (calc) g/cm3<br>ρ | 1.187                    | 1.188                    | 1.221                    |
+| Diffractometer    | I11, DLS                 | I11, DLS                 | I11, DLS                 |
+| Radiation         | Synchrotron X-ray        | Synchrotron X-ray        | Synchrotron X-ray        |
+| Method            | Capillary, PSD detector  | Capillary, PSD detector  | Capillary, PSD detector  |
+| Temperature       | 298 K                    | 298 K                    | 298 K                    |
+| Refinement        |                          |                          |                          |
+| range             | 2.5-50° (λ = 0.824388 Å) | 2.5-50° (λ = 0.824388 Å) | 2.5-50° (λ = 0.824388 Å) |
+| Rwp/Rexp/Rp(%)    | 2.104/0.349/1.376        | 2.142/0.338/1.440        | 2.209/0.334/1.484        |
+| 2<br>GoF (𝜒<br>)  | 6.019                    | 6.333                    | 6.620                    |
+
+#### **10. Views of crystal structures**
+
+![](_page_30_Figure_1.jpeg)
+
+**Figure S24.** The structure of MIL-125-defect·6.84C6D<sup>6</sup> with CCDC 2301735. Views of the structural models for the adsorption of *d*6-benzene in MIL-125-defect determined from NPD data. (a) Distribution of adsorbed *d*6-benzene molecules within the tetrahedral cages in MIL-125-defect. (b,c) Views of host-guest interactions with benzene at site Ⅲ and site Ⅳ in MIL-125-defect. The C–Dbenzene···Odefect interactions and C–H···π interactions are highlighted in pink and sea green, respectively. Color code for atoms: Ti, lime; O, red; C, gray; D, sky blue; H, white.
+
+![](_page_31_Figure_0.jpeg)
+
+**Figure S25.** The structure of MIL-125-defect·6.84C6D<sup>6</sup> (CCDC 2301735). Views of interactions between guest benzene molecules in MIL-125-defect determined from NPD data. Benzene at sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The C–H···π interactions are highlighted in sea green.
+
+![](_page_32_Figure_0.jpeg)
+
+**Figure S26.** The structure of MIL-125·7.38C6D<sup>6</sup> (CCDC 2301732). Views of the structural models for the adsorption of *d*6-benzene in MIL-125 determined from NPD data. (a,b) Distribution of adsorbed *d*6-benzene molecules within the (a) octahedral and (b) tetrahedral cages in MIL-125. Sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The radii of the colored balls of different binding sites are proportional to their crystallographic occupancies (Sites Ⅰ–Ⅳ have occupancies of 1.90, 2.59, 1.10 and 1.78 for benzene per {Ti8} cluster in MIL-125, respectively). (c-f) Views of host-guest interactions with benzene at site Ⅰ (c), Ⅱ (d), Ⅲ (e) and Ⅳ (f) in MIL-125. The O–Hframework···πbenzene interactions and C–H(or D)···π interactions are highlighted in orange and sea green, respectively. Color code for atoms: Ti, lime; O, red; C, gray; D, sky blue; H, white.
+
+![](_page_33_Figure_0.jpeg)
+
+**Figure S27.** The structure of MIL-125·7.38C6D<sup>6</sup> (CCDC 2301732). Views of interactions between guest benzene molecules in MIL-125 determined from NPD data. Benzene at sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The C–H···π interactions are highlighted in sea green.
+
+![](_page_34_Figure_0.jpeg)
+
+**Figure S28.** The structure of MIL-125-Zn·10.59C6D<sup>6</sup> (CCDC 2301734). Views of the structural models for the adsorption of *d*6-benzene in MIL-125-Zn determined from NPD data. (a) Distribution of adsorbed *d*6 benzene molecules within the tetrahedral cages in MIL-125-Zn. (b,c) Views of host-guest interactions with benzene at site Ⅳ and site Ⅴ in MIL-125-defect. The C–Dbenzene···Odefect interactions, O–Hframework···πbenzene interactions and C–H(or D)···π interactions are highlighted in pink, orange and sea green, respectively. Color code for atoms: Ti, lime; Zn, turquoise; O, red; C, gray; D, sky blue; H, white.
+
+![](_page_35_Figure_0.jpeg)
+
+**Figure S29.** The structure of MIL-125-Zn·10.59C6D<sup>6</sup> (CCDC 2301734). Views of interactions between guest benzene molecules in MIL-125-Zn determined from NPD data. Benzene at sites Ⅰ–Ⅴ are colored in pink, green, orange, blue and teal, respectively. The C–D···π interactions are highlighted in sea green.
+
+![](_page_36_Figure_0.jpeg)
+
+**Figure S30.** The structure of MIL-125-Zn·1.38C6D<sup>6</sup> (CCDC 2301733). Views of the structural models of the adsorption of *d*6-benzene in MIL-125-Zn·1.38C6D<sup>6</sup> determined from NPD data. (a) Distribution of adsorbed *d*6-benzene molecules within the tetrahedral cages in MIL-125-Zn·1.38C6D6. (b,c) Views of host-guest interactions with benzene at site Ⅲ (b) and Ⅳ (c) in MIL-125-Zn. The C–Dbenzene···Odefect interactions and C– H(or D)···π interactions are highlighted in pink and sea green, respectively. Color code for atoms: Ti, lime; Zn, turquoise; O, red; C, gray; D, sky blue; H, white.
+
+![](_page_37_Figure_0.jpeg)
+
+**Figure S31.** The structure of MIL-125-Zn·1.38C6D<sup>6</sup> (CCDC 2301733). Views of interactions between guest benzene molecules in MIL-125-Zn·1.38C6D<sup>6</sup> determined from NPD data. Benzene at site Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The C–D···π interactions are highlighted in sea green.
+
+![](_page_38_Figure_0.jpeg)
+
+**Figure S32.** The structure of MIL-125-Mn·8.93C6H<sup>6</sup> (CCDC 2301739). Views of the structural models for the adsorption of benzene in MIL-125-Mn determined from SPXRD data. (a,b) Distribution of adsorbed benzene molecules within the (a) octahedral and (b) tetrahedral cages in MIL-125-Mn. Sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The radii of the colored balls of different binding sites are proportional to their crystallographic occupancies (Sites Ⅰ–Ⅳ have occupancies of 1.34, 2.22, 2.66 and 2.70 for benzene per {Ti7Mn} cluster in MIL-125-Mn, respectively). (c-f) Views of host-guest interactions with benzene at site Ⅰ (c), Ⅱ (d), Ⅲ (e) and Ⅳ (f) in MIL-125-Mn. The MnII··· πbenzene interactions, C–Hbenzene···Odefect interactions, O–Hframework···πbenzene interactions and C–H···π interactions are highlighted in blue, pink, orange and sea green, respectively. Color code for atoms: Ti, lime; Mn, lavender; O, red; C, gray; H, white.
+
+![](_page_39_Figure_0.jpeg)
+
+**Figure S33.** The structure of MIL-125-Mn·8.93C6H<sup>6</sup> (CCDC 2301739). Views of interactions between guest benzene molecules in MIL-125-Mn determined from SPXRD data. Benzene at sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The C–H···π interactions are highlighted in sea green.
+
+![](_page_40_Figure_0.jpeg)
+
+**Figure S34.** The structure of MIL-125-Fe·10.06C6H<sup>6</sup> (CCDC 2301738). Views of the structural models for the adsorption of benzene in MIL-125-Fe determined from SPXRD data. (a,b) Distribution of adsorbed benzene molecules within the (a) octahedral and (b) tetrahedral cages in MIL-125-Fe. Sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The radii of the colored balls of different binding sites are proportional to their crystallographic occupancies (Sites Ⅰ–Ⅳ have occupancies of 1.28, 2.96, 2.91 and 2.91 for benzene per {Ti7Fe} cluster in MIL-125-Fe, respectively). (c-f) Views of host-guest interactions with benzene at site Ⅰ (c), Ⅱ (d), Ⅲ (e) and Ⅳ (f) in MIL-125-Fe. The FeII··· πbenzene interactions, C–Hbenzene···Odefect interactions, O–Hframework···πbenzene interactions and C–H···π interactions are highlighted in blue, pink, orange and sea green, respectively. Color code for atoms: Ti, lime; Fe, gold; O, red; C, gray; H, white.
+
+![](_page_41_Figure_0.jpeg)
+
+**Figure S35.** The structure of MIL-125-Fe·10.06C6H<sup>6</sup> (CCDC 2301738). Views of interactions between guest benzene molecules in MIL-125-Fe determined from SPXRD data. Benzene at site Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The C–H···π interactions are highlighted in sea green.
+
+![](_page_42_Figure_0.jpeg)
+
+![](_page_42_Figure_1.jpeg)
+
+![](_page_42_Figure_3.jpeg)
+
+![](_page_42_Figure_4.jpeg)
+
+![](_page_42_Figure_5.jpeg)
+
+![](_page_42_Figure_6.jpeg)
+
+**Figure S36.** The structure of MIL-125-Co·8.91C6H<sup>6</sup> (CCDC 2301740). Views of the structural models for the adsorption of benzene in MIL-125-Co determined from SPXRD data. (a,b) Distribution of adsorbed benzene molecules within the (a) octahedral and (b) tetrahedral cages in MIL-125-Co. Sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The radii of the colored balls of different binding sites are proportional to their crystallographic occupancies (Sites Ⅰ–Ⅳ have occupancies of 1.62, 2.50, 2.72 and 2.08 for benzene per {Ti7Co} cluster in MIL-125-Co, respectively). (c-f) Views of host-guest interactions with benzene at site Ⅰ (c), Ⅱ (d), Ⅲ (e) and Ⅳ (f) in MIL-125-Co. The CoII··· πbenzene interactions, C–Hbenzene···Odefect interactions, O–Hframework···πbenzene interactions and C–H···π interactions are highlighted in blue, pink, orange and sea green, respectively. Color code for atoms: Ti, lime; Co, rose; O, red; C, gray; H, white.
+
+![](_page_43_Figure_0.jpeg)
+
+**Figure S37.** The structure of MIL-125-Co·8.91C6H<sup>6</sup> (CCDC 2301740). Views of interactions between guest benzene molecules in MIL-125-Co determined from SPXRD data. Benzene at sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The C–H···π interactions are highlighted in sea green.
+
+![](_page_44_Figure_0.jpeg)
+
+![](_page_44_Figure_1.jpeg)
+
+![](_page_44_Figure_2.jpeg)
+
+![](_page_44_Figure_3.jpeg)
+
+![](_page_44_Figure_4.jpeg)
+
+**Figure S38.** The structure of MIL-125-Ni·9.28C6H<sup>6</sup> (CCDC 2301741). Views of the structural models for the adsorption of benzene in MIL-125-Ni determined from SPXRD data. (a,b) Distribution of adsorbed benzene molecules within the (a) octahedral and (b) tetrahedral cages in MIL-125-Ni. Sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The radii of the colored balls of different binding sites are proportional to their crystallographic occupancies (Sites Ⅰ–Ⅳ have occupancies of 1.36, 2.61, 2.64 and 2.67 for benzene per {Ti7Ni} cluster in MIL-125-Ni, respectively). (c-f) Views of host-guest interactions with benzene at site Ⅰ (c), Ⅱ (d), Ⅲ (e) and Ⅳ (f) in MIL-125-Ni. The NiII··· πbenzene interactions, C–Hbenzene···Odefect interactions, O– Hframework···πbenzene interactions and C–H···π interactions are highlighted in blue, pink, orange and sea green, respectively. Color code for atoms: Ti, lime; Ni, bright green; O, red; C, gray; H, white.
+
+![](_page_45_Figure_0.jpeg)
+
+**Figure S39.** The structure of MIL-125-Ni·9.28C6H<sup>6</sup> (CCDC 2301741). Views of interactions between guest benzene molecules in MIL-125-Ni determined from SPXRD data. Benzene at sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The C–H···π interactions are highlighted in sea green.
+
+![](_page_46_Figure_0.jpeg)
+
+**Figure S40.** The structure of MIL-125-Cu·9.71C6H<sup>6</sup> (CCDC 2301742). Views of the structural models for the adsorption of benzene in MIL-125-Cu determined from SPXRD data. (a,b) Distribution of adsorbed benzene molecules within the (a) octahedral and (b) tetrahedral cages in MIL-125-Cu. Sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The radii of the colored balls of different binding sites are proportional to their crystallographic occupancies (Sites Ⅰ–Ⅳ have occupancies of 1.42, 2.78, 2.90 and 2.61 for benzene per {Ti7Cu} cluster in MIL-125-Cu, respectively). (c-f) Views of host-guest interactions with benzene at site Ⅰ (c), Ⅱ (d), Ⅲ (e) and Ⅳ (f) in MIL-125-Cu. The CuII··· πbenzene interactions, C–Hbenzene···Odefect interactions, O–Hframework···πbenzene interactions and C–H···π interactions are highlighted in blue, pink, orange and sea green, respectively. Color code for atoms: Ti, lime; Cu, pale blue; O, red; C, gray; H, white.
+
+![](_page_47_Figure_0.jpeg)
+
+**Figure S41.** The structure of MIL-125-Cu·9.71C6H<sup>6</sup> (CCDC 2301742). Views of interactions between guest benzene molecules in MIL-125-Cu determined from SPXRD data. Benzene at sites Ⅰ–Ⅳ are colored in pink, green, orange and blue, respectively. The C–H···π interactions are highlighted in sea green.
+
+#### **11.** *In situ* **FTIR Spectra**
+
+![](_page_48_Figure_1.jpeg)
+
+**Figure S42.** *In situ* FTIR spectra of MIL-125 at partial pressures of benzene from 0–127 mbar (diluted in dry N2) and after regeneration at 353 K with dry N<sup>2</sup> flow. Wavenumber of 3720–3500 cm-1 and 3150–3000 cm-1 corresponds to the *v*(OH) and CH stretching region, respectively. <sup>11</sup> The FTIR spectra of MIL-125-defect and MIL-125-Zn (Fig. 4a, 4b in the main text) exhibit two distinct O–H stretching bands (3687 and 3674 cm-1 ), indicating the presence of two types of hydroxyl groups with one originating from defects. In contrast, MIL-125 shows only a single O–H stretching band, corresponding to a single type of hydroxyl group. Therefore, the FTIR results directly corroborate our Rietveld Refinement analysis.
+
+#### **12. DFT-simulated INS Spectra**
+
+![](_page_49_Figure_1.jpeg)
+
+**Figure S43.** (a) DFT-simulated INS spectra for bare and C6H6-loaded MIL-125-Zn. (b) Comparison of the difference plots for experimental and DFT-calculated INS spectra of bare and C6H6-loaded MIL-125-Zn.
+
+![](_page_50_Figure_1.jpeg)
+
+**Figure S44.** <sup>1</sup>H Hahn-echo MAS NMR spectra of MIL-125 (bottom, black), MIL-125-defect (middle, red), and MIL-125-Zn (top, blue), and *d*6-benzene-loaded counterparts (light-colored lines). All spectra were recorded at 9.4 T using a MAS frequency of 12 kHz.
+
+#### **14. QENS analysis**
+
+QENS data was collected at the IRIS spectrometer at the ISIS facility at Rutherford Appleton Laboratory (UK). The experimental data consisted of a series of backgrounds (resolution function (Q, )) at each temperature for desolvated MIL-125 and MIL-125-Zn. A total of five temperatures were measured, 27, 77, 127,177 and 227 °C (300, 350, 400, 450, 500 K). The data (Q, ) contains contribution from the 'MOF + benzene' at the same temperatures. The data were fitted using the Qclimax module (ICE-MAN)<sup>12</sup>, and a global minimisation was obtained for the following equation:
+
+$$
+I(Q,\omega) = \left[ f_n(Q) \frac{1}{\pi} \frac{\Gamma_n(Q)}{\Gamma_n(Q)^2 + \omega^2} + f_b(Q) \frac{1}{\pi} \frac{\Gamma_b(Q)}{\Gamma_b(Q)^2 + \omega^2} + f_\delta(Q)\delta \right] \otimes R(Q,\omega) + C_1(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_2(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1(Q)\omega + C_1
+$$
+
+The variables, Γ (Q) and Γ (Q) are the widths of the Lorentzian curves: these were set to a constant value independent of Q ; the and referred to a narrow and a broad component, respectively; the referred to contribution of elastic scattering. The center of all fitting functions is the same at each Q. The equation then became:
+
+$$
+I(Q,\omega) = \left[ f_n(Q) \frac{1}{\pi} \frac{\Gamma_n}{\Gamma_n^2 + \omega^2} + f_b(Q) \frac{1}{\pi} \frac{\Gamma_b}{\Gamma_b^2 + \omega^2} + f_\delta(Q)\delta \right] \otimes R(Q,\omega) + linear \ background
+$$
+
+A representative overall fit is shown in Fig. S45, and the amplitudes for each component were fitted against Q at all five temperature points (Fig. S46).
+
+![](_page_51_Figure_6.jpeg)
+
+**Figure S45**. A representative overall fit of the QENS spectra. Only raw data points and fitted curves from different components of the model are shown.
+
+![](_page_52_Figure_0.jpeg)
+
+**Figure S46**. The fitted amplitudes for the (a, b) narrow components, (c, d) broad components and (e, f) delta components for MIL-125 and MIL-125-Zn. The different Q dependence of the Lorentzian amplitudes points to different motions, for example, one could be a tumbling while the other could be a rotation around an axis. Data points are shown as mean values with error bars indicating standard deviation for the fitting against *Q* at temperatures of 27, 77, 127, 177, 227 °C.
+
+#### **15. Additional discussion**
+
+#### **15.1.** *Qst* **and toluene/cyclohexane adsorption**
+
+The isosteric heats of adsorption (*Qst*) for benzene uptake in MIL-125-Zn are 58−62 kJ mol−1 at surface coverage up to 5.8 mmol g−1 , indicating strong host-guest interactions, consistent with the sharp adsorption at low pressure. These are further increased to 69 kJ mol−1 at 7.4 mmol g−1 owing to additional guest-guest interactions (Fig. S10). Similar trends are observed for MIL-125-defect and other MIL-125-X materials, except for MIL-125-Fe, which shows lower *Qst* (47−48 kJ mol−1 ) at surface coverage up to 5.1 mmol g−1 , consistent with its slightly lower adsorption. Adsorption isotherms of toluene and cyclohexane were also recorded at 298−318 K for MIL-125-Zn (Fig. S11). At 298 K and relative pressure P/P<sup>0</sup> = 0.01, MIL-125-Zn exhibits higher uptakes for toluene (3.92 mmol g−1 ) and benzene (7.63 mmol g−1 ) compared with cyclohexane (1.48 mmol g−1 ), indicating favoured adsorption affinity to aromatic compounds, consistent with the higher *Qst* for toluene and benzene (Fig. S12).
+
+#### **15.2. Binding domains for adsorbed benzene**
+
+MIL-125-X (X = Mn, Fe, Co, Ni, Cu) all present only four binding sites for benzene, sites Ⅰ–ⅠⅠⅠ in octahedral cages and site Ⅳ in tetrahedral cages (Fig. S32-S41). Likewise, XII··· πbenzene interactions are observed at site Ⅰ, but at longer distances [3.72(2)–3.97(2) Å] than that observed for MIL-125-Zn [2.43(9)–3.69(9) Å]. This weaker interaction between benzene and these metal centers compared with ZnII··· πbenzene is consistent with their lower uptake at low pressure. Apart from this, MIL-125-X (X = Mn, Fe, Co, Ni, Cu) all exhibit analogous host-guest interactions with benzene (Fig. S32-S41). In addition, C–H(or D)benzene···πbenzene interactions are found between guest benzene molecules [Supplementary Section 10]. It is worth noting that the π∙∙∙cation interactions observed in MIL-125-X play an important role in promoting its adsorption performance compared with other leading sorbents, such as BUT-55<sup>4</sup> and ZJU-520(Al)<sup>7</sup> , for which the adsorbed benzene molecules are primarily stabilised by π∙∙∙π interactions accompanied by hydrogen bonding (Table S2).
+
+#### **15.3. ssNMR**
+
+Magic angle spinning (MAS) NMR spectra were recorded for MIL-125, MIL-125-defect and MIL-125-Zn. The {<sup>1</sup>H-} <sup>13</sup>C cross-polarisation (CP) MAS NMR spectra (Fig. 4e), as well as the <sup>1</sup>H MAS NMR spectra (Fig. S44), show that the bare MOFs are all very similar in the structural organisation of their frameworks as they share the same resonances. Notably, along with the expected <sup>13</sup>C resonances for carboxylate (d{<sup>13</sup>C} = 173 ppm) and aromatic (d{<sup>13</sup>C} = 130 and 135 ppm) carbons, resonances from aliphatic carbons can be observed in all MOFs. These have been assigned to residual methanol and dimethylamine (DMA) species; the latter arise as a product of DMF degradation during MOF synthesis<sup>13</sup>. The presence of these species after sample activation suggests that they are framework-bound and that even the pristine MIL-125 contains defect sites.
+
+## **16. References**
+
+- 1. Dan-Hardi, M. et al. A new photoactive crystalline highly porous titanium (IV) dicarboxylate. *J. Am. Chem. Soc.* **131**, 10857-10859 (2009).
+- 2. Zhang, Y. et al. Single-atom Cu anchored catalysts for photocatalytic renewable H<sup>2</sup> production with a quantum efficiency of 56%. *Nat. Commun.* **13**, 58 (2022).
+- 3. Xie, L. H., Liu, X. M., He, T. & Li, J. R. Metal-organic frameworks for the capture of trace aromatic volatile organic compounds. *Chem* **4**, 1911-1927 (2018).
+- 4. He, T. et al. Trace removal of benzene vapour using double-walled metal-dipyrazolate frameworks. *Nat. Mater.* **21**, 689-695 (2022).
+- 5. Han, Y. et al. Control of the pore chemistry in metal-organic frameworks for efficient adsorption of benzene and separation of benzene/cyclohexane. *Chem* **9**, 739-754 (2023).
+- 6. Hu, L. et al. A novel aluminum‐based metal‐organic framework with uniform micropores for trace BTEX adsorption. *Angew. Chem., Int. Ed.* **62**, e202215296 (2023).
+- 7. Hu, L. et al. Double-walled Al-based MOF with large microporous specific surface area for trace benzene adsorption. *Nat. Commun*. **15**, 1–8 (2024).
+- 8. Lv, J.-A. *et al.* Interior and exterior surface modification of Zr-based metal–organic frameworks for trace benzene removal. *Inorg. Chem.* **63**, 4249–4259 (2024).
+- 9. Tu, T. N. *et al.* Metal–organic frameworks for aromatic-based VOC capture. *Sep. Purif. Technol.* **333**, 125883 (2024).
+- 10. Galli, S. *et al.* Adsorption of harmful organic vapors by flexible hydrophobic bis-pyrazolate based MOFs. *Chem. Mater.* **22**, 1664–1672 (2010).
+- 11. Tripathi, A.K. et al. QENS and FTIR studies on binding states of benzene molecules adsorbed in zeolite HZSM-5 at room temperature. *Phys. Chem. Chem. Phys.* **3**, 4449-4455 (2001).
+- 12. Ramirez-Cuesta, A., Smith, R., Mamontov, E. & Cheng, Y. ICE-MAN the integrated computational environment for modeling and analysis for neutrons at ORNL. *EPJ Web Conf.* **272**, 01013 (2022).
+- 13. Fu, Y. et al. Solvent-derived defects suppress adsorption in MOF-74. *Nat. Commun.* **14**, 2386 (2023).
+
+根据提供的文献内容，生成实验流程复现文献实验
+

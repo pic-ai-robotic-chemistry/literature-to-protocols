@@ -1,0 +1,1393 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# **nature chemistry**
+
+# **Introducing metal–sulfur active sites in metal–organic frameworks via post-synthetic modification for hydrogenation catalysis**
+
+Received: 29 October 2024
+
+Accepted: 16 June 2025
+
+Published online: xx xx xxxx
+
+ [C](http://crossmark.crossref.org/dialog/?doi=10.1038/s41557-025-01876-y&domain=pdf)heck for updates
+
+**Haomiao Xie <sup>1</sup> , Milad Ahmadi Khoshooei <sup>1</sup> , Mukunda Mandal2 , Simon M. Vornholt3 , Jan Hofmann <sup>3</sup> , Luke M. Tufaro3 , Kent O. Kirlikovali  <sup>1</sup> , Dawson A. Grimes <sup>1</sup> , Seryeong Lee <sup>1</sup> , Shengyi Su1 , Susanne Reischauer1 , Debabrata Sengupta <sup>1</sup> , Kira Fahy1 , Kaikai Ma1 , Xiaoliang Wang  <sup>1</sup> , Fanrui Sha  <sup>1</sup> , Wei Gong  <sup>1</sup> , Yongwei Che  <sup>1</sup> , Jenny G. Vitillo <sup>4</sup> , John S. Anderson <sup>2</sup> , Justin M. Notestein  <sup>1</sup> , Karena W. Chapman  <sup>3</sup> , Laura Gagliardi  5 & Omar K. Farha  1,6**
+
+Metal–sulfur active sites play a central role in catalytic processes such as hydrogenation and dehydrogenation, yet the majority of active sites in these compounds reside on the surfaces and edges of catalyst particles, limiting overall efciency. Here we present a strategy to embed metal–sulfur active sites into metal–organic frameworks (MOFs) by converting bridging or terminal chloride ligands into hydroxide and subsequently into sulfde groups through post-synthetic modifcation. We apply this method to two representative MOF families: one featuring one-dimensional metal–chloride chains and another containing discrete multinuclear metal clusters. Crystallographic and spectroscopic analyses confrm structural integrity and sulfde incorporation, and the transformation is monitored by in situ total scattering methods. The sulfded MOFs display enhanced catalytic activity in the selective hydrogenation of nitroarenes using molecular hydrogen. Density functional theory calculations indicate that sulfur incorporation promotes homolytic metal–ligand bond cleavage and facilitates H2 activation. This work establishes an approach to construct MOFs featuring accessible metal–sulfde sites.
+
+Highly polarizable components, such as sulfur-containing groups, in catalytic processes have emerged as a forefront area of research due to their unique ability to modulate chemical reactivity through electronic coupling. In this context, metal–sulfide compounds are of particular interest as they leverage the electronic flexibility of sulfur centres[1](#page-7-0)[–5](#page-8-0) , resulting in a more covalent nature of M–S bonds compared with their oxygen analogues, enhancing the charge-transfer properties that play important roles in catalytic processe[s1](#page-7-0),[6–](#page-8-1)[9](#page-8-2) . Nature's ingenious use of sulfur-containing species, such as Fe4S4, Fe–V–S, Fe–Mo–S clusters and Cu–S moieties, in the active sites of enzymes for critical redox reactions has afforded excellent reactivity within biological systems for transformations such as hydrogenation and dehydrogenation[8](#page-8-3),[10–](#page-8-4)[15](#page-8-5). Despite their efficacy, however, the fragility and complexity of enzyme systems often limit their scalability and industrial application[16](#page-8-6).
+
+In contrast to enzymatic sulfur-containing species, transition metal–sulfur compounds, exemplified by MoS2 (refs. [17](#page-8-7)[–20](#page-8-8)) and CoS*<sup>x</sup>*
+
+1 Department of Chemistry and International Institute of Nanotechnology, Evanston, IL, USA. 2 Department of Chemistry, University of Chicago, Chicago, IL, USA. 3 Department of Chemistry, Stony Brook University, Stony Brook, NY, USA. 4 Department of Science and High Technology and INSTM, Universita degli Studi dell'Insubria, Como, Italy. 5 Department of Chemistry and Pritzker School of Molecular Engineering, University of Chicago, Chicago, IL, USA. 6 Department of Chemical and Biological Engineering, Northwestern University, Evanston, IL, USA.  e-mail: [haomiao.xie@northwestern.edu](mailto:haomiao.xie@northwestern.edu); [lgagliardi@uchicago.edu;](mailto:lgagliardi@uchicago.edu) [o-farha@northwestern.edu](mailto:o-farha@northwestern.edu)
+
+(refs. [21](#page-8-9)[–23\)](#page-8-10), offer relatively greater stability and have been demonstrated to play a essential role in various catalytic processes, including hydrogen splitting and hydrogenation[6,](#page-8-1)[7](#page-8-11)[,21](#page-8-9),[22.](#page-8-12) The catalytic efficacy of these compounds is intrinsically tied to the local environment of the active sites, where the morphology of particles, particularly at the surfaces and edges, becomes crucial for catalytic performance. This necessitates sophisticated defect engineering to maximize exposure of active sites. It has been demonstrated that increasing the surface areas of these systems improves the catalytic performance as the active sites are more easily accessible, ensuring efficient mass transport[24](#page-8-13)–[27.](#page-8-14)
+
+Beyond these well-known materials, metal–organic frameworks (MOFs) represent a burgeoning class of materials with notable implications for catalysis. The structural robustness and high internal surface areas of MOFs make them ideal for serving as high-performing catalysts and hosting catalytic substrates[28–](#page-8-15)[30](#page-8-16). In fact, encapsulating enzymes within MOF pores can substantially enhance both stability and catalytic efficiency relative to those of the free enzym[e31–](#page-8-17)[34](#page-8-18). Furthermore, MOFs featuring open metal sites as reactive centres have been identified as promising candidates in catalysis, offering well-organized and protected reactive centres in a solid-state framework[30,](#page-8-16)[35](#page-8-19)[–37.](#page-8-20) However, the synthesis of MOFs incorporating highly polarizable components, such as sulfide bridges, metal–sulfur-based clusters or thiolate linkers, remains largely underexplored, with only a few known examples[38–](#page-8-21)[45.](#page-8-22) The primary challenges hindering progress in this area include the instability of metal–sulfur clusters, the comparatively lower crystallinity than metal–oxide-based MOFs resulting from the irreversible nature of forming highly polarized bonds, the poorly understood effects of templating agents on sulfur-containing structures, and the overarching need for novel synthetic methodologies to achieve desired topologie[s38.](#page-8-21)
+
+Post-synthetic modification[46](#page-9-3) has emerged as a promising strategy to modify bridging linkers and/or transform metal clusters, such as metal–oxide clusters, into their sulfur counterparts by leveraging the inherent topology of parent MOFs, the extensive database of known structures and the simplified synthetic conditions required (Fig. [1a\)](#page-2-0). This approach not only mitigates the challenges associated with direct synthesis but also opens new avenues for the development of advanced catalytic materials.
+
+In this study, we selected two families of specific MOFs with potentially redox-active metal centres and accessible open metal sites: M2Cl2BBTA (M = Co, Ni; H2BBTA = 1*H*,5*H*-benzo(1,2-d:4,5-d′)bistriazole; Fig. [1b](#page-2-0)) [47](#page-9-4)[–49](#page-9-5) and M-MFU-4*l*-Cl (M*x*Zn5−*x*Cl4(BTDD)3; *x* = 4 for M = Co and *x* = 2.5 for M = Ni; H2BTDD = bis(1*H*-1,2,3-triazolo[4,5-b][4′,5′-i])dibenzo [1,4]dioxin; Fig. [1c](#page-2-0)) [50](#page-9-6)[–52](#page-9-7) as parent MOFs. We converted them to their hydroxide-bridged versions, M2(OH)2BBTA and M-MFU-4*l*-OH, and subsequently to their sulfided versions, M2(SH)2BBTA and M-MFU-4*l*-SH, and elucidated their crystal structures using a combination of singlecrystal X-ray diffraction and electron diffraction techniques. In situ pair distribution function (PDF) analysis revealed real-time insights into the sulfidation process, enabling dynamic tracking of structural transformations during modification. We evaluated the catalytic performance of the sulfided MOFs with a model reaction using chemoselective hydrogenation of nitroarenes—the reduction of aryl –NO2 to –NH2. The sulfided MOFs showed markedly enhanced hydrogenation reactivity compared with their parent MOFs, which contain terminal or bridging chloride and hydroxyl groups. Density functional theory (DFT) calculations clarified the mechanism, showing sulfide ligands promote the homolytic cleavage of metal–ligand (M–X) bonds, leading to more efficient H2 activation. These integrated experimental and computational investigations reveal key reactivity trends and emphasize the crucial role sulfur incorporation plays in modulating the catalytic properties of MOFs.
+
+#### **Results and discussion**
+
+#### **Sulfidation of MOFs via post-synthetic methods**
+
+For the post-synthetic modification, we selected two types of MOFs, M2Cl2BBTA and M-MFU-4*l*-Cl (M = Co, Ni), to investigate how isolated metal nodes or one-dimensional (1D) chains with adjacent centres affect the properties of hydrogenation reactions. Both MOFs have similar triazolate linkers as supporting ligands and comparable pore sizes (Fig. [1\)](#page-2-0). In enzymes, nitrogen-containing heterocyclic groups such as imidazoles have been proposed to extend the conjugation system for electron tunnelling with metal–sulfide clusters[53.](#page-9-0) Similarly, the triazolate groups in these MOFs can potentially act as *π*-acceptors to enhance the electronic polarizability of the metal centre[54](#page-9-1)[–56.](#page-9-2) With these two types of parent MOFs in hand, we then performed post-synthetic modifications to install metal–sulfur linkages.
+
+In M2Cl2BBTA (M = Co, Ni), chloride serves as a bridging ligand between adjacent metal centres, providing a well-defined, substitutionally labile bridge that can be targeted easily to access other functionalities. During our initial attempts at replacing chloride in the presence of H2S, we observed slow and incomplete conversion to the SH variant (for example, ~50% Cl replaced by SH after 48 h). We presume this limited reactivity is due to the formation of the by-product HCl, which is a strong acid and drives the reaction backward. To circumvent this issue, we elected to treat the chloride-based MOFs with KOH to transform the bridging chloride anions into bridging hydroxyl groups, with the MOF products denoted as M2(OH)2BBTA. Replacement of the chloride was confirmed by X-ray photoelectron spectroscopy (XPS) analysis (Supplementary Figs. 9 and 12), while the integrity of the frameworks was confirmed by powder X-ray diffraction (PXRD) analysis (Supplementary Figs. 1 and 2) and N2 sorption isotherms collected at 77 K (Supplementary Fig. 6). We reasoned that bridging hydroxyl groups would make the subsequent sulfidation reaction more feasible as water would be the leaving group. Indeed, reacting M2(OH)2BBTA with in situ-generated H2S converted the lightly coloured MOF powders to dark brown within minutes, with ultraviolet–visible (UV–vis) spectra showing broad absorption bands in the visible-light range (Supplementary Fig. 56) and the *ν*S–H bands appears on the infrared spectra (Supplementary Fig. 57), signalling the formation of the SH-bridging analogues M2(SH)2BBTA (Fig. [2\)](#page-3-0). XPS (Supplementary Tables 6 and 9) and energy-dispersive X-ray spectroscopic (EDS) analysis (Supplementary Figs. 21 and 23) revealed the anticipated 1:1 ratio between metal and sulfur, which suggests complete replacement of the hydroxyls with sulfhydryls. Importantly, scanning electron microscopy (SEM) images confirmed that these post-synthetic modifications did not affect the particle size or morphology (Supplementary Figs. 20 and 22). We note that the Co:S ratio can exceed 1:1 when excess H2S is used (Supplementary Fig. 21), which can be attributed to the formation of polysulfides in the MOF cavities.
+
+For the M2X2BBTA series (M = Co, Ni; X = Cl, OH, SH), single-crystal X-ray diffraction (SCXRD) or electron diffraction experiments enabled us to determine the solid-state structures of these MOFs. All structures were solved under the *R*-*3*m space group with similar unit cell parameters (Supplementary Table 1), indicating that the parent MOFs' topology was preserved through these transformations. The simulated PXRD patterns closely match those of the experimental data (Fig. [3a](#page-4-0) and Supplementary Figs. 1 and 2), which confirms the phase purity of the bulk samples. Examination of the coordination sphere revealed that all metal ions are octahedrally coordinated and surrounded by three nitrogen atoms from different triazolate linkers. Two additional sites are occupied by X atoms from bridging groups, and the final site by terminal water molecules, except in the SH version. Notably, in the SH version, we discovered a disordered S5 chain bridging two cobalt atoms across two distinct 1D metal chains. This corresponds well with the high Co:S ratios observed when excess H2S was used in the synthesis (Supplementary Fig. 21). The sulfur contents of the sulfided samples were also confirmed by inductively coupled plasma-optical emission spectroscopy (ICP-OES) (Supplementary Table 18). The Co–N bond distances shortened from approximately 2.1 Å to 2.0 Å and 1.9 Å as the bridging groups changed from –Cl to –OH to –SH, respectively. This indicates that varying the bridging group alters the interactions a MOFs with discrete metal cluster nodes/MOFs with extended 1D chains
+
+![](_page_2_Figure_4.jpeg)
+
+<span id="page-2-0"></span>![](_page_2_Figure_5.jpeg)
+
+M2Cl2BBTA with 1D metal chains (**b**) and M-MFU-4*l*-Cl with discrete metal cluster nodes (**c**). Colour code: grey, carbon; red, oxygen; yellow, sulfur; blue, nitrogen; pale blue, metal.
+
+between the metal centres and the coordinating triazole moiety, affecting the metal–ligand bonding environment. In contrast, the Ni–N bond distances remained relatively consistent, around 2.1 Å across all versions, suggesting less variation in the metal–triazole interactions for the nickel-based structures. Next, we collected N2 adsorption isotherms of six samples (M2X2BBTA, where M = Co, Ni and X = Cl, OH, SH) at 77 K to analyse the intrinsic porosity of these materials. The total N2 uptakes of M2Cl2BBTA are STP 312 and 330 cm3  g−1 with calculated Brunauer–Emmett–Teller (BET) areas of 1,180 m2  g−1 and 1,190 m<sup>2</sup>  g−1 (Fig. [3c\)](#page-4-0) for M = Co and Ni, respectively, which corresponds well with the reported values and the theoretical values calculated from crystal structures (Supplementary Table 3). The total N2 uptakes of M2(SH)2BBTA are STP 200 and 228 cm3  g−1 with calculated BET surface areas of 650 and 730 m<sup>2</sup>  g−1 for M = Co and Ni, respectively, which correspond well with the theoretical values calculated from crystal structures with one terminal water occupying the open metal site. Combined, these results demonstrate that the intrinsic porosity of the framework is preserved after this post-synthetic modification protocol.
+
+Similarly, the conversion of M-MFU-4*l*-Cl to M-MFU-4*l*-SH (where M = Co, Ni) utilized the same stepwise methodology as in the BBTA version (that is, conversion of Cl to OH to SH; Supplementary Information, section B). First, the Co-MFU-4*l*-Cl or Ni-MFU-4*l*-Cl were synthesized upon incubation of the Zn-MFU-4*l*-Cl in dimethylformamide (DMF) solutions of the corresponding metal–chloride salt according to a previously published procedure[50–](#page-9-6)[52,](#page-9-7)[57](#page-9-8). The chemical formulas for these MOFs were determined to be Co4ZnCl4(BTDD)3 and Ni2.5Zn2.5Cl4(BTDD)3 through ICP-OES and XPS analyses, which
+
+![](_page_3_Figure_2.jpeg)
+
+<span id="page-3-0"></span>**Fig. 2 | Stepwise post-synthetic routes to embed metal–sulfide active sites into MOFs. a**,**b**, Synthesis of M2(SH)2BBTA (**a**) and M-MFU-4*l*-SH (**b**) (M = Co, Ni) via post-synthetic modifications. In **b**, the disorder arising from the coexistence of tetrahedral and octahedral coordination spheres in the M-MFU-4*l*metal nodes is
+
+depicted with only one type for clarity. Hydrogen atoms are omitted for clarity. Colour code: grey, carbon; red, oxygen; yellow, sulfur; blue, nitrogen; pale blue,metal.
+
+corresponds well with the results in the literature[52.](#page-9-7) Next, we converted chlorides to hydroxyl groups through the use of a 1 M aqueous solution of organic base 4-ethylmorpholine instead of KOH because the former prevented the degradation of the cobalt- and nickel-based MOFs. Finally, treatment of these hydroxyl-based MOFs with in situgenerated H2S afforded the anticipated colour change of the crystals to dark brown (Supplementary Fig. 56), indicating transformation of the hydroxyls to thiols. SCXRD analysis revealed that the framework structure remained largely intact post-conversion to the thiol analogues with only minor changes observed in the unit cell parameters (Supplementary Table 1). The M sites of M-MFU-4*l*-SH are in an octahedral coordination sphere. Three coordination bonds are occupied by nitrogen atoms from the triazolyl groups of the linkers, two by oxygen atoms from coordinating water molecules, and one by a sulfur atom from the –SH group (Fig. [2b\)](#page-3-0). Positional disorders of coordinating oxygen and sulfur atoms are observed due to the three-fold axis imposed by the crystallographic symmetry. Additionally, the experimental PXRD patterns (Fig. [3b](#page-4-0) and Supplementary Figs. 3 and 4) closely match those that were simulated from the crystal structures, confirming the phase purity of the bulk samples. The N2 adsorption isotherms of these six samples at 77 K are shown in Fig. [3d](#page-4-0) and confirm the permanent porosity of these samples. The theoretical values of N2 uptake calculated from single-crystal structures match well with the experimental values (Supplementary Table 3) for M-MFU-4*l*-X where M = Co, Ni and X = Cl, OH and SH, which confirm retention of the intrinsic porosity of the initial frameworks.
+
+#### **In situ PDF analysis of sulfidation process**
+
+Crystallographic analysis for both variants (M = Co, Ni) showed that the post-synthetic functionalization results in the same topology and space group, which suggests that exchanging the bridging ligands is associated with a local rearrangement that leads to the overall same long-range order. To confirm this retention of long-range order, we further studied Co2X2BBTA samples using in situ PDF measurements. Specifically, these unique in situ total scattering experiments followed the local rearrangement during the dechlorination of Co2Cl2BBTA to Co2(OH)2BBTA and the subsequent sulfidation of Co2(OH)2BBTA to Co2(SH)2BBTA.
+
+Initially, a sample of Co2Cl2BBTA was packed in a glass capillary and assembled in a liquid flow reactor under constant flow of 1 M KOH
+
+![](_page_4_Figure_2.jpeg)
+
+<span id="page-4-0"></span>**Fig. 3 | Structural integrity and sulfur incorporation characterizations across MOF series. a**,**b**, Experimental and simulated PXRD patterns of Co2X2BBTA (**a**) and Ni-MFU-4*l*-X (**b**) MOFs. **c**,**d**, N2 isotherms at 77 K of M2X2BBTA (**c**) and M-MFU-4*l*-X (**d**). **e**,**f**, XPS spectra of the S 2*p* peaks of Co2X2BBTA (**e**) and Ni-MFU-4*l*-X (**f**) (M = Co, Ni; X = Cl, OH, SH).
+
+to initiate the dechlorination[58](#page-9-9). Following this process using fast PDF data acquisition enabled the direct observation of time-dependent structural changes in the local order of the framework material. We observed that local changes occur almost immediately upon contact with the highly concentrated KOH solution (for example, within ~30 s; Fig. [4a\)](#page-5-0). The delay of about 15 s after the start of the experiment is assigned to dead volume in the sample environment upstream of the sample. The rapid conversion of Co2Cl2BBTA to Co2(OH)2BBTA was also confirmed by ex situ PDF studies using a more dilute media, which allowed us to track the rearrangement at a higher time resolution. After five exposure cycles to minimal amounts of KOH (0.1 μl of 0.01 M), ligand exchange at the local order of the metal nodes is observed from changes in peak intensities in the PDF data in which the Co–Cl peak decreases in intensity and Co–O peak rises (Fig. [4b](#page-5-0)).
+
+The sulfidation of Co2(OH)2BBTA was initiated through in situ generation of H2S using NaSH and acidified water as precursor, which was directed over the sample using nitrogen as the carrier gas. Similar to the transformation from Co–Cl to Co–OH species, the local rearrangement of the metal centres also occurred rapidly, within minutes after the gas flow reached the sample (Fig. [4c\)](#page-5-0). Conversion can be verified by a shift in the peak position around 2 Å (for example, shift
+
+![](_page_5_Figure_2.jpeg)
+
+# <span id="page-5-0"></span>**Fig. 4 | In situ structural evolution during sulfidation and catalytic**
+
+**hydrogenation performance.a**, Time-dependent PDF data of Co2Cl2BBTA under KOH flow. Each horizontal trace represents a PDF collected at a different time point (from bottom to top), with a time interval of 10 seconds. The PDF patterns of initial and final phase matching Co2Cl2BBTA and Co2(OH)2BBTA, respectively, are overlayed. **b**, PDF data of Co2Cl2BBTA before and after cycling with 0.1 M KOH. The Co2(OH)2BBTA PDF is used as a reference; the Co–O, Co–Ow (water) and Co–Cl
+
+from 2.05 Å to 2.13 Å) due to the difference in Co–O and Co–S bond lengths. In addition to structural verification from PDF analysis, the crystallinity and lattice symmetry were confirmed via PXRD analysis after each conversion step (Supplementary Fig. 5).
+
+#### **XPS analysis of sulfur incorporation**
+
+Following the successful conversion of MOFs to their sulfided versions, confirmed by X-ray techniques, XPS spectroscopy was used to further identify the oxidation state of the sulfided MOFs in the post-synthetically modified samples. For the M2X2BBTA series, the results indicate that after the treatments with KOH, there is no chloride left in the samples (Supplementary Figs. 8, 9, 11 and 12 and Supplementary Tables 4, 5, 7 and 8). After the H2S treatment, a peak of binding energy (BE) at ~163 eV (162.7 and 162.6 eV for Co2(SH)2BBTA and Ni2(SH)2BBTA, respectively) starts appearing on the XPS spectra (Fig. [3e](#page-4-0), Supplementary Figs. 10 and 13 and Supplementary Tables 6 and 9), which falls into the range of –SH functional groups with sulfur in the −2 oxidation state. However, the peak corresponding to the 2*p*3/2 band of cobalt only shifts in BE from 780.5 eV to 781.0 eV to 779.0 eV from X = Cl to OH to SH due to the different coordination environments. The preservation of the satellite feature indicates that the oxidation state of cobalt remains +2 (refs. [59–](#page-9-10)[61](#page-9-11)). The BE of the 2*p*3/2 band of Co2(SH)2BBTA is similar to those of previously reported cobalt sulfide compounds[62.](#page-9-12) For the M = Ni case, the 2*p*3/2 peaks of nickel shift from 855.7 eV to 854.6 eV to 853.0 eV for X = Cl, OH and SH, respectively. The BE of the nickel 2*p*3/2 band for Ni2(SH)2BBTA is similar to those of reported nickel sulfide compounds[62.](#page-9-12) Furthermore, the XPS results for
+
+**MOFs with 1D metal chains Co2X2BBTA % conversion Ni2X2BBTA % conversion** X = Cl 2 X = Cl 8 X = OH 9 X = OH 18
+
+| X = SH                               | >99          | X = SH      | 37           |
+|--------------------------------------|--------------|-------------|--------------|
+| MOFs with discrete<br>3D metal nodes |              |             |              |
+| Co-MFU-4l-X                          | % conversion | Ni-MFU-4l-X | % conversion |
+|                                      |              |             |              |
+| X = Cl                               | 4            | X = Cl      | 8            |
+| X = OH                               | 1            | X = OH      | 20           |
+
+the M-MFU-4*l*-X series showed similar patterns (Fig. [3f\)](#page-4-0). For instance, the treatment of M-MFU-4*l*-Cl (M = Co, Ni) with the organic base to form M-MFU-4*l*-OH efficiently removed the chloride in the samples (Supplementary Figs. 14, 15, 17 and 18 and Supplementary Tables 10, 11, 13 and 14). Similarly, following treatment of M-MFU-4*l*-OH with H2S, the peaks that appear in the XPS spectra around 162 eV demonstrate the successful incorporation of –SH group into the framework and the formation of M-MFU-4*l*-SH (Fig. [3f,](#page-4-0) Supplementary Figs. 16 and 19 and Supplementary Tables 12 and 15).
+
+**Table 1 | Conversion of 4-nitrophenol to 4-aminophenol via** 
+
+<span id="page-5-1"></span>**hydrogenation using molecular hydrogen and different MOFs**
+
+150 °C. Dotted lines represent the corresponding linear regressions.
+
+Time (h)
+
+bond distances are labelled. **c**, In situ PDF data of Co2(OH)2BBTA under H2S flow. Traces are shown from bottom to top, with each representing a time point spaced 30 seconds apart. The PDF graphs of initial and final phase matching Co2(OH)2BBTA and Co2(SH)2BBTA, respectively, are overlayed. **d**, Model reaction of hydrogenation of 4-nitrophenol to 4-aminophenol with molecular hydrogen. **e**, Time-dependent turnover number (TON) of Co2(SH)2BBTA (1.5 mol%) and Ni-MFU-4*l*-SH (5 mol%) at
+
+a Proposed mechanism Reaction coordinate b Energetics for active species **E** formation (MFU-4*l*) –2.6 13.3 9.3 11.6 18.5 70.1 50.4 –2.0 31.5 16.4 32.0 21.5 77.9 73.2 –20 **B C D E B C D E** 0 20 40 60 80 100 ∆*G*423K (kcal mol–1)–7.7 35.3 4.6 36.4 10.2 77.5 65.6 **B C D E** Heterolytic Homolytic 1. Ni–Cl Heterolytic Homolytic 2. Ni–OH Heterolytic Homolytic 3. Ni–SH 77.9 2. Ni–X (homolytic) Cl c Energetics for the reduction of Ar–NO2 to Ar–NO (MFU-4*l*) 80 100 1. Co–X (homolytic) Cl 95.5 85.1 N N N N N N N N N M **X** Zn MII N N N N N N N N N <sup>M</sup> **<sup>X</sup>** Zn MII O H3C H O H3C H N N N N N N N N N M Zn MI O CH3 H N N N N N N N N N M Zn H H O CH3 H N N N N N N N N N <sup>M</sup> <sup>H</sup> Zn MI H O H3C H N N N N N N N N N M Zn I HO OH N OH N N N N N N N N N M Zn I O OH2 N OH MeOH solvation Homolytic cleavage 1 <sup>2</sup> X2 On-metal H2 adsorption H2 dissociation + H2 OH <sup>N</sup> <sup>H</sup> OH OH <sup>N</sup> <sup>H</sup> <sup>H</sup> + H2 (–H2O) OH NO2 B <sup>A</sup> <sup>C</sup> <sup>D</sup> F G
+
+![](_page_6_Figure_3.jpeg)
+
+Reaction coordinate
+
+<span id="page-6-0"></span>**Fig. 5 | Computed mechanisms and energetics of hydrogenation catalysis in MOF-based systems. a**, Schematic of open metal-site generation, hydrogen adsorption and dissociation for subsequent Ar–NO2 reduction in the M-MFU-4*l* catalyst (M = Co, Ni). The seven corresponding species are denoted as **A**–**G**. **b**, Free-energy profiles (referenced to unsolvated species **A**) for active species **E** formation in Ni-MFU-4*l* with different Ni–X bonds (X = Cl, OH, SH), comparing
+
+# **Hydrogenation catalysis with sulfided MOFs**
+
+To test the catalytic performance of the sulfur-incorporated MOFs towards hydrogenation reactivity, the reduction of 4-nitrophenol to 4-aminophenol was selected as a model reaction. All 12 MOFs (M2X2BBTA and M-MFU-4*l*-X, where M = Co, Ni and X = Cl, OH, SH) were tested under the same conditions at 150 °C for 4.25 h under 13.8 bar (r.t.) H2 (Fig. [4d\)](#page-5-0) homolytic and heterolytic cleavage pathways. **c**, Free-energy profiles for Ar–NO2 reduction to Ar–NO catalysed by MFU-4*l* with (1) Co–X and (2) Ni–X active sites (X = Cl, OH, SH), highlighting the energetic favourability of the SH ligand in the homolytic pathway. In **b** and **c**, Gibbs free energies are reported in kcal mol−1 and were calculated at the M06-D3(0)/basis-II/SMD(MeOH)//TPSSh-D3(BJ)/basis-II level of theory.
+
+in a Parr vessel. The results of the reactions are summarized in Table [1](#page-5-1). The M2Cl2BBTA MOFs showed minimal conversion (that is, close to that of the background reaction without the inclusion of MOFs; Supplementary Figs. 29 and 32), and the conversion rate improved slightly for both M2(OH)2BBTA samples with ~9% and 18% conversion for M = Co and Ni, respectively. In contrast, M2(SH)2BBTA exhibited a notable improvement in the conversion rate to ~37% for nickel and ~100% for cobalt. Interestingly, for the M-MFU-4*l*-X series, M = Co showed relatively low conversion when X = Cl (~4%), X = OH (~1%) and even when X = SH (~23%). In contrast, the Ni-MFU-4*l*-X analogues demonstrated relatively higher conversion rates (~8% for X = Cl and ~20% for X = OH), and Ni-MFU-4*l*-SH achieved >99% conversion under these conditions. Cycling studies revealed that both Co2(SH)2BBTA and Ni-MFU-4*l*-SH showed consistent conversion rates of >99% under the same conditions. Next, we studied the kinetics of these reactions with lower catalyst loadings (Fig. [4e](#page-5-0)). At 1.5 mol% loading, Co2(SH)2BBTA achieved a turnover frequency (TOF) of 2.4 ± 0.1 h−1. However, the TOF for Ni-MFU-4*l*-SH at the 5% catalyst loading was measured to be 1.7 ± 0.1 h−1) under analogous conditions.
+
+#### **Mechanistic elucidation with density functional theory calculations**
+
+To elucidate the experimentally observed reactivity trends in nitroarene hydrogenation, we performed density functional theory (DFT) calculations. Starting with extended crystals constrained by periodic boundary conditions, we constructed finite-sized cluster models by truncating the framework around a metal node (Extended Data Fig. 1). Using these cluster models, we propose a reaction pathway that begins with the coordination of methanol solvent molecule(s) to the metal centres, followed by M–X bond cleavage to generate an open metal site, H2 adsorption and subsequent H–H bond dissociation, ultimately forming the active species **E** (Fig. [5a\)](#page-6-0) responsible for reduction catalysis[63,](#page-9-13)[64.](#page-9-14)
+
+Experimentally, we found that methanol is critical for the catalysis. To probe its role, we systematically explored methanol coordination effects (Supplementary Fig. 42) and observed distinct solvation behaviours across different MOFs. For example, the Co(II) centre in MFU-4*l* is predicted to remain tetrahedral (unsolvated), whereas the Ni(II) centre should adopt an octahedral geometry (solvated). Moreover, we propose a methanol-assisted pathway for H2 dissociation and the formation of active species **E** (Fig. [5a](#page-6-0), Extended Data Fig. 2 and Supplementary Information, sections H.5–H.5) consistent with the hydrogenation catalysis observed in cobalt single-atom system[s64](#page-9-14).
+
+The formation of open metal sites was investigated by exploring both homolytic (C1) and heterolytic (C2) M–X bond cleavage routes (Fig. [5a](#page-6-0) and Extended Data Fig. 2). Computational results show that the SH ligand facilitates homolytic cleavage, with the MFU-4*l* framework demonstrating a preference for the homolytic route over the heterolytic one (Δ*G*(C1–C2) = −4.0 kcal mol−1; Fig. [5b\)](#page-6-0). In contrast, Cl and OH ligands favour the heterolytic pathway, with Δ*G*(C1–C2) values of 30.7 and 15.1 kcal mol−1, respectively.
+
+Following open metal site generation, H2 adsorption and subsequent methanol-mediated dissociation leads to the formation of active species **E**. For the Ni-MFU-4*l*-X series, the SH group enables the most facile generation of **E** (Δ*G*423K(**E**) = 53.0 kcal mol−1; Fig. [5b](#page-6-0)), whereas Cl and OH groups require higher energy with Δ*G*423K(**E**) values of 73.3 and 75.2 kcal mol−1, respectively. This reactivity trend across X groups persists for Co-MFU-4*l* systems, with SH remaining the most reactive ligand (Fig. [5c\(1\)](#page-6-0)). However, Co-MFU-4*l*-SH (Δ*G*423K(**E**) = 61.0 kcal mol−1) is predicted to exhibit lower reactivity than its nickel analogue (Δ*G*423K(**E**) = 53.0 kcal mol−1), consistent with experimental observations.
+
+A similar mechanism was invoked in the 1D BBTA system (Extended Data Fig. 2), which also shows preference for the SH group over Cl or OH for both cobalt and nickel variants (Supplementary Fig. 54). Interestingly, within the BBTA framework, our calculations predict that the Co–SH catalyst generates species **E** more favourably than the Ni–SH analogue, with Δ*G*423K(**E**) values of 62.4 and 67.6 kcal mol−1, respectively. These results again corroborate the experimentally observed higher conversion rates for Co–SH compared with Ni–SH in the 1D BBTA framework.
+
+To better understand the reactivity trends of various X ligands (X = Cl, OH, SH) bound to metal centres M (= Co, Ni), we performed energy decomposition analysis (EDA) based on absolutely localized molecular orbitals (ALMOs)[65](#page-9-15),[66.](#page-9-16) This approach enabled a detailed analysis of the contributions to MII–X bonding in MFU-4*l*-Ni–X systems, as detailed in Supplementary Information, section H.10 and Extended Data Table 1. The total electronic contribution (Δ*E*tot) for binding X**·** to a formal M(I) site showed increasing M–X interaction strength from SH to OH to Cl, with binding energies (in kcal mol−1) of −72.0 (SH), −83.2 (OH) and −94.4 (Cl). This trend was dominated by the charge-transfer term (Δ*E*CT), which quantifies energy lowering from orbital mixing between X**·** and M(I) fragments, showing increasingly favourable Δ*E*CT values (in kcal mol−1) of −59.9 (SH), −85.9 (OH) and −92.7 (Cl). These results indicate reduced electron density sharing between the metal centre and SH ligand compared with OH or Cl, resulting in a more labile MII–SH bond with enhanced propensity for generating open metal sites. Consequently, the ease of homolytic MII–X bond cleavage and open metal site generation decreases in the order: SH > OH > Cl.
+
+We further explored the differential reactivity of CoII–SH and NiII–SH active sites in BBTA and MFU-4*l* frameworks by analysing bonding interactions between open metal sites (MI ; M = Co, Ni) and H2 molecules. Using ALMO-EDA analysis, we found that coordination geometry plays a decisive role in determining catalytic performance (Supplementary Information, section H.10 and Extended Data Table 2). In the pseudo-octahedral environment of BBTA, Co(I) (*d*<sup>8</sup> ) with two singly occupied *eg* orbitals experiences lower Pauli repulsion (13.5 kcal mol−1) than Ni(I) (*d*<sup>9</sup> ) with one doubly and one singly occupied *eg* orbital (51.8 kcal mol−1), resulting in stronger H2 adsorption at Co(I) centres (−5.8 kcal mol−1 versus −3.7 kcal mol−1 for Ni(I)). Conversely, in the pseudo-tetrahedral MFU-4*l* framework, this trend reverses due to inverted crystal field splitting, with Ni(I) showing lower Pauli repulsion (32.0 kcal mol−1 versus 39.4 kcal/mol) and stronger H2 binding (−20.9 kcal mol−1 versus −14.9 kcal mol−1) than Co(I). These findings rationalize the observed reactivity patterns: cobalt performs better in octahedral BBTA environments, whereas nickel demonstrates superior activity in tetrahedral MFU-4*l* frameworks.
+
+#### **Conclusion**
+
+We developed a stepwise post-synthetic strategy for synthesizing MOFs with highly polarizable SH groups by converting M–Cl species to M–OH and subsequently to M–SH (M = Co, Ni), overcoming challenges in the direct synthesis of metal–sulfur MOFs. This method was successfully applied to both 1D M2(SH)2BBTA and 3D M-MFU-4*l*-SH series, with SCXRD and PDF analyses confirming quantitative conversion. Catalytic studies on 4-nitrophenol hydrogenation demonstrated that incorporating sulfur-based ligands substantially enhances reactivity compared to chloride- and hydroxide-based analogues. DFT calculations further showed that the lability of the metal–sulfur bond plays a crucial role in the M–X bond cleavage pathway, enhancing hydrogen activation and offering valuable insights for future MOF-based catalyst design. This approach establishes a versatile method for integrating polarizable sulfur components into porous materials, broadening opportunities for high-performance catalyst development.
+
+#### **Online content**
+
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at<https://doi.org/10.1038/s41557-025-01876-y>.
+
+#### **References**
+
+<span id="page-7-0"></span>1. Omann, L., Königs, C. D. F., Klare, H. F. T. & Oestreich, M. Cooperative catalysis at metal–sulfur bonds. *Acc. Chem. Res.* **50**, 1258–1269 (2017).
+
+- 2. Vahrenkamp, H. Sulfur atoms as ligands in metal complexes. *Angew. Chem. Int. Ed.* **14**, 322–329 (1975).
+- 3. Paradiso, V., Capaccio, V., Lamparelli, D. H. & Capacchione, C. Metal complexes bearing sulfur-containing ligands as catalysts in the reaction of CO2 with epoxides. *Catalysts* **10**, 825 (2020).
+- 4. Hossain, K., Atta, S., Chakraborty, A. B., Karmakar, S. & Majumdar, A. Nonheme binuclear transition metal complexes with hydrosulfide and polychalcogenides. *Chem. Commun.* **60**, 4979–4998 (2024).
+- <span id="page-8-0"></span>5. Kuwata, S. & Hidai, M. Hydrosulfido complexes of transition metals. *Coord. Chem. Rev.* **213**, 211–305 (2001).
+- <span id="page-8-1"></span>6. Jamal, F. et al. Review of metal sulfide nanostructures and their applications. *ACS Appl. Nano Mater.* **6**, 7077–7106 (2023).
+- <span id="page-8-11"></span>7. Toe, C. Y. et al. Recent advances and the design criteria of metal sulfide photocathodes and photoanodes for photoelectrocatalysis. *J. Mater. Chem. A* **9**, 20277–20319 (2021).
+- <span id="page-8-3"></span>8. Solomon, E. I., Szilagyi, R. K., DeBeer George, S. & Basumallick, L. Electronic structures of metal sites in proteins and models: contributions to function in blue copper proteins. *Chem. Rev.* **104**, 419–458 (2004).
+- <span id="page-8-2"></span>9. Luo, J., Montag, M. & Milstein, D. Metal–ligand cooperation with thiols as transient cooperative ligands: acceleration and inhibition efects in (de)hydrogenation reactions. *Acc. Chem. Res.* **57**, 1709–1721 (2024).
+- <span id="page-8-4"></span>10. Einsle, O. & Rees, D. C. Structural enzymology of nitrogenase enzymes. *Chem. Rev.* **120**, 4969–5004 (2020).
+- 11. Liu, J. et al. Metalloproteins containing cytochrome, iron–sulfur, or copper redox centers. *Chem. Rev.* **114**, 4366–4469 (2014).
+- 12. Seefeldt, L. C. et al. Reduction of substrates by nitrogenases. *Chem. Rev.* **120**, 5082–5106 (2020).
+- 13. Jasniewski, A. J., Lee, C. C., Ribbe, M. W. & Hu, Y. Reactivity, mechanism, and assembly of the alternative nitrogenases. *Chem. Rev.* **120**, 5107–5157 (2020).
+- 14. Tanifuji, K., Ohta, S., Ohki, Y. & Seino, H. Activation of unsaturated small molecules by bio-relevant multinuclear metal-sulfur clusters. *Coord. Chem. Rev.* **475**, 214838 (2023).
+- <span id="page-8-5"></span>15. Cammack, R. in *Advances in Inorganic Chemistry* Vol. 38 (ed. Cammack, R.) 281–322 (Academic Press, 1992).
+- <span id="page-8-6"></span>16. Snyder, B. E. R., Bols, M. L., Schoonheydt, R. A., Sels, B. F. & Solomon, E. I. Iron and copper active sites in zeolites and their correlation to metalloenzymes. *Chem. Rev.* **118**, 2718–2768 (2018).
+- <span id="page-8-7"></span>17. He, Z. & Que, W. Molybdenum disulfide nanomaterials: structures, properties, synthesis and recent progress on hydrogen evolution reaction. *Appl. Mater. Today* **3**, 23–56 (2016).
+- 18. Hu, J. et al. Sulfur vacancy-rich MoS2 as a catalyst for the hydrogenation of CO2 to methanol. *Nat. Catal.* **4**, 242–250 (2021).
+- 19. Zang, Y. et al. Tuning orbital orientation endows molybdenum disulfide with exceptional alkaline hydrogen evolution capability. *Nat. Commun.* **10**, 1217 (2019).
+- <span id="page-8-8"></span>20. Gao, M.-R., Chan, M. K. Y. & Sun, Y. Edge-terminated molybdenum disulfide with a 9.4-Å interlayer spacing for electrochemical hydrogen production. *Nat. Commun.* **6**, 7493 (2015).
+- <span id="page-8-9"></span>21. Chen, H.-Q. et al. Recent developments and perspectives of cobalt sulfide-based composite materials in photocatalysis. *Catalysts* **13**, 544 (2023).
+- <span id="page-8-12"></span>22. Liu, Y. et al. Roles of sulfur-edge sites, metal-edge sites, terrace sites, and defects in metal sulfides for photocatalysis. *Chem Catalysis* **1**, 44–68 (2021).
+- <span id="page-8-10"></span>23. Chen, X. et al. Recent advances in cobalt disulfide for electrochemical hydrogen evolution reaction. *Int. J. Hydrogen Energy* **48**, 9231–9243 (2023).
+- <span id="page-8-13"></span>24. Zhou, H. et al. Eficient hydrogen evolution by ternary molybdenum sulfoselenide particles on self-standing porous nickel diselenide foam. *Nat. Commun.* **7**, 12765 (2016).
+- 25. Yin, Y. et al. Contributions of phase, sulfur vacancies, and edges to the hydrogen evolution reaction catalytic activity of porous molybdenum disulfide nanosheets. *J. Am. Chem. Soc.* **138**, 7965–7972 (2016).
+- 26. Yin, J. et al. Oxygen vacancies dominated NiS2/CoS2 interface porous nanowires for portable Zn–air batteries driven water splitting devices. *Adv. Mater.* **29**, 1704681 (2017).
+- <span id="page-8-14"></span>27. Zhang, C., Shi, Y., Yu, Y., Du, Y. & Zhang, B. Engineering sulfur defects, atomic thickness, and porous structures into cobalt sulfide nanosheets for eficient electrocatalytic alkaline hydrogen evolution. *ACS Catal.* **8**, 8077–8083 (2018).
+- <span id="page-8-15"></span>28. Furukawa, H., Cordova, K. E., O'Keefe, M. & Yaghi, O. M. The chemistry and applications of metal–organic frameworks. *Science* **341**, 1230444 (2013).
+- 29. Yaghi, O. M. et al. Reticular synthesis and the design of new materials. *Nature* **423**, 705–714 (2003).
+- <span id="page-8-16"></span>30. Bavykina, A. et al. Metal–organic frameworks in heterogeneous catalysis: recent progress, new trends, and future perspectives. *Chem. Rev.* **120**, 8468–8535 (2020).
+- <span id="page-8-17"></span>31. Wang, X., Lan, P. C. & Ma, S. Metal–organic frameworks for enzyme immobilization: beyond host matrix materials. *ACS Cent. Sci.* **6**, 1497–1506 (2020).
+- 32. Shortall, K., Otero, F., Bendl, S., Soulimane, T. & Magner, E. Enzyme immobilization on metal organic frameworks: the efect of bufer on the stability of the support. *Langmuir* **38**, 13382–13391 (2022).
+- 33. Lian, X. et al. Enzyme–MOF (metal–organic framework) composites. *Chem. Soc. Rev.* **46**, 3386–3401 (2017).
+- <span id="page-8-18"></span>34. Drout, R. J., Robison, L. & Farha, O. K. Catalytic applications of enzymes encapsulated in metal–organic frameworks. *Coord. Chem. Rev.* **381**, 151–160 (2019).
+- <span id="page-8-19"></span>35. Hall, J. N. & Bollini, P. Structure, characterization, and catalytic properties of open-metal sites in metal organic frameworks. *React. Chem. Eng.* **4**, 207–222 (2019).
+- 36. Kökçam-Demir, Ü. et al. Coordinatively unsaturated metal sites (open metal sites) in metal–organic frameworks: design and applications. *Chem. Soc. Rev.* **49**, 2751–2798 (2020).
+- <span id="page-8-20"></span>37. Wei, Y.-S., Zhang, M., Zou, R. & Xu, Q. Metal–organic framework-based catalysts with single metal sites. *Chem. Rev.* **120**, 12089–12174 (2020).
+- <span id="page-8-21"></span>38. Xie, J., Wang, L. & Anderson, J. S. Heavy chalcogenide–transition metal clusters as coordination polymer nodes. *Chem. Sci.* **11**, 8350–8372 (2020).
+- 39. Takaishi, S. et al. Electroconductive porous coordination polymer Cu[Cu(pdt)2] composed of donor and acceptor building units. *Inorg. Chem.* **48**, 9048–9050 (2009).
+- 40. Clough, A. J. et al. Metallic conductivity in a two-dimensional cobalt dithiolene metal–organic framework. *J. Am. Chem. Soc.* **139**, 10863–10867 (2017).
+- 41. Sun, L., Hendon, C. H., Minier, M. A., Walsh, A. & Dincă, M. Million-fold electrical conductivity enhancement in Fe2(DEBDC) versus Mn2(DEBDC) (E = S, O). *J. Am. Chem. Soc.* **137**, 6164–6167 (2015).
+- 42. Yang, H. et al. A semiconducting metal-chalcogenide–organic framework with square-planar tetra-coordinated sulfur. *Chem. Commun.* **54**, 11272–11275 (2018).
+- 43. Gillen, J. H. et al. Synthesis and disassembly of an organometallic polymer comprising redox-active Co4S4 clusters and Janus biscarbene linkers. *Chem. Commun.* **58**, 4885–4888 (2022).
+- 44. Kadota, K. et al. Electrically conductive [Fe4S4]-based organometallic polymers. *Chem. Sci.* **14**, 11410–11416 (2023).
+- <span id="page-8-22"></span>45. Jiang, N. et al. Catalytic, spectroscopic, and theoretical studies of Fe4S4-based coordination polymers as heterogenous coupled proton–electron transfer mediators for electrocatalysis. *J. Am. Chem. Soc.* **146**, 12243–12252 (2024).
+- <span id="page-9-3"></span>46. Kalaj, M. & Cohen, S. M. Postsynthetic modification: an enabling technology for the advancement of metal–organic frameworks. *ACS Cent. Sci.* **6**, 1046–1057 (2020).
+- <span id="page-9-4"></span>47. Liao, P.-Q. et al. Monodentate hydroxide as a super strong yet reversible active site for CO2 capture from high-humidity flue gas. *Energy Environ. Sci.* **8**, 1011–1016 (2015).
+- 48. Liao, P.-Q. et al. Drastic enhancement of catalytic activity via post-oxidation of a porous MnII triazolate framework. *Chem. Eur. J.* **20**, 11303–11307 (2014).
+- <span id="page-9-5"></span>49. Rieth, A. J. & Dincă, M. Controlled gas uptake in metal–organic frameworks with record ammonia sorption. *J. Am. Chem. Soc.* **140**, 3461–3466 (2018).
+- <span id="page-9-6"></span>50. Denysenko, D. et al. Elucidating gating efects for hydrogen sorption in MFU-4-type triazolate-based metal–organic frameworks featuring diferent pore sizes. *Chem. Eur. J.* **17**, 1837–1848 (2011).
+- 51. Denysenko, D. et al. Reversible gas-phase redox processes catalyzed by Co-exchanged MFU-4*l*(arge). *Chem. Commun.* **48**, 1236–1238 (2012).
+- <span id="page-9-7"></span>52. Denysenko, D., Jelic, J., Reuter, K. & Volkmer, D. Postsynthetic metal and ligand exchange in MFU-4*l*: a screening approach toward functional metal–organic frameworks comprising single-site active centers. *Chem. Eur. J.* **21**, 8188–8199 (2015).
+- <span id="page-9-0"></span>53. Lubner, C. E. et al. A site-diferentiated [4Fe–4S] cluster controls electron transfer reactivity of *Clostridium acetobutylicum* [FeFe]-hydrogenase I. *Chem. Sci.* **13**, 4581–4588 (2022).
+- <span id="page-9-1"></span>54. Andersson Trojer, M., Movahedi, A., Blanck, H. & Nydén, M. Imidazole and triazole coordination chemistry for antifouling coatings. *J. Chem.* **2013**, 946739 (2013).
+- 55. Reddy, D., Akerman, K. J., Akerman, M. P. & Jaganyi, D. A kinetic investigation into the rate of chloride substitution from chloro terpyridine platinum(II) and analogous complexes by a series of azole nucleophiles. *Transit. Met. Chem.* **36**, 593–602 (2011).
+- <span id="page-9-2"></span>56. Beerhues, J., Aberhan, H., Streit, T.-N. & Sarkar, B. Probing electronic properties of triazolylidenes through mesoionic selones, triazolium salts, and Ir-carbonyl-triazolylidene complexes. *Organometallics* **39**, 4557–4564 (2020).
+- <span id="page-9-8"></span>57. Mian, M. R. et al. Insights into catalytic hydrolysis of organophosphonates at M–OH sites of azolate-based metal organic frameworks. *J. Am. Chem. Soc.* **143**, 9893–9900 (2021).
+- <span id="page-9-9"></span>58. Beauvais, M. L. et al. A mixing-flow reactor for time-resolved reaction measurements distributed in space. *J. Appl. Crystallogr.* **55**, 258–264 (2022).
+- <span id="page-9-10"></span>59. Wu, K.-H. et al. Regulating electron transfer over asymmetric low-spin Co(II) for highly selective electrocatalysis. *Chem Catalysis* **2**, 372–385 (2022).
+- 60. Borod'ko, Y. G., Vetchinkin, S. I., Zimont, S. L., Ivleva, I. N. & Shul'ga, Y. M. Nature of satellites in X-ray photoelectron spectra XPS of paramagnetic cobalt(II) compounds. *Chem. Phys. Lett.* **42**, 264–267 (1976).
+- <span id="page-9-11"></span>61. *NIST X-ray Photoelectron Spectroscopy Database* (National Institute of Standards and Technology, 2000).
+- <span id="page-9-12"></span>62. Zhu, L. et al. Investigation of CoS2-based thin films as model catalysts for the oxygen reduction reaction. *J. Catal.* **258**, 235–242 (2008).
+- <span id="page-9-13"></span>63. Formenti, D. et al. Co-based heterogeneous catalysts from well-defined α-diimine complexes: discussing the role of nitrogen. *J. Catal.* **351**, 79–89 (2017).
+- <span id="page-9-14"></span>64. Li, M. et al. Environment molecules boost the chemoselective hydrogenation of nitroarenes on cobalt single-atom catalysts. *ACS Catal.* **12**, 11960–11973 (2022).
+- <span id="page-9-15"></span>65. Khaliullin, R. Z., Cobar, E. A., Lochan, R. C., Bell, A. T. & Head-Gordon, M. Unravelling the origin of intermolecular interactions using absolutely localized molecular orbitals. *J. Phys. Chem. A* **111**, 8753–8765 (2007).
+- <span id="page-9-16"></span>66. Horn, P. R., Mao, Y. & Head-Gordon, M. Probing non-covalent interactions with a second generation energy decomposition analysis using absolutely localized molecular orbitals. *Phys. Chem. Chem. Phys.* **18**, 23067–23079 (2016).
+
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+© The Author(s), under exclusive licence to Springer Nature Limited 2025
+
+### **Methods**
+
+#### **Materials and general methods**
+
+All reagents were obtained from commercial suppliers and were utilized as received without additional purification.
+
+The powder samples of Co2Cl2BBTA and Ni2Cl2BBTA were synthesized by methods reported in the literature[49](#page-9-5).
+
+#### **Synthesis of the powder samples of M2Cl2BBTA**
+
+First, 7 ml of a DMF solution of H2BBTA (1*H*,5*H*-benzo(1,2-d:4,5-d′) bistriazole, 30 mg, 0.19 mmol) and 7 ml of a methanol solution of MCl2·6H2O (M = Co, Ni; 100 mg, 0.42 mmol) were combined in an 8-dram vial. Concentrated HCl (12 M) was then added (0.1 ml for cobalt and 3 ml for nickel). The mixture was incubated at 65 °C for 72 h. The resulting powder was washed three times with DMF and three times with methanol. To remove any residual DMF within the cavity, Soxhlet extraction with methanol was conducted twice, each for 36 h. Activation was conducted under dynamic vacuum at 120 °C for 24 h before adsorption measurements.
+
+#### **Synthesis of the powder samples of M2(OH)2BBTA**
+
+M2Cl2BBTA (100 mg) is dispersed in 100 ml KOH (1 M) aqueous solution under nitrogen for 12 h. The product was washed with water and methanol three times and dried under a nitrogen flow. Activation was conducted under dynamic vacuum at 120 °C for 24 h before adsorption measurements. An alternative method[67](#page-11-0) for the preparation of Co2(OH)2BBTA was also tested using NH3 as a base to assess the potential formation of metal hydroxides in this system. No substantial differences were observed in subsequent experiments or catalytic results.
+
+#### **Synthesis of the powder samples of Co2(SH)2BBTA**
+
+Co2(OH)2BBTA (30 mg) was dispersed in 4 ml of methanol in a 4-dram vial containing a stir bar. The mixture was sealed and exposed to in situ-generated H2S, produced from 19 mg of NaHS and 0.5 ml of concentrated H3PO4, for 5 h. After exposure, the product was washed three times with methanol and dried under a flow of nitrogen. The sample was then activated at 100 °C for 24 h prior to conducting adsorption measurements.
+
+#### **Synthesis of the powder samples of Ni2(SH)2BBTA**
+
+Ni2(OH)2BBTA (30 mg) was dispersed in 4 ml of methanol in a 4-dram vial containing a stir bar. The mixture was sealed and exposed to in situ-generated H2S, produced from 19 mg of NaHS and 0.5 ml of concentrated H3PO4, for 12 h. After exposure, the product was washed three times with methanol and dried under a flow of nitrogen. The sample was then activated at 100 °C for 24 h prior to conducting adsorption measurements.
+
+#### **Synthesis of the single-crystal samples of Co2Cl2BBTA**
+
+A synthesis mixture was prepared by combining 4 ml of a solution of H2BBTA (20 mg, 0.125 mmol) in diethylformamide, 4 ml of a methanol solution of CoCl2·6H2O (60 mg, 0.252 mmol) and 0.2 ml of 38% HCl in a 6-dram vial. This vial was then placed in a preheated oven at 70 °C. After 3 days, needle-like pink single crystals had formed.
+
+#### **Post-synthetic conversion of the single-crystal samples of Co2Cl2BBTA to Co2(OH)2BBTA**
+
+A single-crystal sample of Co2Cl2BBTA (~5 mg) was treated with 4 ml KOH (0.1 M) for 4 h at room temperature and then washed with deionized water three times. The morphology of the crystals remains the same but their colour becomes darker.
+
+#### **Post-synthetic conversion of the single-crystal samples of Co2(OH)2BBTA to Co2(SH)2BBTA**
+
+A single-crystal sample of Co2(OH)2BBTA (~3 mg) was dispersed in 2 ml methanol and treated with in situ-generated H2S (generated by mixing 20 mg NaHS with 0.5 ml concentrated H3PO4) for 4 h at room temperature and then washed with methanol 3 times. The morphology of the crystals remains the same but their colour becomes darker.
+
+#### **Synthesis of powder samples of M-MFU-4***l***-SH**
+
+M-MFU-4*l*-OH (30 mg) was dispersed in 4 ml methanol. The mixture was sealed and exposed to in situ-generated H2S, produced from 50 mg of NaHS and 0.5 ml of concentrated H3PO4, for 12 h. Subsequently, the brown sample was washed with water three times. The resulting powder sample was dried under a nitrogen flow and activated under 120 °C before adsorption measurements.
+
+#### **Post-synthetic conversion of the single-crystal samples of M-MFU-4***l***-OH to M-MFU-4***l***-SH**
+
+Single-crystal samples of M-MFU-4*l*-OH (∼2 mg) were dispersed in 4 ml methanol. The mixture was sealed and exposed to in situ-generated H2S, produced from 50 mg of NaHS and 0.5 ml of concentrated H3PO4, for 12 h. The morphology of the crystals remained the same but their colour changed to dark brown.
+
+SCXRD data of Co2Cl2BBTA, Co2(OH)2BBTA, Co2(SH)2BBTA, Co-MFU-4l-Cl, Co-MFU-4l-OH, Co-MFU-4l-SH, Ni-MFU-4l-Cl, Ni-MFU-4l-OH, and Ni-MFU-4l-SH were collected at 100 K, using a Rigaku Cu-Synergy/DW-Synergy diffractometer, equipped with a shutterless electronic-noise free Hybrid Photon Counting detector, a Cryostream 80-500 K cooler (Cryosystems), a Cu Kα (*λ* = 1.54184 Å) microfocus source with a beam size of ~110 μm and a four-circle kappa geometry goniometer. The single crystals were mounted on MicroMesh (MiTeGen) with paratone oil. ED data for Ni2Cl2BBTA, Ni2(OH)2BBTA and Ni2(SH)2BBTA were collected at 293 K under vacuum using MicroED, also known as the XtaLAB Synergy-ED system. The instrument is equipped with a Rigaku HyPix-ED direct electron detector and controlled by the Rigaku Oxford Diffraction CrysAlisPro software package. The XtaLAB Synergy-ED system utilizes a 200-kV electron gun, featuring a lanthanum hexaboride crystal as the electron emitter for optimized electron optics. The structures were determined by intrinsic phasing (SHELXT 2018/2) and refined by full-matrix least-squares refinement (SHELXL-2018/3) using the Olex2 software packages. The disordered non-coordinated solvents were removed using the solvent marks option in Olex2 software. The refinement results are summarized in Supplementary Table 1. Crystallographic data crystal structures in CIF format have been deposited in the Cambridge Crystallographic Data Centre (CCDC) under the deposition numbers shown in Supplementary Table 1.
+
+PXRD measurements of MOFs were conducted at room temperature using a STOE-STADIMP powder diffractometer. This set-up included an asymmetric curved germanium monochromator utilizing Cu Kα1 radiation (*λ* = 1.54056 Å) and a 1D silicon strip detector (MYTHEN2 1K from DECTRIS). The copper X-ray tube, set in a line focus configuration, was operated at 40 kV and 40 mA. Samples of activated powder were placed between two Kapton foils and analysed in transmission mode within a rotating holder. Data collection ranged from 2*θ* = 1°–40° over 6-min intervals. Prior to data acquisition, instrument calibration was verified using a NIST silicon standard (640d). XPS measurements were performed at the Keck-II/NUANCE facility at Northwestern University using a Thermo Scientific ESCALAB 250 Xi, which uses Al Kα radiation (photon energy, 1,486.6 eV) and includes an electron flood gun. Data analysis was conducted using Thermo Scientific Avantage Data System software. All spectra were calibrated relative to the C 1*s* peak at 284.8 eV.
+
+N2 adsorption isotherms were measured at 77 K using a Micromeritics ASAP 2420. The BET surface area was calculated from the N2 sorption data within the relative pressure range of *P*/*P*0 = 0.05–0.2.
+
+Elemental analysis was performed using a Varian Vista-MDX ICP-OES spectrometer equipped with a charge-coupled device detector and argon plasma operating over the 175–785 nm wavelength range. Approximately 5 mg of each preactivated sample was digested in 2 ml of concentrated HNO3 using a Biotage SPX microwave reactor (software version 2.3, build 6250) at 200 °C for 30 min. After digestion, the whole resulting solution was diluted to 40 ml with Millipore water prior to analysis. Hydrogenation catalysis were carried out in Parr reactors equipped with Teflon liners, which were precleaned using aqua regia. The reactors were initially purged three times with argon at 7 bar, followed by three purges with hydrogen at 13.7 bar. Post-reaction, the products and catalysts were separated using a centrifuge. The catalysts were then washed with appropriate solvents prior to reuse.
+
+#### **PDF analysis**
+
+In situ X-ray scattering data, suitable for XRD and PDF analysis, were collected at beamline 28-ID-1 of the National Synchrotron Light Source II at Brookhaven National Laboratory. Samples were loaded in either borosilicate (for dichlorination experiments) or polyimide capillaries (outer diameter, ~1.1 mm) and assembled within a flow-cell apparatus that either allows for a constant flow of a solution over the sampl[e58](#page-9-9) or in a gas-flow furnace that allows for heating in a desired gas environmen[t68](#page-11-1). X-ray scattering images were collected using high-energy X-rays (*λ* = 0.1653 Å) at sample-to-detector distances optimized for PDF and XRD analysis.
+
+Data were collected for ex situ samples and for in situ dechlorination and sulfidation of a Co-BBTA sample. For the dechlorination experiment the sample was loaded in a borosilicate capillary and a 1 M KOH solution was directed over the sample while data were collected at the PDF distance for 10 s per scan. The dechlorination was also studied in an ex situ approach using a more dilute KOH solution (0.01 M) where the reaction was quenched at certain intervals to visualize the changes over a a longer time resolution. The in situ sulfidation using H2S as sulfiding agent was conducted using NaHS (10 mg) as a precursor, which was primed with diluted H2SO4 (100 ml); evolving H2S gas was directed over the sample using nitrogn as carrier gas, while data were collected at the PDF distance.
+
+The sample-to-detector distance and instrument geometry were optimized within GSAS-II based on the scattering collected for a CeO2 standar[d69.](#page-11-2) Images were reduced to 1D intensity data as a function of scattering angle. The scattering contribution from the sample environment was subtracted and the data converted into PDFs, *G*(r), within xPDFsuite (*Q*max = 21.48 Å−1) [70.](#page-11-3)
+
+#### **Computational methods**
+
+**Periodic DFT calculations.** To perform DFT calculations on cluster models, the geometries of all studied MOFs were optimized using periodic boundary conditions with the PBESol-D3(0) density functiona[l71](#page-11-4) in the Vienna Ab initio Simulation Package (VASP, v.6.4.0)[72.](#page-12-0) Dispersion interactions were accounted for using Grimme's D3 method[73.](#page-12-1) Valence–core interactions were described by the projector-augmented wave method[74,](#page-12-2)[75.](#page-12-3) The valence electrons included in the calculations for each atom type were: C (*4*), H (*1*), N (*5*), O (*6*), S (*6*), Cl (*7*), Co (*9*), Ni (*10*), Zn (*12*). A 520-eV plane-wave energy cut-off was used, and geometries were relaxed until atomic forces were below 0.01 eV Å−1. Brillouin zone sampling was performed using a *Γ*-point only 1 × 1 × 1 *k*-mesh. These optimized structures were used as the basis for finite-sized cluster model calculations.
+
+Cluster calculations were performed using DFT as implemented in Gaussian 16 (rev. B.01[\)76](#page-12-4). Geometry optimizations and frequency calculations were carried out at the TPSSh-D3(BJ)/basis-I level of theor[y77](#page-12-5)[,78,](#page-12-6) where basis-I denotes def2-SVP for non-metals and def2-TZVP with an Stuttgart-Dresden (SDD) effective core potential for cobalt, nickel and zinc[79,](#page-12-7)[80](#page-12-8). An 'ultrafine' grid was utilized for numerical integration. The natures of all stationary points were verified by calculating quasi-harmonic vibrational frequencies. Entropic terms were obtained using the rigid-rotor-harmonic-oscillator approximation, with the free-rotor approximation applied for vibrational modes below 100 cm−1 (ref. [81\)](#page-12-9).
+
+**Thermodynamic corrections.** To account for the change of standardstate concentration from 1 atm pressure in the gas phase to 1 M in the solution phase, an entropy correction term of 1.89 kcal mol−1 was added to the absolute free energies of all computed species. For methanol solvent, the pure liquid (24.72 mol l−1) was used as the standard state. The correction to the Gibbs free energy due to the change in the standard state was calculated as follow[s84](#page-12-12)[,85:](#page-12-13)
+
+$$
+G^\circ=G^{\text{latm}}+\text{RT}\ln(C^\circ/C^{\text{latm}})
+$$
+
+Here, *G*° denotes the Gibbs free energy relative to the appropriate standard state in solution phase, *G*1atm refers to the ideal gas standard Gibbs free energy at 298.15 K under a standard state of 1 atm, *C*° represents the concentration in the standard reference state (specifically, 24.72 M for methanol), while *C*1atm is the concentration of an ideal gas at standard pressure (1 atm), given by *C*1atm = 1/*V*m = *P*/*RT*. The correction term for each methanol molecule in the equation above is equal to 2.7 kcal mol−1. To emulate experimental reaction conditions, the partial pressures of H2 and methanol (*p*H2 and *p*MeOH) were considered to be 19.34 and 8.78 atm at 423.15 K, respectively, and the *G* correction term was calculated accordingly[86](#page-12-14). These thermodynamic parameter calculations were facilitated by the use of the Shermo cod[e87](#page-12-15).
+
+#### **Data availability**
+
+Materials, general methods, instrumentation, synthetic protocols and DFT computational details are provided in the Supplementary Information PDF file. Crystallographic data for the structures reported in this Article have been deposited at the Cambridge Crystallographic Data Centre, under deposition numbers CCDC 2376631 (Co2Cl2BBTA), 2376626 (Co2(OH)2BBTA), 2376634 (Co2(SH)2BBTA), 2385609 (Ni2Cl2BBTA), 2385610 (Ni2(OH)2BBTA), 2385611 (Ni2(SH)2BBTA), 2376630 (Co-MFU-4*l*-Cl), 2376629 (Co-MFU-4*l*-OH), 2376628 (Co-MFU-4*l*-SH), 2376627 (Ni-MFU-4*l*-Cl), 2376633 (Ni-MFU-4*l*-OH) and 2376632 (Ni-MFU-4*l*-SH). Copies of the data can be obtained free of charge via [https://www.ccdc.cam.ac.uk/structures/.](https://www.ccdc.cam.ac.uk/structures/) The computational data supporting this study are available via Zenodo at [https://doi.](https://doi.org/10.5281/zenodo.15074051) [org/10.5281/zenodo.15074051](https://doi.org/10.5281/zenodo.15074051) (ref. [88](#page-12-16)). PXRD patterns, N2 isotherms, XPS spectra and PDF data are available via Figshare at [https://doi.org/](https://doi.org/10.6084/m9.figshare.27327783) [10.6084/m9.figshare.27327783](https://doi.org/10.6084/m9.figshare.27327783) (ref. [89](#page-12-17)). Source data are provided with this paper.
+
+#### **References**
+
+- <span id="page-11-0"></span>67. Oktawiec, J. et al. Negative cooperativity upon hydrogen bond-stabilized O2 adsorption in a redox-active metal–organic framework. *Nat. Commun.* **11**, 3087 (2020).
+- <span id="page-11-1"></span>68. Chupas, P. J. et al. A versatile sample-environment cell for non-ambient X-ray scattering experiments. *J. Appl. Crystallogr.* **41**, 822–824 (2008).
+- <span id="page-11-2"></span>69. Toby, B. H. & Von Dreele, R. B. GSAS-II: the genesis of a modern open-source all purpose crystallography software package. *J. Appl. Crystallogr.* **46**, 544–549 (2013).
+- <span id="page-11-3"></span>70. Yang, X., Juhas, P., Farrow, C. L. & Billinge, S. J. xPDFsuite: an end-to-end software solution for high throughput pair distribution function transformation, visualization and analysis. Preprint at *arXiv* <https://doi.org/10.48550/arXiv.1402.3163>(2014).
+- <span id="page-11-4"></span>71. Perdew, J. P. et al. Restoring the density-gradient expansion for exchange in solids and surfaces. *Phys. Rev. Lett.* **100**, 136406 (2008).
+- <span id="page-12-0"></span>72. Kresse, G. & Furthmüller, J. Eficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set. *Phys. Rev. B* **54**, 11169–11186 (1996).
+- <span id="page-12-1"></span>73. Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H–Pu. *J. Chem. Phys.* **132**, 154104 (2010).
+- <span id="page-12-2"></span>74. Kresse, G. & Furthmüller, J. Eficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set. *Comput. Mater. Sci.* **6**, 15–50 (1996).
+- <span id="page-12-3"></span>75. Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method. *Phys. Rev. B* **59**, 1758–1775 (1999).
+- <span id="page-12-4"></span>76. Frisch, M. J. et al. *Gaussian 16, Revision C.01* (Gaussian, 2016).
+- <span id="page-12-5"></span>77. Staroverov, V. N., Scuseria, G. E., Tao, J. & Perdew, J. P. Comparative assessment of a new nonempirical density functional: molecules and hydrogen-bonded complexes. *J. Chem. Phys.* **119**, 12129–12137 (2003).
+- <span id="page-12-6"></span>78. Grimme, S., Ehrlich, S. & Goerigk, L. Efect of the damping function in dispersion corrected density functional theory. *J. Comput. Chem.* **32**, 1456–1465 (2011).
+- <span id="page-12-7"></span>79. Weigend, F. & Ahlrichs, R. Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence quality for H to Rn: design and assessment of accuracy. *Phys. Chem. Chem. Phys.* **7**, 3297–3305 (2005).
+- <span id="page-12-8"></span>80. Andrae, D., Häußermann, U., Dolg, M., Stoll, H. & Preuß, H. Energy-adjusted ab initio pseudopotentials for the second and third row transition elements. *Theor. Chim. Acta* **77**, 123–141 (1990).
+- <span id="page-12-9"></span>81. Grimme, S. Supramolecular binding thermodynamics by dispersion-corrected density functional theory. *Chem. Eur. J.* **18**, 9955–9964 (2012).
+- <span id="page-12-10"></span>82. Zhao, Y. & Truhlar, D. G. The M06 suite of density functionals for main group thermochemistry, thermochemical kinetics, noncovalent interactions, excited states, and transition elements: two new functionals and systematic testing of four M06-class functionals and 12 other functionals. *Theor. Chem. Acc.* **120**, 215–241 (2008).
+- <span id="page-12-11"></span>83. Marenich, A. V., Cramer, C. J. & Truhlar, D. G. Universal solvation model based on solute electron density and on a continuum model of the solvent defined by the bulk dielectric constant and atomic surface tensions. *J. Phys. Chem. B* **113**, 6378–6396 (2009).
+- <span id="page-12-12"></span>84. Essafi, S., Tomasi, S., Aggarwal, V. K. & Harvey, J. N. Homologation of boronic esters with organolithium compounds: a computational assessment of mechanism. *J. Org. Chem.* **79**, 12148–12158 (2014).
+- <span id="page-12-13"></span>85. Darù, A., Hu, X. & Harvey, J. N. Iron-catalyzed reductive coupling of alkyl iodides with alkynes to yield *cis*-olefins: mechanistic insights from computation. *ACS Omega* **5**, 1586–1594 (2020).
+- <span id="page-12-14"></span>86. Syed, Z. H. et al. Sulfated zirconium metal–organic frameworks as well-defined supports for enhancing organometallic catalysis. *J. Am. Chem. Soc.* **144**, 16883–16897 (2022).
+- <span id="page-12-15"></span>87. Lu, T. & Chen, Q. Shermo: a general code for calculating molecular thermochemistry properties. *Comput. Theor. Chem.* **1200**, 113249 (2021).
+- <span id="page-12-16"></span>88. Xie, H. et al. Additional computational data files for 'Introducing metal–sulfur active sites in metal–organic frameworks via post-synthetic modification for hydrogenation catalysis'. *Zenodo* <https://doi.org/10.5281/zenodo.15074051>(2025).
+
+<span id="page-12-17"></span>89. Xie. H. et al. Raw data for 'Introducing metal–sulfur active sites in metal–organic frameworks via post-synthetic modification for hydrogenation catalysis'. *Figshare* [https://doi.org/10.6084/](https://doi.org/10.6084/m9.figshare.27327783) [m9.figshare.27327783](https://doi.org/10.6084/m9.figshare.27327783) (2025).
+
+# **Acknowledgements**
+
+This research was supported by the Catalyst Design for Decarbonization Center, an Energy Frontier Research Center funded by the US Department of Energy (DOE), Ofice of Science, Basic Energy Sciences (BES) under grant DE-SC0023383. Additionally, the IMSERC Crystallography facility at Northwestern University was utilized, with support from the Soft and Hybrid Nanotechnology Experimental (SHyNE) Resource (NSF ECCS-2025633) and Northwestern University. The EPIC facility at Northwestern University's NUANCE Center was also used, supported by the SHyNE Resource (NSF ECCS-2025633), the International Institute for Nanotechnology (IIN) and Northwestern's Materials Research Science and Engineering Center (MRSEC) programme (NSF DMR-1720139). Lastly, the Keck-II facility at Northwestern University's NUANCE Center was used, with backing from the SHyNE Resource (NSF ECCS-2025633), the IIN and Northwestern's MRSEC programme (NSF DMR-1720139). This research used beamline 28-ID-1 of the National Synchrotron Light Source II, a US DOE Ofice of Science User Facility at Brookhaven National Laboratory under contract number DE-SC0012704. The computing resources were provided by the University of Chicago Research Computing Center (RCC).
+
+### **Author contributions**
+
+H.X., L.G. and O.K.F. conceived and supervised the project. H.X. designed and carried out the synthesis and catalytic experiments, and wrote the original draft together with M.M. M.A.K. contributed to catalysis methodology. M.M. performed theoretical calculations under the supervision of L.G. S.M.V., J.H. and L.M.T. carried out PDF measurements and analysis. K.F., D.A.G. and S.L. assisted with synthesis and materials preparation. S.S., S.R. and D.S. contributed to catalytic studies. K.M. participated in synthesis. X.W., F.S. and S.S. performed microscopy. J.M.N., K.M., W.G., J.G.V., Y.C., J.S.A. and K.O.K. contributed to the interpretation of results. J.M.N. also advised on catalysis. K.W.C. supervised PDF analysis. All authors discussed the results and contributed to revising the manuscript.
+
+## **Competing interests**
+
+O.K.F. has financial interest in NuMat Technologies, a start-up company that is seeking to commercialize MOFs. The remaining authors declare no competing interests.
+
+# **Additional information**
+
+**Extended data** is available for this paper at [https://doi.org/10.1038/s41557-025-01876-y.](https://doi.org/10.1038/s41557-025-01876-y)
+
+**Supplementary information** The online version contains supplementary material available at [https://doi.org/10.1038/s41557-025-01876-y.](https://doi.org/10.1038/s41557-025-01876-y)
+
+**Correspondence and requests for materials** should be addressed to Haomiao Xie, Laura Gagliardi or Omar K. Farha.
+
+**Peer review information** *Nature Chemistry* thanks the anonymous reviewers for their contribution to the peer review of this work.
+
+**Reprints and permissions information** is available at [www.nature.com/reprints](http://www.nature.com/reprints).
+
+#### **Extended Data Table 1 | Energy Decomposition Analysis of NiII–X Homolytic Dissociation in MFU-4***l***-Ni-X (X = Cl, OH, SH) at M06-D3(0)/def2-TZVP Level**
+
+| Energy Contribution (kcal/mol) | MFU-4/-Ni-CI | MFU-4/-Ni-OH | MFU-4/-Ni-S |
+|--------------------------------|--------------|--------------|-------------|
+| Frozen (ΔEFrz)                 | 13.3         | 23.7         | 4.7         |
+| Polarization (ΔEpol)           | −15.0        | −21.0        | −16.4       |
+| Charge Transfer (ΔECT)         | −92.7        | −85.9        | −49.9       |
+| Total (ΔEtot)                  | −94.4        | −83.2        | −72.0       |
+
+#### **Extended Data Table 2 | Energy Decomposition Analysis of H2 Binding at an MI Site in both BBTA and MFU-4***l* **Systems Calculated at the M06-D3(0)/def2-TZVP Level**
+
+|                                          |                      | BBTA-M-SH                |                          |                         |
+|------------------------------------------|----------------------|--------------------------|--------------------------|-------------------------|
+| Energy Contribution (kcal/mol)           | Co                   | Ni                       | Co                       | Ni                      |
+| Frozen (ΔEFrz = ΔEFrz + ΔEPauli + ΔEDisp | −3.0 (−8.9+13.5–7.6) | 17.5 (−25.6 + 51.8 −8.8) | 13.6 (−20.6 + 39.4 −5.1) | 7.4 (−20.1 + 32.0 −4.4) |
+| Polarization (ΔEpol)                     | −0.9                 | −11.7                    | −14.2                    | −13.0                   |
+| Charge Transfer (ΔECT)                   | −1.9                 | −9.6                     | −14.3                    | −15.2                   |
+| Total (ΔEtot)                            | −5.8                 | −3.7                     | −14.9                    | −20.9                   |
+
+The individual components comprising Δ*E*Frz (= Electrostatic (Δ*E*Elec)+ Pauli (Δ*E*Pauli)+ Dispersion (Δ*E*Disp)) are also shown.
+
+![](_page_15_Figure_2.jpeg)
+
+**Extended Data Fig. 1 | Periodic and cluster models used in theoretical studies of MOF catalysts. a**, Structural models of M2X2BBTA. **b**, Structural models of M-MFU-4*l*-X. Both periodic and cluster models were used to represent the local coordination environments and extended structures (M = Co, Ni; X = Cl, OH, SH). Colour coding follows that used in Fig. [2](#page-3-0).
+
+![](_page_16_Figure_2.jpeg)
+
+**adsorption and dissociation for subsequent Ar–NO2 reduction with M-BBTA-X catalysts.** In the 1D BBTA system, MeOH initially coordinates to the square pyramidal metal centres, converting species **A** to **B**. Subsequent M–X bond cleavage (M = Co, Ni; X = Cl, OH, SH) can proceed either homolytically (**C1**) or heterolytically (**C2**), generating an open metal site for H2 adsorption (**D1**, **D2**). The H–H bond then dissociates, facilitated by a N-atom on the ligand, forming species **E1** and **E2**. Although our computed results show relatively high energy requirements for the formation of active species **E**, our goal was to qualitatively understand trends related to MOF structure, metal node,
+
+maintain structural rigidity of the MOF, potentially overestimating energetic barriers where remarkable ligand relaxation would occur, particularly during the H–H dissociation on the ligand (Conversion of species **D** to **E**). Future studies using fully relaxed *periodic* models of all proposed reaction intermediates should yield lower energy requirements for **E** formation. Additionally, while intrinsic barriers appear high due to solvent stabilization of species **B**, the apparent activation energy (*E*app) observed experimentally can be lower when measured relative to separated reactants (Species **A**).**Supplementary information**
+
+**Article** https://doi.org/10.1038/s41557-025-01876-y
+
+# **Introducing metal–sulfur active sites in metal–organic frameworks via post-synthetic modification for hydrogenation catalysis**
+
+In the format provided by the authors and unedited
+
+## Table of Contents
+
+| Section A. | Materials and<br>Methods                                                                | S2  |
+|------------|-----------------------------------------------------------------------------------------|-----|
+| Section B. | Synthetic Protocols and Characterization                                                | S3  |
+| Section C. | Single-Crystal Structures<br>and X-ray Diffractions                                     | S5  |
+| Section D. | Adsorption Properties                                                                   | S23 |
+| Section E. | X-ray photoelectron spectroscopy (XPS)                                                  | S26 |
+| Section F  | Scanning Electron Microscopy<br>(SEM) and Energy Dispersive X<br>ray spectroscopy (EDS) | S38 |
+| Section G  | Hydrogenation Catalysis of 4-Nitrophenol                                                | S46 |
+| Section H. | Computational Analysis                                                                  | S51 |
+| Section I  | Infrared Spectra, UV-vis Spectra, TGA<br>and Elemental Analysis<br>Results with ICP-OES | S64 |
+| Section J. | References                                                                              | S68 |
+
+## **Section A. Materials and General Methods**
+
+All reagents were obtained from commercial suppliers and were utilized as received without additional purification.
+
+**Nuclear Magnetic Resonance (NMR)** spectroscopy was performed using a Bruker Avance III 500 spectrometer operating at a frequency of 500 MHz. Chemical shifts are reported in parts per million (ppm) relative to the residual solvent peaks of non-deuterated solvents: for 1H NMR, 7.26 ppm in CDCl<sup>3</sup> and 3.35, 4.78 ppm in CD3OD.
+
+**Thermogravimetric Analysis (TGA)** was conducted using a TGA/DCS 1 system from Mettler-Toledo AG, based in Schwerzenbach, Switzerland, which is operated via a PC using STARe software. Samples were heated at a rate of 5 °C per minute across specified temperature intervals under an air flow of 20 mL per minute.
+
+**UV-vis Absorption Spectra** were obtained using a Shimadzu UV-3600 UV/vis/NIR spectrometer, which features an integrating sphere to compensate for scatter and reflectance effects during measurement.
+
+**Fourier-Transform Infrared Spectroscopy M easurements (FTIR)** were conducted at the KECKII/NUANCE facility at Northwestern University using a Nicolet iS50 spectrometer by Thermo Nicolet. This spectrometer includes a tabletop optics module (TOM), which facilitates Polarization Modulation Infrared Reflection Absorption Spectroscopy (PM-IRRAS). Spectra were recorded over a wavelength range from 4000 to 400 cm-1 .
+
+**Scanning Electron Microscopy (SEM)** and **Energy Dispersive Spectroscopy (EDS)** analyses were performed using a Hitachi SU8030 at the KECKII/NUANCE facility at Northwestern University. Samples were pre-coated with an 18 nm layer of osmium. The EDS data were analyzed using the New Oxford AZtec EDS software.
+
+## **Section B. Synthetic Protocols and Characterization**
+
+#### **Synthesis of powder samples of Zn-MFU-4***l***-Cl**
+
+The preparation of Zn-MFU-4*l*-Cl was performed according to the previously reported procedure. 1 In a 100-dram scintillation vial H2BTDD (100 mg, 0.36 mmol), ZnCl<sup>2</sup> (1.0 g, 7.3 mmol) and DMF (60 mL) were heated for 18 h at 140 °C and cooled down to room temperature. The precipitate was collected by centrifuged and washed with 20 mL DMF for 3 times and followed by 20 mL MeOH for 3 times, and 20 mL CH2Cl2 for 3 times. Then the solid was dried for 24 h at 180 °C under vacuum. Yield brown microcrystalline powder.
+
+#### **Transmetalation of Zn-MFU-4***l***-Cl to Co-MFU-4***l***-Cl**
+
+The transmetallation of Zn-MFU-4*l*-Cl to Co-MFU-4*l* was performed according to the previously reported procedure. <sup>1</sup> Anhydrous cobalt (II) chloride (0.5 g, 2.1 mmol) was dissolved in DMF (16 mL) and MFU-4*l* (100 mg, 0.08 mmol) was added to the solution. The reaction mixture was stirred for 20 h at 140 °C in a 20-dram vail. The dark-green or dark-blue precipitate was centrifuged, washed with DMF, methanol and dichloromethane.
+
+## **Transmetalation of Zn-MFU-4***l***-Cl to Ni-MFU-4***l***-Cl**
+
+The transmetallation of Zn-MFU-4*l*-Cl to Ni-MFU-4*l* was performed according to the previously reported procedure. <sup>1</sup> Nickel(II) chloride (0.6 g, 2.6 mmol) was dissolved in N,Ndimethylacetamide (16 mL) and MFU-4*l* (100 mg, 0.08 mmol) was added to the solution. The reaction mixture was heated for 20 h at 60 °C in a 100-dram scintillation vial. N,Ndimethylacetamide was exchanged with fresh N,N-dimethylacetamide and then added Nickel(II) chloride (0.4 g) and heated for 20 h at 60 °C. The green precipitate was centrifuged, washed with N,N-dimethylacetamide, methanol and dichloromethane.
+
+#### **Synthesis of powder samples of M-MFU-4***l***-OH**
+
+**M-MFU-4***l***-Cl** (50 mg) was treated with 50 mL of a 1 M aqueous solution of 4-ethylmorpholine for 12 hours. Subsequently, the samples were washed with water three times. The resulted powder sample was dried under N<sup>2</sup> flow and activated under 120 ℃ before adsorption measurements.
+
+#### **Post-synthetic conversion of the single-crystal samples of M-MFU-4***l***-Cl to M-MFU-4***l***-OH.**
+
+Single crystal samples of **M-MFU-4***l***-Cl** (approximately 2 mg) were treated with 4 mL of a 1 M aqueous solution of 4-ethylmorpholine for 12 hours. Subsequently, the samples were washed with water and MeOH three times. The morphology of the crystals remained unchanged, resulting in a pale green color for M = Ni and pale pink for M = Co, respectively.
+
+## **Section C. Single-Crystal Structures**
+
+#### **Supplementary Table 1**. Crystal data and structure refinements of M2X2BBTA and M-MFU-4l-
+
+| Identification code                | Co2Cl2BBTA                                     | Co2(OH)2BBTA                                  | Co2(SH)2BBTA                                  |
+|------------------------------------|------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| Empirical formula                  | C6H2Cl2Co2N6O2                                 | C6H2Co2N6O4                                   | C6H2Co2N6S7                                   |
+| Formula weight                     | 378.89                                         | 339.98                                        | 500.44                                        |
+| Temperature/K                      | 100.15                                         | 100.15                                        | 100.15                                        |
+| Crystal system                     | trigonal                                       | trigonal                                      | trigonal                                      |
+| Space group                        | R-3m                                           | R-3m                                          | R-3m                                          |
+| a/Å                                | 24.5743(9)                                     | 24.655(5)                                     | 23.891(2)                                     |
+| b/Å                                | 24.5743(9)                                     | 24.655(5)                                     | 23.891(2)                                     |
+| c/Å                                | 8.3838(2)                                      | 7.9848(18)                                    | 7.8380(9)                                     |
+| α/°                                | 90                                             | 90                                            | 90                                            |
+| β/°                                | 90                                             | 90                                            | 90                                            |
+| γ/°                                | 120                                            | 120                                           | 120                                           |
+| Volume/Å3                          | 4384.6(3)                                      | 4204(2)                                       | 3874.3(8)                                     |
+| Z                                  | 9                                              | 9                                             | 9                                             |
+| ρcalcg/cm3                         | 1.586                                          | 1.593                                         | 1.958                                         |
+| μ/mm-1                             | 16.202                                         | 14.436                                        | 23.065                                        |
+| F(000)                             | 2088                                           | 2034                                          | 2250                                          |
+| Crystal size/mm3                   | 0.35 × 0.01 × 0.01                             | 0.3 × 0.01 × 0.01                             | 0.03 × 0.01 × 0.01                            |
+| Radiation                          | CuKα (λ = 1.54184)                             | CuKα (λ = 1.54184)                            | CuKα (λ = 1.54184)                            |
+| 2Θ range for data<br>collection/°  | 7.194 to 150.104                               | 7.17 to 95.06                                 | 7.4 to 135.824                                |
+| Index ranges                       | -25 ≤ h ≤ 29, -29 ≤ k ≤<br>23, -10 ≤ l ≤ 7     | -19 ≤ h ≤ 19, -20 ≤ k ≤<br>23, -7 ≤ l ≤ 7     | -28 ≤ h ≤ 28, -28 ≤ k ≤<br>22, -9 ≤ l ≤ 6     |
+| Reflections<br>collected           | 5782                                           | 2106                                          | 2839                                          |
+| Independent<br>reflections         | 1075 [Rint<br>= 0.0288,<br>Rsigma<br>= 0.0191] | 477 [Rint<br>= 0.1730,<br>Rsigma<br>= 0.1030] | 850 [Rint<br>= 0.1123,<br>Rsigma<br>= 0.0947] |
+| Data/restraints/para<br>meters     | 1075/0/45                                      | 477/0/46                                      | 850/21/60                                     |
+| Goodness-of-fit on<br>2<br>F       | 1.159                                          | 1.045                                         | 1.053                                         |
+| Final R indexes                    | R1<br>= 0.0542, wR2<br>=                       | R1<br>= 0.0886, wR2<br>=                      | R1<br>= 0.0870, wR2<br>=                      |
+| [I>=2σ (I)]                        | 0.1576                                         | 0.2431                                        | 0.2181                                        |
+| Final R indexes [all               | R1<br>= 0.0565, wR2<br>=                       | R1<br>= 0.1050, wR2<br>=                      | R1<br>= 0.1152, wR2<br>=                      |
+| data]                              | 0.1595                                         | 0.2546                                        | 0.2371                                        |
+| Largest diff.<br>peak/hole / e Å-3 | 1.44/-0.60                                     | 0.66/-0.62                                    | 1.37/-1.16                                    |
+| CCDC Number                        | 2376631                                        | 2376626                                       | 2376634                                       |
+
+X where M = Co and Ni, X = Cl, OH and SH.
+
+| Identification code                                             | Ni2Cl2BBTA                                                               | Ni2(OH)2BBTA                                                             | Ni2(SH)2BBTA                                                             |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Empirical formula                                               | C6H6Cl2N6Ni2O3.66                                                        | C6H6N6Ni2O4                                                              | C6H4.4N6Ni2O2.38S2                                                       |
+| Formula weight                                                  | 409.07                                                                   | 343.54                                                                   | 380.14                                                                   |
+| Temperature/K                                                   | 293(2)                                                                   | 293(2)                                                                   | 293(2)                                                                   |
+| Crystal system                                                  | trigonal                                                                 | trigonal                                                                 | trigonal                                                                 |
+| Space group                                                     | R-3m                                                                     | R-3m                                                                     | R-3m                                                                     |
+| a/Å                                                             | 24.456(14)                                                               | 24.89(3)                                                                 | 24.35(4)                                                                 |
+| b/Å                                                             | 24.456(14)                                                               | 24.89(3)                                                                 | 24.35(4)                                                                 |
+| c/Å                                                             | 8.099(3)                                                                 | 7.979(3)                                                                 | 8.098(4)                                                                 |
+| α/°                                                             | 90                                                                       | 90                                                                       | 90                                                                       |
+| β/°                                                             | 90                                                                       | 90                                                                       | 90                                                                       |
+| γ/°                                                             | 120                                                                      | 120                                                                      | 120                                                                      |
+| Volume/Å3                                                       | 4195(5)                                                                  | 4281(10)                                                                 | 4159(13)                                                                 |
+| Z                                                               | 9                                                                        | 9                                                                        | 9                                                                        |
+| ρcalcg/cm3                                                      | 1.457                                                                    | 1.199                                                                    | 1.366                                                                    |
+| μ/mm-1                                                          | 0                                                                        | 0                                                                        | 0                                                                        |
+| F(000)                                                          | 554                                                                      | 473                                                                      | 529                                                                      |
+| Crystal size/mm3                                                | 0.0005 × 0.0002 ×<br>0.0001                                              | 0.0004 × 0.0001 ×<br>0.0001                                              | 0.0004 × 0.0001 ×<br>0.00005                                             |
+| Radiation                                                       | electron diffractometer<br>JEOL JSM-2300ED,<br>LaB6 (λ = 0.0251)         | electron diffractometer<br>JEOL JSM-2300ED,<br>LaB6 (λ = 0.0251)         | electron diffractometer<br>JEOL JSM-2300ED,<br>LaB6 (λ = 0.0251)         |
+| 2Θ range for data<br>collection/°                               | 0.118 to 1.438                                                           | 0.116 to 1.348                                                           | 0.118 to 1.3                                                             |
+| Index ranges                                                    | -20 ≤ h ≤ 21, -24 ≤ k ≤<br>24, -8 ≤ l ≤ 8                                | -21 ≤ h ≤ 21, -23 ≤ k ≤<br>23, -7 ≤ l ≤ 7                                | -18 ≤ h ≤ 19, -22 ≤ k ≤<br>22, -7 ≤ l ≤ 7                                |
+| Reflections<br>collected                                        | 3607                                                                     | 2648                                                                     | 2565                                                                     |
+| Independent<br>reflections                                      | 541 [Rint<br>= 0.4564,<br>Rsigma<br>= 0.2814]                            | 460 [Rint<br>= 0.2993,<br>Rsigma<br>= 0.2061]                            | 397 [Rint<br>= 0.3714,<br>Rsigma<br>= 0.2078]                            |
+| Data/restraints/par<br>ameters                                  | 541/57/46                                                                | 460/63/40                                                                | 397/69/46                                                                |
+| Goodness-of-fit on<br>2<br>F                                    | 0.914                                                                    | 0.977                                                                    | 1.107                                                                    |
+| Final R indexes<br>[I>=2σ (I)]<br>Final R indexes<br>[all data] | R1<br>= 0.1164, wR2<br>=<br>0.2580<br>R1<br>= 0.1690, wR2<br>=<br>0.2990 | R1<br>= 0.1300, wR2<br>=<br>0.3100<br>R1<br>= 0.1685, wR2<br>=<br>0.3390 | R1<br>= 0.1547, wR2<br>=<br>0.3496<br>R1<br>= 0.2078, wR2<br>=<br>0.3842 |
+| Largest diff.<br>peak/hole / e Å-3                              | 0.15/-0.20                                                               | 0.32/-0.14                                                               | 0.24/-0.37                                                               |
+| CCDC Number                                                     | 2385609                                                                  | 2385610                                                                  | 2385611                                                                  |
+
+#### **Supplementary Table 1**. Continued
+
+| Identification code                | Co-MFU-4l-Cl                                | Co-MFU-4l-OH                                   | Co-MFU-4l-SH                                |
+|------------------------------------|---------------------------------------------|------------------------------------------------|---------------------------------------------|
+| Empirical formula                  | C36H12Cl4Co4N18O12.1Zn                      | C64.8H127.2Co4N18O46.8Zn                       | C36H12Co4N18O13.44S3.44Z                    |
+|                                    |                                             |                                                | n                                           |
+| Formula weight                     | 1380.33                                     | 2208.53                                        | 1322.93                                     |
+| Temperature/K                      | 100.0(7)                                    | 100.0(10)                                      | 100.15                                      |
+| Crystal system                     | cubic                                       | cubic                                          | cubic                                       |
+| Space group                        | Fm-3m                                       | Fm-3m                                          | Fm-3m                                       |
+| a/Å                                | 30.8165(5)                                  | 30.7820(10)                                    | 30.8219(14)                                 |
+| b/Å                                | 30.8165(5)                                  | 30.7820(10)                                    | 30.8219(14)                                 |
+| c/Å                                | 30.8165(5)                                  | 30.7820(10)                                    | 30.8219(14)                                 |
+| α/°                                | 90                                          | 90                                             | 90                                          |
+| β/°                                | 90                                          | 90                                             | 90                                          |
+| γ/°                                | 90                                          | 90                                             | 90                                          |
+| Volume/Å3                          | 29265.1(14)                                 | 29167(3)                                       | 29280(4)                                    |
+| Z                                  | 8                                           | 8                                              | 8                                           |
+| ρcalcg/cm3                         | 0.627                                       | 1.006                                          | 0.600                                       |
+| μ/mm-1                             | 4.587                                       | 4.255                                          | 4.356                                       |
+| F(000)                             | 5443                                        | 9235                                           | 5236.0                                      |
+| Crystal size/mm3                   | 0.01 × 0.01 × 0.01                          | 0.01 × 0.01 × 0.01                             | 0.01 × 0.01 × 0.01                          |
+| Radiation                          | Cu Kα (λ = 1.54184)                         | Cu Kα (λ = 1.54184)                            | CuKα (λ = 1.54184)                          |
+| 2Θ range for data<br>collection/°  | 8.114 to 94.958                             | 8.124 to 95.098                                | 8.114 to 94.936                             |
+| Index ranges                       | -28 ≤ h ≤ 28, -28 ≤ k ≤<br>25, -29 ≤ l ≤ 29 | -29 ≤ h ≤ 17, -26 ≤<br>k ≤<br>29, -28 ≤ l ≤ 18 | -20 ≤ h ≤ 25, -28 ≤ k ≤<br>15, -29 ≤ l ≤ 10 |
+| Reflections<br>collected           | 11442                                       | 9223                                           | 4123                                        |
+| Independent                        | 732 [Rint<br>= 0.0816,                      | 730 [Rint<br>= 0.1234,                         | 729<br>[Rint<br>= 0.1519,                   |
+| reflections                        | Rsigma<br>= 0.0295]                         | Rsigma<br>= 0.0489]                            | Rsigma<br>= 0.0978]                         |
+| Data/restraints/para<br>meters     | 732/54/65                                   | 730/52/54                                      | 729/77/64                                   |
+| Goodness-of-fit on<br>2<br>F       | 1.098                                       | 1.062                                          | 0.868                                       |
+| Final R indexes                    | R1<br>= 0.0854, wR2<br>=                    | R1<br>= 0.0493, wR2<br>=                       | R1<br>= 0.0726, wR2<br>=                    |
+| [I>=2σ (I)]                        | 0.2449                                      | 0.1394                                         | 0.1882                                      |
+| Final R indexes                    | R1<br>= 0.1000, wR2<br>=                    | R1<br>= 0.0741, wR2<br>=                       | R1<br>= 0.1092, wR2<br>=                    |
+| [all data]                         | 0.2640                                      | 0.1622                                         | 0.2229                                      |
+| Largest diff.<br>peak/hole / e Å-3 | 0.98/-1.02                                  | 0.46/-0.28                                     | 0.43/-0.46                                  |
+| CCDC Number                        | 2376630                                     | 2376629                                        | 2376628                                     |
+
+#### **Supplementary Table 1**. Continued
+
+| Identification code                | Ni-MFU-4l-Cl                                | Ni-MFU-4l-OH                                | Ni-MFU-4l-SH                                |
+|------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Empirical formula                  | C36H122.4Cl4N18Ni2.5O69.08                  | C36H79.2N18Ni2.5O49.54                      | C55.2H88.8N18Ni2.5O32.86S3                  |
+|                                    | Zn2.5                                       | Zn2.5                                       | Zn2.5                                       |
+| Formula weight                     | 2365.13                                     | 1867.18                                     | 1936.71                                     |
+| Temperature/K                      | 100.15                                      | 100.15                                      | 100                                         |
+| Crystal system                     | cubic                                       | cubic                                       | cubic                                       |
+| Space group                        | Fm-3m                                       | Fm-3m                                       | Fm-3m                                       |
+| a/Å                                | 30.7457(7)                                  | 30.7537(18)                                 | 30.8207(5)                                  |
+| b/Å                                | 30.7457(7)                                  | 30.7537(18)                                 | 30.8207(5)                                  |
+| c/Å                                | 30.7457(7)                                  | 30.7537(18)                                 | 30.8207(5)                                  |
+| α/°                                | 90                                          | 90                                          | 90                                          |
+| β/°                                | 90                                          | 90                                          | 90                                          |
+| γ/°                                | 90                                          | 90                                          | 90                                          |
+| Volume/Å3                          | 29064(2)                                    | 29087(5)                                    | 29277.1(15)                                 |
+| Z                                  | 8                                           | 8                                           | 8                                           |
+| ρcalcg/cm3                         | 1.081                                       | 0.853                                       | 0.879                                       |
+| μ/mm-1                             | 2.202                                       | 1.35                                        | 1.657                                       |
+| F(000)                             | 9840                                        | 7700                                        | 8015                                        |
+| Crystal size/mm3                   | 0.01 × 0.01 × 0.01                          | 0.01 × 0.01 × 0.01                          | 0.01 × 0.01 × 0.01                          |
+| Radiation                          | CuKα (λ = 1.54184)                          | CuKα (λ = 1.54184)                          | CuKα (λ = 1.54184)                          |
+| 2Θ range for data<br>collection/°  | 8.134 to 95.246                             | 8.132 to 95.214                             | 8.114 to 95.23                              |
+| Index ranges                       | -28 ≤ h ≤ 28, -17 ≤ k ≤<br>28, -23 ≤ l ≤ 29 | -25 ≤ h ≤ 27, -17 ≤ k<br>≤ 29, -28 ≤ l ≤ 25 | -18 ≤ h ≤ 28, -29 ≤ k ≤<br>29, -27 ≤ l ≤ 17 |
+| Reflections collected              | 7229                                        | 6499                                        | 7744                                        |
+| Independent                        | 728 [Rint<br>= 0.0939,                      | 729 [Rint<br>= 0.1918,                      | 732 [Rint<br>= 0.0549,                      |
+| reflections                        | Rsigma<br>= 0.0421]                         | Rsigma<br>= 0.0925]                         | Rsigma<br>= 0.0260]                         |
+| Data/restraints/parame<br>ters     | 728/29/68                                   | 729/89/61                                   | 732/34/68                                   |
+| Goodness-of-fit on F2              | 1.035                                       | 0.911                                       | 1.088                                       |
+| Final R indexes                    | R1<br>= 0.0482, wR2<br>=                    | R1<br>= 0.0633, wR2<br>=                    | R1<br>= 0.0498, wR2<br>=                    |
+| [I>=2σ (I)]                        | 0.1469                                      | 0.1759                                      | 0.1657                                      |
+| Final R indexes [all               | R1<br>= 0.0622, wR2<br>=                    | R1<br>= 0.0942, wR2<br>=                    | R1<br>= 0.0584, wR2<br>=                    |
+| data]                              | 0.1542                                      | 0.1928                                      | 0.1731                                      |
+| Largest diff. peak/hole<br>/ e Å-3 | 0.24/-0.33                                  | 0.57/-0.32                                  | 0.44/-0.31                                  |
+| CCDC Number                        | 2376627                                     | 2376633                                     | 2376632                                     |
+
+#### **Supplementary Table 1**. Continued
+
+## **ORTEP-style illustrations and A- and/or B-level Alerts Justifications**
+
+## **Co2Cl2BBTA**:
+
+CCDC Number: 2376631
+
+A- and/or B-level Alerts: None
+
+ORTEP-style illustrations:
+
+![](_page_9_Figure_5.jpeg)
+
+## **Co2(OH)2BBTA**:
+
+CCDC Number: 2376626
+
+A- and/or B-level Alerts:
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4784
+
+Response: The crystal was a very small needle, which resulted in weak diffraction. As a consequence, data could only be collected up to a resolution of 1.05 Å.
+
+Problem: PLAT341\_ALERT\_3\_B Low Bond Precision on C-C Bonds ............... 0.0175 Ang.
+
+Response: The reduced bond precision is attributed to the limited resolution of the dataset, which stems from the poor diffraction quality of the crystal.
+
+![](_page_10_Figure_0.jpeg)
+
+## **Co2(SH)2BBTA**:
+
+CCDC Number: 2376634
+
+A- and/or B-level Alerts: None
+
+ORTEP-style illustrations:
+
+![](_page_10_Figure_5.jpeg)
+
+## **Ni2Cl2BBTA**:
+
+CCDC Number: 2385609
+
+A- and/or B-level Alerts:
+
+Problem: RINTA01\_ALERT\_3\_A The value of Rint is greater than 0.25 Rint given 0.456
+
+Response: The dataset was obtained by electron diffraction. The high Rint value arises from weak and limited-resolution diffraction, which is inherent to the small crystal size.
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4999
+
+Response: Due to the small crystal size, diffraction was weak, limiting the resolution of the data. This measurement was acquired using electron diffraction, which often results in a lower sin(theta\_max)/λ value compared to X-ray diffraction.
+
+Problem: PLAT020\_ALERT\_3\_A The Value of Rint is Greater Than 0.12 ......... 0.456 Report
+
+Response: As noted above, the elevated Rint is a result of weak diffraction and limited resolution associated with electron diffraction of a very small crystal.
+
+ORTEP-style illustrations:
+
+![](_page_11_Figure_7.jpeg)
+
+#### **Ni2(OH)2BBTA**:
+
+CCDC Number: 2385610
+
+A- and/or B-level Alerts:
+
+Problem: RINTA01\_ALERT\_3\_A The value of Rint is greater than 0.25 Rint given 0.299
+
+Response: The dataset was collected using electron diffraction. The elevated Rint value is due to weak diffraction intensity and limited resolution, both resulting from the small crystal size.
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4687
+
+Response: The relatively low sin(theta \_max)/λ is attributed to the weak diffraction and limited resolution inherent to data collected from a small crystal via electron diffraction.
+
+Problem: PLAT020\_ALERT\_3\_A The Value of Rint is Greater Than 0.12 ......... 0.299 Report
+
+Response: As noted, the high Rint value results from weak diffraction and limited resolution due to the small crystal size and the use of electron diffraction.
+
+Problem: PLAT341\_ALERT\_3\_B Low Bond Precision on C-C Bonds ............... 0.018 Ang.
+
+Response: The limited precision of C–C bond lengths is due to the weak diffraction and restricted resolution, which are characteristic of electron diffraction data obtained from very small crystals.
+
+ORTEP-style illustrations:
+
+![](_page_12_Figure_5.jpeg)
+
+## **Ni2(SH)2BBTA**:
+
+CCDC Number: 2385611
+
+A- and/or B-level Alerts:
+
+Problem: RINTA01\_ALERT\_3\_A The value of Rint is greater than 0.25
+
+Rint given 0.371
+
+Response: The data were collected by electron diffraction. The relatively high Rint value is due to weak diffraction and limited resolution caused by the small crystal size.
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4520
+
+Response: The dataset was collected by electron diffraction. The relatively low sin(theta\_max)/wavelength is due to weak diffraction and limited resolution from the small crystal.
+
+Problem: PLAT020\_ALERT\_3\_A The Value of Rint is Greater Than 0.12 ......... 0.371 Report
+
+Response: As noted above, the high Rint value results from weak diffraction and limited resolution due to the small crystal and use of electron diffraction.
+
+Problem: High wR2 Value (i.e. > 0.25) ................... 0.38 Report
+
+Response: The high wR2 value is attributed to weak diffraction and limited resolution, which are common for small crystals measured by electron diffraction.
+
+Problem: PLAT341\_ALERT\_3\_B Low Bond Precision on C-C Bonds ............... 0.03 Ang.
+
+Response: The low bond precision is due to weak diffraction and limited resolution, both of which result from the small crystal and use of electron diffraction.
+
+ORTEP-style illustrations:
+
+![](_page_13_Figure_6.jpeg)
+
+## **Co-MFU-4***l***-Cl**:
+
+CCDC Number: 2376630
+
+A- and/or B-level Alerts:
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4780
+
+Response: The diffraction data were collected from a very small single crystal, which resulted in weak high-angle reflections. As a result, data could only be collected up to 1.05 Å resolution, leading to a lower sin(theta\_max)/wavelength value.
+
+Problem: PLAT242\_ALERT\_2\_B Low 'MainMol' Ueq as Compared to Neighbors of Co1 Check
+
+Response: The lower Ueq for Co1 is attributed to structural disorder between 4-coordinate and 6 coordinate Co sites. This local disorder affects the refinement of atomic displacement parameters and results in Ueq values that deviate from neighboring atoms.
+
+ORTEP-style illustrations:
+
+![](_page_14_Figure_1.jpeg)
+
+## **Co-MFU-4***l***-OH**:
+
+CCDC Number: 2376629
+
+A- and/or B-level Alerts:
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4786
+
+Response: The diffraction data were collected from a very small single crystal, which resulted in weak high-angle reflections. As a result, data could only be collected up to 1.05 Å resolution, leading to a lower sin(theta\_max)/wavelength value.
+
+![](_page_15_Figure_0.jpeg)
+
+## **Co-MFU-4***l***-SH**:
+
+CCDC Number: 2376628
+
+A- and/or B-level Alerts:
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4779
+
+Response: The diffraction data were collected from a very small single crystal, which resulted in weak high-angle reflections. As a result, data could only be collected up to 1.05 Å resolution, leading to a lower sin(theta\_max)/wavelength value.
+
+![](_page_15_Figure_8.jpeg)
+
+## **Ni-MFU-4***l***-Cl**:
+
+CCDC Number: 2376627
+
+A- and/or B-level Alerts:
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4791
+
+Response: The diffraction data were collected from a very small single crystal, which resulted in weak high-angle reflections. As a result, data could only be collected up to 1.05 Å resolution, leading to a lower sin(theta\_max)/wavelength value.
+
+ORTEP-style illustrations:
+
+![](_page_16_Figure_7.jpeg)
+
+## **Ni-MFU-4***l***-OH**:
+
+CCDC Number: 2376633
+
+A- and/or B-level Alerts:
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4790
+
+Response: The diffraction data were collected from a very small single crystal, which resulted in weak high-angle reflections. As a result, data could only be collected up to 1.05 Å resolution, leading to a lower sin(theta\_max)/wavelength value.
+
+![](_page_17_Figure_0.jpeg)
+
+Problem: RINTA01\_ALERT\_3\_B The value of Rint is greater than 0.18. Rint given 0.192
+
+Response: The relatively high Rint value is due to weak diffraction and limited resolution caused by the small crystal size.
+
+## **Ni-MFU-4***l***-SH**:
+
+CCDC Number: 2376632
+
+A- and/or B-level Alerts:
+
+Problem: THETM01\_ALERT\_3\_A The value of sine(theta\_max)/wavelength is less than 0.550
+
+Calculated sin(theta\_max)/wavelength = 0.4791
+
+Response: The diffraction data were collected from a very small single crystal, which resulted in weak high-angle reflections. As a result, data could only be collected up to 1.05 Å resolution, leading to a lower sin(theta\_max)/wavelength value.
+
+![](_page_18_Figure_0.jpeg)
+
+**Supplementary Table 2**. Refined Unit cell parameters of Ni2X2BBTA where X = Cl, OH and SH from PXRD.
+
+|             | Ni2Cl2BBTA | Ni2(OH)2BBTA | Ni2(SH)2BBTA |
+|-------------|------------|--------------|--------------|
+| Space group | R-3m       | R-3m         | R-3m         |
+| a/Å         | 24.441(6)  | 24.608(4)    | 24.16(2)     |
+| b/Å         | 24.441(6)  | 24.608(4)    | 24.16(2)     |
+| c/Å         | 8.200(3)   | 8.021(2)     | 8.087(7)     |
+| α/°         | 90         | 90           | 90           |
+| β/°         | 90         | 90           | 90           |
+| γ/°         | 120        | 120          | 120          |
+| Volume/Å3   | 4242(4)    | 4206(2)      | 4088(10)     |
+
+![](_page_19_Figure_2.jpeg)
+
+**Supplementary Figure 1**. Experimental and simulated PXRD of Co2X2BBTA, where X = Cl, OH and SH*.*
+
+![](_page_20_Figure_0.jpeg)
+
+**Supplementary Figure 2**. Experimental and simulated PXRD patterns (a) from electron diffractions and (b) unit cell refinements of Ni2X2BBTA, where X = Cl, OH and SH.
+
+![](_page_21_Figure_0.jpeg)
+
+**Supplementary Figure 3.** Experimental and simulated PXRD of Co-MFU-4l-X, where X = Cl, OH and SH.
+
+![](_page_21_Figure_2.jpeg)
+
+**Supplementary Figure 4**. Experimental and simulated PXRD of Ni-MFU-4*l*-X, where X = Cl, OH and SH.
+
+![](_page_22_Figure_0.jpeg)
+
+**Supplementary Figure 5**. Refinement of trigonal R -3 m model against PXRD data of Co2X2BBTA, where X = Cl, OH and SH, after individual ligand substitution procedures.
+
+## **Section D. Sorption Properties**
+
+The theoretical pore volume (PVcalc) of the MOFs were calculated by the equation shown below:
+
+$$
+PV_{calc} = \frac{n}{\rho}
+$$
+
+Where n is the void rate that calculated by Mercury software with probe size as 1.8 Å and grid spacing as 0.3 Å; ρ is the theoretical density of the MOFs calculated from cif files. The theoretical N<sup>2</sup> sorption amounts, *A*calc, were calculated with the equation as below:
+
+$$
+A_{calc} = \frac{PV_{calc} \cdot \rho_{N_2,l}}{M_{N_2}} \cdot V_{molar}
+$$
+
+Where 2, is the density of liquid N<sup>2</sup> at 77 K, <sup>2</sup> is the molar mass of N2 and is the molar volume of a gas.
+
+**Supplementary Table 3**.Theoretical and experimental porosity data of M2X2BBTA and M-MFU-4*l*-X where M = Co and Ni, X = Cl, OH and SH.
+
+| MOF           | n(%) | ρ (g cm-3<br>) | calc(cm3 g<br>-1<br>)<br>PV | PV<br>exp<br>(cm3 g<br>-1<br>) | Acalc (cm3 g<br>-1<br>) | Aexp<br>(cm3 g<br>-1<br>) | BET Area<br>(m2 g<br>-1<br>) | Langmuir<br>surface area<br>(m2 g<br>-1<br>) |
+|---------------|------|----------------|-----------------------------|--------------------------------|-------------------------|---------------------------|------------------------------|----------------------------------------------|
+| Co2Cl2BBTA    | 58.1 | 1.182          | 0.491                       | 0.482                          | 317                     | 312                       | 1180                         | 1195                                         |
+| Co2(OH)2BBTA  | 58.9 | 1.095          | 0.538                       | 0.612                          | 347                     | 400                       | 1490                         | 1470                                         |
+| Co2(SH)2BBTA  | 54.6 | 1.312          | 0.416                       | 0.294                          | 269                     | 200                       | 650                          | 640                                          |
+| Co2(SH)2BBTAa | 38.8 | 1.435          | 0.270                       | 0.294                          | 175                     | 200                       | 650                          | 640                                          |
+| Ni2Cl2BBTA    | 57.7 | 1.234          | 0.468                       | 0.483                          | 302                     | 330                       | 1190                         | 1195                                         |
+| Ni2(OH)2BBTA  | 60.9 | 1.047          | 0.582                       | 0.658                          | 376                     | 427                       | 1420                         | 1470                                         |
+| Ni2(SH)2BBTA  | 57.3 | 1.221          | 0.469                       | 0.297                          | 303                     | 228                       | 730                          | 705                                          |
+| Ni2(SH)2BBTAa | 47.7 | 1.228          | 0.388                       | 0.297                          | 250                     | 228                       | 730                          | 705                                          |
+| Co-MFU-4l-Cl  | 71.7 | 0.627          | 1.144                       | 1.154                          | 738                     | 746                       | 2750                         | -                                            |
+| Co-MFU-4l-OH  | 74.8 | 0.564          | 1.327                       | 1.411                          | 857                     | 910                       | 3480                         | -                                            |
+| Co-MFU-4l-SH  | 72.0 | 0.608          | 1.184                       | 1.094                          | 764                     | 702                       | 2660                         | -                                            |
+| Ni-MFU-4l-Cl  | 71.7 | 0.601          | 1.193                       | 1.190                          | 770                     | 768                       | 2900                         | -                                            |
+| Ni-MFU-4l-OH  | 74.6 | 0.550          | 1.356                       | 1.449                          | 875                     | 940                       | 3440                         | -                                            |
+| Ni-MFU-4l-SH  | 72.7 | 0.605          | 1.202                       | 1.141                          | 776                     | 726                       | 2720                         | -                                            |
+
+a with a H2O terminal group
+
+![](_page_24_Figure_0.jpeg)
+
+**Supplementary Figure 6**. N<sup>2</sup> isotherms of M2X2BBTA at 77 K (where M = Co and Ni, X = Cl,
+
+OH and SH)
+
+![](_page_25_Figure_0.jpeg)
+
+**Supplementary Figure 7**. N<sup>2</sup> isotherms of M-MFU-4*l*-X at 77 K (where M = Co and Ni, X = Cl,
+
+OH and SH)
+
+![](_page_26_Figure_0.jpeg)
+
+**Section E. X-ray photoelectron spectroscopy (XPS)**
+
+**Supplementary Figure 8**. XPS spectra of Co2Cl2BBTA: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Co2p and (f) Cl2p.
+
+| Element | Chemical State             | Bonding Energy(eV) | Atomic % per Co |
+|---------|----------------------------|--------------------|-----------------|
+|         | C=C                        | 284.15             |                 |
+| C       | C=N                        | 285.93             |                 |
+| O       | H2O<br>(coordinates to Co) | 530.99             |                 |
+| N       | N=C/N=N                    | 399.98             |                 |
+|         | Cl- 2p3/2                  | 197.22             |                 |
+|         | Cl- 2p1/2                  | 198.72             |                 |
+|         | -Cl 2p3/2                  | 199.26             |                 |
+| Cl      | -Cl 2p1/2                  | 200.76             | 91%             |
+|         | Co2+ 2p3/2                 | 780.46             |                 |
+|         | Co2+ 2p1/2                 | 796.25             |                 |
+|         | Co2+ 2p3/2, sat.           | 785.15             |                 |
+| Co      | Co2+ 2p1/2,<br>sat.        | 802.27             | 100%            |
+
+**Supplementary Table 4**. Summary of XPS spectra peaks of Co2Cl2BBTA
+
+![](_page_27_Figure_0.jpeg)
+
+**Supplementary Figure 9**. XPS spectra of Co2(OH)2BBTA: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Co2p and (f) Cl2p.
+
+| Element | Chemical State             | Bonding Energy(eV) | Atomic % per Co |
+|---------|----------------------------|--------------------|-----------------|
+|         | C=C                        | 285.91             |                 |
+| C       | C=N                        | 284.60             |                 |
+|         | μ2-OH                      | 530.53             |                 |
+| O       | H2O<br>(coordinates to Co) | 531.84             |                 |
+| N       | N=C/N=N                    | 399.58             |                 |
+| Cl      | N/A                        | N/A                | 0%              |
+|         | Co2+ 2p3/2                 | 781.02             |                 |
+|         | Co2+ 2p1/2                 | 796.40             |                 |
+|         | Co2+ 2p3/2, sat.           | 786.49             |                 |
+| Co      | Co2+ 2p1/2,<br>sat.        | 802.28             | 100%            |
+
+**Supplementary Table 5**. Summary of XPS spectra peaks of Co2(OH)2BBTA
+
+![](_page_28_Figure_0.jpeg)
+
+**Supplementary Figure 10**. XPS spectra of Co2(SH)2BBTA: (a) survey, (b) C1s, (c)N1s, (d) Co2p, (e) O1s and (f) S2p.
+
+| Element | Chemical State                | Bonding Energy(eV) | Atomic % per Co |
+|---------|-------------------------------|--------------------|-----------------|
+|         | C=C                           | 284.61             |                 |
+| C       | C=N                           | 285.84             |                 |
+|         | H2O<br>(coordinates<br>to Co) | 532.05             |                 |
+| O       | H2O<br>(in cavity)            | 533.35             |                 |
+| N       | N=C/N=N                       | 399.98             |                 |
+|         | 2- 2p3/2<br>S                 | 162.74             |                 |
+| S       | 2- 2p1/2<br>S                 | 164.04             | 92%             |
+|         | Co2+ 2p3/2                    | 779.01             |                 |
+|         | Co2+ 2p1/2                    | 793.99             |                 |
+|         | Co2+ 2p3/2, sat.              | 782.29             |                 |
+| Co      | Co2+ 2p1/2,<br>sat.           | 797.35             | 100%            |
+
+**Supplementary Table 6**. Summary of XPS spectra peaks of Co2(SH)2BBTA
+
+![](_page_29_Figure_0.jpeg)
+
+**Supplementary Figure 11**. XPS spectra of Ni2Cl2BBTA: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) Cl2p.
+
+| Element | Chemical State      | Bonding Energy(eV) | Atomic % per Ni |
+|---------|---------------------|--------------------|-----------------|
+|         | C=C                 | 284.67             |                 |
+| C       | C=N                 | 287.48             |                 |
+| O       | H2O<br>(in cavity)  | 531.29             |                 |
+| N       | N=C/N=N             | 399.58             |                 |
+|         | Cl- 2p3/2           | 197.77             |                 |
+| Cl      | Cl- 2p1/2           | 199.47             | 98%             |
+|         | Ni2+ 2p3/2          | 855.70             |                 |
+|         | Ni2+ 2p1/2          | 873.24             |                 |
+|         | Ni2+ 2p3/2, sat.    | 861.37             |                 |
+| Ni      | Ni2+ 2p1/2,<br>sat. | 879.26             | 100%            |
+
+**Supplementary Table 7**. Summary of XPS spectra peaks of Ni2Cl2BBTA
+
+![](_page_30_Figure_0.jpeg)
+
+**Supplementary Figure 12**. XPS spectra of Ni2(OH)2BBTA: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) Cl2p.
+
+| Element | Chemical State             | Bonding Energy(eV) | Atomic % per Ni |
+|---------|----------------------------|--------------------|-----------------|
+|         | C=C                        | 283.63             |                 |
+| C       | C=N                        | 285.79             |                 |
+|         | μ2-OH                      | 529.27             |                 |
+| O       | H2O<br>(coordinates to Co) | 530.4              |                 |
+|         | N=C                        | 399.74             |                 |
+| N       | N=N                        | 398.22             |                 |
+| Cl      | N/A                        | N/A                | 0%              |
+|         | Ni2+ 2p3/2                 | 854.65             |                 |
+|         | Ni2+ 2p1/2                 | 872.24             |                 |
+|         | Ni2+ 2p3/2, sat.           | 860.52             |                 |
+| Ni      | Ni2+ 2p1/2,<br>sat.        | 878.52             | 100%            |
+
+**Supplementary Table 8**. Summary of XPS spectra peaks of Ni2(OH)2BBTA
+
+![](_page_31_Figure_0.jpeg)
+
+**Supplementary Figure 13**. XPS spectra of Ni2(SH)2BBTA: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) S2p.
+
+|  | Supplementary Table 9. |  |  | Summary of XPS spectra peaks of Ni2(SH)2BBTA |  |  |  |  |  |  |
+|--|------------------------|--|--|----------------------------------------------|--|--|--|--|--|--|
+|--|------------------------|--|--|----------------------------------------------|--|--|--|--|--|--|
+
+| Element | Chemical State      | Bonding Energy(eV) | Atomic % per Ni |
+|---------|---------------------|--------------------|-----------------|
+|         | C=C                 | 284.66             |                 |
+| C       | C=N                 | 286.17             |                 |
+| O       | H2O<br>(in cavity)  | 532.13             |                 |
+| N       | N=C/N=N             | 399.59             |                 |
+|         | 2- 2p3/2<br>S       | 162.61             |                 |
+| S       | 2- 2p1/2<br>S       | 163.91             | 104%            |
+|         | Ni2+ 2p3/2          | 852.97             |                 |
+|         | Ni2+ 2p1/2          | 870.27             |                 |
+|         | Ni2+ 2p3/2, sat.    | 854.27             |                 |
+| Ni      | Ni2+ 2p1/2,<br>sat. | 874.26             | 100%            |
+
+![](_page_32_Figure_0.jpeg)
+
+**Supplementary Figure 14**. XPS spectra of Co-MFU-4*l*-Cl: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) Cl2p.
+
+| Supplementary Table 10. |  | Summary of XPS spectra peaks of Co-MFU-4l-Cl |
+|-------------------------|--|----------------------------------------------|
+|-------------------------|--|----------------------------------------------|
+
+| Element | Chemical State                 | Bonding Energy(eV) | Atomic % per 1/5 metal |
+|---------|--------------------------------|--------------------|------------------------|
+|         | C=C                            | 284.06             |                        |
+| C       | C=N                            | 285.43             |                        |
+|         | H2O<br>(coordinates to Co)/O-C | 531.39             |                        |
+| O       | H2O<br>(in cavity)             | 533.15             |                        |
+| N       | N=C/N=N                        | 399.55             |                        |
+|         | Cl- 2p3/2                      | 197.86             |                        |
+| Cl      | Cl- 2p1/2                      | 199.44             | 488%                   |
+|         | Co2+ 2p3/2                     | 781.18             |                        |
+|         | Co2+ 2p1/2                     | 796.87             |                        |
+|         | Co2+ 2p3/2, sat.               | 786.21             |                        |
+| Co      | Co2+ 2p1/2,<br>sat.            | 802.70             | 384%                   |
+|         | Zn2+ 2p3/2                     | 1022.25            |                        |
+| Zn      | Zn2+ 2p1/2                     | 1045.35            | 116%                   |
+
+![](_page_33_Figure_0.jpeg)
+
+**Supplementary Figure 15**. XPS spectra of Co-MFU-4*l*-OH: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) Cl2p.
+
+| Supplementary Table 11. |  | Summary of XPS spectra peaks of Co-MFU-4l-OH |  |  |  |  |  |  |
+|-------------------------|--|----------------------------------------------|--|--|--|--|--|--|
+|-------------------------|--|----------------------------------------------|--|--|--|--|--|--|
+
+| Element | Chemical State                 | Bonding Energy(eV) | Atomic % per 1/5 metal |
+|---------|--------------------------------|--------------------|------------------------|
+|         | C=C                            | 284.69             |                        |
+|         | C=N                            | 285.95             |                        |
+| C       | C-O                            | 288.66             |                        |
+|         | -OH (bridging)                 | 530.30             |                        |
+|         | H2O<br>(coordinates to Co)/O-C | 531.86             |                        |
+| O       | H2O<br>(in cavity)             | 533.52             |                        |
+| N       | N=C/N=N                        | 399.55             |                        |
+| Cl      | N/A                            | N/A                | 0%                     |
+|         | Co2+ 2p3/2                     | 781.58             |                        |
+|         | Co2+ 2p1/2                     | 797.06             |                        |
+|         | Co2+ 2p3/2, sat.               | 786.71             |                        |
+| Co      | Co2+ 2p1/2,<br>sat.            | 803.5              | 409%                   |
+| Zn      | Zn2+ 2p3/2                     | 1022.29            | 91%                    |
+
+![](_page_34_Figure_0.jpeg)
+
+**Supplementary Figure 16**. XPS spectra of Co-MFU-4*l*-SH: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) Cl2p.
+
+| Supplementary Table 12. |  | Summary of XPS spectra peaks of Co-MFU-4l-SH |  |  |
+|-------------------------|--|----------------------------------------------|--|--|
+|-------------------------|--|----------------------------------------------|--|--|
+
+| Element | Chemical State                 | Bonding Energy(eV) | Atomic % per 1/5 metal |
+|---------|--------------------------------|--------------------|------------------------|
+|         | C=C                            | 284.72             |                        |
+| C       | C=N                            | 286.25             |                        |
+|         | H2O<br>(coordinates to Co)/O-C | 531.14             |                        |
+| O       | H2O<br>(in cavity)             | 532.52             |                        |
+| N       | N=C/N=N                        | 399.18             |                        |
+|         | 2- 2p3/2<br>S                  | 162.57             |                        |
+| S       | 2- 2p1/2<br>S                  | 163.87             | 367%                   |
+|         | Co2+ 2p3/2                     | 778.55             |                        |
+|         | Co2+ 2p1/2                     | 793.71             |                        |
+|         | Co2+ 2p3/2, sat.               | 781.5              |                        |
+| Co      | Co2+ 2p1/2,<br>sat.            | 796.66             | 399%                   |
+|         | Zn2+ 2p3/2                     | 1022.25            |                        |
+| Zn      | Zn2+ 2p1/2                     | 1045.35            | 101%                   |
+
+![](_page_35_Figure_0.jpeg)
+
+**Supplementary Figure 17**. XPS spectra of Ni-MFU-4*l*-Cl: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) Cl2p.
+
+| Supplementary Table 13. |  | Summary of XPS spectra peaks of Ni-MFU-4l-Cl |  |  |  |
+|-------------------------|--|----------------------------------------------|--|--|--|
+|-------------------------|--|----------------------------------------------|--|--|--|
+
+| Element | Chemical State                 | Bonding Energy(eV) | Atomic % per 1/5 metal |
+|---------|--------------------------------|--------------------|------------------------|
+|         | C=C                            | 284.04             |                        |
+| C       | C=N                            | 285.41             |                        |
+|         | H2O<br>(coordinates to Co)/O-C | 531.33             |                        |
+| O       | H2O<br>(in cavity)             | 533.05             |                        |
+| N       | N=C/N=N                        | 399.66             |                        |
+|         | Cl- 2p3/2                      | 198.3              |                        |
+| Cl      | Cl- 2p1/2                      | 199.88             | 377%                   |
+|         | Ni2+ 2p3/2                     | 856.50             |                        |
+|         | Ni2+ 2p1/2                     | 874.17             |                        |
+|         | Ni2+ 2p3/2, sat.               | 862.11             |                        |
+| Ni      | Ni2+ 2p1/2,<br>sat.            | 880.23             | 273%                   |
+|         | Zn2+ 2p3/2                     | 1022.41            |                        |
+| Zn      | Zn2+ 2p1/2                     | 1045.41            | 227%                   |
+
+![](_page_36_Figure_0.jpeg)
+
+**Supplementary Figure 18**. XPS spectra of Ni-MFU-4*l*-OH: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) Cl2p.
+
+| Element | Chemical State                 | Bonding Energy(eV) | Atomic % per 1/5 metal |
+|---------|--------------------------------|--------------------|------------------------|
+|         | C=C                            | 284.20             |                        |
+|         | C=N                            | 285.54             |                        |
+| C       | C-O                            | 288.27             |                        |
+|         | -OH (bridging)                 | 530.03             |                        |
+|         | H2O<br>(coordinates to Co)/O-C | 531.22             |                        |
+| O       | H2O<br>(in cavity)             | 532.94             |                        |
+| N       | N=C/N=N                        | 399.41             |                        |
+| Cl      | N/A                            | N/A                | 0%                     |
+|         | Ni2+ 2p3/2                     | 856.29             |                        |
+|         | Ni2+ 2p1/2                     | 873.99             |                        |
+|         | Ni2+ 2p3/2, sat.               | 861.99             |                        |
+| Ni      | Ni2+ 2p1/2,<br>sat.            | 880.05             | 305%                   |
+|         | Zn2+ 2p3/2                     | 1022.29            |                        |
+| Zn      | Zn2+ 2p1/2                     | 1045.35            | 195%                   |
+
+**Supplementary Table 14**. Summary of XPS spectra peaks of Ni-MFU-4*l*-OH
+
+![](_page_37_Figure_0.jpeg)
+
+**Supplementary Figure 19**. XPS spectra of Ni-MFU-4*l*-SH: (a) survey, (b) C1s, (c)O1s, (d)N1s, (e) Ni2p and (f) Cl2p.
+
+| Element | Chemical State                 | Bonding Energy(eV) | Atomic % per 1/5 metal |
+|---------|--------------------------------|--------------------|------------------------|
+|         | C=C                            | 284.42             |                        |
+| C       | C=N                            | 285.82             |                        |
+|         | H2O<br>(coordinates to Co)/O-C | 531.43             |                        |
+| O       | H2O<br>(in cavity)             | 533.07             |                        |
+| N       | N=C/N=N                        | 399.46             |                        |
+|         | 2- 2p3/2<br>S                  | 162.35             |                        |
+| S       | 2- 2p1/2<br>S                  | 163.65             | 294%                   |
+|         | Ni2+ 2p3/2                     | 854.01             |                        |
+|         | Ni2+ 2p1/2                     | 871.24             |                        |
+|         | Ni2+ 2p3/2, sat.               | 856.83             |                        |
+| Ni      | Ni2+ 2p1/2,<br>sat.            | 875.16             | 212%                   |
+|         | Zn2+ 2p3/2                     | 1023.01            |                        |
+| Zn      | Zn2+ 2p1/2                     | 1045.96            | 288%                   |
+
+**Supplementary Table 15**. Summary of XPS spectra peaks of Ni-MFU-4*l*-SH
+
+**Section F. Scanning Electron Microscopy (SEM) and Energy Dispersive X-ray spectroscopy (EDS)**
+
+![](_page_38_Figure_1.jpeg)
+
+**Supplementary Figure 20**. SEM images of (a) pristine Co2Cl2BBTA and post-synthetically converted (b) Co2(OH)2BBTA, (c) Co2(SH)2BBTA.
+
+![](_page_39_Figure_0.jpeg)
+
+**Supplementary Figure 21**. SEM and EDS results of Co:S ratio of Co2(SH)2BBTA with different equivalence (a) 1.0 eq. (b) 1.5 eq and (c) 2.0 eq of H2S used.
+
+![](_page_40_Figure_0.jpeg)
+
+**Supplementary Figure 22**. SEM images of (a) pristine Ni2Cl2BBTA and post-synthetically converted (b) Ni2(OH)2BBTA, (c) Ni2(SH)2BBTA.
+
+![](_page_41_Picture_0.jpeg)
+
+**Supplementary Figure 23**. SEM and EDS results of Ni:S ratio of Ni2(SH)2BBTA
+
+![](_page_42_Figure_0.jpeg)
+
+**Supplementary Figure 24**. SEM images of (a) pristine Co-MFU-4*l*-Cl and post-synthetically converted (b) Co-MFU-4*l*-OH, (c) Co-MFU-4*l*-SH.
+
+![](_page_43_Picture_0.jpeg)
+
+**Supplementary Figure 25**. SEM and EDS results of Co:Zn:S ratio of Co-MFU-4*l*-SH
+
+![](_page_44_Figure_0.jpeg)
+
+**Supplementary Figure 26**. SEM images of (a) pristine Ni-MFU-4*l*-Cl and post-synthetically converted (b) Ni-MFU-4*l*-OH, (c) Ni-MFU-4*l*-SH.
+
+![](_page_45_Picture_0.jpeg)
+
+**Supplementary Figure 27**. SEM and EDS results of Ni:Zn:S ratio of Ni-MFU-4*l*-SH
+
+## **Section G. Hydrogenation Catalysis of 4-Nitrophenol**
+
+The experiment was conducted using a Parr reactor. Initially, 20 mg of 4-nitrophenol was dissolved in 6 mL of methanol (MeOH) within a 25 mL Teflon liner. The MOFs were added in an amount corresponding to 10% based on the metal sites. The reactor system was purged with argon at 10 bar pressure three times, followed by purging with hydrogen gas at 13.8 bar pressure three times. The final pressure of hydrogen gas was kept at 13.8 bar at room temperature. Subsequently, the mixture was heated to 150°C (No significant changes in the mass of the MOFs were observed at the reaction temperature, as confirmed by TGA analysis (Supplementary Figure 55).) for 4.25 hours and then allowed to cool to room temperature. The product was separated using a centrifuge, and the conversion rate was monitored via NMR spectroscopy. The turnover frequency measurements were formed with 1.5 mol% Co2(SH)2BBTA and 5 mol% Ni-MFU-4*l*-SH.
+
+![](_page_46_Figure_2.jpeg)
+
+**Supplementary Figure 29**. <sup>1</sup>H NMR (500 MHz in methanol-d4, 298 K) of hydrogenation of 4 nitrophenol to 4-aminophenol with Co2X2BBTA as catalysts, where X = Cl, OH and SH.
+
+![](_page_47_Figure_0.jpeg)
+
+**Supplementary Figure 30**. <sup>1</sup>H NMR (500 MHz in methanol-d4, 298 K) of hydrogenation of 4 nitrophenol to 4-aminophenol with 1.5 mol% Co2(SH)2BBTA
+
+![](_page_47_Figure_2.jpeg)
+
+**Supplementary Figure 31**. Turnover frequency of hydrogenation of 4-nitrophenol to 4 aminophenol with 1.5 mol% Co2(SH)2BBTA
+
+![](_page_48_Figure_0.jpeg)
+
+**Supplementary Figure 32**. <sup>1</sup>H NMR (500 MHz in methanol-4d, 298 K) of hydrogenation of 4 nitrophenol to 4-aminophenol with Ni2X2BBTA as catalysts, where X = Cl, OH and SH.
+
+![](_page_48_Figure_2.jpeg)
+
+**Supplementary Figure 33**. <sup>1</sup>H NMR (500 MHz in methanol-d4, 298 K) of hydrogenation of 4 nitrophenol to 4-aminophenol with Co-MFU-4*l*-X as catalysts, where X = Cl, OH and SH.
+
+![](_page_49_Figure_0.jpeg)
+
+**Supplementary Figure 35**. <sup>1</sup>H NMR (500 MHz in methanol-d4, 298 K) of hydrogenation of 4 nitrophenol to 4-aminophenol with 5 mol% Ni-MFU-4*l*-SH
+
+![](_page_50_Figure_0.jpeg)
+
+**Supplementary Figure 36**. Turnover frequency of hydrogenation of 4-nitrophenol to 4 aminophenol with 5 mol% Ni-MFU-4*l*-SH
+
+![](_page_50_Figure_2.jpeg)
+
+**Supplementary Figure 37**. <sup>1</sup>H NMR (500 MHz in methanol-d4, 298 K) of hydrogenation of 4 nitrophenol to 4-aminophenol with 10 mol% Co2(SH)2BBTA under Ar and H2
+
+## **Section H. Computational Analysis**
+
+## **H.1. 3D MFU-4***l* **System: Spin Ladder**
+
+![](_page_51_Figure_2.jpeg)
+
+**Supplementary Figure 38.** Possible spin configurations for each metal center *M* (= CoII/NiII) and their ferromagnetic and antiferromagnetic coupling combinations were explored thoroughly to understand the resting state electronic configuration in these systems. For each spin state, the total spin multiplicity of the node is shown in parenthesis.
+
+**Supplementary Table 16**. Relative energies of the spin isomers presented in Supplementary Figure 38. Electronic energies (*∆E*) are in kcal/mol calculated at the TPSSh-D3(BJ)/basis-II/SMD(MeOH)//TPSSh-D3(BJ)/basis-I level of theory.
+
+|        | ∆E<br>(kcal/mol) |        |        |        |        |
+|--------|------------------|--------|--------|--------|--------|
+| System | –X               | Spin-A | Spin-B | Spin-C | Spin-D |
+|        | –Cl              | 0      | –0.2   | –0.3   | 99.3   |
+| Co     | –OH              | 0      | –0.2   | –0.3   | 70.2   |
+|        | –SH              | 0      | –0.3   | –0.4   | 43.8   |
+|        | –Cl              | 0      | –0.1   | –0.1   | 64.3   |
+| Ni     | –OH              | 0      | –0.2   | –0.3   | 58.6   |
+|        | –SH              | 0      | –0.2   | –0.1   | 58.2   |
+
+![](_page_52_Figure_0.jpeg)
+
+## **H.2. 3D MFU-4***l* **System: Choice of Density Functional**
+
+**Supplementary Figure 39**. (a) Schematic representation of the two possible pathways for open metal site generation: (i) homolytic cleavage and (ii) heterolytic cleavage of the M–X bond. (b) Influence of the density functional on the computed results. Four density functionals were employed: (i) TPSSh-D3(BJ), (ii) *ω*B97X-D,<sup>2</sup> (iii) M06-D3(0), and (iv) MN-15.<sup>3</sup> All methods showed a consistent trend: heterolytic M–X bond cleavage is preferred for *X* = Cl, OH (depicted by stripe filled bars), while for X = SH homolytic cleavage is preferred (depicted by solid gradient filled bar). For the rest of the study, results obtained using the M06-D3(0) functional will be shown. Gibbs free energies (at 150 °C) are given in kcal/mol.
+
+![](_page_53_Figure_0.jpeg)
+
+![](_page_53_Figure_1.jpeg)
+
+**Supplementary Figure 40**. Influence of the size the of the cluster model chosen for the computational study is analyzed. (a) "Large Cluster" (stripe filled bars) includes a benzotriazole ligand, while the "Small Cluster" (solid gradient filled bar) uses a triazole ligand. (b) Energetics of heterolytic M–X bond cleavage (schematically shown in Supplementary Figure 39(a)) for both cluster models. No significant difference is observed between the models. (c) and (d): Solvent effects were investigated using explicit solvation of the cluster models with methanol: (i) 1 MeOH per metal center and (ii) 2 MeOH per metal center. Panel (d) shows some variation in computed energetics for the larger cluster when compared against the smaller cluster, potentially due to steric hindrance. However, the relative trends for methanol solvation energies (*M* = Co, Ni; *X* = Cl, OH, SH) were consistent across both models. Based on these findings, subsequent results will be presented using the smaller cluster model only. Gibbs free energies (at 150 °C) are given in kcal/mol, calculated at the TPSSh-D3(BJ)/ def2-TZVP/SMD(MeOH)//TPSSh-D3(BJ)/def2-SVP level of theory.
+
+## **H.4. Effect of Systematic Methanol Coordination: 3D MOF Neutral MII–X Species**
+
+![](_page_54_Figure_1.jpeg)
+
+**Supplementary Figure 41**. Schematic representation of various coordination modes explored for MeOH binding to the neutral M(II)–X species: (A) Two tetrahedral M(II)–X sites (starting structure), (B) Two square pyramidal M(II) sites, (C) Combination of tetrahedral and octahedral M(II) sites, (D) Two square pyramidal M(II) sites with additional hydrogen bonded MeOH units (E) Two octahedral M(II) sites.
+
+![](_page_54_Figure_3.jpeg)
+
+**Supplementary Figure 42**. MeOH coordination energetics for CoII (a) and NiII (b) complexes. Ni consistently shows lower binding energies across all coordination modes. For Co at 423 K, most MeOH coordination modes are endergonic, with only two exceptions involving the Cl ligand (C and E). Thus, the unsolvated system is primarily relevant for neutral Co(II)–X species. In contrast, for Ni(II)–X (*X* = Cl, OH, SH), the octahedrally coordinated species E is considered the resting state. Gibbs free energies (at 150 °C) are given in kcal/mol, calculated at the M06-D3(0)/def2- TZVP/SMD(MeOH) //TPSSh-D3(BJ)/def2-SVP level of theory.
+
+![](_page_55_Figure_0.jpeg)
+
+**Supplementary Figure 43**. Schematic representation of various coordination modes explored for MeOH binding to [M<sup>I</sup> ] sites: tetrahedral MII –X and trigonal [M<sup>I</sup> ] sites (starting structure; **A**), and various other MeOH coordinated sites (**B** – **G**).
+
+![](_page_55_Figure_2.jpeg)
+
+**Supplementary Figure 44**. Energetics of MeOH coordination at a [M(I)] species is shown for both Co (a) and Ni (b). Species **A** – **G** are demonstrated in Supplementary Figure 43 Overall, MeOH solvation at Ni is more favored compared to at Co for all coordination modes. At 423 K, the lowest energy structure for Co(I) is the solvated structure **B**, having one MeOH coordination at the open-metal site. For Ni(I), it is the solvated structure **F** that is analogous to **B**, having one MeOH coordination at the open-metal site, but also the other Ni center octahedrally coordinated by two more MeOH molecules. Gibbs free energies (at 150 °C) are given in kcal/mol, calculated at the M06-D3(0)/def2-TZVP/SMD(MeOH)//TPSSh-D3(BJ)/def2-SVP level of theory.
+
+![](_page_56_Figure_0.jpeg)
+
+*Supplementary Figure 4***5***. Schematic representation of various coordination modes explored for MeOH binding to [MII] + sites: tetrahedral MII –X and trigonal [MII] + sites (starting structure; A), and various other MeOH coordinated sites (B – F).*
+
+![](_page_56_Figure_2.jpeg)
+
+**Supplementary Figure 46**. Energetics of MeOH coordination at a [MII] + species is shown for both Co (a) and Ni (b). Species A – F are demonstrated in Supplementary Figure 45. Overall, MeOH solvation at Ni is more favored compared to at Co for all coordination modes. At 423 K, the lowest energy structure for [CoII] + is the solvated structure E, having three MeOH coordination at the open-metal site. For [NiII] + , it is the solvated structure F that is analogous to E, having three MeOH coordination at the open-metal site, but also the other Ni center octahedrally coordinated by two more MeOH molecules. Gibbs free energies (at 150 °C) are given in kcal/mol, calculated at the M06-D3(0)/def2-TZVP/SMD(MeOH)//TPSSh-D3(BJ)/def2-SVP level of theory.
+
+**H.5. Effect of Systematic Methanol Solvation: H<sup>2</sup> Adsorption on 3D MOF Open Metal Sites [M<sup>I</sup> ] and [MII] +**
+
+![](_page_57_Figure_1.jpeg)
+
+**Supplementary Figure 47.** Schematic representation of various coordination modes explored for MeOH binding to [M<sup>I</sup> ..H2] sites.
+
+![](_page_57_Figure_3.jpeg)
+
+**Supplementary Figure 48**. Energetics of MeOH coordination for both Co (a) and Ni (b) at the [M(I)..H2] site are shown. For Co at 423 K, the unsolvated structure A (Supplementary Figure 47) is primarily relevant. In contrast, for Ni, species D (Supplementary Figure 47) is the most energetically favored state. Gibbs free energies (at 150 °C) are given in kcal/mol, calculated at the M06-D3(0)/def2-TZVP/SMD(MeOH)//TPSSh-D3(BJ)/def2-SVP level of theory.
+
+![](_page_58_Figure_0.jpeg)
+
+**Supplementary Figure 49**. Schematic representation of various coordination modes explored for MeOH binding to [MII..H2] + sites.
+
+![](_page_58_Figure_2.jpeg)
+
+**Supplementary Figure 50**. Energetics of MeOH coordination for both Co (a) and Ni (b) at the [MII..H2] + site are shown. For Co at 423 K, structure C (Supplementary Figure 49) is primarily relevant. In contrast, for Ni, species D (Supplementary Figure 49) is the most energetically favored state. Gibbs free energies (at 150 °C) are given in kcal/mol, calculated at the M06-D3(0)/def2- TZVP/SMD(MeOH)//TPSSh-D3(BJ)/def2-SVP level of theory.
+
+#### **H.6. Summary of Heterolytic [MII] <sup>+</sup>–Mediated Path 3D MFU-4***l* **catalyst**
+
+![](_page_59_Figure_1.jpeg)
+
+**Supplementary Figure 51**. Schematic for [MII] + –mediated open metal-site generation, hydrogen adsorption and dissociation for subsequent Ar–NO<sup>2</sup> reduction in the MFU-4*l* catalyst.
+
+![](_page_59_Figure_3.jpeg)
+
+**Supplementary Figure 52**. [MII] + –mediated pathway for active hydrogen source (**F**) generation from M-MFU-4*l*-X catalysts (X = SH (yellow), OH (red), and Cl (green) lines). Gibbs free energies (at 150 °C) are given in kcal/mol, calculated at the M06-D3(0)/def2-TZVP/SMD(MeOH)//TPSSh-D3(BJ)/def2-SVP level of theory.
+
+## **H.7. 1D BBTA System: Spin Ladder**
+
+**Supplementary Table 17.** Relative electronic energies (∆*E* in kcal/mol) of the spin isomers for the 1D system with a four-metal center combination (not considering Zn), analogous to the one shown in Supplementary Figure 38. The energies are calculated at the TPSSh-D3(BJ)/def2- TZVP/SMD(MeOH)//TPSSh-D3(BJ)/def2-SVP level of theory.
+
+|        |     | ∆E<br>(kcal/mol) |        |        |        |
+|--------|-----|------------------|--------|--------|--------|
+| System | –X  | Spin-A           | Spin-B | Spin-C | Spin-D |
+|        | –Cl | 0                | 0      | 13.5   | 48.9   |
+| Co     | –OH | 0                | –1.1   | –0.4   | 40.6   |
+|        | –SH | 0                | –0.2   | 12.4   | 26.9   |
+|        | –Cl | 0                | 0.1    | 0.1    | 55.4   |
+| Ni     | –OH | 0                | 0      | 0      | 49.2   |
+|        | –SH | 0                | 0.4    | 0.3    | 41.2   |
+
+![](_page_61_Figure_0.jpeg)
+
+**H.8. 1D System: Probing the Effect of Explicit MeOH Coordination**
+
+**Supplementary Figure 53**. Various MeOH solvated structures explored for the 1D system, analogous to the 3D system. (a) Neutral Co(II) and Ni(II) species. For both metals, the table on the right shows that the coordination of 1 MeOH molecule is favored. (b) Corresponding MeOH coordination at a [M<sup>I</sup> ] or [MII] + species having an open metal site. Energetics for the species shown in panel *b*, both for the [M<sup>I</sup> ] species (c) and for [MII] + species (d) and both for Co (subpanel *i*) and Ni (subpanel *ii*). For [M<sup>I</sup> ] species, a clear trend in MeOH solvated species could not be recognized. 2 MeOH molecule coordinated Species **C** was used as the resting state for both Co(I) and Ni(I) for consistency. For [MII] + species, however, Species **D** was clearly found to be the most stable resting state for both metals. Gibbs free energies (at 150 °C) are given in kcal/mol, calculated at the M06- D3(0)/def2-TZVP/SMD(MeOH)//TPSSh-D3(BJ)/def2-SVP level of theory.
+
+![](_page_62_Figure_0.jpeg)
+
+**H.9. Summary of Homolytic [M<sup>I</sup> ]–and Heterolytic [MII] <sup>+</sup>–Mediated Path 1D Ni-BBTA Catalyst**
+
+**Supplementary Figure 54**. Reaction profiles for active hydrogen source generation (**E1** and **E2**) in the reduction catalysis with M-BBTA-X catalysts. (a-b) M = Co; (c-d) M = Ni. The calculated energetics indicate a cation-mediated pathway for X = Cl (green) and OH (red), while a radical pathway involving a M(I) is predicted for X = SH (yellow). Gibbs free energies (at 150 °C) are calculated at the M06-D3(0)/basis-II/SMD(MeOH)//TPSSh-D3(BJ)/basis-I level of theory.
+
+#### **H.10. Energy decomposition analysis (EDA)**
+
+In the ALMO-EDA framework (ALMO = absolutely localized molecular orbitals; EDA = energy decomposition analysis), 4,5 the total electronic contribution (Δ*ETot*) for binding X(•) to a formal M(I) site, forming an M(II)–X site, comprises three fundamental components (Extended data Table 1). 6 The frozen term (Δ*EFrz*) represents the energy change when bringing two fragments together without altering their electron distributions. The polarization term (Δ*EPol*) accounts for the energy reduction when the electron distribution of each fragment adjusts to the other's presence, without electron sharing. Lastly, the charge transfer term (Δ*ECT*) quantifies the additional energy lowering from orbital mixing between the two fragments.
+
+To probe the differential reactivity of CoII–SH and NiII–SH active sites in BBTA and MFU-4*l* frameworks we specifically probed the "frozen" energy (Δ*EFrz*) between the catalyst (species **C**) and approaching H2, decomposing this interaction energy term into three components (Extended data Table 2): 7,8 the electrostatic term Δ*EElec* for interactions between fragment charge distributions, Δ*EPauli* accounting for repulsion between overlapping filled orbitals, and the dispersion interaction term Δ*EDisp*.
+
+![](_page_64_Figure_0.jpeg)
+
+**Section I. Infrared Spectra, UV-vis Spectra, TGA and Elemental Analysis Results with ICP-OES**
+
+**Supplementary Figure 55**. Thermogravimetric analysis (TGA) of (a) Co2(SH)2BBTA, (b) Ni2(SH)2BBTA, (c) Co-MFU-4*l*-SH, and (d) Ni-MFU-4*l*-SH. The decrease in mass below 100 °C is due to the desorption of guest molecules from the MOF cavity.
+
+![](_page_65_Figure_0.jpeg)
+
+**Supplementary Figure 56**. Solid-state UV-vis Spectra of (a) Co2X2BBTA, (b) Ni2X2BBTA, (c) Co-MFU-4*l*-X and (d) Ni-MFU-4*l*-X (X= Cl, OH, SH)
+
+![](_page_66_Figure_0.jpeg)
+
+**Supplementary Figure 57**. Infrared Spectra of (a) Co2X2BBTA, (b) Ni2X2BBTA, (c) Co-MFU-4*l*-X and (d) Ni-MFU-4*l*-X (X= Cl, OH, SH)
+
+| MOF                |                                 |                    |             |
+|--------------------|---------------------------------|--------------------|-------------|
+| Co2(SH)2BBTA       | C6N6H2Co2S2H2                   |                    |             |
+| Element            | Theoretical Value               | Experimental Value | Molar Ratio |
+| Co                 | 34.40%                          | 29.6%±0.5%         | 1.0         |
+| S                  | 18.70%                          | 16.7%±0.4%         | 1.0         |
+| Ni2(SH)2BBTA       | C6N6H2Ni2S2H2                   |                    |             |
+| Element            | Theoretical Value               | Experimental Value | Molar Ratio |
+| Ni                 | 34.40%                          | 29.7%±1.2%         | 1.0         |
+| S                  | 18.80%                          | 18.6%±1.7%         | 1.1         |
+| Co-MFU-4l-SH       | ZnCo4(C12O2N6H4)3(SH)4(H2O)8    |                    |             |
+| Element            | Theoretical Value               | Experimental Value | Molar Ratio |
+| Co                 | 17.40%                          | 16.0%±0.2%         | 3.9         |
+| Zn                 | 4.80%                           | 4.8%±0.1%          | 1.1         |
+| S                  | 9.40%                           | 9.1%±0.3%          | 4.1         |
+| Ni-MFU-4l-SH       | Zn2.5Co4(C12O2N6H4)3(SH)4(H2O)8 |                    |             |
+| Element            | Theoretical Value               | Experimental Value | Molar Ratio |
+| Ni                 | 10.7%                           | 11.1%±1.0%         | 2.6         |
+| Zn                 | 11.9%                           | 11.8%±0.8%         | 2.4         |
+| S                  | 9.4%                            | 9.0%±0.3%          | 3.7         |
+| Co2(SH)2BBTA-2.0eq | C6N6H2Co2S2H2                   |                    |             |
+| Element            | Theoretical Value               | Experimental Value | Molar Ratio |
+| Co                 | 28.9%                           | 28.0%±3%           | 1.0         |
+| S                  | 31.4%                           | 28.6%±1%           | 1.9         |
+
+#### **Supplementary Table 18**. Elemental analysis of bulk samples with ICP-OES
+
+## **Section J. References**
+
+- 1. Mian, M.R., Chen, H., Cao, R., Kirlikovali, K.O., Snurr, R.Q., Islamoglu, T., and Farha, O.K. (2021). Insights into Catalytic Hydrolysis of Organophosphonates at M–OH Sites of Azolate-Based Metal Organic Frameworks. J. Am. Chem. Soc. *143*, 9893-9900. 10.1021/jacs.1c03901.
+- 2. Chai, J.-D., and Head-Gordon, M. (2008). Systematic optimization of long-range corrected hybrid density functionals. J. Chem. Phys. *128*. 10.1063/1.2834918.
+- 3. Yu, H.S., He, X., Li, S.L., and Truhlar, D.G. (2016). MN15: A Kohn–Sham global-hybrid exchange–correlation density functional with broad accuracy for multi-reference and singlereference systems and noncovalent interactions. Chem. Sci. *7*, 5032-5051. 10.1039/C6SC00705H.
+- 4. Khaliullin, R.Z., Cobar, E.A., Lochan, R.C., Bell, A.T., and Head-Gordon, M. (2007). Unravelling the Origin of Intermolecular Interactions Using Absolutely Localized Molecular Orbitals. The Journal of Physical Chemistry A *111*, 8753-8765. 10.1021/jp073685z.
+- 5. Horn, P.R., Mao, Y., and Head-Gordon, M. (2016). Probing non-covalent interactions with a second generation energy decomposition analysis using absolutely localized molecular orbitals. Phys. Chem. Chem. Phys. *18*, 23067-23079. 10.1039/C6CP03784D.
+- 6. Jaramillo, D.E., Jiang, H.Z.H., Evans, H.A., Chakraborty, R., Furukawa, H., Brown, C.M., Head-Gordon, M., and Long, J.R. (2021). Ambient-Temperature Hydrogen Storage via Vanadium(II)-Dihydrogen Complexation in a Metal-Organic Framework. J. Am. Chem. Soc. *143*, 6248-6256. 10.1021/jacs.1c01883.
+- 7. Levine, D.S., and Head-Gordon, M. (2017). Energy decomposition analysis of single bonds within Kohn–Sham density functional theory. Proceedings of the National Academy of Sciences *114*, 12649-12656. doi:10.1073/pnas.1715763114.
+- 8. Andrada, D.M., and Foroutan-Nejad, C. (2020). Energy components in energy decomposition analysis (EDA) are path functions; why does it matter? Phys. Chem. Chem. Phys. *22*, 22459- 22464. 10.1039/D0CP04016A.
+
+根据提供的文献内容，生成实验流程复现文献实验
+

@@ -1,0 +1,138 @@
+{
+  "pair_id": 16,
+  "winner": "protocol",
+  "winner_reason_short": "The protocol plan provides a clearer, more complete, and platform-adapted automation workflow for material preparation, with explicit multi-branch handling and well-defined automation boundaries.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid/liquid dosing",
+      "precursor solution preparation",
+      "mixing/stirring/dispersion",
+      "main synthesis reaction",
+      "pH adjustment",
+      "washing/purification/centrifugation/filtration",
+      "solvent exchange",
+      "drying",
+      "activation",
+      "final dispersion/storage",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "electrochemical testing",
+      "SCXRD/structure analysis",
+      "nanoindentation/mechanical testing",
+      "offline characterization"
+    ],
+    "notes": "Both plans focus on MOF material synthesis and post-synthetic processing; protocol covers three MOFs with explicit parallel workflows, all required material-prep steps, and clear boundaries for non-automatable or downstream steps."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 12,
+      "covered_material_stage_count": 11,
+      "material_coverage": 0.92,
+      "coverage_reason": "Covers nearly all required stages for CTNMOF, but lacks explicit drying/activation and is less clear on solvent exchange and final storage."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 1,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": [
+        "activation (explicit high-vacuum or thermal activation for MOF)"
+      ]
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 3,
+      "correctly_isolated_boundary_count": 3,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 4.5,
+      "boundary_reason": "Manual/external steps (e.g., column chromatography, SCXRD, nanoindentation) are clearly marked as out-of-scope; boundaries are explicit."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 2,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or offline analysis is included in the main workflow; all such steps are clearly external/optional."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 17.0,
+      "practicality_reason": "Good module mapping, clear sample/container transitions, but some steps require platform defaults or are less explicit (e.g., solvent exchange, drying)."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 17.0,
+      "fidelity_reason": "Faithfully converts the material-prep protocol for CTNMOF, with clear boundaries, but is less modular and less explicit for multi-material parallelization."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": false,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 4.0,
+      "branch_reason": "Handles one main MOF workflow with three final dispersions; does not support full multi-material parallelization."
+    },
+    "main_strengths": [
+      "Explicit automation boundaries for non-automatable steps",
+      "Detailed stepwise mapping for CTNMOF preparation"
+    ],
+    "main_weaknesses": [
+      "Limited to a single MOF (CTNMOF) with only final dispersion branching",
+      "Some ambiguity in drying/activation and solvent exchange steps"
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 12,
+      "covered_material_stage_count": 12,
+      "material_coverage": 1.0,
+      "coverage_reason": "Covers all required material-preparation stages for three MOFs (CTNMOF, HKUST-1, Zn-MOF), including activation and final storage."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "All non-automatable steps (e.g., electrochemistry, missing parameters) are clearly marked as external or requiring platform defaults."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 1,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or offline analysis in the main workflow; all such steps are excluded or marked as not included."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 19.0,
+      "practicality_reason": "Excellent module mapping, explicit container/sample transitions, actionable parameters, and clear multi-branch parallelization."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 19.0,
+      "fidelity_reason": "Faithfully and modularly converts the protocol into an automation-scope workflow for three MOFs, with all boundaries and no downstream mixing."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Three MOF branches are clearly separated, with independent containers and conditions; parallelization is explicit and schedulable."
+    },
+    "main_strengths": [
+      "Covers all required stages for three MOFs with explicit parallel workflows",
+      "Excellent automation boundary handling and platform mapping"
+    ],
+    "main_weaknesses": [
+      "Relies on platform defaults for some missing parameters",
+      "Slightly less detail in final dispersion/solvent for each MOF (but within scope)"
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "protocol",
+    "fewer_material_omissions": "protocol",
+    "better_automation_boundary_quality": "protocol",
+    "less_application_overreach": "tie",
+    "better_platform_adaptation_practicality": "protocol",
+    "better_automation_scope_fidelity": "protocol",
+    "better_branch_handling": "protocol",
+    "better_overall_for_automation_scope_material_workflow": "protocol"
+  }
+}

@@ -1,0 +1,1419 @@
+# **Direct photo-oxidation of methane to methanol over a mono-iron hydroxyl site**
+
+**Bing An <sup>1</sup> , Zhe Li  2,3, Zi Wang1 , Xiangdi Zeng1 , Xue Han1 , Yongqiang Cheng4, Alena M. Sheveleva  1,5, Zhongyue Zhang6, Floriana Tuna 1,5, Eric J. L. McInnes  1,5, Mark. D. Frogley <sup>7</sup> , Anibal J. Ramirez-Cuesta  4, Louise S. Natrajan1 , Cheng Wang  <sup>2</sup> , Wenbin Lin  <sup>3</sup> , Sihai Yang <sup>1</sup>** ✉ **and Martin Schröder <sup>1</sup>** ✉
+
+**Natural gas, consisting mainly of methane (CH4), has a relatively low energy density at ambient conditions (~36 kJ l−<sup>1</sup> ). Partial oxidation of CH4 to methanol (CH3OH) lifts the energy density to ~17 MJ l−<sup>1</sup> and drives the production of numerous chemicals. In nature, this is achieved by methane monooxygenase with di-iron sites, which is extremely challenging to mimic in artificial systems due to the high dissociation energy of the C–H bond in CH4 (439 kJ mol−<sup>1</sup> ) and facile over-oxidation of CH3OH to CO and CO2. Here we report the direct photo-oxidation of CH4 over mono-iron hydroxyl sites immobilized within a metal–organic framework, PMOF-RuFe(OH). Under ambient and flow conditions in the presence of H2O and O2, CH4 is converted to CH3OH with 100% selectivity and a time yield of 8.81 ± 0.34 mmol gcat−<sup>1</sup>  h−<sup>1</sup> (versus 5.05 mmol gcat−<sup>1</sup>  h−<sup>1</sup> for methane monooxygenase). By using operando spectroscopic and modelling techniques, we find that confined mono-iron hydroxyl sites bind CH4 by forming an [Fe–OH···CH4] intermediate, thus lowering the barrier for C–H bond activation. The confinement of mono-iron hydroxyl sites in a porous matrix demonstrates a strategy for C–H bond activation in CH4 to drive the direct photosynthesis of CH3OH.**
+
+The activation of the C–H bond in methane (CH4) is a major goal in catalysi[s1–](#page-5-0)[3](#page-5-1) . Homogeneous catalysts based upon transition metal complexes and polyoxometalates can activate C–H bonds in CH4. These systems rely heavily on highly corrosive reagents, such as sulfuric acid[4](#page-5-2) and trifluoroacetic acid[5](#page-5-3) , to stabilize the reacted CH4 and thus have substantial environmental impacts. Moreover, high pressure (usually >20 bar) is required for sufficient CH4 to dissolve in solution. Inspired by methane monooxygenase in nature, iron- or copper-exchanged zeolites have been applied to promote the activation of the C–H bond in CH4 (refs. [6–](#page-5-4)[9](#page-5-5) ). However, these processes operate at high temperature (>800 °C) and/or high pressure (>30 bar) and are thus highly energy intensive. Although the use of hydrogen peroxide (H2O2) can drive the desired reaction under milder condition[s10,](#page-5-6)[11](#page-5-7), its high cost prohibits large-scale application. On the other hand, O2 is a cheap, readily available oxidant, but often leads to over-oxidation of CH4 to CO2 as the main product[12](#page-5-8).
+
+Photocatalysts based on BiVO4, WO3 or supported noble metals (for example, Au, Ag, Pt, Pd) on TiO2 and ZnO can promote CH4 activation at room temperatur[e13–](#page-5-9)[18.](#page-5-10) Recently, photo-oxidation of CH4 to CH3OH has been achieved over FeO*x*/TiO2 using H2O2 as oxidant with a CH3OH selectivity of 90% and a time yield of 0.36mmol gcat<sup>−</sup>1h−<sup>1</sup> (ref. [17\)](#page-5-11). Porous metal–organic framework (MOF) materials incorporating immobilized catalytically active centres can act as thermocatalysts for CH4 activation, although high temperature and pressure remain critical to promote the activation of C–H bond[s19](#page-5-12)[–21.](#page-5-13) To date, light-driven partial oxidation of CH4 over MOF catalysts has not been achieved. Here we describe the efficient direct photo-oxidation of CH4 to CH3OH under ambient conditions over mono-iron hydroxyl sites confined in a MOF using H2O and O2 as oxidants. By judicious design of our catalytic system, an exceptional Fe turnover number (up to 2,269±88), catalytic stability (>120h) and an unprecedented time yield of 8.81±0.34mmol gcat<sup>−</sup>1h−<sup>1</sup> (or 18,908±730mmolmolFe<sup>−</sup>1h−<sup>1</sup> ) for the production of CH3OH from CH4 can be achieved.
+
+#### **Synthesis and characterization**
+
+Photocatalytic systems integrating multiple components can underpin synergistically the observed catalytic performance. UiO-67 was chosen as a functional platform to integrate the three crucial components of our photocatalyst: the photosensitizer (PS) [RuII(bpy)2(bpydc)] (L), (bpy: 2,2′-bipyridine; H2bpydc: 2,2′-bipyridine-5,5′-dicarboxylic acid) to absorb light; a multielectron redox-active polyvanadotungstate [PW9V3O40]6<sup>−</sup> (PW9V3) to activate O2; a mono-iron hydroxyl site to activate CH4 (Fig. [1a](#page-1-0) and Supplementary Fig. 1). The PS and PW9V3 were incorporated into porous UiO-67 in a one-pot synthesis to give PMOF-Ru, and the iron sites were then introduced by post-synthetic metalation with FeCl3•6H2O to afford PMOF-RuFe(Cl), ((PW9V3)0.1@Zr6 (μ3-O)6.1(μ3-OH)1.9(H2O)0.24(bpydc)3.7[(bpydc)FeCl2(THF)2]1.9(L)0.28). The structure of PMOF-RuFe(Cl) was established by a combination of thermogravimetric and elemental analyses, by NMR, infrared (IR) and XAS (X-ray absorption) spectroscopies, and by consideration of charge balance (Supplementary Figs. 2–4 and Supplementary Table 1). Powder X-ray diffraction patterns and scanning electron microscopy (SEM) images confirm the retention of UiO-type structure and morphology in PMOF-RuFe(Cl) (Fig. [2a](#page-2-0) and Supplementary Fig. 5), and binding of FeIII to bpydc2<sup>−</sup> was
+
+<sup>1</sup> Department of Chemistry, University of Manchester, Manchester, UK. 2 College of Chemistry and Chemical Engineering, iCHEM, State Key Laboratory of Physical Chemistry of Solid Surface, Xiamen University, Xiamen, China. 3 Department of Chemistry, University of Chicago, Chicago, IL, USA. 4Neutron Scattering Division, Neutron Sciences Directorate, Oak Ridge National Laboratory, Oak Ridge, TN, USA. 5 Photon Science Institute, University of Manchester, Manchester, UK. 6Department of Chemistry, Nagoya University, Nagoya, Japan. 7 Diamond Light Source, Harwell Science Campus, Didcot, UK. ✉e-mail: [Sihai.Yang@manchester.ac.uk](mailto:Sihai.Yang@manchester.ac.uk); [M.Schroder@manchester.ac.uk](mailto:M.Schroder@manchester.ac.uk)
+
+## **Nature Materials** Articles
+
+![](_page_1_Figure_2.jpeg)
+
+<span id="page-1-0"></span>**Fig. 1 | Design and synthesis of the PMOF-RuFe(OH) catalyst and the flow reactor for photo-oxidation of CH4 to CH3OH. a**, View of the structure of PMOF-RuFe(OH) incorporating mono-iron hydroxyl, [RuII(bpy)2(bpydc)] and [PW9V3O40]6− species within the pore of UiO-67. All three components are shown in one unit cell to simplify the overall model, and a homogeneous distribution of these components across the entire structure is observed (Supplementary Fig. 25). The structural model has been determined by INS analysis and DFT calculations, coupled with powder X-ray diffraction, NMR, IR and XAS analysis, and consideration of charge balance. Labelling scheme: C, grey; O, red; H, white; N, blue; Fe, green; V, orange; W, dark grey; P, purple; {Zr6} cluster, blue polyhedral; [RuII(bpy)2(bpydc)] (PS), gold. **b**, Schematic showing synergic catalysis in PMOF-RuFe(OH) for selective photo-activation of the C–H bond in CH4 to CH3OH in the presence of oxygen and water. *hν*, irradiation. **c**, View of the continuous-flow apparatus for photocatalytic conversion of CH4 to CH3OH over PMOF-RuFe(OH). The wavelength of light used is 400–780 nm.
+
+supported by a pronounced absorption band centred at 370nm in the UV–visible (UV–vis) spectra due to metal-to-ligand charge transfer (Fig. [2b](#page-2-0)). The homogeneous distribution of Ru, Fe and W throughout PMOF-RuFe(Cl) has been confirmed by energy dispersive X-ray analysis (Supplementary Table 2). The surface area of PMOF-Ru is reduced by ~50% on post-synthetic metalation to form PMOF-RuFe(Cl) (Supplementary Fig. 6 and Supplementary Table 3).
+
+On pre-treatment of PMOF-RuFe(Cl) in water with light for 2h, an active catalyst PMOF-RuFe(OH) is generated, in agreement with an induction period for CH3OH formation catalysed by PMOF-RuFe(Cl) (Supplementary Fig. 7). The structure of PMOF-RuFe(OH) was established by inelastic neutron scattering (INS) and density functional theory (DFT) calculations (Fig. [1](#page-1-0) and Supplementary Fig. 1b,c). The chemical states of the active species were interrogated by X-ray photoelectron spectroscopy analysis of PMOF-RuFe(OH), which shows typical FeIII signals, with the peaks at 714 and 727 eV related to hydroxyl groups, indicating the presence of Fe-OH species, as in FeO(OH) (Supplementary Fig. 8[\)17](#page-5-11),[22.](#page-5-14) Raman spectra confirmed the absence of O–O bonds, thus excluding the formation of Fe–O2 adducts or Fe–OOH species (Supplementary Fig. 9)[23.](#page-5-15) Electron paramagnetic resonance (EPR) spectra of PMOF-RuFe(Cl) and PMOF-RuFe(OH) at low temperature (5K) are characteristic of high-spin FeIII states with highly rhombic environments, with signals observed at *g*≈4.3 (Supplementary Fig. 10 and Supplementary Table 4)[24.](#page-5-16) X-ray absorption near-edge structure (XANES) analysis of PMOF-RuFe(OH) shows the iron K edge energy of 7,114.8 eV, which corresponds to the transition of 1*s*→3*d* and shows a slight blue shift and reduced strength compared with PMOF-RuFe(Cl) (7,114.4 eV), FeCl3 and Fe2O3 (Fig. [2c\)](#page-2-0)[25](#page-5-17). The extended X-ray absorption fine structure (EXAFS) spectrum of PMOF-RuFe(OH) is entirely consistent with a distorted octahedral complex, [(bpy)Fe(OH)(H2O)3]2<sup>+</sup>, which has been optimized by DFT calculations (Fe–Nbpy=2.16±0.10, 2.10±0.10Å; Fe–OOH =1.78±0.09Å; Fe–OH2O =2.17±0.09Å (×3)) (Fig. [2d,](#page-2-0) Supplementary Table 5, Supplementary Fig. 11 and Supplementary Text, p*K*a calculations). Analysis of the EXAFS and wavelet spectra confirms the absence of a secondary correlation from the scattering of binuclear or cluster {Fe···Fe} species in *R*-space; the Fe···Fe distances in Fe2O3 and iron nanoparticles are ~2.5 and 2.2Å, respectively (Fig. [2e,f](#page-2-0) and Supplementary Figs. 12 and 13). This is entirely consistent with the 57Fe Mössbauer transmission and XANES analysis (Supplementary Figs. 14 and 15). In addition, the V centres in PW9V3 are partly reduced to VIV without structural change (Supplementary Figs. 8b and 16 and Supplementary Table 6).
+
+#### **Photocatalytic performance in batch mode**
+
+The photocatalytic performance of these catalysts was investigated first in batch mode in water with CH4/O2 (v/v=1/1, 1 atm) as feed gas and irradiation with visible light (*λ*=400–780nm) at 25 °C (Supplementary Fig. 17). PMOF-RuFe(OH) exhibits an exceptional CH3OH productivity of 629±68 µmol as the only liquid product after 20h of illumination, with the time yield of CH3OH being 3,145±340 µmol gcat<sup>−</sup>1h−<sup>1</sup> (or 6,750±730mmolmolFe<sup>−</sup>1h−<sup>1</sup> ) and a cumulative Fe turnover number (Fe-TON) of 135±16 (Supplementary Fig. 18 and Supplementary Table 7). This outperforms all state-of-the-art photocatalysts operating at ambient conditions (Fig. [3a](#page-3-0) and Supplementary Table 8)[26–](#page-6-0)[37](#page-6-1) and
+
+### Articles **Nature Materials**
+
+![](_page_2_Figure_2.jpeg)
+
+<span id="page-2-0"></span>**Fig. 2 | Characterization of PMOF-RuFe(OH). a**, Powder X-ray diffraction patterns of PMOF-RuFe(OH), PMOF-Ru and PMOF-RuFe(Cl), and the simulated pattern. All materials retain the UiO-67 framework structure. **b**, Diffuse reflectance UV–vis–NIR spectra. The band at ~465 nm corresponds to the PS, and the absorption at ~590 nm is attributed to the Fe-OH group. **c**, Normalized Fe K edge XANES spectra of PMOF-RuFe(OH), Fe2O3, Fe foil and FeCl3. **d**, EXAFS spectra and fitted spectra using the model of [(bpy)Fe(OH)(H2O)3]2+ (inset: Fe, green; O, red; N, blue; C, grey and H, white) in *R*-space (1–4 Å, black lines) at the Fe K edge of PMOF-RuFe(OH) with the magnitude (hollow squares, red) and real components (hollow squares, blue) of the Fourier transforms (FT). exp, experiment; fit, fitted. **e**,**f**, *k*<sup>2</sup> -weighted Fe K edge EXAFS spectra (**e**) and wavelet transform of PMOF-RuFe(OH), Fe2O3 and Fe foil (**f**).
+
+most of the thermocatalysts, including many systems that operate under high-temperature and/or high-pressure conditions (Supplementary Table 9)[38](#page-6-2)[,39](#page-6-3). Recently, an Au-Pd/TiO2 catalyst has shown a high CH3OH yield of 12.6mmol gcat<sup>−</sup>1h−<sup>1</sup> with a selectivity of 42.3% for the photoconversion of CH4 at 40 bar (ref. [40](#page-6-4)). No gaseous (<0.1 ppm) product, except a trace amount of CO2 (11.4±0.3 µmol), was detected for catalysis with PMOF-RuFe(OH) (Supplementary Fig. 19). A selectivity of 98% to CH3OH was achieved over PMOF-RuFe(OH) under ambient conditions using H2O and O2 as oxidants, with a concentration of CH3OH of ~210mmol l −1 in the resultant solution. Reaction using 13C-labelled 13CH4 yielded 13CH3OH as the only product (Supplementary Fig. 20), and the experiment performed in the absence of CH4 gave no carbon-containing product (Supplementary Table 7, entry 4). Thus, CH4 is the sole carbon source in these experiments. Control experiments: (1) without any catalysts; (2) without light; and (3) without light but with heating at 100 °C: all yielded negligible products (Supplementary Table 7, entries 1, 5, 6), confirming the photo-driven nature of the reaction.
+
+The effect of H2O and O2 in this reaction was explored. In the absence of H2O or using anhydrous benzene as solvent, CO2 was the only product and no liquid products were detected (Supplementary Fig. 21 and Supplementary Table 10). In the presence of H2O, both the selectivity and production of CH3OH increased, and formation of CO2 remained at <2% over the 20hour period, confirming low levels of over-oxidation of CH3OH under these conditions, consistent with the reported water-driven oxidation of CH4 (refs. [14](#page-5-18),[36,](#page-6-5)[39](#page-6-3)). Experiments with varying levels of O2 were also conducted, with formation of CH3OH decreasing dramatically in the absence of O2 (Supplementary Table 11). Interestingly, CH3OH production is observed to be similar using air or O2 (607 versus 629 µmol yield, respectively) under the same conditions. This reflects the low solubility and the barrier to activation of CH4, which renders the overall rate of reaction more sensitive to the pressure of CH4 than O2, as confirmed by dependence studies (Supplementary Figs. 21 and 22). The isotopic labelling experiment using H2 18O/16O2 further validated the participation of both, to give 75% of CH3 16OH and 25% of CH3 18OH (Supplementary Fig. 23).
+
+The reusability of PMOF-RuFe(OH) was confirmed by the consistent activity over ten consecutive cycles, adding up to a total reaction time of 200h (Supplementary Fig. 24a). This is in contrast with most state-of-the-art semiconductor-based photocatalysts, which have limited durability (typically <10h[\)18,](#page-5-10)[33](#page-6-6)[,41](#page-6-7). SEM, transmission electron microscopy, powder X-ray diffraction, IR, UV–vis, N2 isotherms and XAS studies of the used catalyst show little change in morphology (Supplementary Figs. 24–28) and oxidation state compared with the fresh catalyst (Supplementary Figs. 8 and 29), as well as negligible leaching of active sites. Actinometric measurements show a high quantum efficiency of 0.07 for PMOF-RuFe(OH).
+
+The catalytic performance of materials missing one or two of the three integrated components was investigated, as were physical mixtures of these various components. Thus, MOF-Ru (comprising UiO-67 with the PS [RuII(bpy)2(bpydc)] but without PW9V3), MOF-RuFe(Cl) and MOF-RuFe(OH) were prepared, characterized and investigated. In all cases only trace amounts of CH3OH were obtained (Fig. [3b](#page-3-0)). Fe2O3 nanoparticles and Fe2O3/PMOF-Ru were also examined but gave no product, thus ruling out possible formation of Fe2O3 nanoparticles as active species (Supplementary Table 7, entries 15 and 16). This implies that it is the positional anchoring of all three components and their synergic cooperation
+
+## **Nature Materials** Articles
+
+![](_page_3_Figure_2.jpeg)
+
+<span id="page-3-0"></span>**Fig. 3 | Photocatalytic performance. a**, Comparison of the catalytic activity for photo-oxidation of CH4 to CH3OH over PMOF-RuFe(OH) with other photocatalyst[s15](#page-5-19)[,18,](#page-5-10)[26–](#page-6-0)[37](#page-6-1)[,40](#page-6-4). Red stars and orange spheres represent the activity of PMOF-RuFe(OH) in flow and batch mode, respectively. Other spheres represent the activity obtained at ambient pressures, and the cubes represent the activity obtained at high pressures. The time yield for CH3OH production is based on the amount of CH4 converted to CH3OH per hour per weight of catalyst; full data are listed in Supplementary Table 8. **b**, Comparison of the catalytic activity over various catalysts in batch mode. Reaction conditions: 3 ml water, 20 h visible light, 10 mg catalyst and CH4/O2 (1 atm). **c**,**d**, CH3OH selectivity and CH4 conversion (**c**) and time yield (**d**) for formation of CH3OH over a period of 120 h on stream over PMOF-RuFe(OH) in flow mode. Error bars give the standard deviation from three independent tests.
+
+within PMOF-RuFe(OH) that results in the observed photocatalytic activity.
+
+#### **Mono-iron hydroxyl sites for CH4 activation**
+
+We next sought to identify the binding sites for CH4 molecules. Isotherms for CH4 uptake in both PMOF-RuFe(OH) and MOF-RuFe(OH) (that is, in the absence of PW9V3) display strong adsorption of CH4, as evidenced by the initial steep rise and marked hysteretic desorption (residue of 0.5 CH4/Fe). This behaviour is not observed in PMOF-Ru (Fig. [4a](#page-4-0)), suggesting that the mono-FeIII species acts as a binding site for CH4. INS spectra coupled with DFT calculations enabled the direct visualization of the binding dynamics of CH4 in this system (Fig. [4b,](#page-4-0) Supplementary Text and Supplementary Figs. 30–32). At low loadings of CH4 in PMOF-RuFe(OH) (0.22 and 0.45 CH4/Fe), the intensity at <40meV increases due to the libration/vibration of adsorbed CH4 molecules and their recoil. The difference spectra of bare and CH4-loaded PMOF-RuFe(OH) reveal three major peaks. The broad peak I centred at 12meV corresponds to the restricted/hindered motion of CH4 on the adsorption site and is reminiscent of the libration/vibration in solid CH4 (ref. [42](#page-6-8)). Peaks II (50–55meV) and III (65–70meV) are assigned to changes in INS intensities of the MOF on adsorption of CH4, specifically in the (i) vibration of the –OH group with H moving perpendicular and parallel to the [(bpy)Fe-OOH] plane, (ii) wagging modes of H2O located out of and in the [(bpy)Fe-OOH] plane, (iii) wagging modes of H2O located in the [(bpy)Fe-OOH] plane and vibration of OH with H moving perpendicular to O-H within the [(bpy)Fe-OOH] plane and (iv) rocking modes of the two axial H2O ligands in the [(bpy)Fe(OH)(H2O)3]2<sup>+</sup> fragment (Fig. [4b,](#page-4-0) Supplementary Fig. 32). At a higher loading of 1.1 CH4/Fe, a notable increase in intensity of peak I is observed, but not of peaks II or III, indicating that the additional CH4 has a much weaker or zero interaction with the MOF structure. Interestingly, peaks I–III are all retained on evacuating the CH4-loaded PMOF-RuFe(OH) sample under dynamic vacuum at ambient temperature, which is consistent with retention and strong binding of CH4 within the pores. DFT calculations show that the interaction between [(bpy)Fe(OH)(H2O)3]2<sup>+</sup> and CH4 in PMOF-RuFe(OH) is primarily based on hydrogen bonds (Fe–OH···CH4=2.39Å) (Supplementary Fig. 33). This is also confirmed by a red shift of 3 cm<sup>−</sup><sup>1</sup> for the C–H stretching vibration for adsorbed CH4 in PMOF-RuFe(OH), measured by in situ synchrotron Fourier transform-IR (FTIR) spectroscopy (Supplementary Fig. 34[\)43.](#page-6-9) In contrast, no shift in the C–H stretching region in the FTIR spectrum is observed for CH4-loaded PMOF-RuFe(Cl), which
+
+## Articles **Nature Materials**
+
+![](_page_4_Figure_2.jpeg)
+
+<span id="page-4-0"></span>**Fig. 4 | Investigation of the mono-iron hydroxyl site for C–H activation. a**, Adsorption (ads)/desorption (des) isotherms for CH4 in PMOF-RuFe(OH), PMOF-Ru and MOF-RuFe(OH) at 298 K. **b**, Comparison of the difference (diff) INS spectra of bare and CH4-loaded sample and the difference INS spectra on evacuation for PMOF-RuFe(OH), PMOF-Ru and MOF-RuFe(OH). Vibrational modes of peaks II and III are shown on the right. For both PMOF-RuFe(OH) and MOF-RuFe(OH), there is a clear signal of residual CH4 on desorption, whereas PMOF-Ru shows complete desorption. **c**, EPR spectra of PMOF-RuFe(OH) under different conditions. Minor signals for •DMPO-OH radical within the 'CH4+ MOF + light' experiment was observed due to water splitting. **d**, Calculated energy profiles for the activation of C–H bond in CH4 over confined mono-iron hydroxyl sites. The initial structure is [(bpy) Fe(OH)(H2O)3]2+ and an electron-transfer process occurs on the complex of [(bpy)Fe(OH)(H2O)3···CH4]2+ to achieve activation of CH4. No Fe(IV) species were detected in the in situ EPR experiment, suggesting a ligand-based redox process. The charges are determined on the basis of the natural population analysis and spin densities (Supplementary Fig. 38 and Supplementary Tables 13–16).
+
+is consistent with the critical role of mono-iron hydroxyl sites in binding CH4.
+
+EPR spectroscopic spin-trapping experiments combined with DFT calculations afford further insights into the C–H activation process. The EPR spectrum of irradiated CH4-loaded PMOF-RuFe(OH) with 5,5-dimethy-1-pyrroline *N*-oxide (DMPO) in water shows a six-line signal typical of the DMPO-CH3 radical adduct, suggesting the photo-induced formation of methyl radicals (Fig. [4c](#page-4-0), Supplementary Fig. 35a and Supplementary Table 12). A minor component, DMPO-OH, was also observed, presumably due to splitting of water. This is consistent with the observation that the catalytic system can be quenched by radical scavengers (Supplementary Fig. 36). In contrast, no radical adduct was observed in the absence of catalysts or if the reaction was carried out over PMOF-Ru (Fig. [4c](#page-4-0) and Supplementary Fig. 35b). This suggests that CH4 adsorbed at the iron–hydroxyl sites attains a lower energy state with a reduced activation barrier to the formation of •CH3 radicals (Fig. [4d](#page-4-0) and Supplementary Text). Interestingly, DFT calculations suggest that the radical is not completely 'free' but is stabilized by the iron–hydroxyl sites to form Fe(OH2)···•CH3 interactions [HH2O··· CCH3=2.02Å], thus importantly inhibiting C–C coupling reactions (Supplementary Figs. 37 and 38 and Supplementary Tables 13–16). EPR trapping studies undertaken as a function of O2 also show signals for •DMPO-OH (Fig. [4c](#page-4-0) and Supplementary Fig. 39), implying that •OH is the reactive oxygen intermediate rather than 1 O2, O2 •− or •OOH; this is also demonstrated by the corresponding quenching experiments (Supplementary Table 17).
+
+#### **Mechanism studies**
+
+We propose that the photocatalytic cycle is initiated by photoinduced electron transfer from the excited-state PS\* of [Ru(bpy)2 (bpydc)]\* to produce reduced PW9V3 IV/V, as confirmed by the in situ EPR spectroscopy (Supplementary Fig. 40, blue line), photoluminescent (Supplementary Figs. 41–43 and Supplementary Table 18) and electrochemical studies (Supplementary Fig. 44). The photocurrent response and electrochemical impedance spectroscopic studies confirm a notable enhanced efficiency for charge separation in PMOF-RuFe(OH) compared with partially functionalized systems (Supplementary Fig. 45). The electron-rich PW9V3 IV/V then drives the photoreduction of O2 to H2O2 via proton-coupled (from H2O) electron transfer (from reduced PW9VIV/V3), and H2O2 can be detected after illumination of PMOF-Ru for 5h in the presence of O2. In contrast, no H2O2 was detected in the reaction over PMOF-RuFe(OH) owing to the rapid conversion of H2O2 formed in situ to •OH radicals promoted by the {Fe-OH} moiety under illumination[44](#page-6-10)[,45](#page-6-11) (Supplementary Fig. 46), which is entirely consistent with the positive shift of the onset potential for reduction of H2O2 with PMOF-RuFe(OH) (Supplementary Fig. 47a). Also, addition of H2O2 enhances the production of CH3OH under irradiation (Supplementary Table 17, entry 6). The formation of •OH radical is also confirmed by a fluorescence spectroscopic study using terephthalic acid as a probe (Supplementary Fig. 47b). Thus, C–H activation proceeds via a pathway where the adsorbed CH4 interacts with the mono-iron hydroxyl moiety and is oxidized readily to •CH3 radical, which is stabilized by the iron site (Supplementary Fig. 48). The H/D kinetic isotope effect (KIE, *k*H/*k*D) using CH4 and CD4 gave a value for KIE (kCH3OH/kCD3OD) of 3.0±0.4, which represents a typical value for the primary kinetic isotope effect and suggests that the C–H bond dissociation is the rate-determining step (Supplementary Figs. 49 and 50). CH3OH is then formed by coupling of •CH3 and •OH radicals and extracted from the MOF by water. The high CH3OH selectivity is attributed to its rapid desorption owing to the relatively weak adsorption within the MOF matrix in the presence of water (Supplementary Figs. 51–54). Also, light irradiation effectively quenches •OOH intermediates to avoid over-oxidation of CH3OH (Supplementary Table 17, entries 7–10). To achieve optimal production of CH3OH, all components (that is, MOF, photosensitizer, polyvanadotungstate and mono-iron hydroxyl species) within the cycle must function cooperatively. The UiO-67 framework provides a stable platform to achieve this synergy to afford a higher activity compared with soluble methane monooxygenase incorporating di-iron centres (Supplementary Fig. 55)[7](#page-5-20) .
+
+#### **Continuous-flow catalysis**
+
+Building on the observed high activity of PMOF-RuFe(OH), we have developed a continuous-flow photo-oxidation process, where a flow of CH4/O2-saturated water (15mlh<sup>−</sup><sup>1</sup> ) is passed through a packed layer of PMOF-RuFe(OH) catalyst under irradiation (Fig. [1c\)](#page-1-0). Importantly, the reacted CH4 over PMOF-RuFe(OH) includes both the water-dissolved CH4 and part of the gaseous CH4 passing through the branch of the dropping funnel (marked with a red line in Fig. [1c](#page-1-0)). It is the latter that breaks the limitation of CH4 solubility because CH4 can be directly adsorbed by the MOF, a feature that is distinct from conventional non-porous photocatalysts. Thus, this creates a dynamic gas/solid/liquid interface to maximize the contact between CH4, O2, H2O and the catalyst. Using this simple set-up, CH3OH was obtained as the only product in water with 100% selectivity and an accumulated Fe-TON of 2,269±88 with high catalyst stability over 120h (Fig. [3c\)](#page-3-0). This allows an unprecedented CH3OH time yield of 8.81±0.34mmol gcat<sup>−</sup>1h−<sup>1</sup> (or 18,908±730mmolmolFe<sup>−</sup>1h−<sup>1</sup> ) to be achieved under entirely ambient conditions. PMOF-RuFe(OH) outperforms methane monooxygenase (*Methylococcus capsulatus* (Bath), 5.05mmol gcat<sup>−</sup>1h−<sup>1</sup> ) and state-of-the-art photocatalysts, such as q-BiVO4 (0.97mmol gcat<sup>−</sup>1h−<sup>1</sup> ), Pd/ZnO (3.04mmol gcat<sup>−</sup>1h−<sup>1</sup> ) and FeOOH/m-WO3 (0.21mmol gcat<sup>−</sup>1h−<sup>1</sup> [\)7](#page-5-20)[,14,](#page-5-18)[18](#page-5-10)[,34.](#page-6-12) An economic analysis of the synthesis of CH3OH via this direct photochemical approach using CH4 and via the state-of-the-art industrial process using syngas (CO/CO2/H2) over commercial Cu/ZnO/Al2O3 catalyst has been performed, demonstrating the great promise of PMOF-RuFe(OH) in practical applications (Supplementary Notes and Supplementary Fig. 56).
+
+#### **Outlook**
+
+CH4 is a very plentiful carbon-based energy source, but it has a substantial environmental impact as a greenhouse gas. Its direct photoconversion to CH3OH, a liquid fuel and carbon feedstock, is an important alternative route to harness this carbon feedstock. However, this is a highly challenging process to achieve since over-oxidation to CO2 is commonly observed. The confinement of mono-iron hydroxyl sites within a porous metal–organic framework matrix, PMOF-RuFe(OH), linked to a photoactive receptor, represents an effective strategy for the activation of C–H bonds in CH4 to drive the direct photosynthesis of CH3OH without the use of H2O2. Future effort will be devoted to assessing practical photo-oxidation of CH4 to CH3OH with high catalytic stability and high turnover.
+
+#### **Online content**
+
+Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at [https://doi.org/10.1038/](https://doi.org/10.1038/s41563-022-01279-1) [s41563-022-01279-1](https://doi.org/10.1038/s41563-022-01279-1).
+
+Received: 6 September 2021; Accepted: 5 May 2022; Published online: 30 June 2022
+
+#### **References**
+
+- <span id="page-5-0"></span>1. McFarland, E. Unconventional chemistry for unconventional natural gas. *Science* **338**, 340–342 (2012).
+- 2. Kerr, R. A. Energy. Natural gas from shale bursts onto the scene. *Science* **328**, 1624–1626 (2010).
+- <span id="page-5-1"></span>3. Ravi, M., Ranocchiari, M. & van Bokhoven, J. A. Te direct catalytic oxidation of methane to methanol—a critical assessment. *Angew. Chem. Int. Ed. Engl.* **56**, 16464–16483 (2017).
+- <span id="page-5-2"></span>4. Periana, R. A. et al. Platinum catalysts for the high-yield oxidation of methane to a methanol derivative. *Science* **280**, 560–564 (1998).
+- <span id="page-5-3"></span>5. Muehlhofer, M., Strassner, T. & Herrmann, W. A. New catalyst systems for the catalytic conversion of methane into methanol. *Angew. Chem. Int. Ed. Engl.* **41**, 1745–1747 (2002).
+- <span id="page-5-4"></span>6. Tinberg, C. E. & Lippard, S. J. Oxidation reactions performed by soluble methane monooxygenase hydroxylase intermediates Hperoxo and Q proceed by distinct mechanisms. *Biochemistry* **49**, 7902–7912 (2010).
+- <span id="page-5-20"></span>7. Colby, J., Stirling, D. I. & Dalton, H. Te soluble methane mono-oxygenase of *Methylococcus capsulatus* (Bath). Its ability to oxygenate *n*-alkanes, *n*-alkenes, ethers, and alicyclic, aromatic and heterocyclic compounds. *Biochem. J.* **165**, 395–402 (1977).
+- 8. Snyder, B. E. R. et al. Te active site of low-temperature methane hydroxylation in iron-containing zeolites. *Nature* **536**, 317–321 (2016).
+- <span id="page-5-5"></span>9. Grundner, S. et al. Single-site trinuclear copper oxygen clusters in mordenite for selective conversion of methane to methanol. *Nat. Commun.* **6**, 7546 (2015).
+- <span id="page-5-6"></span>10. Cui, X. et al. Room-temperature methane conversion by graphene-confned single iron atoms. *Chem* **4**, 1902–1910 (2018).
+- <span id="page-5-7"></span>11. Huang, W. et al. Low-temperature transformation of methane to methanol on Pd1O4 single sites anchored on the internal surface of microporous silicate. *Angew. Chem. Int. Ed. Engl.* **55**, 13441–13445 (2016).
+- <span id="page-5-8"></span>12. Latimer, A. A., Kakekhani, A., Kulkarni, A. R. & Nørskov, J. K. Direct methane to methanol: the selectivity–conversion limit and design strategies. *ACS Catal.* **8**, 6894–6907 (2018).
+- <span id="page-5-9"></span>13. Song, H., Meng, X., Wang, Z. J., Liu, H. & Ye, J. Solar-energy-mediated methane conversion. *Joule* **3**, 1606–1636 (2019).
+- <span id="page-5-18"></span>14. Fan, Y. et al. Selective photocatalytic oxidation of methane by quantum-sized bismuth vanadate. *Nat. Sustain.* **4**, 509–515 (2021).
+- <span id="page-5-19"></span>15. Villa, K., Murcia-Lopez, S., Andreu, T. & Morante, J. R. On the role of WO3 surface hydroxyl groups for the photocatalytic partial oxidation of methane to methanol. *Catal. Commun.* **58**, 200–203 (2015).
+- 16. Yu, X. et al. Selective photocatalytic conversion of methane into carbon monoxide over zinc-heteropolyacid-titania nanocomposites. *Nat. Commun.* **10**, 700 (2019).
+- <span id="page-5-11"></span>17. Xie, J. et al. Highly selective oxidation of methane to methanol at ambient conditions by titanium dioxide-supported iron species. *Nat. Catal.* **1**, 889–896 (2018).
+- <span id="page-5-10"></span>18. Song, H. et al. Direct and selective photocatalytic oxidation of CH4 to oxygenates with O2 on cocatalysts/ZnO at room temperature in water. *J. Am. Chem. Soc.* **141**, 20507–20515 (2019).
+- <span id="page-5-12"></span>19. Zheng, J. et al. Selective methane oxidation to methanol on Cu-oxo dimers stabilized by zirconia nodes of an NU-1000 metal–organic framework. *J. Am. Chem. Soc.* **141**, 9292–9304 (2019).
+- 20. Baek, J. et al. Bioinspired metal–organic framework catalysts for selective methane oxidation to methanol. *J. Am. Chem. Soc.* **140**, 18208–18216 (2018).
+- <span id="page-5-13"></span>21. Zhao, W. et al. Fe-O clusters anchored on nodes of metal–organic frameworks for direct methane oxidation. *Angew. Chem. Int. Ed. Engl.* **60**, 5811–5815 (2021).
+- <span id="page-5-14"></span>22. McIntyre, N. S. & Zetaruk, D. G. X-ray photoelectron spectroscopic studies of iron oxides. *Anal. Chem.* **49**, 1521–1529 (1977).
+- <span id="page-5-15"></span>23. Shi, W. et al. Surface modifcation of two-dimensional metal–organic layers creates biomimetic catalytic microenvironments for selective oxidation. *Angew. Chem. Int. Ed. Engl.* **56**, 9704–9709 (2017).
+- <span id="page-5-16"></span>24. Hagen, W. R. EPR spectroscopy as a probe of metal centres in biological systems. *Dalton Trans.* **7**, 4415–4434 (2006).
+- <span id="page-5-17"></span>25. Chen, W. T., Hsu, C. W., Lee, J. F., Pao, C. W. & Hsu, I. J. Teoretical analysis of Fe K-edge XANES on iron pentacarbonyl. *ACS Omega* **5**, 4991–5000 (2020).
+
+### Articles **Nature Materials**
+
+- <span id="page-6-0"></span>26. Li, Y., Li, J., Zhang, G., Wang, K. & Wu, X. Selective photocatalytic oxidation of low concentration methane over graphitic carbon nitride-decorated tungsten bronze cesium. *ACS Sustain. Chem. Eng.* **7**, 4382–4389 (2019).
+- 27. Lopez, H. H. & Martinez, A. Selective photo-assisted oxidation of methane into formaldehyde on mesoporous VO*x*/SBA-15 catalysts. *Catal. Lett.* **83**, 37–41 (2002).
+- 28. Chen, X. & Li, S. Photooxidation of methane to methanol by molecular oxygen on water-preadsorbed porous TiO2-based catalysts. *Chem. Lett.* **29**, 314–315 (2000).
+- 29. Murcia-Lopez, S., Villa, K., Andreu, T. & Morante, J. R. Partial oxidation of methane to methanol using bismuth-based photocatalysts. *ACS Catal.* **4**, 3013–3019 (2014).
+- 30. Zhu, W. L. et al. Facet-dependent enhancement in the activity of bismuth vanadate microcrystals for the photocatalytic conversion of methane to methanol. *ACS Appl. Nano Mater.* **1**, 6683–6691 (2018).
+- 31. Murcia-Lopez, S. et al. Controlled photocatalytic oxidation of methane to methanol through surface modifcation of beta zeolites. *ACS Catal.* **7**, 2878–2885 (2017).
+- 32. Zhou, Y. et al. Direct functionalization of methane into ethanol over copper modifed polymeric carbon nitride via photocatalysis. *Nat. Commun.* **10**, 506 (2019).
+- <span id="page-6-6"></span>33. Villa, K., Murcia-Lopez, S., Morante, J. R. & Andreu, T. An insight on the role of La in mesoporous WO3 for the photocatalytic conversion of methane into methanol. *Appl. Catal. B* **187**, 30–36 (2016).
+- <span id="page-6-12"></span>34. Yang, J., Hao, J., Wei, J., Dai, J. & Li, Y. Visible-light-driven selective oxidation of methane to methanol on amorphous FeOOH coupled m-WO3. *Fuel* **266**, 117104 (2020).
+- 35. Luo, L. et al. Water enables mild oxidation of methane to methanol on gold single-atom catalysts. *Nat. Commun.* **12**, 1218 (2021).
+- <span id="page-6-5"></span>36. Shi, S., Sun, Z., Bao, C., Gao, T. & Hu, Y. H. Te special route toward conversion of methane to methanol on a fufy metal-free carbon nitride photocatalyst in the presence of H2O2. *Int. J. Energy Res.* **44**, 2740–2753 (2020).
+- <span id="page-6-1"></span>37. Hu, Y., Nagai, Y., Rahmawaty, D., Wei, C. & Anpo, M. Characteristics of the photocatalytic oxidation of methane into methanol on V-containing MCM-41 catalysts. *Catal. Lett.* **124**, 80–84 (2008).
+- <span id="page-6-2"></span>38. Sun, L. et al. Water-involved methane-selective catalytic oxidation by dioxygen over copper zeolites. *Chem* **7**, 1557–1568 (2021).
+- <span id="page-6-3"></span>39. Jin, Z. et al. Hydrophobic zeolite modifcation for in situ peroxide formation in methane oxidation to methanol. *Science* **367**, 193–197 (2020).
+- <span id="page-6-4"></span>40. Cai, X., Fang, S. & Hu, Y. H. Unprecedentedly high efciency for photocatalytic conversion of methane to methanol over Au–Pd/TiO2 what is the role of each component in the system? *J. Mater. Chem. A* **9**, 10796–10802 (2021).
+- <span id="page-6-7"></span>41. Weng, B., Qi, M. Y., Han, C., Tang, Z. R. & Xu, Y. J. Photocorrosion inhibition of semiconductor-based photocatalysts: basic principle, current development, and future perspective. *ACS Catal.* **9**, 4642–4687 (2019).
+- <span id="page-6-8"></span>42. Wasiutynski, T. & Luty, T. Lattice dynamics calculation for low temperature phase of solid methane (Institute of Nuclear Physics, 1972).
+- <span id="page-6-9"></span>43. Joseph, J. & Jemmis, E. D. Red-, blue-, or no-shif in hydrogen bonds: a unifed explanation. *J. Am. Chem. Soc.* **129**, 4620–4632 (2007).
+- <span id="page-6-10"></span>44. Osadchii, D. Y. et al. Isolated Fe sites in metal organic frameworks catalyze the direct conversion of methane to methanol. *ACS Catal.* **8**, 5542–5548 (2018).
+- <span id="page-6-11"></span>45. Szecsenyi, A., Li, G., Gascon, J. & Pidko, E. A. Unraveling reaction networks behind the catalytic oxidation of methane with H2O2 over a mixed-metal MIL-53(Al,Fe) MOF catalyst. *Chem. Sci.* **9**, 6765–6773 (2018).
+
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+© The Author(s), under exclusive licence to Springer Nature Limited 2022, corrected publication 2022
+
+#### **Methods**
+
+**Safety considerations.** Although all the reactions were carried out at ambient temperature, mixtures of CH4 and O2 can be explosive. Terefore, all glassware and apparatus should be pressure proof with full appropriate containment and protective screening.
+
+**Catalytic preparation.** The photosensitizer, [Ru(bpy)2(H2bpydc)]Cl2 and [(*n*-C4H9)4N]6[α-1,2,3-PW9V3O40] (TBA-PW9V3) were synthesized according to the literature methods[46,](#page-7-0)[47](#page-7-1). ZrCl4 (10mg, 43μmol), H2bpydc (9mg, 37μmol), [Ru(bpy)2(H2bpydc)]Cl2 (2mg, 4μmol) and glacial acetic acid (82μl, 1.44mmol) in the presence of TBA-PW9V3 (2mg) were dissolved in 1.5ml DMF and sealed in a 5ml vial. The vial was heated at 100 °C for 72h, and, after cooling to room temperature, the solid product was collected and sequentially washed several times with DMF and THF and dried at 50 °C under vacuum overnight. An orange powder, PMOF-Ru, was obtained in a yield of 52%. Inductively coupled plasma-optical emission spectrometry (ICP-OES) analysis confirmed the Zr/Ru ratio of 21.4, indicating 0.28 Ru per {Zr6} cluster, respectively.
+
+For post-synthetic metalation, FeCl3•6H2O (60mg) was dissolved in 10ml THF and the solution added to a suspension of MOF (60mg) in THF (10ml). The resulting mixture was sonicated for 0.5h. After being stirred at room temperature overnight, the solid sample, PMOF-RuFe(Cl), was collected by centrifugation and washed with THF 4–5 times to obtain a colourless supernatant. The dried sample was then treated under visible-light irradiation in water for 2h, and PMOF-RuFe(OH) was generated. The Fe loading was determined by ICP-OES analysis to be 2.6wt%, corresponding to a Fe/Zr ratio of 0.31, and 1.9 Fe per {Zr6} cluster.
+
+**Photocatalytic oxidation of CH4 in batch mode.** Photocatalytic oxidation of CH4 was carried out in a transparent reaction vessel with a magnetic stirrer. A 10mg portion of catalyst and 3ml H2O were added into a 50ml Schlenk tube equipped with a cross-shaped magnetic stirrer bar, and the tube was sealed and evacuated by three successive freeze–pump–thaw cycles. Two balloons filled with CH4 and O2 (v/v=1/1, 1 atm) were incorporated into the system through the necks of the tube, and the system was placed 10 cm in front of a Xe lamp with a 400nm cut-off filter (*λ*=400–780nm). The reaction was stirred at 1,000 rpm for 20h, after which the gas in the headspace of the tube was analysed both by gas chromatography (GC) equipped with a thermal conductivity detector and a Bruker Matrix MG5 FTIR spectrometer (resolution, 0.5 cm<sup>−</sup><sup>1</sup> ). 1,4-Dioxane (100μl) was added to the liquid solution as internal standard for GC analysis (column: HP-5, flame ionization detector). The organic phase was extracted with ethyl acetate and analysed by GC combined with 1 H NMR spectroscopy and GC-MS; the aqueous phase was analysed by HPLC.
+
+**Photocatalytic oxidation of CH4 in flow mode.** The reaction was performed with a designed fixed-bed reactor. A 10.0mg portion of solid catalyst was packed onto the surface of a glass frit and placed underneath a dropping funnel filled with water. After the system was evacuated and sealed, the gas mixture of 1:1 CH4:O2 was introduced into the reactor from the top (2mlmin<sup>−</sup><sup>1</sup> ). The rate of flow of water (~15mlh<sup>−</sup><sup>1</sup> ) through the catalyst bed was controlled by a valve, and the system was irradiated using a Xe lamp (*λ*=400–780nm) to promote reaction. The product was collected via the outlet into a round-bottomed flask and analysed for each 8h run.
+
+**Inelastic neutron scattering.** The INS scattering experiments were performed according to our reported method[48](#page-7-2) at Spallation Neutron Source, Oak Ridge National Laboratory, USA. The loading of CH4 into the cylindrical sample container was performed volumetrically at room temperature, and the temperature was reduced to 5K for data collection. After reaching adsorption saturation, the cell was evacuated and cooled for INS collection to detect the presence of strongly bound CH4. The detailed procedure for the experiment is summarized in Supplementary Fig. 30. Background spectra for the bare MOF were subtracted to obtain the difference spectra. The modelling of the INS spectra is shown in Supplementary Methods.
+
+**Electron paramagnetic resonance.** Continuous wave (CW) EPR measurements were carried out at X-band (*~*9.5GHz) on a Bruker Elexsys 500 spectrometer equipped with an Oxford Instruments temperature control system. EPR data were collected with modulation amplitude 10G, microwave frequency ~9.85GHz and microwave power ~6.325mW. The magnetic field was calibrated using 2-diphenyl-1-picrylhydrazyl with *g*=2.0028. Theoretical modelling of EPR spectra was performed with the EasySpin (v.5.2.24) package[49](#page-7-3) embedded in MATLAB software v.2013a. Spin-trapping experiments were carried out at X-band (9.85GHz) and room temperature using DMPO as the spin trap, and a commercial Bruker EMX Micro EPR spectrometer. A modulation amplitude of 2G was used with
+
+ a microwave power of ~2.0mW after testing for saturation of spectral lines. EPR measurements of the MOF catalysts were carried out as follows: the MOF sample was prepared by loading 25mg into a J. Young quartz tube (outer diameter, 4mm; inner diameter, 2.8mm). The sample was activated under dynamic vacuum (<10<sup>−</sup>5mbar) for 12h at 80 °C. Measurements were then conducted on samples as a function of irradiation and various gas loadings of CH4, O2 and CH4+O2.
+
+DMPO was used as the spin-trapping reagent in these experiments. DMPO is a nitrone spin trap, which is largely used for trapping short-lived radicals with the generation of a more stable free radical, which is readily detected by EPR spectroscopy. DMPO has a β-hydrogen and yields adduct with hyperfine splitting due to both the β-hydrogen and the nitroxide nitroge[n50.](#page-7-4) DMPO was dissolved in deoxygenated water and then added into the photocatalytic system in the presence of CH4, O2 or CH4+O2. All the reagents and tubes were deoxygenated using Ar before use, and 0.5ml of the mixed solution was filtered and injected into a deoxygenated EPR tube. In situ EPR spectra were collected under visible light.
+
+### **Data availability**
+
+Additional experimental details of characterization and catalysis, DFT calculations and DFT-calculated structures are available in the Supplementary Information and Supplementary Data.
+
+#### **References**
+
+- <span id="page-7-0"></span>46. Wang, C. & Lin, W. Difusion-controlled luminescence quenching in metal–organic frameworks. *J. Am. Chem. Soc.* **133**, 4232–4235 (2011).
+- <span id="page-7-1"></span>47. Guo, W., Luo, Z., Lv, H. & Hill, C. L. Aerobic oxidation of formaldehyde catalyzed by polyvanadotungstates. *ACS Catal.* **4**, 1154–1161 (2014).
+- <span id="page-7-2"></span>48. Han, X. et al. Reversible adsorption of nitrogen dioxide within a robust porous metal–organic framework. *Nat. Mater.* **17**, 691–696 (2018).
+- <span id="page-7-3"></span>49. Stoll, S. & Schweiger, A. EasySpin, a comprehensive sofware package for spectral simulation and analysis in EPR. *J. Magn. Reson.* **178**, 42–55 (2006).
+- <span id="page-7-4"></span>50. Buettner, G. R. Spin trapping: ESR parameters of spin adducts 1474 1528V. *Free Radic. Biol. Med.* **3**, 259–303 (1987).
+
+### **Acknowledgements**
+
+We thank EPSRC (EP/I011870, EPSRC EP/V056409), the Royal Society and University of Manchester for funding. We thank EPSRC for funding and the EPSRC National Service for EPR Spectroscopy at Manchester. This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no. 742401, NANOCHEM). We thank I. da Silva, B. Wang, W. Lu, Y. Ma, J. Zhang, L. Zeng, R. Wei and H. Wilson for help. We thank Diamond Light Source for access to the beamline B22. We acknowledge Advanced Photon Source (APS) at Argonne National Laboratory and Aichi Synchrotron Radiation Centre (AichiSR) for the provision of beamtime at 10-BM and BL11S. A portion of this research used resources at the Spallation Neutron Source, a DOE Office of Science User Facility operated by Oak Ridge National Laboratory (ORNL). The computing resources at ORNL were made available through the VirtuES and the ICE-MAN projects, funded by Laboratory Directed Research and Development program and Computer and Data Environment for Science (CADES).
+
+#### **Author contributions**
+
+B.A., C.W., S.Y. and M.S. conceived the idea and designed the project. S.Y. and M.S. directed and supervised the research. B.A., Z.L., X.Z., Y.C. and Z.Z. performed the synthesis, catalysis and mechanism study. Z.W., A.M.S., Z.L., F.T. and E.J.L.M. contributed to the EPR experiments. Z.L. and Y.C. performed the computational work. X.H., M.D.F., L.S.N., A.J.R.-C., C.W. and W.L. contributed to the data analysis. B.A., Z.L., S.Y. and M.S. wrote the paper, with input from all authors.
+
+#### **Competing interests**
+
+The authors declare no competing interests.
+
+### **Additional information**
+
+**Supplementary information** The online version contains supplementary material available at [https://doi.org/10.1038/s41563-022-01279-1.](https://doi.org/10.1038/s41563-022-01279-1)
+
+#### **Correspondence and requests for materials** should be addressed to Sihai Yang or Martin Schröder.
+
+**Peer review information** *Nature Materials* thanks the anonymous reviewers for their contribution to the peer review of this work.
+
+**Reprints and permissions information** is available at [www.nature.com/reprints](http://www.nature.com/reprints).# **Supplementary information**
+
+# **Direct photo-oxidation of methane to methanol over a mono-iron hydroxyl site**
+
+In the format provided by the authors and unedited
+
+## **Supplementary Information**
+
+### **Direct photo-oxidation of methane to methanol over a mono-iron-hydroxyl site**
+
+Bing An<sup>1</sup> , Zhe Li2,3, Zi Wang<sup>1</sup> , Xiangdi Zeng<sup>1</sup> , Xue Han<sup>1</sup> , Yongqiang Cheng<sup>4</sup> , Alena M. Sheveleva1,5 , Zhongyue Zhang<sup>6</sup> , Floriana Tuna1,5 , Eric J. L. McInnes1,5, Mark. D. Frogley<sup>7</sup> , Anibal J. Ramirez-Cuesta<sup>4</sup> , Louise S Natrajan<sup>1</sup> , Cheng Wang<sup>2</sup> , Wenbin Lin<sup>3</sup> , Sihai Yang<sup>1</sup>\* and Martin Schröder<sup>1</sup>\*
+
+Email: Sihai.Yang@manchester.ac.uk; M.Schroder@manchester.ac.uk
+
+<sup>1</sup>Department of Chemistry, University of Manchester, Manchester, M13 9PL, UK.
+
+<sup>2</sup>College of Chemistry and Chemical Engineering, iCHEM, State Key Laboratory of Physical Chemistry of Solid Surface, Xiamen University, Xiamen 361005, China.
+
+<sup>3</sup>Department of Chemistry, University of Chicago, 929 East 57th Street, Chicago, Illinois 60637, USA.
+
+<sup>4</sup>Neutron Scattering Division, Neutron Sciences Directorate, Oak Ridge National Laboratory, Oak Ridge, TN 37831, USA.
+
+<sup>5</sup>Photon Science Institute, University of Manchester, Manchester, M13 9PL, UK.
+
+<sup>6</sup>Department of Chemistry, Nagoya University, Furocho, Chikusa, 464-8602, Nagoya, Japan.
+
+7Diamond Light Source, Harwell Science Campus, Oxfordshire, OX11 0DE, UK.
+
+| Supplementary Methods<br>S3  |  |
+|------------------------------|--|
+| Supplementary Text<br>S7     |  |
+| Supplementary Figures<br>S10 |  |
+| Supplementary TablesS67      |  |
+| Supplementary NotesS88       |  |
+| ReferencesS89                |  |
+
+#### **Supplementary Methods**
+
+#### Materials
+
+2,2'-bipyridine-5,5'-dicarboxylic acid (H2bpydc, 98%) was purchased from Tokyo Chemical Industry (TCI) Co., Ltd. Zirconium(IV) chloride (ZrCl4, 99.9%), 2,2′-bipyridyl (bpy, >99%), ruthenium(III) chloride trihydrate (RuCl3∙3H2O), sodium tungstate dihydrate (Na2WO4∙2H2O, >99%), phosphoric acid (H3PO4, 85%), lithium chloride (LiCl, >99%), tetrabutylammonium bromide (TBABr), sodium acetate (NaOAc, >99%), glacial acetic acid (HOAc, >99.7%), sodium metavanadate (NaVO3, >99.9%), FeCl3∙6H2O (99%), hydrochloric acid (HCl, 37%), potassium phosphate tribasic (K3PO4, >98%), ammonium molybdate ((NH4)6Mo7O24 ), *p*-benzoquinone, 2 aminoterephthalic acid, terephthalic acid, 1,4-dioxane (>99%), 5,5-dimethyl-1-pyrroline N-oxide (DMPO for EPR experiments), ethanol (EtOH), methanol (CH3OH), N,N'-dimehylformaminde (DMF), tetrahydrofuran (THF), acetone, benzene (anhydrous and ACS reagent), hydroxyl peroxide (30% H2O2), deuterated reagents, H<sup>2</sup> <sup>18</sup>O and <sup>13</sup>CH<sup>4</sup> (99.995%) were purchased from Sigma-Aldrich Co., UK. Ultra-pure research grade (99.999%) argon, nitrogen, oxygen, compressed air and methane were purchased from BOC or Air Liquide. All the reagents, solvents, and gases are commercially available and used as received.
+
+#### General Experimental Methods
+
+<sup>1</sup>H NMR spectra were recorded on a B400 Bruker Avance III and B500 Bruker Avance II+ spectrometers and referenced to the proton resonance resulting from incomplete deuteration of D2O*d*<sup>2</sup> (δ = 4.79), CDCl<sup>3</sup> (δ = 7.26) and DMSO-*d*<sup>6</sup> (δ = 2.50). Fourier transform infrared spectra (FTIR) were measured with a Thermo Scientific Nicolet iS5-IR spectrometer in attenuated total-reflection (ATR) sampling mode across the range 4000-400 cm-1 . Elemental analyses for Zr, Ru, P, W, V, and Fe were performed on a Thermo iCap 6300 inductively-coupled plasma optical emission spectroscopy (ICP-OES) and analyses for C, H and N were carried out on a CE-440 elemental analyzer (EAI Company). Mass spectrometry was performed on a Bruker Esquire electrospray iontrap (ESI) spectrometer with samples dissolved in the appropriate solvent, and data are reported as m/z. Thermal gravimetric analyses (TGA) were performed under a flow of air (100 mL/min) with a heating rate of 2 °C/min using a TA SDT-600 thermogravimetric analyzer (TA Company). Powder X-ray diffraction (PXRD) patterns were recorded on a Philips X'pert X-ray diffractometer (40 kV and 30 mA) using Cu Kα radiation (λ = 1.5406 Å). UV-Vis spectra were measured with Hitachi U-3010 spectrophotometer.
+
+Adsorption isotherms for N2 were recorded at 77 K on a 3Flex or Tristar gas sorption analyzer (Micromeritics Instruments Corporation) to analyze the porosity of the catalysts. The samples were prepared by solvent exchange and outgassed at 80 <sup>o</sup>C under vacuum for 12 h. The specific surface area was calculated using the Brunauer-Emmett-Teller (BET) method in the range of P/P<sup>0</sup> = 0.05-0.3. Micro- and meso-porous surface areas, pore volumes, and mean pore diameters were evaluated by the Horvath-Kawazoe (HK) method and the Barrett-Joyner-Halenda (BJH) method from the adsorption branches of the isotherms.
+
+The morphology and size of MOF crystals were measured by scanning electron microscopy (SEM) on a Quanta FEG 650 microscope. The ratios of Zr/Ru/Fe/W/V in the sample were quantified by energy-dispersive X-ray spectroscopy (EDX) using multiple regions over a sample on a Bruker XTrace instrument. Transmission electron microscopy (TEM) were performed on Phillips Analytical FEI Tecnai F30 electron microscope operating at an electron acceleration voltage of 300 kV. X-ray photoelectron spectroscopy (XPS) measurements were carried out with a Qtac-100 LEISS-XPS spectrometer with a hemispherical electron energy analyzer and a home-made reaction chamber. Monochromatic Al Kα X-ray source (1486.6 eV, anode operating at 300 W) was used as the excitation source. The error in the measured binding energies was ±0.2 eV. The binding energies in all spectra were calibrated according to C 1s peak at 284.8 eV, and XPS binding energies were taken from the NIST XPS database (https://srdata.nist.gov/xps/main\_search\_menu.aspx). Quantum efficiency measurements were performed using the standard ferrioxalate actinometric method.<sup>1</sup>
+
+*In situ* synchrotron FTIR microspectroscopy experiments were carried out using the B22: Multimode InfraRed Imaging and Microspectroscopy (MIRIAM) beamline at the Diamond Light Source. Spectra were collected (512 scans) in the range 4000–650 cm−1 with 4 cm−1 resolution and infrared spot size at the sample of approximately 15 × 15 *μ*m.
+
+Cyclic voltammetry (CV) and photocurrent measurements were conducted in a standard threeelectrode glass cell connected with a CHI760e electrochemical workstation. Electrochemical impedance spectroscopy (EIS) of samples were measured on an electrochemical workstation (Zahner Zennium). Emission spectra were measured on an Edinburgh Instrument FP920 Phosphorescence. Time-domain lifetimes were measured using the Time-Correlated Single Photon Counting (TCSPC) method on a Lifetime Spectrometer equipped with 450 W steady state xenon lamp, a 405 nm ps pulsed diode laser and a Hamamatsu R928P red-sensitive photomultiplier in peltier, air cooled housing. Kinetic data were acquired following 405 nm pulsed excitation using time correlated single photon counting and lifetimes determined by applying a tail fit exponential function and the goodness of fit judged by minimising Chi2 and residuals squared.
+
+#### Synthetic Procedure for UiO-MOF Catalysts
+
+ZrCl<sup>4</sup> (10.0 mg, 43 mol), H2bpydc (9.0 mg, 37 mol ), [Ru(bpy)2(H2bpydc)]Cl<sup>2</sup> (2.0 mg, 4 mol), and glacial acetic acid (82 μL, 1.44 mmol) were dissolved in 1.5 mL DMF and sealed in a 5 mL vial. The vial was heated at 100 °C for 72 h, and, after cooling to room temperature, the solid product, MOF-Ru, was collected and sequentially washed several times with DMF and THF and dried at 50 °C under vacuum overnight (yield: 51%). ICP-OES analysis confirmed the Zr/Ru ratio of 20 indicating 0.30 per {Zr6} cluster.
+
+Post-synthetic metalation of mono-iron-hydroxyl species in MOF-Ru is similar with PMOF-RuFe(OH) to obtain MOF-RuFe(OH). The Fe-loading of MOF-RuFe(OH) was also determined by ICP-OES analysis to be 4.0 wt%, corresponding to a Fe/Zr ratio of 0.51, and 3.0 Fe per {Zr6} cluster.
+
+#### Analysis of Products
+
+The reactor was connected directly to a gas chromatographic (GC) analyser equipped with both thermal conductivity detector (TCD) and flame ionisation detector (FID) for analysis of the gaseous products. Before analysis, the gas in the reactor was used to sweep the GC lines 3 times. The amount of CH<sup>4</sup> was quantified by GC using an external standard with a Bruker Matrix MG5 FTIR spectrometer, calibrated using known concentrations of target gases. The conversion of CH<sup>4</sup> was calculated according to the following equation:
+
+$$
+CH_4 \text{ conversion} \% = \frac{mol_{\text{initial CH}_4} - mol_{\text{CH}_4 \text{after reaction}}}{mol_{\text{initial CH}_4}} \times 100\%
+$$
+
+The other gases (e.g., CO<sup>2</sup> on TCD, CxH<sup>y</sup> on FID) were quantified by the following equation by using quantified CH<sup>4</sup> as the standard.
+
+$$
+mol_{gas} = f(correction factor) \times Area_{gas} \times \frac{mol_{CH_4}}{Area_{CH_4}}
+$$
+
+After analysing the gaseous phase, the solid catalyst was separated from the liquor and the liquor analysed by GC-FID with 1,4-dioxane as an internal standard. The selectivity and productivity of CH3OH were calculated by the following equations:
+
+*Methodal Selectivity* % 
+$$
+Methanol Selectivity % = \frac{mol_{produced methanol}}{mol_{initial CH_4} - mol_{CH_4 after reaction}} \times 100\%
+$$
+
+S4
+
+ℎ (µ ∙ −1 ∙ ℎ −1 ) = ℎ (µ) () × (ℎ)
+
+The products in the liquid phase were also quantified by <sup>1</sup>H NMR spectroscopy. Typically, 0.7 mL of liquor after reaction (with 1,4-dioxane as internal standard) was mixed with 0.2 mL of D2O to prepare a solution for NMR measurement.
+
+#### Isotopic Experiments
+
+The isotopic experiments were performed with PMOF-RuFe(OH) using the general procedure for photocatalytic methane oxidation in batch mode except with isotopic sources. After the reaction, the products were collected and analyzed by GC-MS.
+
+#### Leaching Test
+
+For the leaching experiment, 10.0 mg of PMOF-RuFe(OH) catalyst in 3 mL of H2O was used. After reaction with irradiation for 20 h under 1 atm of CH<sup>4</sup> and O2, the solid catalyst was removed *via* centrifugation, and the supernatant filtered and split into 2 samples - one for GC analyses and one for a second reaction. The reactor was re-filled with CH<sup>4</sup> and O<sup>2</sup> gas for further reaction tests under irradiation. No additional product was observed in the second reaction.
+
+#### Recycling Experiments
+
+The best-performing catalyst, PMOF-RuFe(OH), was chosen for the recycling test for photocatalytic oxidation of CH4. After the general catalytic procedure, the headspace gas was analyzed by GC using a TCD, and the solid PMOF-RuFe(OH) was collected from the reaction mixture *via* centrifugation, and the supernatant analyzed by GC to quantify the yield of CH3OH. The recovered solid catalyst was washed for 3 times with H2O and added again to the reactor together with 3 mL of fresh H2O. The reactor was then re-filled with CH<sup>4</sup> and O<sup>2</sup> gases for a second reaction under irradiation. The catalyst was reused without any significant drop in activity for 10 consecutive runs.
+
+#### X-Ray Absorption Spectroscopic (XAS) Analysis
+
+X-ray absorption data for iron and vanadium were collected at 10-BM beamline at the Advanced Photon Source (APS) at the Argonne National Laboratory and at the BL11S beamline at the Aichi Synchrotron Radiation Centre (AichiSR), respectively. Spectra were collected at the Fe K-edge (7112 eV) in transmission mode and the V K-edge (5465 eV) in fluorescence mode. The X-ray beam was monochromatized by a Si(111) monochromator and detuned by 50% to reduce the contribution of higher-order harmonics below the level of noise. Multiple X-ray absorption spectra were collected at room temperature for each sample. Samples were ground and mixed with polyethylene glycol (PEG) and packed in a 6-shooter sample holder to achieve adequate absorption length.
+
+Data were processed using the Athena and Artemis programs of the IFEFFIT package based on FEFF 6. 2,3 Fitting of the EXAFS data was performed using the Artemis program of the IFEFFIT package and was performed with a *k*-weight of 2 in *R*-space. Refinement was performed by optimizing an amplitude factor *S*<sup>0</sup> 2 and energy shift Δ*E*0, which are common to all paths, in addition to parameters for bond length (Δ*R*) and Debye-Waller factor (*σ 2* ).
+
+#### Adsorption Isotherms for CH<sup>4</sup>
+
+Gravimetric sorption isotherms for CH<sup>4</sup> were recorded on a Hiden Isochema Intelligent Gravimetric Analyzer (IGA) system under ultra-high vacuum using a turbo pumping system. The temperature was maintained between 298-338 K using a temperature-programmed water bath. In a typical gas adsorption experiment, 50.0 mg of acetone-exchanged MOF was loaded into the IGA system and activated at 353 K under dynamic high vacuum (10-10 bar) for 1 day to give a fully desolvated sample.
+
+#### <sup>57</sup>Fe Mössbauer spectroscopy
+
+The <sup>57</sup>Fe Mössbauer spectrum of PMOF-RuFe(OH) was recorded at room temperature using a <sup>57</sup>Co source in Pd. The spectrometer was operated with a triangular velocity waveform and a NaI scintillation detector was used for γ-ray detection. Velocity calibration was performed with an α-Fe foil.
+
+#### Computational Setup
+
+Density Functional Theory (DFT) calculations were carried out using the Gaussian 09 Program.<sup>4</sup> The structures of chemical species in solution-phase and gas-phase were fully optimized by using the B3LYP functional. 5,6 The 6-31+G (d) basis set was used for C, H, N, O and P, and the LanL2DZ (Lanl-2-double-zeta) was used for Fe, Ru, Zr, W and V. Solvation effects were accounted for by using the implicit solvation model, *i.e.,* SMD.<sup>7</sup> The model contains a solvent molecule in a cavity surrounded by a continuous polarizable dielectric medium, which responds to the distributed solute charges according to its dielectric constant. The solvent was set as water. The structures were optimised using the method described above. For the calculation of solvation free energies, both electrostatic and nonelectrostatic (dispersion, cavitation) energy contributions were considered. No explicit water was included in the catalyst models. The corresponding single point energy calculation was based on def2TZVP basis set for accuracy. The catalyst structure was modeled using [(bpy)Fe(OH)(H2O)3] 2+ , the {Zr6} cluster with formate as a capping groups, [Ru(bpy)3] 2+ and PW9V3. As bpydc2 ligands are coordinated to Zr<sup>6</sup> clusters, the coordinated carboxyl groups can be regarded as neutral groups (similar to ester), and thus the [(bpy)FeIII(OH)(H2O)3] 2+ fragment was used instead of [(bpydc)Fe(OH)(H2O)3]. The bpy was fixed and optimized, and CH<sup>4</sup> together with associated oxygen coordinated to the iron center were free to move.
+
+Vibrational frequencies and polarization vectors were calculated using CP2K (http://www.cp2k.org)<sup>8</sup> , based on the mixed Gaussian and plane-wave scheme<sup>9</sup> and the Quickstep module<sup>10</sup>. The calculation used molecularly optimized Double-Zeta-Valence plus Polarization (DZVP) basis set<sup>11</sup>, Goedecker-Teter-Hutter pseudopotentials<sup>12</sup>, and the Perdew-Burke-Ernzerhof (PBE) exchange correlation functional<sup>13</sup>. The plane-wave energy cutoff was 400 Ry. The DFT-D3 level correction for dispersion interactions, as implemented by Grimme et al<sup>14</sup>, was applied, with a cutoff distance of 15 Å. The calculation was performed on Gamma point only, with no symmetry constraint. A cubic unit cell with a lattice constant of ~26.9 Å was used for the calculation for each system. Structural disorder and various possible local coordinates are represented within the unit cell, but their long-range effects are suppressed due to the periodic boundary conditions. Structural optimization was performed using the Broyden-Fletcher-Goldfarb-Shannon (BFGS) optimizer, until the maximum force is below 0.00045 Ry/Bohr (0.011 eV/Å). The finite displacement method was used for the phonon calculation, with incremental displacement of 0.01 Bohr (0.0053 Å). The INS spectrum was simulated using the OClimax software.<sup>15</sup>
+
+#### **Supplementary Text**
+
+Catalyst Model and Calculation of Values of p*K*<sup>a</sup>
+
+To determine the protonation states of [(bpy)Fe(OH)x(H2O)4-x] n+ under the neutral pH conditions of the reaction, the p*K*<sup>a</sup> of the possible acidic sites, including coordinated water and hydroxyl groups, were calculated. The acidity constant (p*K*a) of a species X–H is defined as:
+
+$$
+pK_a(XH) = -\log K_a = \frac{\Delta G_{ps}}{2.303RT}
+$$
+ (eq. S1)
+
+where Δ*G*ps is the Gibb's free energy of protonated X–H in the solution phase, and *K*<sup>a</sup> is the equilibrium constant<sup>16</sup> . Here, the Δ*G*ps is calculated from the thermodynamic cycle (Scheme S1).<sup>17</sup>
+
+$$
+XH(g) \xrightarrow{\Delta G_{pg}} X^{\cdot}(g) + H^{\cdot}(g)
+$$
+  
+
+$$
+\Delta G_s(XH) \downarrow \Delta G_s(X^{\cdot}) \downarrow \Delta G_s(H^{\cdot})
+$$
+  
+
+$$
+XH(aq) \xrightarrow{\Delta G_{ps}} X^{\cdot}(l) + H^{\cdot}(l)
+$$
+
+**Scheme S1.** Thermodynamic cycle used for calculating p*K*<sup>a</sup> of X-H.
+
+Δ*G*pg and Δ*G*ps are the gas- and solution-phase free energy of deprotonation, respectively, and Δ*G*s(XH), Δ*G*s(X- ) and Δ*G*s(H<sup>+</sup> ) are the free energies of solvation for XH, Xand H<sup>+</sup> , respectively. From this cycle, Δ*G*ps can be derived as:
+
+$$
+\Delta G_{ps} = \Delta G_s(X^-) + \Delta G_s(H^+) + \Delta G_{pg} - \Delta G_s(XH) \tag{eq. S2}
+$$
+
+Thus, substituting *eq.S2* in *eq.S1*, the p*K*a of X-H can be obtained from *eq.S3*:
+
+$$
+pK_a(XH) = \frac{\Delta G_s(X^-) + \Delta G_s(H^+) + \Delta G_{pg} - \Delta G_s(XH)}{2.303RT}
+$$
+ (eq. S3)
+
+The experimental value (-264.0 kcal mol-1 ) was used for the free energy of solvation of a proton Δ*G*s(H<sup>+</sup> ). <sup>18</sup> All values for *Gpg* (gas-phase free energy) were calculated by the CBS-QB3 method. 19,20 All values of Δ*G*<sup>s</sup> (free energy of dissolution) were calculated based on the M05-2X method combined with the SMD solvent model.21,22 Different methods were used here to ensure the accuracy and efficiency of calculation, in line with literature reports. 23,24
+
+The p*K*<sup>a</sup> of all possible acidic sites of the model were calculated, and the results are summarised in Figure S11. The first deprotonation of [[(bpy)Fe(H2O)4] 3+ gives the complex with the hydroxyl group in the equatorial plane (p*K*<sup>a</sup> = 6.74) as opposed to the axial position (p*K*<sup>a</sup> = 7.74). As would be expected protonation of [[(bpy)Fe(H2O)4] 3+ gives 4+ cations with significant acidity, p*K*<sup>a</sup> = -17.97 and -18.97, while deprotonation of [(bpy)Fe(OH)(H2O)3] 2+ has values of p*K*<sup>a</sup> of 10.72 and 21.12. Under the reaction conditions of this study (pH = 7.0) the equilibrium structure [(bpy)Fe(OH)(H2O)3] 2+ was obtained as the catalyst model with one coordinated hydroxyl group and three water molecules on the iron site.
+
+#### Calculation of the Oxidation Potential
+
+To verify the proposed redox cycle, the oxidation potential of adsorbed CH<sup>4</sup> on [(bpy)Fe(OH)(H2O)3] 2+ within the species [(bpy)Fe(OH)(H2O)3∙∙∙CH4] 2+ {abbreviated to [Fe-OH∙∙∙CH4]} was calculated based upon transfer of one electron to form **·**CH<sup>3</sup> radical. <sup>25</sup> A free energy cycle based upon [(bpy)Fe(OH)(H2O)3∙∙∙CH4] 2+ as the reactant was developed (Scheme S2) to assist the calculation. The free energy change associated with the top side of the cycle is the gas-phase oxidation potential, which is closely related to the adiabatic ionization potential. Free energy changes associated with the left-hand and right-hand sides of the cycle are free energies of solvation, and thus the bottom side of the cycle refers to the oxidation potential in solution.
+
+![](_page_8_Figure_2.jpeg)
+
+**Scheme S2.** Thermodynamic cycle used for calculating oxidation potential. The initial model represents [(bpy)Fe(OH)(H2O)3∙∙∙CH4] 2+ .
+
+Oxidation potentials are usually reported relative to a reference potential, typically the normal hydrogen electrode (NHE); this convention, then, refers to the free energy change for the net reaction resulting from addition of the NHE half-reaction to the half-reaction at the bottom of the free energy cycle. The half reaction of normal hydrogen electrode is shown below.
+
+$$
+H^+(aq) + e^-(g)
+$$
+  $DG = -4.44eV$  1/2 H<sub>2</sub>(g)
+
+Thus, the aqueous oxidation potential of a closed-shell neutral solute X is determined from Scheme S2 as:
+
+$$
+\Delta G_{ox}([Fe-OH\cdots CH_4]v \; s \; NHE) =
+$$
+
+$$
+\Delta G_{gas} + \Delta G_{s} ([Fe-OH \cdots CH_{4}]^{+}) - \Delta G_{s} ([Fe-OH \cdots CH_{4}] ) - 4.44 eV (eq. S4)
+$$
+
+All values of *Ggas* were calculated based on the CBS-QB3 method. All values of *ΔG*<sup>s</sup> were calculated based on the M05-2X method combined with the SMD solvent model to obtain accurate free energy of dissolution. The calculated oxidation potential of [Fe-OH∙∙∙CH4] to [Fe-OH∙∙∙CH4] <sup>+</sup>is 0.84V (*vs* NHE), while the +/ = 0.91 ( ), which is sufficient to oxidize the absorbed CH<sup>4</sup> and to drive the reaction.
+
+#### Calculation of the Activation of CH<sup>4</sup>
+
+To further support the proposed mechanism of CH<sup>4</sup> activation, the profile of energy change from CH<sup>4</sup> to ·CH<sup>3</sup> radical was calculated. The Gibbs energy was calculated using B3LYP/6-31G\* to optimise the structure and obtain thermal correction for the Gibbs free energy. The thermal correction contains the correction factor of entropy caused by the changes of vibrational/translational/rotational degrees of freedom. Figure 4D gives the corresponding energy changes and the intermediates during the activation process of CH4. Adsorption of CH<sup>4</sup> onto [(bpy)Fe(OH)(H2O)3] 2+ gives a stabilization energy of -10.6 kJ mol-1 , which thus has a pre-activation effect on CH4. On oxidation of the Fe center, along with the calculated potentials, the barrier is 81.0 kJ mol-1 (0.84 V potential vs NHE) and the potential of photosensitizer of 87.8 kJ mol-1 (0.91 V potential vs NHE) was coupled into this step to give an overall energy change of -7.0 kJ mol-1 , which is thermodynamically favorable. The oxidative intermediate [Fe-OH∙∙∙CH4] <sup>+</sup> will then go through a transition state leading to the formation of the •CH<sup>3</sup> radical with a barrier of only 17.4 kJ mol-1 , the energy for which is delivered by the photosensitizer. After crossing the transition state, the energy drops by 10.6 kJ mol-1 to the final state. The overall energy change profile for CH<sup>4</sup> activation shows that the rate determine step is the electron injection from PS\* to the iron centre.
+
+#### Justification of choice of methods in DFT calculations
+
+The DFT calculation was employed (i) to optimise the intermediate structure and calculate the Gibbs free energies associated with the activation of methane and (ii) to calculate the pK<sup>a</sup> value in various structural models to identify the local structure of Fe site. Each of the calculations is different in nature for a system of such complexity, and the most appropriate method (based upon literature survey) was therefore chosen for each calculation rather than using one method throughout the study. Such methodology, using different DFT methods for calculations, has been widely reported previously in the literature.26,27
+
+#### Inelastic Neutron Scattering (INS)
+
+Direct visualization of the interaction between adsorbed CH<sup>4</sup> and the active sites is crucial to understanding the molecular details of adsorption and activation of CH<sup>4</sup> into CH3OH. INS is a powerful neutron spectroscopy technique to investigate the dynamics (particularly for H-containing compounds, such as hydrocarbons) of host-guest interactions because it has several unique advantages:
+
+ INS spectroscopy is ultra-sensitive to the vibrations of hydrogen atoms, and hydrogen is ten times more visible than other elements due to its high neutron cross-section.
+
+ The technique is not subject to any optical selection rules. All vibrations are active and, in principle, measurable.
+
+ INS observations are not restricted to the centre of the Brillouin zone (gamma point) as is the case for optical techniques.
+
+ INS spectra can be readily and accurately modelled: the intensities are proportional to the concentration of elements in the sample and their cross-sections, and the measured INS intensities relate straightforwardly to the associated displacements of the scattering atom. Treatment of background correction is also straightforward.
+
+ Neutrons penetrate deeply into materials and pass readily through the walls of metal containers making neutrons ideal to measure bulk properties of the material.
+
+ INS spectrometers cover the whole range of the molecular vibrational spectrum, 0-500 meV (0-4000 cm-1 ).
+
+ INS data can be collected at low temperature (at 5 K in this case), where the thermal motion of the MOF material and the adsorbed CH<sup>4</sup> molecules is significantly reduced.
+
+ Calculation of the INS spectra by DFT vibrational analysis can be readily achieved, and DFT calculations relate directly to the INS spectra, and, in the case of solid-state calculations, there are no approximations other than the use of DFT eigenvectors and eigenvalues to determine the spectral intensities.
+
+#### **Supplementary Figures**
+
+![](_page_10_Figure_1.jpeg)
+
+**Figure S1.** Preparation of MOF catalysts. (A) Synthesis of PMOF-Ru via charge-assisted selfassembly. (B) Post-modification binding of Fe(OH)(OH2)<sup>3</sup> species to form PMOF-RuFe(OH). (C) An illustration of the structure of PMOF-RuFe(OH) within the unit cell (black line). It is worth noting that statistically the various components will be distributed homogeneously throughout the structure. The occupancies of atoms are given in the simulated CIF files. (D) Structure of octahedral cage in UiO-67 without guest species. (E) The diameter of the circle representing the cavity within the octahedral cage. (F) View of the *Keggin*-type polyanion in [PW9V3O40] 6- . Due to the nature of the one-pot synthesis, most likely the [Ru(bpy)3] 2+ moieties are pushed out of the cage, and/or some of the ligands are missing to accommodate the [PW9V3O40] 6 cluster.
+
+![](_page_11_Figure_0.jpeg)
+
+**Figure S2.** NMR spectra. (A) <sup>1</sup>H NMR spectrum of MOF-Ru digested in K3PO4/D2O/DMSO-*d*6. (B) <sup>1</sup>H NMR spectra of PMOF-Ru digested in H3PO4/DMSO-*d*6. Peaks at δ = ~7.9 and 8.38 ppm are assigned to DMF and formate (from DMF decomposition) guest molecules, respectively. (C) <sup>31</sup>P NMR spectrum of digested PMOF-Ru referenced to H3PO<sup>4</sup> (δ =0 ppm). Note that the chemical shifts of polyvanadotungstates lie in the range of + 10 to -20ppm with respect to H3PO4.
+
+![](_page_12_Figure_0.jpeg)
+
+**Figure S3.** Characterization of PMOF-Ru, PMOF-RuFe(Cl) and PMOF-RuFe(OH). (A) TGA curves: initial weight loss (25-300 °C) corresponds to the removal of adsorbed solvents and the subsequent weight loss (300-500 °C) corresponds to ligands [43% for PMOF-Ru, 40.2% for PMOF-RuFe(Cl) and 39.5% for PMOF-RuFe(OH), respectively]. The increased amount of residual material (30.3%, 35.7% and 40.7%) indicates successful post-synthetic metalation. (B) IR transmission spectra of PMOF-Ru and PMOF-RuFe(OH). No peaks for free carboxylate ligands were observed indicating that all the ligands are coordinated to metal centers. The successful incorporation of PW9V<sup>3</sup> in PMOF-Ru was evidenced by <sup>31</sup>P NMR spectroscopy (δ = −12.71 ppm) and by infrared spectroscopy (νP–Oc: 1085 cm-1 ). Additionally, upon introduction of PW9V<sup>3</sup> as guest molecules, the strong Bragg peaks at 2*θ* = 5.7 and 11.4<sup>o</sup> of PMOF-Ru become weaker and the peaks at 2*θ* = 6.6 and 7.7<sup>o</sup> grow in intensity. This is in good agreement with the reported structures of polyoxometallate@UiO. 28,29
+
+![](_page_13_Figure_0.jpeg)
+
+**Figure S4.** EXAFS spectra at the Fe K-edge absorption of PMOF-RuFe(Cl). The fitting range is 1.2 – 3.0 Å in *R* space (within the black line). (A) Wavelet transform spectra displaying the first and second coordination shell plotted as a function of k (Å-1 ) on the *x*-axis and R (Å) on the *y*-axis. (B) The structural model, (bpy)FeCl2(THF)2, used for fitting was optimized by DFT calculations. (C) Experimental EXAFS spectra and fitting in *R* space showing the magnitude of Fourier transform (red hollow squares, red line) and real components (blue hollow squares, blue line). The EXAFS fitting agrees well with DFT-calculated bond distances with average Fe–Cl bond lengths of 2.28 ± 0.02 Å (×2), Fe–Nbpy bond lengths of 2.24 ± 0.08 Å (×2) and Fe–OTHF bond lengths of 2.15 ± 0.09 Å (×2). (D) The scattering paths of Fe to THF-oxygen (blue), bpy-nitrogen (khaki), and chloride (green) from the first shell, and bpy-carbons, C20 (cyan) and C24 (brown), from the second shell.
+
+![](_page_14_Picture_0.jpeg)
+
+**Figure S5.** SEM images of (A) PMOF-RuFe(Cl) and (B) PMOF-RuFe(OH). All the MOF materials adopt a distorted octahedral morphology.
+
+![](_page_15_Figure_0.jpeg)
+
+**Figure S6.** N<sup>2</sup> sorption isotherms and pore size distribution. (A) Isotherms for MOF-Ru and MOF-RuFe(Cl). (B) Pore size distribution for MOF-Ru and MOF-RuFe(Cl). (C) Isotherms for PMOF-Ru and PMOF-RuFe(Cl). (D) Pore size distribution for PMOF-Ru and PMOF-RuFe(Cl). Pore size distribution for the samples were calculated using the Horvath-Kawazoe method. MOF-RuFe(Cl) and PMOF-RuFe(Cl) show BET surface areas of 1378 and 1034 m<sup>2</sup> g -1 , respectively, lower than for the bare MOF, indicative of the successful introduction of functional groups within the pores. The pore size distribution confirms the presence of open channels after modification. The detailed analysis is summarized in Table S3.
+
+![](_page_16_Figure_0.jpeg)
+
+**Figure S7.** Transformation of active sites**.** (A) Yield of CH3OH with error bars in batch mode as a function of reaction time using PMOF-Ru(Cl) and PMOF-RuFe(OH) as catalysts. The induction period is due to the transformation of Fe-Cl to the active Fe-OH sites. Note that the difference in the observed yield of CH3OH between the two catalysts is due to the presence of an induction period of 2 h for PMOF-RuFe(Cl) to allow its transformation to active PMOF-RuFe(OH). (B) *k* 2 -Weighted Fe K-edge EXAFS spectra of PMOF-RuFe(OH) and PMOF-RuFe(Cl) showing a change in the firstshell coordination of the Fe center.
+
+![](_page_17_Figure_0.jpeg)
+
+**Figure S8.** XPS data of as-synthesized and used PMOF-RuFe(Cl) and PMOF-RuFe(OH) catalysts. (A) Fe 2p. (B) V 2p. (C) W 4f. (D) Ru 3d and C 1s. These analyses were referenced to the XPS database. **NOTE:** XPS spectra of the activated PMOF-RuFe(OH) catalyst exhibit typical features for FeIII species with broadening of peaks at 710 and 724 eV. Two spin-orbit splitting doublets are assigned to strong FeIII 2p3/2 and 2p1/2 at 710 and 723 eV, respectively, and weak satellite peaks at 718 and 731 eV, respectively.30,31 The additional peaks at 714 and 727 eV are related to the effects of hydroxyl groups, which can be found in the XPS spectra of α-FeIIIOOH, but not in PMOF-RuFe(Cl).<sup>31</sup> This is also consistent with the absorption at 590 nm in UV-vis spectra (Figure 2B).<sup>32</sup> The fingerprint satellites at 8.0 eV are above the main binding energy, and the main core line is asymmetrical at the high energy side, both of which indicate a *pseudo*-octahedral geometry for the Fe center bound to different ligands.
+
+![](_page_18_Figure_0.jpeg)
+
+**Figure S9.** Raman spectra of PMOF-RuFe(Cl) and PMOF-RuFe(OH). Raman spectra confirm the absence of a ν(O-O) stretching vibration as would be expected in FeIII -OOH (at 1000-1200 cm-1) or Fe-O<sup>2</sup> (700-880 cm-1 ) species. This is consistent with UV-vis spectroscopic results where no LMCT (ligand-to-metal charge-transfer) transitions at 550 nm and 755 nm for FeIII -OOH and Fe-O<sup>2</sup> species, respectively, are observed (Figure 2B).<sup>33</sup>
+
+![](_page_19_Figure_0.jpeg)
+
+**Figure S10.** Experimental (at 5 K) and simulated X-band EPR spectra of (A) PMOF-RuFe(OH), (B) PMOF-RuFe(Cl) and (C) MOF-RuFe(OH). Most PW9V<sup>3</sup> in PMOF-RuFe(OH) is diamagnetic V<sup>V</sup> with a small amount of VIV signals (inset spectrum shows VIV signal labeled with \*).<sup>34</sup> All the parameters for simulation are given in Table S4.
+
+![](_page_20_Figure_0.jpeg)
+
+**Figure S11.** Calculated values of p*K*<sup>a</sup> for bound water in possible Fe coordination sites in PMOF-RuFe(OH). As the reaction is conducted at pH ≈ 7, the initial structure of the iron species is assigned to [(bpy)Fe(OH)(H2O)3] 2+.
+
+![](_page_21_Figure_0.jpeg)
+
+**Figure S12.** Fitting of EXAFs data for PMOF-RuFe(OH) in *R*-space and the scattering paths using different structural models: (A) [(bpy)Fe(OH)(H2O)]2+, (B) Fe2O<sup>3</sup> and (C) metallic Fe. Although the distances of Fe-C8, Fe-C12 and Fe-N5 in the bipyridyl ring are similar to that of Fe···Fe in metallic Fe and Fe-O-Fe in Fe2O3, such fittings show notable differences to the experimental spectra (B and C).
+
+![](_page_22_Figure_0.jpeg)
+
+**Figure S13.** Fitting of EXAFs data for PMOF-RuFe(OH) in *R*-space using the combined models of [(bpy)Fe(OH)(H2O)]2+ and Fe2O<sup>3</sup> in a ratio of ~1:1. The mismatch with *R* = 0.42853 excludes the presence of Fe2O<sup>3</sup> due to a large discrepancy in the scattering of Fe-O-Fe at ~3 Å in *R*-space.
+
+![](_page_23_Figure_0.jpeg)
+
+**C**
+
+**Figure S14.** (A) <sup>57</sup>Fe Mössbauer transmission spectrum measured at 293 K for PMOF-RuFe(OH) and the fitting to spectral components, [(bpy)Fe(OH)(H2O)3] 2+ surrounded by POM (D1) and confined in the open cavity (D2) shown in (B). (C) Mössbauer parameters derived from the fitting of the data to give isomer shift (IS), quadrupole splitting (QS), line width (LW) and relative spectral area % for each component.
+
+The <sup>57</sup>Fe Mössbauer spectrum of PMOF-RuFe(OH) was measured at room temperature to further characterise the active site. The spectrum was fitted to two doublets, and, based on the values of isomer shift (IS) and quadrupole splitting (QS) obtained, both are assigned to the Fe(III) species in [(bpy)Fe(OH)(H2O)3] 2+ in an octahedral coordination sphere.35,36 The similar values for QS suggest the same iron species with slightly different binding interactions, and a relatively low value for IS indicates a high *s* electron density at the <sup>57</sup>Fe nuclei.37,38 Thus, the doublets, 1 and 2, are assigned, respectively in an approximate 1:1 ratio, to [(bpy)Fe(OH)(H2O)3] 2+ close to [PW9V3O40] 6- POM (D1) and to [(bpy)Fe(OH)(H2O)3] 2+ confined in an open cavity without a neighbouring POM (D2). No sextets or singlets were observed in the Mössbauer spectra suggesting the absence of zero-valent (metallic) iron.<sup>39</sup> No signal for iron oxides was detected either.<sup>36</sup> The Mössbauer spectroscopic analysis is in excellent agreement with EXAFS (Figures 2D) and XANES analyses (Figure S15).
+
+![](_page_24_Figure_0.jpeg)
+
+**Figure S15.** Fitting plots for XANES data using FEFF 10 code40,41 for different Fe species compared to experimental results.
+
+The XANES spectra are sensitive to the symmetry and the local coordination environment of the Fe(III) center. As shown in Figure S15, the simulated XANES spectra of [(bpy)Fe(OH)(H2O)3] 2+ matches well with the experimental data, giving one pre-edge around 7116 eV and two peaks after the edge (7131-7139 eV). This is also consistent with the fitted EXAFS results shown in Figure 2D. In comparison, the characteristic absorption peaks of Fe nanoparticles (7116-7126 eV, 7133 eV) or Fe2O<sup>3</sup> (7113 eV and 7130 eV) are absent in the experimental spectra, thus ruling out the presence of metallic iron or Fe2O3.
+
+![](_page_25_Figure_0.jpeg)
+
+**Figure S16.** V K-edge XAS of PMOF-RuFe(OH). (A) XANES spectra confirming mixed states of V <sup>V</sup>and VIV. (B) EXAFS spectra and fitting in *R-*space (1-4 Å) showing the magnitude of Fourier transform (hollow squares) and real components (lines). Red: as synthesized; blue: after catalysis. The spectrum fits well with models for VO<sup>6</sup> (red line: 83.7% PW9V V <sup>3</sup>and 16.3% PW9VIV <sup>3</sup>; blue line: 78.1% PW9V V <sup>3</sup> and 21.9% PW9V IV <sup>3</sup>). (C) Structural models for PW9V V <sup>3</sup> (top) and PW9V IV <sup>3</sup> (bottom). The models were optimized by DFT calculations, and are entirely consistent with the CIF file 168924 from the Cambridge Crystallographic Database. Wavelet spectra of PMOF-RuFe(OH) (D) as synthesized and (E) after catalysis.
+
+NOTE: The most striking feature is the presence of an intense pre-edge (1s→3d) transition at 5469 eV in PMOF-RuFe(OH) due to the terminal oxo group (V=O). This oxo-ligand causes a distorted octahedral symmetry around V centers in PW9V3. Thus, the usually dipole-forbidden 1s→3d transition for a site with the inversion symmetry becomes dipole-allowed due to a combination of stronger 3d→4p mixing and overlap of the metal 3d orbitals with the 2p orbitals of the oxygen ligand gaining substantial intensity.<sup>42</sup> Since electronic quadrupole transitions are much weaker than electronic dipole transitions, the intensity of the pre-edge feature depends on the site symmetry of V. When 3d–2p mixing is forbidden for a local symmetry with an inversion center (e.g. V2O<sup>3</sup> for regular octahedral VO<sup>6</sup> units), the lowest intensity is expected, whereas for tetrahedral geometry, the intensity can be comparable with an adsorption edge. Therefore, V-XANES spectrum of PMOF-RuFe(OH) exhibits a pre-edge absorption with moderate-intensity.
+
+![](_page_26_Figure_0.jpeg)
+
+**Figure S17.** Photocatalytic system. (A) Schematic view of the experimental setup. (B) Standard curves for GC quantification for production of CH3OH using 100 *μ*L of 1,4-dioxane as the internal standard. (C) Calibration curve for the quantification of HCHO by colorimetric method.<sup>43</sup> All error bars represent the standard deviation from three independent tests. Pentane-2,4-dione reacts with HCHO to form the corresponding C=N Schiff base compound, which shows characteristic adsorption band in the Uv-vis spectrum. Typically, 100 mL a solution was prepared by dissolving 15 g of ammonium acetate, 0.3 mL of HOAc, and 0.2 mL of pentane-2,4-dione in water. Then, 0.5 mL of liquid product was mixed with 0.5 mL of this chromogenic agent solution and 2.0 mL of water. The mixed solution was maintained at 35 °C in a water bath and the UV-vis absorption spectrum measured. In the experiments described herein, HCHO was not detected. However, in parallel experiments using other POMs other than PW9V<sup>3</sup> (for example, PW12, PW11V, PW10V2, PW9V<sup>3</sup> and PW8V<sup>4</sup> and PW8V4) HCHO and other oxidation products were detected depending on the precise POM used.
+
+![](_page_27_Figure_0.jpeg)
+
+**Figure S18.** Analysis of the liquid phase from the photo-oxidation of CH<sup>4</sup> for 20 h over PMOF-RuFe(OH) in batch mode. (A) <sup>1</sup>H NMR spectrum and (B) GC (FID) trace of the liquid product extracted with ethyl acetate. 1,4-Dioxane was used as internal standard; FID, column: HP-5. (C) The HPLC trace of the solution in the aqueous layer as monitored at 210 nm by a UV-Vis detector with 5% H2SO<sup>4</sup> (aq) as the mobile phase (HCO2H, t = 7.7 min), confirming the absence of formic acid. (D) GC-MS analysis of the raw liquid solution and (E) the corresponding mass spectrum of CH3OH product. A combination of GC (FID and MS), NMR and HPLC analyses of the liquid solution confirms a selectivity for CH3OH of >99% with only trace amounts of other oxygenates and no formic acid detected.
+
+![](_page_28_Figure_0.jpeg)
+
+**Figure S19.** Analysis of the gaseous product for photo-oxidation of CH<sup>4</sup> after a 20h run using PMOF-RuFe(OH) as catalyst in batch mode. GC trace of the headspace gas detected by TCD (A) Channel 1, column: molecular sieve 5A and (B) Channel 2, column: PLOT-U. The peaks were identified as the reactants O<sup>2</sup> and CH4. (C) FTIR analysis equipment and concentration of the headspace gas monitored by FTIR. All these confirm that only trace amounts of CO<sup>2</sup> were generated as a byproduct.
+
+![](_page_29_Figure_0.jpeg)
+
+**Figure S20.** Analysis of the liquid composition for photo-oxidation of labeled <sup>13</sup>CH<sup>4</sup> using PMOF-RuFe(OH) as catalyst in batch mode. (A) <sup>1</sup>H NMR spectrum showing the yield of CH3OH and (B) GC-MS trace of the liquid product. (C,D) The corresponding mass spectrum and the assignments of peaks for the product.
+
+**NOTE:** The peak at m/z = 33 is attributed to <sup>13</sup>CH3OH, and the yield is the same as that using <sup>13</sup>CH<sup>4</sup> as the feed gas, further demonstrating that CH3OH is the sole product.
+
+![](_page_30_Figure_0.jpeg)
+
+**Figure S21.** Dependences of yield of CH3OH over PMOF-RuFe(OH) in batch mode on different amounts of water and different pressures of O2.
+
+![](_page_31_Figure_0.jpeg)
+
+**Figure S22.** Dependence studies of the yield of formation of CH3OH over PMOF-RuFe(OH) (A) versus the amount of CH4, and (B) versus catalyst. Reaction conditions: 10.0 mg of catalyst, and mixed CH<sup>4</sup> (10%-50% by volume) and air (10% by volume containing 21% of O2) balanced in N<sup>2</sup> were dosed into a 50 mL Schlenk bottle containing 3 mL of H2O at 298 K. Visible light irradiation was used for 20 h. Ratios of feed gas were selected by considering the upper explosion limited. As the amount of input gases is decreased by a factor of >20, the corresponding yield of CH3OH (0-40 µmol) is reduced compared to a typical batch experiment (629±68 µmol)]. The yield of CH3OH deviates from the linear relationship when more than 10.0 mg of catalyst is used due to over-oxidation.
+
+**NOTE:** Schlenk bottles were used in this specific test instead of balloons (which were used in the batch experiments) to quantify precisely the volume of input gas. Compared with a typical batch experiment, reduced amounts of reactant gases (CH<sup>4</sup> and O2) by a factor of >20 were used to evaluate the dependence of yield of CH3OH versus volume of CH<sup>4</sup> (10%-50%) and catalyst loading (0-20.0 mg). Compressed air (containing 21% of O2) was used instead of pure O<sup>2</sup> to avoid the explosive limit of CH4. N<sup>2</sup> acts as a balancing gas to retain the same initial pressure.
+
+![](_page_32_Figure_0.jpeg)
+
+**Figure S23.** GC-MS spectra of CH3OH generated over PMOF-RuFe(OH) with <sup>16</sup>O<sup>2</sup> + H<sup>2</sup> <sup>18</sup>O or <sup>16</sup>O<sup>2</sup> + H<sup>2</sup> <sup>16</sup>O in photocatalytic oxidation of CH<sup>4</sup> and the assignments of fragment peaks. Analysis of the spectra shows 75% yield of CH<sup>3</sup> <sup>16</sup>OH (m/z = 32, 29) and 25% yield of CH<sup>3</sup> <sup>18</sup>OH (m/z = 34,33), indicating both O<sup>2</sup> and H2O are involved in the formation of CH3OH product.
+
+![](_page_33_Figure_0.jpeg)
+
+**Figure S24.** Stability tests of PMOF-RuFe(OH) catalyst for photo-oxidation of CH<sup>4</sup> to CH3OH. (A) Recycling experiments in batch mode of photo-oxidation of CH4 for 10 runs under standard reaction conditions. The experiments confirm that the production of CH3OH is strongly light-dependent. (B) Removal of PMOF-RuFe(OH) during photo-oxidation of CH<sup>4</sup> to CH3OH confirms heterogeneous catalysis and no measurable homogeneous activity. The catalyst was removed after 20 h and no further formation of CH3OH was observed.
+
+ICP-OES analysis suggests <0.1%, <0.3% and 0.05% leaching of Fe, Zr and W, respectively, into the solution after 20 h; these values are within the detection limits of the instrument. We have performed additional reactions at 50 h, 100 h and 200 h in batch mode, and the ICP-OES analysis of the leaching of Fe/Zr/W into the solution was 0.12%/0.30%/0.06%, 0.47%/0.31%/0.05% and 1.33%/0.34%/0.08%, respectively. While very low levels leaching was observed for the reaction over the first 100 h, more leaching of Fe (1.3%) was observed after 200 h. This is in contrast with most literature reports, where stability is studied typically over 2-4 h only; this therefore demonstrates the high stability of the present system.
+
+![](_page_34_Figure_0.jpeg)
+
+**Figure S25.** SEM and EDX images of (A) fresh and (B) used PMOF-RuFe(OH) catalysts after a 20 h run. (C) EDX spectra. (D) EDX line scans of the used catalyst. EDX studies indicate that Ru, Fe and PW9V<sup>3</sup> are dispersed homogeneously throughout the MOF particles before and after the catalysis.
+
+![](_page_35_Picture_0.jpeg)
+
+**Figure S26.** TEM (High-Angle Annular Dark-Field, HAADF) and EDX-mapping images (Zr, cyan; Ru, purple; Fe, green; W, orange and V, yellow) of used PMOF-RuFe(OH) catalyst after a 20 h run.
+
+![](_page_36_Figure_0.jpeg)
+
+**Figure S27.** Characterisation of used PMOF-RuFe(OH) catalyst after a 20 h run. (A) PXRD patterns. (B) FTIR transmission spectra (spectra are offset vertically for clarity). (C) UV-vis spectra. (D) N<sup>2</sup> adsorption isotherms at 77 K. BET surface areas: as-synthesised sample 684 *vs* used sample 610 m<sup>2</sup> ∙g - 1 . The slight decrease in porosity is likely due to the incomplete elution of substrates and intermediates (*e.g.*, methyl and hydroxyl radicals) bound to the structure.
+
+![](_page_37_Figure_1.jpeg)
+
+**Figure S28.** EXAFS analysis at the Fe K-edge adsorption of PMOF-RuFe(OH) after 20 h of catalysis. (A) Wavelet transform spectra, (B) experimental EXAFS spectra and fitting in *R-*space showing the magnitude of Fourier transform, and (C) the scattering paths. The spectrum was satisfactorily fitted to the [(bpy)Fe(OH)(H2O)3] 2+ model and indicated the absence of metallic Fe species and/or metal oxides and nearly identical Fe environment to fresh PMOF-RuFe(OH).
+
+![](_page_38_Figure_0.jpeg)
+
+**Figure S29.** Normalized Fe K-edge XANES spectra of used PMOF-RuFe(OH) showing the presence of Fe in the +3 oxidation state by comparing the energies of the pre-edge peaks to reference spectra.
+
+![](_page_39_Figure_0.jpeg)
+
+**Figure S30.** Schematic view of the *in situ* INS experiment and data collection.
+
+![](_page_40_Figure_0.jpeg)
+
+**Figure S31.** Difference INS spectra of different CH4-loaded PMOF-RuFe(OH) (0.22 CH4/Fe, 0.45 CH4/Fe and 1.10 CH4/Fe) and evacuation to baseline to remove free CH4.
+
+![](_page_41_Figure_0.jpeg)
+
+**Figure S32.** Comparison of the experimental and calculated INS spectra for the bare MOFs. (A) PMOF-RuFe(OH), (B) PMOF-Ru, and (C) MOF-RuFe(OH). The models derived from structural analysis were used for initial DFT modelling, where the positional disorder cannot be fully accounted for due to the periodic boundary conditions. This partially accounts for the discrepancies observed between calculated and experimental INS plots. However, these discrepancies do not affect the reliability of the key findings from the DFT modelling that gives assignments of Peak II at 50-55 meV and Peak III at 65-70 meV (Fig. 4b). In Fig. 4b - left panel of Peak II: vibration of OH with H moving perpendicular to O-H and out of the [(bpy)Fe-OOH] plane; right panel of Peak II: wagging of H2O located out of the [(bpy)Fe-OOH] plane; Left panel of Peak III: wagging of H2O located in the [(bpy)Fe-OOH] plane plus vibration of OH with H moving perpendicular to O-H within the [(bpy)Fe-OOH] plane; right panel of Peak III: rocking of H2O located out of the [(bpy)Fe-OOH] plane. These peaks are clearly reproduced and can be unambiguously attributed to the modes assigned. Experimental spectra shown are after subtraction of the spectrum due to the empty cell.
+
+![](_page_42_Figure_0.jpeg)
+
+**Figure S33.** View of the structural model for CH4-loaded [(bpy)Fe(OH)(H2O)3] 2+ in PMOF-RuFe(OH). The binding site for CH<sup>4</sup> is in the form of [Fe-OH∙∙∙CH4] with a HOH−CCH4 distance of 2.39 Å. The model was optimized by DFT calculations and is entirely consistent with the results from INS.
+
+![](_page_43_Figure_0.jpeg)
+
+**Figure S34.** *In situ* IR spectra for (A,B) PMOF-RuFe(OH) and (C) PMOF-RuFe(Cl) as a function of CH4-loading at room temperature. The difference spectra for PMOF-RuFe(OH) upon loading and removal of CH<sup>4</sup> obtained by purging with N<sup>2</sup> are shown on A (right). The red curve of ΔAbsorbance is the spectrum of CH4-loaded PMOF-RuFe(OH) minus the spectrum of bare PMOF-RuFe(OH).The blue curve of ΔAbsorbance is the spectrum of CH4-loaded PMOF-RuFe(OH) minus the spectrum of free CH<sup>4</sup> and minus the spectrum of the bare PMOF-RuFe(OH). The difference spectra on evacuation of the CH4-loaded PMOF-RuFe(OH) are shown on B. The IR band at 3017 cm-1 is assigned to adsorbed CH<sup>4</sup> retained upon removal of excess CH4, confirming the interaction between {Fe-OH} sites and adsorbed CH<sup>4</sup> molecules.
+
+NOTE: Generally, the characteristic absorption band of C–H bond occurs in three regions: 3010– 2700 cm-1 , 1475–1300 cm-1 and 1000–650 cm-1 . Since 1000–650 cm-1 falls into the fingerprint region, there are many influencing factors that are too complex to give an unequivocal identification. Thus, this study focused on the absorption band in the other two regions.
+
+On loading of CH<sup>4</sup> into PMOF-RuFe(OH), the characteristic C-H stretching and bending modes at 3017, 1412 and 1305 cm-1 appear immediately. These bands are slightly shifted compared with that of gaseous CH<sup>4</sup> (3020 and 1302 cm-1 ).<sup>44</sup> The red-shift of the C−H stretching peak indicates a decrease in C−H bond strength, resulting from the formation of hydrogen bonding. <sup>45</sup> For the bands at 1475– 1300 cm-1 , although the vibrations of the framework of MOF (aromatic ring stretching vibrations) and −CH3/CH<sup>2</sup> groups overlap, the difference spectra show new peaks at 1345, 1370 and 1396 cm-1 which can be assigned to the scissoring vibration, symmetrical vibration and deformational mode of -CH<sup>3</sup> groups, respectively.<sup>46</sup> Moreover, a negative peak at 3617 cm-1 , assigned to the O-H stretch of the hydroxyl group, and several positive peaks in the region of 1587-1617 cm-1 , assigned to H−O−H bending modes, are observed. This suggests that the adsorbed CH<sup>4</sup> forms hydrogen bonds to the hydroxyl group, leading to a decrease in concentration and strength of the O-H bond. Additionally, the absence of vibrational modes at 1000-1200 cm-1 that could be ascribed to C−O stretching vibration from a Fe-OH…CH<sup>4</sup> moiety or to a C−H symmetric rocking of OCH<sup>3</sup> (formed *via* direct cleavage of CH<sup>4</sup> to form Fe-OCH3), indicates that the adsorption of CH<sup>4</sup> is not through a direct C···O interaction. Interestingly, upon flowing dry N<sup>2</sup> over the CH4-loaded PMOF-RuFe(OH), all bands assigned to adsorbed CH<sup>4</sup> molecules are retained, in excellent agreement with the relatively strong host-guest interactions as observed in INS and the isotherm experiments.
+
+![](_page_45_Figure_0.jpeg)
+
+**Figure S35**. X-band (9.85 GHz) EPR spectroscopic spin-trapping experiments. (A) EPR spectrum from DMPO spin-trapping experiment of PMOF-RuFe(OH) in the presence of CH<sup>4</sup> and O<sup>2</sup> after irradiation; simulated spectra for individual DMPO-radical adducts detected and the weighted sum (parameters in Table S12). The absence of hydrogen (•H) adducts (DMPO-H) eliminates the possibility that dissociation of the C−H bond proceeds *via* a simple homolytic cleavage process. (B) EPR-trapping spectrum of PMOF-Ru with DMPO, CH<sup>4</sup> and light. The signal for •DMPO-CH<sup>3</sup> signals are not observed confirming that Fe(OH) sites are responsible for the activation of CH4.
+
+![](_page_46_Figure_0.jpeg)
+
+**Figure S36**. Study of the effect on catalysis of radical scavenger (DMPO) on the yield of CH3OH over PMOF-RuFe(OH). On injection of excess of DMPO, no CH3OH product was formed indicating a radical mechanism during catalysis.
+
+![](_page_47_Figure_0.jpeg)
+
+**Figure S37.** Comparison of the photo-activation of CH<sup>4</sup> to methyl radicals over PMOF-RuFe(OH) (I) and conventional catalysts (II).
+
+**NOTE:** In pathway I catalysed by PMOF-RuFe(OH), the CH4 molecules are first adsorbed onto ironhydroxyl sites to form [Fe-OH∙∙∙CH4] intermediates and then photo-activated to [(bpy)Fe(OH2)(H2O)3∙∙∙•CH3] 3+ ([Fe(H2O) ∙∙∙•CH3]) (shown in red box) with HH2O∙∙∙CCH3 of 2.02 Å (based upon DFT calculations). In this photo-activated process, electron-transfer retains the charge of the [(bpy)Fe(OH2)(H2O)3] species, as confirmed by EPR spectroscopy that shows no change in FeIII signals (Figure S40). Also, [Fe(H2O) ∙∙∙•CH3] species are isolated due to immobilization within the MOF platform, thus inhibiting two or more radicals coupled to give C2+ hydrocarbons, which is observed in most photocatalytic systems (pathway II). The mono-iron-hydroxyl sites that bind CH<sup>4</sup> and •CH<sup>3</sup> intermediates are remote from one another and confined within PMOF-RuFe(OH) and therefore give a higher selectivity of C<sup>1</sup> products.
+
+DFT calculations were used to study the spin population of [Fe-OH∙∙∙CH4] and [Fe(H2O) ∙∙∙•CH3]. The initial spin density of CH<sup>4</sup> is 0, and upon activation, an increase of spin distribution is observed on the C-centre of CH<sup>3</sup> species (0.951), indicating formation of a •CH<sup>3</sup> radical. The spin density on the FeIII centre shows little change before and after activation (Tables S13-S16). This is consistent with the *in situ* EPR spectroscopic results, which did not detect any FeIV species (Figure S40).
+
+![](_page_48_Figure_0.jpeg)
+
+**Figure S38.** Spin density population of the (A) [(bpy)Fe(OH)(H2O)3] 2+ (**1**), (B) [(bpy)Fe(OH)(H2O)3∙∙∙CH4] 2+ (**2**), (C) [(bpy)Fe(OH)(H2O)3∙∙∙CH4] 3+ (removal of one electron on irradiation) (**3**), and (D) [(bpy)Fe(H2O)4∙∙∙•CH3] 3+ (**4**). High and low spin atoms are encoded by green and black, respectively. Fe, purple; O, red; N, blue; C, grey; H, white. The summary of natural population analysis (NPA) charges and spin densities are given in Tables S13-16.
+
+![](_page_49_Figure_0.jpeg)
+
+**Figure S39.** EPR spectra for reactive oxygen species over PMOF-RuFe(OH). X-band (9.85 GHz) spin-trapping spectra under O<sup>2</sup> atmosphere with and without irradiation in (A) water and (B) CH3OH. Only signals attributed to the DMPO-OH adducts were detected.
+
+**NOTE:** The intermediate of photoreduction of O<sup>2</sup> was also measured in methanolic media using the EPR spin-trapping technique for the following reasons: i. the EPR signals of DMPO-O2**•** − rapidly converts to DMPO-OH in pure H2O solvent<sup>47</sup> ; ii. the DMPO-OOH adduct is difficult to detect in aqueous solution because of the slow reaction between •OOH and DMPO<sup>48</sup> . Thus, we can rule out O2• − and •OOH as reactive oxygen species.
+
+![](_page_50_Figure_0.jpeg)
+
+**Figure S40.** EPR spectra at 5 K of bare PMOF-RuFe(OH) suspended in water (──), after irradiation under light but without CH<sup>4</sup> and O<sup>2</sup> (──), with CH<sup>4</sup> but without O<sup>2</sup> in the dark (──), after irradiation with CH<sup>4</sup> but without O2 (──), with O<sup>2</sup> but without CH<sup>4</sup> in the dark (──), after irradiation with O<sup>2</sup> but without CH<sup>4</sup> (──), and after irradiation with CH<sup>4</sup> and O2 (──).
+
+**NOTE:** *In situ* EPR spectra were measured to unveil the mechanism of electron-transfer (ET). Note that the "native" PWVI <sup>9</sup>V V <sup>3</sup> is diamagnetic and EPR silent. When illuminated without any reactants (blue line), characteristic <sup>51</sup>V hyperfine structure for the formation of VIV appears, accompanied by the appearance of a signal with *g ≈* 2, which can be assigned to PS<sup>+</sup> , corresponding to the unpaired electron being predominantly on the ligand π\* orbitals rather than in a metal d orbital.49,50 This suggests photo-induced ET from PS\* to produce reduced PW9V IV/V <sup>3</sup>. In the presence of CH4, VIV peaks are found upon irradiation, but no EPR signal for PS<sup>+</sup> was detected (orange line), indicative of PS<sup>+</sup> conversion back to PS accompanying the generation of •CH3. The signals for FeIII show almost no change with CH<sup>4</sup> after irradiation, ruling out a FeIV -oxo activation pathway [adopted by soluble methane monooxygenase (sMMO)], where the C−H bond cleavage is promoted through the direct interaction with the metal at the catalytic site, resulting in the formation of a σ M−C bond.<sup>51</sup>
+
+![](_page_50_Figure_3.jpeg)
+
+![](_page_50_Figure_4.jpeg)
+
+![](_page_51_Figure_0.jpeg)
+
+**Figure S41.** Studies of electron-transfer (ET) by luminescence (static) quenching measurements. (A) Schematic showing luminescence quenching measurements of PS in MOF-Ru by PW9V3, Fe3+, and CH4. (B,C) Luminescence spectra upon excitation at 465 nm of a suspended MOF-Ru solution in H2O (containing 5 μM of PS) with varying concentrations of (B) PW9V<sup>3</sup> and (C) FeCl3. (D) Stern-Volmer fitting of *I*0/*I* to the concentrations of PW9V<sup>3</sup> and Fe3+. (E) Emission spectra of PS (5 μM) in MOF-Ru after bubbling N<sup>2</sup> and CH4.
+
+![](_page_52_Figure_0.jpeg)
+
+**Figure S42.** Normalized luminescence decay trace of PS (H2L) after addition of different amounts of PW9V3 and Fe3+ measured at the 610 nm emission peak (with 405 nm excitation). The emission decays were fitted to exponential expression A = A0+A1e -t/τ1 + A2e -t/τ2 + A3e -t/τ3 .
+
+**NOTE:** The process of electron transfer by luminescence quenching has been measured. The Ru(bpy)3-derived chromophore, [Ru(bpy)2(H2bpydc)] 2+ (PS, H2L) can be excited to the <sup>1</sup>MLCT excited state under irradiation, which efficiently transfers to the <sup>3</sup>MLCT state through intersystem crossing. The long-lived <sup>3</sup>MLCT state decays to the ground-state, which is accompanied with phosphorescence.<sup>52</sup>
+
+The excited RuII -polypyridyl chromophores (PS\* ) in MOF-Ru can be efficiently quenched by PW9V<sup>3</sup> and/or Fe-species as electron acceptors, but not quenched by CH<sup>4</sup> as electron donors. This indicates that the PS\* was initially oxidatively quenched to generate PS<sup>+</sup> (Figure S41). PW9V<sup>3</sup> and FeCl<sup>3</sup> were added incrementally to a suspended MOF-Ru solution in H2O (containing 5 µM of PS) to afford the different molar ratios of PW9V3/Fe and PS. A luminescence spectrum was collected for each molar ratio by a fluorimeter with an excitation wavelength at 465 nm. Such oxidative quenching was supported by fitting obtained intensities at 610 nm to the concentration using the Stern-Völmer equation:
+
+$$
+\frac{I_0}{I} = 1 + K_{SV}C
+$$
+
+where *K*SV is the Stern-Völmer constant and *I*0/*I* is the ratio of luminescence intensity of PS at 610 nm in the absence and presence of PW9V<sup>3</sup> and Fe3+. The fitting of this equation confirmed that *I0/I* has a linear relationship with respect to the concentration of PW9V<sup>3</sup> (*CPW9V3*) with R<sup>2</sup> = 0.998 and *K*SV = 0.4865 ± 0.0081, and Fe3+ (*CFe 3+*) with R<sup>2</sup> = 0.998 and *K*SV = 0.3752 ± 0.0109, indicating a more efficient quenching by PW9V3.
+
+The oxidative quenching mechanism is further supported by time-resolved photoluminescence measurements (Figure S42).
+
+$$
+\frac{\tau_0}{\tau} = 1 + K_{SV-d} \tau_0 C
+$$
+
+where *K*SV-d is the dynamic Stern-Völmer constant and τ0/τ is the ratio of luminescence decay intensity of PS after the addition of different amounts of PW9V3 and Fe3+ measured at the 610 nm emission peak (with 405 nm excitation). The Ru–polypyridyl <sup>3</sup>MLCT emissions exhibited linear quenching with different amounts of PW9V<sup>3</sup> (*CPW9V3*) with R<sup>2</sup> = 0.961 and *K*SV-d = (30.1 ± 3.8) × 10-5 µM-1 ∙ µs-1 and Fe3+ (*CFe 3+*) with R<sup>2</sup> = 0.992 and *K*SV-d = (7.8 ± 0.3) × 10-5 µM-1 ∙ µs-1 . This indicates that both static quenching (formation of quencher/Ru(bpy)<sup>3</sup> 2+ ion pairs) and dynamic quenching (eg. electron/charge transfers) occurs in this system.
+
+![](_page_54_Figure_0.jpeg)
+
+**Figure S43**. Time-resolved photoluminescence spectra. (A) Schematic view showing time-resolved photoluminescence measurements. (B-I) Normalized decay transients at 610 nm emission wavelength (with excitation at 405 nm) in aqueous solution for (B) PMOF-RuFe(OH), (D) MOF-Ru, (F) MOF-RuFe(OH) and (H) PMOF-Ru, and their homogeneous controls (C, E, G, I, respectively). The emission decays were fitted to the exponential expression A = A0+A1e -t/τ1 + A2e -t/τ2 + A3e -t/τ3 .
+
+![](_page_55_Figure_0.jpeg)
+
+**Figure S44.** Electrochemical experiments for the study of electron-transfer. (A) Schematic showing photo-redox cycle for [Ru(bpy)2(H2bpydc)]2+ (PS). (B) Cyclic voltammetry (CV) scan of [Ru(bpy)2(H2bpydc)]2+ in 0.5 M Na2SO<sup>4</sup> (aq) at a scan rate of 100 mV∙s-1 . (C) Emission spectra of [Ru(bpy)2(H2bpydc)]2+ in aqueous solution with 460 nm excitation. (D) CV scans of PMOF-RuFe(OH) (coated on a glassy carbon), [Ru(bpy)2(H2bpydc)]2+ , FeCl<sup>3</sup> and PW9V<sup>3</sup> in 0.5 M Na2SO<sup>4</sup> (aq) with a scan rate of 100 mV∙s-1 . Working, reference, and counter electrodes are glassy carbon (3 mm diameter disk), Ag/AgCl, and Pt, respectively. Four redox couples were observed in the CV curve of PW9V3. I, III and IV redox couples correspond to a one-electron redox processes, and II corresponds to a two-electron redox process:
+
+(I) 
+$$
+[PW_9V^V_3O_{40}]^{6-} + e^- = [PW_9V^V_2V^{IV}O_{40}]^{7-}
+$$
+ E = 0.61 eV  
+\n(II)  $[PW_9V^V_2V^{IV}O_{40}]^{7-} + 2e^- = [PW_9V^{IV}_3O_{40}]^{9-}$  E = 0.20 eV  
+\n(III)  $[PW_9V^{IV}_3O_{40}]^{9-} + e^- = [PW^{VI}_8 W^V V^{IV}_3O_{40}]^{10-}$  E = -0.38 eV  
+\n(IV)  $[PW^{VI}_8 W^V V^{IV}_3O_{40}]^{10-} + e^- + H^+ = [HPW^{VI}_8 W^V V^{IV}_3O_{40}]^{10-}$  E = -0.80 eV
+
+**NOTE:** CV scan shows that PMOF-RuFe(OH) has a similar oxidation potential to [Ru(bpy)2(H2bpydc)]2+ (H2L) (*E ox*1/2 = 0.91 V *vs* NHE). Both exhibit a luminescence emission peak at 610 nm, corresponding to energy the gap (2.04 eV) between PS\* and PS. The energy difference ΔE between PS\* and PS<sup>+</sup> is 0.91–2.04 = –1.13 eV, which is sufficiently negative to reduce both PW9V<sup>3</sup> (*RPOM,1*, 0.61 V; *RPOM,2*, 0.20 V; *RPOM,3*, –0.38 V; *RPOM,4*, –0.80 *vs* NHE; POM = polyoxometallate) and FeIII species (*RFe*, 0.70 V *vs* NHE), suggesting that the V<sup>V</sup> in PW9V<sup>3</sup> and/or FeIII in [(bpy)Fe(OH)(H2O)3] 2+ moieties can be reduced to VIV and FeII, respectively. EPR confirmed the existence of VIV centers upon irradiation in the absence of CH<sup>4</sup> and O2: the typical VIV (d<sup>1</sup> , *S* = 1/2) spectra with resolution of the <sup>51</sup>V (*I* = 7/2) hyperfine interaction was observed (Figure S40). No changes in the signals for FeIII have been observed by EPR spectroscopy (Figure S40, blue line). This could be due to (i) FeII being prone to oxidation to FeIII by PS<sup>+</sup> or PW9V<sup>3</sup> (even reduced to VIV); and (ii) *RPOM,1/2* (0.61 V/0.20eV) < *RFe* (0.70 V) suggesting more facile electron-transfer to PW9V<sup>3</sup> than to Fe.
+
+![](_page_56_Figure_0.jpeg)
+
+**Figure S45.** (A) Photocurrent and (B) EIS Nyquist plots at 5000 Hz and a bias of 1.5 V in a 0.5 M Na2SO<sup>4</sup> aqueous solution of PMOF-RuFe(OH), MOF-RuFe(OH) (without PW9V3) and PMOF-Ru (without Fe). The higher photocurrent responses rely upon the higher photo-absorbance and higher charge-transfer efficiency of PMOF-RuFe(OH) under visible light. The apparent smaller radius of PMOF-RuFe(OH) implies a lower charge-transfer resistance, consistent with the higher photocurrent responses which rely on the higher photo-absorbance and higher charge-transfer efficiency.
+
+![](_page_57_Figure_0.jpeg)
+
+**Figure S46.** Photocatalytic production of H2O<sup>2</sup> by the potassium iodide spectrophotometric method over PMOF-RuFe(OH), and PMOF-Ru in the presence of O<sup>2</sup> or N<sup>2</sup> after irradiation or in the dark. The absorbance at ~350 nm after 15 min standing was detected indicating the formation of H2O2.
+
+**NOTE:** The amount of H2O<sup>2</sup> was determined by the potassium iodide spectrophotometric method. The higher the intensity, the more H2O<sup>2</sup> was produced. With the introduction of O<sup>2</sup> in presence of water (black line), more H2O<sup>2</sup> was formed over PMOF-Ru than with N<sup>2</sup> bubbling (blue line), indicating that O<sup>2</sup> is responsible for H2O<sup>2</sup> production. In addition, over PMOF-RuFe(OH) less H2O<sup>2</sup> was detected indicating that PMOF-RuFe(OH) catalyzes the decomposition of H2O2.
+
+![](_page_58_Figure_0.jpeg)
+
+**Figure S47.** H2O<sup>2</sup> reduction. (A) Linear sweep voltammetry (LSV) recorded with PMOF-RuFe(OH) and PMOF-Ru in 0.1 M H2O<sup>2</sup> and 0.5 M Na2SO<sup>4</sup> aqueous solution. (B) Fluorescent spectra for detection of •OH over PMOF-RuFe(OH) after irradiation under a O<sup>2</sup> and N<sup>2</sup> atmosphere in the presence of terephthalic acid added as a probe. The peak at ~420 nm corresponds to the formation 2 hydroxyterephthalic acid, confirming the production of •OH radical.<sup>53</sup> A stronger fluorescent signal with O<sup>2</sup> than that with N<sup>2</sup> in DMF-H2O solution over PMOF-RuFe(OH) shows that both O<sup>2</sup> and H2O are responsible for generating •OH radical.
+
+![](_page_59_Figure_0.jpeg)
+
+A
+
+**Figure S48.** (A) Reaction profiles for adsorption and photo-activation of CH<sup>4</sup> to •CH<sup>3</sup> obtained from DFT calculations. Adsorption of CH<sup>4</sup> can lower the dissociation energy of the C-H bond with an activation energy of -0.2 kJ∙mol-1 , and this reduces the energy barrier significantly compared to the non-catalytic route. Binding of CH<sup>4</sup> to the active mono-iron-hydroxyl sites lowers the activation barrier for the C-H bonds in comparison to those on the bpy ligands. (B) View of the distances of Fe-CC-O/C=O and Fe-OH∙∙∙CC-O/C=O in PMOF-RuFe(OH). Because both the [Fe-OH] site and the ligand are immobilised within the structure, the closest Fe∙∙∙CC-O/C=O and Fe-OH∙∙∙CC-O/C=O distances are greater than 4.7 Å, thus preventing the C-O and C=O bonds interacting with the active site. The distance between the [Fe-OH] site and C-H groups in the ligand (Fe−OH···Cbpy = 2.906 Å) is notably longer than that of adsorbed CH<sup>4</sup> on [Fe-OH] sites (Fe−OH···CH<sup>4</sup> = 2.39 Å).Thus, adsorption of CH<sup>4</sup> on [Fe-OH] sites significantly reduces the activation barrier and promotes oxidation.
+
+![](_page_60_Figure_0.jpeg)
+
+**Figure S49.** Photo-oxidation of CD<sup>4</sup> over PMOF-RuFe(OH) in batch mode. The solution was analyzed by (A) GC (FID) trace of the liquid product (without extraction; 1,4-dioxane used as an internal standard; FID, column: HP-5). (B) GC-MS of the original liquid solution and the corresponding mass spectrum. (C) Mass spectra of CD3OH and CD3OD from the database. The coexistence of CD3OH and CD3OD is due to H/D exchange in water solvent. Total amount of deuterated methanol products is 210 μmol, showing a value for the kinetic isotope effect of 3.0.
+
+![](_page_61_Figure_0.jpeg)
+
+**Figure S50.** Proposed mechanism for the production of CH3OH by photo-oxidation of CH<sup>4</sup> over PMOF-RuFe(OH) catalyst.
+
+**NOTE:** The cycle for activation of CH<sup>4</sup> activation is proposed by experiments combined with theoretical calculations. [(bpy)Fe(OH)(H2O)3∙∙∙CH4] 2+ (**2**) is oxidised to [(bpy)Fe(OH)(H2O)3∙∙∙CH4] 3+ **(3)** upon the transfer of one-electron to PS<sup>+</sup> . According to the spin population analysis of **3**, the oxidation process likely occurs on the {bpy} fragment to form bpy<sup>+</sup> rather than oxidation of Fe3+ to Fe4+. This is consistent with the *in situ* EPR experiments that do not detect any Fe4+ species. In addition, for the transition state (TS, **4**), the Fe centre is in +3 oxidation state. Calculation of the barrier to C-H activation on the [Fe(III)-OH] site without any electron transfer (i.e. under dark conditions) does not reach any meaningful result, indicating that, according to DFT, a one-electron oxidation is required for the activation of CH<sup>4</sup> to proceed.
+
+![](_page_62_Figure_0.jpeg)
+
+**Figure S51.** *In operando* diffuse reflectance infrared Fourier transform spectroscopy (DRIFTs) spectra of PMOF-RuFe(OH) loaded with CH3OH vapor (black curve) and then purged N<sup>2</sup> to remove free and weakly adsorbed CH3OH at room temperature. The absence of C-H stretching after N<sup>2</sup> purging indicates the absence of strong binding sites of CH3OH on PMOF-RuFe(OH).
+
+![](_page_63_Figure_0.jpeg)
+
+**Figure S52.** Adsorption and oxidation of CH3OH on PMOF-RuFe(OH). (A) Adsorption of CH3OH at room temperature. Conditions: 10.0 mg of sample was soaked in 3 mL of H2O containing different amounts of CH3OH. (B) Dependence of oxidation of CH3OH oxidation on reaction time. Reaction conditions: 10.0 mg of PMOF-RuFe(OH), 500 *µ*L of CH3OH, 3 mL of H2O, a balloon filled with O<sup>2</sup> (~1 atm), at 298 K under irradiation of visible light. All data were analyzed by GC with 100 *µ*L of 1,4-dioxane as standard.
+
+**NOTE:** It is well-known that CH3OH is more reactive than CH<sup>4</sup> due to its lower C−H bond energy. As seen in Figure S52B, at high concentrations, CH3OH converts rapidly to CO<sup>2</sup> owing to its rapid adsorption within the porous MOF scaffold at less than 1.5 h. However, after that the conversion is decreased because of the poor adsorption potential at low concentrations (Figure S52A), thus suppressing the CH3OH oxidation. This is also the reason that over-oxidation occurs when more CH3OH is produced. Therefore, the total amount of CH3OH in the reaction system has a remarkable influence on the reaction pathway. Selective oxidation of CH<sup>4</sup> relies upon competitive adsorption of CH<sup>4</sup> vs CH3OH, and particularly upon the rapid desorption of CH3OH from the MOF catalyst.
+
+To further study the possible presence of formic acid, we used a high concentration of CH3OH (2.5 mol/L) instead of CH<sup>4</sup> as the initial reactant, and no formic acid was observed (Figure S53A) HCO2H, s, δ = 8.4 ppm) and CO<sup>2</sup> was the main product (Figure S53B).
+
+![](_page_64_Figure_1.jpeg)
+
+**Figure S53.** A) <sup>1</sup>H NMR spectrum of the liquid phase for the photo-oxidation of CH3OH (2.5 mol/L) over PMOF-RuFe(OH) in batch mode. B) GC trace of the headspace gas detected by TCD showing CO<sup>2</sup> as the main product.
+
+![](_page_65_Figure_0.jpeg)
+
+**Figure S54.** Scheme showing the molecular diffusion into the MOF catalyst in the photo-oxidation process. The water molecules accelerate desorption of CH3OH product from the MOF, but at high concentrations retention of CH3OH in the MOF is higher and results in over-oxidation. Thus, catalysis under flow is the most appropriate methodology.
+
+**NOTE:** With increasing concentations of water, both the selectivity and yield of CH3OH increases. CH3OH can be readily eluted from the pores of the MOF by aqueous solution. Also, CH<sup>4</sup> can diffuse through the pores and bind to the iron species, displacing CH3OH from the MOF catalyst. However, when more CH3OH is produced, competitive sorption of CH<sup>4</sup> *vs* CH3OH occurs and this is followed by over-oxidation. Low concentrations of CH3OH minimize the over-oxidation of CH<sup>4</sup> to CO2. 54,55
+
+![](_page_66_Figure_0.jpeg)
+
+**Figure S55.** Proposed mechanisms for the conversion of CH<sup>4</sup> to CH3OH over di-iron centers in soluble methane monooxygenase **(**sMMO) and its model catalysts based on literature examples. 56-58
+
+#### **Supplementary Tables**
+
+| Samples       | Zr<br>[wt%]                                       | Fe<br>[wt%]                                                               | Ru<br>[wt%] | W<br>[wt%] | V<br>[wt%] | C<br>[wt%] | H<br>[wt%] | N<br>[wt%] |
+|---------------|---------------------------------------------------|---------------------------------------------------------------------------|-------------|------------|------------|------------|------------|------------|
+| PMOF-RuFe(OH) |                                                   |                                                                           |             |            |            |            |            |            |
+| [Calculated]  | 13.5                                              | 2.6                                                                       | 0.7         | 4.1        | 0.4        | 22.6       | 5.1        | 4.4        |
+| [Found]       | 13.6                                              | 2.6                                                                       | 0.7         | 4.6        | 0.4        | 22.9       | 5.0        | 4.8        |
+| Formulae      |                                                   | (PW9V3)0.1@Zr6O6.1(OH)1.9(H2O)0.24(bpydc)3.7[(bpydc)Fe(OH)(H2O)3]1.9L0.28 |             |            |            |            |            |            |
+| PMOF-Ru       |                                                   |                                                                           |             |            |            |            |            |            |
+| [Calculated]  | 16.4                                              | -                                                                         | 0.9         | 5.0        | 0.5        | 44.6       | 3.4        | 5.4        |
+| [Found]       | 16.7                                              | -                                                                         | 0.9         | 5.1        | 0.5        | 44.7       | 3.8        | 5.7        |
+| Formulae      | (PW9V3)0.1@Zr6O4.2(OH)3.8(H2O)0.24(bpydc)5.6L0.28 |                                                                           |             |            |            |            |            |            |
+| PMOF-RuFe(Cl) |                                                   |                                                                           |             |            |            |            |            |            |
+| [Calculated]  | 14.7                                              | 2.8                                                                       | 0.7         | 4.5        | 0.4        | 43.6       | 4.5        | 4.9        |
+| [Found]       | 14.6                                              | 2.8                                                                       | 0.7         | 4.5        | 0.4        | 44.0       | 4.7        | 4.7        |
+| Formulae      |                                                   | (PW9V3)0.1@Zr6O6.1(OH)1.9(H2O)0.24(bpydc)3.7[(bpydc)FeCl2(THF)2]1.9L0.28  |             |            |            |            |            |            |
+| MOF-Ru        |                                                   |                                                                           |             |            |            |            |            |            |
+| [Calculated]  | 18.5                                              | -                                                                         | 1.0         | -          | -          | 36.5       | 4.2        | 6.2        |
+| [Found]       | 18.7                                              | -                                                                         | 1.0         | -          | -          | 36.4       | 4.1        | 6.9        |
+| Formulae      |                                                   | Zr6O4.6(OH)3.4(bpydc)5.7L0.3                                              |             |            |            |            |            |            |
+| MOF-RuFe(Cl)  |                                                   |                                                                           |             |            |            |            |            |            |
+| [Calculated]  | 13.8                                              | 4.2                                                                       | 0.8         | -          | -          | 46.0       | 4.8        | 4.7        |
+| [Found]       | 13.3                                              | 4.2                                                                       | 0.7         | -          | -          | 46.5       | 5.1        | 4.3        |
+| Formulae      |                                                   | Zr6O7.3(OH)0.7(bpydc)2.7[(bpydc)FeCl2(THF)2]3L0.3                         |             |            |            |            |            |            |
+| MOF-RuFe(OH)  |                                                   |                                                                           |             |            |            |            |            |            |
+| [Calculated]  | 12.6                                              | 3.9                                                                       | 0.7         | -          | -          | 21.5       | 5.8        | 4.3        |
+| [Found]       | 12.3                                              | 3.9                                                                       | 0.6         | -          | -          | 21.0       | 6.0        | 4.3        |
+| Formulae      |                                                   | Zr6O8(bpydc)2.7[(bpydc)Fe(OH)(H2O)3]3L0.3                                 |             |            |            |            |            |            |
+
+**Table S1.** Elemental analyses of the MOF samples.
+
+| MOFs          | n(Zr/W) |         |       | n(Zr/Ru) |          |       | n(Zr/Fe) |         |       |
+|---------------|---------|---------|-------|----------|----------|-------|----------|---------|-------|
+|               | EDX     | ICP     | Calc. | EDX      | ICP      | Calc. | EDX      | ICP     | Calc. |
+| POMF-RuFe(OH) | 6.5±0.9 | 6.6±0.6 | 6.6   | 23.4±1.8 | 22.7±0.9 | 21.4  | 3.1±0.8  | 3.1±0.2 | 3.1   |
+| PMOF-Ru       | 6.7±1.3 | 6.6±0.8 | 6.6   | 22.2±1.4 | 21.4±0.8 | 20.6  | -        | -       | -     |
+| PMOF-RuFe(Cl) | 6.5±0.7 | 6.7±0.4 | 6.6   | 21.4±1.4 | 21.2±0.6 | 21.3  | 3.4±0.4  | 3.1±0.1 | 3.2   |
+| MOF-Ru        | -       | -       | -     | 19.6±0.7 | 20.1±0.5 | 20.4  | -        | -       | -     |
+| MOF-RuFe(Cl)  | -       | -       | -     | 20.0±0.4 | 19.9±0.8 | 19.5  | 1.7±0.3  | 1.9±0.1 | 2.0   |
+| MOF-RuFe(OH)  | -       | -       | -     | 20.6±0.6 | 21.0±0.6 | 20.7  | 1.9±0.3  | 1.9±0.1 | 1.9   |
+
+**Table S2**. Comparison of ICP-OES results and elemental analyses by EDX of MOF products.
+
+| Samples                       | a<br>SBET<br>(m2<br>-1<br>∙g<br>) | b<br>Smicro<br>(m2<br>-1<br>∙g<br>) | c<br>Sext<br>(m2<br>-1<br>∙g<br>) | d<br>Vmicro<br>(cm3<br>-1<br>∙g<br>) | e<br>Vmeso<br>(cm3<br>-1<br>∙g<br>) | e<br>Dmeso<br>(nm) |
+|-------------------------------|-----------------------------------|-------------------------------------|-----------------------------------|--------------------------------------|-------------------------------------|--------------------|
+| PMOF-RuFe(OH)                 | 684.3                             | 220.6                               | 468.7                             | 0.33                                 | 0.11                                | 4.0                |
+| PMOF-RuFe(OH) after catalysis | 610.0                             | 123.9                               | 485.7                             | 0.29                                 | 0.05                                | 4.1                |
+| PMOF-Ru                       | 2074                              | 1374                                | 698.3                             | 0.73                                 | 0.54                                | 4.3                |
+| PMOF-RuFe(Cl)                 | 1034                              | 483.6                               | 550.7                             | 0.25                                 | 0.39                                | 3.9                |
+| MOF-Ru                        | 3181                              | 2432                                | 749.2                             | 1.25                                 | 0.54                                | 4.0                |
+| MOF-RuFe(Cl)                  | 1379                              | 441.5                               | 937.3                             | 0.66                                 | 0.22                                | 4.0                |
+| MOF-RuFe(OH)                  | 1081                              | 711.7                               | 361.8                             | 0.27                                 | 0.27                                | 4.3                |
+
+**Table S3.** Specific surface areas of MOF catalysts determined from N<sup>2</sup> sorption isotherms.
+
+*<sup>a</sup>*BET surface area.
+
+*<sup>b</sup>*Microporous surface area.
+
+*<sup>c</sup>*External surface area.
+
+*<sup>d</sup>*Micropore volume.
+
+*<sup>e</sup>*Mesopore volume and mean pore diameter evaluated by the BJH method from the adsorption branches of isotherms.
+
+| PMOF-RuFe(OH)  |       |                   |       |
+|----------------|-------|-------------------|-------|
+| Fe signal      |       | V signal          |       |
+| Electron Spin  | 5/2   | Electron Spin     | 1/2   |
+| gx             | 2.15  | gx,y              | 1.986 |
+| gy             | 2.06  | gz                | 1.949 |
+| gx             | 2.05  | Axy (G)           | 73.0  |
+| E/Db           | 0.282 | Az<br>(G)         | 185.5 |
+| Linewidth (mT) | 30    | Linewidth (mT)    | 6     |
+| PMOF-RuFe(Cl)  |       |                   |       |
+| Fe signal      |       | V signal (Silent) |       |
+| Electron Spin  | 5/2   | Electron Spin     | -     |
+| gx             | 2.10  | gx,y              | -     |
+| gy             | 2.03  | gz                | -     |
+| gx             | 1.90  | Axy (G)           | -     |
+| E/Db           | 0.230 | Az<br>(G)         | -     |
+| Linewidth (mT) | 30    | Linewidth (mT)    | -     |
+| MOF-RuFe(OH)   |       |                   |       |
+| Fe signal      |       | V signal (Silent) |       |
+| Electron Spin  | 5/2   | Electron Spin     | -     |
+| gx             | 2.10  | gx,y              | -     |
+| gy             | 2.08  | gz                | -     |
+| gx             | 1.93  | Axy (G)           | -     |
+| E/Db           | 0.230 | Az<br>(G)         | -     |
+| Linewidth (mT) | 30    | Linewidth (mT)    | -     |
+
+**Table S4.** EPR spectroscopic parameters for PMOF-RuFe(OH), PMOF-RuFe(Cl) and MOF-RuFe(OH).*<sup>a</sup>*
+
+*<sup>a</sup>*Linewidth is the homogeneous Lorentzian linewidth, *g* and A are the principle values of the *g* and <sup>51</sup>V hyperfine interaction tensors, respectively.
+
+*<sup>b</sup>*The zero-field splitting parameters *D<sup>x</sup>* , *D<sup>y</sup>* , and *Dz*, where *D<sup>x</sup>* <sup>2</sup> + *D<sup>y</sup>* <sup>2</sup> + *D<sup>z</sup>* <sup>2</sup> = 0, can be expressed as an axial (*D*) and rhombic (*E*) term: *D* = 3*D*z/2 and *E* = (*D<sup>x</sup>* – *Dy*)/2. The form of the high-spin Fe(III), *S* = 5/2 EPR spectra are such that |*D*| must be much larger than the microwave energy. In this regime, the spectra are still very sensitive to the ratio *E*/*D*, also known as the rhombicity parameter *η* = *E/D* with 0 ≤ η ≤ 1/3.
+
+**NOTE:** EPR spectra show signals for VIV generated in axially distorted tetragonally octahedral VIVO<sup>6</sup> (*C*4v) units in PMOF-RuFe(OH). PMOF-RuFe(OH) is obtained after photo-activation of PMOF-RuFe(Cl) in water. <sup>59</sup> The presence of VIV is also confirmed by XPS (Figure S8B) and V K-edge XAS results (Figure S16). The absence of any other signals in the EPR spectra of PMOF-RuFe(OH) is consistent with WVI in PW9V<sup>3</sup> and low-spin d<sup>6</sup> RuII in [Ru(bpy)2(H2bpydc)]2+ being EPR-silent. XPS spectra confirming the presence of these species (Figures S8C,D).
+
+| Sample                       | PMOF-RuFe(OH) as synthesized | PMOF-RuFe(OH) after catalysis |
+|------------------------------|------------------------------|-------------------------------|
+| Fragment                     | (bpy)Fe(OH)(H2O)3            | (bpy)Fe(OH)(H2O)3             |
+| Fitting range                | k 2.6–9.8 Å-1<br>R 1.0–4.0 Å | k 2.6–9.8 Å-1<br>R 1.2–4.0 Å  |
+| Independent points           | 13.5                         | 13.1                          |
+| Variables                    | 8                            | 8                             |
+| R-factor                     | 0.010                        | 0.025                         |
+| 2<br>S0                      | 0.595                        | 0.841                         |
+| ΔE0<br>(eV)                  | 0.91                         | 7.98                          |
+| R (Fe–OOH) (Å)               | 1.78±0.09 (×1a<br>)          | 1.78±0.14 (×1a<br>)           |
+| 2<br>(Fe–OOH) (Å2<br>σ<br>)  | 0.0023±0.0008                | 0.0013±0.0005                 |
+| R (Fe–OH2O) (Å)              | 2.17±0.09 (×3a<br>)          | 2.17±0.14 (×3a<br>)           |
+| 2<br>(Fe–OH2O) (Å2<br>σ<br>) | 0.0023±0.0008                | 0.0013±0.0005                 |
+| R (Fe–Nbpy) (Å)              | 2.10±0.10 (×1a<br>)          | 2.10±0.03 (×1a<br>)           |
+| 2<br>(Fe–Nbpy) (Å2<br>σ<br>) | 0.003±0.002                  | 0.0045±0.0008                 |
+| R (Fe–Nbpy) (Å)              | 2.16±0.10 (×1a<br>)          | 2.16±0.03 (×1a<br>)           |
+| 2<br>(Fe–Nbpy) (Å2<br>σ<br>) | 0.003±0.002                  | 0.0045±0.0008                 |
+| R (Fe–Cbpy) (Å)              | 2.99±0.04 (×2a<br>)          | 2.99±0.01 (×2a<br>)           |
+| 2<br>(Fe–Cbpy) (Å2<br>σ<br>) | 0.008±0.005                  | 0.012±0.001                   |
+| R (Fe–Cbpy) (Å)              | 3.05±0.04 (×1a<br>)          | 3.04 ±0.01 (×1a<br>)          |
+| 2<br>(Fe–Cbpy) (Å2<br>σ<br>) | 0.008±0.005                  | 0.012±0.001                   |
+| R (Fe–Cbpy) (Å)              | 3.15±0.04 (×1a<br>)          | 3.15±0.01 (×1a<br>)           |
+| 2<br>(Fe–Cbpy) (Å2<br>σ<br>) | 0.008±0.005                  | 0.012±0.001                   |
+
+**Table S5.** Summary of EXAFS fitting parameters on the Fe site of PMOF-RuFe(OH).
+
+*a*The number in bracket is the coordination number according to the structural model.
+
+| Sample                                   |                                | as synthesized                      |                        | Sample              |                        | after catalysis                          |                        |  |
+|------------------------------------------|--------------------------------|-------------------------------------|------------------------|---------------------|------------------------|------------------------------------------|------------------------|--|
+| Fitting range                            |                                | 3.0–10.0 Å-1<br>k<br>R<br>1.0–4.0 Å | ,                      | Fitting range       |                        | 3.0–10.0 Å-1<br>k<br>,<br>R<br>1.0–4.0 Å |                        |  |
+| Independent points                       |                                | 13                                  |                        | Independent points  |                        | 13                                       |                        |  |
+| Variables                                |                                | 7                                   |                        | Variables           |                        | 7                                        |                        |  |
+| R-factor                                 |                                | 0.016                               |                        | R-factor            |                        | 0.016                                    |                        |  |
+| 2<br>S0                                  |                                | a<br>1                              |                        | 2<br>S0             |                        | a<br>1                                   |                        |  |
+| ΔE0<br>(eV)                              |                                | −1.61                               |                        | ΔE0<br>(eV)         |                        | −5.50                                    |                        |  |
+| VV<br>site in PW9V3                      |                                | VIV site in PW9V3                   |                        | VV<br>site in PW9V3 |                        | VIV site in PW9V3                        |                        |  |
+| Percentage                               | 83.7%                          | Percentage                          | 16.3%                  | Percentage          | 78.1%                  | Percentage                               | 219%                   |  |
+| R (V–O5)<br>(Å)                          | 1.61±0.26<br>(×1b<br>)         | R (V–O5)<br>(Å)                     | 1.98±0.26<br>(×5b<br>) | R (V–O5)<br>(Å)     | 1.61±0.29<br>(×1b<br>) | R (V–O5)<br>(Å)                          | 1.98±0.29<br>(×5b<br>) |  |
+| R (V–O17)<br>(Å)                         | 1.82±0.26<br>(×1b<br>)         | R (V–O1)<br>(Å)                     | 2.38±0.26<br>(×1b<br>) | R (V–O17)<br>(Å)    | 1.82±0.29<br>(×1b<br>) | R (V–O1)<br>(Å)                          | 2.38±0.29<br>(×1b<br>) |  |
+| R (V–O18)<br>(Å)                         | 1.86±0.26<br>(×1b<br>)         | R (V–V)<br>(Å)                      | 2.79±0.10<br>(×2b<br>) | R (V–O18)<br>(Å)    | 1.86±0.29<br>(×1b<br>) | R (V–V)<br>(Å)                           | 2.79±0.09<br>(×2b<br>) |  |
+| R (V–O19)<br>(Å)                         | 1.90±0.26<br>(×1b<br>)         | R (V–W)<br>(Å)                      | 3.38±0.06<br>(×2b<br>) | R (V–O19)<br>(Å)    | 1.90±0.29<br>(×1b<br>) | R (V–W)<br>(Å)                           | 3.38±0.05<br>(×2b<br>) |  |
+| R (V–O20)<br>(Å)                         | 1.95±0.26<br>(×1b<br>)         |                                     |                        | R (V–O20)<br>(Å)    | 1.95±0.29<br>(×1b<br>) |                                          |                        |  |
+| R (V–O1)<br>(Å)                          | 2.44±0.26<br>(×1b<br>)         |                                     |                        | R (V–O1)<br>(Å)     | 2.44±0.29<br>(×1b<br>) |                                          |                        |  |
+| R (V–V)<br>(Å)                           | 2.76±0.10<br>(×2b<br>)         |                                     |                        | R (V–V)<br>(Å)      | 2.76±0.09<br>(×2b<br>) |                                          |                        |  |
+| R (V–W)<br>(Å)                           | 3.39±0.06<br>(×2b<br>)         |                                     |                        | R (V–W)<br>(Å)      | 3.39±0.05<br>(×2b<br>) |                                          |                        |  |
+| 2<br>σ                                   | (V–O) (Å2<br>)<br>0.004±0.0007 |                                     |                        | 0.006±0.0009        |                        |                                          |                        |  |
+| 2<br>(V–V) (Å2<br>σ<br>)<br>0.002±0.0005 |                                |                                     |                        | 0.002±0.0007        |                        |                                          |                        |  |
+| 2<br>(V–W) (Å2<br>σ                      | )                              | 0.009±0.004                         |                        | 0.009±0.004         |                        |                                          |                        |  |
+
+**Table S6.** Summary of EXAFS fitting parameters on the V site of PMOF-RuFe(OH).
+
+*<sup>a</sup>*The amplitude factor *S*<sup>0</sup> <sup>2</sup> was set to 1.
+
+*b*The number in bracket is the coordination number according to the structural model.
+
+|       |                                      |       | Selectivity (%) |     |      | Yield of CH3OH |         |
+|-------|--------------------------------------|-------|-----------------|-----|------|----------------|---------|
+| Entry | Catalyst                             | CH3OH | CO              | CO2 | CxHy | (µmol)b        | Fe-TONc |
+| 1     | No catalyst                          | 0     | 0               | 0   | 0    | 0              | -       |
+| 2     | PMOF-RuFe(Cl)d                       | >97   | 0               | 0   | 0    | 557±52         | 111±10  |
+| 3     | PMOF-RuFe(OH)                        | 98    | 0               | 2   | 0    | 629±68         | 135±16  |
+| 4     | e<br>PMOF-RuFe(OH) (without CH4)     | 0     | 0               | 0   | 0    | 0              | -       |
+| 5     | PMOF-RuFe(OH) (in dark)f             | 0     | 0               | 0   | 0    | 0              | -       |
+| 6     | PMOF-RuFe(OH) (at 100 oC)g           | NAh   | -               | -   | -    | < 0.2          | -       |
+| 7     | UiO-mixRu (MOF-Ru)                   | NA    | -               | -   | 0    | 0.5±0.1        | -       |
+| 8     | UiO-mixRuFe(OH) (MOF<br>RuFe(OH))    | 17    | 51              | 32  | 0    | 7.6±0.6        | 1.1±0.1 |
+| 9     | PW9V3@UiO-mixRu (PMOF-Ru)i           | 54    | 12              | -   | 0    | 6.2±1.3        | -       |
+| 10    | PW9V3@UiO-mixFe(OH)<br>(PMOF-Fe(OH)) | 34    | -               | -   | 66   | 8.7            | 1.6     |
+| 11    | j<br>PW9V3, H2L, FeCl3               | 75    | 5               | 8   | 2    | 51±15          | 11±3    |
+| 12    | j<br>UiO-mixRuFe(OH), PW9V3          | 90    | -               | 3   | 0    | 20±1           | 2.8±0.2 |
+| 13    | FeCl3, PW9V3@UiO-mixRuj              | 90    | 5               | 2   | 3    | 81±4           | 18±1    |
+| 14    | PW9V3@UiO-mixFe(OH), H2L             | 82    | 0               | 18  | 0    | 10±1           | 1.7±0.2 |
+| 15    | Fe2O3                                | 14e   | -               | 86e | 0    | <0.1           | -       |
+| 16    | Fe2O3/PMOF-Ru                        | 19    | -               | 81  | 0    | 7.8±0.4        | 1.6±0.1 |
+
+**Table S7.** Summary of catalytic data on photo-oxidation of CH4. *a*
+
+*<sup>a</sup>*Reaction conditions: 10.0 mg of catalysts, 3 mL of H2O, a mixture of CH<sup>4</sup> and O<sup>2</sup> (~1 atm), 298 K, visible light irradiation for 20 h. All error bars represent the standard deviation from three independent tests.
+
+*<sup>b</sup>*Yield of CH3OH was determined by GC with 1,4-dioxane as the internal standard.
+
+*<sup>c</sup>*Fe-TON is defined as the number of molecules of methanol (nMeOH) produced per iron active site.
+
+*<sup>d</sup>*CH3Cl can be detected.
+
+*<sup>e</sup>*Without CH4.
+
+*<sup>f</sup>*Without light.
+
+*<sup>g</sup>*Heating at 100<sup>o</sup>C without light.
+
+*<sup>h</sup>*NA = not accurate. No product was detected due to the low activity.
+
+*<sup>i</sup>*Formaldehyde was detected in the liquid product.
+
+*j* 4.7 *µ*mol of FeCl3, 0.6 *µ*mol of H2L and 0.3 *µ*mol of PW9V<sup>3</sup> were loaded as catalysts, consistent with content of PMOF-RuFe(OH).
+
+|                           |          | P     | T        | Time | CH3OH<br>time yield           | CH3OH       |      |
+|---------------------------|----------|-------|----------|------|-------------------------------|-------------|------|
+| Catalysts                 | Oxidant  | (bar) | oC)<br>( | (h)  | -1<br>∙h-1<br>(µmol∙gcat<br>) | Select. (%) | Ref  |
+| PMOF-RuFe(OH) (batch)     | O2 + H2O | ~1    | r.t.     | 2    | 3485<br>± 120                 | 100         | This |
+|                           | O2 + H2O | ~1    | r.t.     | 20   | 3145 ± 340                    | 98          | work |
+| PMOF-RuFe(OH) (flow)      | O2 + H2O | ~1    | r.t.     | 120  | 8810<br>± 340                 | 100         | This |
+|                           |          |       |          |      |                               |             | work |
+| 0.1 wt % Au/ZnO           | O2       | 20    | r.t.     | 2    | 2060a                         | 15.7        | 54   |
+| 0.1 wt % Pd/ZnO           | O2       | 20    | r.t.     | 2    | 3035a                         | 26.2        |      |
+| 0.1 wt % Pt/ZnO           | O2       | 20    | r.t.     | 2    | 2225a                         | 19.1        |      |
+| 30CW (C3N4-Cs0.33WO3)     | O2       | 1     | r.t.     | 4    | 4.375                         | 38.1        | 60   |
+| 4.51%VOx/SBA-15           | O2       | -     | 220      | 5    | 4.4b                          | 1.4         | 61   |
+| 0.23wt% Mo/TiO2           | O2       | 1     | 60       | 0.5  | 12.5                          | 1.4         | 62   |
+| Bi2WO6                    | H2O      | ~1    | 55       | 2    | 15                            | 27.6        | 63   |
+| q-BiVO4<br>(10 mL of H2O) | O2       | 10    | 25       | 3    | 971                           | 62.8        | 55   |
+| q-BiVO4<br>(10 mL of H2O) | O2       | 10    | 25       | 3    | 370                           | 96.6        |      |
+| BiVO4                     | H2O      | ~1    | 55       | 2    | 21                            | 48          |      |
+| BiVO4<br>thick platelet   | H2O      | ~1    | r.t.     | 2    | 79.2                          | 85.7        | 64   |
+| BiVO4<br>bipyramids       | H2O      | ~1    | r.t.     | 2    | 111.9                         | 85          |      |
+| commercial V2O5           | H2O      | ~1    | 70       | 2    | 2.0                           | 100         | 65   |
+| V-HBEA                    | H2O      | ~1    | 70       | 2    | 11.3                          | 85.4        |      |
+| Bi-V-HBEA                 | H2O      | ~1    | 70       | 2    | 10.7                          | 100         |      |
+| Cu-0.5/PCN                | H2O      | ~1    | r.t.     | 1    | 5.5c                          | 12.8        | 66   |
+| WO3/La                    | H2O      | 1     | 55       | 2    | 29.0                          | 46          | 67   |
+| WO3/Fe3+ (2mM)            | H2O      | 1     | 55       | 2    | 55.5                          | 37.4        | 68   |
+| WO3/Cu2+ (0.1mM)          | H2O      | 1     | 55       | 2    | 46.0                          | 38.4        |      |
+| WO3/Ag+<br>(2mM)          | H2O      | 1     | 55       | 2    | 16.8                          | 11.8        |      |
+| WO3                       | H2O      | 1     | 55       | 2    | 5.1                           | 22          |      |
+| WO3-2                     | H2O      | 1     | 55       | 2    | 27.5                          | 46          |      |
+| Au1/BP                    | O2       | 30    | 90       | 2    | 56.8                          | 99          | 69   |
+| Au-Pd/TiO2                | O2       | 40    | 52.3     | 1    | 12600                         | 42.3        | 70   |
+| 0.12metal wt%AuO/TiO2     | H2O2     | ~1    | r.t.     | 3    | 53.3                          | 32          | 31   |
+| 0.33metal wt%Cu2O/TiO2    | H2O2     | ~1    | r.t.     | 3    | 6.7                           | 3           |      |
+| 0.47wt%Fe2O3/TiO2         | H2O2     | ~1    | r.t.     | 3    | 357                           | 89          |      |
+| 0.33metal wt%FeOx /TiO2   | H2O2     | ~1    | r.t.     | 3    | 360                           | 79          |      |
+| 0.6 umol FeCl2            | H2O2     | ~1    | r.t.     | 3    | 1.3                           | 20          |      |
+| pristine m-WO3            | H2O2     | ~1    | r.t.     | 4    | 19.8                          | 25          | 71   |
+| 1.98% FeOOH/m-WO3         | H2O2     | ~1    | r.t.     | 4    | 211.2                         | 91          |      |
+| g-CN AM1.5G               | H2O2     | 30    | 35       | 2    | 140                           | 63          | 72   |
+| Imp-V/MCM-41(acid)        | NO       | 0.005 | 22       | 3    | 11.3                          | 88.4        | 73   |
+| Imp-V/MCM-41(base)        | NO       | 0.005 | 22       | 3    | 3.0                           | 74.7        |      |
+| V-MCM-41                  | NO       | 0.005 | 22       | 3    | 9.5                           | 87.6        |      |
+
+**Table S8.** Comparison of the reported catalysts for photo-oxidation of CH<sup>4</sup> to CH3OH.
+
+*<sup>a</sup>*The values of all liquid products are 12545, 10615 and 10610 *µ*mol∙gcat -1 ∙h -1 over 0.1 wt % Au/ZnO, 0.1 wt % Pd/ZnO and 0.1 wt % Pt/ZnO, respectively. *<sup>b</sup>*246 *µ*mol∙gcat -1 ∙h -1 for time yield of HCHO. *<sup>c</sup>*21 *µ*mol∙gcat -1 ∙h -1 for time yield of ethanol.
+
+| Catalysts                    | Oxidant      | P(bar) | T (oC) | Condition   | CH3OH time yield<br>-1  | Ref       |
+|------------------------------|--------------|--------|--------|-------------|-------------------------|-----------|
+|                              |              |        |        |             | ∙h-1<br>(µmol∙gcat<br>) |           |
+| PMOF-RuFe(OH)                | O2 + H2O     | ~1     | r.t.   | flow(light) | 8810<br>± 340           | This work |
+| Cu-NU-1000                   | O2           | 1      | 200    | loop        | 17.7                    | 74        |
+| Cu-2.9-NU-1000               | O2           | 1      | 200    | loop        | 1.5                     | 75        |
+| Cu-2.9-NU-1000               | O2           | 40     | 200    | loop        | 6.5                     |           |
+| MOF-808-Bzz-Cu               | N2O          | 1      | 150    | loop        | 71.8 ± 23.4             | 76        |
+| MIL-53(Al,Fe)                | H2O2         | 30.5   | 50     | batch       | 450                     | 77        |
+| UiO-66(2.5TFA)-Fe            | H2O2         | 30     | 50     | batch       | 259                     | 78        |
+| pMMO                         | Duroquinol 1 |        | 45     | batch       | 1380                    | 79        |
+| FeN4/GNa                     | H2O2         | 20     | 25     | batch       | 236b                    | 80        |
+| Cu-CHA                       | O2 + H2O     | 1      | 300    | loop        | 195                     | 81        |
+| Cu-Y                         | O2           | 33     | 200    | loop        | 0.8                     | 82        |
+| Cu-SSZ-16                    | O2           | 1      | 200    | loop        | 32.5                    | 83        |
+| Cu-ZSM-5                     | O2           | ~110   | 210    | loop        | 982                     | 84        |
+| Cu-MOR                       | O2           | 6      | 200    | loop        | 24                      | 85        |
+| Cu-MOR                       | H2O          | 7      | 200    | loop        | 35                      | 86        |
+| FeZSM-5                      | N2O          | 1      | 160    | flow        | 53.3                    | 87        |
+| Fe-ZSM-5                     | N2O          | 0.5c   | 160    | loop        | 116                     | 88        |
+| 0.3 wt% Rh/ ZrO2             | H2O2         | 30     | 70     | batch       | 36                      | 89        |
+| 1 wt% Cr/TiO2                | H2O2         | 30     | 50     | batch       | 4390                    | 90        |
+| Cu-ERI                       | O2           | 30     | 300    | loop        | 294                     | 91        |
+| Fe-ZSM-5                     | air          | 15     | 30     | batch       | 880                     | 92        |
+| AuPd@ZSM-5-C16               | O2           | 30     | 70     | batch       | 4720d                   | 93        |
+| Au-Pd colloids               | O2+H2O2      | 30     | 50     | batch       | 152d                    | 94        |
+| 5wt%Au-Pd/TiO2               | O2           | 30.5   | 50     | batch       | 320                     | 95        |
+| RuxCu1-x<br>ILs/ SiO2-200    | O2           | 30     | 50     | batch       | 75.3                    | 96        |
+| IrO2/CuO                     | air          | 20     | 150    | batch       | 646                     | 97        |
+| FeSO4+1% Pd/C                | H2O2         | 15     | 20     | batch       | 94.3                    | 98        |
+| Fe2(SO4)3<br>+1% Pd/C        | H2O2         | 15     | 20     | batch       | 113                     |           |
+| FeCl2+1% Pd/C                | H2O2         | 15     | 20     | batch       | 124                     |           |
+| FeCl3+1% Pd/C                | H2O2         | 15     | 20     | batch       | 97                      |           |
+| 0.5wt% Rh-ZSM-5              | O2<br>+ CO   | 20     | 150    | batch       | 1224                    | 99        |
+| Fe-silicalite-1              | H2O2         | 30.5   | 50     | batch       | 1326                    | 100       |
+| 0.5wt%Fe3+/ZSM-5             | H2O2         | 30.5   | 50     | batch       | 1481                    |           |
+| [VO(EtO)(EtOH)]2(L)e         | H2O2         | 20     | 50     | batch       | 23.4                    | 101       |
+| [CuICuICuI<br>(7-N-Etppz)]1+ | O2           | 10     | r.t.   | batch       | 571.2                   | 102       |
+| CNT@PNC/Ni SAs<br>(~0.68wt%) | H2O2         | 20     | 50     | batch       | 1063                    | 103       |
+| MoO3/SiO2<br>sol/gel         | O2           | 1      | 500    | flow        | 70                      | 104       |
+
+**Table S9.** Comparison of state-of-art thermocatalysts for oxidation of CH<sup>4</sup> to CH3OH.
+
+*<sup>a</sup>*GN = graphene nanosheets. *<sup>b</sup>*The value contains all oxygenate products. *<sup>c</sup>P* = 0.5 Torr. *<sup>d</sup>*The unit is µmol∙gAuPd-1 ∙h-1 (AuPd as the active sites) rather than per gram of the catalyst. If converted for direct comparison, the time yield is 4720 and 152 *µ*mol∙gcat -1 ∙h-1 for references 93 and 94, respectively. *<sup>e</sup>*L = bis(2-hydroxybenzylidene)oxalohydrazonic acid.
+
+|        |                                                           |             | Yield (µmol)b |     |                       |
+|--------|-----------------------------------------------------------|-------------|---------------|-----|-----------------------|
+| Entry  | Solvents                                                  | Amount (mL) | CH3OH         | CO2 | CH3OH selectivity (%) |
+| 1      | No solvent                                                | 0           | 0             | 320 | 0                     |
+| 2      | Anhydrous benzenec<br>(without water)                     | 3           | 0             | 296 | 0                     |
+| 3      | Benzene<br>(ACS reagent, containing<br>~10000 ppm of H2O) | 3           | <0.3          | 222 | <0.2%                 |
+| 4      | H2O                                                       | 1           | 140           | 185 | 43                    |
+| 5      | H2O                                                       | 3           | 629           | 11  | >98                   |
+| d<br>6 | H2O                                                       | 5           | 680           | 0   | 100                   |
+
+**Table S10.** The effect of water on photocatalytic oxidation of CH<sup>4</sup> over PMOF-RuFe(OH). *a*
+
+*<sup>a</sup>*Reaction conditions: 10.0 mg of catalyst, CH<sup>4</sup> and O<sup>2</sup> (~1 atm), 298 K, visible light irradiation for 20 h.
+
+*<sup>b</sup>*The yield of liquid oxygenates was determined by GC using 1,4-dioxane as internal standard. Gaseous products were quantified by GC with TCD or FTIR.
+
+*<sup>c</sup>*Anhydrous benzene used due to its C−H bond energy (460 kJ∙mol-1 ) being higher than that of CH<sup>4</sup> (439 kJ∙mol-1 ).
+
+*<sup>d</sup>*The yield of CH3OH shows no significant increase possibly due to fewer gas/solid/liquid interfaces compared with reaction with 3 mL of water.
+
+|       |                   | Yield | (µmol)b | CH3OH selectivity (%) |
+|-------|-------------------|-------|---------|-----------------------|
+| Entry | Atmosphere        | CH3OH | CO2     |                       |
+| 1     | Only CH4          | 37    | 0       | 100                   |
+| 2     | CH4<br>+ Ar       | 35    | 0       | 100                   |
+| 3     | CH4<br>+ 1% O2/Ar | 280   | 5       | 98.3                  |
+| 4     | CH4<br>+ Air      | 607   | 10      | 98.4                  |
+| 5     | CH4<br>+ O2       | 629   | 11      | 98.3                  |
+
+**Table S11.** The effect of O<sup>2</sup> on photocatalytic oxidation of CH<sup>4</sup> over PMOF-RuFe(OH). *a*
+
+*<sup>a</sup>*Reaction conditions: 10.0 mg of catalyst, CH<sup>4</sup> and O<sup>2</sup> (~1 atm), 3 mL of H2O, 298 K, visible light irradiation for 20 h.
+
+*<sup>b</sup>*Yield of liquid oxygenates was determined by GC using 1,4-dioxane as internal standard. Gaseous products were quantified by GC with TCD.
+
+| Adducts       | g<br>factor | A14N / G | AαH / G | lw/mTb                               | Weighting |
+|---------------|-------------|----------|---------|--------------------------------------|-----------|
+| DMPO-CH3      | 2.00555     | 15.7     | 22.4    | 0.12 (Gaussian)<br>0.20 (Lorentzian) | 0.67      |
+| DMPO-OH       | 2.00570     | 15.2     | 14.5    | 0.07 (Gaussian)<br>0.09 (Lorentzian) | 0.24      |
+| a<br>DMPOdegr | 2.00545     | 16.4     |         | 0 (Gaussian)<br>0.12 (Lorentzian)    | 0.09      |
+
+**Table S12.** Simulation parameters of EPR spectroscopic spin-trapping experiments for PMOF-RuFe(OH) suspended in DMPO solution with CH4 and O<sup>2</sup> after irradiation.*<sup>a</sup>*
+
+*<sup>a</sup>*DMPOdegr is derived from the decomposition of DMPO with O<sup>2</sup> under irradiation.
+
+*<sup>b</sup>*The linewidth (lw, in mT) defines the FWHM (full width at half height) of the absorption Gaussian (first number) and Lorentzian (second number) broadening of the lines in the spectrum.
+
+|    | Atom | Charge   | Spin     |
+|----|------|----------|----------|
+| 1  | O    | -0.63167 | 0.033055 |
+| 2  | C    | -0.06579 | 0.002544 |
+| 3  | C    | -0.15923 | 0.00123  |
+| 4  | C    | 0.234405 | 0.001073 |
+| 5  | N    | -0.28567 | 0.043947 |
+| 6  | C    | -0.04645 | -0.00011 |
+| 7  | C    | -0.08991 | 0.002106 |
+| 8  | C    | 0.248574 | 0.002797 |
+| 9  | C    | -0.16248 | 0.003365 |
+| 10 | C    | -0.05713 | 0.004225 |
+| 11 | C    | -0.08839 | 0.002421 |
+| 12 | C    | -0.04349 | -0.00259 |
+| 13 | N    | -0.19387 | 0.075192 |
+| 14 | Fe   | 1.09098  | 4.451263 |
+| 15 | O    | -0.7648  | 0.295495 |
+| 16 | O    | -0.65762 | 0.029721 |
+| 17 | O    | -0.63126 | 0.033094 |
+| 18 | H    | 0.199154 | -0.00017 |
+| 19 | H    | 0.172899 | 0.000497 |
+| 20 | H    | 0.190374 | 0.000618 |
+| 21 | H    | 0.196335 | 0.00051  |
+| 22 | H    | 0.170852 | 0.000859 |
+| 23 | H    | 0.198412 | -0.0003  |
+| 24 | H    | 0.196353 | 0.000867 |
+| 25 | H    | 0.193368 | 0.001001 |
+| 26 | H    | 0.397083 | 0.000872 |
+| 27 | H    | 0.40899  | 0.001498 |
+| 28 | H    | 0.409157 | 0.001483 |
+| 29 | H    | 0.403545 | 0.000833 |
+| 30 | H    | 0.366552 | 0.010882 |
+| 31 | H    | 0.403589 | 0.000846 |
+| 32 | H    | 0.397155 | 0.000873 |
+|    |      |          |          |
+
+**Table S13**. Summary of NPA charges and spin densities of [(bpy)Fe(OH)(H2O)3] 2+ (**1** in Figure S38).
+
+**Table S14.** Summary of NPA charges and spin densities of the [(bpy)Fe(OH)(H2O)3∙∙∙CH4] 2+(**2** in Figure S38).
+
+|    | Atom | Charge               | Spin     |  |  |
+|----|------|----------------------|----------|--|--|
+| 1  | O    | -0.77427             | 0.058069 |  |  |
+| 2  | C    | -0.0915<br>0.004684  |          |  |  |
+| 3  | C    | -0.14933             | 0.002032 |  |  |
+| 4  | C    | 0.272923             | 0.003088 |  |  |
+| 5  | N    | -0.54517             | 0.083056 |  |  |
+| 6  | C    | 0.03623              | -0.00086 |  |  |
+| 7  | C    | -0.11574             | 0.003143 |  |  |
+| 8  | C    | 0.329648             | 0.002984 |  |  |
+| 9  | C    | -0.15144             | 0.004223 |  |  |
+| 10 | C    | -0.08809             | 0.009441 |  |  |
+| 11 | C    | -0.12374             | 0.003451 |  |  |
+| 12 | C    | 0.058577             | -0.00013 |  |  |
+| 13 | N    | -0.5982              | 0.135123 |  |  |
+| 14 | Fe   | 1.019258<br>4.044079 |          |  |  |
+| 15 | O    | -0.72576<br>0.511947 |          |  |  |
+| 16 | O    | -0.76286<br>0.0491   |          |  |  |
+| 17 | O    | -0.77407             | 0.058135 |  |  |
+| 18 | H    | 0.229727<br>-0.00023 |          |  |  |
+| 19 | H    | 0.208565<br>0.000909 |          |  |  |
+| 20 | H    | 0.218136<br>0.001633 |          |  |  |
+| 21 | H    | 0.222969             | 0.000778 |  |  |
+| 22 | H    | 0.208176             | 0.001473 |  |  |
+| 23 | H    | 0.230081             | -0.00043 |  |  |
+| 24 | H    | 0.223096             | 0.001547 |  |  |
+| 25 | H    | 0.231016<br>0.002639 |          |  |  |
+| 26 | H    | 0.48547<br>0.002227  |          |  |  |
+| 27 | H    | 0.490897             | 0.002369 |  |  |
+| 28 | H    | 0.491144             | 0.002342 |  |  |
+| 29 | H    | 0.485956             | 0.00103  |  |  |
+| 30 | H    | 0.470652             | 0.007811 |  |  |
+| 31 | H    | 0.485968             | 0.001042 |  |  |
+| 32 | H    | 0.485569             | 0.002232 |  |  |
+| 33 | C    | -0.65407             | 0.001127 |  |  |
+| 34 | H    | 0.184413             | 0.000184 |  |  |
+| 35 | H    | 0.141048             | -0.00019 |  |  |
+
+| 36 | H | 0.20852  | 0.000176 |
+|----|---|----------|----------|
+| 37 | H | 0.136181 | -0.00023 |
+
+| 3+ (3<br>Table S15. Summary of NPA charges and spin densities of [(bpy)Fe(OH)(H2O)3∙∙∙CH4] | in Figure |
+|--------------------------------------------------------------------------------------------|-----------|
+| S38)                                                                                       |           |
+
+|    | Atom | Charge               | Spin     |
+|----|------|----------------------|----------|
+| 1  | O    | -0.77438             | 0.064204 |
+| 2  | C    | -0.07834             | 0.102533 |
+| 3  | C    | -0.10387             | -0.18888 |
+| 4  | C    | 0.303434             | -0.09756 |
+| 5  | N    | -0.53642             | 0.076673 |
+| 6  | C    | 0.087788             | -0.12653 |
+| 7  | C    | -0.07148             | -0.21848 |
+| 8  | C    | 0.358511             | -0.09484 |
+| 9  | C    | -0.10565             | -0.19059 |
+| 10 | C    | -0.0748              | 0.106942 |
+| 11 | C    | -0.07623             | -0.21875 |
+| 12 | C    | 0.117093             | -0.129   |
+| 13 | N    | -0.5923              | 0.110549 |
+| 14 | Fe   | 1.034772             | 4.013623 |
+| 15 | O    | -0.69672             | 0.605571 |
+| 16 | O    | -0.77092             | 0.059754 |
+| 17 | O    | -0.77448             | 0.064128 |
+| 18 | H    | 0.288818             | -0.00291 |
+| 19 | H    | 0.262102             | 0.008225 |
+| 20 | H    | 0.275928             | 0.007173 |
+| 21 | H    | 0.292534             | 0.009334 |
+| 22 | H    | 0.262051             | 0.008698 |
+| 23 | H    | 0.289318<br>-0.00312 |          |
+| 24 | H    | 0.293428<br>0.009838 |          |
+| 25 | H    | 0.270775             | 0.008238 |
+| 26 | H    | 0.487927             | 0.002015 |
+| 27 | H    | 0.504243             | 0.002041 |
+| 28 | H    | 0.504249             | 0.002034 |
+| 29 | H    | 0.500158             | 0.000746 |
+| 30 | H    | 0.467808             | 0.002448 |
+| 31 | H    | 0.50013              | 0.000737 |
+| 32 | H    | 0.488011             | 0.002001 |
+| 33 | C    | -0.67002             | 0.002767 |
+
+| 34 | H | 0.23054  | 0.000243 |
+|----|---|----------|----------|
+| 35 | H | 0.232848 | 0.000439 |
+| 36 | H | 0.137505 | -0.00014 |
+| 37 | H | 0.135621 | -0.00015 |
+
+**Table S16.** Summary of NPA charges and spin densities of [(bpy)Fe(H2O)4∙∙∙•CH3] 3+ (**4** in Figure S38)
+
+|    | Atom | Charge               | Spin     |
+|----|------|----------------------|----------|
+| 1  | O    | -0.62754             | 0.026712 |
+| 2  | C    | -0.05818             | -0.0575  |
+| 3  | C    | -0.09309             | 0.102506 |
+| 4  | C    | 0.262061             | 0.107665 |
+| 5  | N    | -0.22318             | 0.058392 |
+| 6  | C    | -0.03742             | 0.030883 |
+| 7  | C    | -0.02486             | 0.19188  |
+| 8  | C    | 0.26516              | 0.086102 |
+| 9  | C    | -0.08606             | 0.127928 |
+| 10 | C    | -0.05878             | -0.06093 |
+| 11 | C    | -0.02805             | 0.182261 |
+| 12 | C    | -0.02064             | 0.063534 |
+| 13 | N    | -0.20426             | 0.050951 |
+| 14 | Fe   | 0.929101             | 4.001235 |
+| 15 | O    | -0.62444             | 0.049349 |
+| 16 | O    | -0.62891             | 0.032513 |
+| 17 | O    | -0.62703             | 0.026357 |
+| 18 | H    | 0.224457             | 0.001604 |
+| 19 | H    | 0.193887<br>-0.00298 |          |
+| 20 | H    | 0.200743<br>-0.00033 |          |
+| 21 | H    | 0.228181             | -0.00547 |
+| 22 | H    | 0.194874<br>-0.00354 |          |
+| 23 | H    | 0.224184<br>0.001563 |          |
+| 24 | H    | 0.22706              | -0.00514 |
+| 25 | H    | 0.200305             | -0.00193 |
+| 26 | H    | 0.393231             | 0.003011 |
+| 27 | H    | 0.39053              | 0.004635 |
+| 28 | H    | 0.395667             | 0.002303 |
+| 29 | H    | 0.399954             | 0.002223 |
+| 30 | H    | 0.329462             | 0.086383 |
+| 31 | H    | 0.398827             | 0.001876 |
+
+| 32 | H | 0.394242 | 0.002212 |
+|----|---|----------|----------|
+| 33 | C | -0.471   | 0.95113  |
+| 34 | H | 0.182413 | -0.02051 |
+| 35 | H | 0.193967 | -0.02034 |
+| 36 | H | 0.19695  | -0.01985 |
+| 37 | H | 0.388153 | 0.003308 |
+
+|                   |                                          | Selectivity (%) |    |     |      | Yield of             | Fe-TONc     |        |
+|-------------------|------------------------------------------|-----------------|----|-----|------|----------------------|-------------|--------|
+| Entry<br>Additive | CH3OH                                    | CH3OOH          | CO | CO2 | CxHy | CH3OH<br>b<br>(µmol) |             |        |
+| 1                 | None                                     | 98              | 0  | 0   | 2    | 0                    | 629±68      | 135±16 |
+| d<br>2            | Isopropanol                              | 4               | 0  | 0   | 64   | 32                   | 0.3 (Trace) | <0.1   |
+| e<br>3            | 2-methylfuran                            | 98              | 0  | 0   | 2    | 0                    | 632         | 136    |
+| f<br>4            | Benzoquione                              | 97              | 0  | 0   | 3    | 0                    | 617         | 132    |
+| g<br>5            | UiO-66-NH2                               | 98              | 0  | 0   | 2    | 0                    | 656         | 141    |
+| h<br>6            | H2O2                                     | 86              | 0  | 0   | 14   | 0                    | 840         | 180    |
+| i<br>7            | H2O2                                     | 15              | 40 | 0   | 45   | 0                    | 14          | 3.0    |
+| j<br>8            | H2O2                                     | 16              | 42 | 0   | 42   | 0                    | 15          | 3.0    |
+| k<br>9            | H2O2 + 2,4-<br>dihydroxybenzonic<br>acid | 70              | 30 | 0   | 0    | 0                    | 62.3        | 13.4   |
+| 10l               | H2O2 + 2,4-<br>dihydroxybenzonic<br>acid | 100             | 0  | 0   | 0    | 0                    | 171         | 36.9   |
+
+**Table S17.** Effects of different additives on the quenching of the photo-oxidation of CH<sup>4</sup> catalysed by PMOF-RuFe(OH).*<sup>a</sup>*
+
+*<sup>a</sup>*Reaction conditions: 10.0 mg of catalyst, 3 mL of H2O, CH<sup>4</sup> and O<sup>2</sup> (~1 atm), 298 K, visible light irradiation for 20 h.
+
+*<sup>b</sup>* The yield of CH3OH was determined by GC using 1,4-dioxane as internal standard.
+
+*<sup>c</sup>*Fe-TON is defined as the number of molecules of CH3OH produced (nMeOH) per iron active site.
+
+*<sup>d</sup>*Additive: 1 mL of isopropanol as •OH sacrificial agent.
+
+*<sup>e</sup>*Additive: 20 mM of 2-methylfuran as <sup>1</sup>O<sup>2</sup> quencher.
+
+*<sup>f</sup>*Additive: 20 mM of benzoquinone as O<sup>2</sup> • − capture agent.
+
+*<sup>g</sup>*Additive: 10.0 mg of UiO-66-NH2 (a traditional O<sup>2</sup> • − generating photocatalyst) as co-catalyst.
+
+*<sup>h</sup>*Additive: 100 μL of 30% H2O2 under irradiation.
+
+*<sup>i</sup>*Additive: 100 μL of 30% H2O2 in dark. 40% of CH3OOH product.
+
+*<sup>j</sup>*Additive: 0.5 mL of 30% H2O<sup>2</sup> as oxidant, CH<sup>4</sup> (1.0 atm), in dark. The productivity of total C1 liquid oxygenates (CH3OH and CH3OOH) is 55 *µ*mol.
+
+*<sup>k</sup>*Additive: 0.5 mL of 30% H2O<sup>2</sup> as oxidant, CH<sup>4</sup> (1.0 atm), 20mM of 2,4-dihydroxybenzonic acid as •OOH radical scavenger in dark for 20 h.
+
+*<sup>l</sup>*Additive: 0.5 mL of 30% H2O<sup>2</sup> as oxidant, CH<sup>4</sup> (1.0 atm), 20mM of 2,4-dihydroxybenzonic acid as •OOH radical scavenger in dark for 20 h, and then reaction under irradiation for 2 h.
+
+**NOTE:** The experiment with isopropanol, a scavenger of •OH, as the only solvent greatly reduced the yield of CH3OH. This is in good agreement with the observed signals for •DMPO-OH after illumination, confirming tha •OH is an important intermediate. The introduction of 2-methylfuran as a <sup>1</sup>O<sup>2</sup> quencher has little impact on the activity even though derivatives of [Ru(bpy)3] 2+ have a well‐ characterized behavior for producing <sup>1</sup>O2. <sup>105</sup> This then excludes the role of <sup>1</sup>O<sup>2</sup> in the catalysis. The addition of benzoquinone as a capute agent for O2• − or the use of UiO-66-NH<sup>2</sup> (a photocatalyst that generates O2• − ) as co-catalyst does not significantly alter the photocatalytic activity, suggesting that O2• − is not the critical oxygen-containing intermediate.
+
+![](_page_86_Figure_0.jpeg)
+
+Experiments were performed in the dark in the presence of H2O<sup>2</sup> and in the presence and absence of a radical scavenger (2,4-dihydroxybenzoic acid) over PMOF-RuFe(OH). 2,4-Dihydroxybenzoic acid was selected as radical scavenger since it does not scavenge H2O2. <sup>106</sup> It was found that in the presence of H2O<sup>2</sup> CH3OH productivity is over 4 times higher with radical scavenger than without (62 vs 15 µmol), and that selectivity for CH3OH is increased from 16% to 70% (entries 8 and 9). No other biproduct was detected. In addition, the reaction mixture with scavenger was tested under illumination for a further 2 h, and on illumination CH3OH is afforded as the only product (entry 10). This suggests that illumination promotes the conversion of CH3OOH to CH3OH and quenches the radicals and intermediates that would lead to over-oxidation of CH3OH.
+
+![](_page_86_Figure_2.jpeg)
+
+NMR spectra of liquid solutions for CH<sup>4</sup> oxidation in the presence of H2O<sup>2</sup> and a radical scavenger (2,4-dihydroxybenzoic acid) a) in dark for 20 h and b) in dark for 20h and then under irradiation for another 2 h.
+
+| Compounds     | Lifetime (ns) | Homogeneous controls                   | Lifetime (ns) |
+|---------------|---------------|----------------------------------------|---------------|
+| PS (H2L)      | 569.0         | -                                      |               |
+| MOF-Ru        | 526.2         | -                                      |               |
+| MOF-RuFe(OH)  | 33.9          | MOF-RuFe(OH)-Homo (Fe3+, H2L)          | 135.3         |
+| PMOF-Ru       | 114.2         | PMOF-Ru-Homo (PW9V3 , H2L)             | 274.3         |
+| PMOF-RuFe(OH) | 14.6          | PMOF-RuFe(OH)-Homo (PW9V3 , Fe3+, H2L) | 43.8          |
+
+**Table S18.** The lifetimes of MOFs and their homogeneous controls in aqueous solution.*<sup>a</sup>*
+
+*<sup>a</sup>*The emission decays were fitted to the exponential expression A = A0+A1e -t/τ1 + A2e -t/τ2 + A3e -t/τ3, and the lifetime () = 11 <sup>2</sup>+2<sup>2</sup> <sup>2</sup>+3<sup>3</sup> 2 11+11+11
+
+**NOTE:** Effective quenching of the Ru–polypyridyl <sup>3</sup>MLCT (PS\*) emission by the encapsulated PW9V<sup>3</sup> and grafted bpyFeOH fraction in PMOF-RuFe(OH) can be attributed to rapid electrontransfer from the excited states (PS\*) to V<sup>V</sup> in PW9V<sup>3</sup> or to Fe(III).
+
+#### **Supplementary Notes**
+
+#### **Cost analysis of catalysts for CH3OH production**
+
+We performed a simple calculation on the cost of the catalyst to gain a sense of its cost-effectiveness. Clearly, this cost analysis will be subject to change as external conditions, costs and supply chains vary and develop.
+
+The total cost for the synthesis of PMOF-RuFe(OH) is ~\$4200/kg due mainly to the costs involving the preparation of the organic ligands, H2bpydc and the photosensitizer. The current industrial route for the synthesis of CH3OH from syngas (CO/CO2/H2) relies upon relatively high pressures (50-100 bar) and high temperature (220-240 <sup>o</sup>C) using a ternary Cu/ZnO/Al2O<sup>3</sup> (CZA) catalyst which was first adopted by ICI in 1966. The CZA catalyst needs to be activated at high temperature under a flow of H2, and thus, the total cost for activated catalyst is ~\$240/kg, less than for PMOF-RuFe(OH). However, CZA catalysts undergo relatively fast deactivation even in the absence of poisons, and more than one third of the activity, MTY (mass-time-yield, mol∙kgcat -1 ∙h -1 ), is lost over the first 1000 h (Figure S56).<sup>107</sup> Assuming that (i) the CZA catalyst has a selectivity for CH3OH of 55.7% with an average MTYCZA for CH3OH production of ~3.1 mol∙kgcat -1 ∙h -1 from syngas, 108,109 and (ii) the cost of both methane and syngas is \$0.03/m<sup>3</sup> , the Δcost (the difference in cost) (\$/kgCH3OH) for CH3OH synthesis using PMOF-RuFe(OH) from CH<sup>4</sup> against that of commercial Cu/ZnO/Al2O<sup>3</sup> catalyst from syngas can be calculated using the following equation:
+
+$$
+\Delta \text{cost}(\text{$f/kg_{CH3OH}$})
+$$
+\n
+$$
+= \frac{1 kg}{0.032 kg/mol} \times \left[\frac{\text{$4200/kg}}{\text{$MTY_{PMOF-RuFe(OH)} (mol/kg_{cat}/h) \times lifetime (h)}}\right]
+$$
+\n
+$$
++ \frac{\text{$0.03/m^3 \times 0.0224 m^3/mol}}{100\%}\right]
+$$
+\n
+$$
+- \frac{\text{$240/kg$}}{\text{$MTY_{CZA}(mol/kg_{cat}/h) \times lifetime (h) \times 55.7\%}} \times \frac{\text{$0.03/m^3 \times 0.0224 m^3/mol}}{55.7\%}\right] = \frac{1.3125 \times 10^5}{MTY_{PMOF-RuFe(OH)} \times t} \times \frac{7500}{3.1 \times t} - 0.0167
+$$
+
+As shown in Figure S56, only when the MTY is up to 10.7 mol∙kgcat -1 ∙h -1 , is PMOF-RuFe(OH) competitive against the commercial catalysts for CH3OH synthesis. CZA performs at high pressure, while catalysis of oxidation of CH<sup>4</sup> to CH3OH under the atmospheric condition has a competitive advantage, including the cost of reactor and safety issues. For example, one stainless steel autoclave reactor with a Teflon vessel and quartz window used for high-pressure photo-reaction costs at least \$2500 depending on different pressure-proof capacities, although costs will of course vary according to different suppliers. However, the simple glasses kit used for atmospheric photoreaction in our flow or batch system costs less than \$120, 20x cheaper. Thus, the activity of PMOF-RuFe(OH) in flow mode has reached 8.81 mol∙kgcat -1 ∙h -1 which is only 18% less than the target MTY. Considering the mild conditions, the simple equipment and a 100% CH3OH selectivity, PMOF-RuFe(OH) appears to be a viable candidate and has potential for further development leading to commercialisation.
+
+![](_page_89_Figure_0.jpeg)
+
+**Figure S56.** Costs of PMOF-RuFe(OH) compared to use of commercial Cu/ZnO/Al2O<sup>3</sup> catalysts in producing 1 kg of CH3OH. The PMOF-RuFe(OH) catalyst becomes competitive when MTY > 10.7 mol∙kgcat -1 ∙h -1 .
+
+#### **References:**
+
+- 1 Hatchard, C. G. & Parker, C. A. A new sensitive chemical actinometer II. Potassium ferrioxalate as a standard chemical actinometer. *Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences* **235**, 518-536 (1956).
+- 2 Ravel, B. & Newville, M. ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption spectroscopy using IFEFFIT. *J. Synchrotron Rad.* **12**, 537-541 (2005).
+- 3 Rehr, J. J. & Albers, R. C. Theoretical approaches to X-ray absorption fine structure. *Rev. Mod. Phys.* **72**, 621-654 (2000).
+- 4 Gaussian, Inc., (Wallingford, CT, 2016).
+- 5 Becke, A. D. Density-functional exchange-energy approximation with correct asymptotic behavior. *Phys. Rev. A* **38**, 3098-3100 (1988).
+- 6 Lee, C. T., Yang, W. T. & Parr, R. G. Development of the Colle-Salvetti correlation-energy formula into a functional of the electron density. *Phys. Rev. B* **37**, 785-789 (1988).
+- 7 Marenich, A. V., Cramer, C. J. & Truhlar, D. G. Universal solvation model based on solute electron density and on a continuum model of the solvent defined by the bulk dielectric constant and atomic surface tensions. *J. Phys. Chem. B* **113**, 6378-6396 (2009).
+- 8 Hutter, J., Iannuzzi, M., Schiffmann, F. & VandeVondele, J. cp2k: Atomistic simulations of condensed matter systems. *Wiley Interdisciplinary Reviews: Computational Molecular Science* **4**, 15-25 (2014).
+- 9 Lippert, G., Hutter, J., Parrinello, M. A hybrid Gaussian and plane wave density functional scheme. *Mol. Phys.* **92**, 477-488 (1997).
+- 10 VandeVondele, J. *et al.* Quickstep: Fast and accurate density functional calculations using a mixed Gaussian and plane waves approach. *Comput. Phys. Commun.* **167**, 103-128 (2005).
+- 11 VandeVondele, J. & Hutter, J. Gaussian basis sets for accurate calculations on molecular systems in gas and condensed phases. *J. Chem. Phys.* **127**, 114105 (2007).
+- 12 Goedecker, S., Teter, M. & Hutter, J. Separable dual-space Gaussian pseudopotentials. *Phys. Rev. B* **54**, 1703 (1996).
+- 13 Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple. *Phys. Rev. Lett.* **77**, 3865 (1996).
+- 14 Grimme, S., Antony, J., Ehrlich, S. & Krieg, H. A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu. *J. Chem. Phys.* **132**, 154104 (2010).
+- 15 Cheng, Y. Q., Daemen, L. L., Kolesnikov, A. I. & Ramirez-Cuesta, A. J. Simulation of inelastic neutron scattering spectra using OCLIMAX. *Journal of Chemical Theory and Computation* **15**, 1974-1982 (2019).
+- 16 Keith, J. A. & Carter, E. A. Theoretical insights into pyridinium-based photoelectrocatalytic reduction of CO2. *J. Am. Chem. Soc.* **134**, 7580-7583 (2012).
+- 17 Gupta, M., da Silva, E. F. & Svendsen, H. F. Modeling temperature dependency of amine basicity using PCM and SM8T implicit solvation models. *J. Phys. Chem. B* **116**, 1865-1875 (2012).
+- 18 Liptak, M. D. & Shields, G. C. Accurate pK(a) calculations for carboxylic acids using Complete Basis Set and Gaussian-n models combined with CPCM continuum solvation methods. *J. Am. Chem. Soc.* **123**, 7314-7319 (2001).
+- 19 Guerard, J. J. & Arey, J. S. Critical evaluation of implicit solvent models for predicting aqueous oxidation potentials of neutral organic compounds. *J. Chem. Theory Comput.* **9**, 5046-5058 (2013).
+- 20 Ding, L., Zheng, W. & Wang, Y. Homolytic C–O cleavage in phosphates and sulfonates. *The J. Phys. Chem. A* **119**, 3488-3499 (2015).
+- 21 Tummanapelli, A. K. & Vasudevan, S. Dissociation constants of weak acids from ab initio molecular dynamics using metadynamics: influence of the inductive effect and hydrogen bonding on p K a Values. *J. Phys. Chem. B* **118**, 13651-13657 (2014).
+- 22 Błaziak, K., Sendys, P. & Danikiewicz, W. Experimental versus calculated proton affinities for aromatic carboxylic acid anions and related phenide ions. *ChemPhysChem* **17**, 850-858 (2016).
+- 23 Xu, L. & Coote, M. L. Methods to improve the calculations of solvation model density solvation free energies and associated aqueous p K a values: comparison between choosing an optimal theoretical level, solute cavity scaling, and using explicit solvent molecules. *J. Phys. Chem. A*  **123**, 7430-7438 (2019).
+- 24 Pracht, P. & Grimme, S. Efficient quantum-chemical calculations of acid dissociation constants from free-energy relationships. *J. Phys. Chem. A* **125**, 5681–5692 (2021).
+- 25 Winget, P., Weber, E. J., Cramer, C. J. & Truhlar, D. G. Computational electrochemistry: aqueous one-electron oxidation potentials for substituted anilines. *Phys. Chem. Chem. Phys.* **2**, 1231-1239 (2000).
+- 26 Asadi, M. *et al.* A lithium–oxygen battery with a long cycle life in an air-like atmosphere. *Nature* **555**, 502-506 (2018).
+- 27 Guo, F.-S. *et al.* Magnetic hysteresis up to 80 kelvin in a dysprosium metallocene singlemolecule magnet. *Science* **362**, 1400-1403 (2018).
+- 28 Zhang, Z.-M. *et al.* Photosensitizing metal-organic framework enabling visible-light-driven proton reduction by a Wells-Dawson-type polyoxometalate. *J. Am. Chem. Soc.* **137**, 3197-3200 (2015).
+- 29 Kong, X.-J., Lin, Z., Zhang, Z.-M., Zhang, T. & Lin, W. Hierarchical integration of photosensitizing metal-organic frameworks and nickel-containing polyoxometalates for efficient visible-light-driven hydrogen evolution. *Angew. Chem., Int. Ed.* **55**, 6411-6416 (2016).
+- 30 McIntyre, N. S. & Zetaruk, D. G. X-ray photoelectron spectroscopic studies of iron oxides. *Anal. Chem.* **49**, 1521-1529 (1977).
+- 31 Xie, J. *et al.* Highly selective oxidation of methane to methanol at ambient conditions by titanium dioxide-supported iron species. *Nat. Catal.* **1**, 889 (2018).
+- 32 Piquette, M. C., Kryatov, S. V. & Rybak-Akimova, E. V. Kinetic studies on the oxoiron(IV) complex with tetradentate aminopyridine ligand PDP\*: Restoration of catalytic activity by reduction with H2O2. *Inorg. Chem.* **58**, 13382-13393 (2019).
+- 33 Simaan, A. J. *et al.* FeIII-hydroperoxo and peroxo complexes with aminopyridyl ligands and the resonance Raman spectroscopic identification of the Fe−O and O−O stretching modes. *Eur. J. Inorg. Chem.* **2000**, 1627-1633 (2000).
+- 34 Nascimento, O. R. *et al.* Magnetic resonance study of vanadium pentoxide gels. *Mol. Cryst. Liq. Cryst.* **447**, 233/[551]-242/[560] (2006).
+- 35 Pasternak, M. P. *et al.* High pressure collapse of magnetism in Fe0.94O: mössbauer spectroscopy beyond 100 GPa. *Phys. Rev. Lett.* **79**, 5046 (1997).
+- 36 Yang, L. *et al.* Unveiling the high-activity origin of single-atom iron catalysts for oxygen reduction reaction. *Proc. Natl. Acad. Sci.* **115**, 6626-6631 (2018).
+- 37 Cerantola, V. *et al.* High-pressure spectroscopic study of siderite (FeCO3) with a focus on spin crossover. *Am. Mineral.* **100**, 2670-2681 (2015).
+- 38 Li, X. *et al.* Identification of the electronic and structural dynamics of catalytic centers in single-Fe-atom material. *Chem* **6**, 3440-3454 (2020).
+- 39 Zitolo, A. *et al.* Identification of catalytic sites for oxygen reduction in iron- and nitrogen-doped graphene materials. *Nat. Mater.* **14**, 937-942 (2015).
+- 40 Kas, J.J. *et al*. Calculations of X-ray spectroscopies using FEFF10 and Corvus, arXiv:2106.13334 [cond-mat.mtrl-sci], 2021.
+- 41 Rehr, J. J., Kas, J. J., Vila, F. D., Prange, M. P. & Jorissen, K. Parameter-free calculations of Xray spectra with FEFF9. *Phys. Chem. Chem. Phys.* **12**, 5503-5513 (2010).
+- 42 Kutzler, F. W., Natoli, C., Misemer, D., Doniach, S. & Hodgson, K. O. Use of one-electron theory for the interpretation of near edge structure in K‐shell X‐ray absorption spectra of transition metal complexes. *J. Chem. Phys.* **73**, 3274-3288 (1980).
+- 43 Chen, J., Stepanovic, S., Draksharapu, A., Gruden, M. & Browne, W. R. A Non-heme iron photocatalyst for light-driven aerobic oxidation of methanol. *Angew. Chem. Int. Ed.* **57**, 3207- 3211 (2018).
+- 44 Wu, T. *et al.* In-situ FT-IR investigation of partial oxidation of methane to syngas over Rh/SiO2 catalyst. *J. Nat. Gas Chem.* **16**, 316-321 (2007).
+- 45 Joseph, J. & Jemmis, E. D. Red-, blue-, or no-shift in hydrogen bonds:  a unified explanation. *J. Am. Chem. Soc.* **129**, 4620-4632 (2007).
+- 46 Bai, S. *et al.* High-efficiency direct methane conversion to oxygenates on a cerium dioxide nanowires supported rhodium single-atom catalyst. *Nat. Commun.* **11**, 954 (2020).
+- 47 Xu, C. *et al.* Turning on visible-light photocatalytic C−H oxidation over metal–organic frameworks by introducing metal-to-cluster charge transfer. *J. Am. Chem. Soc.* **141**, 19110- 19117 (2019).
+- 48 Finkelstein, E., Rosen, G. M. & Rauckman, E. J. Spin trapping. Kinetics of the reaction of superoxide and hydroxyl radicals with nitrones. *J. Am. Chem. Soc.* **102**, 4994-4999 (1980).
+- 49 Motten, A. G., Hanck, K. & DeArmound, M. K. ESR of the reduction products of [Fe(bpy)3] 2+ and [Ru(bpy)3] 2+ . *Chem. Phys. Lett.* **79**, 541-546 (1981).
+- 50 Tanaka, N., Ogata, T. & Niizuma, S. Polarographic and ESR Studies on the electrode reactions of tris (2, 2′-bipyridine) iron (II) in acetonitrile. *Bull. Chem. Soc. Jpn.* **46**, 3299-3301 (1973).
+- 51 Banerjee, R., Proshlyakov, Y., Lipscomb, J. D. & Proshlyakov, D. A. Structure of the key species in the enzymatic oxidation of methane to methanol. *Nature* **518**, 431-434 (2015).
+- 52 Concepcion, J. J. *et al.* Making oxygen with ruthenium complexes. *Acc. Chem. Res.* **42**, 1954- 1965 (2009).
+- 53 Nosaka, Y. & Nosaka, A. Y. Generation and detection of reactive oxygen species in photocatalysis. *Chem. Rev.* **117**, 11302-11336 (2017).
+- 54 Song, H. *et al.* Direct and selective photocatalytic oxidation of CH<sup>4</sup> to oxygenates with O<sup>2</sup> on cocatalysts/ZnO at room temperature in water. *J. Am. Chem. Soc.* **141**, 20507-20515 (2019).
+- 55 Fan, Y. *et al.* Selective photocatalytic oxidation of methane by quantum-sized bismuth vanadate. *Nat. Sustain* **4**, 509–515 (2021).
+- 56 Tinberg, C. E. & Lippard, S. J. Oxidation reactions performed by soluble methane monooxygenase hydroxylase intermediates Hperoxo and Q proceed by distinct mechanisms. *Biochemistry* **49**, 7902-7912 (2010).
+- 57 Kass, D. *et al.* Stoichiometric formation of an oxoiron(IV) complex by a soluble methane monooxygenase type activation of O<sup>2</sup> at an iron(II)-cyclam center. *J. Am. Chem. Soc.* **142**, 5924- 5928 (2020).
+- 58 Szecsenyi, A., Li, G., Gascon, J. & Pidko, E. A. Mechanistic complexity of methane oxidation with H2O<sup>2</sup> by single-site Fe/ZSM-5 catalyst. *ACS Catal.* **8**, 7961-7972 (2018).
+- 59 Lu, Z. *et al.* Modulating supramolecular binding of carbon dioxide in a redox-active porous metal-organic framework. *Nat. Commun.* **8**, 14212 (2017).
+- 60 Li, Y., Li, J., Zhang, G., Wang, K. & Wu, X. Selective photocatalytic oxidation of low concentration methane over graphitic carbon nitride-decorated tungsten bronze cesium. *ACS Sustainable Chem. Eng.* **7**, 4382-4389 (2019).
+- 61 Lopez, H. H. & Martinez, A. Selective photo-assisted oxidation of methane into formaldehyde on mesoporous VOx/SBA-15 catalysts. *Catal. Lett.* **83**, 37-41 (2002).
+- 62 Chen, X. & Li, S. Photooxidation of methane to methanol by molecular oxygen on waterpreadsorbed porous TiO2-based catalysts. *Chem. Lett.* **29**, 314-315 (2000).
+- 63 Murcia-Lopez, S., Villa, K., Andreu, T. & Morante, J. R. Partial oxidation of methane to methanol using bismuth-based photocatalysts. *ACS Catal.* **4**, 3013-3019 (2014).
+- 64 Zhu, W. L. *et al.* Facet-dependent enhancement in the activity of bismuth vanadate microcrystals for the photocatalytic conversion of methane to methanol. *ACS Appl. Nano Mater.* **1**, 6683-6691 (2018).
+- 65 Murcia-Lopez, S. *et al.* Controlled photocatalytic oxidation of methane to methanol through surface modification of beta zeolites. *ACS Catal.* **7**, 2878-2885 (2017).
+- 66 Zhou, Y. *et al.* Direct functionalization of methane into ethanol over copper modified polymeric carbon nitride via photocatalysis. *Nat Commun* **10**, 506 (2019).
+- 67 Villa, K., Murcia-Lopez, S., Morante, J. R. & Andreu, T. An insight on the role of La in mesoporous WO<sup>3</sup> for the photocatalytic conversion of methane into methanol. *Appl. Catal. B-Environmental* **187**, 30-36 (2016).
+- 68 Villa, K., Murcia-Lopez, S., Andreu, T. & Morante, J. R. On the role of WO3 surface hydroxyl groups for the photocatalytic partial oxidation of methane to methanol. *Catal. Commun.* **58**, 200-203 (2015).
+- 69 Luo, L. *et al.* Water enables mild oxidation of methane to methanol on gold single-atom catalysts. *Nat. Commun.* **12**, 1218 (2021).
+- 70 Cai, X., Fang, S. & Hu, Y. H. Unprecedentedly high efficiency for photocatalytic conversion of methane to methanol over Au–Pd/TiO<sup>2</sup> – what is the role of each component in the system? *J. Mater. Chem. A* **9**, 10796-10802 (2021).
+- 71 Yang, J., Hao, J., Wei, J., Dai, J. & Li, Y. Visible-light-driven selective oxidation of methane to methanol on amorphous FeOOH coupled m-WO3. *Fuel* **266**, 117104 (2020).
+- 72 Shi, S., Sun, Z., Bao, C., Gao, T. & Hu, Y. H. The special route toward conversion of methane to methanol on a fluffy metal-free carbon nitride photocatalyst in the presence of H2O2. *Int. J. Energy Res.* **44**, 2740-2753 (2020).
+- 73 Hu, Y., Nagai, Y., Rahmawaty, D., Wei, C. & Anpo, M. Characteristics of the photocatalytic oxidation of methane into methanol on V-containing MCM-41 catalysts. *Catal. Lett.* **124**, 80-84 (2008).
+- 74 Ikuno, T. *et al.* Methane oxidation to methanol catalyzed by Cu-Oxo clusters stabilized in NU-1000 metal-organic framework. *J. Am. Chem. Soc.* **139**, 10294-10301 (2017).
+- 75 Zheng, J. *et al.* Selective methane oxidation to methanol on Cu-oxo dimers stabilized by zirconia nodes of an NU-1000 metal–organic framework. *J. Am. Chem. Soc.* **141**, 9292-9304 (2019).
+- 76 Baek, J. *et al.* Bioinspired metal-organic framework catalysts for selective methane oxidation to methanol. *J. Am. Chem. Soc.* **140**, 18208-18216 (2018).
+- 77 Osadchii, D. Y. *et al.* Isolated Fe sites in metal organic frameworks catalyze the direct conversion of methane to methanol. *ACS Catal.* **8**, 5542-5548 (2018).
+- 78 Zhao, W. *et al.* Fe-O clusters anchored on nodes of metal-organic frameworks for direct methane oxidation. *Angew. Chem. Int. Ed.* **60**, 5811 –5815 (2021).
+- 79 Balasubramanian, R. *et al.* Oxidation of methane by a biological dicopper centre. *Nature* **465**, 115-119 (2010).
+- 80 Cui, X. *et al.* Room-temperature methane conversion by graphene-confined single iron atoms. *Chem* **4**, 1902-1910 (2018).
+- 81 Sun, L. *et al.* Water-involved methane-selective catalytic oxidation by dioxygen over copper zeolites. *Chem* **7**, 1557-1568 (2021).
+- 82 Tomkins, P. *et al.* Isothermal cyclic conversion of methane into methanol over copper‐ exchanged zeolite at low temperature. *Angew. Chem. Int. Ed.* **55**, 5467-5471 (2016).
+- 83 Wulfers, M. J., Teketel, S., Ipek, B. & Lobo, R. F. Conversion of methane to methanol on copper-containing small-pore zeolites and zeotypes. *Chem. Commun.* **51**, 4447-4450 (2015).
+- 84 Narsimhan, K., Iyoki, K., Dinh, K. & Roman-Leshkov, Y. Catalytic oxidation of methane into methanol over copper-exchanged zeolites with oxygen at low temperature. *ACS Cent. Sci.* **2**, 424-429 (2016).
+- 85 Grundner, S. *et al.* Single-site trinuclear copper oxygen clusters in mordenite for selective conversion of methane to methanol. *Nat. Commun.* **6**, 7546pp. (2015).
+- 86 Sushkevich, V. L., Palagin, D., Ranocchiari, M. & van Bokhoven, J. A. Selective anaerobic oxidation of methane enables direct synthesis of methanol. *Science* **356**, 523 (2017).
+- 87 Parfenov, M. V., Starokon, E. V., Pirutko, L. V. & Panov, G. I. Quasicatalytic and catalytic oxidation of methane to methanol by nitrous oxide over FeZSM-5 zeolite. *J. Catal.* **318**, 14-21 (2014).
+- 88 Starokon, E. V. *et al.* Oxidation of methane to methanol on the surface of FeZSM-5 zeolite. *J. Catal.* **300**, 47-54 (2013).
+- 89 Kwon, Y., Kim, T. Y., Kwon, G., Yi, J. & Lee, H. Selective Activation of methane on singleatom catalyst of rhodium dispersed on zirconia for direct conversion. *J. Am. Chem. Soc.* **139**, 17694-17699 (2017).
+- 90 Shen, Q. *et al.* Single chromium atoms supported on titanium dioxide nanoparticles for synergic catalytic methane conversion under mild conditions. *Angew. Chem. Int. Ed.* **59**, 1216-1219 (2020).
+- 91 Zhu, J. *et al.* Cu-Erionite zeolite achieves high yield in direct oxidation of methane to methanol by isothermal chemical looping. *Chem. Mater.* **32**, 1448-1453 (2020).
+- 92 Kang, J. & Park, E. D. Selective oxidation of methane over Fe-zeolites by in situ generated H2O2. *Catalysts* **10**, 299 (2020).
+- 93 Jin, Z. *et al.* Hydrophobic zeolite modification for in situ peroxide formation in methane oxidation to methanol. *Science* **367**, 193-197 (2020).
+- 94 Agarwal, N. *et al.* Aqueous Au-Pd colloids catalyze selective CH<sup>4</sup> oxidation to CH3OH with O<sup>2</sup> under mild conditions. *Science* **358**, 223-227 (2017).
+- 95 Ab Rahim, M. H. *et al.* Oxidation of methane to methanol with hydrogen peroxide using supported gold–palladium alloy nanoparticles. *Angew. Chem. Int. Ed.* **52**, 1280-1284 (2013).
+- 96 Bai, S., Yao, Q., Xu, Y., Cao, K. & Huang, X. Strong synergy in a lichen-like RuCu nanosheet boosts the direct methane oxidation to methanol. *Nano Energy* **71**, 104566 (2020).
+- 97 Yang, L. *et al.* Metal–organic framework-derived IrO2/CuO catalyst for selective oxidation of methane to methanol. *ACS Energy Letters* **4**, 2945-2951 (2019).
+- 98 Kang, J. & Park, E. D. Aqueous-phase selective oxidation of methane with oxygen over iron salts and Pd/C in the presence of hydrogen. *ChemCatChem* **11**, 4247-4251 (2019).
+- 99 Shan, J., Li, M., Flytzani-Stephanopoulos, M., Allard, L. F. & Lee, S. Mild oxidation of methane to methanol or acetic acid on supported isolated rhodium catalysts. *Nature* **551**, 605- 608 (2017).
+- 100 Hammond, C. *et al.* Elucidation and evolution of the active component within Cu/Fe/ZSM-5 for catalytic methane oxidation: from synthesis to catalysis. *ACS Catal.* **3**, 689-699 (2013).
+- 101 Gupta, S., Kirillova, M. V., Guedes da Silva, M. F. & Pombeiro, A. J. L. Highly efficient divanadium(V) pre-catalyst for mild oxidation of liquid and gaseous alkanes. *Appl. Catal., A* **460-461**, 82-89 (2013).
+- 102 Chan, S. I. *et al.* Efficient oxidation of methane to methanol by dioxygen mediated by tricopper clusters. *Angew. Chem. Int. Ed.* **52**, 3731-3735 (2013).
+- 103 Zhou, H. *et al.* A Supported nickel catalyst stabilized by a surface digging effect for efficient methane oxidation. *Angew. Chem. Int. Ed.* **58**, 18388-18393 (2019).
+- 104 Sugino, T., Kido, A., Azuma, N., Ueno, A. & Udagawa, Y. Partial oxidation of methane on silica-supported silicomolybdic acid catalysts in an excess amount of water vapor. *J. Catal.* **190**, 118-127 (2000).
+- 105 Schweitzer, C. & Schmidt, R. Physical mechanisms of generation and deactivation of singlet oxygen. *Chem. Rev.* **103**, 1685-1758 (2003).
+- 106 Rice-Evans, C. A., Miller, N. J. & Paganga, G. Structure-antioxidant activity relationships of flavonoids and phenolic acids. *Free Radical Biol. Med.* **20**, 933-956 (1996).
+- 107 Hansen, J.B. *AIChE Spring National Meeting, Conference Proceedings, Orlando, FL*, American Institute of Chemical Engineers, New York, p.109 (1990).
+- 108 *Handbook of Heterogenous Catalysis: Methanol Synthesis* Ch. 13.13, Wiley-VCH, Weinheim, (2008).
+- 109 Wilkinson, S. K., van der Water, L. G. A., Miller, B., Simmons, M. J. H., Stitt, E. H., Watson, M. J. Understanding the generation of methanol synthesis and water gas shift activity over copperbased catalysts – A spatially resolved experimental kinetic study using steady and non-steady state operation under CO/CO2/H<sup>2</sup> feeds. *J. Cat.* **337**, 208–220 (2016).
+
+根据提供的文献内容，生成实验流程复现文献实验

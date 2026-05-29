@@ -1,0 +1,400 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# Halogenated Metal−Organic Framework Glasses and Liquids
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Zinc nitrate hexahydrate**: Zn(NO₃)₂·6H₂O, [purity not specified], [supplier/catalog not provided], Used as the metal node precursor in all ZIF‑UC syntheses, providing the essential Zn²⁺ ions.
+
+#### 1.1.2 Organic Linkers
+- **Imidazole**: C₃H₄N₂, [purity not specified], [supplier/catalog not provided], Used as a fundamental organic linker to establish the framework connectivity.
+- **6‑Chloro‑5‑fluorobenzimidazole**: [chemical composition not specified], [purity and supplier details not provided], Employed as an organic linker in ZIF‑UC‑2 to introduce halogen functionality.
+- **5‑Chloro‑2‑methylbenzimidazole**: [chemical composition not specified], [purity and supplier details not provided], Used in ZIF‑UC‑3 to impart steric bulk and influence melting behavior.
+- **5‑Fluorobenzimidazole**: [chemical composition not specified], [purity and supplier details not provided], Incorporated in ZIF‑UC‑4 to modify the framework’s electronic and steric properties.
+- **5‑Chlorobenzimidazole**: [chemical composition not specified], [purity and supplier details not provided], Utilized in ZIF‑UC‑5 to achieve the desired cag topology and framework environment.
+
+#### 1.1.3 Modulators
+- **Aqueous sodium hydroxide**: NaOH, 2.5 mol dm⁻³ solution, [purity not specified], [supplier/catalog not provided], 0.25 mL for ZIF‑UC‑3 and 0.52 mL for ZIF‑UC‑4, Employed as a deprotonation modulator to facilitate effective incorporation of bIm-based linkers.
+
+#### 1.1.4 Solvents
+- **N,N‑Dimethylformamide (DMF)**: DMF, (C₃H₇NO), [purity not specified], [supplier/catalog not provided], Used as the primary solvent in all MOF syntheses.
+- **N,N‑Diethylformamide (DEF)**: DEF, [chemical composition not specified], [purity and supplier details not provided], Applied in combination with DMF for ZIF‑UC‑3 and ZIF‑UC‑4 to enhance crystallization.
+
+#### 1.1.5 Atmosphere Gases
+- **Argon**: Ar, 99.999% purity, [supplier/catalog not provided], [operational conditions: continuous flow during thermal analysis], Used to create an inert atmosphere during TGA and other high‑temperature procedures.
+
+#### 1.1.6 Other Reagents
+- **Dichloromethane**: CH₂Cl₂, [purity not specified], [supplier/catalog not provided], Employed as a washing agent to purify the MOF crystals post‑synthesis.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- Teflon-lined autoclave (generic; used for solvothermal synthesis)
+- Solvothermal reactor (generic; temperature-controlled crystallization vessel)
+
+#### Characterization Equipment
+- Powder X-ray diffractometer (Bruker-AXS D8)
+- Scanning electron microscope (FEI Nova Nano SEM 450)
+- BET surface area analyzer (Micromeritics ASAP 2020)
+- FTIR spectrometer (generic; instrument for infrared spectral analysis)
+- Thermogravimetric analyzer (TA Instruments SDT Q600)
+- Differential scanning calorimeter (Netzsch 214 Polyma)
+- Liquid-state NMR spectrometer (Bruker Avance III 400 MHz for ¹H NMR)
+- NMR spectrometer (Varian Inova 300 MHz for ¹⁹F NMR)
+- Single-crystal X-ray diffractometer (Gemini E Ultra equipped with Atlas CCD area detector)
+
+#### Activation Equipment
+- Vacuum oven (generic; used for solvent removal and activation)
+- Tube furnace (generic; applied for thermal treatment during activation)
+
+#### Reaction Equipment
+- Glass reaction vessel (generic; used for post-synthetic modification and guest molecule loading)
+
+#### Product Analysis Equipment
+- Gas chromatograph (generic; employed for gas uptake and breakthrough tests)
+- Mass spectrometer (generic; used for detailed product analysis)
+
+#### Other Specific Equipment
+- Analytical balance (generic; ensures accurate reagent measurement)
+- Magnetic stirrer (generic; facilitates uniform mixing)
+- Centrifuge (generic; used for sample separation)
+- Rotary evaporator (generic; applied for solvent removal under reduced pressure)
+
+The above listings integrate key instrument identifications and model details provided by the experimental context. While several synthesis items such as Teflon-lined autoclaves and solvothermal reactors are noted generically due to the absence of specific models, the characterization and thermal analysis sections explicitly incorporate equipment brands and models—such as the Bruker-AXS D8 for PXRD and the Micromeritics ASAP 2020 for BET surface area measurement. Similarly, instruments used in NMR (Bruker Avance III and Varian Inova) and single-crystal XRD (Gemini E Ultra with Atlas CCD area detector) provide clarity on the analytical workflow. Activation, reaction, and product analysis equipment are described with a generic functional note to ensure that readers can replicate the experimental setup while recognizing the emphasis on technical precision and equipment performance.
+
+### 1.3 Common Laboratory Equipment
+
+A range of standard laboratory equipment is routinely employed to ensure the consistency and reliability of the MOF experimental workflow, from reagent handling to reaction monitoring and sample preparation.
+
+#### Drying Equipment
+For the removal of solvents and the activation of both crystal and glass samples, drying equipment such as vacuum ovens is essential. These ovens ensure controlled solvent evaporation, maintaining the integrity of the MOF samples. Complementary drying methods, like freeze dryers and vacuum dryers, may also be available to suit specific sample requirements.
+
+#### Calcination Equipment
+Although high‐temperature processing using calcination equipment is not a central focus in these MOF experiments, laboratories are often equipped with instruments such as muffle furnaces, tube furnaces, or programmable ovens. These tools provide the capability for controlled heating steps where necessary, even if their use in the current synthesis procedures is minimal or not explicitly detailed.
+
+#### Other Common Equipment
+A variety of standard laboratory apparatus supports the overall experimental process across reagent preparation, reaction setup, and characterization sample preparation. Key instruments include:
+- **Analytical Balances:** While specific weighing tools are not detailed, precision balances are standard for accurately measuring reagents such as zinc nitrate hexahydrate.
+- **Mixing and Agitation Devices:** Magnetic stirrers and ultrasonic baths ensure the homogeneous mixing of reagents and solvents (e.g., DMF and DEF), with screw-top vials facilitating safe reagent handling.
+- **Pipettes and Micropipettes:** These devices are critical for precise volumetric measurements, especially when adding small volumes, as demonstrated by the addition of 0.25 mL of NaOH in certain synthesis protocols.
+- **Filtration and Separation Apparatus:** Equipment such as Büchner funnels or centrifuges may be implemented to isolate solid MOF products from reaction mixtures.
+- **Glassware:** An array of beakers, flasks, and pipettes remains fundamental to mixing, transferring, and processing various chemical solutions.
+
+Collectively, this suite of common laboratory equipment ensures controlled reaction conditions, accurate reagent handling, and efficient processing throughout the synthesis and characterization of halogenated MOF materials.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+This section outlines the step‐by‐step solvothermal synthesis procedures reported for the halogenated ZIF materials. Each method is structured to ensure accuracy, reproducibility, and clarity for replication.
+
+#### • Solvothermal Synthesis for ZIF‑UC‑2
+
+1. **Precursor Mixing / Dissolution:**  
+   • Dissolve zinc nitrate hexahydrate and imidazole in N,N‑dimethylformamide (DMF).  
+   • Add 6‑chloro‑5‑fluorobenzimidazole (6‑Cl‑5‑FbIm) to the solution.  
+2. **Modulator or Structure-Directing Agent Addition:**  
+   • No modulators are added for this MOF.  
+3. **Crystallization:**  
+   • Transfer the solution to a screw top vial and heat at 403 K for 48 hours (solvothermal conditions).  
+4. **Cooling and Collection:**  
+   • Allow the reaction mixture to cool to room temperature.  
+   • Collect the crystalline product via filtration.  
+5. **Washing and Solvent Exchange:**  
+   • Wash crystals with dichloromethane (repeated thrice) to remove residual DMF.  
+6. **Drying:**  
+   • Dry the product by placing it in a vacuum oven at 450 K overnight.  
+7. **Activation:**  
+   • The vacuum activation step removes entrapped solvents, ensuring porosity.
+
+#### • Solvothermal Synthesis for ZIF‑UC‑3, ZIF‑UC‑4, and ZIF‑UC‑5
+
+1. **Precursor Mixing / Dissolution:**  
+   • Fully dissolve zinc nitrate hexahydrate along with the appropriate organic linkers (imidazole and either 5‑chloro‑2‑methylbenzimidazole for ZIF‑UC‑3, 5‑fluorobenzimidazole for ZIF‑UC‑4, or 5‑chlorobenzimidazole for ZIF‑UC‑5) in a DMF and N,N‑diethylformamide (DEF) mixture.  
+2. **Modulator or Structure-Directing Agent Addition:**  
+   • For ZIF‑UC‑3, add 0.25 mL of 2.5 M NaOH to promote deprotonation before crystallization.  
+3. **Crystallization:**  
+   • Heat at defined temperatures (383 K for ZIF‑UC‑3; 363 K for ZIF‑UC‑4 and -UC‑5) for 5 days.  
+4. **Cooling and Collection:**  
+   • Cool the mixture at a controlled rate and collect crystals by filtration.  
+5. **Washing and Solvent Exchange:**  
+   • Wash the collected crystals repeatedly with dichloromethane as indicated.  
+6. **Drying and Activation:**  
+   • Dry by vacuum oven activation at 450 K overnight to ensure removal of solvents.
+
+Each method includes precise reaction conditions, clearly defined reagent concentrations, equipment details, and observable indicators (e.g., crystal formation), ensuring reproducibility across laboratories.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+In this section, detailed procedures for reagent preparation are presented for each halogenated ZIF material. The protocol is organized into three parts: weighing of solid reagents, liquid transfer, and mixing, ensuring that each MOF’s preparation is reproducible.
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 ZIF‑UC‑2
+- **Zinc nitrate hexahydrate (Zn(NO₃)₂·6H₂O)**: Weighed 220 mg.
+- **Imidazole (Im)**: Weighed 1188 mg.
+- **6‑Chloro‑5‑fluorobenzimidazole (6‑Cl‑5‑FbIm)**: Weighed 297.4 mg.
+
+##### 3.1.1.2 ZIF‑UC‑3
+- **Imidazole (Im)**: Weighed 60 mg.
+- **5‑Chloro‑2‑methylbenzimidazole (5‑Cl‑2‑mbIm)**: Weighed 293 mg.
+- **Zinc nitrate hexahydrate (Zn(NO₃)₂·6H₂O)**: Weighed 262 mg.
+
+*Note: For ZIF‑UC‑4 and ZIF‑UC‑5, the article specifies the use of the same reagents—imidazole, the halogenated benzimidazole linker, and zinc nitrate hexahydrate—but the exact masses are not detailed.*
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 ZIF‑UC‑2
+- **DMF**: Poured 10 mL into a screw top vial containing the weighed solids.
+
+##### 3.1.2.2 ZIF‑UC‑3
+- **DMF**: Transferred 3 mL into a screw top vial.
+- **DEF**: Transferred 4 mL into the same vial.
+
+##### 3.1.2.3 ZIF‑UC‑4
+- **DMF**: Poured 8.3 mL using a screw top vial.
+- **DEF**: Poured 5.7 mL using the same equipment.
+
+##### 3.1.2.4 ZIF‑UC‑5
+- **DMF**: Poured 8.3 mL into a screw top vial.
+- **DEF**: Poured 5.7 mL into the reaction vessel.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 ZIF‑UC‑2
+- **Zinc nitrate/Im solution**: Mixed by stirring for 1 hour at room temperature before the addition of the halogenated linker.
+
+##### 3.1.3.2 ZIF‑UC‑3
+- **Reagent solution (Im, 5‑Cl‑2‑mbIm, and Zn(NO₃)₂·6H₂O)**: Mixed by stirring for 1 hour at ambient conditions prior to heating.
+
+##### 3.1.3.3 ZIF‑UC‑4
+- **Combined DMF/DEF solution**: Mixed by stirring for 1 hour at room temperature before proceeding with the synthesis steps.
+
+##### 3.1.3.4 ZIF‑UC‑5
+- **Combined DMF/DEF solution**: Mixed by stirring for 1 hour at room temperature; the procedure includes the subsequent addition of NaOH as specified.
+
+This structured preparation protocol—detailing solid weighing, liquid handling, and mixing conditions—ensures that each halogenated ZIF material (ZIF‑UC‑2, ZIF‑UC‑3, ZIF‑UC‑4, and ZIF‑UC‑5) is reproducibly synthesized following the reported experimental methodology.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: ZIF‑UC‑2 (6‑Cl‑5‑FbIm)
+
+##### Step 1: Precursor Preparation  
+- **Reagents**: Zinc nitrate hexahydrate (220 mg, 0.74 mmol), imidazole (1188 mg, 16.42 mmol), and 6‑chloro‑5‑fluorobenzimidazole (297.4 mg, 1.74 mmol) are used. The reaction medium is 10 mL of DMF.  
+- **Conditions**: The reagents are dissolved and stirred at room temperature for 1 hour.  
+- **Process**: Begin by dissolving zinc nitrate and imidazole in DMF; after 1 hour, add 6‑chloro‑5‑fluorobenzimidazole. The solution is then transferred to a Teflon-lined autoclave and heated at 403 K for 48 hours.  
+- **Key Steps**: Controlled temperature and timed reagent additions ensure proper nucleation and crystal growth.
+
+##### Step 2: Purification & Activation  
+- **Process**: Following crystallization, the crystals are collected by filtration using dichloromethane. Subsequent washing removes residual reagents, and the product is then dried in a vacuum oven at 450 K overnight.
+
+---
+
+#### MOF Preparation [2]: ZIF‑UC‑3 (5‑Cl‑2‑mbIm)
+
+##### Step 1: Precursor Preparation  
+- **Reagents**: Imidazole (60 mg, 0.89 mmol), 5‑chloro‑2‑methylbenzimidazole (293 mg, 1.76 mmol), and zinc nitrate hexahydrate (262 mg, 0.88 mmol) are dissolved in a solvent system comprising 3 mL DMF and 4 mL DEF.  
+- **Conditions**: Stirring is conducted at room temperature for 1 hour before further modification.  
+- **Process**: After initial dissolution, 0.25 mL of 2.5 M NaOH is added to promote deprotonation of the organic linkers.  
+- **Key Steps**: The NaOH addition is critical as it facilitates the formation of the active species necessary for framework assembly.
+
+##### Step 2: MOF Assembly & Purification  
+- **Process**: The mixture is heated at 383 K for 5 days under solvothermal conditions. Post-crystallization, the product is filtered and washed with dichloromethane before drying.
+
+---
+
+#### MOF Preparation [3]: ZIF‑UC‑4 (5‑FbIm) and [4]: ZIF‑UC‑5 (5‑ClbIm)
+
+##### Common Workflow  
+- **Reagents**:  
+  - For ZIF‑UC‑4: Imidazole (120 mg, 1.77 mmol), 5‑fluorobenzimidazole (112 mg, 0.82 mmol), zinc nitrate hexahydrate (120 mg, 0.40 mmol), plus 0.52 mL of 2.5 M NaOH, dissolved in a DMF/DEF mixture (8.3 mL/5.7 mL).  
+  - For ZIF‑UC‑5: Similar precursors are used without NaOH.  
+- **Conditions**: The reaction is carried out at approximately 363 K for 5 days.  
+- **Process**: Following dissolution and controlled addition of base (when applicable), the reaction mixture is heated in a sealed reactor. After crystallization, the crystals are separated by centrifugation and washed with dichloromethane.  
+- **Drying & Activation**: Final activation is performed in a vacuum oven at 450 K overnight to remove residual solvents.  
+- **Key Steps**: Maintaining a balanced solvent system and precise control of temperature and stirring rates is crucial for achieving the desired crystal morphology and phase purity in both MOFs.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD  
+- **Operational Description**: The crystallinity and phase purity of the MOF samples were confirmed via powder X-ray diffraction under ambient conditions.  
+- **Instruments and Models**: Bruker-AXS D8 diffractometer was used.  
+- **Characterization Conditions**: Measurements employed Cu Kα radiation (λ = 1.540598 Å) at 35 kV and 35 mA.  
+- **Test Parameters**: Data were collected in a 2θ range of 5° to 40° with a step size of 0.02° and a scan rate of 10 seconds per step.  
+- **Key Notes**: Although specific sample mounting details are not provided, the method effectively confirms the phase purity and crystallinity of the materials.
+
+### 4.2 FTIR  
+- **Operational Description**: Fourier-transform infrared spectroscopy was used to compare spectra between crystalline MOF samples and their corresponding melt-quenched glasses, highlighting similarities in structural motifs.  
+- **Instruments and Models**: Specific instrument details were not provided.  
+- **Characterization Conditions**: Operating conditions, including temperature or gas atmosphere, were not explicitly mentioned.  
+- **Test Parameters**: No detailed parameters such as resolution or scan number were reported.  
+- **Key Notes**: The technique supports the identification of retained vibrational features post vitrification.
+
+### 4.3 TGA/DSC  
+- **Operational Description**: Thermal analysis was performed to determine solvent loss and melting events associated with the MOF framework.  
+- **Instruments and Models**: TA Instruments SDT Q600 was employed.  
+- **Characterization Conditions**: Samples were pre-treated by vacuum drying overnight and analyzed under a continuous flow of argon at 100 ml/min with a heating rate of 20 K/min.  
+- **Test Parameters**: Temperature ramps enabled the identification of characteristic thermal transitions.  
+- **Key Notes**: This method reveals key thermal events critical for assessing the MOF’s stability.
+
+### 4.4 SEM  
+- **Operational Description**: Scanning electron microscopy was used to assess crystal morphology and surface features.  
+- **Instruments and Models**: FEI Nova Nano SEM 450.  
+- **Characterization Conditions**: Experiments were conducted at an accelerating voltage of 10 kV following gold coating of the samples.  
+- **Test Parameters**: While magnification specifics were not provided, the protocol confirms morphological integrity.  
+- **Key Notes**: Essential for visualizing microstructural details.
+
+### 4.5 BET Surface Area Analysis  
+- **Operational Description**: N₂ adsorption–desorption isotherms were measured to evaluate specific surface areas and porosity.  
+- **Instruments and Models**: Instrument details were not explicitly specified.  
+- **Characterization Conditions**: Approximately 100 mg of sample was degassed overnight at 450 K and measured at 77 K.  
+- **Test Parameters**: The adsorption isotherm was recorded over a relative pressure (P/P₀) range of 0.05–0.15.  
+- **Key Notes**: This analysis quantifies the porous architecture of the MOFs.
+
+### 4.6 Solid-State NMR  
+- **Operational Description**: Solid-state nuclear magnetic resonance provided detailed insight into local bonding environments within the MOF structures.  
+- **Instruments and Models**: A 600 MHz Varian NMR system with a 1.6 mm HXY magic angle spinning (MAS) probe was used.  
+- **Characterization Conditions**: Samples were spun at 40 kHz. Specific pulse sequences included a Hahn-echo for 19F MAS NMR (90° pulse: 1.7 µs; 180° pulse: 3.4 µs; 160 scans; repetition delay: 5 s) and a 1H–13C CP MAS experiment (CP block of 5 ms, 40,000 scans).  
+- **Test Parameters**: Acquisition parameters ensured sensitivity to Zn–F bonding and coordination changes.  
+- **Key Notes**: This method elucidates local structural details critical for understanding MOF functionality.
+
+### 4.7 In-situ THz/Far-IR Spectroscopy  
+- **Operational Description**: In-situ heating experiments monitored Zn–N vibrational features during thermal treatment of MOF glasses.  
+- **Instruments and Models**: Measurements were conducted at the Australian Synchrotron’s THz/far-IR beamline using a multilayer Mylar beamsplitter (6 µm thickness).  
+- **Characterization Conditions**: Samples were heated up to 573 K in an argon environment.  
+- **Test Parameters**: Spectral data were collected over wavenumber ranges of 23–100 cm⁻¹ and 100–700 cm⁻¹.  
+- **Key Notes**: The approach confirms vibrational consistency during thermal cycling, with no observed thermal hysteresis.
+
+### 4.8 Synchrotron X-ray Total Scattering  
+- **Operational Description**: Synchrotron X-ray total scattering was applied to probe the atomic structure of both crystalline MOFs and their melt-quenched glasses.  
+- **Instruments and Models**: Data were gathered on the I15-1 beamline at the Diamond Light Source.  
+- **Characterization Conditions**: An X-ray wavelength of 0.161669 Å was utilized, with samples loaded into borosilicate capillaries.  
+- **Test Parameters**: Data corrections were executed using the GudrunX program and subsequently refined with PDFGUI software.  
+- **Key Notes**: This method is crucial for differentiating between long-range order in crystalline samples and the amorphous nature of MOF glasses.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+The activation step for the halogenated MOF materials was carried out to remove occluded solvents and prepare the frameworks for subsequent performance testing. In this process, a vacuum‐assisted thermal treatment was employed as a pre‐use conditioning step distinct from characterization protocols.
+
+#### 5.1.1 Activation Temperature  
+• Definition: The activation temperature is crucial for promoting the removal of guest molecules and solvent residues within the MOF pores, ensuring that the intrinsic porosity is preserved.  
+• Experimental Conditions: For MOF ZIF‑UC‑2, the samples were heated at 450 K in a vacuum oven.  
+• Observations: This temperature was found effective in driving off the occluded species while maintaining the structural integrity of the network.
+
+#### 5.1.2 Activation Time  
+• Definition: Activation time specifies the duration during which the MOF is maintained at the set activation temperature to ensure complete solvent removal without compromising the framework.  
+• Experimental Conditions: The samples were subjected to overnight treatment under the specified temperature conditions.  
+• Observations: An overnight activation period provided sufficient exposure to facilitate thorough guest removal, thereby optimizing the porosity for subsequent applications while avoiding framework collapse.
+
+#### 5.1.3 Activation Pressure  
+• Definition: Vacuum conditions during activation assist in reducing the boiling point of the solvent, thereby enhancing its removal from the pores.  
+• Experimental Conditions: The procedure was performed in a vacuum oven; however, specific numerical pressure values were not reported.  
+• Observations: The vacuum-assisted mode contributed to efficient solvent evacuation, which is essential for preparing the MOF for application.
+
+#### 5.1.4 Activation Gas and Flow Rate  
+• Definition: In some activation protocols, an inert gas is used to further facilitate the removal of residual solvents and to protect the framework from oxidation.  
+• Experimental Conditions: In this case, the activation process was completed solely by thermal treatment in a vacuum oven, without the introduction of an activation gas or implementation of a measured gas flow.  
+• Observations: The absence of gas flow parameters simplified the procedure while still achieving effective solvent removal.
+
+This activation procedure, with precise control of temperature and time under vacuum conditions, ensured that the halogenated MOF materials were adequately prepared for further application and performance evaluation.
+
+### 5.2 Application/Performance Evaluation
+
+The evaluation of MOF performance centers on gas sorption studies designed to quantify CO₂ uptake and assess pore accessibility. Measurements were conducted using a Micromeritics ASAP 2020 instrument, ensuring both precision and reproducibility. Prior to testing, samples underwent activation by washing with dichloromethane (three cycles), centrifugation, and subsequently being held in a vacuum oven at 450 K overnight to remove any solvated species.
+
+#### 5.2.1 Test Temperature and Pressure
+CO₂ uptake experiments were performed at a controlled temperature of 273 K, a condition that promotes increased gas density and enhances adsorption capacity. For comparison, nitrogen uptake measurements were conducted at 77 K, enabling the determination of BET surface area. All tests maintained a constant pressure of 1 bar, which is critical to ensuring that the observed adsorption behavior can be directly attributed to the inherent properties of the MOF structures rather than to variations in external conditions.
+
+#### 5.2.2 Test Gas Composition and Flow Rate
+The primary gas used in these evaluations was pure CO₂, selected for its ability to interact favorably with fluorinated ligands present in certain frameworks, such as in agZIF‑UC‑4. In dynamic performance assessments, mixed gases (CO₂/N₂) were employed to simulate application-relevant conditions. During these dynamic studies, a continuous flow rate of 100 mL/min was maintained. The gas sorption setup also incorporated an equilibration interval of 45 seconds and a minimum equilibration delay of 600 seconds at high relative pressure, ensuring that the measurements accurately reflected adsorption kinetics.
+
+#### 5.2.3 Observations and Performance Metrics
+Under these controlled conditions, the tested MOFs exhibited rapid and reversible CO₂ adsorption behavior. For instance, agZIF‑UC‑4 displayed an uptake of approximately 42 cm³ (STP)/cm³ at 273 K and 1 bar, highlighting the influence of ligand functionalization on performance. These findings underscore the role of precise temperature, pressure, and gas composition control in determining the sorption characteristics and overall effectiveness of halogenated MOF materials.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** Crystal structure and phase purity were determined using powder X-ray diffraction (PXRD) with Pawley refinement, and single-crystal X-ray diffraction (SCXRD). These methods are essential for confirming the intended framework topology and the absence of impurities in MOF synthesis.
+- **Findings:** For ZIF‑UC‑2, PXRD patterns matched the simulated pattern derived from SCXRD, confirming phase purity and assignment to the orthorhombic Pbca space group. ZIF‑UC‑3 and ZIF‑UC‑5 were similarly confirmed as orthorhombic by SCXRD and PXRD, with ZIF‑UC‑5 exhibiting partial disorder in ligand positions due to symmetry constraints. ZIF‑UC‑4’s crystallinity and cag network topology were validated by PXRD and synchrotron X-ray total scattering.
+- **Observations:** No impurity peaks were observed in PXRD for any sample, indicating successful synthesis. For ZIF‑UC‑5, partial ligand disorder was reported, with occupancy limited by symmetry.
+
+#### 6.1.2 Thermal Stability and Melting Behavior
+- **Description:** Thermal stability and melting behavior were assessed by thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC), which provide insight into solvent loss, decomposition, and glass-forming ability.
+- **Findings:** All ZIFs exhibited solvent loss near 500 K. Decomposition onsets were observed at ~730 K (ZIF‑UC‑2), ~720 K (ZIF‑UC‑3), and ~750 K (ZIF‑UC‑4 and ZIF‑UC‑5). Melting onset temperatures were 679 K (ZIF‑UC‑2), 663 K (ZIF‑UC‑3), 694 K (ZIF‑UC‑4), and 705 K (ZIF‑UC‑5). Glass transition temperatures (Tg) were determined after melt-quenching, with ZIF‑UC‑3 displaying the highest glass-forming ability (GFA ~0.92).
+- **Observations:** The proximity of melting and decomposition temperatures in ZIF‑UC‑4 and ZIF‑UC‑5 suggests a narrow processing window. The steric bulk of ligands in ZIF‑UC‑3 lowers its melting point and enhances GFA.
+
+#### 6.1.3 Local Coordination and Chemical Bonding
+- **Description:** Solid-state NMR (including ^19F), synchrotron X-ray total scattering, and FTIR/THz/far-IR spectroscopy were used to probe local coordination environments and chemical bonding, particularly Zn–N and Zn–F interactions.
+- **Findings:** Solid-state NMR and PDF analysis confirmed preservation of short-range Zn–N coordination in glass phases, with loss of long-range order. ^19F NMR revealed Zn–F bond formation in the glass phases of ZIF‑UC‑2 and ZIF‑UC‑4 (signal at −166.3 ppm), corroborated by a broad 440–460 cm⁻¹ peak in vibrational spectra. ZIF‑UC‑5, lacking fluorinated ligands, did not show Zn–F signals.
+- **Observations:** The emergence of Zn–F bonds upon vitrification indicates partial defluorination and reduced network connectivity, influencing glass properties.
+
+#### 6.1.4 Morphology and Particle Size
+- **Description:** Morphology and particle size were examined by scanning electron microscopy (SEM) and optical microscopy, providing information on crystal habit and changes upon vitrification.
+- **Findings:** ZIF‑UC‑3 and ZIF‑UC‑5 crystals exhibited well-defined, faceted morphologies with good uniformity; ZIF‑UC‑5 showed some particle size variation. After melt-quenching, glass samples were larger and less faceted.
+- **Observations:** Uniform crystal morphology reflects controlled synthesis, while glass formation leads to continuous, non-faceted morphologies.
+
+#### 6.1.5 Vibrational Properties
+- **Description:** THz/far-IR spectroscopy was used to monitor vibrational modes, particularly Zn–N stretching, which is sensitive to framework flexibility.
+- **Findings:** In ZIF‑UC‑4, Zn–N vibrational peaks redshifted from 310–300 cm⁻¹ to 305–290 cm⁻¹ upon heating. The temperature-dependent shift coefficient (Xᴿ) for Zn–N stretching increased by 1.3 times above Tg, and aromatic ring deformation modes increased nearly tenfold.
+- **Observations:** These shifts indicate increased flexibility and dynamic behavior of the Zn–N environment in the glass and liquid states, directly linked to melting and glass formation mechanisms.
+
+#### 6.1.6 Porosity and Gas Uptake
+- **Description:** Porosity and gas uptake were evaluated by N₂ and CO₂ physisorption, key for assessing MOF performance in gas storage and separation.
+- **Findings:** agZIF‑UC‑2 retained some microporosity after vitrification, despite partial ligand loss. agZIF‑UC‑4 exhibited superior CO₂ uptake (about 15% higher than its chlorinated analogue), attributed to stronger CO₂–F interactions. ZIF‑UC‑5 showed reasonable, but slightly lower, CO₂ adsorption.
+- **Observations:** The presence of fluorinated linkers enhances CO₂ adsorption, and partial retention of microporosity in glasses is notable for functional applications.
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Gas Adsorption Capacity
+- **Description:** Gas adsorption capacity quantifies the volume of gas adsorbed per unit mass or volume of MOF under specified conditions, typically reported as cm³ (STP)/g or cm³ (STP)/cm³. For this study, CO₂ uptake was measured at 273 K and 1 bar, and N₂ adsorption at 77 K was used for BET surface area analysis.
+- **Experimental Data:**
+  - **agZIF-UC-4 (5-FbIm) glass:** CO₂ uptake of 42 cm³ (STP)/cm³ at 1 bar (273 K), approximately 15% higher than agZIF-UC-5 and 30% higher than agZIF-62.
+  - **agZIF-62 glass:** CO₂ uptake of 20.1 cm³ (STP)/g at 1 bar (273 K).
+  - **agZIF-UC-5 (5-ClbIm) glass:** CO₂ uptake about 15% lower than agZIF-UC-4.
+  - **ZIF-UC-2:** Retains reversible CO₂ adsorption post-vitrification, indicating preserved microporosity.
+- **Observations and Trends:** The presence of fluorinated ligands in agZIF-UC-4 enhances CO₂ uptake due to stronger interactions between CO₂ and framework F atoms. Bulky benzimidazolate ligands help maintain microporosity after vitrification, supporting reversible gas adsorption in the glass phase.
+
+#### 6.2.2 BET Surface Area and Microporosity
+- **Description:** BET surface area, derived from N₂ adsorption at 77 K (using the 0.05–0.15 p/p₀ range), provides a measure of accessible surface area and is indicative of microporosity.
+- **Experimental Data:**
+  - **Crystalline ZIFs:** BET surface areas range from 7.10 to 86.73 m²/g, reflecting their dense structures.
+- **Observations and Trends:** Despite low BET surface areas, the MOF glasses retain sufficient microporosity to enable measurable CO₂ uptake. The preservation of microporosity is attributed to the steric effects of bulky ligands, which prevent collapse during melt-quenching.
+
+#### 6.2.3 Glass-Forming Ability (GFA)
+- **Description:** Glass-forming ability is quantified by the ratio \( \text{GFA} = T_g / T_m \), where \( T_g \) is the glass transition temperature and \( T_m \) is the melting temperature. Higher GFA indicates greater resistance to recrystallization.
+- **Experimental Data:**
+  - **ZIF-UC-3 (5-Cl-2-mbIm):** GFA of 0.92, the highest among the studied samples.
+  - **ZIF-UC-4:** GFA of 0.81.
+  - **ZIF-UC-2:** GFA of 0.77.
+- **Observations and Trends:** The high GFA of ZIF-UC-3 is attributed to the steric bulk of the 5-Cl-2-mbIm ligand, which suppresses liquid-phase diffusion and enhances vitrification. This structural feature also aids in preserving microporosity and gas uptake post-vitrification.
+
+#### 6.2.4 Cycling Stability and Sorption Kinetics
+- **Description:** Cycling stability assesses the retention of adsorption capacity over repeated adsorption/desorption cycles, while sorption kinetics reflect the speed and reversibility of gas uptake.
+- **Experimental Data:**
+  - All melt-quenched ZIF glasses exhibit reversible CO₂ adsorption with no observed hysteresis in isotherms at 273 K.
+- **Observations and Trends:** The absence of hysteresis and the rapid, reversible adsorption behavior indicate robust cycling stability and efficient diffusion pathways within the glassy MOF structures.
+
+#### 6.2.5 Structure–Property Relationships
+- **Description:** Functional group modifications and network connectivity directly influence gas sorption performance and thermal properties.
+- **Experimental Data:**
+  - Formation of Zn–F bonds in agZIF-UC-4 and agZIF-2 correlates with enhanced CO₂ uptake and lower glass transition temperatures.
+- **Observations and Trends:** Electron-withdrawing substituents (–F, –Cl) weaken Zn–N bonds, modulate melting behavior, and improve gas sorption by increasing framework–guest interactions. The interplay between ligand steric bulk and functionalization is critical for optimizing both processability and performance.
+
+
+
+
+根据提供的文献内容，生成实验流程复现文献实验
+

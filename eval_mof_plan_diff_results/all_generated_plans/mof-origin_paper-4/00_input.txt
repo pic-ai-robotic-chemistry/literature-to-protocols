@@ -1,0 +1,1334 @@
+## **nature chemistry**
+
+**Article** <https://doi.org/10.1038/s41557-023-01277-z>
+
+# **Hetero-interpenetrated metal–organic frameworks**
+
+Received: 9 February 2022
+
+Accepted: 16 June 2023
+
+Published online: 3 August 2023
+
+ [C](http://crossmark.crossref.org/dialog/?doi=10.1038/s41557-023-01277-z&domain=pdf)heck for updates
+
+**David Perl  , Seok J. Lee  , Alan Ferguson, Geoffrey B. Jameson   & Shane G. Telfer**
+
+Interpenetrated metal–organic frameworks (MOFs) comprise two or more lattices that are mutually entangled. Interpenetration can be used to tune the structures and pore architectures of MOFs to infuence, for example, their stability or interactions with guest molecules. The interpenetrating sublattices are typically identical, but hetero-interpenetrated MOFs, which consist of sublattices that are diferent from one another, have also been serendipitously produced. Here we describe a strategy for the deliberate synthesis of hetero-interpenetrated MOFs. We use the cubic α-MUF-9 framework as a host sublattice to template the growth of a second sublattice within its pores. Three diferent secondary sublattices are grown—two of which are not known as standalone MOFs—leading to three diferent hetero-interpenetrated MOFs. This strategy may serve to combine diferent properties into one material. We produce an asymmetric catalysis by allocating separate roles to the interpenetrating sublattices in a hetero-interpenetrated MOF: an achiral secondary amine on one sublattice provides the catalytic activity, while the chiral α-MUF-10 host imparts asymmetry to aldol and Henry reactions.
+
+Interpenetratio[n1](#page-5-0)[,2](#page-5-1) is a common phenomenon in MOFs, where entangled, interlocked sublattices exist in the same crystal. Methods to control interpenetration are important since interpenetration governs the size and chemical environment of the pores, the diffusivity of guest molecules and the framework stability[3](#page-5-2)[–8](#page-5-3) . The interpenetrating sublattices are typically identical, but hetero-interpenetrated MOFs comprise sublattices that are different from one another. Such frameworks are fascinating from the design and structural viewpoints, and they may exhibit properties that are not observed in the individual lattices on their own. For example, bringing together donor groups on one network with acceptor groups on another may result in new optical, magnetic and/ or electronic characteristics. Complementary functional groups may also be precisely placed in the pores of hetero-interpenetrated MOFs to deliver unique adsorption, catalysis and sensing applications. Although occasional examples of hetero-interpenetrated MOFs have been discovered serendipitously[3](#page-5-2),[9–](#page-5-4)[12](#page-5-5), their deliberate synthesis remains elusive. Recent computational studies have identified sublattices that are mutually compatible in silico. However, these hetero-interpenetrated
+
+MOFs have not been experimentally realized[13,](#page-5-6)[14.](#page-5-7) Under conventional synthetic protocols, one-pot methods using structurally related ligands will typically produce multivariate framework[s15](#page-5-8), while ligands with different geometries produce either multicomponent MOF[s16](#page-6-0) or mixed phases. In this light, the deliberate synthesis of hetero-interpenetrated MOFs is not straightforward.
+
+To address this challenge, we formulated a two-step strategy towards the deliberate synthesis of hetero-interpenetrated MOFs. In this approach, a non-interpenetrated MOF acts as a host sublattice. A second, interpenetrating framework is grown in the pore space of this host by subsequent secondary growth. While the interpenetrating sublattice must be geometrically compatible with the host, it can be chemically distinct to deliver a hetero-interpenetrated framework. There is potential for this strategy to be disrupted by competing processes. For example, the second framework may grow outside the pores of the first in a separate phase, the incoming components may displace those of the original framework or the growth of the second framework may be hindered by mass transfer requirements. We herein
+
+MacDiarmid Institute for Advanced Materials and Nanotechnology, School of Natural Sciences, Massey University, Palmerston North, New Zealand.  e-mail: [s.telfer@massey.ac.nz](mailto:s.telfer@massey.ac.nz)
+
+![](_page_1_Figure_2.jpeg)
+
+<span id="page-1-0"></span>**Fig. 1 | Hetero-interpenetrated versus homo-interpenetrated MOFs. a**, Non-interpenetrated α-MUF-9 can serve as a host for the growth of another copy of the [Zn4O(**L1**)3] lattice to make the homo-interpenetrated MOF β-MUF-9. **b**, The experimental strategy towards the hetero-interpenetrated MOFs MUF-91 (i), MUF-92 (ii) and MUF-93 (iii), where α-MUF-9 templates a second sublattice that is chemically distinct from itself. Optical micrographs of the MUF-91, MUF-92 and MUF-93 are presented. **c**–**e**, The PIP level as a function of time as deduced from various experimental techniques for MUF-91 (**c**), MUF-92 (**d**) and
+
+MUF-93 (**e**). Black squares represent the PIP (fractional interpenetration) of multiple individual crystals as determined by SCXRD. Orange circles represent the PIP determined by 1 H NMR spectroscopy. Blue triangles represent the ratio of zinc(II) to cobalt(II) in MUF-93 as determined by AA spectroscopy. The best measure of the PIP is given by SCXRD since the growth of a shell layer adversely influences the PIP determined from 1 H NMR and AA spectroscopic measurements at longer reaction times. Trendlines and confidence intervals are presented in Supplementary Figs. 2, 7 and 14.
+
+present a successful realization of this strategy that circumvents these potential limitations.
+
+We started from α-MUF-9 (MUF, Massey University Framework), which is a cubic MOF with a primitive cubic (pcu) lattice built up from Zn4O nodes and linear dicarboxylate linkers (**L1**; Fig. [1](#page-1-0)). Non-interpenetrated MUF-9 (denoted as α-MUF-9) can be synthesized in a bulky solvent such as *N*,*N*-di-*n*-butylformamide (DBF). In earlier work, we found that α-MUF-9 promotes the growth of a second [Zn4O(**L1**)3] lattice via favourable non-covalent interactions to produce β-MUF-9, a conventional homo-interpenetrated MOF[17](#page-6-1). We speculated that secondary growth could instead involve sublattices with different compositions but the same metric parameters (Fig. [1b\)](#page-1-0). This was achieved using zinc(II) or cobalt(II) metal ions to build up the M4O clusters and ligands based on biphenyl-4,4′-dicarboxylate and its close analogues.
+
+The concept of partial interpenetration is central to this work. In most interpenetrated MOFs, the number of interpenetrating lattices is an integer. However, in partially interpenetrated MOFs, different regions of the crystal are composed of different numbers of sublattices[17](#page-6-1)[–20.](#page-6-2) This results in a fractional value for the overall level of partial interpenetration, which can be expressed as a percentage (PIP). For a doubly interpenetrated MOF, the PIP corresponds to the occupancy of the second sublattice. In some reported cases, the PIP level is fixed[18](#page-6-3)[,19,](#page-6-4) while in others it can be controlled[17,](#page-6-1)[20.](#page-6-2)
+
+![](_page_2_Figure_2.jpeg)
+
+<span id="page-2-0"></span>**Fig. 2 | The structures of α-MUF-9 and MUF-91–MUF-93 determined by SCXRD. a**, The α-MUF-9 host sublattice showing representative positions of the symmetry-disordered **L1** ligands. **b**–**d**, The structures of MUF-91 (**b**), MUF-92 (**c**) and MUF-93 (**d**), with the van der Waals surface of α-MUF-9 shown in blue to highlight the space available for growth of the interpenetrating sublattice
+
+and the scope for attractive non-covalent interactions. The [Zn4O(bpdc)3], [Zn4O(bpdc-NH2)3] and [Co4O(bpdc)3] sublattices in MUF-91–MUF-93 are shown with ball-and-stick models. Hydrogen atoms are omitted from all figures for clarity.
+
+over time by quantifying the changes in the PXRD patterns, and excel-
+
+#### **Results and discussion The hetero-interpenetrated MUF-91 framework**
+
+Our first target was MUF-91, in which a [Zn4O(bpdc)3] sublattice interpenetrates α-MUF-9 ([Zn4O(**L1**)3]; Fig. [1b](#page-1-0)(i)). We first prepared α-MUF-9 using racemic H2**L1** and then incubated it in a secondary growth solution comprising 4,4′-biphenyldicarboxylic acid (H2bpdc) and Zn(NO3)2 in DBF. We found 2-fluorobenzoic acid (FBA) to be a useful additive to suppress the formation of a standalone phase of [Zn4O(bpdc)3]. In addition, the cloudy supernatant was removed periodically throughout the secondary growth process to eliminate small crystallites that self-nucleate from H2bpdc and Zn(NO3)2. The PIP level of MUF-91, which equates with the occupancy of the interpenetrating [Zn4O(bpdc)3] sublattice, increases over time and can be determined quantitatively by single-crystal X-ray diffraction (SCXRD), powder X-ray diffraction (PXRD) and <sup>1</sup> H NMR spectroscopy (Fig. [1c](#page-1-0)). A crystallographic model was developed for the SCXRD datasets (Fig. [2b](#page-2-0) and Supplementary Tables 1 and 2). The occupancy of the secondary [Zn4O(bpdc)3] sublattice was refined as a free variable to give a direct measure of the PIP level over the course of secondary growth. Restraints were used to ensure refinement stability and chemical correctness, and these were loosened as far as the data quality would allow. The *P*43̄ *m* space group of α-MUF-9 is consistently maintained. After 9 hours, the PIP level reaches 70%, which is the upper limit for the occupancy of the [Zn4O(bpdc)3] sublattice (Fig. [1c](#page-1-0)). We could also gauge the PIP level lent agreement with the SCXRD data was observed. The intensity of the PXRD peak at 2*θ* = 5.2° decreases in intensity, and the peak at 7.3° increases (Supplementary Fig. 1). These results correspond to the (100) and (110) reflections that are, respectively, extinguished and enhanced by the growing [Zn4O(bpdc)3] sublattice. These changes mirror those observed during the homo-interpenetration of MUF-9 (ref. [17](#page-6-1)). In accord with the diffraction data, the 1 H NMR spectroscopic analysis of digested MUF-91 samples shows that the amount of bpdc relative to **L1** increases with time. The PIP level deduced from the bpdc/**L1** ratio measured by 1 H NMR spectroscopy on digested samples matches the PIP level given by the diffraction data for the first 9 hours of secondary growth (Fig. [1c\)](#page-1-0). This confirms that bpdc does not simply displace **L1** from the [Zn4O(**L1**)3] host sublattice. After 9 hours, a shell of a different phase forms on the surface of the MUF-91 crystals, which is clearly distinguishable by PXRD (Supplementary Fig. 1) and optical microscopy (Supplementary Fig. 3). The growth of this [Zn4O(bpdc)3] shell is only possible when secondary growth has occurred to a substantial extent and the occupancy of the interpenetrating lattice is already high. After this point, the bpdc/**L1** ratio measured by <sup>1</sup> H NMR spectroscopy increases beyond the PIP level since the shell is composed of [Zn4O(bpdc)3] with no **L1**. To optimize the occupancy of the interpenetrating lattice, we prepared MUF-91 starting from microcrystalline α-MUF-9 rather than large single crystals (Supplementary Fig. 6). PIP levels of ~75% were obtained since the smaller particle size allows for more rapid mass transport during secondary growth. As a control experiment, α-MUF-9 was incubated with H2bpdc and FBA in DBF. Over a period of 9 hours, only 4% of the **L1** linkers in MUF-9 were displaced by bpdc (Supplementary Fig. 28), which places an upper bound on the exchange that can occur during the synthesis of MUF-91. The well-controlled formation of hetero-interpenetrated MUF-91 via secondary growth contrasts with the direct reaction of H2**L1**, H2bpdc and Zn(NO3)2 in *N*,*N*-diethylformamide. This reaction produces a cubic, doubly interpenetrated framework with the **L1** and bpdc linkers distributed randomly throughout the two sublattices, that is, a multivariate, homo-interpenetrated framework. The driving force for the growth of the [Zn4O(bpdc)3] sublattice in the pores of α-MUF-9 (Fig. [2a](#page-2-0)) is the attractive non-covalent interactions that are enabled when the two networks lie in close proximity (Fig. [2b\)](#page-2-0) [17](#page-6-1). The templating ability of α-MUF-9 allows the hetero-interpenetrated MUF-91 to grow while the formation of a standalone [Zn4O(bpdc)3] framework is inhibited by the 2-FBA modulator.
+
+#### **The hetero-interpenetrated MUF-92 framework**
+
+MUF-92 comprises [Zn4O(bpdc-NH2)3] (bpdc-NH2 = 2-amino-4,4′-biphenyldicarboxylate) interpenetrated in α-MUF-9 (Fig. [1b\(](#page-1-0)ii)). [Zn4O(bpdc-NH2)3] is not known to form as a standalone framework[7](#page-5-9) , but it is observed here courtesy of the templating effect of the [Zn4O(**L1**)3] host sublattice. The secondary growth conditions that produce MUF-92 employ α-MUF-9 crystals together with H2bpdc-NH2, Zn(NO3)2 and the FBA modulator in DBF. We monitored the growth of the [Zn4O(bpdc-NH2)3] sublattice by SCXRD, PXRD and <sup>1</sup> H NMR spectroscopy (Fig. [1d,](#page-1-0) Supplementary Figs. 7 and 8 and Supplementary Table 3). The [Zn4O(bpdc-NH2)3] sublattice grows in over an incubation period of 9 hours to reach a PIP level of 74%. The phenyl rings of the bpdc-NH2 ligand adopt an orthogonal conformation, which is impossible for **L1** and thus allows the two sublattices in MUF-92 to be unambiguously differentiated by SCXRD (Fig. [2c\)](#page-2-0). This indicates there is little, if any, displacement of the linkers from the [Zn4O(**L1**)3] sublattice by bpdc-NH2, which was additionally verified by a control experiment (Supplementary Fig. 30). Beyond 9 hours, a shell layer comprising Zn(II) and bpdc-NH2 grows around the crystals, which means the bpdc-NH2/**L1** ratio deduced by NMR spectroscopy continues to rise while the PIP level of the MUF-92 core remains constant (Supplementary Fig. 9). When microcrystals of α-MUF-9 are used for secondary growth, the occupancy level of the [Zn4O(bpdc-NH2)3] sublattice in MUF-92 reaches ~73% before it is inhibited by the Zn(II)/bpdc-NH2 shell layer (Supplementary Figs. 11 and 12).
+
+#### **The hetero-interpenetrated MUF-93 framework**
+
+MUF-93 features α-MUF-9 interpenetrated by [Co4O(bpdc)3] (Fig. [1b](#page-1-0)(iii)). [Co4O(bpdc)3] is not known as a standalone framework[21,](#page-6-5) although [Co4O(1,4-benzenedicarboxylate)3] has been reported starting from a preformed Co4OL6 cluste[r22](#page-6-6). In MUF-93, the [Zn4O(**L1**)3] sublattice templates the formation of [Co4O(bpdc)3] under secondary growth conditions. The emergence of the [Co4O(bpdc)3] sublattice is evidenced by SCXRD (Fig. [2d\)](#page-2-0), <sup>1</sup> H NMR spectroscopy and atomic adsorption (AA) spectroscopy (which measured the Zn/Co ratio). As deduced by X-ray diffraction, large crystals of MUF-93 reach PIP levels of 70% over 60 hours of secondary growth (Fig. [1e](#page-1-0) and Supplementary Table 4), while starting from microcrystalline α-MUF-9 allows the [Co4O(bpdc)3] framework to reach 80% occupancy over just 18 hours (Supplementary Fig. 16). These PIP values align with the 1 H NMR and AA spectroscopic results over the early stages of secondary growth (Fig. [1e](#page-1-0) and Supplementary Fig. 14), which indicates that there is little displacement of the zinc(II) ions by cobalt(II). This is corroborated by the site-specific anomalous scattering experiments detailed later. While the exchange of three out of four zinc(II) ions per node is possible by heating α-MUF-9 in highly concentrated solutions of cobalt(II) nitrate
+
+![](_page_3_Figure_7.jpeg)
+
+<span id="page-3-0"></span>**Fig. 3 | The variation in PIP across an individual crystal of MUF-93 as determined from multiple SCXRD datasets.** An illustration of a crystal of MUF-93 is presented showing the regions pinpointed by the synchrotron X-ray beam. The occupancy level of the interpenetrating [Co4O(bpdc)3] sublattice is highest towards the edges of the crystal and lowest at its centre, consistent with secondary growth being more prevalent at the crystal surface than its centre. Note that the number of unit cells actually present in the X-ray beam at each data collection point is many orders of magnitude greater than illustrated.
+
+in DBF (Supplementary Section 5.2), low rates of metal exchange during the secondary growth of MUF-93 were ensured by using a low concentration of cobalt(II) nitrate. Once the occupancy of the [Co4O(bpdc)3] sublattice reaches ~70% after 60 hours of secondary growth, the amounts of bpdc and Co rise beyond the PIP level due to the gradual displacement of the zinc(II) ions and **L1** linkers of [Zn4O(**L1**)3] by cobalt(II) and bpdc, respectively (Fig. [1e\)](#page-1-0).
+
+The spatial variation of PIP level within an individual MUF-93 specimen was probed by systematically collecting SCXRD datasets across the midpoint of a single crystal. The crystal was approximately ~180 µm in size, and synchrotron X-ray radiation with a spot size of approximately 10 µm (full-width at half-maximum) horizontally was used (Fig. [3](#page-3-0) and Supplementary Fig. 13). Rastering of the crystal produced datasets from various spatial regions. As anticipated, we observed the highest PIP values (~72%) near both edges of the crystal since these regions are more accessible to the incoming components of the interpenetrating sublattice. The PIP levels drop to ~20% when the beam is directed at the centre of the crystal since the mass transfer limits the growth of the second lattice nearer the core.
+
+Conventional single-crystal diffraction cannot reliably distinguish cobalt from zinc in MUF-93 because of their similar electron counts. This is exacerbated at low PIP levels due to high correlations between scattering factors, occupancy and atomic displacement parameters. However, tuning the X-ray wavelength to be near the respective absorption edges for cobalt and zinc enhances their anomalous dispersion and, in principle, permits the discrimination and quantification of these
+
+Positive
+
+Electron density dierence
+
+Negative
+
+![](_page_4_Figure_2.jpeg)
+
+<span id="page-4-0"></span>![](_page_4_Figure_3.jpeg)
+
+sublattice. **a**, MUF-93 after 60 hours of secondary growth showing cobalt(II) exclusively occupying the M4O cluster sites of the interpenetrating [Co4O(bpdc)3] sublattice; a negligible quantity of it displaces zinc(II) from the [Zn4O(**L1**)3] host sublattice. **b**, MUF-93 after 168 hours of secondary growth showing that only after this prolonged reaction time does a detectable amount of cobalt(II) occupies the M4O cluster sites of both sublattices. In this case, it has displaced some of the zinc(II) ions from the host [Zn4O(**L1**)3] sublattice.
+
+metals at specific crystallographic sites (Supplementary Fig. 18)[23](#page-6-7)–[25.](#page-6-8) On this basis, we developed a method for using anomalous dispersion to differentiate metals in crystalline materials. For MUF-93, we calculated the differences in reflection intensities between datasets collected just below the cobalt(II) absorption edge at 7,500 eV (where the in-phase anomalous scattering contribution (*f*′) by cobalt is significant) and a high-resolution dataset collected at 17,440 eV (where there is little anomalous scattering) on the same crystal. The reflection intensity differences obtained in this way arise partly from the difference in anomalous scattering by the cobalt and thus can be used to locate and quantify the cobalt sites. Similarly, we used 9,670/17,440 eV difference datasets, which maximize zinc anomalous dispersion, to pinpoint the zinc sites. Figure [4](#page-4-0) illustrates the datasets obtained in this way, showing differences between peaks near the unit cell centre (crystallographically identical metal atom sites of the [Zn4O(**L1**)3] host sublattice) and peaks near the unit cell corners (crystallographically identical metal atom sites of the interpenetrating [Co4O(bpdc)3] sublattice). After a secondary growth time of 60 hours, the occupancy of [Co4O(bpdc)3] in MUF-93 reaches its maximum. At this point, a distinct peak for cobalt appears near the corner of the unit cell in the difference datasets due to the cobalt ion in the [Co4O(bpdc)3] sublattice (Fig. [4a](#page-4-0)). No signal for cobalt can be detected near the midpoint of the unit cell, which demonstrates that cobalt(II) ions do not displace zinc(II) ions from the [Zn4O(**L1**)3] host over the 60 hours of secondary growth. Displacement of the zinc(II) ions in the [Zn4O(**L1**)3] sublattice becomes evident only after a much longer reaction time (Fig. [4b\)](#page-4-0).
+
+Two illustrative control experiments were also performed. First, a 7,500/17,440 eV difference dataset on a crystal of α-MUF-9 in which the zinc(II) ions had been partially replaced by cobalt(II) showed a single peak for cobalt near the midpoint of the unit cell and no sign of an interpenetrating lattice (Supplementary Fig. 19c). Second, as expected, a 9,670/17,440 eV difference dataset for homo-interpenetrated β-MUF-9 revealed two equally strong peaks for the two independent zinc sites in the unit cell (*P*43̄ *m* space group assumed; Supplementary Fig. 19d).
+
+The anomalous dispersion experiments clearly show that the two sublattices in MUF-93 are distinct from each other, and thus the framework can be genuinely described as being hetero-interpenetrated. This observation underscores the power of the two-step strategy employing secondary growth since any attempt to synthesize MUF-93 directly from a mixture of H2bpdc, Zn(NO3)2 and Co(NO3)2 would result in a mixed-metal multivariate material.
+
+#### **(***R***)-MUF-101 and (***S***)-MUF-101 as catalysts**
+
+Hetero-interpenetrating frameworks constitute a design blueprint for unique functional properties. To illustrate this, we installed the two key roles of an asymmetric catalyst—catalytic activity and chirality—onto the two different sublattices of a hetero-interpenetrated MOF. In contrast to α-MUF-9, which comprises racemic **L1**, α-MUF-10 is a non-interpenetrated, chiral MOF built from enantiopure (*R*)-**L1** or (*S*)-**L1** (Fig. [5\)](#page-5-10). The α-MUF-10 acts as the host sublattice, and its chiral pore space confers asymmetry on the catalysed transformations. An achiral interpenetrating [Zn4O(**L2**)3] sublattice delivers the catalytic activity. We selected **L2** to generate this sublattice since secondary amines are known to be effective organocatalysts for a range of reactions[26](#page-6-9)[,27.](#page-6-10) Experimentally, α-(*R*)-MUF-10 or α-(*S*)-MUF-10 ([Zn4O((*R*)-**L1**)3] or [Zn4O((*S*)-**L1**)3]) templates the growth of [Zn4O(**L2**)3] to produce MUF-101 (Fig. [5\)](#page-5-10). For the catalysis studies, we employed MUF-101 with a PIP level of around 7% to retain high porosity and maximize the diffusion of the substrates and products in and out of the pores.
+
+With a catalyst loading of around 3% (defined as the molar ratio of catalytic **L2** units to aldehyde), MUF-101 catalyses the aldol reaction between 2-chloro-5-nitrobenzaldehyde (**1**) and acetone (Fig. [5](#page-5-10)). High-performance liquid chromatography (HPLC) revealed the reaction product (**2**) to have an enantiomeric excess (e.e.) of −13.9% when catalysed by (*R*)-MUF-101 (Supplementary Fig. 22 and Supplementary Table 7). Importantly, the enantioselectivity was reversed when (*S*)-MUF-101 was used as the catalyst (Supplementary Table 8). This confirms that the preferred handedness of the reaction product is induced by the chirality of the MUF-10 host sublattice. To verify this, we grew a [Zn4O(**L2**)3] sublattice inside the racemic α-MUF-9 host to produce the MUF-99 framework. As expected, MUF-99 is catalytically active but does not confer asymmetry on **2** due to the racemic host environment. As an additional test of the activity of MUF-101, we found that it catalyses the Henry reaction between **1** and nitromethane (Supplementary Scheme 4). The reaction product (**3**) has an e.e. of −9.4% when catalysed by (*R*)-MUF-101, the sign of which is reversed when (*S*)-MUF-101 is the host sublattice (Supplementary Table 8).
+
+![](_page_5_Figure_2.jpeg)
+
+<span id="page-5-10"></span>**Fig. 5 | Hetero-interpenetrated MOFs as asymmetric catalysts.** In MUF-101, chiral α-(*R*)-MUF-10 or α-(*S*)-MUF-10 hosts a catalytically active, yet achiral, [Zn4O(**L2**)3] sublattice. MUF-101 acts as an asymmetric catalyst by coupling the chirality of the host to the catalytic activity of the interpenetrating sublattice. **a**, The synthetic route to MUF-101. **b**, The aldol reaction between 2-chloro-
+
+5-nitrobenzaldehyde (**1**) and acetone is catalysed by MUF-101 and produces **2**. The e.e. of **2** changes sign depending on whether α-(*R*)-MUF-10 or α-(*S*)- MUF-10 is used as the host sublattice since this lattice confers asymmetry on the reaction process.
+
+### **Outlook**
+
+The rational design of hetero-interpenetrated MOFs has inherent challenges since the component sublattices must be geometrically and chemically compatible, phase separation is possible and the exchange of the metal ions and linkers may occur. Here we have taken advantage of the templating effect of a host lattice to promote the growth of interpenetrating sublattices in a second, discrete step. These hetero-interpenetrated MOFs retain the make-up of the individual sublattices since there is no detectable exchange of components between them. In certain cases, methods to produce the interpenetrating sublattices have not been previously reported.
+
+We are optimistic that this deliberate strategy regarding hetero-interpenetrated MOFs will open new perspectives on the field of framework chemistry. Specific functional properties can emerge when different and complementary sublattices are coupled to one another. Here we show how the two principal roles of an asymmetric catalyst can be assigned to the different sublattices: the host framework provides a chiral environment for the second, catalytically active, sublattice. The enantioselectivity is dictated by the handedness of the host sublattice in a way that is reminiscent of the active site in enzymes where the chirality of the catalytic pocket influences the reaction stereochemistry.
+
+#### **Online content**
+
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at [https://doi.org/10.1038/s41557-023-01277-z.](https://doi.org/10.1038/s41557-023-01277-z)
+
+#### **References**
+
+- <span id="page-5-0"></span>1. Batten, S. R. Topology of interpenetration. *CrystEngComm* **3**, 67–72 (2001).
+- <span id="page-5-1"></span>2. Batten, S. R. & Robson, R. Interpenetrating nets: ordered, periodic entanglement. *Angew. Chem. Int. Ed.* **37**, 1460–1494 (1998).
+- <span id="page-5-2"></span>3. Haldar, R., Sikdar, N. & Maji, T. K. Interpenetration in coordination polymers: structural diversities toward porous functional materials. *Mater. Today* **18**, 97–116 (2015).
+- 4. Jiang, H.-L., Makal, T. A. & Zhou, H.-C. Interpenetration control in metal-organic frameworks for functional applications. *Coord. Chem. Rev.* **257**, 2232–2249 (2013).
+- 5. Park, J. H. et al. Interpenetration control, sorption behavior, and framework flexibility in Zn(II) metal-organic frameworks. *Cryst. Growth Des.* **14**, 699–704 (2014).
+- 6. Verma, G., Butikofer, S., Kumar, S. & Ma, S. Regulation of the degree of interpenetration in metal–organic frameworks. *Top. Curr. Chem.* **378**, 4 (2019).
+- <span id="page-5-9"></span>7. Deshpande, R. K., Minnaar, J. L. & Telfer, S. G. Thermolabile groups in metal–organic frameworks: suppression of network interpenetration, post-synthetic cavity expansion and protection of reactive functional groups. *Angew. Chem. Int. Ed.* **47**, 4598–4602 (2010).
+- <span id="page-5-3"></span>8. Miller, J. S. Interpenetrating lattices—materials of the future. *Adv. Mater.* **13**, 525–527 (2001).
+- <span id="page-5-4"></span>9. Li, S. et al. A 2D metal-organic framework interpenetrated by a 2D supramolecular framework assembled by CH/ π interactions. *Inorg. Chem. Commun.* **130**, 108705 (2021).
+- 10. Zhang, M.-D. et al. Chiral 3D/3D hetero-interpenetrating framework with six kinds of helices, 3D polyrotaxane and 2D network via one-pot reaction. *CrystEngComm* **15**, 227–230 (2013).
+- 11. Xu, H. et al. An unprecedented 3D/3D hetero-interpenetrated MOF built from two diferent nodes, chemical composition, and topology of networks. *CrystEngComm* **14**, 5720–5722 (2012).
+- <span id="page-5-5"></span>12. Batten, S. R. in *Metal-Organic Frameworks: Design and Application* (ed MacGillivray, L. R.) Ch. 3 (John Wiley & Sons, 2010).
+- <span id="page-5-6"></span>13. Kwon, O., Park, S., Zhou, H. C. & Kim, J. Computational prediction of hetero-interpenetration in metal-organic frameworks. *Chem. Commun.* **53**, 1953–1956 (2017).
+- <span id="page-5-7"></span>14. Sezginel, K., Feng, T. & Wilmer, C. Discovery of hypothetical hetero-interpenetrated MOFs with arbitrarily dissimilar topologies and unit cell shapes. *CrystEngComm* **19**, 4497–4504 (2017).
+- <span id="page-5-8"></span>15. Furukawa, H., Muller, U. & Yaghi, O. M. "Heterogeneity within order" in metal-organic frameworks. *Angew. Chem. Int. Ed.* **54**, 3417–3430 (2015).
+
+- <span id="page-6-0"></span>16. Pang, Q., Tu, B. & Li, Q. Metal-organic frameworks with multicomponents in order. *Coord. Chem. Rev.* **388**, 107–125 (2019).
+- <span id="page-6-1"></span>17. Ferguson, A. et al. Controlled partial interpenetration in metal– organic frameworks. *Nat. Chem* **8**, 250–257 (2016).
+- <span id="page-6-3"></span>18. Verma, G. et al. Partially interpenetrated NbO topology metal– organic framework exhibiting selective gas adsorption. *Cryst. Growth Des.* **17**, 2711–2717 (2017).
+- <span id="page-6-4"></span>19. Yang, S. et al. A partially interpenetrated metal–organic framework for selective hysteretic sorption of carbon dioxide. *Nat. Mater.* **11**, 710–716 (2012).
+- <span id="page-6-2"></span>20. O'Nolan, D. et al. Impact of partial interpenetration in a hybrid ultramicroporous material on C2H2/C2H4 separation performance. *Chem. Commun.* **54**, 3488–3491 (2018).
+- <span id="page-6-5"></span>21. Pan, L., Ching, N., Huang, X. & Li, J. Reactions and reactivity of Co− bpdc coordination polymers (bpdc = 4,4′-biphenyldicarboxylate). *Inorg. Chem.* **39**, 5333–5340 (2000).
+- <span id="page-6-6"></span>22. Hausdorf, S., Baitalow, F., Böhle, T., Rafaja, D. & Mertens, F. O. Main-group and transition-element IRMOF homologues. *J. Am. Chem. Soc.* **132**, 10978–10981 (2010).
+- <span id="page-6-7"></span>23. Brozek, C. K., Cozzolino, A. F., Teat, S. J., Chen, Y.-S. & Dincă, M. Quantification of site-specific cation exchange in metal–organic frameworks using multi-wavelength anomalous X-ray dispersion. *Chem. Mater.* **25**, 2998–3002 (2013).
+- 24. Freedman, D. E. et al. Site specific X-ray anomalous dispersion of the geometrically frustrated kagomé' magnet, herbertsmithite, ZnCu3(OH)6Cl2. *J. Am. Chem. Soc.* **132**, 16185–16190 (2010).
+- <span id="page-6-8"></span>25. Helliwell, M. et al. Determination of zinc incorporation in the Zn-substituted gallophosphate ZnULM-5 by multiple wavelength anomalous dispersion techniques. *Acta Cryst.B* **66**, 345–357 (2010).
+- <span id="page-6-9"></span>26. Zhou, T.-Y., Auer, B., Lee, S. J. & Telfer, S. G. Catalysts confined in programmed framework pores enable new transformations and tune reaction eficiency and selectivity. *J. Am. Chem. Soc.* **141**, 1577–1582 (2019).
+- <span id="page-6-10"></span>27. Ishikawa, H. & Shiomi, S. Alkaloid synthesis using chiral secondary amine organocatalysts. *Org. Biomol. Chem.* **14**, 409–424 (2016).
+- <span id="page-6-11"></span>28. Perl, D. et al. Data for paper 'Hetero-interpenetrated metal-organic frameworks'. *figshare* [https://doi.org/10.6084/](https://doi.org/10.6084/m9.figshare.22682965.v2) [m9.figshare.22682965.v2](https://doi.org/10.6084/m9.figshare.22682965.v2) (2023).
+
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afiliations.
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+© The Author(s), under exclusive licence to Springer Nature Limited 2023
+
+### **Data availability**
+
+Crystallographic data for the structures reported in this Article have been deposited at the Cambridge Crystallographic Data Centre, under deposition numbers [2144458–](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2144458)[2144473](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2144473) and [2269651](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2269651) (MUF-91), [2144574](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2144574)[–2144588](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2144588) (MUF-92), [2149445–](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2149445)[2149471](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2149471) and [2269651](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2269651) (MUF-93) and [2149424](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2149424)[–2149437](https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=2149437) (rastering files for MUF-93), as detailed in Supplementary Table 1. Copies of the data can be obtained free of charge via<https://www.ccdc.cam.ac.uk/structures/>. All other data are included in the Supplementary Information. Source data are provided with this article and also available on figshare, [https://doi.org/10.6084/](https://doi.org/10.6084/m9.figshare.22682965.v2) [m9.figshare.22682965.v2](https://doi.org/10.6084/m9.figshare.22682965.v2) (ref. [28\)](#page-6-11).
+
+### **Code availability**
+
+The Python scripts are available on figshare at [https://doi.org/10.6084/](https://doi.org/10.6084/m9.figshare.22682965.v2) [m9.figshare.22682965.v2](https://doi.org/10.6084/m9.figshare.22682965.v2) (ref. [28\)](#page-6-11).
+
+#### **Acknowledgements**
+
+This research was undertaken in part using the MX2 beamline at the Australian Synchrotron, part of the Australian Nuclear Science and Technology Organisation. We made use of the Australian Cancer Research Foundation detector, partially funded by the New Zealand Group and supported by Massey University. We are grateful to beamline scientists S. Panjikar and J. Price for their expert help. We also thank D. Lun for technical assistance and P. Plieger for guidance on AA spectroscopy. We received no specific funding for this work.
+
+#### **Author contributions**
+
+S.G.T. conceived the idea. D.P. developed the concept, conducted experiments, analysed the results and prepared the Supplementary Information. A.F. and S.J.L. conducted experimental work. G.B.J. conceived and advised on the anomalous scattering experiments. S.G.T. and G.B.J. supervised the project. S.G.T. and D.P. wrote the manuscript with contributions from all authors.
+
+#### **Competing interests**
+
+The authors declare no competing interests.
+
+### **Additional information**
+
+**Supplementary information** The online version contains supplementary material available at [https://doi.org/10.1038/s41557-023-01277-z.](https://doi.org/10.1038/s41557-023-01277-z)
+
+**Correspondence and requests for materials** should be addressed to Shane G. Telfer.
+
+**Peer review information** *Nature Chemistry* thanks Hai-Long Jiang, Hong-Cai Zhou and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+
+**Reprints and permissions information** is available at [www.nature.com/reprints](http://www.nature.com/reprints).# **nature chemistry**
+
+**Article** <https://doi.org/10.1038/s41557-023-01277-z>
+
+# **Hetero-interpenetrated metal–organic frameworks**
+
+In the format provided by the authors and unedited
+
+|         | General Procedures 3                                                        |  |
+|---------|-----------------------------------------------------------------------------|--|
+| S1.1.   | Synthesis of H2L1 3                                                         |  |
+| S1.2.   | Synthesis of H2L2 3                                                         |  |
+| S1.3.   | MOF digestion 4                                                             |  |
+| S1.4.   | Atomic Absorption Spectroscopy4                                             |  |
+|         | Synthesis, crystallographic details, and characterisation of MUFs-91 – 93 5 |  |
+| S2.1.   | General crystallographic methods and strategy5                              |  |
+| S2.1.1. | A note about data quality and CheckCIF alerts5                              |  |
+| S2.1.2. | Determination of PIP% by PXRD 6                                             |  |
+| S2.1.3. | CIF files uploaded as Supplementary Data 6                                  |  |
+| S2.2.   | MUF-91 (α-MUF-9 interpenetrated by [Zn4O(bpdc)3]) 9                         |  |
+| S2.2.1. | Synthesis of MUF-91 single crystals9                                        |  |
+| S2.2.2. | PXRD9                                                                       |  |
+| S2.2.3. | X-ray crystallography 10                                                    |  |
+| S2.2.4. | 1H NMR spectroscopy11                                                       |  |
+| S2.2.5. | Optical Microscopy 11                                                       |  |
+| S2.2.6. | Microcrystalline MUF-91 12                                                  |  |
+| S2.3.   | MUF-92 (MUF-9 interpenetrated by [Zn4O(bpdc-NH2)3])14                       |  |
+| S2.3.1. | Synthesis of MUF-92 single crystals14                                       |  |
+| S2.3.2. | X-ray crystallography 14                                                    |  |
+| S2.3.3. | 1H NMR spectroscopy15                                                       |  |
+| S2.3.4. | PXRD16                                                                      |  |
+| S2.3.5. | Optical microscopy 16                                                       |  |
+| S2.3.6. | Microcrystalline MUF-92 17                                                  |  |
+| S2.4.   | MUF-93 (MUF-9 interpenetrated by [Co4O(bpdc)3])19                           |  |
+| S2.4.1. | Synthesis of MUF-93 single crystals19                                       |  |
+| S2.4.2. | X-ray crystallography 19                                                    |  |
+| S2.4.3. | Atomic Absorption (AAS) and 1H NMR Spectroscopy21                           |  |
+| S2.4.4. | Optical Microscopy 21                                                       |  |
+| S2.4.5. | Microcrystalline MUF-93 22                                                  |  |
+|         | Site-specific metal identification in MUF-9324                              |  |
+| S3.1.   | Processing and analysis of multi-wavelength SCXRD data24                    |  |
+
+| S3.1.1. | Determination of appropriate wavelength 24                      |  |
+|---------|-----------------------------------------------------------------|--|
+| S3.1.2. | Generation of difference datasets and Patterson maps 25         |  |
+| S3.1.3. | Interpretation of the anomalous difference datasets 25          |  |
+|         | Synthesis, characterisation and catalytic activity of MUF-10129 |  |
+| S4.1.   | Synthesis of (R)-MUF-101 and (S)-MUF-101 29                     |  |
+| S4.2.   | 1H NMR spectroscopy and PXRD of MUF-10129                       |  |
+| S4.3.   | Catalysis reactions30                                           |  |
+| S4.3.1. | HPLC traces of catalysed reactions 31                           |  |
+|         | Control experiments 33                                          |  |
+| S5.1.   | Heating MUF-9 and MUF-10 alone in various solvents33            |  |
+| S5.2.   | Heating MUF-9 with Co(NO3)234                                   |  |
+| S5.3.   | Heating -MUF-9 with biphenyldicarboxylate ligands 36           |  |
+|         | Python scripts38                                                |  |
+| S6.1.   | Correction of baselines for PXRD patterns 38                    |  |
+| S6.2.   | Interpenetration percentage determination 40                    |  |
+| S6.3.   | Generation of difference data41                                 |  |
+| S6.4.   | Integration of difference data42                                |  |
+|         | References48                                                    |  |
+
+# <span id="page-3-0"></span>**General Procedures**
+
+All starting materials and solvents were used as received from commercial sources without further purification unless otherwise noted. Column chromatography was carried out on silica gel (grade 60, mesh size 230-400, Scharlau). NMR spectra were recorded at room temperature (unless otherwise noted) on Bruker-400 and Bruker-500 Avance instruments, with the use of the solvent proton as an internal standard. High performance liquid chromatography (HPLC) was carried out using a Dionex Ultimate 3000 system equipped with a UV detector. Elemental analyses were performed by the Campbell Microanalytical Laboratory at the University of Otago, New Zealand. PXRD patterns were obtained on a Rigaku Spider diffractometer equipped with a copper rotating anode generator. Atomic Absorption Spectroscopy was performed using a GBC XplorAA. SEM images and optical micrographs were collected at the MMIC, Massey University, Palmerston North, New Zealand using a FEI Quanta 200 Environmental Scanning Electron Microscope (SEM) with EDAX module and a Zeiss Axiophot Microscope with Differential Interference Contrast (DIC) Optics and Colour CCD camera, respectively.
+
+### <span id="page-3-1"></span>**S1.1. Synthesis of H2L1**
+
+![](_page_3_Figure_3.jpeg)
+
+2,2'-Diaminobiphenyl-4,4'-dicarboxylic acid (300mg, 1.10 mmol) and benzil (300 mg, 1.43 mmol) in dioxane (7.2 mL) and TFA (0.8 mL) were heated to 200 °C by microwave irradiation for 2 hours. The reaction mixture was transferred to a centrifuge tube and water (25 mL) was added to precipitate the product. The solid was collected by centrifugation at 4000 rpm for 15 minutes. The crude product was dissolved in 1 M aqueous NaOH (10 mL) and washed with CH2Cl<sup>2</sup> (5 mL × 3). Aqueous HCl (2 M) was then added dropwise until a pale-yellow precipitate formed, which was collected by filtration and washed with H2O to yield H2**L1** (420 mg, 1.10 mmol, 85%). Characterisation data matched those previously reported. 1, 2
+
+### <span id="page-3-2"></span>**S1.2. Synthesis of H2L2**
+
+![](_page_3_Figure_6.jpeg)
+
+Dimethyl-2-(bromomethyl)-4,4'-biphenyldicarboxylate<sup>3</sup> (500 mg, 1.38 mmol) was dissolved in Et2O (30 mL) in a 100 mL round-bottom flask equipped with a magnetic stirrer. 1 M MeNH<sup>2</sup> in Et2O (20 mL) and Et3N (1 mL) were added and the mixture stirred at room temperature overnight. The reaction mixture was washed with H2O (20 mL × 3) and concentrated under reduced pressure, then the residue chromatographed on silica in a gradient from 100:1 CH2Cl2:MeOH to 5:1 CH2Cl2:MeOH to yield dimethyl 2-(methylaminomethyl)-4,4'-biphenyldicarboxylate (Me2**L2**, 382 mg, 1.21 mmol, 88%). <sup>1</sup>H NMR (500 MHz, CDCl3): 8.20 (1H, s), 8.12 (2H, d, J = 8.17 Hz), 8.00 (1H, dd, J = 7.98, 1.50 Hz), 7.48 (2H, d, J = 8.17 Hz), 7.33 (1H, d, J = 8.00 Hz), 3.97 (3H, s), 3.95 (3H, s), 3.72 (2H, s), 2.36 (2H, s). <sup>13</sup>C NMR (125 MHz, CDCl3): 166.82, 145.46, 144.82, 130.47, 130.09, 129.89, 129.66, 129.52, 129.04, 128.41, 52.25, 52.23, 35.63. ESI-MS: cacld for C18H19NO4, 313.13; found 313.08.
+
+Dimethyl 2-(methylaminomethyl)-4,4'-biphenyldicarboxylate (Me2**L2**, 300 mg, 0.96 mmol) was dissolved in THF (15 mL) in a 50 mL round-bottom flask equipped with a stir bar. 2 M aqueous KOH (4 mL) was added and the mixture stirred vigorously overnight at room temperature. THF was removed under reduced pressure, and the mixture carefully neutralized with 1 M aqueous HCl to give a white precipitate (H2**L2**), which was collected by filtration, washed with H2O (5 mL × 3) and dried under high vacuum (256 mg, 0.90 mmol, 94%). <sup>1</sup>H NMR (500 MHz, d6-DMSO): 10.90 (2H, s, b), 8.36 (1H, s), 8.07 (2H, d, J = 7.25 Hz), 8.03 (1H, d, J = 7.75 Hz), 7.57 (2H, d, J = 7.15 Hz), 7.49 (1H, d, J = 7.50 Hz), 4.09 (2H, s), 2.47 (3H, s). <sup>13</sup>C NMR (125 MHz, d6-DMSO): 167.42, 146.90, 145.6, 131.26, 130.88, 130.77, 130.47, 130.11, 13.03 130.02, 49.10, 33.43. ESI-MS: calcd for C16H16NO4, 286.11; found 286.11 (M+H<sup>+</sup> ).
+
+#### <span id="page-4-0"></span>**S1.3. MOF digestion**
+
+MOF samples were washed with DMF three times, then acetone five times. Excess solvent was removed, and the MOF dried under vacuum overnight. To the dried MOF, 0.2 mL of a 375 mM solution of DCl in d6-DMSO was first added, and the mixture sonicated until the MOF was dissolved, then a further 0.4 mL of d6-DMSO added. This solution was then used for <sup>1</sup>H NMR spectroscopy before being further used for AAS where relevant.
+
+#### <span id="page-4-1"></span>**S1.4. Atomic Absorption Spectroscopy**
+
+Digested MOF samples were diluted to 10 mL in 2 M aqueous HCl, then filtered through a syringe filter and analysed using a GBC XplorAA for their cobalt and zinc contents. The absolute wt% of these metals were not determined, instead, only their ratio was obtained.
+
+# <span id="page-5-0"></span>**Synthesis, crystallographic details, and characterisation of MUFs-91 – 93**
+
+### <span id="page-5-1"></span>**S2.1. General crystallographic methods and strategy**
+
+Powder X-ray diffraction data and some single crystal X-ray diffraction data were obtained using a Rigaku Spider diffractometer using Cu K radiation. Other single crystal X-ray diffraction data were obtained on the MX1 and MX2 beamlines at the Australian Synchrotron, part of ANSTO. 4, 5 In no cases were any solvent scattering contributions been taken into account. The crystallographic models used were adapted from that for MUF-9, <sup>1</sup> which was originally solved with SHELXT 6 , and SHELXL<sup>7</sup> was used for refinement using OLEX2 and CrystalMaker as a graphical interfaces and for the preparation of publication material. 8
+
+A crystallographic model for MUF-91 was developed from the highest-quality data set (which had a high percentage of interpenetration, PIP%) in the P-43m space group. The coordinates of the atoms were then fixed, with the occupancy of the secondary lattice assigned to a free variable. This model was then used as a starting point for the refinement of the datasets obtained from the lower PIP% samples (for which the data quality was lower).
+
+Tight restraints were added to preserve the refinement stability and chemical correctness. These consisted of the standard SHELX instructions DFIX (which were used for the 1,2 and 1,3 distances of phenyl rings, as well as the N-C bonds of the diimine bridge of **L1**), FLAT (which was used for phenyl rings and their nearest substituent atoms), SIMU, which was used for most atoms as appropriate, and ISOR for several atoms (notably the oxygen atoms of the Zn4O clusters) which had highly anisotropic or non-positive definite atomic displacement parameters. At the most restricted, SIMU, and ISOR standard errors were set at 0.001. Datasets were refined individually using this restrained model, with restraints loosened as far as the quality of each dataset would allow by increasing the standard error up to 0.1 in the cases of the best datasets, comprising a very weak restraint. The cell parameters were determined individually for each dataset.
+
+A similar model was used to refine the MUF-92 and MUF-93 datasets, only making modifications according to the identity of the interpenetrating sublattice. For example, for MUF-92, the same model as for MUF-91 was used, except an amino group was added in the appropriate location and with the appropriate disorder parameters.
+
+#### <span id="page-5-2"></span>**S2.1.1. A note about data quality and CheckCIF alerts**
+
+Structural models were determined from the high-quality datasets, typically obtained at high PIP%, and refined appropriately, resulting in good refinement statistics. Many of the other datasets have incurred one or more level-A CheckCIF alerts, notably those relating to low resolution, data/parameter ratios, and high Rint or wR<sup>2</sup> values. It is necessary to use the datasets that give rise to these alerts because they provide important information about the level of interpenetration; relying only on good datasets would bias the results towards higher values of PIP% among other issues. Also, with atom positions fixed, these datasets contain sufficient information to determine the value of PIP% to reasonable accuracy and precision, and they are not used for structure determination *per se*.
+
+#### **Level A alerts**
+
+#### *The value of sine(theta\_max)/wavelength is less than 0.550*
+
+The crystals typically only diffracted to low angle, and this issue was particularly acute for those with low PIP%.
+
+#### *High wR2 Value (i.e. > 0.25)*
+
+The disordered nature of the interpenetrating lattice (in the sense that it is not spatially localised in the host framework) leads to inherently high wR2 values. Also, the large voids are filled with highly disordered solvent, which was not "SQUEEZEd" out.
+
+#### *Unit Cell Contains Solvent Accessible VOIDS of*
+
+Such void spaces are anticipated in these framework materials.
+
+#### **Level B alerts**
+
+#### *Calculated Density Less Than 1.0 gcm-3*
+
+Such low densities are anticipated in these framework materials.
+
+#### *High R1 Value*
+
+The disordered nature of the interpenetrating lattice (in the sense that it is not spatially localised in the host framework) leads to inherently high R1 values. Also, the large voids are filled with highly disordered solvent, which was not "SQUEEZEd" out.
+
+#### *Large Average Ueq of Residue…*
+
+The low occupancy of the interpenetrating lattice results in Ueq values that are occasionally higher than the norm.
+
+#### *The Flack x is >> 0*
+
+The host framework is non-centrosymmetric (space group P-43m), which results in these alerts, though we chose not to model any inversion twinning since the interpenetrating lattice takes the crystals toward a centrosymmetric space group (the space group is ultimately Pn-3m when the interpenetrating lattice is fully occupied i.e. PIP = 100%).
+
+#### *Singly Bonded Carbon Detected (H-atoms Missing)*
+
+On occasion the crystallographic software misinterpreted the bonding pattern resulting in these false alerts.
+
+#### <span id="page-6-0"></span>**S2.1.2. Determination of PIP% by PXRD**
+
+Baselines were removed from PXRD data using a customised Sonneveld-Visser algorithm (python code in [S9.1\)](#page-38-1), and patterns scaled to an arbitrary intensity of 1000. The apparent PIP% was obtained by calculating the contribution of each component in a linear combination of a fully interpenetrated and a non-interpenetrated sample of MUF-9, with the least-squares difference to the observed PXRD pattern (python code in [S9.2\)](#page-40-0).
+
+### <span id="page-6-1"></span>**S2.1.3. CIF files uploaded as Supplementary Data**
+
+| File name           | MOF    | CCDC    | Formula                      | Notes     |  |
+|---------------------|--------|---------|------------------------------|-----------|--|
+| (h = hours; pc = %) |        | number  |                              |           |  |
+| MUF-91-1h-12pc.cif  | MUF-91 | 2144464 | [Zn4O(L1)3][Zn4O(bpdc)3]0.12 | PIP = 12% |  |
+| MUF-91-3h-23pc.cif  | MUF-91 | 2144465 | [Zn4O(L1)3][Zn4O(bpdc)3]0.23 | PIP = 23% |  |
+| MUF-91-3h-27pc.cif  | MUF-91 | 2144466 | [Zn4O(L1)3][Zn4O(bpdc)3]0.27 | PIP = 27% |  |
+| MUF-91-3h-38pc.cif  | MUF-91 | 2144467 | [Zn4O(L1)3][Zn4O(bpdc)3]0.38 | PIP = 38% |  |
+
+#### **Supplementary Table 1:** Further information on the CIF files uploaded as Supplementary Data.
+
+| MUF-91-3h-41pc.cif    | MUF-91 | 2144468 | [Zn4O(L1)3][Zn4O(bpdc)3]0.41     | PIP = 41%                   |
+|-----------------------|--------|---------|----------------------------------|-----------------------------|
+| MUF-91-6h-50pc.cif    | MUF-91 | 2144469 | [Zn4O(L1)3][Zn4O(bpdc)3]0.50     | PIP = 50%                   |
+| MUF-91-6h-52pc.cif    | MUF-91 | 2144470 | [Zn4O(L1)3][Zn4O(bpdc)3]0.52     | PIP = 52%                   |
+| MUF-91-9h-51pc.cif    | MUF-91 | 2144471 | [Zn4O(L1)3][Zn4O(bpdc)3]0.51     | PIP = 51%                   |
+| MUF-91-9h-64pc.cif    | MUF-91 | 2144472 | [Zn4O(L1)3][Zn4O(bpdc)3]0.64     | PIP = 64%                   |
+| MUF-91-9h-76pc.cif    | MUF-91 | 2144473 | [Zn4O(L1)3][Zn4O(bpdc)3]0.76     | PIP = 76%                   |
+| MUF-91-12h-57pc.cif   | MUF-91 | 2144458 | [Zn4O(L1)3][Zn4O(bpdc)3]0.57     | PIP = 57%                   |
+| MUF-91-12h-71pc.cif   | MUF-91 | 2144459 | [Zn4O(L1)3][Zn4O(bpdc)3]0.71     | PIP = 71%                   |
+| MUF-91-15h-51pc.cif   | MUF-91 | 2144460 | [Zn4O(L1)3][Zn4O(bpdc)3]0.51     | PIP = 51%, shell<br>present |
+| MUF-91-15h-58pc.cif   | MUF-91 | 2144461 | [Zn4O(L1)3][Zn4O(bpdc)3]0.58     | PIP = 58%, shell<br>present |
+| MUF-91-15h-68pc.cif   | MUF-91 | 2144462 | [Zn4O(L1)3][Zn4O(bpdc)3]0.68     | PIP = 68%, shell<br>present |
+| MUF-91-18h-46pc.cif   | MUF-91 | 2144463 | [Zn4O(L1)3][Zn4O(bpdc)3]0.46     | PIP = 46%, shell<br>present |
+| MUF-91-18h-66pc.cif   | MUF-91 | 2269651 | [Zn4O(L1)3][Zn4O(bpdc)3]0.66     | PIP = 66%, shell<br>present |
+| MUF-92-3h-41pc.cif    | MUF-92 | 2144580 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.41 | PIP = 41%                   |
+| MUF-92-3h-47pc.cif    | MUF-92 | 2144581 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.47 | PIP = 47%                   |
+| MUF-92-3h-50pc.cif    | MUF-92 | 2144582 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.50 | PIP = 50%                   |
+| MUF-92-6h-53pc.cif    | MUF-92 | 2144583 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.53 | PIP = 53%                   |
+| MUF-92-6h-63pc.cif    | MUF-92 | 2144584 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.63 | PIP = 63%                   |
+| MUF-92-6h-65pc.cif    | MUF-92 | 2144585 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.65 | PIP = 65%                   |
+| MUF-92-9h-63pc.cif    | MUF-92 | 2144586 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.63 | PIP = 63%                   |
+| MUF-92-9h-65pc.cif    | MUF-92 | 2144587 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.65 | PIP = 65%                   |
+| MUF-92-9h-71pc.cif    | MUF-92 | 2144588 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.71 | PIP = 71%                   |
+| MUF-92-12h-68pc.cif   | MUF-92 | 2144574 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.68 | PIP = 68%, shell<br>present |
+| MUF-92-12h-71pc.cif   | MUF-92 | 2144575 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.71 | PIP = 71%, shell<br>present |
+| MUF-92-12h-81pc.cif   | MUF-92 | 2144576 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.81 | PIP = 81%, shell<br>present |
+| MUF-92-15h-71pc.cif   | MUF-92 | 2144577 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.71 | PIP = 71%, shell<br>present |
+| MUF-92-15h-77pc-2.cif | MUF-92 | 2144578 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.77 | PIP = 77%, shell<br>present |
+| MUF-92-15h-77pc.cif   | MUF-92 | 2144579 | [Zn4O(L1)3][Zn4O(bpdc-NH2)3]0.77 | PIP = 77%, shell<br>present |
+| MUF-93-12h-01pc.cif   | MUF-93 | 2149445 | [Zn4O(L1)3][Co4O(bpdc)3]0.01     | PIP = 1%                    |
+| MUF-93-12h-02pc.cif   | MUF-93 | 2149446 | [Zn4O(L1)3][Co4O(bpdc)3]0.02     | PIP = 2%                    |
+| MUF-93-12h-10pc.cif   | MUF-93 | 2149447 | [Zn4O(L1)3][Co4O(bpdc)3]0.10     | PIP = 10%                   |
+| MUF-93-12h-4pc.cif    | MUF-93 | 2149448 | [Zn4O(L1)3][Co4O(bpdc)3]0.04     | PIP = 4%                    |
+| MUF-93-24h-14pc.cif   | MUF-93 | 2149449 | [Zn4O(L1)3][Co4O(bpdc)3]0.14     | PIP = 14%                   |
+| MUF-93-24h-15pc.cif   | MUF-93 | 2149450 | [Zn4O(L1)3][Co4O(bpdc)3]0.15     | PIP = 15%                   |
+| MUF-93-24h-16pc.cif   | MUF-93 | 2149451 | [Zn4O(L1)3][Co4O(bpdc)3]0.16     | PIP = 16%                   |
+| MUF-93-24h-21pc.cif   | MUF-93 | 2149452 | [Zn4O(L1)3][Co4O(bpdc)3]0.21     | PIP = 21%                   |
+
+| MUF-93-24h-28pc.cif         | MUF-93 | 2149453 | [Zn4O(L1)3][Co4O(bpdc)3]0.28 | PIP = 28%        |
+|-----------------------------|--------|---------|------------------------------|------------------|
+| MUF-93-36h-22pc.cif         | MUF-93 | 2149454 | [Zn4O(L1)3][Co4O(bpdc)3]0.22 | PIP = 22%        |
+| MUF-93-36h-28pc.cif         | MUF-93 | 2149455 | [Zn4O(L1)3][Co4O(bpdc)3]0.28 | PIP = 28%        |
+| MUF-93-36h-37pc.cif         | MUF-93 | 2269652 | [Zn4O(L1)3][Co4O(bpdc)3]0.37 | PIP = 37%        |
+| MUF-93-48h-39pc.cif         | MUF-93 | 2149456 | [Zn4O(L1)3][Co4O(bpdc)3]0.39 | PIP = 39%        |
+| MUF-93-48h-48pc.cif         | MUF-93 | 2149457 | [Zn4O(L1)3][Co4O(bpdc)3]0.48 | PIP = 48%        |
+| MUF-93-48h-51pc.cif         | MUF-93 | 2149458 | [Zn4O(L1)3][Co4O(bpdc)3]0.51 | PIP = 51%        |
+| MUF-93-48h-61pc.cif         | MUF-93 | 2149459 | [Zn4O(L1)3][Co4O(bpdc)3]0.61 | PIP = 61%        |
+| MUF-93-60h-59pc.cif         | MUF-93 | 2149460 | [Zn4O(L1)3][Co4O(bpdc)3]0.59 | PIP = 59%        |
+| MUF-93-60h-63pc.cif         | MUF-93 | 2149461 | [Zn4O(L1)3][Co4O(bpdc)3]0.63 | PIP = 63%        |
+| MUF-93-60h-73pc.cif         | MUF-93 | 2149462 | [Zn4O(L1)3][Co4O(bpdc)3]0.73 | PIP = 73%        |
+|                             |        |         |                              | PIP = 62%, metal |
+| MUF-93-72h-62pc.cif         | MUF-93 | 2149463 | [Zn4O(L1)3][Co4O(bpdc)3]0.62 | and L exchange   |
+|                             |        |         |                              | PIP = 63%, metal |
+| MUF-93-72h-63pc.cif         | MUF-93 | 2149464 | [Zn4O(L1)3][Co4O(bpdc)3]0.63 | and L exchange   |
+|                             |        |         |                              | PIP = 76%, metal |
+| MUF-93-72h-76pc.cif         | MUF-93 | 2149465 | [Zn4O(L1)3][Co4O(bpdc)3]0.76 | and L exchange   |
+|                             |        |         |                              | PIP = 66%, metal |
+| MUF-93-84h-66pc.cif         | MUF-93 | 2149466 | [Zn4O(L1)3][Co4O(bpdc)3]0.66 | and L exchange   |
+| MUF-93-84h-67pc.cif         | MUF-93 | 2149467 | [Zn4O(L1)3][Co4O(bpdc)3]0.67 | PIP = 67%, metal |
+|                             |        |         |                              | and L exchange   |
+| MUF-93-84h-71pc.cif         | MUF-93 | 2149468 | [Zn4O(L1)3][Co4O(bpdc)3]0.71 | PIP = 71%, metal |
+|                             |        |         |                              | and L exchange   |
+| MUF-93-96h-66pc.cif         | MUF-93 | 2149469 | [Zn4O(L1)3][Co4O(bpdc)3]0.66 | PIP = 66%, metal |
+|                             |        |         |                              | and L exchange   |
+| MUF-93-96h-67pc.cif         | MUF-93 | 2149470 | [Zn4O(L1)3][Co4O(bpdc)3]0.67 | PIP = 67%, metal |
+|                             |        |         |                              | and L exchange   |
+| MUF-93-96h-70pc.cif         | MUF-93 | 2149471 | [Zn4O(L1)3][Co4O(bpdc)3]0.70 | PIP = 70%, metal |
+|                             |        |         |                              | and L exchange   |
+|                             |        |         |                              |                  |
+| MUF-93-scan1-pos1-72pc.cif  | MUF-93 | 2149430 | [Zn4O(L1)3][Co4O(bpdc)3]0.72 | Rastering        |
+| MUF-93-scan1-pos3-59pc.cif  | MUF-93 | 2149431 | [Zn4O(L1)3][Co4O(bpdc)3]0.59 | Rastering        |
+| MUF-93-scan1-pos4-52pc.cif  | MUF-93 | 2149432 | [Zn4O(L1)3][Co4O(bpdc)3]0.52 | Rastering        |
+| MUF-93-scan1-pos5-31pc.cif  | MUF-93 | 2149433 | [Zn4O(L1)3][Co4O(bpdc)3]0.31 | Rastering        |
+| MUF-93-scan1-pos6-23pc.cif  | MUF-93 | 2149434 | [Zn4O(L1)3][Co4O(bpdc)3]0.23 | Rastering        |
+| MUF-93-scan1-pos7-21pc.cif  | MUF-93 | 2149435 | [Zn4O(L1)3][Co4O(bpdc)3]0.21 | Rastering        |
+| MUF-93-scan1-pos8-23pc.cif  | MUF-93 | 2149436 | [Zn4O(L1)3][Co4O(bpdc)3]0.23 | Rastering        |
+| MUF-93-scan1-pos9-26pc.cif  | MUF-93 | 2149437 | [Zn4O(L1)3][Co4O(bpdc)3]0.26 | Rastering.       |
+| MUF-93-scan1-pos10-31pc.cif | MUF-93 | 2149424 | [Zn4O(L1)3][Co4O(bpdc)3]0.31 | Rastering        |
+| MUF-93-scan1-pos11-47pc.cif | MUF-93 | 2149425 | [Zn4O(L1)3][Co4O(bpdc)3]0.47 | Rastering        |
+| MUF-93-scan1-pos12-59pc.cif | MUF-93 | 2149426 | [Zn4O(L1)3][Co4O(bpdc)3]0.59 | Rastering        |
+| MUF-93-scan1-pos13-65pc.cif | MUF-93 | 2149427 | [Zn4O(L1)3][Co4O(bpdc)3]0.65 | Rastering        |
+| MUF-93-scan1-pos14-73pc.cif | MUF-93 | 2149428 | [Zn4O(L1)3][Co4O(bpdc)3]0.73 | Rastering        |
+| MUF-93-scan1-pos15-73pc.cif | MUF-93 | 2149429 | [Zn4O(L1)3][Co4O(bpdc)3]0.73 | Rastering        |
+
+# <span id="page-9-0"></span>**S2.2. MUF-91 (α-MUF-9 interpenetrated by [Zn4O(bpdc)3])**
+
+# <span id="page-9-1"></span>**S2.2.1. Synthesis of MUF-91 single crystals**
+
+![](_page_9_Figure_2.jpeg)
+
+α-MUF-9 was synthesized in a 4 mL glass vial (phenolic cap, PTFE-lined PDMS septum) by a literature method.<sup>1</sup> This method uses 20 µmol of **L1** and yields 5-8 mg of α-MUF-9. A stock solution of H2bpdc (0.5 mg mL-1 ), Zn(NO3)2·4H2O (2 mg mL-1 ) and 2-fluorobenzoic acid (3 mg mL-1 ) was prepared in N,N-di-n-butylformamide (DBF). The solvent was removed from above the α-MUF-9 crystals and replaced with this DBF stock solution. The mixture was then heated in a dry bath at 95 °C. The cloudy supernatant was removed and replaced with fresh stock solution every three hours. After the desired growth time, the crystals were removed from the dry bath, cooled to room temperature, and washed several times with DBF.
+
+# <span id="page-9-2"></span>**S2.2.2. PXRD**
+
+![](_page_9_Figure_5.jpeg)
+
+**Supplementary Figure 1.** PXRD diffractograms of (a) MUF-91 at various stages of growth, and (b) the [Zn4O(bpdc)3] shell that grown around the MUF-91 crystals after 9h.
+
+### <span id="page-10-0"></span>**S2.2.3. X-ray crystallography**
+
+MUF-91 crystals grown over short reaction times have low PIP% and diffract poorly by nature, as observed for MUF-9 and MUF-10, due to their inhomogeneity. However, at higher PIP%, high-quality datasets were obtained (R<sup>1</sup> < 0.15 with no corrections for solvent scattering and resolution greater than 0.85 Å).
+
+|                                     | Low PIP%<br>(worst data)                      | Medium PIP%<br>(fair data)                     | High PIP%<br>(best data)                       |
+|-------------------------------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Identification code                 | MUF-91-1h-12pc                                | MUF-91-3h-41pc                                 | MUF-91-9h-64pc                                 |
+| Growth time                         | 1 hour                                        | 3 hours                                        | 9 hours                                        |
+| Empirical formula                   | C89.23H50.99N6O14.62Zn4.50                    | C101.41H63.90N6O18.39Zn5.66                    | C110.85H63.34N6O21.31Zn6.56                    |
+| Interpenetration fraction<br>(PIP%) | 0.12                                          | 0.41                                           | 0.64                                           |
+| Formula weight                      | 1735.19                                       | 2028.54                                        | 2249.00                                        |
+| Temperature / K                     | 100(2)                                        | 100(2)                                         | 100(2)                                         |
+| Crystal system                      |                                               | cubic                                          |                                                |
+| Space group                         |                                               | P-43m                                          |                                                |
+| a,b,c / Å                           | 17.036(12)                                    | 17.119(2)                                      | 17.1300(12)                                    |
+| α, β, γ / °                         |                                               | 90                                             |                                                |
+| Volume / Å3                         | 4944(10)                                      | 5016.9(18)                                     | 5026.6(11)                                     |
+| Z                                   |                                               | 1                                              |                                                |
+| ρcalc / g cm-3                      | 0.583                                         | 0.671                                          | 0.743                                          |
+|  / mm-1                            | 0.567                                         | 0.698                                          | 0.807                                          |
+| F(000) / e-                         | 880                                           | 1030                                           | 1138                                           |
+| Radiation                           |                                               | Synchrotron (λ = 0.71075 Å)                    |                                                |
+| 2Θ range for<br>data collection / ° | 5.348 to 29.402                               | 5.322 to 41.632                                | 5.318 to 46.496                                |
+| Index ranges                        | -12 ≤ h ≤ 12,<br>-10 ≤ k ≤ 12,<br>-11 ≤ l ≤ 7 | -17 ≤ h ≤ 17,<br>-13 ≤ k ≤ 17,<br>-17 ≤ l ≤ 13 | -15 ≤ h ≤ 19,<br>-19 ≤ k ≤ 19,<br>-19 ≤ l ≤ 13 |
+| Reflections collected               | 3170                                          | 9849                                           | 13590                                          |
+| Independent reflections             | 395 [Rint = 0.1314,<br>Rsigma = 0.0587]       | 1046 [Rint = 0.0759,<br>Rsigma = 0.0305]       | 1409 [Rint = 0.0512,<br>Rsigma = 0.0237]       |
+| Data/restraints/parameters          | 395/81/33                                     | 1046/177/99                                    | 1409/75/33                                     |
+| Goodness-of-fit on F2               | 1.627                                         | 2.253                                          | 1.420                                          |
+| Final R indexes [I>=2σ (I)]         | R1 = 0.1956,<br>wR2 = 0.4522                  | R1 = 0.1757,<br>wR2 = 0.4609                   | R1 = 0.1305,<br>wR2 = 0.3263                   |
+| Final R indexes [all data]          | R1 = 0.2072,<br>wR2 = 0.4628                  | R1 = 0.1866,<br>wR2 = 0.4704                   | R1 = 0.1498,<br>wR2 = 0.3557                   |
+| Largest diff. peak/hole / e Å-3     | 0.50/-0.51                                    | 1.87/-0.94                                     | 0.95/-0.38                                     |
+| Flack parameter                     | 0.31(9)                                       | 0.620(18)                                      | 0.34(2)                                        |
+
+**Supplementary Table 2:** Crystallographic results for selected MUF-91 datasets.
+
+#### <span id="page-11-0"></span>**S2.2.4. <sup>1</sup>H NMR spectroscopy**
+
+![](_page_11_Figure_1.jpeg)
+
+**Supplementary Figure 2.** Plot of complementary characterization data for MUF-91. Black squares represent the PIP% values obtained from SCXRD datasets collected at various time points in the growth of MUF-91. Red circles represent the PIP% determined from the ratio of bpdc to **L1** by <sup>1</sup>H NMR spectroscopy on digested samples. The grey line is drawn through the mean PIP% (from all SCXRD datasets) and the error bars correspond to the 95% confidence interval for the mean PIP% value for the sample.
+
+### <span id="page-11-1"></span>**S2.2.5. Optical Microscopy**
+
+![](_page_11_Figure_4.jpeg)
+
+**Supplementary Figure 3.** Optical micrographs of MUF-91 crystals after various growth times. A distinct shell of [Zn4O(bpdc)3] grows around the MUF-91 crystals after 9 h, the PXRD pattern of which is shown in Supplementary Figure 1b.
+
+#### <span id="page-12-0"></span>**S2.2.6. Microcrystalline MUF-91**
+
+#### *Synthesis*
+
+H2**L1** (36 mg) and Zn(NO3)2·4H2O (64 mg) were dissolved in DBF (4 mL) with H2O (10 µL) in a 25 mL Schott bottle and heated in an 85°C oven for 6 hours, shaking the mixture every hour. The resulting small crystallites were then transferred to a 4 mL vial which was centrifuged at 1000 rpm for 30 seconds. The supernatant was replaced with 2 mL of a stock solution of H2BPDC (0.5 mg mL-1 ), Zn(NO3)2·4H2O (2 mg mL-1 ) and 2-fluorobenzoic acid (3 mg mL-1 ) in DBF. The mixture was then heated in a dry bath at 95 °C. At intervals of two hours, the mixture was centrifuged, a sample of crystallites taken out for analysis, the supernatant discarded and replaced with fresh stock solution, then the heating continued.
+
+#### *PXRD*
+
+![](_page_12_Figure_4.jpeg)
+
+**Figure S4.** PXRD patterns of microcrystalline MUF-91.
+
+![](_page_13_Figure_0.jpeg)
+
+**Supplementary Figure 5:** Baseline-corrected and scaled PXRD patterns of microcrystalline MUF-91 used for PIP% determination.
+
+*Microcrystalline MUF-91 PIP plot*
+
+![](_page_13_Figure_3.jpeg)
+
+**Supplementary Figure 6:** Growth of the interpenetrating sublattice in MUF-91 over time. Black squares represent the interpenetration percentage determined from PXRD patterns and red circles represent the PIP% determined from the ratio of BPDC to **L1** determined by <sup>1</sup>H NMR spectroscopy on digested samples.
+
+# <span id="page-14-0"></span>**S2.3. MUF-92 (MUF-9 interpenetrated by [Zn4O(bpdc-NH2)3])**
+
+### <span id="page-14-1"></span>**S2.3.1. Synthesis of MUF-92 single crystals**
+
+![](_page_14_Figure_2.jpeg)
+
+α-MUF-9 was synthesized in a 4 mL glass vial with a phenolic cap by a literature method.<sup>1</sup> This method uses 20 µmol of **L1** and yields 5-8 mg of α-MUF-9. A stock solution of H2bpdc-NH<sup>2</sup> (0.5 mg mL-1 ), Zn(NO3)2·4H2O (2 mg mL-1 ) and 2 fluorobenzoic acid (3 mg mL<sup>1</sup> ) was prepared in DBF. The solvent was removed from above the α-MUF-9 crystals and replaced with this stock solution. The mixture was then heated in a dry bath at 95 °C. The cloudy supernatant was removed and replaced with fresh stock solution every three hours. After various reaction times, the crystals were removed from the dry bath, cooled to room temperature, and washed several times with DBF.
+
+### <span id="page-14-2"></span>**S2.3.2. X-ray crystallography**
+
+MUF-92 crystals grown over short reaction times have low PIP% and diffract poorly by nature, as observed for MUF-9 and MUF-10, due to their inhomogeneity. However, at higher PIP%, good data could be obtained (R<sup>1</sup> < 0.11 with no corrections for solvent scattering and resolution greater than 0.75 Å). In the electron density maps, the phenyl rings of the bpdc-NH<sup>2</sup> in the [Zn4O(bpdc-NH2)3] lattice are exactly perpendicular, unlike those of **L1** in the host MUF-9 lattice.
+
+| Low PIP%                       | Medium PIP%                    | High PIP%                      |
+|--------------------------------|--------------------------------|--------------------------------|
+| MUF-92-3h-42pc                 | MUF-92-6h-65pc                 | MUF-92-12h-71pc                |
+| 3 hours                        | 6 hours                        | 12 hours                       |
+| C101.56H59.28N7.25O18.44Zn5.67 | C111.48H71.54N7.96O21.51Zn6.62 | C113.92H73.64N8.14O22.26Zn6.85 |
+| 0.42                           | 0.65                           | 0.71                           |
+| 2046.75                        | 2299.36                        | 2360.33                        |
+|                                | 100(2)                         |                                |
+|                                | cubic                          |                                |
+|                                | P-43m                          |                                |
+| 17.146(7)                      | 17.140(3)                      | 17.1190(7)                     |
+|                                | 90                             |                                |
+| 5041(6)                        | 5035(3)                        | 5016.9(6)                      |
+|                                | 1                              |                                |
+| 0.674                          | 0.758                          | 0.781                          |
+| 0.698                          | 0.814                          | 0.845                          |
+| 1037                           | 1167                           | 1198                           |
+|                                | Synchrotron (λ = 0.7108 Å)     |                                |
+| 5.312 to 32.93                 | 5.314 to 37.634                | 5.322 to 52.694                |
+| -13 ≤ h ≤ 13,                  | -15 ≤ h ≤ 15,                  | -18 ≤ h ≤ 18,                  |
+| -13 ≤ k ≤ 13,                  | -15 ≤ k ≤ 15,                  | -13 ≤ k ≤ 20,                  |
+| -12 ≤ l ≤ 13                   | -14 ≤ l ≤ 15                   | -16 ≤ l ≤ 19                   |
+| 6213                           | 9105                           | 15680                          |
+|                                |                                |                                |
+
+| Supplementary Table 3: SCXRD data for representative MUF-92 datasets. |  |  |  |
+|-----------------------------------------------------------------------|--|--|--|
+|                                                                       |  |  |  |
+
+| Independent reflections         | 558 [Rint = 0.0781,            | 795 [Rint = 0.0950,            | 1926 [Rint = 0.0644,            |
+|---------------------------------|--------------------------------|--------------------------------|---------------------------------|
+| Data/restraints/parameters      | Rsigma = 0.1066]<br>558/120/66 | Rsigma = 0.0373]<br>795/120/66 | Rsigma = 0.0341]<br>1926/120/66 |
+| Goodness-of-fit on F2           | 1.745                          | 1.633                          | 1.212                           |
+|                                 | R1 = 0.1840,                   | R1 = 0.1504,                   | R1 = 0.1098,                    |
+| Final R indexes [I>=2σ (I)]     | wR2 = 0.3853                   | wR2 = 0.3405                   | wR2 = 0.2979                    |
+| Final R indexes [all data]      | R1 = 0.1987,                   | R1 = 0.1580,                   | R1 = 0.1495,                    |
+|                                 | wR2 = 0.4146                   | wR2 = 0.3560                   | wR2 = 0.3300                    |
+| Largest diff. peak/hole / e Å-3 | 0.56/-0.48                     | 0.89/-0.39                     | 0.66/-0.52                      |
+| Flack parameter                 | 0.55(6)                        | 0.27(4)                        | 0.578(18)                       |
+
+#### <span id="page-15-0"></span>**S2.3.3. <sup>1</sup>H NMR spectroscopy**
+
+![](_page_15_Figure_2.jpeg)
+
+**Supplementary Figure 7:** Plot of complementary characterisation data for MUF-92. Black squares represent the PIP% values obtained from SCXRD datasets collected at various time points. Red circles represent the PIP% determined from the ratio of bpdc-NH<sup>2</sup> to **L1** given by <sup>1</sup>H NMR spectroscopy. The grey line is drawn through the mean PIP% (from all SCXRD datasets) and the error bars correspond to the 95% confidence interval for the mean PIP% value for the sample.
+
+<span id="page-16-0"></span>![](_page_16_Figure_1.jpeg)
+
+**Supplementary Figure 8:** PXRD patterns of MUF-92 after various growth times.
+
+#### <span id="page-16-1"></span>**S2.3.5. Optical microscopy**
+
+![](_page_16_Figure_4.jpeg)
+
+**Supplementary Figure 9.** Optical micrographs of MUF-92 at various stages of growth.
+
+#### <span id="page-17-0"></span>**S2.3.6. Microcrystalline MUF-92**
+
+#### *Synthesis*
+
+H2**L1** (36 mg) and Zn(NO3)2·4H2O (64 mg) were dissolved in DBF (4 mL) with H2O (10 µL) in a 25 mL Schott bottle and heated in an 85°C oven for 6 hours, shaking the mixture every hour. The resulting small crystals were then transferred to a 4 mL vial which was centrifuged at 1000 rpm for 0.5 mins. The supernatant was replaced with 2 mL of a stock solution of H2bpdc-NH<sup>2</sup> (1 mg mL-1 ), Zn(NO3)2·4H2O (2 mg mL-1 ) and 2-fluorobenzoic acid (3 mg mL-1 ) in DBF, and the crystals were heated in a dry bath set at 95 °C. At intervals of two hours, the crystals were centrifuged, a sample taken out for analysis, the solution exchanged for fresh stock solution, then heating continued.
+
+#### *PXRD*
+
+![](_page_17_Figure_4.jpeg)
+
+**Supplementary Figure 10:** PXRD patterns of microcrystalline MUF-92.
+
+![](_page_18_Figure_0.jpeg)
+
+**Supplementary Figure 11:** Baseline-corrected and scaled PXRD patterns of microcrystalline MUF-92 used for PIP% determination.
+
+*Microcrystalline MUF-92 PIP plot*
+
+![](_page_18_Figure_3.jpeg)
+
+**Supplementary Figure 12:** Growth of the interpenetrating sublattice in MUF-92 over time. Black squares represent the PIP% determined from PXRD patterns and red circles represent the PIP% determined from the bpdc-NH<sup>2</sup> to **L1** ratio in the <sup>1</sup>H NMR spectra of digested samples.
+
+# <span id="page-19-0"></span>**S2.4. MUF-93 (MUF-9 interpenetrated by [Co4O(bpdc)3])**
+
+### <span id="page-19-1"></span>**S2.4.1. Synthesis of MUF-93 single crystals**
+
+![](_page_19_Figure_2.jpeg)
+
+α-MUF-9 was synthesized in a 4 mL glass vial with phenolic cap by a literature method<sup>1</sup> . A stock solution of H2bpdc (0.5 mg mL-1 ), Co(NO3)2·6H2O (2 mg mL-1 ) and 2-fluorobenzoic acid (2 mg mL<sup>1</sup> ) was prepared in DBF. The solvent was removed from above the α-MUF-9 crystals and replaced with this stock solution. The mixture was then heated in a dry bath at 75 °C. The cloudy supernatant was removed and replaced with fresh stock solution every 12 hours. At the desired stage of growth, the vial was removed from the dry bath, cooled to room temperature, and the crystals washed several times with DBF.
+
+### <span id="page-19-2"></span>**S2.4.2. X-ray crystallography**
+
+MUF-93 crystals grown over short reaction times have low PIP% and diffract poorly by nature, as observed for MUF-9 and MUF-10, due to their inhomogeneity. However, at higher PIP%, good data could be obtained (R<sup>1</sup> < 0.15 with no corrections for solvent scattering and resolution better than 0.85 Å).
+
+|  |  | Supplementary Table 4: SCXRD data for representative MUF-93 datasets. |  |
+|--|--|-----------------------------------------------------------------------|--|
+|--|--|-----------------------------------------------------------------------|--|
+
+|                                     | Low PIP%                            | Medium PIP%                          | High PIP%                            |  |
+|-------------------------------------|-------------------------------------|--------------------------------------|--------------------------------------|--|
+| Identification code                 | MUF-93-12h-4pc                      | MUF-93-48h-48pc                      | MUF-93-84h-66pc                      |  |
+| Growth time                         | 12 hours                            | 48 hours                             | 84 hours                             |  |
+| Empirical formula                   | C85.71H48.99Co0.16N6O13.53Zn4       | C104.15H59.52Co1.92N6O19.24Zn4       | C111.57H63.76Co2.63N6O21.53Zn4       |  |
+| Interpenetration fraction           | 0.04                                | 0.48                                 | 0.66                                 |  |
+| Formula weight                      | 1650.19                             | 2077.31                              | 2249.23                              |  |
+| Temperature / K                     | 100(2)                              | 100(2)                               | 100(2)                               |  |
+| Crystal system                      | cubic                               | cubic                                | cubic                                |  |
+| Space group                         | P-43m                               | P-43m                                | P-43m                                |  |
+| a,b,c / Å                           | 16.90(5)                            | 17.101(8)                            | 17.098(8)                            |  |
+| α, β, γ /°                          | 90                                  | 90                                   | 90                                   |  |
+| Volume / Å3                         | 4827(43)                            | 5001(7)                              | 4998(7)                              |  |
+| Z                                   | 1.00008                             | 1.00008                              | 1                                    |  |
+| ρcalc / g cm-3                      | 0.568                               | 0.690                                | 0.747                                |  |
+|  / mm-1                            | 0.532                               | 0.662                                | 0.723                                |  |
+| F(000) / e-                         | 838.0                               | 1052.0                               | 1138.0                               |  |
+| Radiation                           | Synchrotron (λ = 0.71092 Å)         | Synchrotron (λ = 0.7085 Å)           |                                      |  |
+| 2Θ range for<br>data collection / ° | 5.392 to 27.312                     | 7.126 to 48.82                       | 5.31 to 46.296                       |  |
+|                                     | -11 ≤ h ≤ 11,                       | -19 ≤ h ≤ 19,                        | -18 ≤ h ≤ 18,                        |  |
+| Index ranges                        | -11 ≤ k ≤ 11,                       | -19 ≤ k ≤ 14,                        | -18 ≤ k ≤ 14,                        |  |
+|                                     | -11 ≤ l ≤ 11                        | -9 ≤ l ≤ 19                          | -11 ≤ l ≤ 18                         |  |
+| Reflections collected               | 5274                                | 14970                                | 13070                                |  |
+| Independent reflections             | 319 [Rint = 0.1635,<br>R = 0.0493] | 1605 [Rint = 0.0714,<br>R = 0.0316] | 1391 [Rint = 0.0513,<br>R = 0.0235] |  |
+| Data/restraints/parameters          | 319/223/55                          | 1605/223/55                          | 1391/223/55                          |  |
+| Goodness-of-fit on F2               | 1.882                               | 2.091                                | 1.715                                |  |
+|                                     | R1 = 0.2221,                        | R1 = 0.1615,                         | R1 = 0.1304,                         |  |
+| Final R indexes [I>=2σ (I)]         | wR2 = 0.4955                        | wR2 = 0.4415                         | wR2 = 0.3709                         |  |
+|                                     | R1 = 0.2604,                        | R1 = 0.1807,                         | R1 = 0.1415,                         |  |
+| Final R indexes [all data]          | wR2 = 0.5260                        | wR2 = 0.4646                         | wR2 = 0.3843                         |  |
+| Largest diff. peak/hole / e Å-3     | 0.36/-0.23                          | 2.14/-1.27                           | 1.12/-0.61                           |  |
+| Flack parameter*                    | 0.42(7)                             | 0.195(17)                            | 0.307(14)                            |  |
+
+![](_page_20_Figure_2.jpeg)
+
+![](_page_20_Picture_3.jpeg)
+
+![](_page_20_Figure_4.jpeg)
+
+#### <span id="page-21-0"></span>**S2.4.3. Atomic Absorption (AAS) and <sup>1</sup>H NMR Spectroscopy**
+
+![](_page_21_Figure_1.jpeg)
+
+**Supplementary Figure 14:** Plot of complementary characterization data for MUF-93. Black squares represent the PIP% values obtained from SCXRD datasets collected at various time points in the growth of MUF-93. Red circles represent the PIP% determined from the ratio of bpdc to **L1** in the <sup>1</sup>H NMR spectra of digested samples, and blue triangles represent the Co:Zn ratio, as determined by AAS in the same digested samples of MUF-93. The grey line is drawn through the mean PIP% (from all SCXRD datasets) and the error bars correspond to the 95% confidence interval for the mean PIP% value for the sample.
+
+<span id="page-21-1"></span>![](_page_21_Figure_3.jpeg)
+
+### **S2.4.4. Optical Microscopy**
+
+**Supplementary Figure 15.** Optical micrographs of MUF-93 after various reaction times.
+
+#### <span id="page-22-0"></span>**S2.4.5. Microcrystalline MUF-93**
+
+#### *Synthesis*
+
+H2**L1** (36 mg) and Zn(NO3)2·4H2O (64 mg) were dissolved in DBF (4 mL) with H2O (10 µL) in a 25 mL Schott bottle and heated in an 85°C oven for 6 hours, shaking the mixture every hour. The resulting small crystals were then transferred to a 4 mL vial which was centrifuged at 1000 rpm for 0.5 mins. The supernatant was replaced with 2 mL of a stock solution of H2-BPDC-NH<sup>2</sup> (1 mg mL-1 ), Co(NO3)2·6H2O (2 mg mL-1 ) and 2-fluorobenzoic acid (3 mg mL-1 ) in DBF, and the crystals were heated in a dry bath set at 95 °C. At intervals of two hours, the crystals were centrifuged, a sample taken out for analysis, the solution exchanged for fresh stock solution, then heating continued.
+
+*Microcrystalline MUF-93 PIP plot*
+
+![](_page_22_Figure_4.jpeg)
+
+**Supplementary Figure 16:** Growth of the interpenetrating sublattice in MUF-93 over time, as determined by PXRD, blue triangles represent the PIP determined from the Co:Zn ratio as determined by flame AAS, and red circles represent PIP determined from the ratio of bpdc to **L1** by <sup>1</sup>H NMR spectroscopy on digested samples.
+
+![](_page_23_Figure_0.jpeg)
+
+**Supplementary Figure 17:** Baseline-corrected and scaled PXRD patterns of microcrystalline MUF-93 used for PIP% determination**.**
+
+# <span id="page-24-0"></span>**Site-specific metal identification in MUF-93**
+
+# <span id="page-24-1"></span>**S3.1. Processing and analysis of multi-wavelength SCXRD data**
+
+### <span id="page-24-2"></span>**S3.1.1. Determination of appropriate wavelength**
+
+An X-ray fluorescence excitation scan on a single crystal of MUF-93 was acquired at the Australian Synchrotron MX1 beamline. <sup>4</sup> Wavelengths for SCXRD analysis were chosen at 7500 eV and 9670 eV, close to the absorption edges of cobalt (K β peak) and zinc (where anomalous dispersion contributions become relatively large). A wavelength of 17440 eV – far from an absorption peak of any element in the material – was also used for diffraction.
+
+![](_page_24_Figure_4.jpeg)
+
+**Supplementary Figure 18:** X-ray fluorescence excitation scan of a single crystal of MUF-93.
+
+#### <span id="page-25-0"></span>**S3.1.2. Generation of difference datasets and Patterson maps**
+
+Datasets were collected on single crystals at wavelengths of 7500 eV or 9670 eV and 17440 eV. The two datasets for each crystal were processed in *XDS*<sup>9</sup> XDS\_ASCII.HKL\_p1 format, and then using a simple Python script making use of the *CCTBX*<sup>10</sup> toolkit.
+
+The datasets were interpreted with a cubic cell of a = b = c = 17.1 Å and α = β = γ = 90 ° (as determined by the highresolution datasets) and the *P*-43m space group. The symmetry-equivalent reflections were merged, and the intensities scaled to have the same average. The difference between the two datasets was then calculated. The result was outputted as a SHELX<sup>7</sup> -format HKLF4 file, as well as the derived Patterson map as an CCP4 format map file. The Python code for this is appended in Section [S9.3.](#page-41-0) The Python libraries *Gemmi* (crystallographic data I/O for converting the CCP4 map file to a *numpy* array) and *Plotly* were used to generate colour-mapped 2D slices from the anomalous difference Patterson map, while *pymol* was used for 3D visualisations of the CCP4 maps.
+
+#### <span id="page-25-1"></span>**S3.1.3. Interpretation of the anomalous difference datasets**
+
+For the cobalt-containing crystals, the difference HKL file was solved using the direct methods routine in SHELXS to locate the cobalt atom of the cobalt cluster. The choice of cobalt in this case is arbitrary; there is no physical atom represented by this data, only the *difference in the signal* from cobalt between the two datasets. Nonetheless, the refinement of a single atom at this position is stable, showing a clear signal that there is cobalt at this location. A small feature in the difference Fourier synthesis at the putative location of the zinc site in MUF-93 can be observed, but it is impossible to refine an atom at that position with any occupancy. When refined with a solvent mask, which is essentially just background reduction in this case and has no physical meaning, the refinement statistics are good. Since most traditional refinement parameters are not meaningful for these datasets, they are omitted from the Table S6, but the datasets themselves are available as Supporting Information.
+
+In Table S5, "Site 1" refers to cluster at the cell corner. "Site 2" refers to the cluster at the cell centre. Electron counts were integrated over a radius of 1.7 Å, the average of the atomic radii of zinc and cobalt. Uncertainties for the exchange percentage were calculated using the RMSD of the electron density map.
+
+| Sample                                                                                                                                                      | Integrated<br>value at Site 1 | Integrated<br>value at Site 2 | Ratio   | Exchange<br>of Co(II)<br>into Zn(II)<br>sites | R1     | wR2    |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------------------|---------|-----------------------------------------------|--------|--------|
+| MUF-93, at the plateau of secondary<br>growth after 60 hours. PIP = 50%.<br>Difference data between 17440 eV<br>and cobalt edge at 7500 eV                  | 356.0                         | 10.2                          | 1:0.029 | 2.9 ± 4.7%                                    | 3.45 % | 14.9 % |
+| MUF-93, beyond the plateau of<br>secondary growth after 168 hours.<br>PIP = 47%. Difference data between<br>17440 eV and cobalt edge at 7500 eV<br>Controls | 540.4                         | 184.0                         | 1:0.34  | 34 ± 2.6%                                     | 1.36 % | 5.88 % |
+| α-MUF-9 heated in a solution of<br>Co(NO3)2. Difference data between<br>17440 eV and cobalt edge at 7500 eV                                                 | No peak                       | Intense peak                  | N/A     | N/A                                           | 4.73 % | 13.0 % |
+
+**Supplementary Table 5:** SHELXL refinement results and calculated statistics for anomalous difference datasets.
+
+Note: Integrated values at each metal atom site are proportional to the electron count of the specified metal at each site but are not absolute values since F(000) values were not determined for the difference datasets.
+
+17440 eV and zinc edge at 9670 eV 233.7 223.4 1:0.96 N/A 1.97 % 6.45 %
+
+β-MUF-9, difference data between
+
+Using the *WinGX FFT* utility, cube format electron density maps of Fobs using the supplied phases from this model were produced, and slices rendered with *Plotly*:
+
+![](_page_27_Figure_1.jpeg)
+
+**Supplementary Figure 19:** Slices of (Fobs, Φcalc) electron density maps from various difference datasets. (A) MUF-93 at the plateau of secondary growth after 60 hours, difference data between 17440 eV and the cobalt edge at 7500 eV. (B) MUF-93 beyond the plateau of secondary growth after 168 hours, difference data between 17440 eV and the cobalt edge at 7500 eV. (C) α-MUF-9 heated in a 20 mg mL-1 cobalt nitrate solution for 108 hours (section [S5.2\)](#page-34-0), difference data between 17440 eV and the cobalt edge at 7500 eV. (D) β-MUF-9, difference data between 17440 eV and the zinc edge at 9670 eV.
+
+**Supplementary Table 6:** Further information on the files relevant to the anomalous dispersion experiments uploaded as Supplementary Data.
+
+| File name                              | MOF                                                       | Energy / | Notes                                                        |
+|----------------------------------------|-----------------------------------------------------------|----------|--------------------------------------------------------------|
+|                                        |                                                           | keV      |                                                              |
+| MUF-93-50pc-60h                        | MUF-93 at plateau of growth                               | N/A      | Difference data in gaussian cube format.                     |
+| Fobs_min_Fcalc.cube                    |                                                           |          |                                                              |
+| MUF-93-50pc-60h-Fobs.cube              | MUF-93 at plateau of growth                               | N/A      | Fobs electron density map of difference                      |
+|                                        |                                                           |          | data in gaussian cube format.                                |
+| MUF-93-50pc-60h-7500eV.hkl             | MUF-93 at plateau of growth                               | 7.5      | Reflection data in SHELX format.                             |
+| MUF-93-50pc-60h-17500eV.fcf            | MUF-93 at plateau of growth                               | 17.5     | Structure factor file                                        |
+| MUF-93-50pc-60h-17500eV.hkl            | MUF-93 at plateau of growth                               | 17.5     | Reflection data in SHELX format.                             |
+| MUF-93-50pc-60h-17500eV.res            | MUF-93 at plateau of growth                               | 17.5     | Res file in SHELX format.                                    |
+| MUF-93-50pc-60h-17500eV.lst            | MUF-93 at plateau of growth                               | 17.5     | LIST file in SHELX format.                                   |
+| MUF-93-50pc-60h-17500eV.ins            | MUF-93 at plateau of growth                               | 17.5     | Instruction file in SHELX format.                            |
+| MUF-93-50pc-60h-difference.hkl         | MUF-93 at plateau of growth                               | N/A      | Reflection data in SHELX format.                             |
+| MUF-93-50pc-60h-difference.res         | MUF-93 at plateau of growth                               | N/A      | Refinement output from SHELX for the                         |
+|                                        |                                                           |          | cobalt substructure.                                         |
+| MUF-93-46pc-168h-Fobs.cube             | MUF-93 beyond                                             | N/A      | Fobs electron density map of difference                      |
+|                                        | plateau of growth                                         |          | data in gaussian cube format.                                |
+| MUF-93-46pc-168h                       | MUF-93 beyond                                             | N/A      | Difference data in gaussian cube format.                     |
+| Fobs_min_Fcalc.cube                    | plateau of growth                                         |          |                                                              |
+| MUF-93-46pc-168h-7500eV.hkl            | MUF-93 beyond                                             | 7.5      | Reflection data in SHELX format.                             |
+|                                        | plateau of growth                                         |          |                                                              |
+| MUF-93-46pc-168h-17440eV.hkl           | MUF-93 beyond                                             | 17.44    | Reflection data in SHELX format.                             |
+|                                        | plateau of growth                                         |          |                                                              |
+| MUF-93-46pc-168h-difference.hkl        | MUF-93 beyond                                             | N/A      | Reflection data in SHELX format.                             |
+|                                        | plateau of growth                                         |          |                                                              |
+| MUF-93-46pc-168h-difference.res        | MUF-93 beyond                                             | N/A      | Refinement output from SHELX for the                         |
+|                                        | plateau of growth                                         |          | cobalt substructure.                                         |
+| a-MUF-9-Co-exchanged-Fobs.cube         | α-MUF-9, exposed to high                                  | N/A      | Fobs electron density map of difference                      |
+|                                        | concentration cobalt solution                             |          | data in gaussian cube format.                                |
+| a-MUF-9-Co-exchanged-7500eV.hkl        | α-MUF-9, exposed to high                                  | 7.5      | Reflection data in SHELX format.                             |
+|                                        | concentration cobalt solution                             |          |                                                              |
+| a-MUF-9-Co-exchanged                   | α-MUF-9, exposed to high                                  | 17.5     | Reflection data in SHELX format.                             |
+| 17500eV.hkl                            | concentration cobalt solution                             |          |                                                              |
+| a-MUF-9-Co-exchanged                   | α-MUF-9, exposed to high                                  | N/A      | Reflection data in SHELX format.                             |
+| difference.hkl                         | concentration cobalt solution                             |          |                                                              |
+| a-MUF-9-Co-exchanged<br>difference.res | α-MUF-9, exposed to high<br>concentration cobalt solution | N/A      | Refinement output from SHELX for the<br>cobalt substructure. |
+|                                        |                                                           |          | Fobs electron density map of difference                      |
+| B-MUF-9-difference-zinc-Fobs.hkl       | β-MUF-9                                                   | N/A      | data in gaussian cube format.                                |
+| B-MUF-9670eV.hkl                       | β-MUF-9                                                   | 9.67     | Reflection data in SHELX format.                             |
+| B-MUF-9-17440.hkl                      | β-MUF-9                                                   | 17.44    | Reflection data in SHELX format.                             |
+| B-MUF-9-difference-Zn.hkl              | β-MUF-9                                                   | N/A      | Reflection data in SHELX format.                             |
+|                                        |                                                           |          | Refinement output from SHELX for the                         |
+| B-MUF-9-difference-Zn.res              | β-MUF-9                                                   | N/A      | zinc substructure.                                           |
+|                                        |                                                           |          |                                                              |
+
+# <span id="page-29-0"></span>**Synthesis, characterisation and catalytic activity of MUF-101**
+
+# <span id="page-29-1"></span>**S4.1. Synthesis of (***R***)-MUF-101 and (***S***)-MUF-101**
+
+α-MUF-10 was synthesized in a 4 mL glass vial with phenolic cap by a literature method. <sup>1</sup> This used 20 µmol of enantiopure (*R*)- or (*S*)-**L1** and yields 5-8 mg of α-(*R*)-MUF-10 or α-(*S*)-MUF-10, respectively.
+
+A stock solution of H2**L2** (5.0 mg), Zn(NO3)2·4H2O (10.0 mg) and 2-fluorobenzoic acid (15.0 mg) was prepared in DBF (14.9 mL). α-(*R*)-MUF-10 or α-(*S*)-MUF-10 crystals (3-5 mg) were placed in 1.0 mL of this stock solution then heated in a dry bath set to 80 °C. The stock solution was removed and replaced with fresh solution (1.0 mL) every two hours. After ten hours, the crystals were removed from the dry bath, cooled to room temperature, and washed several times with DBF. This yields (*R*)-MUF-101 (starting from α-(*R*)-MUF-10) or (*S*)-MUF-101 (starting from α-(*S*)-MUF-10).
+
+# <span id="page-29-2"></span>**S4.2. <sup>1</sup>H NMR spectroscopy and PXRD of MUF-101**
+
+![](_page_29_Figure_5.jpeg)
+
+**Supplementary Figure 20:** <sup>1</sup>H NMR spectra of digested (*R*)-MUF-101 and (*S*)-MUF-101 in d6-DMSO**/**DCl.
+
+![](_page_30_Figure_0.jpeg)
+
+### <span id="page-30-0"></span>**S4.3. Catalysis reactions**
+
+![](_page_30_Figure_2.jpeg)
+
+*Aldol reaction.* Between 3-5 mg of (*R*)-MUF-101 or (*S*)-MUF-101 crystals were thoroughly exchanged with DMF and then acetone. An aliquot (0.2 mL) of a stock solution comprising 2-chloro-5-nitrobenzaldehyde (26 mg, 140 μmol), acetone (3.9 mL) and water (50 μL) was then introduced. The reaction mixture was kept at room temperature for three days before the products were analyzed by HPLC.
+
+![](_page_31_Figure_0.jpeg)
+
+*Henry reaction.* Approximately 3 mg of (*R*)-MUF-101 or (*S*)-MUF-101 crystals were thoroughly exchanged with DMF and then dioxane. An aliquot (0.6 mL) of a stock solution comprising 2-chloro-5-nitrobenzaldehyde (39 mg, 210 μmol) and CH3NO<sup>2</sup> (570 μL, 10.5 mmol, 50 eq.) in dioxane (5.4 mL) was then introduced. The reaction mixture was kept at 30 °C for five days before the products were analyzed by HPLC.
+
+#### <span id="page-31-0"></span>**S4.3.1. HPLC traces of catalysed reactions**
+
+Reactions were analysed by HPLC with UV detection at 280 nm (aldol reaction) or 254 nm (Henry reaction) using a Phenomenex Lux-amylose-1 column and MeCN:H2O (55/45) as the mobile phase with a flow rate of 0.5 mL min-1 . The products were identified by in-line mass spectrometry.
+
+![](_page_31_Figure_4.jpeg)
+
+**Supplementary Figure 22:** HPLC chromatograms of (a) the aldol reaction between acetone and 2-chloro-5 nitrobenzaldehyde, and (b) the Henry reaction between nitromethane and 2-chloro-5-nitrobenzaldehyde using various catalysts.
+
+| catalysts.        |                                                    |                       |                |       |  |  |  |
+|-------------------|----------------------------------------------------|-----------------------|----------------|-------|--|--|--|
+| Catalyst          | Occupancy of<br>interpenetrating<br>lattice (PIP%) | Catalyst<br>loading a | Conversion (%) | e.e.b |  |  |  |
+| (R)-MUF-101       | 8                                                  | 3%                    | >10%           | -13.9 |  |  |  |
+| (S)-MUF-101       | 7                                                  | 3%                    | >10%           | 12.2  |  |  |  |
+| Control reactions |                                                    |                       |                |       |  |  |  |
+| -MUF-10          | 0                                                  | 0                     | 0              | 0     |  |  |  |
+| MUF-99            | 15                                                 | 15%                   | 35             | 0     |  |  |  |
+| Me2L2             | N/A                                                | 20%                   | 100            | 0     |  |  |  |
+| No catalyst       | N/A                                                | N/A                   | -              | -     |  |  |  |
+
+**Supplementary Table 7:** Aldol reaction of acetone and 2-chloro-5-nitrobenzaldehyde using various catalysts.
+
+<sup>a</sup>Catalyst loading is the molar ratio of L2 to 2-chloro-5-nitrobenzaldehyde for MUF-101 and MUF-99.
+
+<sup>b</sup> The ee was calculated as the peak area of the peak eluting at 12.3 mins minus the peak area of the peak eluting at 15.0 mins.
+
+| Supplementary Table 8: Henry reaction of nitromethane and |  |
+|-----------------------------------------------------------|--|
+| 2-chloro-5-nitrobenzaldehyde using various catalysts.     |  |
+
+| Catalyst          | Occupancy of<br>interpenetrating<br>lattice (PIP%) | Catalyst<br>loading a | e.e.b |
+|-------------------|----------------------------------------------------|-----------------------|-------|
+| (R)-MUF-101       | 15                                                 | 4%                    | -9.4  |
+| (S)-MUF-101       | 15                                                 | 4%                    | 10.2  |
+| Control reactions |                                                    |                       |       |
+| -MUF-10c         | 0                                                  | 0                     | 0     |
+| Me2L2             | N/A                                                | 9%                    | 0     |
+| No catalyst       | N/A                                                | N/A                   | -     |
+|                   |                                                    |                       |       |
+
+<sup>a</sup>In MUF-101, the catalyst loading is the molar ratio of L2 to 2-chloro-5-nitrobenzaldehyde.
+
+<sup>b</sup> The ee was calculated as the peak area of the peak at 12.7 mins minus the peak area of the peak at 14.9 mins.
+
+<sup>c</sup> A low level of catalytic activity arises from the presence of trace residual DBF.
+
+# <span id="page-33-0"></span>**Control experiments**
+
+# <span id="page-33-1"></span>**S5.1. Heating MUF-9 and MUF-10 alone in various solvents**
+
+Samples of -MUF-9 and -MUF-10 were prepared by a reported procedure<sup>1</sup> . Each sample was washed with a different solvent, then heated in that solvent in a dry bath set to 95 °C to check whether autocatenation occurred.
+
+-MUF-9 autocatenates in DMF, DEF and DPF but not in DBF. -MUF-10 autocatenates in DMF but not in DBF nor DPF.
+
+![](_page_33_Figure_4.jpeg)
+
+**Supplementary Figure 23:** PXRD diffractograms of α-MUF-9 and α-MUF-10 heated in various solvents.
+
+# <span id="page-34-0"></span>**S5.2. Heating MUF-9 with Co(NO3)<sup>2</sup>**
+
+Samples of α-MUF-9 were exposed to solutions of Co(NO3)2·6H2O in DBF at concentrations of 2 mg mL-1 and 20 mg mL-1 , and heated in each solution in a dry bath set to 95 °C. The samples were analysed by PXRD, then digested with DCl in DMSO and analysed with flame AAS.
+
+![](_page_34_Figure_2.jpeg)
+
+**Supplementary Figure 24:** PXRD patterns of α-MUF-9 heated with a 2 mg mL-1 solution of Co(NO3)2·6H2O in DBF at 95 °C.
+
+![](_page_35_Figure_0.jpeg)
+
+**Supplementary Figure 25:** PXRD patterns α-MUF-9 heated with a 20 mg mL-1 solution of Co(NO3)2·6H2O in DBF at 95 °C.
+
+![](_page_35_Figure_2.jpeg)
+
+**Supplementary Figure 26:** Plot of percentages of zinc(II) displaced by cobalt(II) in α-MUF-9 over time as determined by AAS. Black squares represent percentage exchange with the 2 mg mL-1 cobalt nitrate solution, while the red circles represent exchange with the 20 mg mL-1 cobalt nitrate solution.
+
+# <span id="page-36-0"></span>**S5.3. Heating -MUF-9 with biphenyldicarboxylate ligands**
+
+Stock solutions of 0.5 mg mL-1 H2bpdc or 1 mg mL-1 H2bpdc-NH<sup>2</sup> with 3 mg mL-1 2-fluorobenzoic acid were prepared in DBF and added to vials of α-MUF-9 crystals. The vials were placed in a dry bath set to 85 °C and the stock solution replaced every 6 hours. PXRD patterns were obtained from each sample then the samples washed with DMF (2 mL × 3) and acetone (4 mL × 5) and dried under high vacuum. Each sample was then digested in 0.2 M NaOD in D2O for <sup>1</sup>H NMR spectroscopy.
+
+![](_page_36_Figure_2.jpeg)
+
+**Supplementary Figure 27:** PXRD patterns of α-MUF-9 heated in a 0.5 mg mL-1 H2bpdc solution in DBF.
+
+![](_page_36_Figure_4.jpeg)
+
+**Supplementary Figure 28:** The amount of **L1** displaced by bpdc in α-MUF-9 over time as determined by <sup>1</sup>H NMR spectroscopy of digested samples.
+
+![](_page_37_Figure_0.jpeg)
+
+**Supplementary Figure 29:** PXRD patterns of α-MUF-9 heated with a 1 mg mL-1 H2bpdc-NH<sup>2</sup> solution in DBF.
+
+![](_page_37_Figure_2.jpeg)
+
+**Supplementary Figure 30:** The amount of **L1** displaced by bpdc-NH<sup>2</sup> in α-MUF-9 over time as determined by <sup>1</sup>H NMR spectroscopy of digested samples.
+
+# <span id="page-38-0"></span>**Python scripts**
+
+Python codes are provided here for review and the convenience of anyone wanting to replicate or improve upon this work. They have no license attached and may be used, adapted, modified, or redistributed for any purpose, commercial or not, without attribution. These codes are provided "as is", without warranty of any kind, express or implied, including, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, arising from use of the software.
+
+The files are available electronically on Figshare (DOI 10.6084/m9.figshare.22682965).
+
+# <span id="page-38-1"></span>**S6.1. Correction of baselines for PXRD patterns**
+
+This code is in two parts. PXRD\_process.py handles the files. It runs on all Rigaku .asc format files in a folder named 'input' and writes baseline corrected .xy files to a folder named output. It uses the algorithm in sonneveld.py as a dependency.
+
+#### **sonneveld.py**
+
+```
+#Modified Sonneveld-Visser Baseline Removal Algorithm
+#inputs is a single numpy 2Darray containting xy format PXRD data
+#Sonneveld algorithm selects baseline points by choosing ones where the gradient to the next point is small
+#then a polynomial fit to those points is subtracted from the pattern
+#as described in J. Appl. Crystallogr. (1975), 8, p1
+import numpy as np
+import random
+def remove_baseline(inputs,step,iter,maxpeak,poly_order):
+       input = inputs[1]
+       maximum = max(input)
+       print(maximum)
+       points = list(range(int(len(input)*0.7)))[1::step]
+       for j in range(iter):
+               change = False
+               for i in range(len(points)-1):
+                       if (abs(input[points[i]]-input[points[i+1]]) > (maxpeak * maximum)):
+                              print("large change detected at " + str(i))
+                              change = True
+                              for k in range(i,len(points)):
+                                      points[k] += step
+                                      if points[k] >= len(input): points[k] =
+random.choice(range(int(len(input)*0.7)))
+               if not change: break
+               print("reiterating, attempt " + str(j))
+       x = list([inputs[0][i] for i in points])
+       y = list([inputs[1][i] for i in points])
+       fit = np.polyfit(x,y,poly_order)
+       print(fit)
+       f = np.poly1d(fit)
+       outputdata = [(inputs[1][i] - f(inputs[0][i])) for i in range(len(inputs[0]))]
+       outputdata = [max(i,0) for i in outputdata]
+       return [inputs[0],outputdata]
+```
+#### **PXRD\_process.py**
+
+```
+import os
+import re
+import sonneveld
+import numpy as np
+#import all files from /input folder
+filelist = os.listdir("./input/")
+print(filelist)
+def convert_to_xy(f):
+       start = 0
+       stop = 0
+       step = 0
+       count = 0
+       data = []
+       for i in range(len(f)):
+               if "*START" in f[i]: start = float(re.findall("\d+\.\d+", f[i])[0])
+               if "*STOP" in f[i]: stop = float(re.findall("\d+\.\d+", f[i])[0])
+               if "*STEP" in f[i]: step = float(re.findall("\d+\.\d+", f[i])[0])
+               if "*COUNT " in f[i]:
+                       count = int(re.findall("\d+", f[i])[0])
+                       for j in [(x + i + 1) for x in range (count)]:
+                               data.append(float(f[j]))
+       points = ([round((start+i*step),2) for i in range(int((stop - start)/step))])
+       return [points,data]
+def scale(input,endmax):
+       firstmax = max(input[1])
+       scalefactor = endmax/firstmax
+       out=[x * scalefactor for x in input[1]]
+       return [input[0],out]
+#main routine
+for i in range(len(filelist)):
+       print("processing "+filelist[i])
+       ftext = open("./input/"+filelist[i], 'r').read().splitlines()
+       xyf = convert_to_xy(ftext)
+       xyf[1].pop()
+       print(len(xyf[0]))
+       print(len(xyf[1]))
+       xyf = sonneveld.remove_baseline(xyf,10,200,0.05,10)
+       xyf = scale(xyf,1000)
+       outname = filelist[i][:-4] + ".txt"
+       otext = open("./output/"+outname, 'w')
+       for j in range(len(xyf[0])):
+               print(str(xyf[0][j]) + " " + str(xyf[1][j]), file=otext)
+```
+### <span id="page-40-0"></span>**S6.2. Interpenetration percentage determination**
+
+Takes a folder of sample data in .xy format, a fully interpenetrated PXRD pattern, and a noninterpenetrated PXRD pattern as command line arguments. Returns as console output the percentage contribution of the interpenetrated pattern for each sample in the input folder, as determined by the linear mixture of interpenetrated and noninterpenetrated patterns with the least squared-differences to the sample pattern.
+
+#### **PIP\_determination.py**
+
+```
+import numpy as np
+import sys
+import os
+folder = "./"+sys.argv[1]+"/"
+samples = os.listdir(folder)
+def scale(input,endmax):
+       firstmax = max(input)
+       scalefactor = endmax/firstmax
+       return [x * scalefactor for x in input]
+def importArray(filename):
+       ftext = open(filename, 'r').read().splitlines()
+       list1 = []
+       for x in ftext:
+               tmp = x.split()
+               cur = float(tmp[0])
+               #RANGE OF 2-THETA TO USE – for MUF-9 this works best with the two first peaks
+               if 4.7 < cur < 8:
+                       list1.append(float(tmp[1]))
+       return np.array(scale(list1,1000))
+def mix(array1,array2,contribution):
+       return np.add(np.multiply(array1,1-contribution),np.multiply(array2,contribution))
+def getSSD(reference,sample):
+       sample_scaled = sample * (reference.max() / sample.max())
+       squares = (reference - sample_scaled) ** 2
+       return np.sum(squares)
+nonint_array = importArray(sys.argv[2])
+int_array = importArray(sys.argv[3])
+def refine(samplename):
+       test_array = importArray(folder + samplename)
+       contribution = 0.0
+       step = 0.01
+       improvement = True
+       ssd = getSSD(mix(nonint_array,int_array,contribution),test_array)
+       while improvement:
+               contribution += step
+               old_ssd = ssd
+               ssd = getSSD(mix(nonint_array,int_array,contribution),test_array)
+               if ssd > old_ssd:
+                       improvement = False
+       return contribution
+for sample in samples:
+       print(sample, refine(sample))
+```
+### <span id="page-41-0"></span>**S6.3. Generation of difference data**
+
+Must be run in a cctbx.python environment. Takes the high-energy and metal absorption edge datasets as first and second command line arguments respectively.
+
+#### **Diff\_data.py**
+
+```
+from iotbx.reflection_file_reader import any_reflection_file
+from cctbx import miller
+from cctbx import crystal
+from cctbx.array_family import flex
+from iotbx.command_line import patterson_map
+import sys
+#Cell and symmetry data for the datasets - no way to obtain these from SHELX .hkl files, but could be 
+extracted from other filetypes
+symm = crystal.symmetry(
+       space_group_symbol="P-43m",
+       unit_cell=(17.1,17.1,17.1,90,90,90))
+print "Reading reflection files, merging equivalents \n\n\n"
+#read and format high-energy dataset
+hkl_in_native = any_reflection_file(file_name=sys.argv[1]+"=hklf4")
+miller_set_native =
+hkl_in_native.as_miller_arrays()[0].customized_copy(crystal_symmetry=symm,anomalous_flag=False).merge_equival
+ents().array()
+miller_set_native.show_summary()
+print "\n"
+#read and format high-energy dataset
+hkl_in_derivative = any_reflection_file(file_name=sys.argv[2]+"=hklf4")
+miller_set_derivative = hkl_in_ 
+derivative.as_miller_arrays()[0].customized_copy(crystal_symmetry=symm,anomalous_flag=False).merge_equivalent
+s().array()
+miller_set_derivative.show_summary()
+print "\n\n Scaling reflection files and finding common reflections \n\n"
+#Use only the reflections available in the derivative (lower resolution) dataset 
+miller_set_native, miller_set_derivative = miller_set_native.common_sets(other=miller_set_ derivative)
+miller_set_derivative = miller_set_native.multiscale(other=miller_set_derivative)
+delta_f = miller_set_native.customized_copy(data=miller_set_native.data()-miller_set_derivative.data())
+#print some stats for sanity checking
+miller_set_native.show_summary()
+print list(miller_set_native.data())[0:20]
+print "\n"
+miller_set_derivative.show_summary()
+print list(miller_set_derivative.data().as_float())[0:20]
+#output SHELX-format hkl file, and CCP4-format patterson map
+print "\n writing difference hkl file \n"
+f = open("delta_f.hkl", "w")
+delta_f.export_as_shelx_hklf(file_object=f)
+f.close()
+pmap = patterson_map.calculate_patterson_map(data=delta_f, params=params)
+pmap.as_ccp4_map(file_name="delta_f_patterson")
+```
+#### <span id="page-42-0"></span>**S6.4. Integration of difference data**
+
+Generates various information and statistics from Gaussian cube format electron density maps.
+
+This depends on the *cubetools* library written by P. R. Vaidyanathan and published at <https://gist.github.com/aditya95sriram/8d1fccbb91dae93c4edf31cd6a22510f> under the MIT license. This library is appended below for convenience.
+
+Atom locations and sizes are obtained from the refinement of signals in difference datasets [\(S4.1.3\)](#page-25-1) and hardcoded into this script, which counts the total peak intensity over the volume of a sphere at each location in the cube map, the maximum peak height at each atom site, and the noise level as root mean squared deviation of each map, and returns these as console output.
+
+#### **electron\_density\_integration.py import** numpy **as** np **import** math **import** cubetools **from** scipy**.**spatial **import** distance **def** is\_in\_sphere**(**origin**,** radius**,** point**): if (**distance**.**euclidean**(**origin**,** point**) <=** radius**):** #print (origin, radius, point) #print ("distance ", distance.euclidean(origin, point), "=> true") **return True else:** #print (origin, radius, point) #print ("distance ", distance.euclidean(origin, point), "=> false") **return False def** integrate\_atom**(**location**,** radius**,** cell\_size**,** emap**):** #location should be a triple (x,y,z) in fractional coordinates, #radius and cell\_size should be in Angstroms sites **= []** min\_i **=** int**((** location**[**0**] - (**radius **/** cell\_size**) ) \*** emap**.**shape**[**0**])** max\_i **=** int**((** location**[**0**] + (**radius **/** cell\_size**) ) \*** emap**.**shape**[**0**])** min\_j **=** int**((** location**[**1**] - (**radius **/** cell\_size**) ) \*** emap**.**shape**[**1**])** max\_j **=** int**((** location**[**1**] + (**radius **/** cell\_size**) ) \*** emap**.**shape**[**1**])** min\_k **=** int**((** location**[**2**] - (**radius **/** cell\_size**) ) \*** emap**.**shape**[**2**])** max\_k **=** int**((** location**[**2**] + (**radius **/** cell\_size**) ) \*** emap**.**shape**[**2**]) print(**"integrating from x = "**+**str**(**min\_i**)+**" to "**+**str**(**max\_i**)+**", y = "**+**str**(**min\_j**)+**" to "**+**str**(**max\_j**)+**", z = "**+**str**(**min\_k**)+**" to "**+**str**(**max\_k**)) for** i **in** range**(**min\_i**,** max\_i**): for** j **in** range**(**min\_j**,** max\_j**): for** k **in** range**(**min\_k**,** max\_k**):** x **= (**i**/**emap**.**shape**[**0**])** y **= (**j**/**emap**.**shape**[**1**])** z **= (**k**/**emap**.**shape**[**2**]) if** is\_in\_sphere**(**location**,** radius**/**cell\_size**, (**x**,**y**,**z**)):** sites**.**append**(**emap**[**i**,**j**,**k**]) return** sites fo\_emap **=** cubetools**.**read\_cube**(**"MUF-93-72h-fobs.cube"**)** fo\_emap\_array **=** fo\_emap**[**0**]** fo\_min\_fc\_emap **=** cubetools**.**read\_cube**(**"MUF-93-72h-fobs-min-fcalc.cube"**)** fo\_min\_fc\_emap\_array **=** fo\_min\_fc\_emap**[**0**]** atom\_1 **= (**integrate\_atom**((**INSERT ATOM COORDINATE HERE**),** 1.7**,** 17.1**,** fo\_emap\_array**))** atom\_2 **= (**integrate\_atom**((**INSERT ATOM COORDINATE HERE**),** 1.7**,** 17.1**,** fo\_emap\_array**)) print (**atom\_1**,** atom\_2**) print(**sum**(**atom\_1**),** sum**(**atom\_2**)) print(**fo\_emap\_array**.**shape**) print(**fo\_emap\_array**) print(**fo\_min\_fc\_emap\_array**.**shape**) print(**fo\_min\_fc\_emap\_array**) def** map\_rmsd**(**emap\_arr**):** emap\_mean **=** emap\_arr**.**mean**(**axis**=None) print (**"mean value:"**,**emap\_mean**,**"min value:"**,**emap\_arr**.**min**(),**"max value:"**,**emap\_arr**.**max**())** emap\_disp **=** emap\_arr **-** emap\_mean emap\_disp\_sq **=** np**.**square**(**emap\_disp**)** emap\_mean\_disp\_sq **=** emap\_disp\_sq**.**mean**() print (**"mean squared displacement: " **+** str**(**emap\_mean\_disp\_sq**))** emap\_rmsd **=** math**.**sqrt**(**emap\_mean\_disp\_sq**) print (**"root mean squared displacement: " **+** str**(**emap\_rmsd**))**
+
+**print(**"Statistics for (Fobs, phi) electron density map:"**)** noise\_fobs **=** map\_rmsd**(**fo\_emap\_array**) print(**""**) print(**"Statistics for (Fobs - Fcalc, phi) electron density map:"**)** noise\_diff **=** map\_rmsd**(**fo\_min\_fc\_emap\_array**) print(**""**) print(**"meax peak height at location 1:"**,** max**(**atom\_1**)) print(**"meax peak height at location 2:"**,** max**(**atom\_2**)) print(**"integrated electron density at locations 1 & 2:"**,** sum**(**atom\_1**),** sum**(**atom\_2**)) print(**"ratio of peak integrals:"**,** sum**(**atom\_2**)/**sum**(**atom\_1**)\***100**,** "%" **) print(**""**) print(**"signal to noise ratio for main peak (noise calculated from (Fobs, phi) = "**,** max**(**atom\_1**)/**noise\_fobs**) print(**"signal to noise ratio for main peak (noise calculated from (Fobs - Fcalc, phi)) = "**,** max**(**atom\_1**)/**noise\_diff**) print(**""**)**
+
+#### **cubetools.py**
+
+```
+#------------------------------------------------------------------------------
+# Module: cubetools
+#------------------------------------------------------------------------------
+#
+# Description:
+# Module to work with Gaussian cube format files
+# (see http://paulbourke.net/dataformats/cube/)
+#
+#------------------------------------------------------------------------------
+#
+# What does it do:
+# * Read/write cube files to/from numpy arrays (dtype=float*)
+# * Read/write pairse of cube files to/from numpy arrays (dtype=complex*)
+# * Provides a CubeFile object, to be used when cubefiles with 
+# constant and static data is required. It simulates the readline method
+# of a file object with a cube file opened, without creating a file
+#
+#------------------------------------------------------------------------------
+#
+# Dependency: numpy
+#
+#------------------------------------------------------------------------------
+#
+# Author: P. R. Vaidyanathan (aditya95sriram <at> gmail <dot> com)
+# Date: 25th June 2017
+#
+#------------------------------------------------------------------------------
+#
+# MIT License
+# 
+# Copyright (c) 2019 P. R. Vaidyanathan
+# 
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+# 
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+# 
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#
+#------------------------------------------------------------------------------
+import numpy as np
+if __name__ == '__main__':
+ DEBUGMODE = True
+else:
+ DEBUGMODE = False
+def _debug(*args):
+ global DEBUGMODE
+ if DEBUGMODE:
+ print " ".join(map(str, args))
+class CubeFile(object):
+ """
+ Object which mimics a cube file opened as a file object 
+ by returning output in the correct format, matching the 
+ metadata of the source cube file and replacing volumetric
+ data with static data provided as arg to the constructor. 
+ Doesn't copy atoms metadata, retains number of atoms, but
+ returns dummy atoms
+ Mimics file object's readline method.
+ params:
+ srcname: source file to copy metadata from
+ const: numeric value to return instead of volumetric data
+ returns: CubeFile object
+```
+"""
+
+```
+ def __init__(self, srcname, const=1):
+ self.cursor = 0
+ self.const = const
+ self.src = src = open(srcname)
+ src.readline(); src.readline(); # comments
+ _debug(srcname)
+ self.lines = [" Cubefile created by cubetools.py\n",
+ " source: {0}\n".format(srcname)]
+ self.lines.append(src.readline()) # read natm and origin
+ self.natm = int(self.lines[-1].strip().split()[0])
+ # read cube dim and vectors along 3 axes
+ self.lines.extend(src.readline() for i in range(3))
+ self.src.close()
+ self.nx, self.ny, self.nz = [int(l.strip().split()[0]) for l in self.lines[3:6]]
+ self.remvals = self.nz
+ self.remrows = self.nx*self.ny
+ for i in range(self.natm):
+ self.lines.append("{0:^ 8d}".format(1) + "{0:< 12.6f}".format(0)*4 + '\n')
+ def __del__(self):
+ self.src.close()
+ def readline(self):
+ """ Mimic readline method of file object with cube file opened """
+ try:
+ retval = self.lines[self.cursor]
+ except IndexError:
+ if not self.remrows:
+ return ""
+ if self.remvals <= 6:
+ nval = min(6,self.remvals)
+ self.remrows -= 1
+ self.remvals = self.nz 
+ else:
+ nval = 6
+ self.remvals -= nval
+ return " {0: .5E}".format(self.const)*nval + "\n"
+ else:
+ self.cursor += 1
+ return retval
+def _getline(cube):
+ """
+ Read a line from cube file where first field is an int 
+ and the remaining fields are floats.
+ params:
+ cube: file object of the cube file
+ returns: (int, list<float>)
+ """
+ l = cube.readline().strip().split()
+ return int(l[0]), map(float, l[1:])
+def _putline(*args):
+ """
+ Generate a line to be written to a cube file where 
+ the first field is an int and the remaining fields are floats.
+ params:
+ *args: first arg is formatted as int and remaining as floats
+ returns: formatted string to be written to file with trailing newline
+ """
+ s = "{0:^ 8d}".format(args[0])
+ s += "".join("{0:< 12.6f}".format(arg) for arg in args[1:])
+ return s + "\n"
+def read_cube(fname):
+ """ 
+ Read cube file into numpy array
+ params:
+ fname: filename of cube file
+ returns: (data: np.array, metadata: dict)
+ """
+ meta = {}
+ with open(fname, 'r') as cube:
+ cube.readline(); cube.readline() # ignore comments
+```
+
+```
+ natm, meta['org'] = _getline(cube)
+ nx, meta['xvec'] = _getline(cube)
+ ny, meta['yvec'] = _getline(cube)
+ nz, meta['zvec'] = _getline(cube)
+ meta['atoms'] = [_getline(cube) for i in range(natm)]
+ data = np.zeros((nx*ny*nz))
+ idx = 0
+ for line in cube:
+ for val in line.strip().split():
+ data[idx] = float(val)
+ idx += 1
+ data = np.reshape(data, (nx, ny, nz))
+ return data, meta
+def read_imcube(rfname, ifname = ""):
+ """
+ Convenience function to read in two cube files at once, 
+ where one contains the real part and the other contains the 
+ imag part. If only one filename given, other filename is inferred.
+ params:
+ rfname: filename of cube file of real part
+ ifname: optional, filename of cube file of imag part
+ returns: np.array (real part + j*imag part)
+ """
+ ifname = ifname or rfname.replace('real', 'imag')
+ _debug("reading from files", rfname, "and", ifname)
+ re, im = read_cube(rfname), read_cube(ifname)
+ fin = np.zeros(re[0].shape, dtype='complex128')
+ if re[1] != im[1]:
+ _debug("warning: meta data mismatch, real part metadata retained")
+ fin += re[0]
+ fin += 1j*im[0]
+ return fin, re[1]
+def write_cube(data, meta, fname):
+ """
+ Write volumetric data to cube file along
+ params:
+ data: volumetric data consisting real values
+ meta: dict containing metadata with following keys
+ atoms: list of atoms in the form (mass, [position])
+ org: origin
+ xvec,yvec,zvec: lattice vector basis
+ fname: filename of cubefile (existing files overwritten)
+ returns: None
+ """
+ with open(fname, "w") as cube:
+ # first two lines are comments
+ cube.write(" Cubefile created by cubetools.py\n source: none\n")
+ natm = len(meta['atoms'])
+ nx, ny, nz = data.shape
+ cube.write(_putline(natm, *meta['org'])) # 3rd line #atoms and origin
+ cube.write(_putline(nx, *meta['xvec']))
+ cube.write(_putline(ny, *meta['yvec']))
+ cube.write(_putline(nz, *meta['zvec']))
+ for atom_mass, atom_pos in meta['atoms']:
+ cube.write(_putline(atom_mass, *atom_pos)) #skip the newline
+ for i in range(nx):
+ for j in range(ny):
+ for k in range(nz):
+ if (i or j or k) and k%6==0:
+ cube.write("\n")
+ cube.write(" {0: .5E}".format(data[i,j,k]))
+def write_imcube(data, meta, rfname, ifname=""):
+ """
+ Convenience function to write two cube files from complex valued 
+ volumetric data, one for the real part and one for the imaginary part.
+ Data about atoms, origin and lattice vectors are kept same for both.
+ If only one filename given, other filename is inferred.
+ params: 
+ data: volumetric data consisting complex values
+ meta: dict containing metadata with following keys
+ atoms: list of atoms in the form (mass, [position])
+ org: origin
+ xvec,yvec,zvec: lattice vector basis
+ rfname: filename of cube file containing real part
+```
+ifname: optional, filename of cube file containing imag part
+
+returns: None
+
+"""
+
+ ifname **=** ifname **or** rfname**.**replace**(**'real'**,** 'imag'**)** \_debug**(**"writing data to files"**,** rfname**,** "and"**,** ifname**)** write\_cube**(**data**.**real**,** meta**,** rfname**)** write\_cube**(**data**.**imag**,** meta**,** ifname**)**
+
+# <span id="page-48-0"></span>**References**
+
+- 1. Ferguson, A.; Liu, L.; Tapperwijn, S. J.; Perl, D.; Coudert, F.-X.; Van Cleuvenbergen, S.; Verbiest, T.; van der Veen, M. A.; Telfer, S. G., Controlled partial interpenetration in metal–organic frameworks. *Nat. Chem.* **2016,** *8*, 250-257.
+- 2. Allinger, N. L.; Youngdale, G. A., Reduction of 6,7-Diphenyldibenzo[e,g] [1,4]diazocine. An Unusual Nucleophilic Aromatic Substitution 1. *J. Org. Chem.* **1959,** *24*, 306-308.
+- 3. Hu, Y. H.; Wang, J. C.; Yang, S.; Li, Y. A.; Dong, Y. B., CuI@UiO-67-IM: A MOF-Based Bifunctional Composite Triphase-Transfer Catalyst for Sequential One-Pot Azide-Alkyne Cycloaddition in Water. *Inorg. Chem.* **2017,** *56*, 8341-8347.
+- 4. Cowieson, N. P.; Aragao, D.; Clift, M.; Ericsson, D. J.; Gee, C.; Harrop, S. J.; Mudie, N.; Panjikar, S.; Price, J. R.; Riboldi-Tunnicliffe, A.; Williamson, R.; Caradoc-Davies, T., MX1: a bendingmagnet crystallography beamline serving both chemical and macromolecular crystallography communities at the Australian Synchrotron. *J. Synchrotron Radiat.* **2015,** *22*, 187-90.
+- 5. Aragão, D.; Aishima, J.; Cherukuvada, H.; Clarken, R.; Clift, M.; Cowieson, N. P.; Ericsson, D. J.; Gee, C. L.; Macedo, S.; Mudie, N., MX2: a high-flux undulator microfocus beamline serving both the chemical and macromolecular crystallography communities at the Australian Synchrotron. *J. Synchrotron Radiat.* **2018,** *25*, 885-891.
+- 6. Sheldrick, G., SHELXT Integrated space-group and crystal-structure determination. *Acta Cryst. A*  **2015,** *71*, 3-8.
+- 7. Sheldrick, G., Crystal structure refinement with SHELXL. *Acta Crystallogr. C* **2015,** *71*, 3-8.
+- 8. Dolomanov, O. V.; Bourhis, L. J.; Gildea, R. J.; Howard, J. A. K.; Puschmann, H., OLEX2: a complete structure solution, refinement and analysis program. *J. Appl. Crystallogr.* **2009,** *42*, 339-341. 9. Kabsch, W., Xds. *Acta Cryst. D* **2010,** *66*, 125-32.
+- 10. Grosse-Kunstleve, R. W.; Sauter, N. K.; Moriarty, N. W.; Adams, P. D., The Computational Crystallography Toolbox: crystallographic algorithms in a reusable software framework. *J. Appl. Crystallogr.* **2002,** *35*, 126-136.
+
+根据提供的文献内容，生成实验流程复现文献实验

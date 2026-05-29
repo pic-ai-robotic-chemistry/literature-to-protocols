@@ -1,0 +1,982 @@
+# **Metal–organic frameworks as selectivity regulators for hydrogenation reactions**
+
+Meiting Zhao1 \*, Kuo Yuan1,2 \*, Yun Wang3, Guodong Li1 , Jun Guo1 , Lin Gu4, Wenping Hu2,5, Huijun Zhao3 & Zhiyong Tang1
+
+**Owing to the limited availability of natural sources, the widespread demand of the flavouring, perfume and pharmaceutical industries for unsaturated alcohols is met by producing them from α,β-unsaturated aldehydes, through the selective hydrogenation of the carbon–oxygen group (in preference to the carbon– carbon group)[1](#page-3-0) . However, developing effective catalysts for this transformation is challenging[2–7](#page-3-1), because hydrogenation of the carbon–carbon group is thermodynamically favoure[d8](#page-3-2) . This difficulty is particularly relevant for one major category of heterogeneous catalyst: metal nanoparticles supported on metal oxides. These systems are generally incapable of significantly enhancing the selectivity towards thermodynamically unfavoured reactions, because only the edges of nanoparticles that are in direct contact with the metal-oxide support possess selective catalytic properties; most of the exposed nanoparticle surfaces do no[t9–14](#page-3-3). This has inspired the use of metal–organic frameworks (MOFs) to encapsulate metal nanoparticles within their layers or inside their channels, to influence the activity of the entire nanoparticle surface while maintaining efficient reactant and product transport owing to the porous nature of the materia[l15–18.](#page-3-4) Here we show that MOFs can also serve as effective selectivity regulators for the hydrogenation of α,β-unsaturated aldehydes. Sandwiching platinum nanoparticles between an inner core and an outer shell composed of an MOF with metal nodes of Fe3<sup>+</sup>, Cr3<sup>+</sup> or both (known as MIL-101; refs [19–21](#page-4-0)) results in stable catalysts that convert a range of α,β-unsaturated aldehydes with high efficiency and with significantly enhanced selectivity towards unsaturated alcohols. Calculations reveal that preferential interaction of MOF metal sites with the carbon–oxygen rather than the carbon– carbon group renders hydrogenation of the former by the embedded platinum nanoparticles a thermodynamically favoured reaction. We anticipate that our basic design strategy will allow the development of other selective heterogeneous catalysts for important yet challenging transformations.**
+
+The coordinatively unsaturated metal sites (CUSs) inside MOFs can be readily tuned to adjust interactions between MOFs and reactants, to activate targeted chemical bonds in reactants and thereby to lower the reaction-energy barrier of the desired chemical transformation[22](#page-4-1). We explore this concept with MOF sandwich nanostructures that are then used as hydrogenation catalysts (Supplementary Fig. 1). The nanostructures contain a layer of platinum (Pt) nanoparticles encapsulated between a core and a shell made of MIL-101, which contains either Fe3<sup>+</sup> or Cr3<sup>+</sup> trimers, connected with 1,4-benzenedicarboxylate (BDC) linkers [\(Fig. 1a](#page-1-0) and Supplementary Note 1)[19–21](#page-4-0). All synthesized products are of uniform octahedral shape, with 2.8-nm Pt nanoparticles immobilized between the MIL-101 core and shell ([Fig. 1b–l](#page-1-0) and Supplementary Figs 2–13). Catalytic performance is evaluated using five typical sandwich nanostructures: two MIL-101(Fe)@Pt@MIL-101(Fe) systems with shell thicknesses of about 9.2nm and 22.0nm (denoted as MIL-101(Fe)@Pt@MIL-101(Fe)9.2 and MIL-101(Fe)@
+
+Pt@MIL-101(Fe)22.0; [Fig. 1b–e](#page-1-0) and Supplementary Figs 8, 9); one MIL-101(Cr)@Pt@MIL-101(Cr) with a shell thickness of around 5.1nm (denoted as MIL-101(Cr)@Pt@MIL-101(Cr)5.1; [Fig. 1f, g](#page-1-0) and Supplementary Fig. 10); and two MIL-101(Cr)@Pt@MIL-101(Fe) systems with shell thicknesses of around 2.9nm and 8.8nm (denoted as MIL-101(Cr)@Pt@MIL-101(Fe)2.9 and MIL-101(Cr)@Pt@MIL-101(Fe)8.8; [Fig. 1h–l](#page-1-0), Supplementary Figs 11–13 and Supplementary Note 2). All of the materials contain single crystalline MIL-101 with a face-centred-cubic (fcc) structure, and a lattice fringe of 2.6nm that corresponds to the (222) planes of MIL-101 (ref. [19;](#page-4-0) [Fig. 1c–k](#page-1-0) and Supplementary Figs 14–16). The embedded Pt nanoparticles exhibit high crystallinity, with an interplanar spacing of 0.23nm that corresponds to the (111) planes of fcc platinum ([Fig. 1e, k](#page-1-0), insets).
+
+[Table 1](#page-2-0) summarizes the results obtained when using the sandwich MIL-101@Pt@MIL-101 nanostructures as catalysts for the selective hydrogenation of cinnamaldehyde (**A**) to cinnamyl alcohol (**B**), along with results for Pt nanoparticles, MIL-101 and MIL-101@Pt as controls (see also [Fig. 1](#page-1-0), Supplementary Figs 2–7, and Supplementary Tables 1, 2). Because the C=O and C=C groups in **A** are both possible hydrogenation targets, we expect a product mixture containing the targeted cinnamyl alcohol (**B**), as well as hydrocinnamaldehyde (**C**) and phenyl propanol (**D**). For a more meaningful evaluation of selectivity for the desired product **B**, we first compared the catalysts' performances at the same conversion level (about 45%) of **A.** We found no noticeable hydrogenation of **A** by MIL-101 ([Table 1](#page-2-0), entry 9), whereas Pt nanoparticles catalyse this reaction with a turnover frequency (TOF) of 372.4h−<sup>1</sup> and a selectivity for **B** of only around 18.3% [\(Table 1,](#page-2-0) entry 8), consistent with density functional theory (DFT) predictions (Supplementary Fig. 17).
+
+The third controls—the MIL-101@Pt nanostructures—exhibit dramatically increased selectivity for **B** ([Table 1,](#page-2-0) entries 6 and 7), with 86.4% for MIL-101(Fe)@Pt and 44.0% for MIL-101(Cr)@Pt. This remarkable promotion of selective hydrogenation of the C=O bond by MIL-101 is probably due to the CUSs in MIL-101 acting as Lewis acid sites that interact with the C=O bond and activate i[t23](#page-4-2). A Fourier transform infrared (FTIR) survey shows an obvious redshift of the νC<sup>=</sup>O bond of **A** after mixing with MIL-101, while the νC<sup>=</sup>C bond remains unaltered, confirming a selective interaction between the C=O bond of **A** and MIL-101 (Supplementary Fig. 18).
+
+DFT calculations with consideration of spin-polarization effect aimed at understanding the origin of the interaction between MIL-101 and **A**—show that the five-coordinated metal nodes in the Fe3OCl(COO)6H2O or Cr3OCl(COO)6H2O trimers of supertetrahedral MIL-101 cells serve as active sites that interact with the C=O group of **A** (Supplementary Fig. 19)[19](#page-4-0). The calculated adsorption energy of **A** over the Fe3OCl(COO)6H2O and Cr3OCl(COO)6H2O trimers is −1.26 eV and −1.01 eV, respectively [\(Fig. 2](#page-3-5)); that is, binding between the trimers and **A** through Fe–O or Cr–O interactions is thermodynamically favoured, with the interaction between **A** and
+
+<sup>1</sup>Chinese Academy of Sciences (CAS) Key Laboratory of Nanosystem and Hierarchy Fabrication, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, China. 2School of Science, Tianjin University, Tianjin 300072, China. 3Centre for Clean Environment and Energy, Gold Coast Campus, Griffith University, Queensland 4222, Australia. 4Institute of Physics, Chinese Academy of Sciences, Beijing 100190, China. 5Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190, China. \*These authors contributed equally to this work.
+
+## LETTER RESEARCH
+
+![](_page_1_Figure_1.jpeg)
+
+<span id="page-1-0"></span>**Figure 1** | **Sandwich MIL-101@Pt@MIL-101 nanostructures. a**, Synthetic route to generating sandwich MIL-101@Pt@MIL-101, comprising Pt nanoparticles (NPs) sandwiched between a core and a shell of MIL-101. **b**, **d**, Transmission electron microscopy (TEM) images of MIL-101(Fe)@ Pt@MIL-101(Fe)22.0 (**b**) and MIL-101(Fe)@Pt@MIL-101(Fe)9.2 (**d**). **c**, **e**, High-resolution TEM (HR-TEM) images of MIL-101(Fe)@Pt@MIL-101(Fe)22.0 (**c**) and MIL-101(Fe)@Pt@MIL-101(Fe)9.2 (**e**). **f**, TEM image of MIL-101(Cr)@Pt@MIL-101(Cr)5.1. **g**, HR-TEM image of MIL-101(Cr)@ Pt@MIL-101(Cr)5.1. **h, j**, TEM images of MIL-101(Cr)@Pt@MIL-101(Fe)8.8 (**h**) and MIL-101(Cr)@Pt@MIL-101(Fe)2.9 (**j**). **i**, **k**, HR-TEM
+
+Fe3OCl(COO)6H2O being the stronger one (Supplementary Figs 20–22 and Supplementary Note 3). The calculated reaction energies for hydrogenation of **A** to **B** or **C** over MIL-101(Fe)@Pt are −2.15 eV and −1.89 eV ([Fig. 2a\)](#page-3-5), indicating that the formation of **B** (selectivity approximately 86.4%) is energetically favoured over that of **C** (selectivity roughly 9.6%). In the case of MIL-101(Cr)@Pt, the corresponding reaction energies for **B** and **C** formation are −0.69eV and −0.92 eV, respectively ([Fig. 2b\)](#page-3-5), indicating a smaller difference in the selectivity of **B** (roughly 44.0%) over **C** (about 40.0%). These results confirm the experimental observation that the CUSs in MIL-101 preferentially interact with the C=O group (rather than the C=C group) of **A** and activate it, giving rise to the improved selectivity for the formation of product **B**.
+
+We also note that at a conversion level of 45%, TOF values are 122.1 h<sup>−</sup><sup>1</sup> for MIL-101(Fe)@Pt and 372.4 h<sup>−</sup><sup>1</sup> for MIL-101(Cr)@Pt ([Table 1,](#page-2-0) entries 6 and 7), indicating that MIL-101(Cr) does not affect
+
+images of MIL-101(Cr)@Pt@MIL-101(Fe)8.8 (**i**) and MIL-101(Fe)@Pt@ MIL-101(Fe)2.9 (**k**). Insets in **b**, **d**, **f**, **h**, **j**, TEM images of a single MIL-101@Pt@MIL-101 nanostructure. Insets in **c**, **e**, **g**, **i**, **k**, corresponding fast Fourier transform (FFT) images of MIL-101@Pt@MIL-101 (top right) and HR-TEM images of Pt NPs (bottom right). **l**, High-angle annular darkfield scanning transmission electron microscopy (HAADF-STEM) image (top left) and corresponding energy-dispersive X-ray spectroscopy (EDS) elemental mapping images of a cross-section of single MIL-101(Cr)@Pt@ MIL-101(Fe)2.9.
+
+the catalytic activity of Pt nanoparticles whereas MIL-101(Fe) causes a considerable decrease. X-ray photoelectron spectroscopy (XPS) measurements reveal a partial transfer of electrons from the Pt nanoparticles to MIL-101(Fe)[24](#page-4-3) [\(Fig. 3a, b, d](#page-3-6) and Supplementary Note 4), whereas there is no obvious electron transfer between from the Pt nanoparticles to MIL-101(Cr) ([Fig. 3a, c, d\)](#page-3-6). This suggests the reduced electron density of Pt nanoparticles in MIL-101(Fe)@Pt as a possible cause of the decreased hydrogenation activity. This is further supported by DFT calculations showing that the negative binding energy of hydrogen atoms (*ΔE*H) on a platinum(111) (2×2) surface increases with positive charging of the platinum surface (Supplementary Fig. 23), with the resulting stronger surface binding of the hydrogen atoms reducing the catalytic activity of MIL-101(Fe)@Pt[25.](#page-4-4)
+
+Guided by these observations, and given that MIL-101 possesses two characteristic pore windows (of about 1.3nm and 1.5nm) that are large enough to accommodate **A** (1.05nm×0.65nm; Supplementary
+
+### <span id="page-2-0"></span>**Table 1** | **Selective hydrogenation of different α,β-unsaturated aldehydes by different catalysts**
+
+![](_page_2_Figure_2.jpeg)
+
+| Entry | Catalysts                                                               | Time (h) | Conversion (%)† | Selectivity (%)† |      |      |               |
+|-------|-------------------------------------------------------------------------|----------|-----------------|------------------|------|------|---------------|
+|       |                                                                         |          |                 | B                | C    | D    | TOF‡<br>(h−1) |
+|       | Substrate: cinnamaldehyde*                                              |          |                 |                  |      |      |               |
+| 1     | MIL-101(Fe)@Pt@MIL-101(Fe)9.2                                           | 8.5      | 45.0            | 94.1             | 2.9  | 3.0  | 18.0          |
+| 2     | MIL-101(Fe)@Pt@MIL-101(Fe)22.0                                          | 10       | 45.0            | 96.3             | 1.9  | 1.8  | 15.3          |
+| 3     | MIL-101(Cr)@Pt@MIL-101(Fe)2.9                                           | 2        | 45.0            | 94.2             | 4.7  | 1.1  | 76.3          |
+| 4     | MIL-101(Cr)@Pt@MIL-101(Fe)8.8                                           | 6        | 45.0            | 94.5             | 2.8  | 2.7  | 25.4          |
+| 5     | MIL-101(Cr)@Pt@MIL-101(Cr)5.1                                           | 0.7      | 45.0            | 79.2             | 14.6 | 6.2  | 218.1         |
+| 6     | MIL-101(Fe)@Pt                                                          | 1.25     | 45.0            | 86.4             | 9.6  | 4.0  | 122.1         |
+| 7     | MIL-101(Cr)@Pt                                                          | 0.41     | 45.0            | 44.0             | 40.0 | 16.0 | 372.4         |
+| 8     | Pt NPs                                                                  | 0.41     | 45.0            | 18.3             | 60.6 | 21.1 | 372.4         |
+| 9     | MIL-101(Cr) or MIL-101(Fe)                                              | 24       | 0               | —                | —    | —    | 0             |
+| 10    | MIL-101(Fe)@Pt@MIL-101(Fe)9.2                                           | 24       | 94.3            | 97.0             | 0    | 3.0  | 13.3          |
+| 11    | MIL-101(Fe)@Pt@MIL-101(Fe)22.0                                          | 24       | 86.3            | 97.4             | 0.3  | 2.3  | 12.2          |
+| 12    | MIL-101(Cr)@Pt@MIL-101(Fe)2.9                                           | 20       | 99.8            | 95.6             | 0.8  | 3.6  | 16.9          |
+| 13    | MIL-101(Cr)@Pt@MIL-101(Fe)8.8                                           | 20       | 90.6            | 94.3             | 2.1  | 3.6  | 15.4          |
+| 14    | MIL-101(Cr)@Pt@MIL-101(Cr)5.1                                           | 2        | 95.1            | 62.6             | 12.2 | 25.2 | 161.3         |
+|       | Substrate: furfural*                                                    |          |                 |                  |      |      |               |
+| 15    | MIL-101(Fe)@Pt@MIL-101(Fe)9.2                                           | 15       | 85.6            | 93.2             | 3.5  | 3.3  | 19.4          |
+| 16    | MIL-101(Cr)@Pt@MIL-101(Fe)8.8                                           | 7        | 87.9            | 96.5             | 3.5  | 0    | 42.6          |
+| 17    | MIL-101(Cr)@Pt@MIL-101(Cr)5.1                                           | 5        | 98.5            | 99.8             | 0    | 0.2  | 66.8          |
+|       | Substrate: 3-methyl-2-butenal*                                          |          |                 |                  |      |      |               |
+| 18    | MIL-101(Fe)@Pt@MIL-101(Fe)9.2                                           | 17       | 71.1            | 87.8             | 3.2  | 9.0  | 14.2          |
+| 19    | MIL-101(Fe)@Pt@MIL-101(Fe)22.0                                          | 24       | 59.9            | 92.5             | 2.8  | 4.7  | 8.5           |
+| 20    | MIL-101(Cr)@Pt@MIL-101(Fe)8.8                                           | 10       | 85.0            | 64.4             | 7.9  | 27.7 | 28.8          |
+|       | Substrate: acrolein*                                                    |          |                 |                  |      |      |               |
+| 21    | MIL-101(Fe)@Pt@MIL-101(Fe)9.2                                           | 3        | 76.9            | 75.7             | 19.0 | 5.3  | 86.9          |
+| 22    | MIL-101(Fe)@Pt@MIL-101(Fe)22.0                                          | 3        | 52.7            | 97.3             | 2.7  | 0    | 59.6          |
+| 23    | MIL-101(Cr)@Pt@MIL-101(Fe)8.8                                           | 0.75     | 87.5            | 57.9             | 17.3 | 24.8 | 395.8         |
+| 24    | ¶<br>Au25(SR)18/Fe2O3                                                   | 3        | 47.0            | 92.0             | —    | —    | 3.1           |
+| 25    | Au clusters coated with tert-butyl<br>(naphthalen-1-yl)phosphine oxide§ | 18       | 61.0            | >99              | —    | —    | 1.7           |
+
+**A**, α,β-unsaturated aldehydes (cinnamaldehyde, furfural, 3-methyl-2-butenal or acrolein); **B,** unsaturated alcohol; **C**, saturated aldehyde; **D**, saturated alcohol.
+
+\*
+
+Reaction condition: each catalyst contains 0.23mg Pt NPs; the reaction requires 0.4mmol of **A**, room temperature and 3MPa H2. †The percentage conversion of **A** and selectivity for specific products were determined by gas chromatography-mass spectrometry and gas chromatography or 1H NMR. ‡TOF was calculated by the mole number of converted **A**·(mole number of total Pt or Au)<sup>−</sup>1 h−1. ¶Reaction condition[26:](#page-4-5) 100mg 1%Au25(SR)18/Fe2O3, 0.1mmol **A**, 0°C and 0.1MPa H2. The catalytic selective hydrogenation of acrolein has been described previously. §Reaction conditio[n27](#page-4-6): 0.01mmol Au clusters (assuming 46.28% Au on the basis of element analysis), 0.5mmol **A**, 5ml tetrahydrofuran, 40°C and 4MPa H2. The catalytic selective hydrogenation of acrolein has been described previously.
+
+Table 2 and Figs 24, 25), we next explored the sandwich MIL-101@Pt@ MIL-101 structure as an ideal catalyst for selective hydrogenation of **A** to **B**. Entries 1–5 in [Table 1](#page-2-0) confirm that coating with MIL-101 shells of different thicknesses considerably enhances the selectivity for **B**: the selectivity with MIL-101(Cr)@Pt@MIL-101(Cr)5.1 is 79.2%, while using MIL-101(Cr) or MIL-101(Fe) cores that are coated with MIL-101(Fe) shells gives selectivities that are always higher than 94%. The improved selectivities are accompanied by a decrease in TOF values, which is expected because the MIL-101 shells slow down reactant and product diffusion. Coating with MIL-101(Fe) leads to an additional decrease in catalytic activity, owing to the interfacial electron-transfer effect [\(Fig. 3](#page-3-6) and Supplementary Fig. 23).
+
+Our MIL-101@Pt@MIL-101 catalysts combine exceptionally high selectivity and conversion efficiency [\(Table 1](#page-2-0), entries 10–14, and Supplementary Table 3), and outperform state-of-the-art catalysts (Supplementary Table 4). MIL-101(Cr)@Pt@MIL-101(Fe)2.9, for example, exhibits excellent selectivity (95.6%) and almost full conversion (99.8%) (Supplementary Fig. 26). Moreover, reusability tests indicate that for MIL-101(Cr)@Pt@MIL-101(Fe)2.9, both the conversion efficiency of **A** and the selectivity for **B** remain almost unchanged over five successive catalytic cycles (Supplementary Figs 26–30, 31a), with the stability of the system being further verified by XRD and transmission electron microscope (TEM) measurements (Supplementary Figs 31b, 32) that show no evidence for structural or morphological differences between fresh and used catalysts. Excellent catalytic stability is also obtained with MIL-101(Fe)@Pt@MIL-101(Fe)9.2 (Supplementary Fig. 33).
+
+To further confirm that the integration of Pt nanoparticles and CUSs into a single sandwich nanostructure results in useful selective hydrogenation capabilities, we used MIL-101@Pt@MIL-101 to hydrogenate smaller-sized α,β-unsaturated aldehydes. Acrolein (0.69nm×0.51nm), with no substituents on C=C bond, branched 3-methyl-2-butenal (0.79 nm × 0.60 nm), and furfural (0.81nm×0.64nm), with a furan ring (see Supplementary Fig. 34 for
+
+![](_page_3_Figure_1.jpeg)
+
+<span id="page-3-5"></span>**Figure 2** | **Investigation of the reaction mechanism on MIL-101@Pt. a**, **b**, Theoretical calculations of the interaction of cinnamaldemyde (**A**) with Fe trimers (**a**) or Cr trimers (**b**), and the subsequent selective hydrogenation of **A** to cinnamyl alcohol (**B**) and hydrocinnamaldehyde (**C**), on a MIL-101(Fe)@Pt or MIL-101(Cr)@Pt catalyst. Brown, carbon; pink, hydrogen; red, oxygen; gold, iron; blue, chromium; green, chlorine.
+
+structures), are all converted through preferential hydrogenation of the C=O group over the C=C group [\(Table 1](#page-2-0), Supplementary Tables 5–7 and Supplementary Figs 35–37). Conversion efficiencies are 52.7%, 59.9% and 98.5%, respectively, with selectivities for hydrogenation of the C=O group being 97.3%, 92.5% and 99.8%. When compared with other catalysts[26,](#page-4-5)[27,](#page-4-6) MIL-101(Fe)@Pt@MIL-101(Fe)22.0 also exhibits excellent selectivity towards allyl alcohol [\(Table 1](#page-2-0), entries 24 and 25; Supplementary Note 5 and Supplementary Table 8).
+
+![](_page_3_Figure_4.jpeg)
+
+<span id="page-3-6"></span>**Figure 3** | **XPS profiles of Pt, Fe, Cr and O in different catalysts. a**, Pt 4*f* level. **b**, Fe 2*p* level. **c**, Cr 2*p* level. **d**, O 1*s* level. The catalysts investigated were pure Pt NPs, MIL-101(Fe), MIL-101(Cr), MIL-101(Cr)@Pt and MIL-101(Fe)@Pt. Numbers adjacent to dashed lines represent the peaks' binding energy values.
+
+To explore the generality of the catalyst preparation method, we also synthesized[28–30](#page-4-7) the sandwich structures MOF-525(Zr)@Pt@MOF-525(Zr)26.5, MOF-74(Co)@Pt@MOF-74(Co)8.4, UiO-66(Zr)@Pt@UiO-66(Zr)11.2, and UiO-67(Zr)@Pt@UiO-67(Zr)24.1 (Supplementary Table 2 and Supplementary Figs 38–45), which catalysed the hydrogenation of **A** with conversion efficiencies of 35.2%, 35.0%, 90.0% and 69.4%, respectively, and selectivities towards **B** of 85.0%, 70.1%, 65.0% and 73.0%, respectively (Supplementary Figs 46–49 and Supplementary Table 9). Finally, as an example of a system containing different metal nanoparticles, we also prepared MIL-101(Fe)@Ru@MIL-101(Fe)8.3, which hydrogenated **A** with a conversion efficiency of 48.7% and a selectivity towards **B** of 58.5% (Supplementary Figs 50–52 and Supplementary Table 10). These results illustrate the generality of the concept of using CUSs in MOFs as a means of tuning the selectivity of the hydrogenation of α,β-unsaturated aldehydes. Moreover, using commercial Pt/C (carbon) and Pt/Fe2O3 for the hydrogenation of **A** (Supplementary Figs 53, 54) resulted in conversion efficiencies of 98.1% and 54.5% and selectivities towards **B** of 39.9% and 84.5%, respectively (Supplementary Table 11), with the different selectivities suggesting that Fe-based supports favour the hydrogenation of C=O groups over C=C groups (although not to the extent seen with the sandwich forms of catalysts). Taken together, our observations confirm the considerable potential of MOFs as a new generation of heterogeneous catalytic supports that may prove effective when targeting important but highly challenging reactions.
+
+#### **Received 14 June 2015; accepted 10 August 2016.**
+
+#### **Published online 5 October; corrected online 2 November 2016 (see full-text HTML version for details).**
+
+- <span id="page-3-0"></span>1. Gallezot, P. & Richard, D. Selective hydrogenation of α,β-unsaturated aldehydes. *Catal. Rev. Sci. Eng.* **40,** 81–126 (1998).
+- <span id="page-3-1"></span>2. Tian, Z., Xiang, X., Xie, L. & Li, F. Liquid-phase hydrogenation of cinnamaldehyde: enhancing selectivity of supported gold catalysts by incorporation of cerium into the support. *Ind. Eng. Chem. Res.* **52,** 288–296 (2013).
+- 3. Kahsar, K. R., Schwartz, D. K. & Medlin, J. W. Control of metal catalyst selectivity through specific noncovalent molecular interactions. *J. Am. Chem. Soc.* **136,** 520–526 (2014).
+- 4. Wu, B., Huang, H., Yang, J., Zheng, N. & Fu, G. Selective hydrogenation of α,β-unsaturated aldehydes catalyzed by amine-capped platinum-cobalt nanocrystals. *Angew. Chem. Int. Edn* **51,** 3440–3443 (2012).
+- 5. Stassi, J. P., Zgolicz, P. D., de Miguel, S. R. & Scelza, O. A. Formation of different promoted metallic phases in PtFe and PtSn catalysts supported on carbonaceous materials used for selective hydrogenation. *J. Catal.* **306,** 11–29 (2013).
+- 6. Kennedy, G., Baker, L. R. & Somorjai, G. A. Selective amplification of C=O bond hydrogenation on Pt/TiO2: catalytic reaction and sum-frequency generation vibrational spectroscopy studies of crotonaldehyde hydrogenation. *Angew. Chem. Int. Edn* **53,** 3405–3408 (2014).
+- 7. Kliewer, C. J., Bieri, M. & Somorjai, G. A. Hydrogenation of the α,β-unsaturated aldehydes acrolein, crotonaldehyde, and prenal over Pt single crystals: a kinetic and sum-frequency generation vibrational spectroscopy study. *J. Am. Chem. Soc.* **131,** 9958–9966 (2009).
+- <span id="page-3-2"></span>8. Ide, M. S., Hao, B., Neurock, M. & Davis, R. J. Mechanistic insights on the hydrogenation of α,β-unsaturated ketones and aldehydes to unsaturated alcohols over metal catalysts. *ACS Catal.* **2,** 671–683 (2012).
+- <span id="page-3-3"></span>9. Cargnello, M. *et al.* Control of metal nanocrystal size reveals metal-support interface role for ceria catalysts. *Science* **341,** 771–773 (2013).
+- 10. Corma, A. & Serna, P. Chemoselective hydrogenation of nitro compounds with supported gold catalysts. *Science* **313,** 332–334 (2006).
+- 11. Ma, C. Y. *et al.* Mesoporous Co3O4 and Au/Co3O4 catalysts for low-temperature oxidation of trace ethylene. *J. Am. Chem. Soc.* **132,** 2608–2613 (2010).
+- 12. Fu, Q. *et al.* Interface-confined ferrous centers for catalytic oxidation. *Science* **328,** 1141–1144 (2010).
+- 13. Vayssilov, G. N. *et al.* Support nanostructure boosts oxygen transfer to catalytically active platinum nanoparticles. *Nature Mater*. **10,** 310–315 (2011).
+- 14. Ghosh, S. *et al.* Selective oxidation of propylene to propylene oxide over silver-supported tungsten oxide nanostructure with molecular oxygen. *ACS Catal.* **4,** 2169–2174 (2014).
+- <span id="page-3-4"></span>15. Furukawa, H., Cordova, K. E., O'Keeffe, M. & Yaghi, O. M. The chemistry and applications of metal-organic frameworks. *Science* **341,** 1230444 (2013).
+- 16. McDonald, T. M. *et al.* Cooperative insertion of CO2 in diamine-appended metal-organic frameworks. *Nature* **519,** 303–308 (2015).
+- 17. Dhakshinamoorthy, A. & Garcia, H. Catalysis by metal nanoparticles embedded on metal-organic frameworks. *Chem. Soc. Rev.* **41,** 5262–5284 (2012).
+- 18. Lu, G. *et al.* Imparting functionality to a metal-organic framework material by controlled nanoparticle encapsulation. *Nature Chem*. **4,** 310–316 (2012).
+- <span id="page-4-0"></span>19. Férey, G. *et al.* A chromium terephthalate-based solid with unusually large pore volumes and surface area. *Science* **309,** 2040–2042 (2005).
+- 20. Taylor-Pashow, K. M. L., Rocca, J. D., Xie, Z., Tran, S. & Lin, W. Postsynthetic modifications of iron-carboxylate nanoscale metal-organic frameworks for imaging and drug delivery. *J. Am. Chem. Soc.* **131,** 14261–14263 (2009).
+- 21. Bauer, S. *et al.* High-throughput assisted rationalization of the formation of metal organic frameworks in the iron (III) aminoterephthalate solvothermal system. *Inorg. Chem.* **47,** 7568–7576 (2008).
+- <span id="page-4-1"></span>22. Xiao, D. J. *et al.* Oxidation of ethane to ethanol by N2O in a metal-organic framework with coordinatively unsaturated iron (II) sites. *Nature Chem*. **6,** 590–595 (2014).
+- <span id="page-4-2"></span>23. Hu, P., Morabito, J. V. & Tsung, C.-K. Core-shell catalysts of metal nanoparticle core and metal-organic framework shell. *ACS Catal.* **4,** 4409–4419 (2014).
+- <span id="page-4-3"></span>24. Guo, Z. *et al.* Carbon nanotube-supported Pt-based bimetallic catalysts prepared by a microwave-assisted polyol reduction method and their catalytic applications in the selective hydrogenation. *J. Catal.* **276,** 314–326 (2010).
+- <span id="page-4-4"></span>25. Nørskov, J. K. *et al.* Trends in the exchange current for hydrogen evolution. *J. Electrochem. Soc.* **152,** J23–J26 (2005).
+- <span id="page-4-5"></span>26. Zhu, Y., Qian, H., Drake, B. A. & Jin, R. Atomically precise Au25(SR)18 nanoparticles as catalysts for the selective hydrogenation of α,β-unsaturated ketones and aldehydes. *Angew. Chem. Int. Edn* **49,** 1295–1298 (2010).
+- <span id="page-4-6"></span>27. Cano, I., Chapman, A. M., Urakawa, A. & van Leeuwen, P. W. N. M. Air-stable gold nanoparticles ligated by secondary phosphine oxides for the chemoselective hydrogenation of aldehydes: crucial role of the ligand. *J. Am. Chem. Soc.* **136,** 2520–2528 (2014).
+- <span id="page-4-7"></span>28. Morris, W. *et al.* Synthesis, structure, and metalation of two new highly porous zirconium metal−organic frameworks. *Inorg. Chem.* **51,** 6443–6445 (2012).
+- 29. Glover, T. G., Peterson, G. W., Schindler, B. J., Britt, D. & Yaghi, O. M. MOF-74 building unit has a direct impact on toxic gas adsorption. *Chem. Eng. Sci.* **66,** 163–170 (2011).
+- 30. Na, K., Choi, K. M., Yaghi, O. M. & Somorjai, G. A. Metal nanocrystals embedded in single nanocrystals of MOFs give unusual selectivity as heterogeneous catalysts. *Nano Lett.* **14,** 5979–5983 (2014).
+
+**Supplementary Information** is available in the [online version of the paper](http://www.nature.com/doifinder/10.1038/nature19763).
+
+**Acknowledgements** This work was supported financially by the National Research Fund for Fundamental Key Project (grant 2014CB931801 to Z.T.), the National Natural Science Foundation of China (grants 21475029 and 91427302 to Z.T., and 21303029 to G.L.), the Instrument Developing Project of the Chinese Academy of Sciences (grant YZ201311 to Z.T.), the CAS-CSIRO Cooperative Research Program (grant GJHZ1503 to Z.T.), the Strategic Priority Research Program of the Chinese Academy of Sciences (grant XDA09040100 to Z.T.), and the Youth Innovation Promotion Association CAS (grant 2016036 to G.L.). We gratefully acknowledge the use of the supercomputer facilities at the National Computational Infrastructure (NCI) in Canberra, Australia.
+
+**Author Contributions** Z.T. and G.L. proposed the research direction and guided the project. M.Z., K.Y. and G.L. designed and performed the materials synthesis, characterization, and catalytic tests. Y.W. and H.Z. performed the theoretical calculations and explained the catalytic results. J.G. helped to detect and analyse the Brunauer–Emmett–Teller (BET) surface areas and pore-size distributions of samples. L.G. guided the high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) imaging of sandwich structures. W.H. took part in the characterization of some samples, and discussed the results. Z.T., G.L., M.Z. and Y.W. drafted the manuscript. All of the authors discussed the results and commented on the manuscript.
+
+**Author Information** Reprints and permissions information is available at [www.nature.com/reprints](http://www.nature.com/reprints). The authors declare no competing financial interests. Readers are welcome to comment on the [online version of the](http://www.nature.com/doifinder/10.1038/nature19763)  [paper.](http://www.nature.com/doifinder/10.1038/nature19763) Correspondence and requests for materials should be addressed to Z.T. ([zytang@nanoctr.cn](mailto:zytang@nanoctr.cn)), G.L. ([liguodong@nanoctr.cn\)](mailto:liguodong@nanoctr.cn) or H.Z. ([h.zhao@griffith.edu.au\)](mailto:h.zhao@griffith.edu.au).
+
+**Reviewer Information** *Nature* thanks P. Claus and the other anonymous reviewer(s) for their contribution to the peer review of this work.# **Supplementary Information**
+
+# **Metal-Organic Frameworks as Selectivity Regulators for Hydrogenation Reactions**
+
+Meiting Zhao1\*, Kuo Yuan1,2\*, Yun Wang3 , Guodong Li<sup>1</sup> , Jun Guo<sup>1</sup> , Lin Gu<sup>4</sup> , Wenping Hu2,5, Huijun Zhao3 & Zhiyong Tang1
+
+1 CAS Key Laboratory of Nanosystem and Hierarchy Fabrication, CAS Center for Excellence in Nanoscience, National Center for Nanoscience and Technology, Beijing 100190, P. R. China
+
+2 School of Science, Tianjin University, Tianjin 300072, P. R. China
+
+3 Centre for Clean Environment and Energy, Gold Coast Campus, Griffith University, QLD 4222, Australia
+
+4 Institute of Physics, Chinese Academy of Sciences, Beijing 100190, P. R. China
+
+5 Institute of Chemistry, Chinese Academy of Sciences, Beijing 100190, P. R. China
+
+\* These authors contributed equally to this work.
+
+Corresponding authors: Z.T. (zytang@nanoctr.cn), G.L. (liguodong@nanoctr.cn), or H.Z. (h.zhao@griffith.edu.au).
+
+## **Table of Contents**
+
+| General information…………………………………………………………………                                   | S1  |
+|--------------------------------------------------------------------------------|-----|
+| Reagents…………………………………………………………………………….                                         | S1  |
+| Characterization…………………………………………………………………….                                    | S1  |
+| Supplementary Methods ……………………………………………………………                                  | S2  |
+| Synthesis of Pt NPs…………………………………………………………………                                   | S2  |
+| Synthesis of Ru NPs………………………………………………………………                                    | S2  |
+| Synthesis of MIL-101(Fe)…………………………………………………………                                 | S2  |
+| Synthesis of MIL-101(Cr)…………………………………………………………                                 | S3  |
+| Synthesis of supported MIL-101(Fe)@Pt……….………………………………….                        | S3  |
+| Synthesis of supported MIL-101(Cr)@Pt……….………………………………….                        | S3  |
+| Synthesis of MIL-101(Fe)@Pt@MIL-101(Fe)22.0………………………………                        | S3  |
+| Synthesis of MIL-101(Fe)@Pt@MIL-101(Fe)9.2…………………………………                        | S4  |
+| Synthesis of MIL-101(Cr)@Pt@MIL-101(Fe)8.8…………………………………                        | S4  |
+| Synthesis of MIL-101(Cr)@Pt@MIL-101(Fe)2.9…………………………………                        | S4  |
+| Synthesis of MIL-101(Cr)@Pt@MIL-101(Cr)5.1…………………………………                        | S5  |
+| Synthesis of MIL-101(Fe)@Ru@MIL-101(Fe)8.3………………………………                         | S5  |
+| Synthesis of MOF-525(Zr)@Pt@MOF-525(Zr)26.5………………………………                        | S5  |
+| Synthesis of UiO-66(Zr)@Pt@UiO-66(Zr)11.2……………………………………                        | S6  |
+| Synthesis of UiO-67(Zr)@Pt@UiO-67(Zr)24.1……………………………………                        | S7  |
+| Synthesis of MOF-74(Co)@Pt@MOF-74(Co)8.4…………………………………                          | S8  |
+| Synthesis of Pt/Fe2O3……………………………………………………………….                                 | S8  |
+| Catalytic selective hydrogenation of trans-cinnamaldehyde to cinnamyl alcohol… | S9  |
+| Catalytic selective hydrogenation of furfural to furfuryl alcohol.………………….     | S9  |
+| Catalytic selective hydrogenation of 3-methyl-2-butenalto 3-methyl-2-butenol…  | S10 |
+| Catalytic selective hydrogenation of acrolein to allyl alcohol……….…………         | S10 |
+| Supplementary theoretical calculation ……………………………………………….                      | S11 |
+| Supplementary Note 1…………………………………………………………………                                  | S13 |
+
+| General | synthesis | of | sandwich | MIL-101@Pt@MIL-101                                                          |     |
+|---------|-----------|----|----------|-----------------------------------------------------------------------------|-----|
+|         |           |    |          | nanostructures………………………………………………………………………                                   | S13 |
+|         |           |    |          | Supplementary Note 2…………………………………………………………………                               | S13 |
+|         |           |    |          | Characterization of sandwich structures with thin shell thickness………………….   | S13 |
+|         |           |    |          | Supplementary Note 3…………………………………………………………………                               | S13 |
+|         |           |    |          | DFT calculation on the interaction between A and MIL-101 cell………………….       | S13 |
+|         |           |    |          | Supplementary Note 4…………………………………………………………………                               | S13 |
+|         |           |    |          | Binding energy of different metal elements in supported MIL-101@Pt          | S13 |
+|         |           |    |          | Supplementary Note 5…………………………………………………………………                               | S14 |
+|         |           |    |          | Selective hydrogenation of acrolein to allyl alcohol by different catalysts | S14 |
+|         |           |    |          | Supplementary Figures (Supplementary Figs 1-54)…………………………………                | S16 |
+|         |           |    |          | Supplementary Tables (Supplementary Tables 1-11)………………………………….              | S72 |
+|         |           |    |          | Supplementary References…………………………………………………………….                            | S84 |
+
+#### **General information**
+
+**Reagents.** Chloroplatinic acid (H2PtCl6, 37wt% Pt) was purchased from Sinopharm (China). Chromium(III) chloride hexahydrate (CrCl3·6H2O, 98wt%), iron(III) chloride hexahydrate (FeCl3·6H2O, 97wt%), 1,4-benzenedicarboxylate (H2BDC, 98wt%), *N, N*-dimethylformamide (DMF, 99.8wt%), 2,5-dihydroxyterephthalic acid (DHTA, 99wt%), *trans*-cinnamaldehyde (98wt%), and RuCl3·3H2O (99.99%) were provided by Alfa Aesar. Zirconium chloride (ZrCl4, 98wt%) and 4,4,4,4-(porphine-5,10,15,20-tetrayl)tetrakis(benzoic acid) (H2TCPP, 97wt%) were purchased from Aladdin. Polyvinylpyrrolidone (PVP, Mw=55000), furfural (99wt%), and triethylamine (99wt%) were bought from Sigma-Aldrich. Co(NO3)2·6H2O (99.99wt%) and 3-methyl-2-butenal (98wt%) were achieved from Shanghai Macklin Biochemical Co., Ltd. Biphenyl-4,4'-dicarboxylic acid (H2BPDC, 98wt%) was obtained from Shanghai Saen chemical technology Co., LTD. Acrolein (99.5wt%) was bought from Hubei Jusheng Keji Co., Ltd. Deuterated chloroform (Chloroform-d, 99.8 atom%D) was purchased from J&K. Other analytical grade solvents including methanol, ethanol, isopropanol, and acetic acid were supplied by Sinopharm. Carbon supported Pt (Pt/C, 20wt% Pt) was bought from Johnson Matthey Corp. Fe2O3 (99wt%) was purchased from Tianjin Bodi Chemical Co., Ltd. All the chemicals were used without further purification.
+
+**Characterization.** Scanning electron microscopy (SEM) measurement was performed on a Hitachi S4800 scanning electron microscope at 6.0 kV. Transmission electron microscopy (TEM) and high-resolution TEM (HRTEM) imaging was carried out using Tecnai G2 F20 S-TWIN at 200 kV. High angle annular dark field scanning transmission electron microscopy (HAADF-STEM) imaging and energy-dispersive X-ray spectroscopy (EDS) elemental mapping were carried out on JEM-ARM 200F at 200 kV. Powder X-ray diffraction (XRD) patterns were recorded on D/MAX-TTRIII (CBO) with Cu Kα radiation (λ = 1.542 Å) operating at 50 kV and 300 mA. X-ray photoelectron spectroscopy (XPS) spectra were performed by an ESCALAB 20 Xi XPS system, where the analysis chamber was 1.5 × 10<sup>−</sup><sup>9</sup> mbar and the size of X-ray spot was 500 μm. Fourier transform infrared (FTIR) spectra were recorded on a Spectrum One in the spectral range of 400cm<sup>−</sup><sup>1</sup> - 4000 cm<sup>−</sup><sup>1</sup> using the KBr disk method. The specific surface area, pore volume and pore size of catalysts were measured using a BET (Brunauer-Emmett-Teller) instrument (ASAP 2420-4, Micromeritics). The Pt content in different samples was determined by inductively coupled plasma mass spectrometer (ICP-MS, Thermo Fisher Scientific). Microwave vessel (NOVA-II) was bought from Preekem (China). Nuclear magnetic resonance (NMR) spectra were recorded at 400 MHz with an Avance III Bruker Corporation instrument.
+
+#### **Supplementary Methods**
+
+**Synthesis of Pt nanoparticles (NPs).** Pt NPs were synthesized according to the literature1 . In a typical procedure, 16.6 mg PVP (Mw = 55000) was dissolved in 45 mL propanol (or ethanol), and then 5.0 mL H2PtCl6 aqueous solution (6.0 mM) was added drop by drop. After stirring for about 2 min at room temperature, the solution was refluxed in a 100 mL flask for 3 h under air to synthesize the PVP-stabilized Pt NPs. The concentration of as-synthesized Pt NPs was about 0.6 mM and used directly without further treatment.
+
+**Synthesis of Ru NPs.** Ru NPs were synthesized according to the literature<sup>2</sup> . In a typical procedure, 13.05 mg RuCl3·3H2O and 55.5 mg PVP were added into 10 mL ethylene glycol at room temperature. The solution was then heated to 80o C with magnetic stirring and maintained at this temperature for 30 min under Ar atmosphere. After that, the solution was heated to 180o C and kept at this temperature for 2 h. When the reaction was complete, acetone was added into the solution, and the resulting black suspension was subjected to centrifuge. The precipitated Ru NPs were then separated, collected, and redispersed in 80 mL ethanol (0.6 mM).
+
+**Synthesis of MIL-101(Fe).** MIL-101(Fe) was synthesized according to the literature3 . In a typical procedure, 93.4 mg FeCl3·6H2O (0.346 mmol) and 57.5 mg H2BDC (0.346 mmol) were dissolved in 16 mL DMF. Subsequently, the solution was placed in a microwave vessel and sealed. The reaction was then rapidly heated to 160o C, and was held at this temperature for 10 min. After cooling to room temperature, the solid products were collected by centrifugation at 5000 rpm for 10 min and washed twice with DMF. Finally, the obtained MIL-101(Fe) was redispersed in 12 mL DMF for further use.
+
+**Synthesis of MIL-101(Cr).** MIL-101(Cr) was synthesized according to the literature with some modification4 . In a typical procedure, 266.5 mg CrCl3·6H2O (1.0 mmol) and 166.1 mg H2BDC (1.0 mmol) were dispersed in 7.2 mL H2O. After vigorous stirring at room temperature for 3 min, the mixed solution was transferred into a Teflon-lined stainless steel autoclave and heated at 210<sup>o</sup> C for 24 h. When completing the reaction and slowly cooling to room temperature, a certain amount of recrystallized H2BDC was formed in the green solution. The solution was centrifuged at 1000 rpm for 3 min to remove H2BDC. Subsequently, the supernatant green solution containing MIL-101(Cr) was collected by centrifugation at 5000 rpm for 10 min and washed twice with DMF. Finally, the obtained MIL-101(Cr) was redispersed in 40 mL DMF for further use.
+
+**Synthesis of supported MIL-101(Fe)@Pt.** 12 mL as-synthesized Pt NP solution (0.6 mM) was added drop by drop into 12 mL DMF of MIL-101(Fe) under vigorous stirring, and then the mixed solution was further stirred at room temperature for 2 h. Subsequently, MIL-101(Fe)@Pt was collected by centrifugation at 5000 rpm for 10 min and washed twice with ethanol. Finally, the obtained MIL-101(Fe)@Pt was redispersed in 12 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+The obtained MIL-101(Fe)@Pt after centrifugation was also washed twice with DMF and redispersed in 12 mL DMF for subsequent synthesis of sandwich nanostructures.
+
+**Synthesis of supported MIL-101(Cr)@Pt.** 20 mL as-synthesized Pt NP solution (0.6 mM) was added drop by drop into 20 mL DMF of MIL-101(Cr) under vigorous stirring, and then the mixed solution was further stirred at room temperature for 2 h. Subsequently, MIL-101(Cr)@Pt was collected by centrifugation at 5000 rpm for 10 min and washed twice with ethanol. Finally, MIL-101(Cr)@Pt was redispersed in 20 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+The obtained MIL-101(Cr)@Pt after centrifugation was also washed twice with DMF and redispersed in 20 mL DMF for subsequent synthesis of sandwich nanostructures.
+
+**Synthesis of MIL-101(Fe)@Pt@MIL-101(Fe)22.0.** For synthesis of sandwich MIL-101(Fe)@Pt@MIL-101(Fe) nanostructures, a precursor solution of MIL-101(Fe) was prepared as follow: 27.0 mg FeCl3·6H2O (0.1 mmol) and 16.6 mg H2BDC (0.1 mmol) were dissolved in 3 mL DMF. In a typical procedure, 4 mL DMF of MIL-101(Fe)@Pt and 1.8 mL precursor solution were mixed, and then the mixed solution was heated at 120o C for 8 h to grow MIL-101(Fe) shell onto the supported MIL-101(Fe)@Pt. After that, the obtained product was collected by centrifugation at 5000 rpm for 10 min and washed twice with ethanol. Finally, the obtained MIL-101(Fe)@Pt@MIL-101(Fe) was redispersed in 4 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+**Synthesis of MIL-101(Fe)@Pt@MIL-101(Fe)9.2.** In a typical procedure, 4 mL DMF of MIL-101(Fe)@Pt and 0.9 mL precursor solution were mixed, and then the mixed solution was heated at 120o C for 8 h to grow MIL-101(Fe) shell onto the supported MIL-101(Fe)@Pt. After that, the obtained product was collected by centrifugation at 5000 rpm for 10 min and washed twice with ethanol. Finally, the obtained MIL-101(Fe)@Pt@MIL-101(Fe) was redispersed in 4 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+**Synthesis of MIL-101(Cr)@Pt@MIL-101(Fe)8.8.** In a typical procedure, 6 mL DMF of MIL-101(Cr)@Pt and 0.75 mL precursor solution were mixed, and then the mixed solution was heated at 120o C for 4 h to grow MIL-101(Fe) shell onto the supported MIL-101(Cr)@Pt. After that, the obtained product was collected by centrifugation at 5000 rpm for 10 min and washed twice with ethanol. Finally, the obtained MIL-101(Cr)@Pt@MIL-101(Fe) was redispersed in 6 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+**Synthesis of MIL-101(Cr)@Pt@MIL-101(Fe)2.9.** In a typical procedure, 6 mL DMF of MIL-101(Cr)@Pt and 0.15 mL precursor solution were mixed, and then the mixed solution was heated at 120o C for 4 h to grow MIL-101(Fe) shell onto the supported MIL-101(Cr)@Pt. After that, the obtained product was collected by centrifugation at 5000 rpm for 10 min and washed twice with ethanol. Finally, the obtained MIL-101(Cr)@Pt@MIL-101(Fe) was redispersed in 6 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+**Synthesis of MIL-101(Cr)@Pt@MIL-101(Cr)5.1.** For synthesis of sandwich MIL-101(Cr)@Pt@MIL-101(Cr) nanostructures, a precursor solution of MIL-101(Cr) was prepared as follow: 26.6 mg CrCl3·6H2O (0.1 mmol) and 16.6 mg H2BDC (0.1 mmol) were dissolved in 3 mL DMF. In a typical procedure, 6 mL DMF of MIL-101(Cr)@Pt and 0.5 mL precursor solution were mixed, and then the mixed solution was heated at 120o C for 5 h to grow MIL-101(Cr) shell onto the supported MIL-101(Cr)@Pt. After that, the obtained product was collected by centrifugation at 8000 rpm for 10 min and washed twice with ethanol. Finally, the obtained MIL-101(Cr)@MIL-101(Cr) was redispersed in 6 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+## **Synthesis of MIL-101(Fe)@Ru@MIL-101(Fe)8.3.**
+
+**Synthesis of MIL-101(Fe)@Ru:** 4 mL as-synthesized Ru NP solution was added drop by drop into 4 mL DMF of MIL-101(Fe) under vigorous stirring, and then the mixed solution was further stirred at room temperature for 2 h. Subsequently, MIL-101(Fe)@Ru was collected by centrifugation at 5000 rpm for 10 min and washed twice with DMF. Finally, the obtained MIL-101(Fe)@Ru was redispersed in 4 mL DMF for subsequent synthesis of sandwich nanostructures.
+
+**Synthesis of MIL-101(Fe)@Ru@MIL-101(Fe):** In a typical procedure, 4 mL DMF of MIL-101(Fe)@Ru and 1.0 mL precursor solution were mixed, and then the mixed solution was heated at 120o C for 8 h to grow MIL-101(Fe) shell onto the supported MIL-101(Fe)@Ru. After that, the obtained product was collected by centrifugation at 5000 rpm for 10 min and washed twice with ethanol. Finally, the obtained MIL-101(Fe)@Ru@MIL-101(Fe) was redispersed in 4 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+**Synthesis of MOF-525(Zr)@Pt@MOF-525(Zr)26.5.** 
+
+**Synthesis of MOF-525(Zr):** MOF-525(Zr) was synthesized according to the literature<sup>5</sup> with minor modifications. In a typical procedure, 4.2 mg ZrCl4 was dissolved in 3 mL DMF by ultrasonication, while 7.1 mg H2TCPP acid was directly dissolved in 3 mL DMF. Subsequently, the above solutions were mixed uniformly and then 1 mg PVP and 450 μL acetic acid were added into the mixed solution. Afterwards, the solution was placed in 90o C oil bath for 24 h. After that, the obtained product was collected by centrifugation at 8000 rpm for 10 min and washed twice with DMF and twice with ethanol. Finally, the obtained MOF-525(Zr) was redispersed in 2 mL ethanol for further use.
+
+**Synthesis of MOF-525(Zr)@Pt:** In a typical procedure, 2 mL as-synthesized Pt NP solution (0.6 mM) was added drop by drop into 2 mL ethanol of MOF-525(Zr) under vigorous stirring, and then the mixed solution was further stirred at room temperature for 3 h. Subsequently, MOF-525(Zr)@Pt was collected by centrifugation at 8000 rpm for 10 min and washed twice with ethanol and twice with DMF. Finally, MOF-525(Zr)@Pt was redispersed in 6 mL DMF for further use.
+
+**Synthesis of MOF-525(Zr)@Pt@MOF-525(Zr):** In a typical procedure, 6 mL DMF of MOF-525(Zr)@Pt and 0.645 mL precursor solution were mixed, and then the mixed solution was heated at 90o C for 20 h to grow MOF-525(Zr) shell onto the supported MOF-525(Zr)@Pt. After that, the obtained product was collected by centrifugation at 8000 rpm for 10 min and washed twice with DMF and twice with ethanol. Finally, the obtained MOF-525(Zr)@Pt@MOF-525(Zr) was redispersed in 2 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+## **Synthesis of UiO-66(Zr)@Pt@UiO-66(Zr)11.2.**
+
+**Synthesis of UiO-66(Zr):** UiO-66(Zr) was synthesized according to the literature6 with minor modifications. In a typical procedure, 25 mg H2BDC, 33.4 mg ZrCl4 and 0.7 mL acetic acid were dissolved in 10 mL DMF and placed in 120<sup>o</sup> C oil bath for a day. The resulting UiO-66 was collected by centrifugation at 8000 rpm for 10 min and washed twice with DMF and twice with ethanol. Finally, the obtained UiO-66(Zr) was redispersed in 6 mL ethanol for further use.
+
+**Synthesis of UiO-66(Zr)@Pt:** In a typical procedure, 6 mL as-synthesized Pt NP solution
+
+(0.6 mM) was added drop by drop into 6 mL ethanol of UiO-66(Zr) under vigorous stirring, and then the mixed solution was further stirred at room temperature for 3 h. Subsequently, UiO-66(Zr)@Pt was collected by centrifugation at 8000 rpm for 10 min and washed twice with DMF. Finally, UiO-66(Zr)@Pt was redispersed in 6 mL DMF for further use.
+
+**Synthesis of UiO-66(Zr)@Pt@UiO-66(Zr):** In a typical procedure, 6 mL DMF of UiO-66(Zr)@Pt and 1.070 mL precursor solution were mixed, and then the mixed solution was heated at 120<sup>o</sup> C for 10 h to grow UiO-66(Zr) shell onto the supported UiO-66(Zr)@Pt. After that, the obtained product was collected by centrifugation at 8000 rpm for 10 min and washed twice with DMF and twice with ethanol. Finally, the obtained UiO-66(Zr)@Pt@UiO-66(Zr) was redispersed in 6 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+## **Synthesis of UiO-67(Zr)@Pt@UiO-67(Zr)24.1.**
+
+**Synthesis of UiO-67(Zr):** UiO-67(Zr) was synthesized according to the literature6 with minor modifications. In a typical procedure, 19.36 mg H2BPDC and 120 μL triethylamine were dissolved in 5 mL DMF, while 18.64 mg ZrCl4 and 1.38 mL acetic acid were dissolved in 5 mL DMF. The solutions of H2BPDC and ZrCl4 were mixed in a vial followed by capped and placed in 120o C oven for a day. The resulting UiO-67 was collected by centrifugation at 8000 rpm for 10 min and washed twice with DMF. Finally, the obtained UiO-67 was redispersed in 4 mL DMF for further use.
+
+**Synthesis of UiO-67(Zr)@Pt:** In a typical procedure, 4 mL as-synthesized Pt NP solution (0.6 mM) was added drop by drop into 4 mL DMF of UiO-67(Zr) under vigorous stirring, and then the mixed solution was further stirred at room temperature for 3 h. Subsequently, UiO-67(Zr)@Pt was collected by centrifugation at 8000 rpm for 10 min and washed twice with DMF. Finally, UiO-67(Zr)@Pt was redispersed in 4 mL DMF for further use.
+
+**Synthesis of UiO-67(Zr)@Pt@UiO-67(Zr):** In a typical procedure, 4 mL DMF of UiO-67(Zr)@Pt and 1.150 mL precursor solution were mixed, and then the mixed solution was heated at 120<sup>o</sup> C for 5 h to grow UiO-67(Zr) shell onto the supported UiO-67(Zr)@Pt. After that, the obtained product was collected by centrifugation at 8000 rpm for 10 min and washed twice with DMF and twice with ethanol. Finally, the obtained UiO-67(Zr)@Pt@UiO-67(Zr) was redispersed in 4 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+## **Synthesis of MOF-74(Co)@Pt@MOF-74(Co)8.4.**
+
+**Synthesis of MOF-74(Co):** MOF-74(Co) was synthesized according to the literature7 with minor modifications. In a typical procedure, 28.5 mg Co(NO3)2·6H2O (0.048 mmol), 10 mg DHTA (0.025 mmol 2,5-dihydroxyterephthalic acid) and 0.2 g PVP (MW=8800) were dissolved in 9 mL DMF and 1 mL H2O. Subsequently, the solution was heated at 100o C for 3 h. Afterwards, the MOF-74(Co) was collected by centrifugation at 8000 rpm for 5 min and washed twice with DMF. Finally, the obtained MOF-74(Co) was redispersed in 6 ml DMF for further use.
+
+**Synthesis of MOF-74(Co)@Pt:** 2 mL as-synthesized Pt NP solution (0.6 mM) was added drop by drop into 6 mL ethanol of MOF-74(Co) under vigorous stirring, and then the mixed solution was further stirred at room temperature for 2 h. Subsequently, MOF-74(Co)@Pt was collected by centrifugation at 8000 rpm for 5 min and washed twice with DMF. Finally, the obtained MOF-74(Co)@Pt was redispersed in 6 mL DMF, which was directly used for further synthesis of MOF-74(Co)@Pt@MOF-74(Co).
+
+**Synthesis of MOF-74(Co)@Pt@MOF-74(Co):** For synthesis of sandwich MOF-74(Co)@Pt@MOF-74(Co) nanostructure, a precursor solution of MOF-74(Co) was prepared as follows: 14 mg Co(NO3)2·6H2O (0.048 mmol) and 5 mg DHTA (0.025 mmol) were dissolved in 3 mL DMF. In a typical procedure, 6 mL DMF of MOF-74@Pt and 1 mL precursor solution were mixed, and then the mixed solution was heated at 100o C for 2.5 h to grow MOF-74(Co) shell onto the supported MOF-74(Co)@Pt. After that, the obtained product was collected by centrifugation at 8000 rpm for 5 min and washed twice with ethanol. Finally, the obtained MOF-74(Co)@MOF-74(Co) was redispersed in 2 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+**Synthesis of Pt/Fe2O3.** 10 mg Fe2O3 was dispersed in 10 mL ethanol, and then 4 mL pre-synthesized Pt NP solution was added drop by drop into the above solution. The mixture was kept overnight under vigorous stirring. Subsequently, Pt/Fe2O3 was collected by centrifugation at 8000 rpm for 10 min and washed twice with ethanol. Finally, the obtained Pt/Fe2O3 was redispersed in 4 mL ethanol, which was directly used as the catalyst for liquid-phase selective hydrogenation.
+
+**Catalytic selective hydrogenation of** *trans***-cinnamaldehyde to cinnamyl alcohol.** In a typical procedure, each sample containing the same amount of Pt NPs (0.23 mg) was dispersed in 2 mL ethanol solution, and then 0.2 mL H2O and 0.05 mL cinnamaldehyde (0.4 mmol) were added into the above solution. Subsequently, the solution was transferred into a Teflon-lined stainless steel autoclave, the autoclave was purged with H2 for 4 times, and the final H2 pressure of the autoclave was set at 3.0 MPa. During the catalytic process, the reaction solution was magnetically stirred with the speed of 500 rpm at room temperature for the desired time. It should be pointed out that at this stirring speed, the influence of external and internal mass transport on catalytic properties was excluded. After that, the catalysts were separated by centrifugation, and washed with ethanol for reusing; while the obtained reaction solution was filtered through a filter membrane (0.22 m), and then was analyzed by gas chromatography-mass spectrometry (GC-MS, Thermo DSQ, column: TR-5MS) and gas chromatography (GC, Shimadzu, GC-2010 Plus, column: Rtx-5, 30 m × 0.25 mm × 0.25 µm).
+
+**Catalytic selective hydrogenation of furfural to furfuryl alcohol.** In a typical procedure, each sample containing the same amount of Pt NPs (0.23 mg) was dispersed in 2 mL ethanol solution, and then 0.2 mL H2O and 33 μL furfural (0.4 mmol) were added into the above solution. Subsequently, the solution was transferred into a Teflon-lined stainless steel autoclave, the autoclave was purged with H2 for 4 times, and the final H2 pressure of the autoclave was set at 3.0 MPa. During the catalytic process, the reaction solution was magnetically stirred with the speed of 500 rpm at room temperature for the desired time. It should be pointed out that at this stirring speed, the influence of external and internal mass transport on catalytic properties was excluded. After that, the catalysts were separated by centrifugation, and washed with ethanol for reusing; while the obtained reaction solution was filtered through a filter membrane (0.22 m), and then was analyzed by gas chromatography-mass spectrometry (GC-MS, Thermo DSQ, column: TR-5MS) and gas chromatography (GC, Shimadzu, GC-2010 Plus, column: Rtx-5, 30 m × 0.25 mm × 0.25 µm).
+
+**Catalytic selective hydrogenation of 3-methyl-2-butenal to 3-methyl-2-butenol.** In a typical procedure, each sample containing the same amount of Pt NPs (0.23 mg) was dispersed in 2 mL isopropanol solution, and then 40 μL 3-methyl-2-butenal (0.4 mmol) was added into the above solution. Subsequently, the solution was transferred into a Teflon-lined stainless steel autoclave, the autoclave was purged with H2 for 4 times, and the final H2 pressure of the autoclave was set at 3.0 MPa. During the catalytic process, the reaction solution was magnetically stirred with the speed of 500 rpm at room temperature for the desired time. It should be pointed out that at this stirring speed, the influence of external and internal mass transport on catalytic properties was excluded. After that, the catalysts were separated by centrifugation, and washed with isopropanol for reusing; while the obtained reaction solution was filtered through a filter membrane (0.22 m), and then was analyzed by gas chromatography-mass spectrometry (GC-MS, Thermo DSQ, column: TR-5MS) and gas chromatography (GC, Shimadzu, GC-2010 Plus, column: Rtx-5, 30 m × 0.25 mm × 0.25 µm).
+
+**Catalytic selective hydrogenation of acrolein to allyl alcohol.** In a typical procedure, each sample containing the same amount of Pt NPs (0.23 mg) was dispersed in 1.8 mL chloroform solution, and then 26.5 μL acrolein (0.4 mmol) was added into the above solution. Subsequently, the solution was transferred into a Teflon-lined stainless steel autoclave, the autoclave was purged with H2 for 4 times, and the final H2 pressure of the autoclave was set at 3.0 MPa. During the catalytic process, the reaction solution was magnetically stirred with the speed of 500 rpm at room temperature for the desired time. It should be pointed out that at this stirring speed, the influence of external and internal mass transport on catalytic properties was excluded. After that, the catalysts were separated by centrifugation, and washed with chloroform solution for reusing. An aliquot of the reaction mixture was evaporated to dryness using a rotary evaporator at room temperature. The residue was dissolved in chloroform-d and analyzed by 1 H NMR (400 MHz, Bruker, USA)
+
+#### **Supplementary theoretical calculation**
+
+All spin-polarised DFT computations were performed using the Vienna *ab initio* simulation package (VASP) based on the projector augmented wave (PAW) method8-10. Electron-ion interactions were described using standard PAW potentials with valence configurations of 2*s 2* 2*p 6* 3*s 2* 3*d6* for Fe, 2*s 2* 2*p 6* 3*s 2* 3*d4* for Cr, 3*s* 2 3*p* 5 for Cl, 2*s* 2 2*p* 2 for C, 2*s* 2 2*p* 4 for O, and 1*s* 1 for H11, 12. A plane-wave basis set was employed to expand the smooth part of wave functions with a cut-off kinetic energy of 520 eV. For the electron-electron exchange and correlation interactions, the functional parameterized by Perdew-Burke-Ernzerhhof (PBE)13, a form of the general gradient approximation (GGA), was used throughout. Due to insufficient consideration of the on-site Columbic repulsion, between the Fe or Cr *d* electrons, DFT might fail to describe the electronic structure of the MIL-101. To overcome this shortcoming, the GGA+U approach was used with U-J = 6.0 eV for the Fe or Cr atoms14.
+
+Since the unit cell of MIL-101 contained more than 10,000 atoms, the calculation on such big systems was beyond the computational power of current supercomputer. Considering that the building block of MIL-101 was a super tetrahedral cell, which included four Fe3OCl(COO)6H2O or Cr3OCl(COO)6H2O trimers connected by the organic BDC linkers, the active reaction centre for MIL-101 was 5-coordinated metal ions in trimers for adsorption of cinnamaldehyde. In this regard, only interactions between trimer clusters and molecules were theoretically investigated here. All cluster systems were in a 20 × 20 × 20 Å3 box to ensure the periodic images to be well separated. The Brillouin-zone integrations were performed using the Gamma-point only grid. When the geometries were optimized, all atoms were allowed to relax. And the atomic structures were optimized until the residual forces were below 0.01 eV/Å.
+
+The Pt (111) surface was modeled by a super cell comprising a four-layer slab, separated by a vacuum region of six-layer equivalent thickness. The methods proposed by Makov *et al.*  and Neugebauer *et al.* were used to correct for the surface dipole moment15,16. The Brillouin-zone integrations were based on a Γ-centerd (6 × 6 × 1) k-point grid for the (2 × 2) surface cell. In this study, one H2 molecule was dissociatively adsorbed at face centered cubic sites in each (2 × 2) surface cell. When the atomic geometries were optimized, the top two surface layers and the adsorbed H atoms were allowed to relax, while the lower two layers were fixed at the ideal bulk-like position. The ionic positions were optimized until all forces were smaller than 0.01 eV/Å. We removed several electrons from the surface to make a "positive surface". The charge values of atoms were analysed by using Bader method17. The binding energies of hydrogen atoms (*ΔEH*) on the Pt (111) (2 2) surface were calculated according to the broadly used equation:
+
+#### *ΔEH* = *Etot* - *EH2* - *Esurf*
+
+Where *Etot* was the total energy of surface with dissociatively adsorbed H2, *Esurf* was the surface energy, and *EH2* was the energy of an isolated H2 molecule.
+
+#### **Supplementary Note 1**
+
+**General synthesis of sandwich MIL-101@Pt@MIL-101 nanostructures.** In brief, MIL-101(Fe) and MIL-101(Cr) cores were firstly prepared by solvothermal methods3,4. Both of the products were uniform octahedra with average diameters of ~296 nm and ~243 nm for MIL-101(Fe) and MIL-101(Cr) (Supplementary Figs 2 and 3), respectively, sharing the identical crystal parameters (Supplementary Fig. 4). Subsequently, pre-synthesized, PVP-stabilized Pt NPs of ~2.8 nm in diameter were homogeneously adsorbed onto the surface of MIL-101(Fe) or MIL-101(Cr) to form the supported MIL-101(Fe)@Pt and MIL-101(Cr)@Pt (Supplementary Figs 5-7). Finally, the sandwich nanostructures were generated by coating another MIL-101 shells with different thickness (Supplementary Figs 8-13).
+
+#### **Supplementary Note 2**
+
+**Characterization of sandwich structures with thin shell thickness.** Among the sandwich MIL-101@Pt@MIL-101 nanostructures, MIL-101(Cr)@Pt@MIL-101(Fe)2.9 has the thinnest shell thickness, and its high angle annular dark field scanning transmission electron microscopy (HAADF-STEM) images indicate the well-defined sandwich structure, in which the embedded tiny Pt NPs could be clearly distinguished (Fig.1l).
+
+#### **Supplementary Note 3**
+
+**DFT calculation on the interaction between A and MIL-101 cell.** The calculated adsorption energy of **A** over Fe3OCl(COO)6H2O and Cr3OCl(COO)6H2O trimers is -1.26 eV and -1.01 eV, respectively (Fig. 2). Obviously, binding between the trimers and **A** through the Fe-O or Cr-O interaction is thermodynamically preferred. Moreover, the interaction between **A** and Fe3OCl(COO)6H2O is stronger as evidenced by: (i) the Fe-O bond length is 2.05 Å, ~3% shorter than the Cr-O bond length of 2.115 Å (Fig. 2); and (ii) the hybridization between Fe *3d* state with O *2p* state is stronger than that between Cr *3d* state and O *2p* state (Supplementary Figs 20-22).
+
+#### **Supplementary Note 4**
+
+**Binding energy of different metal elements in supported MIL-101@Pt.** X-ray photoelectron spectroscopy (XPS) measurements indicate that as for MIL-101(Fe)@Pt, the binding energy of Pt 4f7/2 is altered from 71.1 to 71.6 eV accompanied with shifts of Fe 2p3/2 and O1s binding energies from 711.8 to 711.2 eV and 531.8 to 531.5 eV, respectively, implying that the electrons of Pt NPs are partially transferred to MIL-101(Fe) (Fig. 3a, b and d). As comparison, there is no obvious electron transfer between MIL-101(Cr) and Pt NPs (Fig. 3a, c and d).
+
+#### **Supplementary Note 5**
+
+**Selective hydrogenation of acrolein by different catalysts.** Acrolein is the simplest *α, β*-unsaturated aldehyde. Because there are no functional groups on the C=C bond, it becomes more difficult to realize hydrogenation of C=O bond in acrolein with high selectivity compared with other *α, β*-unsaturated aldehydes. During the past few decades, many efforts have been devoted to improve the selectivity toward the desired allyl alcohol (Supplementary Table 8). As examples, using bimetals or alloy may favour activation of the C=O group and accordingly the hydrogenation of the C=O group rather than the C=C group occurs; modifying the surface of noble metal NPs with different ligands can improve the selectivity of unsaturated alcohols; while using different support materials gives rise to altered hydrogenation selectivity due to synergistic interactions between the supports and metal NPs. Among all the reported results, several representative works are chosen for comparison. 9Ag-0.75In/SiO2 catalyzes hydrogenation of acrolein to allyl alcohol with the selectivity of 61% at the conversion of 97% under the temperature of 240o C and 2 MPa18. It is noticed that the selectivity of allyl alcohol is significantly improved in contrast with the supported Ag/SiO2 catalysts reported in the literatures19-21. Au25(SR)18/Fe2O3 catalyzes hydrogenation of acrolein to allyl alcohol with the selectivity of 92% at the conversion of 47% under 0<sup>o</sup> C, 0.1 MPa H2, and 3 h for reaction22, but it is generally accepted that detachment of ligands usually occurs during the repeated tests. Using homogeneous gold clusters stabilized by *tert*-butyl(naphthalen-1-yl)phosphine oxide as catalysts achieves the 99% selectivity of allyl alcohol with the conversion of 60% under the conditions of THF as solvent, 40<sup>o</sup> C, 4 MPa H2 and 18 h for reaction23. It needs to be noted that the reaction rate is rather slow and homogeneous Au NPs are hard to be recycled during the process. Impressively, sandwich MIL-101(Fe)@Pt@MIL-101(Fe)22.0 nanostructures in this work could exhibit the excellent selectivity of allyl alcohol (97.3%) with the conversion of 52.7% under the conditions of chloroform-d as solvent, room temperature, 3.0 MPa H2 and 3 h for reaction, which is comparable to the best results obtained from the homogeneous and heterogeneous catalysts reported to date (Supplementary Table 8). More importantly, it is easily understood that the sandwich catalysts developed in this work are readily recycled and have relatively high stability because the Pt NPs are firmly embedded inside the MIL-101 matrixes.
+
+![](_page_18_Figure_0.jpeg)
+
+**Supplementary Figure 1 | Selective hydrogenation of** *α, β***-unsaturated aldehyde.**
+
+Since the C=O group, C=C group or both in *α, β*-unsaturated aldehyde (**A**) are possibly hydrogenated, the final products should be a mixture of the unsaturated alcohol (**B**), saturated aldehyde (**C**) and saturated alcohol (**D**). It should be pointed out that selective hydrogenation of the C=O group against the conjugated C=C group in **A** is an indispensable choice to produce **B**, because of its limited source from the natural products and the widespread demand by flavouring, perfume and pharmaceutical industries. However, until now the development of effective catalysts capable of converting **A** into the desired **B** with excellent selectivity, high yield and low cost remains a great challenge, because hydrogenation of the C=O group is thermodynamically unfavored compared to the conjugated C=C group.
+
+![](_page_19_Figure_0.jpeg)
+
+**Supplementary Figure 2 | Morphology of MIL-101(Fe). a,** SEM image of MIL-101(Fe). **b,** Large-scale TEM image of MIL-101(Fe), and **c,** TEM image of single MIL-101(Fe). **d,** Corresponding size histogram of MIL-101(Fe) shown in **a**.
+
+As-obtained MIL-101(Fe) cores are characteristic of uniform octahedral morphology with the average size of ~296 nm.
+
+![](_page_20_Figure_0.jpeg)
+
+**Supplementary Figure 3 | Morphology of MIL-101(Cr). a,** SEM image of MIL-101(Cr). **b,** Large-scale TEM image of MIL-101(Cr), and **c,** TEM image of single MIL-101(Cr). **d,** Corresponding size histogram of MIL-101(Cr) shown in **a**.
+
+As-obtained MIL-101(Cr) cores are characteristic of octahedral morphology with the average size of ~243 nm.
+
+![](_page_21_Figure_0.jpeg)
+
+**Supplementary Figure 4 | XRD patterns of as-synthesized MIL-101(Cr) and MIL-101(Fe).** 
+
+As shown in Supplementary Fig. 4, the obtained MIL-101(Cr) (red curve) and MIL-101(Fe) (black cure) have the similar crystalline structures, which are consistent with those reported in the literatures3,4.
+
+![](_page_22_Figure_0.jpeg)
+
+**Supplementary Figure 5 | Morphology of Pt NPs. a,** TEM image of as-synthesized Pt NPs. **b,** Magnified TEM image of Pt NPs. **c,** HRTEM image of Pt NPs. **d,** Corresponding particle size histogram of Pt NPs.
+
+As displayed in Supplementary Fig. 5, the obtained Pt NPs have the average diameter of ~2.8 nm. HRTEM image further indicates that each Pt NP is highly crystalline with the interplanar spacing of 0.23 nm, corresponding to the (111) plane of face centered cubic (fcc) Pt.
+
+![](_page_23_Figure_0.jpeg)
+
+**Supplementary Figure 6 | Morphology of MIL-101(Fe)@Pt. a,** SEM image of supported MIL-101(Fe)@Pt. **b,** Large-scale TEM image of supported MIL-101(Fe)@Pt, and **c,** TEM image of single supported MIL-101(Fe)@Pt. **d,** Corresponding size histogram of Pt NPs.
+
+It is clear that the Pt NPs are homogeneously dispersed on the surface of MIL-101(Fe) without significant aggregation, and the corresponding average diameter of Pt NPs is about 2.8 nm.
+
+![](_page_24_Figure_0.jpeg)
+
+**Supplementary Figure 7 | Morphology of MIL-101(Cr)@Pt. a,** SEM image of supported MIL-101(Cr)@Pt. **b,** Large-scale TEM image of MIL-101(Cr)@Pt, and **c,** TEM image of single MIL-101(Cr)@Pt. **d,** Corresponding size histogram of Pt NPs.
+
+It is clear that the Pt NPs are homogeneously dispersed on the surface of MIL-101(Cr) without significant aggregation, and the corresponding average diameter of Pt NPs is about 2.8 nm.
+
+![](_page_25_Figure_0.jpeg)
+
+**Supplementary Figure 8 | Morphology of MIL-101(Fe)@Pt@MIL-101(Fe)9.2. a,**  Large-scale TEM image of MIL-101(Fe)@Pt@MIL-101(Fe)9.2. **b, c, d,** TEM images of single MIL-101(Fe)@Pt@MIL-101(Fe)9.2 observed from different angles. **e, f,** Corresponding size histograms of Pt NPs and shell thickness, respectively.
+
+As displayed in Supplementary Fig. 8, the obtained composites are characteristic of sandwich structures, where Pt NPs with average diameter of ~2.8 nm are embedded between MIL-101(Fe) cores and MIL-101(Fe) shells. The shell thickness is ~9.2 nm, obtained from the statistical results based on TEM images (Supplementary Fig. 8f).
+
+![](_page_26_Figure_0.jpeg)
+
+**Supplementary Figure 9 | Morphology of MIL-101(Fe)@Pt@MIL-101(Fe)22.0. a,**  Large-scale TEM image of MIL-101(Fe)@Pt@MIL-101(Fe)22.0. **b, c, d,** TEM images of single MIL-101(Fe)@Pt@MIL-101(Fe)22.0 observed from different angles. **e, f,** Corresponding size histograms of Pt NPs and shell thickness, respectively.
+
+As shown in Supplementary Fig. 9, the obtained composites are characteristic of sandwich structures, where Pt NPs with average diameter of ~2.8 nm are embedded between MIL-101(Fe) cores and MIL-101(Fe) shells. The shell thickness is ~22.0 nm, obtained from the statistical results based on TEM images (Supplementary Fig. 9f).
+
+![](_page_27_Figure_0.jpeg)
+
+**Supplementary Figure 10 | Morphology of MIL-101(Cr)@Pt@MIL-101(Cr)5.1. a,**  Large-scale TEM image of MIL-101(Cr)@Pt@MIL-101(Cr)5.1. **b,** TEM images of single MIL-101(Cr)@Pt@MIL-101(Cr)5.1. **c, d,** Corresponding size histograms of Pt NPs and shell thickness, respectively.
+
+As shown in Supplementary Fig. 10, the obtained composites are characteristic of sandwich structures, where Pt NPs with average diameter of ~2.7 nm are embedded between MIL-101(Cr) cores and MIL-101(Cr) shells. The shell thickness is ~5.1 nm, obtained from the statistical results based on TEM images.
+
+![](_page_28_Figure_0.jpeg)
+
+**Supplementary Figure 11 | Morphology of MIL-101(Cr)@Pt@MIL-101(Fe)8.8. a,** Large-scale TEM image of MIL-101(Cr)@Pt@MIL-101(Fe)8.8. **b,** TEM images of single MIL-101(Cr)@Pt@MIL-101(Fe)8.8. **c, d,** Corresponding size histograms of Pt NPs and shell thickness, respectively.
+
+As shown in Supplementary Fig. 11, the obtained composites are characteristic of sandwich nanostructures, where Pt NPs with average diameter of ~2.8 nm are embedded between MIL-101(Cr) cores and MIL-101(Fe) shells. The shell thickness is ~8.8 nm, obtained from the statistical results based on TEM images (Supplementary Fig. 11d).
+
+![](_page_29_Figure_0.jpeg)
+
+**Supplementary Figure 12 | Morphology of MIL-101(Cr)@Pt@MIL-101(Fe)2.9. a,**  Large-scale TEM image of MIL-101(Cr)@Pt@MIL-101(Fe)2.9. **b, c,** TEM images of single MIL-101(Cr)@Pt@MIL-101(Fe)2.9 observed from different angles. **d,** Corresponding size histograms of Pt NPs.
+
+As displayed in Supplementary Fig. 12, the obtained composites are characteristic of sandwich nanostructures, where Pt NPs with average diameter of ~2.8 nm are embedded between MIL-101(Cr) cores and MIL-101(Fe) shells. It also needs to be pointed out that the MIL-101(Fe) shells are difficult to be discerned due to its ultrathin thickness, low contrast with the MIL-101(Cr) cores, and instability under illumination of high energy electron beam. Therefore, formation of MIL-101(Fe) shells of ultrathin thickness is distinguished by XPS survey (Supplementary Fig. 13).
+
+![](_page_30_Figure_0.jpeg)
+
+**Supplementary Figure 13 | XPS spectra of MIL-101(Cr)@Pt@MIL-101(Fe). a,** MIL-101(Cr)@Pt@MIL-101(Fe)8.8, and **b,** MIL-101(Cr)@Pt@MIL-101(Fe)2.9. Inserted tables are the weight and atomic ratio of different elements.
+
+As shown in Supplementary Fig. 12, it is hard to accurately measure the shell thickness of MIL-101(Cr)@Pt@MIL-101(Fe)2.9 based on the TEM images, because it is very thin and has low contrast with MIL-101(Cr) core. Herein, we estimate the shell thickness by using the XPS data. The elemental analysis result based on XPS spectrum indicates that the atomic ratio of Cr and Fe is about 0.889/4.663 for MIL-101(Cr)@Pt@MIL-101(Fe)8.8 (Supplementary Fig. 13a). Assuming that MIL-101(Fe) is homogeneously grown on the surface of MIL-101(Cr) (Fig. 1h, and Supplementary Fig. 11), we can evaluate the detection depth of electron beam of XPS, according to the hypothesis that the detectable thickness of MIL-101(Cr) cores and MIL-101(Fe) shells is approximately equal to the measured atomic ratio of Cr and Fe due to the same crystal structure (Supplementary Fig. 4)3,4. The detailed calculation is shown as follows: thickness(Cr)/thickness(Fe) = x/8.8 = 0.889/4.663, so x is equal to ~1.7 nm.
+
+Since the detectable thickness of MIL-101(Cr) core is about 1.7 nm for MIL-101(Cr)@Pt@MIL-101(Fe)8.8, one can easily concluded that the detection depth of XPS electron beam is around 10.5 nm after adding the MIL-101(Fe) shell thickness (~8.8 nm). We also notice that the calculated detection depth of XPS electron beam is very close to the reported value in the literature24.
+
+As for MIL-101(Cr)@Pt@MIL-101(Fe)2.9 (Fig. 1j and Supplementary Fig. 12), we also
+
+apply this method to estimate the thickness of MIL-101(Fe) shells. The atomic ratio of Cr and Fe is about 3.026/1.17 (Supplementary Fig. 13b), so the thickness of MIL-101(Fe) thin shell is calculated to be about 2.9 nm.
+
+![](_page_32_Figure_0.jpeg)
+
+**Supplementary Figure 14 | Crystal structure of MIL-101(Fe)@Pt@MIL-101(Fe). a,**  Wide angle XRD patterns of pure MIL-101(Fe), MIL-101(Fe)@Pt@MIL-101(Fe)9.2 andMIL-101(Fe)@Pt@MIL-101(Fe)22.0. **b,** Magnified patterns of the low angle zones in **a**.
+
+XRD patterns reveal that only one set of peaks attributing to crystalline MIL-101(Fe) of face centered cubic (fcc) structure are distinguished for all the sandwich nanostructures (Supplementary Fig. 14), and there are no characteristic peaks of Pt appearing in XRD patterns. This result is reasonable considering the fact that Pt NPs have small sizes of about 2.8 nm and a low content (Supplementary Table 1).
+
+![](_page_33_Figure_0.jpeg)
+
+**Supplementary Figure 15 | Crystal structure of MIL-101(Cr)@Pt@MIL-101(Cr)5.1. a,**  Wide angle XRD patterns of pure MIL-101(Cr), and MIL-101(Cr)@Pt@MIL-101(Cr)5.1. **b,** Magnified patterns of the low angle zones in **a**.
+
+XRD patterns reveal that only one set of peaks attributing to crystalline MIL-101(Cr) of face centered cubic (fcc) structure are distinguished for all the sandwich nanostructures (Supplementary Fig. 15), and there are no characteristic peaks of Pt appearing in XRD patterns. This result is reasonable considering the fact that Pt NPs have small sizes of about 2.7 nm and a low content (Supplementary Table 1).
+
+![](_page_34_Figure_0.jpeg)
+
+**Supplementary Figure 16 | Crystal structure of MIL-101(Cr)@Pt@MIL-101(Fe). a,**  Wide angle XRD patterns of pure MIL-101(Cr), MIL-101(Cr)@Pt@MIL-101(Fe)8.8 and MIL-101(Cr)@Pt@MIL-101(Fe)2.9. **b,** Magnified patterns of the low angle zones in **a**.
+
+XRD patterns reveal that only one set of peaks attributing to crystalline MIL-101 of face centered cubic (fcc) structure are distinguished for all the sandwich nanostructures (Supplementary Fig. 16), and there are no characteristic peaks of Pt appearing in XRD patterns. This result is reasonable considering the fact that Pt NPs have small sizes of about 2.8 nm and a low Pt NP content (Supplementary Table 1).
+
+![](_page_35_Figure_0.jpeg)
+
+**Supplementary Figure 17 | Theoretical calculation of hydrogenation of A to B and C.**  Color code: carbon- brown, hydrogen- pink, oxygen- red.
+
+Density functional theory (DFT) calculation discloses that it is more favorable for selective hydrogenation of **A** to **C** (-1.19 eV) rather than hydrogenation of **A** to **B** (-0.89 eV). The negative values display that the hydrogenation reactions are exothermic.
+
+![](_page_36_Figure_0.jpeg)
+
+**Supplementary Figure 18 | FTIR spectra of cinnamaldehyde molecules adsorbed on MIL-101. a,** Cinnamaldehyde, MIL-101(Fe), and mixture of cinnamaldehyde and MIL-101(Fe) with a mole ratio of 2. **b,** Cinnamaldehyde, MIL-101(Cr), and mixture of cinnamaldehyde and MIL-101(Cr) with a mole ratio of 2. Insets: **A**, (Fe) and (Cr) represent cinnamaldehyde, MIL-101(Fe) and MIL-101(Cr), respectively.
+
+As for cinnamaldehyde (**A)**, the bands centered at ~1625 cm-1 and ~1678 cm-1 are assigned to stretching vibration of conjugated C=C bond (νC=C) and stretching vibration of C=O band (νC=O), respectively. When **A** is mixed with MIL-101(Fe) or MIL-101(Cr) with a mole ratio of 2 based on cinnamaldehyde and Fe3+ or Cr3+, the νC=C absorption peaks for different samples display almost no changes (~1625 cm-1). On the contrary, the obvious redshift of the νC=O band from ~1678 cm-1 to smaller wavenumbers is observed (~1671 cm-1 for MIL-101(Fe)@Pt and ~1673 cm-1 for MIL-101(Cr)@Pt), indicating the specific interaction between coordinatively unsaturated Fe3+/Cr3+ ions and the C=O bonds of **A**.
+
+![](_page_37_Figure_0.jpeg)
+
+**Supplementary Figure 19 | Theoretical model of the interaction of A with super tetrahedron of MIL-101. a,** Structure of the super tetrahedron and trimeric building unit M3OCl(COO)6(H2O)2. **b,** Interaction of **A** with coordinatively unsaturated sites from metal trimers after removing H2O. M6c: sixfold coordinated metal ion; M5c: fivefold coordinated metal ion; M stands for Cr or Fe. Color code: carbon- brown, hydrogen- pink, oxygen- red, Fe or Cr- blue.
+
+The basic building block of MIL-101 is known as a super tetrahedral cell, which includes four Fe3OCl(COO)6(H2O)2 or Cr3OCl(COO)6(H2O)2 trimers connected by the BDC linkers4 . Therefore, five-coordinated metal nodes in the Fe3OCl(COO)6H2O or Cr3OCl(COO)6H2O trimers of super tetrahedral MIL-101 cells would serve as active sites to interact with the C=O group of **A**.
+
+![](_page_38_Figure_0.jpeg)
+
+**Supplementary Figure 20 | Partial density of states of different elements. a,** Fe atoms in Fe3OCl(COO)6H2O trimers. **b,** Cr atoms in Cr3OCl(COO)6H2O trimers, and **c,** O atoms in the substrate molecule **A**.
+
+![](_page_39_Figure_0.jpeg)
+
+**Supplementary Figure 21 | Partial density of states of different elements. a,** Cr atoms and **b,** O atoms in CHO group in the Cr3OCl(COO)6H2O-**A**.
+
+The sharp peaks both in Supplementary Fig. 21a and b indicate weak hybridization of Cr *3d* and O *2p* states.
+
+![](_page_40_Figure_0.jpeg)
+
+**Supplementary Figure 22 | Partial density of states of different elements. a,** Fe atoms and **b,** O atoms in CHO group in the Fe3OCl(COO)6H2O-**A**.
+
+The weak peaks indicate strong hybridization of Fe *3d* and O *2p* states. Furthermore, appearance of closer energies of states around *EFermi* for both Fe *3d* and O *2p* states suggests stronger interaction. So, the analysis on partial density of states supports that there is strong interaction of MIL-101(Fe) with the substrate molecule **A**.
+
+![](_page_41_Figure_0.jpeg)
+
+**Supplementary Figure 23 | Theoretical calculation of binding energy of atomic H on Pt. a,** Pt (111) (22) surface model used for theoretical calculation. **b,** The obtained values for binding energy of atomic H (*ΔEH*) on Pt (111) (22) surface with negative and positive charges. Color code: grey-Pt, pink- hydrogen.
+
+We have calculated the binding energy of hydrogen atoms (*ΔEH*) on Pt (111) (22) surface with neutral and positive charges using the DFT method (Supplementary Fig. 23). As for the Pt (111) (22) surface with neutral charges, the average surface Pt atoms carry -0.05 charge and the corresponding *ΔEH* is about -0.42 eV. When the Pt (111) surface charge is increased to positive value, the negative *ΔEH* is increased almost linearly to the amount of positive charge of surface Pt atoms, indicating strong binding of H atoms. According to the volcano-type relationship between the *ΔEH* and the catalytic activity25, the stronger binding of hydrogen atoms on the positively charged Pt (111) surfaces should be the reason why the catalytic activity of MIL-101(Fe)@Pt is reduced compared with pure Pt NPs.
+
+![](_page_42_Figure_0.jpeg)
+
+**Supplementary Figure 24 | Molecular structure of cinnamaldehyde (A) (1.05 × 0.65 nm).** Color code: carbon- brown, hydrogen- pink, oxygen- red.
+
+![](_page_43_Figure_0.jpeg)
+
+**Supplementary Figure 25 | Surface area and pore structure characterization. a, c, e,** N2 adsorption-desorption isotherms of different samples, and **b, d, f,** the corresponding pore-size distribution curves.
+
+All the MIL-101 based nanostructures were purified by a double treatment in ethanol at 60o C for 3 h, and then were dried at 70o C for 3 h in a vacuum oven. The N2 adsorption isotherms of MIL-101 based materials have the similar adsorption-desorption isotherms and all of them show a mixture of type I and IV curves (Supplementary Fig. 25). Furthermore, the pore size distribution data indicate that the two mesocages (~2.2 and ~2.7 nm) corresponding to two windows (~1.3and ~1.5 nm) are presented in the MIL-101 based materials (Supplementary Table 2), in which the substrate molecule **A** (1.05 × 0.65 nm) can easily diffuse into the pores and freely rotate within the mesocages. Hence, it is difficult to achieve the high selectivity of the target product **B** through the currently-used pore confinement effect26,27. Alternatively, in this work the coordinatively unsaturated metal nodes inside MOFs can interact with the C=O group and activate it, giving rise to a high and selective yield of unsaturated alcohol **B**  catalyzed by the embedded Pt NPs.
+
+![](_page_45_Figure_0.jpeg)
+
+**Supplementary Figure 26** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by MIL-101(Cr)@Pt@MIL-101(Fe)2.9. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 5.936          | 42564     | 22047   | 0.785         |
+| D         | 6.846          | 193858    | 94374   | 3.575         |
+| A         | 7.440          | 8904      | 4820    | 0.164         |
+| B         | 7.959          | 5176698   | 1306176 | 95.475        |
+| Total     |                | 5422024   | 1427417 | 100.000       |
+
+![](_page_46_Figure_0.jpeg)
+
+**Supplementary Figure 27** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by MIL-101(Cr)@Pt@MIL-101(Fe)2.9 for the second round of catalytic reaction. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 5.931          | 43448     | 22356   | 0.739         |
+| D         | 6.844          | 213249    | 102936  | 3.626         |
+| A         | 7.436          | 30187     | 14454   | 0.513         |
+| B         | 7.963          | 5594749   | 1392540 | 95.122        |
+| Total     |                | 5881633   | 1532285 | 100.000       |
+
+![](_page_47_Figure_0.jpeg)
+
+**Supplementary Figure 28** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by MIL-101(Cr)@Pt@MIL-101(Fe)2.9 for the third round of catalytic reaction. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 5.939          | 23231     | 11876   | 0.322         |
+| D         | 6.857          | 502910    | 235146  | 6.969         |
+| A         | 7.447          | 17254     | 7616    | 0.239         |
+| B         | 7.981          | 6673302   | 1512922 | 92.470        |
+| Total     |                | 7216698   | 1767561 | 100.000       |
+
+![](_page_48_Figure_0.jpeg)
+
+**Supplementary Figure 29** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by MIL-101(Cr)@Pt@MIL-101(Fe)2.9 for the fourth round of catalytic reaction. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 5.941          | 17843     | 8851    | 0.225         |
+| D         | 6.862          | 682984    | 309213  | 8.628         |
+| A         | 7.448          | 14444     | 6545    | 0.182         |
+| B         | 7.987          | 7200770   | 1577438 | 90.964        |
+| Total     |                | 7916041   | 1902046 | 100.000       |
+
+![](_page_49_Figure_0.jpeg)
+
+**Supplementary Figure 30** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by MIL-101(Cr)@Pt@MIL-101(Fe)2.9 for the fifth round of catalytic reaction. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area/ % |
+|-----------|----------------|-----------|---------|--------------|
+| C         | 5.935          | 43615     | 21272   | 0.664        |
+| D         | 6.850          | 382975    | 177959  | 5.829        |
+| A         | 7.440          | 14536     | 6527    | 0.221        |
+| B         | 7.971          | 6128531   | 1446408 | 93.285       |
+| Total     |                | 6569657   | 1652166 | 100.000      |
+
+![](_page_50_Figure_0.jpeg)
+
+**Supplementary Figure 31 | Stability test and XRD characterization. a,** Lifetime of sandwich MIL-101(Cr)@Pt@MIL-101(Fe)2.9 for catalytic selective hydrogenation of **A** to **B** under the same experimental condition of Table 1. **b,** XRD patterns of MIL-101(Cr)@Pt@MIL-101(Fe)2.9 before and after the repeated catalytic tests.
+
+It is observed that MIL-101(Cr)@Pt@MIL-101(Fe)2.9 can still catalyze almost full conversion of **A** to **B** with the slightly changed selectivity around ~95.6% over five successive cycles (Supplementary Figs 26-30 and 31a). The XRD patterns and TEM images of the fresh and used catalysts further reveal that there is no obvious structural and morphological change after repeated catalytic tests (Supplementary Figs 31b and 32). So, the slight changed selectivity of **B** within relative standard deviation of ~2.0% should be originated from the experimental errors. Altogether, one can draw the conclusion that the sandwich MIL-101(Cr)@Pt@MIL-101(Fe)2.9 catalysts have high stability during the repeated catalytic reactions.
+
+![](_page_51_Picture_0.jpeg)
+
+**Supplementary Figure 32 | TEM images of MIL-101(Cr)@Pt@MIL-101(Fe)2.9**. **a,** before and **b,** after the repeated catalytic tests.
+
+It is noticed that the morphology of MIL-101(Cr)@Pt@MIL-101(Fe)2.9 is not changed after the successive catalytic tests.
+
+![](_page_52_Figure_0.jpeg)
+
+**Supplementary Figure 33 | Stability test of MIL-101(Fe)@Pt@MIL-101(Fe)9.2.** Lifetime of sandwich MIL-101(Fe)@Pt@MIL-101(Fe)9.2 for catalytic selective hydrogenation of **A** to **B** under the same experimental condition of Table 1.
+
+It is observed that MIL-101(Fe)@Pt@MIL-101(Fe)9.2 can exhibit high stability with ~94.3% conversion of **A** and ~97.0% selectivity of **B** over five successive cycles.
+
+![](_page_53_Figure_0.jpeg)
+
+**Supplementary Figure 34 | Small-sized** *α, β***-unsaturated aldehydesused as substrates for hydrogenation reactions. a,** Acrolein with no substituents on C=C bond. **b,** Branched 3-methyl-butenaland. **c,** Furfural with a furan ring. Color code: carbon- brown, hydrogenwhite, oxygen- red.
+
+![](_page_54_Figure_0.jpeg)
+
+**Supplementary Figure 35 | Raw GC data for selective hydrogenation of 3-methyl-2-butenal (A) by MIL-101(Fe)@Pt@MIL-101(Fe)22.0. B** stands for 3-methyl-2-butenol, **C** represents 3-methyl butyraldehyde, and **D** depicts isoamyl alcohol.
+
+| Peaks for | Retention time | Peak area | Height | Peak area / % |
+|-----------|----------------|-----------|--------|---------------|
+| C         | 2.581          | 8990      | 7561   | 1.692         |
+| D         | 3.241          | 15001     | 9188   | 2.824         |
+| B         | 3.700          | 294053    | 122793 | 55.353        |
+| A         | 3.818          | 213192    | 103221 | 40.131        |
+| Total     |                | 531236    | 242763 | 100.000       |
+
+![](_page_55_Figure_0.jpeg)
+
+**Supplementary Figure 36 | Raw GC data for selective hydrogenation of furfural (A) by MIL-101(Cr)@Pt@MIL-101(Fe)8.8. B** stands for furfuryl alcohol, **C** represents tetrahydrofurfural, and **D** depicts tetrahydrofurfuryl alcohol.
+
+| Peaks for | Retention time | Peak area | Height | Peak area / % |
+|-----------|----------------|-----------|--------|---------------|
+| C         | 6.427          | 51124     | 9819   | 3.04          |
+| A         | 14.056         | 202854    | 25516  | 12.08         |
+| B         | 18.341         | 1425831   | 65757  | 84.88         |
+| D         | 22.008         | 0         | 0      | 0             |
+| Total     |                | 1679810   | 101092 | 100           |
+
+![](_page_56_Figure_0.jpeg)
+
+**Supplementary Figure 37 | Raw GC data for selective hydrogenation of furfural (A) by MIL-101(Cr)@Pt@MIL-101(Cr)5.1. B** stands for furfuryl alcohol, **C** represents tetrahydrofurfural, and **D** depicts tetrahydrofurfuryl alcohol.
+
+| Peaks for | Retention time | Peak area | Height | Peak area / % |
+|-----------|----------------|-----------|--------|---------------|
+| C         | 6.522          | 1506      | 283    | 0.076         |
+| A         | 14.158         | 31165     | 3234   | 1.567         |
+| B         | 18.454         | 1956677   | 77258  | 98.358        |
+| D         | 22.008         | 0         | 0      | 0             |
+| Total     |                | 1989348   | 80776  | 100.00        |
+
+![](_page_57_Figure_0.jpeg)
+
+**Supplementary Figure 38 | Morphology of MOF-525(Zr)@Pt and MOF-525(Zr)@Pt@ MOF-525(Zr)26.5. a,** Large-scale and **b,** magnified TEM images of MOF-525(Zr)@Pt. **c,** Large-scale and **d,** magnified TEM images of MOF-525(Zr)@Pt@MOF-525(Zr)26.5. **e,** XRD pattern of MOF-525(Zr)@Pt@MOF-525(Zr)26.5. **f,** Corresponding shell thickness of MOF-525(Zr)@Pt@MOF-525(Zr)26.5.
+
+It is clear that the Pt NPs are homogeneously dispersed on the surface of MOF-525(Zr) without significant aggregation (Supplementary Fig. 38a and b). After coating with MOF-525(Zr), the obtained composites are characteristic of sandwich structures, where Pt NPs are embedded between MOF-525(Zr) cores and MOF-525(Zr) shells (Supplementary Fig. 38c and d). Powder XRD pattern shows that the cubic phase of MOF-525(Zr) in the sandwich structure is observed (Supplementary Fig. 38e)5 . The average shell thickness is ~26.5 nm, obtained from the statistical results based on TEM images (Supplementary Fig. 38f).
+
+![](_page_58_Figure_0.jpeg)
+
+**Supplementary Figure 39 | Morphology ofMOF-74(Co)@Pt and MOF-74(Co)@Pt@ MOF-74(Co)8.4. a,** Large-scale and **b,** magnified TEM images of MOF-74(Co)@Pt. **c,** Large-scale and **d,** magnified TEM images of MOF-74(Co)@Pt@MOF-74(Co)8.4. **e,** XRD pattern of MOF-74(Co)@Pt@MOF-74(Co)8.4. **f,** Corresponding shell thickness of MOF-74(Co)@Pt@MOF-74(Co)8.4.
+
+It is clear that the Pt NPs are homogeneously dispersed on the surface of MOF-74(Co) without significant aggregation (Supplementary Fig. 39a and b). After coating with MOF-74(Co), the obtained composites are characteristic of sandwich structures, where Pt NPs are embedded between MOF-74(Co) cores and MOF-74(Co) shells (Supplementary Fig. 39c and d). Powder XRD pattern shows that the high crystallization of MOF-74(Co) in sandwich structure is observed (Supplementary Fig. 39e)<sup>7</sup> . The average shell thickness is ~8.4 nm, obtained from the statistical results based on TEM images (Supplementary Fig. 39f).
+
+![](_page_59_Figure_0.jpeg)
+
+**Supplementary Figure 40 | Morphology of UiO-66(Zr)@Pt and UiO-66(Zr)@Pt@UiO-66(Zr)11.2. a,** Large-scale and **b,** magnified TEM images of UiO-66(Zr)@Pt. **c,** Large-scale and **d,** magnified TEM images of UiO-66(Zr)@Pt@UiO-66(Zr)11.2. **e,** XRD pattern of UiO-66(Zr)@Pt@UiO-66(Zr)11.2. **f,** Corresponding shell thickness of UiO-66(Zr)@Pt@UiO-66(Zr)11.2.
+
+It is clear that the Pt NPs are homogeneously dispersed on the surface of UiO-66(Zr) without significant aggregation (Supplementary Fig. 40a and b). After coating with UiO-66(Zr), the obtained composites are characteristic of sandwich structures, where Pt NPs are embedded between UiO-66(Zr) cores and UiO-66(Zr) shells (Supplementary Fig. 40c and d). Powder XRD pattern shows that the cubic phase of UiO-66(Zr) in the sandwich structure is observed (Supplementary Fig. 40e)6 . The average shell thickness is ~11.2 nm, obtained from the statistical results based on TEM images (Supplementary Fig. 40f).
+
+![](_page_60_Figure_0.jpeg)
+
+**Supplementary Figure 41 | Morphology of UiO-67(Zr)@Pt and UiO-67(Zr)@Pt@ UiO-67(Zr)24.1. a,** Large-scale and **b,** magnified TEM images of UiO-67(Zr)@Pt. **c,** Large-scale and **d,** magnified TEM images of UiO-67(Zr)@Pt@UiO-67(Zr)24.1. **e,** XRD pattern of UiO-67(Zr)@Pt@UiO-67(Zr)24.1. **f,** Corresponding shell thickness of UiO-67(Zr)@Pt@UiO-67(Zr)24.1.
+
+It is clear that the Pt NPs are homogeneously dispersed on the surface of UiO-67(Zr) without significant aggregation (Supplementary Fig. 41a and b). After coating with UiO-67(Zr), the obtained composites are characteristic of sandwich structures, where Pt NPs are embedded between UiO-67(Zr) cores and UiO-67(Zr) shells (Supplementary Fig. 41c and d). Powder XRD pattern shows that the cubic phase of crystal UiO-67(Zr) in the sandwich structure is observed (Supplementary Fig. 41e)6 . The average shell thickness is ~24.1 nm, obtained from the statistical results based on TEM images (Supplementary Fig. 41f).
+
+![](_page_61_Figure_0.jpeg)
+
+**Supplementary Figure 42 | N2 adsorption-desorption isotherms and pore structure characterization. a,** N2 adsorption-desorption isotherms of MOF-525(Zr)@Pt@MOF-525(Zr)26.5, and **b,** the corresponding pore-size distribution curve.
+
+Before testing, the sandwich MOF-525(Zr)@Pt@MOF-525(Zr)26.5 nanostructures are immersed into DMF for 24 h, and then washed several times with acetone to remove DMF. Finally, they were dried at 60o C for 24 h in a vacuum oven. The N2 adsorption-desorption isotherms show a mixture of type I and IV curves (Supplementary Fig. 42a). Furthermore, the pore size distribution data indicate that one mesocage (~2.9 nm) corresponding to a window (~1.2 nm) is presented in the sandwich materials (Supplementary Fig. 42b and Supplementary Table 2).
+
+![](_page_62_Figure_0.jpeg)
+
+**Supplementary Figure 43 | N2 adsorption-desorption isotherms and pore structure characterization.** N2 adsorption-desorption isotherms of MOF-74(Co)@Pt@MOF-74(Co)8.4, and **b,** the corresponding pore-size distribution curve.
+
+Before testing, the sandwich MOF-74(Co)@Pt@MOF-74(Co)8.4 nanostructures are immersed into ethanol at 40<sup>o</sup> C for 24 h, washed several times with ethanol, and then dried at 60<sup>o</sup> C for 24 h in a vacuum oven. The steep increase in N2 uptake at low relative pressure in the nitrogen-sorption spectrum (Supplementary Fig. 43a) indicates a microporous structure ofMOF-74(Co)@Pt@MOF-74(Co)8.4. The average pore size of 1.3 nm is presented in the sandwich structures (Supplementary Fig. 43b and Supplementary Table 2).
+
+![](_page_63_Figure_0.jpeg)
+
+**Supplementary Figure 44 | N2 adsorption-desorption isotherms and pore structure characterization.** N2 adsorption-desorption isotherms of UiO-66(Zr)@Pt@UiO-66(Zr)11.2, and **b,** the corresponding pore-size distribution curve.
+
+Before testing, the sandwich UiO-66(Zr)@Pt@UiO-66(Zr)11.2 nanostructures are immersed into methanol for 24 h, washed several times with methanol, and then dried at 60o C for 24 h in a vacuum oven. The steep increase in N2 uptake at low relative pressure in the nitrogen-sorption spectrum (Supplementary Fig. 44a) indicates a microporous structure of UiO-66(Zr)@Pt@UiO-66(Zr)11.2. The average pore sizes of ~0.6, ~0.9, ~1.2 and ~1.5 nm are presented in the sandwich structures (Supplementary Fig. 44b and Supplementary Table 2).
+
+![](_page_64_Figure_0.jpeg)
+
+**Supplementary Figure 45 | N2 adsorption-desorption isotherms and pore structure characterization.** N2 adsorption-desorption isotherms of UiO-67(Zr)@Pt@UiO-67(Zr)24.1, and **b,** the corresponding pore-size distribution curve.
+
+Before testing, the sandwich UiO-66(Zr)@Pt@UiO-67(Zr)24.1 nanostructures are immersed into methanol for 24 h, washed several times with methanol and then dried at 60o C for 24 h in a vacuum oven. The steep increase in N2 uptake at low relative pressure in the nitrogen-sorption spectrum (Supplementary Fig. 45a) indicates a microporous structure ofUiO-67(Zr)@Pt@UiO-67(Zr)24.1. The average pore size of 1.1 nm is presented in the sandwich structures (Supplementary Fig. 45b and Supplementary Table 2).
+
+![](_page_65_Figure_0.jpeg)
+
+**Supplementary Figure 46** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by MOF-525(Zr)@Pt@MOF-525(Zr)26.5. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 6.966          | 361458    | 178842  | 3.563         |
+| D         | 7.890          | 167077    | 77575   | 1.647         |
+| A         | 8.622          | 6579208   | 1378924 | 64.853        |
+| B         | 9.101          | 3036983   | 781024  | 29.937        |
+| Total     |                | 10144726  | 2416366 | 100.00        |
+
+![](_page_66_Figure_0.jpeg)
+
+**Supplementary Figure 47** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by MOF-74(Co)@Pt@MOF-74(Co)8.4. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 6.855          | 327524    | 171742  | 4.027         |
+| D         | 7.774          | 523662    | 248686  | 6.439         |
+| A         | 8.476          | 5285990   | 1251279 | 64.998        |
+| B         | 8.932          | 1995415   | 607646  | 24.536        |
+| Total     |                | 8132592   | 2279354 | 100.00        |
+
+![](_page_67_Figure_0.jpeg)
+
+**Supplementary Figure 48** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by UiO-66(Zr)@Pt@UiO-66(Zr)11.2. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 6.877          | 1278716   | 570131  | 16.733        |
+| D         | 7.791          | 1127904   | 487931  | 14.760        |
+| A         | 8.412          | 770228    | 337385  | 10.079        |
+| B         | 8.974          | 4464853   | 1003755 | 58.427        |
+| Total     |                | 7641700   | 2399203 | 100.00        |
+
+![](_page_68_Figure_0.jpeg)
+
+**Supplementary Figure 49** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by UiO-67(Zr)@Pt@UiO-67(Zr)24.1. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 6.868          | 793501    | 376336  | 12.421        |
+| D         | 7.775          | 402963    | 192214  | 6.308         |
+| A         | 8.436          | 1954738   | 673447  | 30.599        |
+| B         | 8.957          | 3237116   | 824554  | 50.672        |
+| Total     |                | 6388318   | 2066552 | 100.00        |
+
+![](_page_69_Picture_0.jpeg)
+
+**Supplementary Figure 50 | Morphology of Ru NPs. a,** TEM image of as-synthesized Ru NPs. **b,** HRTEM image of a single Ru NP.
+
+Ru NP is highly crystalline with the interplanar spacing of 0.23 nm, corresponding to the (100) plane of Ru.
+
+![](_page_70_Figure_0.jpeg)
+
+**Supplementary Figure 51 | Morphology of MIL-101(Fe)@Ru and MIL-101(Fe)@Ru@MIL-101(Fe)8.3. a, b,** TEM image of MIL-101(Fe)@Ru. **c, d,** TEM images of single MIL-101(Fe)@Ru@MIL-101(Fe)8.3. **e,** Corresponding shell thickness of MIL-101(Fe)@Ru@MIL-101(Fe)8.3. f, XRD pattern of MIL-101(Fe)@Ru@MIL-101(Fe)8.3**.** 
+
+It is clear that Ru NPs are homogeneously dispersed on the surface of MIL-101(Fe) without significant aggregation (Supplementary Fig. 51a and b). After coating with MIL-101(Fe), the obtained composites are characteristic of sandwich structures, where Ru NPs are embedded between MIL-101(Fe) cores and MIL-101(Fe) shells (Supplementary Fig. 51c and d). Powder XRD pattern shows that the high crystallization of MIL-101(Fe) in sandwich structure is observed (Supplementary Fig. 51f). The average shell thickness is ~8.3 nm, obtained from the statistical results based on TEM images (Supplementary Fig. 51e).
+
+![](_page_71_Figure_0.jpeg)
+
+**Supplementary Figure 52** *|* **Raw GC data for selective hydrogenation of cinnamaldehyde (A) by MIL-101(Fe)@Ru@MIL-101(Fe)8.3. B** stands for cinnamyl alcohol, **C** represents hydrocinnamaldehyde, and **D** depicts phenyl propanol.
+
+| Peaks for | Retention time | Peak area | Height  | Peak area / % |
+|-----------|----------------|-----------|---------|---------------|
+| C         | 6.868          | 1145885   | 479473  | 20.2          |
+| D         | 7.775          | 0         | 0       | 0             |
+| A         | 8.453          | 2908105   | 836132  | 51.3          |
+| B         | 8.956          | 1618587   | 482077  | 28.5          |
+| Total     |                | 5672577   | 1797682 | 100           |
+
+![](_page_72_Picture_0.jpeg)
+
+**Supplementary Figure 53 | Morphology of commercial Pt/C. a, b,** TEM images of Pt/C catalysts.
+
+![](_page_73_Figure_0.jpeg)
+
+**Supplementary Figure 54 | Characterization of Pt/Fe2O3. a, b,** TEM images of Pt/Fe2O3 catalysts, and **c,** corresponding XRD pattern.
+
+**.**
+
+|                                | Pt     | Amount of catalysts | Amount of Pt |
+|--------------------------------|--------|---------------------|--------------|
+| Samples                        | (wt.%) | (mg)                | (mg)         |
+| MIL-101(Fe)@Pt                 | 5.1    | 4.5                 | 0.23         |
+| MIL-101(Cr)@Pt                 | 4.8    | 4.8                 | 0.23         |
+| MIL-101(Fe)@Pt@MIL-101(Fe)9.2  | 4.7    | 4.9                 | 0.23         |
+| MIL-101(Fe)@Pt@MIL-101(Fe)22.0 | 4.2    | 5.5                 | 0.23         |
+| MIL-101(Cr)@Pt@MIL-101(Cr)5.1  | 4.4    | 5.2                 | 0.23         |
+| MIL-101(Cr)@Pt@MIL-101(Fe)2.9  | 4.6    | 5.0                 | 0.23         |
+| MIL-101(Cr)@Pt@MIL-101(Fe)8.8  | 3.6    | 6.3                 | 0.23         |
+| MOF-525(Zr)@Pt@MOF-525(Zr)26.5 | 6.7    | 3.4                 | 0.23         |
+| MOF-74(Co)@Pt@MOF-74(Co)8.4    | 2.4    | 9.5                 | 0.23         |
+| UiO-66(Zr)@Pt@UiO-66(Zr)11.2   | 2.9    | 7.8                 | 0.23         |
+| UiO-67(Zr)@Pt@UiO-67(Zr)24.1   | 3.0    | 7.6                 | 0.23         |
+
+**Supplementary Table 1 | Pt loading amount in different samples determined by ICP-MS, and the amount of each catalysts used in cinnamaldehyde hydrogenation reaction.**
+
+Note that all the Pt NPs presented in all catalysts are ~2.8 nm in diameter, and furthermore, each catalyst used contains the same amount of Pt NPs (0.23 mg). Such similar size and content of Pt NPs in different samples make the catalytic performance evaluation more comparable.
+
+| Catalysts                      | BET surface area<br>(m2<br>-1)<br>g | Average<br>porediameter<br>(nm) | Pore volume<br>(cm3<br>-1)<br>g |
+|--------------------------------|-------------------------------------|---------------------------------|---------------------------------|
+| MIL-101(Fe)                    | 2481                                | 1.3~1.5, 2.2, 2.7               | 1.22                            |
+| MIL-101(Fe)@Pt@MIL-101(Fe)9.2  | 2118                                | 1.3, 1.5, 2.2, 2.7              | 1.05                            |
+| MIL-101(Fe)@Pt@MIL-101(Fe)22.0 | 2414                                | 1.3, 1.5, 2.2, 2.7              | 1.19                            |
+| MIL-101(Cr)                    | 2942                                | 1.3~1.5, 2.2, 2.7               | 1.58                            |
+| MIL-101(Cr)@Pt@MIL-101(Cr)5.1  | 2650                                | 1.3, 1.5, 2.1, 2.7              | 1.43                            |
+| MIL-101(Cr)@Pt@MIL-101(Fe)2.9  | 2466                                | 1.3, 1.5, 2.2, 2.7              | 1.36                            |
+| MIL-101(Cr)@Pt@MIL-101(Fe)8.8  | 2647                                | 1.3, 1.5, 2.2, 2.7              | 1.46                            |
+| MOF-525(Zr)@Pt@MOF-525(Zr)26.5 | 1364                                | 1.2, 2.9                        | 1.08                            |
+| MOF-74(Co)@Pt@MOF-74(Co)8.4    | 859                                 | 1.3                             | 0.40                            |
+| UiO-66(Zr)@Pt@UiO-66(Zr)11.2   | 1126                                | 0.6, 0.9, 1.2, 1.5              | 0.47                            |
+| UiO-67(Zr)@Pt@UiO-67(Zr)24.1   | 2604                                | 1.1                             | 0.97                            |
+
+**Supplementary Table 2 | Physicochemical properties of MIL-101(Cr), MIL-101(Fe) and MIL-101@Pt@MIL-101a .** 
+
+a Specific surface areas and pore size distributions of the different samples were calculated by using the Brunauer-Emmett-Teller (BET) equation and the nonlocal density functional theory (NLDFT) model28, respectively.
+
+|            | Supplementary Table 3   Selective hydrogenation of cinnamaldehyde (A) by different |
+|------------|------------------------------------------------------------------------------------|
+| catalystsa |                                                                                    |
+
+| Entry |                                | Time<br>Conversion |      |      | Selectivity (%)b |      |  |
+|-------|--------------------------------|--------------------|------|------|------------------|------|--|
+|       | Catalysts                      | (h)                | (%)b | B    | C                | D    |  |
+| 1     | MIL-101(Fe)@Pt@MIL-101(Fe)9.2  | 24                 | 94.3 | 97.0 | 0                | 3.0  |  |
+| 2     | MIL-101(Fe)@Pt@MIL-101(Fe)22.0 | 24                 | 86.3 | 97.4 | 0.3              | 2.3  |  |
+| 3     | MIL-101(Cr)@Pt@MIL-101(Fe)2.9  | 20                 | 99.8 | 95.6 | 0.8              | 3.6  |  |
+| 4     | MIL-101(Cr)@Pt@MIL-101(Fe)8.8  | 20                 | 90.6 | 94.3 | 2.1              | 3.6  |  |
+| 5     | MIL-101(Cr)@Pt@MIL-101(Cr)5.1  | 2                  | 95.1 | 62.6 | 12.2             | 25.2 |  |
+| 6     | MIL-101(Fe)@Pt                 | 10                 | 97.9 | 82.1 | 1.1              | 16.8 |  |
+| 7     | MIL-101(Cr)@Pt                 | 1                  | 91.4 | 50.7 | 29.1             | 20.2 |  |
+| 8     | Pt NPs                         | 1                  | 99.9 | 2.9  | 45.9             | 51.2 |  |
+
+a Reaction condition: each catalyst containing 0.23 mg Pt NPs, 0.4 mmol **A**, 2 mL ethanol and 0.2 mL water as solvent, room temperature and 3 MPa H2. b Conversion of **A** and selectivity of the products were determined by gas chromatography-mass spectrometry and gas chromatography.
+
+|                                                                            | Reaction          |            |          |       | Sel. (%) |      |      |                                       |
+|----------------------------------------------------------------------------|-------------------|------------|----------|-------|----------|------|------|---------------------------------------|
+| Catalysts                                                                  |                   | conditions |          | Conv. |          |      |      | Cycle tests                           |
+|                                                                            | T<br>o<br>(<br>C) | P<br>(MPa) | t<br>(h) | (%)   | B        | C    | D    | (Activity, %)                         |
+| Pt3Co capped<br>witholeylamine29                                           | 25                | 0.15       | 9        | 100   | 92.0     | 3.0  | 5.0  | −                                     |
+| Fe0.33Pt0.67 coated<br>withC10F30                                          | 50                | 0.1        | 1        | 71.1  | 94.0     | 1.5  | 4.5  | −                                     |
+| Au clusters coated with<br>tert-butyl(naphthalen-1-yl)phosphine<br>oxide23 | 60                | 4          | 18       | >99   | >99      | −    | −    | −                                     |
+| Pt/Al2O3 coated with<br>3-phenyl-1-propanethiol31                          | 50                | 4          | 0.6      | 100   | 90.0     | −    | 10.0 | −                                     |
+| 32<br>NiIr/TiO2                                                            | 80                | 2          | 1.5      | 99.0  | −        | 99.0 | −    | 1st to 4th<br>:<br>99 to 88           |
+| 33<br>Au/MgAlCeO2<br>(15:4:1)                                              | 120               | 1          | 6        | 91.0  | 41.0     | 44.0 | 14.0 | −                                     |
+| 34<br>PtNi/ZrO2                                                            | 70                | 2          | 6        | 67.1  | 13.6     | 61.8 | 6.5  | −                                     |
+| 22<br>Au25(SCH2CH2Ph)18/Fe2O3                                              | 0                 | 0.1        | 3        | 43.0  | 100      | 0    | 0    | −                                     |
+| 35<br>PdAu0.2/SiO2                                                         | 50                | 0.5        | 1        | 42.0  | −        | 92.0 | −    | −                                     |
+| 36<br>CuAu/SiO2                                                            | 100               | 2          | 3        | 31.0  | 56.0     | 38.0 | 6.0  | −                                     |
+| Cu/MCM-4137                                                                | 100               | 1          | 3.5      | 65.0  | 65.0     | 22.0 | 13.0 | −                                     |
+| Cu/MCM-4838                                                                | 100               | 1          | 3        | 21.3  | 48.0     | −    | −    | −                                     |
+| CuCr/SBA-1539                                                              | 150               | 0.1        | 6        | 11.0  | 52.0     | 30.0 | 18.0 | −                                     |
+| Pt/MIL-101(Cr)26                                                           | 25                | 0.1        | 1        | >99.9 | −        | 99.9 | −    | 1st to 5th<br>:<br>Slight<br>decrease |
+| PtRu/MCWNT40                                                               | 100               | 2          | 2        | 80.0  | 93.0     | −    | −    | −                                     |
+| PtCo/CNTs41                                                                | 70                | 2          | 1.5      | 85.9  | 93.3     | 4.7  | 2.1  | −                                     |
+| PtFe/C42                                                                   | 80                | 4          | 2.5      | 85.3  | 87.7     | 3.7  | 6.1  | −                                     |
+| AuPd/C43                                                                   | 40                | 0.1        | 11       | 96.7  | 2.6      | 88.0 | 9.4  | −                                     |
+| PdSn/AC44                                                                  | 130               | 7          | 67       | 96.0  | 78.0     | −    | −    | −                                     |
+| PtFeZn/C-SA45                                                              | 75                | 1.6        | 12       | 96.0  | 86.0     | 1.0  | 22.0 | −                                     |
+| NiCo/MWCNT46                                                               | 150               | 0.5        | 8        | 30.0  | 69.0     | 31.0 | −    | −                                     |
+
+**Supplementary Table 4 | Summary of different heterogeneouscatalysts for selective hydrogenation of cinnamaldehyde (A) in recent published works.** 
+
+| Pt/Graphene47                               | 60 | 1   | 4  | 92.0 | 88.0 | 3.0  | 7.0  | −                               |
+|---------------------------------------------|----|-----|----|------|------|------|------|---------------------------------|
+| 450-NiSix48                                 | 80 | 3   | 2  | 99.9 | 0.5  | 39.8 | 59.7 | −                               |
+| CuPt-Cu2S49                                 | 75 | 0.1 | 15 | 100  | 5.2  | 86.4 | 8.4  | −                               |
+| Pt/MgAl-LDH50                               | 60 | 1   | 2  | 79.7 | 85.4 | 13.3 | 1.0  | 1st to 4th<br>:<br>80 to 72     |
+| 51<br>Pt@UiO-66-NH2                         | 25 | 4   | 42 | 85.9 | 87.9 | −    | −    | 1st to 3rd:<br>85.9 to 86.4     |
+| MIL-101(Fe)@Pt@<br>MIL-101(Fe)9.2 This work | 25 | 3   | 24 | 94.3 | 97.0 | 0    | 3.0  | 1st to 5th<br>:<br>94.3 to 94.8 |
+| MIL-101(Cr)@Pt@<br>MIL-101(Fe)2.9 This work | 25 | 3   | 20 | 99.8 | 95.6 | 0.8  | 3.6  | 1st to 5th<br>:<br>99.8 to 99.8 |
+
+As summarized in Supplementary Table 4, it is noticed that most of the reported heterogeneous catalysts are characteristic of metal nanoparticles supported on metal oxide, molecular sieves or carbon materials. Compared with the supported catalysts, we successfully achieve MIL-101@Pt@MIL-101 catalysts possessing exceptionally high selectivity and conversion efficiency simultaneously. Among them, MIL-101(Cr)@Pt@MIL-101(Fe)2.9 could exhibit an excellent selectivity (95.6%), along with almost full conversion efficiency (99.8%) when applied in selective hydrogenation of **A**. Another prominent advantage of the catalysts with the sandwich nanostructures is their reusability. Both conversion of **A** and selectivity of **B** remain almost unchanged over MIL-101(Cr)@Pt@MIL-101(Fe)2.9 during five successive catalytic cycles (Supplementary Figs 26-30 and 31a). It can be seen from the above table that most reported catalysts do not show the reusability, and even for a few samples reported, there are deactivations occurred over the supported catalysts26,32,50.
+
+|       |                               | Time | Conversion | Selectivity (%)b |      |     |
+|-------|-------------------------------|------|------------|------------------|------|-----|
+| Entry | Catalysts                     |      | (%)b       | B                | C    | D   |
+| 1     | MIL-101(Fe)@Pt@MIL-101(Fe)9.2 | 15   | 85.6       | 93.2             | 3.5  | 3.3 |
+| 2     | MIL-101(Cr)@Pt@MIL-101(Fe)8.8 | 7    | 87.9       | 96.5             | 3.5  | 0   |
+| 3     | MIL-101(Cr)@Pt@MIL-101(Cr)5.1 | 5    | 98.5       | 99.8             | 0    | 0.2 |
+| 5     | MIL-101(Fe)@Pt                | 4    | 84.5       | 89.1             | 4.3  | 6.6 |
+| 4     | MIL-101(Cr)@Pt                | 3    | 86.9       | 91.2             | 0.9  | 7.9 |
+| 6     | Pt NPs                        | 2    | 85.2       | 85.7             | 14.3 | 0   |
+
+**Supplementary Table 5** | **Selective hydrogenation of furfural (A) by different catalysts**<sup>a</sup> .
+
+a Reaction condition: each catalyst containing 0.23 mg Pt NPs, 33 μL (0.4 mmol) **A**, 2 mL ethanol and 0.2 mL water as solvent, room temperature and 3 MPa H2. b Conversion of **A** and selectivity of the products were determined by gas chromatography-mass spectrometry and gas chromatography.
+
+As shown in Supplementary Table 5, Pt NPs can catalyze hydrogenation of **A**, and the selectivity of **B** is ~85.7% when the conversion of **A** is ~85.2%. It is also noticed that both MIL-101(Cr) and MIL-101(Fe) have positive influence on the catalytic selectivity of Pt NPs. The selectivities of **B** can reach ~91.2% for MIL-101(Cr)@Pt and ~89.1% for MIL-101(Fe)@Pt. Furthermore, when sandwich MIL-101(Cr)@Pt@MIL-101(Cr)5.1 nanostructures are used as catalysts, the selectivity of **B** is up to ~99.8% with ~98.5% conversion of **A**.
+
+**Supplementary Table 6** | **Selective hydrogenation of 3-methyl-2-butenal (A) by different catalysts**<sup>a</sup> .
+
+|       |                                | Time | Conversion | Selectivity (%)b |      |      |  |
+|-------|--------------------------------|------|------------|------------------|------|------|--|
+| Entry | Catalysts                      |      | (%)b       | B                | C    | D    |  |
+| 1     | MIL-101(Fe)@Pt@MIL-101(Fe)9.2  | 17   | 71.1       | 87.8             | 3.2  | 9.0  |  |
+| 2     | MIL-101(Fe)@Pt@MIL-101(Fe)22.0 | 24   | 59.9       | 92.5             | 2.8  | 4.7  |  |
+| 3     | MIL-101(Cr)@Pt@MIL-101(Fe)8.8  | 10   | 85.0       | 64.4             | 7.9  | 27.7 |  |
+| 4     | MIL-101(Cr)@Pt@MIL-101(Cr)5.1  | 3    | 80.3       | 21.8             | 36.0 | 42.2 |  |
+| 5     | MIL-101(Fe)@Pt                 | 6    | 67.5       | 74.0             | 7.9  | 18.1 |  |
+| 6     | MIL-101(Cr)@Pt                 | 2    | 84.2       | 0                | 54.5 | 45.5 |  |
+| 7     | Pt NPs                         | 0.5  | 72.0       | 3.9              | 83.2 | 12.9 |  |
+
+a Reaction condition: each catalyst containing 0.23 mg Pt NPs, 40μL (0.4 mmol) **A**, 2 mL isopropanol as solvent, room temperature and 3 MPa H2. b Conversion of **A** and selectivity of the products were determined by gas chromatography-mass spectrometry and gas chromatography.
+
+As shown in Supplementary Table 6, Pt NPs can catalyze hydrogenation of **A** quickly; however, when the conversion of **A** is ~72%, the selectivity of **B** is ~3.9%. It is also noticed that MIL-101(Cr) has no influence on the catalytic performance of Pt NPs, whereas MIL-101(Fe) can promote formation of target **B**. As for MIL-101(Fe)@Pt, the selectivity of **B** is ~74.0%, which is significantly improved compared with the pure Pt NPs. Furthermore, when sandwich MIL-101(Fe)@Pt@MIL-101(Fe)22.0 nanostructures are used as catalysts, the selectivity of **B** reaches ~92.5% with ~59.9% conversion of **A**.
+
+| Entry | Catalysts                      | Time | Conversion | Selectivity (%) |      |      |
+|-------|--------------------------------|------|------------|-----------------|------|------|
+|       |                                | (h)  | (%)        | B               | C    | D    |
+| 1     | MIL-101(Fe)@Pt@MIL-101(Fe)9.2  | 3    | 76.9       | 75.7            | 19.0 | 5.3  |
+| 2     | MIL-101(Fe)@Pt@MIL-101(Fe)22.0 | 3    | 52.7       | 97.3            | 2.7  | 0    |
+| 3     | MIL-101(Cr)@Pt@MIL-101(Fe)8.8  | 1    | 87.5       | 57.9            | 17.3 | 24.8 |
+| 4     | MIL-101(Fe)@Pt                 | 0.75 | 92.0       | 53.4            | 21.7 | 24.9 |
+| 5     | Pt NPs                         | 0.1  | 98.2       | 0               | 45.8 | 54.2 |
+
+**Supplementary Table 7 | Selective hydrogenation of acrolein (A) by different catalysts**<sup>a</sup> .
+
+a Reaction condition: each catalyst containing 0.23 mg Pt NPs, 26.5μL (0.4mmol) **A**, 1.8 mL chloroform as solvent, room temperature and 3.0MPa H2. b Conversion of **A** and selectivity of the products were determined by 1 H NMR.
+
+As shown in Supplementary Table 7, Pt NPs can catalyze hydrogenation of **A** quickly; however, when the conversion of **A** is 98.2%, the selectivity of **B** is zero. Differing from bare Pt NPs, sandwich MIL-101(Fe)@Pt@MIL-101(Fe)22.0 nanostructures exhibit the dramatically increased selectivity of **B** (~97.3%) along with ~52.7% conversion of **A**.
+
+**Supplementary Table 8 |** Summary of different catalysts for selective hydrogenation of acrolein (**A**) in recent published works.
+
+|                                                                            |                   | Reaction conditions |          |              |      | Sel. (%) |      |
+|----------------------------------------------------------------------------|-------------------|---------------------|----------|--------------|------|----------|------|
+| Catalysts                                                                  | T<br>o<br>(<br>C) | P<br>(MPa)          | t<br>(h) | Conv.<br>(%) | B    | C        | D    |
+| 52<br>Pt/Al2O3                                                             | 62                | 0.1                 | -        | -            | 0    | 100      | 0    |
+| Ag/SiO2(20%)-Al2O3(80%)53                                                  | 250               | 1                   | -        | 65.0         | 38.0 | 55.0     | 7.0  |
+| Ag/TiO2-LTR54                                                              | 200               | 2                   | -        | -            | 41.8 | 56.0     | 1.3  |
+| 19<br>8%Ag/SiO2                                                            | 200               | 0.5                 | -        | -            | 37   | -        | -    |
+| 7.5Ag/SiO2-IW20                                                            | 250               | 2                   | -        | 25.0         | 42.0 | 57.0     | 1.0  |
+| 21<br>Ag/SiO2                                                              | 250               | 1                   | -        | 51.0         | 51.0 | 46.0     | 2.0  |
+| 55<br>Au/ZrO2                                                              | 240               | 2                   | -        | 18.0         | 30.0 | 60.0     | 8.0  |
+| 5%PtSn/Aerosil 20056                                                       | 77                | 0.1                 | 0.75     | -            | 16.0 | 75.0     | 5.0  |
+| Au-In/ZnO57                                                                | 320               | 2                   | -        | -            | 63.3 | 30.4     | 3.5  |
+| 18<br>9Ag-0.75In/SiO2                                                      | 240               | 4                   | -        | 97.0         | 61.0 | 20-35    | 5-20 |
+| 22<br>Au25(SR)18/Fe2O3                                                     | 0                 | 0.1                 | 3        | 47.0         | 92.0 | -        | -    |
+| Au clusters coated with<br>tert-butyl(naphthalen-1-yl)phosphine<br>oxide23 | 40                | 4                   | 18       | 61.0         | >99  | -        | -    |
+| MIL-101(Fe)@Pt@MIL-101(Fe)22.0<br>This work                                | 20                | 3                   | 3        | 52.7         | 97.3 | 2.7      | 0    |
+
+**Supplementary Table 9 | Selective hydrogenation of cinnamaldehyde (A) by different sandwich catalysts**<sup>a</sup> .
+
+|       |                                | Time | Conversion | Selectivity (%)b |      |      |
+|-------|--------------------------------|------|------------|------------------|------|------|
+| Entry | Catalysts                      |      | (%)b       | B                | C    | D    |
+| 1     | MOF-525(Zr)@Pt@MOF-525(Zr)26.5 | 20   | 35.2       | 85.0             | 10.1 | 4.7  |
+| 2     | MOF-74(Co)@Pt@MOF-74(Co)8.4    | 20   | 35.0       | 70.1             | 11.5 | 18.4 |
+| 3     | UiO-66(Zr)@Pt@UiO-66(Zr)11.2   | 20   | 90.0       | 65.0             | 18.6 | 16.4 |
+| 4     | UiO-67(Zr)@Pt@UiO-67(Zr)24.1   | 20   | 69.4       | 73.0             | 17.9 | 9.1  |
+
+a Reaction condition: each catalyst containing 0.23 mg Pt NPs, 0.4 mmol **A**, 2 mL ethanol and 0.2 mL water as solvent, room temperature and 3 MPa H2. b Conversion of **A** and selectivity of the products were determined by gas chromatography-mass spectrometry and gas chromatography.
+
+**Supplementary Table 10 |** Selective hydrogenation of cinnamaldehyde (**A**) by Ru NPs and MIL-101(Fe)@Ru@MIL-101(Fe)8.3 catalystsa .
+
+|       |                               | Time | Conversion | Selectivity (%)b |      |   |  |  |  |
+|-------|-------------------------------|------|------------|------------------|------|---|--|--|--|
+| Entry | Catalysts                     | (h)  | (%)b       | B                | C    | D |  |  |  |
+| 1     | Ru NPs                        | 3    | 20.4       | 20.8             | 79.2 | 0 |  |  |  |
+| 2     | MIL-101(Fe)@Ru@MIL-101(Fe)8.3 | 24   | 48.7       | 58.5             | 41.5 | 0 |  |  |  |
+
+a Reaction condition: each catalyst containing 0.23 mg Ru NPs, 0.4 mmol **A** (50 μL), room temperature and 3.0 MPa H2. <sup>b</sup> Conversion of **A** and selectivity of the products were determined by GC.
+
+|       |           | Time | Conversion |      | Selectivity (%)b |      |  |  |  |
+|-------|-----------|------|------------|------|------------------|------|--|--|--|
+| Entry | Catalysts | (h)  | (%)b       | B    | C                | D    |  |  |  |
+| 1     | Pt/C      | 0.5  | 98.1       | 39.9 | 44.7             | 15.4 |  |  |  |
+| 2     | Pt/Fe2O3  | 24   | 54.5       | 84.5 | 15.5             | 0    |  |  |  |
+
+**Supplementary Table 11** | Selective hydrogenation of cinnamaldehyde (A) by Pt/C and Pt/Fe2O3 catalysts<sup>a</sup> .
+
+a Reaction condition: each catalyst containing 0.23 mg Pt NPs (1.12 mg Pt/C), 0.4 mmol **A** (50 μL), 2 mL ethanol and 0.2 mL water as solvent, room temperature and 3.0 MPa H2. <sup>b</sup> Conversion of **A** and selectivity of the products were determined by GC.
+
+Commercial Pt/C and Pt/Fe2O3 catalysts are also used for hydrogenation of **A**. The conversion efficiencies of 98.1% and 54.5% with corresponding selectivities of 39.9% and 84.5% toward **B** are respectively achieved. Notably, Fe2O3 can significantly promote the hydrogenation on C=O group compared with carbon, suggesting that Fe-based supports are favourable for hydrogenation on C=O group although not as effective as the sandwich form of catalysts. These indicate that the porous nature of MOFs and smart sandwich structures are of great importance for hydrogenation on C=O groups.
+
+#### **Supplementary References**
+
+- 1. Teranishi, T., Hosoe, M., Tanaka, T. & Miyake, M. Size control of monodispersed Pt nanoparticles and their 2D organization by electrophoretic deposition. *J. Phys. Chem. B*  **103**, 3818−3827 (1999).
+- 2. Wang, L., Chen, J., Ge, L., Rudolph, V. & Zhu, Z. Halloysite nanotube supported Ru nanocatalysts synthesized by the inclusion of preformed Ru nanoparticles for preferential oxidation of CO in H2-rich atmosphere. *J. Phys. Chem. C* **117**, 4141−4151 (2013).
+- 3. Taylor-Pashow, K. M. L., Rocca, J. D., Xie, Z., Tran, S. & Lin, W. Postsynthetic modifications of iron-carboxylate nanoscale metal-organic frameworks for imaging and drug delivery. *J. Am. Chem. Soc.* **131**, 14261−14263 (2009).
+- 4. Férey, G. *et al.* A chromium terephthalate-based solid with unusually large pore volumes and surface area. *Science* **309**, 2040−2042 (2005).
+- 5. Morris, W. et al. Synthesis, Structure, and Metalation of Two New Highly Porous Zirconium Metal−Organic Frameworks. *Inorg. Chem.* **51**, 6443−6445 (2012).
+- 6. Na, K., Choi, K. M., Yaghi, O. M. & Somorjai, G. A. Metal Nanocrystals Embedded in Single Nanocrystals of MOFs Give Unusual Selectivity As Heterogeneous Catalysts. *Nano Lett.* **14**, 5979−5983 (2014).
+- 7. Grant Glover, T. Peterson, G. W., Schindler, B. J., Britt, D. and Yaghi, O. MOF-74 building unit has a direct impact on toxic gas adsorption. *Chem. Eng. Sci.* **66**, 163−170 (2011).
+- 8. Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals. *Phys. Rev. B* **47**, 558−561 (1993).
+- 9. Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set. *Comput. Mater. Sci.* **6**, 15−50 (1996).
+- 10. Kresse, G. & Joubert, D. Form ultrasoft pseudo potentials to the projector augmented-wave method. *Phys. Rev. B* **59**, 1758−1775 (1999).
+- 11. Vanderbilt, D. Soft self-consistent pseudo potentials in a generalized eigen value formalism. *Phys. Rev. B* **41**, 7892−7895 (1990).
+- 12. Kresse, G. & Hafner, J. Norm-conserving and ultrasoft pseudo potentials for first-row and transition elements. *J. Phys.: Condens. Matter* **6**, 8245−8257 (1994).
+- 13. Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made simple. *Phys. Rev. Lett.* **77**, 3865−3868 (1996).
+- 14. Dudarev, S. L., Botton, G. A., Savrasov, S. Y., Humphreys, C. J. & Sutton, A. P. Electron-energy-loss spectra and the structural stability of nickel oxide: an LSDA+U study. *Phys. Rev. B* **57**, 1505−1509 (1998).
+- 15. Makov, G. & Payne, M. C. Periodic boundary conditions in *ab initio* calculations. *Phys. Rev. B* **51**, 4014−4022 (1995).
+- 16. Neugebauer, J. & Scheffler, M. Adsorbate-substrate and adsorbate-adsorbate interactions of Na and K adlayers on Al (111). *Phys. Rev. B* **46**, 16067−16080 (1992).
+- 17. Henkelman, G., Arnaldsson, A. & Jónsson, H. A fast and robust algorithm for bader decomposition of charge density. *Comput. Mater. Sci.* **36**, 354−360 (2006).
+- 18. Lucas, M. & Claus, P. Hydrogenations over silver: a highly active and chemoselective Ag-In/SiO2 catalyst for the one-step synthesis of allyl alcohol from acrolein. *Chem. Eng. Technol.* **28**, 867−870 (2005).
+- 19. Aich, P. *et al.* Single-atom alloy Pd-Ag catalyst for selective hydrogenation of acrolein. *J. Phys. Chem. C* **119**, 18140−18148 (2015).
+- 20. Bron, M. *et al.* Bridging the pressure and materials gap: in-depth characterization and reaction studies of silver-catalysed acrolein hydrogenation. *J. Catal.* **234**, 37−47 (2005).
+- 21. Bron, M. *et al.* Oxygen-induced activation of silica supported silver in acrolein hydrogenation. *Appl. Catal. A-Gen.* **341**, 127−132 (2008).
+- 22. Zhu, Y., Qian, H., Drake, B. A. & Jin, R. Atomically precise Au25(SR)18 nanoparticles as catalysts for the selective hydrogenation of *α, β*-unsaturated ketones and aldehydes. Angew. *Chem. Int. Ed.* **49**, 1295−1298 (2010).
+- 23. Cano, I., Chapman, A. M., Urakawa, A. & van Leeuwen, P. W. N. M. Air-stabel gold nanoparticles ligated by secondary phosphine oxides for the chemoselective hydrogenation of aldehydes: crucial role of the ligand. *J. Am. Chem. Soc.* **136**, 2520−2528 (2014).
+- 24. Gilbert, J. B., Rubner, M. F. & Cohen, R. E. Depth-profiling X-ray photoelectron spectroscopy (XPS) analysis of interlayer diffusion in polyelectrolyte multilayers. *Proc. Natl. Acad. Sci. USA* **110**, 6651−6656 (2013).
+- 25. Nørskov, J. K. *et al.* Trends in the exchange current for hydrogen evolution. *J. Electrochem. Soc.* **152**, J23−J26 (2005).
+- 26. Liu, H., Li, Z. & Li, Y. Chemoselective hydrogenation of cinnamaldehyde over a Pt-Lewis acid collaborative catalyst under ambient conditions. *Ind. Eng. Chem. Res.* **54**, 1487−1497 (2015).
+- 27. Li, H., Liu, J., Yang, H. & Li, H. Influence of pore structure on catalytic properties of mesoporous silica-supported Co-B amorphous alloys in hydrogenation of cinnamaldehyde to cinnamyl alcohol. *Chin. J. Chem.* **27**, 2316−2322 (2009).
+- 28. Moellmer, J. *et al*. Insights on adsorption characterization of metal-organic frameworks: a benchmark study on the novel soc-MOF. *Micropor. Mesopor. Mater.* **129**, 345−353 (2010).
+- 29. Wu, B., Huang, H., Yang, J., Zheng, N. & Fu, G. Selective hydrogenation of *α,β*-unsaturated aldehydes catalyzed by amine-capped platinum-cobalt nanocrystals. *Angew. Chem. Int. Ed.* **51**, 3440−3443 (2012).
+- 30. Vu, K. B., Bukhryakov, K. V., Anjum, D. H. & Rodionov, V. O. Surface-bound ligands modulate chemoselectivity and activity of a bimetallic nanoparticle catalyst. *ACS Catal.* **5**, 2529−2533 (2015).
+- 31. Kahsar, K. R., Schwartz, D. K. & Medlin, J. W. Control of metal catalyst selectivity through specific noncovalent molecular interactions. *J. Am. Chem. Soc.* **136**, 520−526 (2014).
+- 32. Lin, W., Cheng, H., He, L., Yu, Y. & Zhao, F. High performance of Ir-promoted Ni/TiO2 catalyst toward the selective hydrogenation of cinnamaldehyde. *J. Catal.* **303**, 110−116 (2013).
+- 33. Tian, Z., Xiang, X., Xie, L. & Li, F. Liquid-phase hydrogenation of cinnamaldehyde: enhancing selectivity of supported gold catalysts by incorporation of cerium into the support. *Ind. Eng. Chem. Res.* **52**, 288−296 (2013).
+- 34. Han, X., Zhou, R., Yue, B. & Zheng, X. Selective hydrogenation of cinnamaldehyde over Pt/ZrO2 catalyst modified by Cr, Mn, Fe, Co and Ni. *Catal. Lett.* **109**, 157−161 (2006).
+- 35. Yang, X. *et al*. High-performance Pd-Au bimetallic catalyst with mesoporous silica nanoparticles as support and its catalysis of cinnamaldehyde hydrogenation. *J. Catal.* **291**,
+
+36−43 (2012).
+
+- 36. Yuan, X. *et al.* Liquid-phase hydrogenation of cinnamaldehyde over Cu-Au/SiO2 catalysts. *AIChE J.* **60**, 3300−3311 (2014).
+- 37. Gutiérrez, V., Nador, F., Radivoy, G. & Volpe, M. A. Highly selective copper nanoparticles for the hydrogenation of *α,β*-unsaturated aldehydes in liquid phase. *Appl. Catal. A-Gen.* **464-465**, 109−115 (2013).
+- 38. Gutiérrez, V. S., Diez, A. S., Dennehy, M. & Volpe, M. A. Cu incorporated MCM-48 for the liquid phase hydrogenation of cinnamaldehyde. *Micropor. Mesopor. Mater.* **141**, 207−213 (2011).
+- 39. Dragoi, B. *et al*. Enhancing the performance of SBA-15-supported copper catalysts by chromium addition for the chemoselective hydrogenation of *trans*-cinnamaldehyde. *Catal. Sci. Technol.* **3**, 2319−2329 (2013).
+- 40. Vu, H. *et al*. Bimetallic catalysis on carbon nanotubes for the selective hydrogenation of cinnamaldehyde. *J. Catal.* **240**, 18−22 (2006).
+- 41. Li, Y., Zhu, P.-F. & Zhou, R.-X. Selective hydrogenation of cinnamaldehyde to cinnamyl alcohol with carbon nanotubes supported Pt-Co catalysts. *Appl. Surf. Sci.* **254**, 2609−2614 (2008).
+- 42. Liu,Z., Tan, X., Li, J. & Lv, C. Easy synthesis of bimetal PtFe-containing ordered mesoporous carbons and their use as catalysts for selective cinnamaldehyde hydrogenation. *New J. Chem.* **37**, 1350−1357 (2013).
+- 43. Gu, H., Xu, X., Chen, A.-A., Ao, P. & Yan, X. Separate deposition of gold and palladium nanoparticles on ordered mesoporous carbon and evaluation of their catalytic activity for cinnamaldehyde hydrogenation under atmospheric condition. *Catal. Commun.* **41**, 65−69 (2013).
+- 44. Zhao, J., Xu, X., Li, X. & Wang, J. Promotion of Sn on the Pd/AC catalyst for the selective hydrogenation of cinnamaldehyde. *Catal. Commun.* **43**, 102−106 (2014).
+- 45. Mahata, N., Gonçalves, F., Pereira, M. F. R. & Figueiredo, J. L. Selective hydrogenation of cinnamaldehyde to cinnamyl alcohol over mesoporous carbon supported Fe and Zn promoted Pt catalyst. *Appl. Catal. A-Gen.* **339**, 159−168 (2008).
+- 46. Malobela, L. J., Heveling, J., Augustyn, W. G. & Cele, L. M. Nickel-cobalt on
+
+carbonaceous supports for the selective catalytic hydrogenation of cinnamaldehde. *Ind. Eng. Chem. Res.* **53**, 13910−13919 (2014).
+
+- 47. Ji, X. *et al*. Selective hydrogenation of cinnamaldehyde to cinnamal alcohol over platinum/graphene catalysts. *ChemCatChem* **6**, 3246−3253 (2014).
+- 48. Chen, X. *et al*. Nickel-silicon intermetallics with enchanced selectivity in hydrogenation reactions of cinnamaldehyde and phenylacetylene. *Ind. Eng. Chem. Res.* **51**, 3604−3611 (2012).
+- 49. Sang, W. *et al*. One-step synthesis of hybrid nanocrystals with rational tuning of the morphology. *Nano Lett.* **14**, 6666−6671 (2014).
+- 50. Xiang, X., He, W., Xie, L. & Li, F. A mild solution chemistry method to synthesize hydrotalcite-supported platinum nanocrystals for selective hydrogenation of cinnamaldehyde in neat water. *Catal. Sci. Technol.* **3**, 2819−2827 (2013).
+- 51. Guo, Z. *et al*. Pt nanoclusters confined within metal-organic framework cavities for chemoselective cinnamaldehyde hydrogenation. *ACS Catal.* **4**, 1340−1348 (2014).
+- 52. Hoang-Van, C. & Zegaoui, O. Studies of high surface area Pt/MoO3 and Pt/WO3 catalysts for selective hydrogenation reactions. II. Reactions of acrolein and allyl alcohol. *Appl. Catal. A-Gen.* **164**, 91−103 (1997).
+- 53. Volckmar, C. E., Bron, M., Bentrup, U., Martin, A. & Claus, P. Influence of the support composition on the hydrogenation of acrolein over Ag/SiO2-Al2O3 catalysts. *J. Catal.* **261**, 1−8 (2009).
+- 54. Grünert, W., Brückner, A., Hofmeister, H. & Claus, P. Structural properties of Ag/TiO2 catalysts for acrolein hydrogenation. *J. Phys. Chem. B* **108**, 5709−5717 (2004).
+- 55. Mohr, C., Hofmeister, H. & Claus, P. The influence of real structure of gold catalysts in the parital hydrogenation of acrolein. *J. Catal.* **213**, 86−94 (2003).
+- 56. Marinelli, T. B. L.W. & Ponec, V. A study on the selectivity in acrolein hydrogenation on platinum catalysts: a model for hydrogenation of *α,β*-unsaturated aldehydes. *J. Catal.* **156**, 51−59 (1995).
+- 57. Mohr, C., Hofmeister, H., Radnik, J. & Claus, P. Identification of active sites in gold-catalyzed hydrogenation of acrolein. *J. Am. Chem. Soc.* **125**, 1905−1911 (2003).
+
+根据提供的文献内容，生成实验流程复现文献实验

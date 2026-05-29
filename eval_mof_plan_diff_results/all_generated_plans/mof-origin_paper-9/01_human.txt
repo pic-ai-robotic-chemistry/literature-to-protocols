@@ -1,0 +1,520 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+![](_page_0_Picture_0.jpeg)
+
+#### **Activating the Gate-Opening of a Metal**−**Organic Framework and Maximizing Its Adsorption Capacity**
+
+[Gihyun](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Gihyun+Lee"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Lee, [Dayeon](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Dayeon+Choi"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Choi, and [Moonhyun](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Moonhyun+Oh"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Oh[\\*](#page-8-0)
+
+**Cite This:** *J. Am. Chem. Soc.* 2025, 147, [12811−12820](https://pubs.acs.org/action/showCitFormats?doi=10.1021/jacs.5c01399&ref=pdf) **Read [Online](https://pubs.acs.org/doi/10.1021/jacs.5c01399?ref=pdf)**
+
+![](_page_0_Picture_6.jpeg)
+
+| ACCESS | Metrics & More | Article Recommendations | *sı<br>Supporting Information |
+|--------|----------------|-------------------------|-------------------------------|
+|        |                |                         |                               |
+
+ABSTRACT: Metal−organic frameworks (MOFs) are well-known porous materials owing to their useful adsorption properties; however, some MOFs have limited adsorption capabilities, which can significantly undermine their success as porous materials. Therefore, maximizing their porosity is critical for unlocking their full potential and expanding their practical utilization, such as gas storage, separation, and removal. In this study, flexible MOFs with defined defects were synthesized using a ligand-mixing strategy to improve their porosity and maximize their adsorption capacities. Specifically, we employed a combination of two organic linkers, 4,4′ biphenyldicarboxylic acid (H2BPDC) and 1,4-benzenedicarboxylic acid (H2BDC), in various ratios, to fabricate flexible In-MIL-53D hybrids containing controllable defects within the structure due to the
+
+![](_page_0_Picture_9.jpeg)
+
+incorporation of the short linker (H2BDC) compared to the original linker (H2BPDC). These structural defects in the In-MIL-53D hybrids activated their gate-openings and enhanced gas adsorption capacities for N2 and CO2. Moreover, the gate-opened activated hybrids exhibited excellent adsorption capacity for the harmful chemical warfare agent simulant, 2-chloroethyl ethyl sulfide (CEES). However, excessive incorporation of defects disrupted the framework's integrity, compromising its stability and increasing the risk of collapse. Therefore, achieving an optimal level of defect incorporation is essential to balance structural stability with enhanced functionality. Among the hybrids, the sample with approximately 39% incorporation of the short linker exhibited up to an 11-fold increase in adsorption capacity for CO2 at 1 *P*/*P*0. In addition, this hybrid demonstrated up to 5-fold higher CEES adsorption capacity compared to the pristine In-MIL-53D, highlighting its potential for advanced utilization in relevant fields.
+
+# ■ **INTRODUCTION**
+
+Metal−organic frameworks (MOFs) have garnered significant attention because of their exceptional porosity, high surface area, and versatile structural design, which make them invaluable for a wide range of applications, including gas storage, separation and removal, catalysis, and drug delivery.[1](#page-8-0)−[14](#page-8-0) MOFs with outstanding adsorption properties are critically important for the selective removal of toxic chemicals that pose severe risks to human health and the environment.[5](#page-8-0)−[9](#page-8-0) Despite their potential, many MOFs suffer from intrinsic structural limitations that restrict their adsorption capacities, thereby limiting their efficacy in applications that demand substantial porosity. Addressing these limitations and maximizing the adsorption capacity of MOFs is essential for advancing their utility in environmental and industrial applications. Recent advancements in MOF synthesis have enhanced our ability to tailorspecific porosity and adsorption properties. For physisorption, an effective approach involves the incorporation of larger, bulkier ligands, which increases the pore volume and pore size.[15](#page-8-0)−[17](#page-8-0) In contrast, chemisorption can be enhanced by introducing specific chemical sites or controlled structural defects that provide additional adsorption sites and increase pore accessibility.[18](#page-8-0)−[24](#page-9-0) An approach known as defect engineering has been developed that involves ligand mixing, modulation of reaction conditions, and postsynthetic modifications.[18](#page-8-0)−[24](#page-9-0) Among these, the ligand mixing strategy has proven effective for precise control of the defect structures within MOFs, enabling fine-tuning of the overall properties of the framework.[19](#page-8-0)−[21](#page-8-0) Flexible MOFs can adapt their conformations in response to changes in the guest molecules, pressure, or temperature and they can exist in either closed or open conformations.[25](#page-9-0)−[35](#page-9-0) They exhibit fascinating properties. For example, flexible MOFs have shown considerable promise with adsorption capacities that adapt in response to external stimuli.[25](#page-9-0)<sup>−</sup>[35](#page-9-0) However, a notable limitation of flexible MOFs is that they tend to remain closed after drying ([Scheme](#page-1-0) [1](#page-1-0)a)[.27](#page-9-0)<sup>−</sup>[29,33](#page-9-0) This can occur due to *π*−*π* interactions between the aromatic rings of the linkers, which stabilize the closed form and require higher energy to reopen the structures.[27](#page-9-0)−[29](#page-9-0),[33](#page-9-0)
+
+Received: January 23, 2025 Revised: March 20, 2025 Accepted: March 27, 2025 Published: April 2, 2025
+
+![](_page_0_Picture_15.jpeg)
+
+![](_page_0_Picture_16.jpeg)
+
+<span id="page-1-0"></span>Scheme 1. (a) Schematic of Gate-Closing and Irreversible Gate-Opening of Flexible MOF. The Metal (Black Ball), Organic Linker (Gray Rod), Guest Molecules (Blue Ball and Yellow Star), and UnitCell Parameters (Green Box) are Illustrated, the Guest Molecules Occupy the Pores, Keeping the MOF in an Open Form. Upon Drying, the Guest Molecules are Removed, Causing the Flexible MOFs to Transition to Their Closed Form Due to Irreversible Gate-Opening, a Typical Limitation of Flexible MOFs, Exposure to Guest Molecules Does Not Reopen the Pores. (b) Schematic of the Construction of In-MIL-53D and Defect-Containing In-MIL-53D Hybrids via the Solvothermal Reaction Ball-and-Stick Representations of the 3D Orthorhombic Structure of In-MIL-53D and Hybrid In-MIL-53D with a Rhombic Lattice in the *ab* Plane. Light-Yellow Boxes Show Unit Cell Parameters. The Structures of In-MIL-53D and Hybrids Were Modified Based on Al-MIL-53D Using the Vesta Software[.36](#page-9-0) In (Beige), C (Black), and O (Red); H Atoms are Omitted for Clarity. The Gray Box Shows the 1D Metal-Ion Chain in the *c* Direction of In-MIL-53D The Black Box Shows the 1D Metal-Ion Chain in the *c* Direction of In-MIL-53D Hybrids, where Pink Circles Represent the Incorporated HBDC<sup>−</sup> and Blue Circles Represent the Open Metal Sites. The Incorporation of HBDC<sup>−</sup> in In-MIL-53D Hybrids Shows Activated Gate-Opening with Additional Open Metal Sites
+
+![](_page_1_Figure_4.jpeg)
+
+Ramsahye et al. addressed this limitation by synthesizing MIL-88, a well-known flexible MOF. They incorporated organic spacers within pristine organic linkers to reduce *π*−*π* interactions between the phenyl groups, enabling the MOF to stay in the open form.[29](#page-9-0) Overcoming these typical limitations of flexible MOFs is essential before their potential for applications such as adsorption and removal can be fully harnessed.
+
+<span id="page-2-0"></span>![](_page_2_Figure_3.jpeg)
+
+Figure 1. (a) SEM image of In-MIL-53D dried at 250 °C for 3 h. (b) PXRD patterns of simulated Al-MIL-53D, In-MIL-53D soaked in DMF (never dried), and In-MIL-53D dried at 250 °C for 3 h under vacuum. (c) N2 sorption isotherm of In-MIL-53D dried at 250 °C for 3 h, displaying almost nonporous characteristics; the filled and open symbols represent the adsorption and desorption branches, respectively. (d) The pore-size distribution of In-MIL-53D calculated using the NLDFT method. (e) Ratios of the H2BDC used in the solvothermal reactions of a series of defect-containing In-MIL-53D hybrids and ratios of the incorporated HBDC<sup>−</sup> as determined by analyzing the <sup>1</sup> H NMR spectra of the samples. Error bars represent data from four independent experiments. SEM images of (f) Hybrid-1, (g) Hybrid-2, (h) Hybrid-3, (i) Hybrid-4, and (j) Hybrid-5. (k) PXRD patterns of In-MIL-53D and a series of defect-containing In-MIL-53D hybrids.
+
+MIL-53, a well-studied flexible MOF synthesized by reacting dicarboxylic acids with trivalent metal ions, features onedimensional (1D) diamond-shaped channels that impart structural flexibility[.32](#page-9-0)<sup>−</sup>[35](#page-9-0) An analog, MIL-53D (also known as DUT-5), can be synthesized by reacting 4,4′-biphenyldicarboxylic acid (H2BPDC) and trivalent metal ions. Recently, we synthesized an indium-based variant of MIL-53D (In-MIL-53D)[.32](#page-9-0) This MOF displayed minimal porosity upon drying, presenting challenges for its adsorption applications. This is a typical problem for flexible MOFs and an effective strategy must be developed to overcome this limitation. Herein, we demonstrate an approach for creating structural defects within the nearly nonporous In-MIL-53D framework by incorporating a shorter organic linker, which optimizes the gate-opening of the channels and the adsorption characteristics of the MOF. A series of hybrid MOFs incorporating defined ratios of H2BPDC and 1,4-benzenedicarboxylic acid (H2BDC as a shorter linker) were synthesized, and N2 and CO2 adsorption measurements were conducted for Brunauer−Emmett−Teller (BET) analysis. The judicious incorporation of H2BDC into the In-MIL-53D framework created structural defects, activated gate-opening, and generated open metal sites. However, an excessive number of defects undermined the framework's integrity, compromising its stability and heightening the risk of collapse. Thus, it was crucial to attain an optimal defect level to maintain structural stability while enhancing functionality. These structural and chemical modifications of the MOFs result in a significant enhancement of CO2 adsorption with up to an 11-fold increase in adsorption capacity at 1 *P*/*P*<sup>0</sup> compared to that of the pristine MOF. Enhanced adsorption performance was also confirmed
+
+during the capture of chemical warfare agent (CWA) simulant. In-MIL-53D hybrids exposed to 2-chloroethyl ethyl sulfide (CEES) vapor in a jar-in-jar setup showed a steady increase in the adsorption with increasing numbers of structural defects, with up to 5-fold enhanced adsorption performance for CEES compared to that of pristine In-MIL-53D. By adjusting the defect levels, both the pore structure and the adsorption capacity can be fine-tuned to obtain a hybrid MOF with optimal performance for applications requiring enhanced porosity and structural flexibility.
+
+# ■ **RESULTS AND DISCUSSION**
+
+In-MIL-53D with a chemical composition of [In(OH)- (BPDC)]*<sup>n</sup>* was synthesized via a solvothermal reaction of In(NO3)3 and H2BPDC. In-MIL-53D is a three-dimensional (3D) orthorhombic MOF characterized by a rhombic lattice on the *ab* plane [\(Scheme](#page-1-0) 1b). The In-MIL-53D structure is composed of 1D metal-ion chains, specifically [In(OH)]*<sup>n</sup>* units aligned along the *c*-axis [\(Scheme](#page-1-0) 1b). Organic linkers extend from these chains in four directions, parallel to the *ab* plane and perpendicular to the 1D metal-ion chains. Ultimately, each linker connects to an adjacent 1D metal-ion chain, resulting in diamond-shaped 1D channels ([Scheme](#page-1-0) 1b). This configuration is responsive to guest molecules and contributes to the flexibility of the MOF. Scanning electron microscopy (SEM) image and powder X-ray diffraction (PXRD) pattern of the product confirmed the formation of In-MIL-53D rods (Figure 1a,b). The unit cell parameters of the product [\(Table](#page-3-0) 1), calculated from the PXRD pattern by whole pattern fitting ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S1) using MDI Jade 9.0 software, revealed a 3D orthorhombic
+
+<span id="page-3-0"></span>Table 1. Unit Cell Parameters of Al-MIL-53D, In-MIL-53D, a Series of Defect-Containing In-MIL-53D Hybrids, and In-MIL-68B*<sup>c</sup>*
+
+| MOF          |       | cell parameters |       | δa (°) |
+|--------------|-------|-----------------|-------|--------|
+|              | a (Å) | b (Å)           | c (Å) |        |
+| Al-MIL-53D37 | 22.70 | 19.24           | 6.61  | 80.57  |
+| In-MIL-53Db  | 22.07 | 21.17           | 7.14  | 87.61  |
+| In-MIL-53D   | 25.46 | 16.70           | 7.11  | 66.53  |
+| Hybrid-0.5   | 26.14 | 16.50           | 7.22  | 64.52  |
+| Hybrid-1     | 26.08 | 16.46           | 7.17  | 64.53  |
+| Hybrid-1.5   | 26.12 | 16.50           | 7.23  | 64.56  |
+| Hybrid-2     | 26.02 | 16.49           | 7.21  | 64.73  |
+| Hybrid-2.5   | 25.11 | 16.84           | 7.06  | 67.68  |
+| In-MIL-68B   | 21.77 | 37.70           | 7.23  | 60.01  |
+| In-MIL-68B38 | 21.77 | 37.68           | 7.23  | 60.05  |
+
+*a* Calculated based on the cell parameters and confirmed using the structures obtained using Vesta software.[36](#page-9-0) *<sup>b</sup>* In-MIL-53D soaked in DMF, never dried. *<sup>c</sup>* Unit cell parameters were calculated by whole pattern fitting using MDI Jade 9.0 software. The angles (*δ*) between the organic linkers were calculated using the unit cell parameters. All samples were dried at 250 °C for 3 h under vacuum before analyzing, unless otherwise noted.
+
+structure identical to that of the previously reported Al-MIL-53D. In particular, the product adopted an open form with *a* and *b* cell parameters at 22.07 and 21.17 Å, respectively, with a large angle of *δ* (87.61°, [Scheme](#page-1-0) 1b), defined as the angle between the two linkers, before the evacuation processfor removing the guest moleculeslocated within the channels. However, the structure of In-MIL-53D changed to the closed form, after the evacuation process of the guest molecules with a dynamic vacuum for 3 h at 250 °C. The whole pattern fitting ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S2) revealed an increased *a* cell parameter at 25.46 Å, a decreased *b* cell parameter at 16.70 Å, and a small *δ* at 66.53°, which are representative of its closed form ([Scheme](#page-1-0) 1b). Importantly, in its dried, closed form, In-MIL-53D displayed a nearly nonporous behavior in the N2 sorption isotherm analysis ([Figure](#page-2-0) 1c,d). The transition from an open to a closed structure during the guest evacuation process is a typical characteristic of flexible MOFs[.25](#page-9-0)<sup>−</sup>[35](#page-9-0) Once dried, these MOFs adopt a closed form and sometimes cannot return to their open form, limiting their suitability for applications that require sustained flexibility ([Scheme](#page-1-0) 1a). This behavior highlights the need for in-depth studies on flexible MOFs to better understand the processes involved in reopening so that their full potential can be realized in practical applications.
+
+To activate the gate-opening behavior of In-MIL-53D for enlarged pore volume and enhanced adsorption performance, we employed a defect-engineering strategy by introducing H2BDC, a shorter linker than the original H2BPDC, during the synthesis of In-MIL-53D. The incorporation of this shorter linker created structural defects in the In-MIL-53D framework ([Scheme](#page-1-0) 1b), facilitating gate-opening and improving the adsorption capacity, which was otherwise constrained in the pristine closed structure. A schematic representation of the defect-containing In-MIL-53D structure is shown in [Scheme](#page-1-0) 1b. The structural conformation of MIL-53, whether in a closed or open form, is governed by two key factors: long-range dispersion interactions (*π*−*π* interactions between organic linkers) and vibrational entropy[.33](#page-9-0),[39](#page-9-0)<sup>−</sup>[41](#page-9-0) Both experimental and theoretical studies suggest that *π*−*π* interactions between organic linkers stabilize the closed form of MIL-53, while the open form is favored when entropy effects dominate.[33](#page-9-0),[39](#page-9-0)−[41](#page-9-0) Therefore, weakening or reducing the *π*−*π* interactions between organic linkers within MIL-53 would destabilize the closed form and facilitate the gate-opening. The partial replacement of the longer BPDC2<sup>−</sup> linkers with shorter HBDC<sup>−</sup> linkers will reduce these *π*−*π* interactions due to the decreased number of aromatic rings within the structure. The incorporation of shorter linkers into the framework also increased the number of open metal sites, enhancing the accessibility of the adsorption sites. Controlled defect incorporation within the MOFs was achieved through a series of solvothermal reactions by varying the ratio of the two linkers, H2BPDC and H2BDC, with In(NO3)3 [\(Scheme](#page-1-0) 1b). <sup>1</sup> H NMR spectroscopic analysis of the In-MIL-53D hybrids digested in acetic acid-*d*<sup>4</sup> and dimethyl sulfoxide (DMSO)-*d*<sup>6</sup> confirmed the incorporation ratios of the two linkers in the In-MIL-53D hybrids and showed that the short linker (H2BDC) was incorporated into the framework with ca. 10, 20, 30, 39, and 50% (denoted as Hybrid-1−Hybrid-5, respectively). The ratios of H2BDC used in the solvothermal reactions and the ratios of the incorporated short linkers within Hybrid-1−Hybrid-5 are depicted in [Figure](#page-2-0) 1e (see also [Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S1), indicating that the incorporated amount of the short linker could be precisely controlled. The reproducibility and controllability of the production of the In-MIL-53D hybrids were validated through four independent experiments. Each experiment yielded small error bars, demonstrating the precise control that was achieved for the incorporation of the two linkers within each hybrid, thereby allowing control over the number of defects and open metal sites. Additional analysis was performed to characterize defect formation. IR spectra of a series of samples confirmed the presence of defects within the frameworks. Specifically, the partial substitution of BPDC2<sup>−</sup> with HBDC<sup>−</sup> resulted in the uncoordinated −CO2H group and open metal sites. Consequently, in the In-MIL-53D hybrids, bare −CO2H group should be incorporated into the framework. The presence of −CO2H group[42](#page-9-0) in the In-MIL-53D hybrids was verified by IR spectra [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S3).
+
+SEM images of the products of these reactions revealed rodlike structures similar to those of pure In-MIL-53D ([Figure](#page-2-0) 1f− j). No signs of phase separation or production of byproducts, such as the distinct morphological characteristics of In-MIL-68B produced from In3+ and H2BDC ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S4), were observed. PXRD analysisfurther confirmed these observations, as no peaks corresponding to In-MIL-68B were detected [\(Figure](#page-2-0) 1k). In particular, the strong peaks characteristic of In-MIL-68B at 4.69 and 9.38° for the (110) and (220) planes, respectively, were absent. For hybrids with up to 20% incorporation of the short linker (Hybrid-1 and Hybrid-2), the PXRD pattern remained nearly identical to that of the pristine form, indicating that the crystallinity of the framework was mostly preserved. In addition, the unit cell parameters of Hybrid-1 and Hybrid-2 (Table 1), calculated from their PXRD patterns by whole pattern fitting ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S5 and S6), were similar to those of pristine In-MIL-53D. However, as the incorporation of the short linker increased beyond this point (Hybrid-3−Hybrid-5), many defects and open metal sites were created, gradually affecting the overall crystallinity. This change was reflected in a decrease in the PXRD peak intensity and by peak broadening, suggesting slight destabilization of the framework. These results indicate that the incorporation of an excessive amount of the short linker can compromise the stability of In-MIL-53D, presumably because a higher proportion of the short linker disrupts the original framework, leading to structural instability and potential
+
+![](_page_4_Figure_3.jpeg)
+
+Figure 2. (a) N2 sorption isotherms and (b) relative N2 adsorption abilities (%) of In-MIL-53D and a series of defect-containing In-MIL-53D hybrids; the filled and open symbols represent the adsorption and desorption branches, respectively. In-MIL-53D (khaki), Hybrid-1 (orange), Hybrid-2 (light green), Hybrid-3 (purple), Hybrid-4 (red), and Hybrid-5 (brown). (c−h) Pore-size distributions of samples calculated using the NLDFT method.
+
+collapse. This analysis indicates a pyramidal trend in performance, where an optimal level of structural defects can be identified that balances structural stability and enhanced functionality.
+
+To quantify the impact of the incorporation of the short linker on structural recovery to its open form, N2 sorption isotherms were measured after pretreatment at 250 °C for 3 h (Figure 2a). By introducing defects, we aimed to facilitate the gate-opening behavior of the flexible MOF that initially persisted in their closed forms. As expected, the N2 sorption isotherms increased as In-MIL-53D containing more of the short linker were used, reaching the highest values for Hybrid-4. Specifically, a BET surface area and total pore volume of 77.7 m2 g<sup>−</sup><sup>1</sup> and 0.097 cm<sup>3</sup> g−1 , respectively, were measured for pristine In-MIL-53D ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) [S2](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf)). As the amount of short linker incorporation increased, the BET surface areas and total pore volumes of Hybrid-1 (196.2 m<sup>2</sup> g<sup>−</sup><sup>1</sup> and 0.134 cm3 g<sup>−</sup><sup>1</sup> ), Hybrid-2 (649.1 m<sup>2</sup> g<sup>−</sup><sup>1</sup> and 0.295 cm3 g−1 ), Hybrid-3 (1033.7 m<sup>2</sup> g<sup>−</sup><sup>1</sup> and 0.509 cm3 g<sup>−</sup><sup>1</sup> ), and Hybrid-4 (1680.2 m<sup>2</sup> g<sup>−</sup><sup>1</sup> and 0.747 cm3 g<sup>−</sup><sup>1</sup> ) showed a steady increase ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S2). However, Hybrid-5, with 50% incorporation of the short linker, displayed a slight decrease in BET surface area and total pore volume (1534.8 m<sup>2</sup> g<sup>−</sup><sup>1</sup> and 0.710 cm3 g<sup>−</sup><sup>1</sup> ) compared to the highest values at Hybrid-4. Thus, the incorporation of too many short linker units introduces severe structural instability in the MOFs and results in a decrease in porosity.
+
+The relative N2 adsorption capacities at 1.0 atm across the In-MIL-53D hybrid series exhibited a consistent upward trend, peaking at Hybrid-4 (Figure 2b). This enhanced performance, up to 773% higher than that of pristine In-MIL-53D, indicates that approximately 39% incorporation of the short linker is optimal for this series of MOFs. To further understand the observed N2 sorption behavior, nonlocal density functional theory (NLDFT) was used to analyze the pore-size distributions of the In-MIL-53D hybrids. As expected, pristine In-MIL-53D exhibited minimal porosity (Figure 2c). However, with the incorporation of the short linker, the pore volume increased (Figure 2d−g). With the introduction of excessive defects, the overall pore volume began to decrease (Figure 2h). These
+
+#### **Journal of the American Chemical Society [pubs.acs.org/JACS](pubs.acs.org/JACS?ref=pdf)** Article
+
+findings highlight the critical balance between defect incorporation and framework stability for optimizing the porosities of MOFs. By adjusting the defect levels, both the gate-opening and porosity can be fine-tuned to achieve a hybrid MOF with optimal performance for applications requiring enhanced porosity and structural flexibility.
+
+The enhanced adsorption performance of the defectengineered In-MIL-53D hybrids achieved by facilitating gateopening was further validated by CO2 adsorption measurements (Figure 3a). Overall, the defect-containing In-MIL-53D hybrids
+
+![](_page_5_Figure_3.jpeg)
+
+Figure 3. (a) CO2 sorption isotherms and (b) relative CO2 adsorption abilities (%) of In-MIL-53D and a series of defect-containing In-MIL-53D hybrids; the filled and open symbols represent the adsorption and desorption branches, respectively. In-MIL-53D (khaki), Hybrid-1 (orange), Hybrid-2 (light green), Hybrid-3 (purple), Hybrid-4 (red), and Hybrid-5 (brown).
+
+exhibited a significant improvement in CO2 adsorption capacity. Across the In-MIL-53D hybrid series, CO2 adsorption displayed a consistent upward trend, peaking at Hybrid-4 before declining slightly at Hybrid-5 (Figure 3b), mirroring the behavior observed in the N2 sorption isotherms. The maximum CO2 uptake values for the In-MIL-53D hybrids are summarized in [Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S3. Pristine In-MIL-53D exhibited a CO2 uptake of 32.1 cm3 g<sup>−</sup><sup>1</sup> , while the modified hybrids�Hybrid-1 (58.8 cm3 g<sup>−</sup><sup>1</sup> ), Hybrid-2 (134.3 cm<sup>3</sup> g<sup>−</sup><sup>1</sup> ), Hybrid-3 (220.9 cm3 g<sup>−</sup><sup>1</sup> ), and Hybrid-4 (351.5 cm3 g<sup>−</sup><sup>1</sup> )�showed a consistent and progressive increase in CO2 uptake [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S3). A slight decrease was observed for Hybrid-5, with the CO2 uptake measured at 302.6 cm3 g<sup>−</sup><sup>1</sup> . Notably, Hybrid-4 exhibited an almost 11-fold increase in CO2 adsorption capacity at 1.0 atm compared to pristine In-MIL-53D (Figure 3b). The highly enhanced CO2 adsorption capacity of the In-MIL-53D hybrids suggests that the incorporation of the short linker not only activates the gateopening behavior of the nearly nonporous flexible In-MIL-53D framework but also optimizes its adsorption functionality by providing open metal sites. In general, the open metal sites in MOFs behave as Lewis acid sites, making them particularly advantageous for CO2 adsorption.[43](#page-9-0)−[45](#page-9-0) This approach significantly enhanced the CO2 adsorption capacity, achieving levels comparable to those of highly porous MOFs [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S4). Furthermore, the equilibration time for each data point during CO2 adsorption was measured, as shown in [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S7. For pristine In-MIL-53D, a sharp peak at very low CO2 pressure was observed, indicating its nonporous nature and retention in the closed form. The most of flat region suggests that no more critical CO2 adsorption because it had already reached saturation.[29,46](#page-9-0) In contrast, Hybrid-4 exhibited a prolonged equilibration time for CO2 adsorption during approximately 0.0−0.3 *P*/*P*0, before reaching a flat region, indicating a gradual pore change and gate-opening during this CO2 pressure range. To determine the CO2 adsorption enthalpies in pristine In-MIL-53D and Hybrid-4, the isosteric heat of adsorption (*Q*st) was calculated from adsorption isotherms measured at different temperatures using the Clausius−Clapeyron eq ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) [S8](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf)).[47](#page-9-0)−[49](#page-9-0) The *Q*st value for Hybrid-4 (27.1 kJ mol<sup>−</sup><sup>1</sup> ) was higher than that of pristine In-MIL-53D (24.1 kJ mol<sup>−</sup><sup>1</sup> ), indicating a stronger CO2 adsorption affinity in Hybrid-4.
+
+Given the success of the incorporation of the short linker in facilitating the gate-opening of In-MIL-53D, we sought to determine the maximum adsorption capacity that could be achieved for the In-MIL-53D hybrids and assess the potential for precise control over gate-opening. A new series of In-MIL-53D hybrids were synthesized with intermediate ratios between those previously established [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S9); thus, the incorporation of the short linker into the framework with proportions of approximately 5, 15, 25, 36, and 45% (denoting as Hybrid-0.5−Hybrid-4.5, respectively) was undertaken and confirmed by <sup>1</sup> H NMR spectroscopic analysis. Four independent experiments were conducted for each sample to establish the reproducibility, confirming the intended linker ratios. The ratios of H2BDC used in the reactions and the ratios of its incorporation are depicted in [Figure](#page-6-0) 4a, indicating that the incorporation ratio of the two linkers is quite controllable. This level of control supports the reliability of our synthesis approach, indicating the ability for the fine-tuning of the MOF structure. Such control over the MOF structure through deliberate defect incorporation may provide new opportunities for the optimization of flexible MOFs for gas storage and separation and for catalysis applications.
+
+The SEM images of this new series show the formation of rodlike structures ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S9), consistent with the expected morphology. With up to 25% incorporation of the short linker (Hybrid-0.5−Hybrid-2.5), the PXRD pattern remained almost identical to that of the pristine form ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S9f), indicating that the crystallinity of the framework was mostly preserved. The unit cell parameters of these products ([Table](#page-3-0) 1), calculated from their PXRD patterns by whole pattern fitting [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S10− [S12\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf), revealed that the values are similar to that of pristine In-MIL-53D. However, as the incorporation of the short linker increased beyond this point (Hybrid-3.5 and Hybrid-4.5), the PXRD peak intensity gradually decreased, and peak broadening was detected due to structural collapse, suggesting that a higher
+
+<span id="page-6-0"></span>![](_page_6_Figure_2.jpeg)
+
+Figure 4. (a) Ratios of the H2BDCused in the solvothermal reaction of a series of defect-containing In-MIL-53D hybrids and ratios of the incorporated HBDC<sup>−</sup> as determined by analyzing the <sup>1</sup> H NMR spectra of the samples. The new series of hybrid samples are shown as blue dots. Error bars represent data from four independent experiments. (b) N2 sorption isotherms and (c) relative N2 adsorption abilities (%) of a series of defect-containing In-MIL-53D hybrids; the filled and open symbols represent the adsorption and desorption branches, respectively. In-MIL-53D (khaki), Hybrid-0.5 (pink), Hybrid-1.5 (yellow), Hybrid-2.5 (blue), Hybrid-3.5 (green), and Hybrid-4.5 (navy).
+
+![](_page_6_Figure_4.jpeg)
+
+Figure 5. (a) Photograph of a custom-made jar-in-jar setup for the adsorption experiments with CEES. (b) CEES adsorption kinetics of In-MIL-53D and a series of defect-containing In-MIL-53D hybrids with the pseudo-first-order model. Relative CEES adsorption abilities (%) of In-MIL-53D and a series of defect-containing In-MIL-53D hybrids at (c) 15 min, (d) 60 min, and (e) 180 min. Error bars represent data from three independent experiments. In-MIL-53D (khaki), Hybrid-1 (orange), Hybrid-2 (light green), Hybrid-3 (purple), Hybrid-4 (red), and Hybrid-5 (brown).
+
+content of the short linker begins to affect the structural integrity when it comprises one-fourth or more of the total linker ratio. This observation reinforces the importance of balanced defect incorporation for maintaining both structural stability and functional performance. N2 sorption isotherms of samples (Figure 4b,c) revealed that Hybrid-0.5 (124.4 m2 g<sup>−</sup><sup>1</sup> and 0.091 cm3 g<sup>−</sup><sup>1</sup> ), Hybrid-1.5 (467.4 m<sup>2</sup> g<sup>−</sup><sup>1</sup> and 0.238 cm3 g<sup>−</sup><sup>1</sup> ), Hybrid-2.5 (776.2 m2 g<sup>−</sup><sup>1</sup> and 0.433 cm3 g<sup>−</sup><sup>1</sup> ), Hybrid-3.5 (1373.9 m<sup>2</sup> g<sup>−</sup><sup>1</sup> and 0.657 cm<sup>3</sup> g<sup>−</sup><sup>1</sup> ), and Hybrid-4.5 (1651.2 m<sup>2</sup> g<sup>−</sup><sup>1</sup> and 0.746 cm3 g<sup>−</sup><sup>1</sup> ) displayed a gradual increase in BET surface area and total pore volume [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S2). However, the values for Hybrid-4.5 are slightly lower than those of Hybrid-4. Two primary conclusions can be drawn from the experiments. First, maximizing the gate-opening in the nonporous In-MIL-53D is feasible by reacting In(NO3)3 with H2BPDC and adding a short linker (H2BDC) to achieve approximately 39% incorporation of the short linker. Second, precise control over the mixed linker content within the MOF framework allows the creation of a flexible MOF with an adjustable gate-opening, which is intrinsically linked to its adsorption capacity.
+
+To evaluate the applicability of this approach to other flexible MOFs, Fe-MIL-88C with the chemical composition of [Fe3O- (NDC)3(H2O)2(NO3)]*<sup>n</sup>* was synthesized via a solvothermal reaction of Fe(NO3)3 and 2,6-naphthalenedicarboxylic acid (H2NDC).[30,32](#page-9-0) Additionally, two Fe-MIL-88C hybrids with controlled defect incorporation were prepared by varying the ratio of H2NDC and H2BDC in solvothermal reactions with Fe(NO3)3. All samples were characterized using <sup>1</sup> H NMR, SEM, and PXRD. SEM images verified the formation of hexagonal rods, characteristics of MIL-88C[30](#page-9-0),[32](#page-9-0) ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S13). <sup>1</sup> H NMR analysis of two Fe-MIL-88C hybrids verified the incorporation of the short linker (H2BDC) into the framework at approximately 12 and 26%, respectively. Interestingly, PXRD patterns of the Fe-MIL-88C hybrids showed peak shifts compared to pristine Fe-MIL-88C, due to short linker incorporation, defect generation, and facilitated framework flexibility ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S13d). The unit cell parameters of the Fe-MIL-88C hybrids, determined from PXRD patterns via whole pattern fitting ([Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S14−S16) using MDI Jade 9.0 software, showed an increase in the *a* and *b* cell parameters and a decrease in the *c* cell parameter compared to those of pristine Fe-MIL-88C [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S5). However, N2 sorption isotherms indicated no significant enhancement in pore volume for the defected Fe-MIL-88C hybrids [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S13e).
+
+Having demonstrated that MOFs with activated gateopening, increased porosity, and enhanced site accessibility can be effectively engineered, we assessed their potential for removing toxic chemicals. The release of CWAs poses an immediate and severe risk to human health and safety.[5](#page-8-0)<sup>−</sup>[9](#page-8-0) Rapid detection and removal of these toxic agents from the air are essential to prevent exposure because CWAs can cause debilitating effects, including severe skin rashes, respiratory damage, and even fatality. The gate-opening behavior of the In-MIL-53D hybrids shows promise for applications requiring responsive adsorption. Unlike pristine In-MIL-53D, which tends to remain closed once its gate is closed, the incorporation of a short linker into the In-MIL-53D framework enables a persistent gate-opening. This structural adaptation suggests that the In-MIL-53D hybrids can provide continuous and enhanced adsorption, making them highly suitable for real-time CWA removal from the environment. Due to the hazards associated with actual CWAs, CEES was selected as a safe laboratory test agent for the CWA adsorption experiments. CEES is a wellknown simulant of sulfur mustard (bis(2-chloroethyl)sulfide), which is a typical CWA that can cause severe tissue damage upon exposure[.6](#page-8-0)<sup>−</sup>[9](#page-8-0) The relative CEES adsorption capabilities of pristine In-MIL-53D and its hybrid variants were evaluated using the jar-in-jar setup at 23 °C ([Figure](#page-6-0) 5a). In this setup, a small beaker containingCEES was placed at the center of a larger glass chamber, with six crucible pans containing the MOF samples positioned around, thereby exposing the samples to CEES vapor for defined time intervals.
+
+The adsorption of CEES within the MOF samples was confirmed using both energy-dispersive X-ray spectroscopy (EDX) and <sup>1</sup> H NMR spectroscopy. The EDX spectra of the samplesrevealed the presence of sulfur and chlorine atomsin the adsorbed CEES, whereas neither was detected in the samples before the CEES adsorption experiment [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S17 and S18). To quantify the amount of CEES adsorbed by each sample, the samples exposed to CEES vapor for various time intervals were dissolved in acetic acid-*d*<sup>4</sup> and DMSO-*d*<sup>6</sup> for <sup>1</sup> H NMR spectroscopic analysis. The number of CEES molecules adsorbed per In-MIL-53D unit was calculated by comparing the integrated <sup>1</sup> H NMR peaks of CEES with those of the organic linkers from In-MIL-53D ([Figure](#page-6-0) 5). The quantities of CEES adsorbed at different exposure times are plotted in [Figure](#page-6-0) 5b. After reaching saturation following 3 h of exposure to CEES vapor, the adsorption capacity of pristine In-MIL-53D was determined to be 0.05 mol of CEES per mole of In-MIL-53D (0.05 molCEES/molMOF) [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S6). All In-MIL-53D hybrids displayed enhanced CEES adsorption capacities compared to that of pristine In-MIL-53D, both during the early stage of CEES exposure and after saturation ([Figure](#page-6-0) 5c−e). The increase in CEES adsorption capacity occurred in a stepwise, progressive manner. However, a steep increase was observed with the hybrid containing approximately 39% incorporation of the short linker, which achieved approximately 5-fold higher adsorption capacity relative to pristine In-MIL-53D, reaching 0.24 molCEES/molMOF after 3 h exposure ([Figure](#page-6-0) 5b and [Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S6). This dramatic enhancement highlights the effective combination of the activated gate-opening and additional open metal sites, resulting in the maximized adsorption capacity of Hybrid-4. The adsorption kinetics of pristine In-MIL-53D and its hybrids are illustrated in [Figure](#page-6-0) 5 and summarized in [Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf) S7. The adsorption of CEES onto In-MIL-53D and a series of defectcontaining In-MIL-53D hybrids followed a pseudo-first-order kinetic model.
+
+# ■ **CONCLUSION**
+
+Flexible MOFs with deliberately introduced defects were synthesized using a ligand-mixing strategy. The samples exhibited enhanced porosity and increased adsorption capacity. By introducing a shorter organic linker into the nearly nonporous In-MIL-53D framework, structural defects were introduced that optimized the channel gate-opening and improved the adsorption performance. A series of ten In-MIL-53D hybrids were prepared with precisely controlled ratios of the original linker (H2BPDC) and the shorter linker (H2BDC; ranging from 5% to 50% in 5% intervals). The structural defects activated the gate-opening, significantly enhancing the gas adsorption capacities of the MOFs for N2 and CO2. Additionally, the hybrids demonstrated excellent adsorption performance for the CWA simulant, CEES. The incorporation of a shorter linker created open metal sites, further contributing to improved adsorption. However, the incorporation of too many defects disrupted the framework's integrity and compromised its stability, leading to potential collapse. Thus, achieving an optimal level of defect incorporation is crucial for balancing structural stability and enhanced functionality. By fine-tuning the defect levels, both the pore structure and the adsorption capacity were optimized, resulting in a hybrid MOF with superior performance. Among the synthesized hybrids, the sample with approximately 39% short linker incorporation exhibited the best results, showing an 11-fold increase in CO2 adsorption capacity at 1 *P*/*P*<sup>0</sup> and up to a 5-fold increase in CEES adsorption capacity compared to pristine In-MIL-53D. These enhancements arose from the synergistic effects of the activated gate-opening and additional open metal sites. The softened, flexible framework opens up more readily in response to environmental changes, highlighting the potential of these tailored hybrid MOFs for advanced applications. This study emphasizes the critical balance between defect incorporation and framework stability, demonstrating the versatility of engineered MOFs for diverse practical applications.
+
+# <span id="page-8-0"></span>■ **ASSOCIATED CONTENT**
+
+#### \***sı Supporting Information**
+
+The Supporting Information is available free of charge at [https://pubs.acs.org/doi/10.1021/jacs.5c01399.](https://pubs.acs.org/doi/10.1021/jacs.5c01399?goto=supporting-info)
+
+Materials, methods, experimental details, whole pattern fittings, IR spectra, SEM images, PXRD patterns, kinetics and thermodynamics data for CO2 adsorption, EDX spectra, ratios of two linkers in In-MIL-53D hybrids, BET surface areas, total pore volumes, CO2 uptake capacities, CEES adsorption capacities, kinetic parameters for CEES adsorption, analysis of Fe-MIL-88C hybrids, Figures S1− S18, Table S1−S7 ([PDF\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c01399/suppl_file/ja5c01399_si_001.pdf)
+
+# ■ **AUTHOR INFORMATION**
+
+#### **Corresponding Author**
+
+Moonhyun Oh − *Department of Chemistry, Yonsei University, Seoul 03722, Republic of Korea;* [orcid.org/0000-0001-](https://orcid.org/0000-0001-8935-7820) [8935-7820](https://orcid.org/0000-0001-8935-7820); Email: [moh@yonsei.ac.kr](mailto:moh@yonsei.ac.kr)
+
+#### **Authors**
+
+Gihyun Lee − *Department of Chemistry, Yonsei University, Seoul 03722, Republic of Korea*
+
+Dayeon Choi − *Department of Chemistry, Yonsei University, Seoul 03722, Republic of Korea*
+
+Complete contact information is available at: [https://pubs.acs.org/10.1021/jacs.5c01399](https://pubs.acs.org/doi/10.1021/jacs.5c01399?ref=pdf)
+
+#### **Notes**
+
+The authors declare no competing financial interest.
+
+# ■ **ACKNOWLEDGMENTS**
+
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIP) (no. NRF-2022R1A2B5B03001450) and by the Challengeable Future Defense Technology Research and Development Program through the Agency for Defense Development (ADD) funded by the Defense Acquisition Program Administration (DAPA) in 2025 (no. 915111201). We thank Sung-Hwa Kim for discussions.
+
+# ■ **REFERENCES**
+
+(1) Snyder, B. E. R.; Turkiewicz, A. B.; Furukawa, H.; Paley, M. V.; Velasquez, E. O.; Dods, M. N.; Long, J. R. A ligand insertion [mechanism](https://doi.org/10.1038/s41586-022-05409-2) for cooperative NH3 capture in metal−organic [frameworks.](https://doi.org/10.1038/s41586-022-05409-2) *Nature* 2023, *613*, 287−291.
+
+(2) Flaig, R. W.; Osborn Popp, T. M.; Fracaroli, A. M.; Kapustin, E. A.; Kalmutzki, M. J.; Altamimi, R. M.; Fathieh, F.; Reimer, J. A.; Yaghi, O. M. The Chemistry ofCO2Capture in an [Amine-Functionalized](https://doi.org/10.1021/jacs.7b06382?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal− Organic Framework under Dry and Humid [Conditions.](https://doi.org/10.1021/jacs.7b06382?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2017, *139*, 12125−12128.
+
+(3) Fan, W.; Yuan, S.; Wang, W.; Feng, L.; Liu, X.; Zhang, X.; Wang, X.; Kang, Z.; Dai, F.; Yuan, D.; Sun, D.; Zhou, H.-C. [Optimizing](https://doi.org/10.1021/jacs.0c00805?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Multivariate Metal−Organic [Frameworks](https://doi.org/10.1021/jacs.0c00805?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) for Efficient C2H2/CO2 [Separation.](https://doi.org/10.1021/jacs.0c00805?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2020, *142*, 8728−8737.
+
+(4) Xing, S.; Liang, J.; Brandt, P.; Schäfer, F.; Nuhnen, A.; Heinen, T.; Boldog, I.; Möllmer, J.; Lange, M.; Weingart, O.; Janiak, C. [Capture](https://doi.org/10.1002/anie.202105229) and Separation of SO2 Traces in Metal−Organic [Frameworks](https://doi.org/10.1002/anie.202105229) via Pre-Synthetic Pore [Environment](https://doi.org/10.1002/anie.202105229) Tailoring by Methyl Groups. *Angew. Chem., Int. Ed.* 2021, *60*, 17998−18005.
+
+(5) Woellner, M.; Hausdorf, S.; Klein, N.; Mueller, P.; Smith, M. W.; Kaskel, S. [Adsorption](https://doi.org/10.1002/adma.201704679) and Detection of Hazardous Trace Gases by Metal−Organic [Frameworks.](https://doi.org/10.1002/adma.201704679) *Adv. Mater.* 2018, *30*, 1704679.
+
+(6) Islamoglu, T.; Chen, Z.; Wasson, M. C.; Buru, C. T.; Kirlikovali, K. O.; Afrin, U.; Mian, M. R.; Farha, O. K. Metal−Organic [Frameworks](https://doi.org/10.1021/acs.chemrev.9b00828?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) against Toxic [Chemicals.](https://doi.org/10.1021/acs.chemrev.9b00828?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Chem. Rev.* 2020, *120*, 8130−8160.
+
+(7) Wang, Q.-Y.; Sun, Z.-B.; Zhang, M.; Zhao, S.-N.; Luo, P.; Gong, C.-H.; Liu, W.-X.; Zang, S.-Q. [Cooperative](https://doi.org/10.1021/jacs.2c05176?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Catalysis between Dual Copper Centers in a Metal−Organic [Framework](https://doi.org/10.1021/jacs.2c05176?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) for Efficient [Detoxification](https://doi.org/10.1021/jacs.2c05176?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of Chemical Warfare Agent Simulants. *J. Am. Chem. Soc.* 2022, *144*, 21046−21055.
+
+(8) Hou, Y.; An, H.; Zhang, Y.; Hu, T.; Yang, W.; Chang, S. [Rapid](https://doi.org/10.1021/acscatal.8b00972?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) [Destruction](https://doi.org/10.1021/acscatal.8b00972?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of Two Types of Chemical Warfare Agent Simulants by Hybrid [Polyoxomolybdates](https://doi.org/10.1021/acscatal.8b00972?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Modified by Carboxylic Acid Ligands. *ACS Catal.* 2018, *8*, 6062−6069.
+
+(9) Lee, G.; Oh, S.; Oh, M. Enhanced early-stage [adsorption](https://doi.org/10.1002/bkcs.12794) of chemical warfare agent simulant by [MIL-68-\(X%OH\).](https://doi.org/10.1002/bkcs.12794) *Bull. Korean Chem. Soc.* 2024, *45*, 67−73.
+
+(10) Wu, Y.; Wang, X.; Kirlikovali, K. O.; Gong, X.; Atilgan, A.; Ma, K.; Schweitzer, N. M.; Gianneschi, N. C.; Li, Z.; Zhang, X.; Farha, O. K. Catalytic Degradation of Polyethylene [Terephthalate](https://doi.org/10.1002/anie.202117528) Using a Phase-Transitional [Zirconium-Based](https://doi.org/10.1002/anie.202117528) Metal−Organic Framework. *Angew. Chem., Int. Ed.* 2022, *61*, No. e202117528.
+
+(11) Zhang, T.; Manna, K.; Lin, W. Metal−Organic [Frameworks](https://doi.org/10.1021/jacs.6b00849?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Stabilize [Solution-Inaccessible](https://doi.org/10.1021/jacs.6b00849?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Cobalt Catalysts for Highly Efficient Broad-Scope Organic [Transformations.](https://doi.org/10.1021/jacs.6b00849?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2016, *138*, 3241−3249.
+
+(12) Yoon, H.; Lee, S.; Oh, S.; Park, H.; Choi, S.; Oh, M. [Synthesis](https://doi.org/10.1002/smll.201805232) of Bimetallic Conductive 2D Metal−Organic Framework [\(CoxNiy-CAT\)](https://doi.org/10.1002/smll.201805232) and Its Mass Production: Enhanced [Electrochemical](https://doi.org/10.1002/smll.201805232) Oxygen [Reduction](https://doi.org/10.1002/smll.201805232) Activity. *Small* 2019, *15*, No. e1805232.
+
+(13) Haddad, S.; Abánades Lázaro, I.; Fantham, M.; Mishra, A.; Silvestre-Albero, J.; Osterrieth, J. W. M.; Kaminski Schierle, G. S.; Kaminski, C. F.; Forgan, R. S.; Fairen-Jimenez, D. [Design](https://doi.org/10.1021/jacs.0c00188?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of a [Functionalized](https://doi.org/10.1021/jacs.0c00188?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic Framework System for Enhanced Targeted Delivery to [Mitochondria.](https://doi.org/10.1021/jacs.0c00188?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2020, *142*, 6661−6674.
+
+(14) Suresh, K.; Matzger, A. J. Enhanced Drug Delivery by [Dissolution](https://doi.org/10.1002/anie.201907652) of Amorphous Drug [Encapsulated](https://doi.org/10.1002/anie.201907652) in a Water Unstable Metal−Organic [Framework](https://doi.org/10.1002/anie.201907652) (MOF). *Angew. Chem., Int. Ed.* 2019, *58*, 16790−16794.
+
+(15) Idrees, K. B.; Kirlikovali, K. O.; Setter, C.; Xie, H.; Brand, H.; Lal, B.; Sha, F.; Smoljan, C. S.; Wang, X.; Islamoglu, T.; Macreadie, L. K.; Farha, O. K. Robust [Carborane-Based](https://doi.org/10.1021/jacs.3c04641?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic Frameworks for Hexane [Separation.](https://doi.org/10.1021/jacs.3c04641?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2023, *145*, 23433−23441.
+
+(16) Yan, Y.; Jurícek, ̌ M.; Coudert, F.-X.; Vermeulen, N. A.; Grunder, S.; Dailly, A.; Lewis, W.; Blake, A. J.; Stoddart, J. F.; Schröder, M. [Non-](https://doi.org/10.1021/jacs.5b12312?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as)[Interpenetrated](https://doi.org/10.1021/jacs.5b12312?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic Frameworks Based on Copper(II) Paddlewheel and [Oligoparaxylene-Isophthalate](https://doi.org/10.1021/jacs.5b12312?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Linkers: Synthesis, Structure, and Gas [Adsorption.](https://doi.org/10.1021/jacs.5b12312?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2016, *138*, 3371− 3381.
+
+(17) Peng, S.; Bie, B.; Sun, Y.; Liu, M.; Cong, H.; Zhou, W.; Xia, Y.; Tang, H.; Deng, H.; Zhou, X. [Metal-organic](https://doi.org/10.1038/s41467-018-03650-w) frameworks for precise inclusion of [single-stranded](https://doi.org/10.1038/s41467-018-03650-w) DNA and transfection in immune cells. *Nat. Commun.* 2018, *9*, 1293.
+
+(18) Fang, Z.; Bueken, B.; De Vos, D. E.; Fischer, R. A. [Defect-](https://doi.org/10.1002/anie.201411540)Engineered Metal−Organic [Frameworks.](https://doi.org/10.1002/anie.201411540) *Angew. Chem., Int. Ed.* 2015, *54*, 7234−7254.
+
+(19) Lim, J.; Lee, S.; Ha, H.; Seong, J.; Jeong, S.; Kim, M.; Baek, S. B.; Lah, M. S. [Amine-Tagged](https://doi.org/10.1002/anie.202100456) Fragmented Ligand Installation for Covalent
+
+[Modification](https://doi.org/10.1002/anie.202100456) of MOF-74. *Angew. Chem., Int. Ed.* 2021, *60*, 9296−9300. (20) Jun, H.; Oh, S.; Lee, G.; Oh, M. [Enhanced](https://doi.org/10.1038/s41598-022-18932-z) catalytic activity of MOF-74 via providing additional open metal sites for [cyanosilylation](https://doi.org/10.1038/s41598-022-18932-z) of [aldehydes.](https://doi.org/10.1038/s41598-022-18932-z) *Sci. Rep.* 2022, *12*, 14735.
+
+(21) Chetry, S.; Lukman, M. F.; Bon, V.; Warias, R.; Fuhrmann, D.; Möllmer, J.; Belder, D.; Gopinath, C. S.; Kaskel, S.; Pöppl, A.; Krautscheid, H. Exploring [Defect-Engineered](https://doi.org/10.1021/acs.inorgchem.4c01589?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic Frameworks with [1,2,4-Triazolyl](https://doi.org/10.1021/acs.inorgchem.4c01589?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Isophthalate and Benzoate Linkers. *Inorg. Chem.* 2024, *63*, 10843−10853.
+
+(22) Dai, S.; Simms, C.; Patriarche, G.; Daturi, M.; Tissot, A.; Parac-Vogt, T. N.; Serre, C. Highly defective ultra-small [tetravalent](https://doi.org/10.1038/s41467-024-47426-x) MOF [nanocrystals.](https://doi.org/10.1038/s41467-024-47426-x) *Nat. Commun.* 2024, *15*, 3434.
+
+<span id="page-9-0"></span>(23) Taddei, M.; Wakeham, R. J.; Koutsianos, A.; Andreoli, E.; Barron, A. R. Post-Synthetic Ligand Exchange in [Zirconium-Based](https://doi.org/10.1002/anie.201806910) Metal− Organic [Frameworks:](https://doi.org/10.1002/anie.201806910) Beware of The Defects. *Angew. Chem., Int. Ed.* 2018, *57*, 11706−11710.
+
+(24) Feng, X.; Jena, H. S.; Krishnaraj,C.; Arenas-Esteban, D.; Leus, K.; Wang, G.; Sun, J.; Rüscher, M.; Timoshenko, J.; Roldan Cuenya, B.; Bals, S.; Voort, P. V. D. Creation of [Exclusive](https://doi.org/10.1021/jacs.1c05357?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Artificial Cluster Defects by Selective Metal Removal in the (Zn, Zr) [Mixed-Metal](https://doi.org/10.1021/jacs.1c05357?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) UiO-66. *J. Am. Chem. Soc.* 2021, *143*, 21511−21518.
+
+(25) Schneemann, A.; Bon, V.; Schwedler, I.; Senkovska, I.; Kaskel, S.; Fischer, R. A. Flexible metal−organic [frameworks.](https://doi.org/10.1039/C4CS00101J) *Chem. Soc. Rev.* 2014, *43*, 6062−6096.
+
+(26) Yang, F.; Xu, G.; Dou, Y.; Wang, B.; Zhang, H.; Wu, H.; Zhou, W.; Li, J.-R.; Chen, B. A flexible metal−organic [framework](https://doi.org/10.1038/s41560-017-0018-7) with a high density ofsulfonic acid sitesfor proton [conduction.](https://doi.org/10.1038/s41560-017-0018-7) *Nat. Energy* 2017, *2*, 877−883.
+
+(27) Bonneau, M.; Lavenn, C.; Zheng, J.-J.; Legrand, A.; Ogawa, T.; Sugimoto, K.; Coudert, F.-X.; Reau, R.; Sakaki, S.; Otake, K.-i.; Kitagawa, S. Tunable acetylene sorption by flexible [catenated](https://doi.org/10.1038/s41557-022-00928-x) metal− organic [frameworks.](https://doi.org/10.1038/s41557-022-00928-x) *Nat. Chem.* 2022, *14*, 816−822.
+
+(28) Horcajada, P.; Salles, F.; Wuttke, S.; Devic, T.; Heurtaux, D.; Maurin, G.; Vimont, A.; Daturi, M.; David, O.; Magnier, E.; Stock, N.; Filinchuk, Y.; Popov, D.; Riekel, C.; Férey, G.; Serre, C. How [Linker's](https://doi.org/10.1021/ja206936e?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) [Modification](https://doi.org/10.1021/ja206936e?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Controls Swelling Properties of Highly Flexible Iron(III) [Dicarboxylates](https://doi.org/10.1021/ja206936e?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) MIL-88. *J. Am. Chem. Soc.* 2011, *133*, 17839−17847.
+
+(29) Ramsahye, N. A.; Trung, T. K.; Scott, L.; Nouar, F.; Devic, T.; Horcajada, P.; Magnier, E.; David, O.; Serre, C.; Trens, P. [Impact](https://doi.org/10.1021/cm303830b?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of the Flexible Character of MIL-88 Iron(III) [Dicarboxylates](https://doi.org/10.1021/cm303830b?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) on the [Adsorption](https://doi.org/10.1021/cm303830b?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of *n*-Alkanes. *Chem. Mater.* 2013, *25*, 479−488.
+
+(30) Lee, G.; Lee, S.; Oh, S.; Kim, D.; Oh, M. [Tip-To-Middle](https://doi.org/10.1021/jacs.9b12193?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Anisotropic [MOF-On-MOF](https://doi.org/10.1021/jacs.9b12193?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Growth with a Structural Adjustment. *J. Am. Chem. Soc.* 2020, *142*, 3042−3049.
+
+(31) McKinlay, A. C.; Eubank, J. F.; Wuttke, S.; Xiao, B.; Wheatley, P. S.; Bazin, P.; Lavalley, J.-C.; Daturi, M.; Vimont, A.; De Weireld, G.; Horcajada, P.; Serre, C.; Morris, R. E. Nitric Oxide [Adsorption](https://doi.org/10.1021/cm304037x?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) and Delivery in Flexible MIL-88(Fe) Metal−Organic [Frameworks.](https://doi.org/10.1021/cm304037x?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Chem. Mater.* 2013, *25*, 1592−1599.
+
+(32) Lee, S.; Lee, G.; Oh, M. Induced [Production](https://doi.org/10.1002/smll.202303580) of Atypical Naturally [Nonpreferred](https://doi.org/10.1002/smll.202303580) Metal−Organic Frameworks and Their Detachment via Provoking [Post-Mismatching.](https://doi.org/10.1002/smll.202303580) *Small* 2023, *19*, 2303580.
+
+(33) Walker, A. M.; Civalleri, B.; Slater, B.; Mellot-Draznieks, C.; Cora,̀F.; Zicovich-Wilson, C. M.; Román-Pérez, G.; Soler, J. M.; Gale, J. D. Flexibility in a Metal−Organic [Framework](https://doi.org/10.1002/anie.201002413) Material Controlled by Weak Dispersion Forces: The Bistability of [MIL-53\(Al\).](https://doi.org/10.1002/anie.201002413) *Angew. Chem., Int. Ed.* 2010, *49*, 7501−7503.
+
+(34) Horcajada, P.; Serre, C.; Maurin, G.; Ramsahye, N. A.; Balas, F.; Vallet-Regí, M.; Sebban, M.; Taulelle, F.; Férey, G. [Flexible](https://doi.org/10.1021/ja710973k?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Porous [Metal-Organic](https://doi.org/10.1021/ja710973k?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Frameworks for a Controlled Drug Delivery. *J. Am. Chem. Soc.* 2008, *130*, 6774−6780.
+
+(35) Ghoufi, A.; Benhamed, K.; Boukli-Hacene, L.; Maurin, G. Electrically Induced Breathing of the [MIL-53\(Cr\)](https://doi.org/10.1021/acscentsci.6b00392?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic [Framework.](https://doi.org/10.1021/acscentsci.6b00392?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *ACS Cent. Sci.* 2017, *3*, 394−398.
+
+(36) Momma, K.; Izumi, F. *VESTA 3* for [three-dimensional](https://doi.org/10.1107/S0021889811038970) [visualization](https://doi.org/10.1107/S0021889811038970) of crystal, volumetric and morphology data. *J. Appl. Crystallogr.* 2011, *44*, 1272−1276.
+
+(37) Senkovska, I.; Hoffmann, F.; Fröba, M.; Getzschmann, J.; Böhlmann, W.; Kaskel, S. New highly porous [aluminium](https://doi.org/10.1016/j.micromeso.2009.02.020) based metalorganic frameworks: Al(OH)(ndc) (ndc = [2,6-naphthalene](https://doi.org/10.1016/j.micromeso.2009.02.020) dicarboxylate) and [Al\(OH\)\(bpdc\)](https://doi.org/10.1016/j.micromeso.2009.02.020) (bpdc = 4,4′-biphenyl dicarboxylate). *Microporous Mesoporous Mater.* 2009, *122*, 93−98.
+
+(38) Volkringer, C.; Meddouri, M.; Loiseau, T.; Guillou, N.; Marrot, J.; Férey, G.; Haouas, M.; Taulelle, F.; Audebrand, N.; Latroche, M. [The](https://doi.org/10.1021/ic801624v?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Kagomé Topology of the Gallium and Indium [Metal-Organic](https://doi.org/10.1021/ic801624v?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) [Framework](https://doi.org/10.1021/ic801624v?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Types with a MIL-68 Structure: Synthesis, XRD, Solid-State NMR [Characterizations,](https://doi.org/10.1021/ic801624v?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) and Hydrogen Adsorption. *Inorg. Chem.* 2008, *47*, 11892−11901.
+
+(39) Wieme, J.; Lejaeghere, K.; Kresse, G.; Van Speybroeck, V. [Tuning](https://doi.org/10.1038/s41467-018-07298-4) the balance between dispersion and entropy to design [temperature-](https://doi.org/10.1038/s41467-018-07298-4) responsive flexible [metal-organic](https://doi.org/10.1038/s41467-018-07298-4) frameworks. *Nat. Commun.* 2018, *9*, 4899.
+
+(40) Bennett, T. D.; Cheetham, A. K.; Fuchs, A. H.; Coudert, F.-X. Interplay between defects, disorder and flexibility in [metal-organic](https://doi.org/10.1038/nchem.2691) [frameworks.](https://doi.org/10.1038/nchem.2691) *Nat. Chem.* 2017, *9*, 11−16.
+
+(41) Coudert, F.-X.; Boutin, A.; Fuchs, A. H. A [thermodynamic](https://doi.org/10.1080/00268976.2014.889325) description of the [adsorption-induced](https://doi.org/10.1080/00268976.2014.889325) structural transitions in flexible MIL-53 [metal-organic](https://doi.org/10.1080/00268976.2014.889325) framework. *Mol. Phys.* 2014, *112*, 1257−1261.
+
+(42) Hadjiivanov, K. I.; Panayotov, D. A.; Mihaylov, M. Y.; Ivanova, E. Z.; Chakarova, K. K.; Andonova, S. M.; Drenchev, N. L. [Power](https://doi.org/10.1021/acs.chemrev.0c00487?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of Infrared and Raman [Spectroscopies](https://doi.org/10.1021/acs.chemrev.0c00487?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) to Characterize Metal-Organic [Frameworks](https://doi.org/10.1021/acs.chemrev.0c00487?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) and Investigate Their Interaction with Guest Molecules. *Chem. Rev.* 2021, *121*, 1286−1424.
+
+(43) Bose, S.; Sengupta, D.; Rayder, T. M.; Wang, X.; Kirlikovali, K. O.; Sekizkardes, A. K.; Islamoglu, T.; Farha, O. K. [Challenges](https://doi.org/10.1002/adfm.202307478) and [Opportunities:](https://doi.org/10.1002/adfm.202307478) Metal−Organic Frameworks for Direct Air Capture. *Adv. Funct. Mater.* 2024, *34*, 2307478.
+
+(44) Yu, J.; Xie, L.-H.; Li, J.-R.; Ma, Y.; Seminario, J. M.; Balbuena, P. B. CO2 Capture and Separations Using MOFs: [Computational](https://doi.org/10.1021/acs.chemrev.6b00626?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) and [Experimental](https://doi.org/10.1021/acs.chemrev.6b00626?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Studies. *Chem. Rev.* 2017, *117*, 9674−9754.
+
+(45) Kong, X.; Scott, E.; Ding, W.; Mason, J. A.; Long, J. R.; Reimer, J. A. CO2 Dynamics in a Metal−Organic [Framework](https://doi.org/10.1021/ja306822p?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) with Open Metal [Sites.](https://doi.org/10.1021/ja306822p?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2012, *134*, 14341−14344.
+
+(46) Ramsahye, N. A.; Trung, T. K.; Bourrelly, S.; Yang, Q.; Devic, T.; Maurin, G.; Horcajada, P.; Llewellyn, P. L.; Yot, P.; Serre, C.; Filinchuk, Y.; Fajula, F.; Férey, G.; Trens, P. [Influence](https://doi.org/10.1021/jp205369t?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of the Organic Ligand [Functionalization](https://doi.org/10.1021/jp205369t?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) on the Breathing of the Porous Iron Terephthalate Metal Organic Framework Type Material upon [Hydrocarbon](https://doi.org/10.1021/jp205369t?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) [Adsorption.](https://doi.org/10.1021/jp205369t?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Phys. Chem. C* 2011, *115*, 18683−18695.
+
+(47) Luo, F.; Yan, C.; Dang, L.; Krishna, R.; Zhou, W.; Wu, H.; Dong, X.; Han, Y.; Hu, T.-L.; O'Keeffe, M.; Wang, L.; Luo, M.; Lin, R.-B.; Chen, B. [UTSA-74:](https://doi.org/10.1021/jacs.6b02030?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) A MOF-74 Isomer with Two Accessible Binding Sites per Metal Center for Highly Selective Gas [Separation.](https://doi.org/10.1021/jacs.6b02030?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2016, *138*, 5678−5684.
+
+(48) Niu, Z.; Cui, X.; Pham, T.; Verma, G.; Lan, P. C.; Shan, C.; Xing, H.; Forrest, K. A.; Suepaul, S.; Space, B.; Nafady, A.; Al-Enizi, A. M.; Ma, S. A MOF-based [Ultra-Strong](https://doi.org/10.1002/anie.202016225) Acetylene Nano-trap for Highly [EfficientC2H2/CO2](https://doi.org/10.1002/anie.202016225) Separation. *Angew. Chem., Int. Ed.* 2021, *60*, 5283− 5288.
+
+(49) Galli, S.; Maspero, A.; Giacobbe, C.; Palmisano, G.; Nardo, L.; Comotti, A.; Bassanetti, I.; Sozzani, P.; Masciocchi, N. [When](https://doi.org/10.1039/C4TA01798F) long [bis\(pyrazolates\)](https://doi.org/10.1039/C4TA01798F) meet late transition metals: structure, stability and adsorption of metal−organic [frameworks](https://doi.org/10.1039/C4TA01798F) featuring large parallel [channels.](https://doi.org/10.1039/C4TA01798F) *J. Mater. Chem. A* 2014, *2*, 12208−12221.**Supporting Information**
+
+## **Activating the Gate-Opening of a Metal–Organic Framework and**
+
+## **Maximizing Its Adsorption Capacity**
+
+Gihyun Lee, Dayeon Choi, and Moonhyun Oh\*
+
+Department of Chemistry, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul
+
+03722, Republic of Korea *Fax: (82) 2-364-7050 Phone: (82) 2-2123-5637 Email: [moh@yonsei.ac.kr](mailto:moh@yonsei.ac.kr)* *Materials and characterization:* All chemicals and solvents were purchased from commercial sources and used without modification or purification. Thermogravimetric analysis was acquired using a Shimadzu TGA-50 system under a N<sup>2</sup> atmosphere at a heating rate of 5°C min–1 to determine the amount of H2O in the metal source. Deionized water was obtained using a Millipore Direct-Q3 UV water purification system. Unless otherwise noted, all samples were pre-dried under vacuum at room temperature for 3 h, followed by dynamic vacuum pretreatment at 250C for 3 h to ensure identical experimental conditions prior to analysis. Scanning electron microscopy (SEM) images were obtained using a JEOL IT-500HR field-emission SEM and a JEOL JSM-7610F-Plus field-emission SEM. Powder X-ray diffraction (PXRD) patterns were obtained using a Rigaku MiniFlex 600 instrument equipped with Cu Kα radiation source (40 kV, 15 mV). MDI JADE 9.0 software (Materials Data Inc., Livermore, CA, USA) was used to calculate the cell parameters. Crystalmaker software (version 2.2.2) was used to render the schematic representation (ball-and-stick version) of the samples. The simulated structures of the samples were obtained from the Cambridge Crystallographic Data Center. For samples without available simulated structures, modifications were made using the calculated cell parameters in the VESTA software package. <sup>1</sup>H NMR spectra were recorded using a Bruker Avance III HD 300 spectrometer (<sup>1</sup>H NMR, 300 MHz) with acetic acid-*d*<sup>4</sup> and dimethyl sulfoxide (DMSO)-*d*6. Infrared (IR) spectra of the solid samples were measured utilizing a Jasco FT/IR 4200 spectrometer equipped with the attenuated total reflection module. The sorption isotherms of N<sup>2</sup> (77 K) were measured in the gaseous state using BELSORP Max and BELSORP II-mini volumetric adsorption equipment. The pore-size distribution was calculated using the non-local density functional theory method with BELMaster version 6.3.0.0 software. The sorption isotherms, heat of adsorption, and rate of adsorption of CO<sup>2</sup> (195 K, 273K, and 298K) were
+
+S2
+
+measured in the gaseous state using BELSORP Max with BELMaster version 7.4.1.1 software. Energy-dispersive X-ray spectroscopy (EDX) spectra were acquired using a Hitachi SU 1510 SEM device equipped with a Horiba EMAX Energy E-250 EDX system. 2-Chloroethyl ethyl sulfide (CEES) adsorption measurements were performed with a custom-made jar-in-jar setup. The kinetic parameters for CEES adsorption were determined using the nonlinear curve fitting program in OriginPro version 8.6 software.
+
+*Preparation of 4,4'-biphenyldicarboxylic acid (H2BPDC) solution:* A solution of H2BPDC was prepared by adding the required amount of H2BPDC powder to *N*,*N*-dimethylformamide (DMF) to achieve the desired concentration. The mixture was then sonicated to form a homogeneous mixture then heated in an oil bath at 120C for 30 min. When the solution became transparent, it was cooled to room temperature for further use.
+
+*Synthesis of In-MIL-53D:* A 0.055 M solution of In(NO3)3·*x*H2O (*x* = 3, determined by TGA; 156 mg, 0.44 mmol) and a 0.045 M solution of H2BPDC (87 mg, 0.36 mmol) were mixed in DMF (16 mL). The mixture was transferred to a 70 mL vial, placed in an oil bath, and heated at 120°C for 30 min. The product was then cooled to room temperature, isolated, and washed with fresh DMF and methanol using a centrifugation–redispersion cycle.
+
+*Synthesis of In-MIL-53D hybrids, Hybrid-X (X = 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, and 5):* In(NO3)3·*x*H2O (156 mg, 0.44 mmol), H2BPDC (0.36 × (1–*x*) mmol), and 1,4 benzenedicarboxylic acid (H2BDC; 0.36 × *x* mmol) were dissolved in DMF (16 mL) (where *x* = 0.02, 0.07, 0.12, 0.17, 0.22, 0.27, 0.32, 0.37, 0.42, and 0.47). The mixture was transferred to a 70 mL vial, placed in an oil bath, and heated at 120°C for 30 min. The product was cooled to room
+
+temperature, isolated, and washed with fresh DMF and methanol using a centrifugation– redispersion cycle.
+
+*Synthesis of In-MIL-68B:* A 0.055 M solution of In(NO3)3·*x*H2O (156 mg, 0.44 mmol) and a 0.045 M solution of H2BDC (60 mg, 0.36 mmol) were mixed in DMF (16 mL). The mixture was transferred to a 70 mL vial, placed in an oil bath, and heated at 120°C for 30 min. The product was cooled to room temperature, isolated, and washed with fresh DMF and methanol using a centrifugation–redispersion cycle.
+
+*Preparation of 2,6-naphthalenedicarboxylic acid (H2NDC) solution:* A solution of H2NDC was prepared by adding the required amount of H2NDC powder to DMF to achieve the desired concentration. The mixture was then sonicated to form a homogeneous mixture then heated in an oil bath at 120C for 5 min. When the solution became transparent, it was cooled to room temperature for further use.
+
+*Synthesis of Fe-MIL-88C:* A 0.055 M solution of Fe(NO3)3·9H2O (178 mg, 0.44 mmol) and a 0.045 M solution of H2NDC (78 mg, 0.36 mmol) were mixed in DMF (16 mL). The mixture was transferred to a 70 mL vial, placed in an oil bath, and heated at 120°C for 30 min. The product was then cooled to room temperature, isolated, and washed with fresh DMF and methanol using a centrifugation–redispersion cycle.
+
+*Synthesis of Fe-MIL-88C hybrid (X%) (X = 12%, and 26%):* Fe(NO3)3·9H2O (178 mg, 0.44 mmol), H2NDC (0.36 × (1–*x*) mmol), and H2BDC (0.36 × *x* mmol) were dissolved in DMF (16 mL) (where *x* = 0.17 and 0.37). The mixture was transferred to a 70 mL vial, placed in an oil
+
+bath, and heated at 120°C for 30 min. The product was cooled to room temperature, isolated, and washed with fresh DMF and methanol using a centrifugation–redispersion cycle.
+
+*Adsorption of CEES:* The adsorption of CEES was conducted at 23°C using a custom-made jarin-jar setup. For the experiments, In-MIL-53D and hybrid In-MIL-53D powders (2.0 mg) were placed in a ceramic crucible pan, while CEES (2.0 mL) was placed in a 5 mL beaker. The crucible pan and beaker were positioned inside a large jar, which was sealed with a lid. After exposure to CEES vapor for defined time intervals, the samples were dissolved in acetic acid-*d*<sup>4</sup> and DMSO-*d*<sup>6</sup> and analyzed by <sup>1</sup>H NMR spectroscopy to quantify the amount of CEES adsorbed by each sample.
+
+*Adsorption kinetics of Hybrid-X:* The adsorption of CEES was fitted to a pseudo-first-order model using the equation:
+
+$$
+q_t = q_s(1 - e^{-kt}),
+$$
+
+where, *q<sup>e</sup>* is equilibrium adsorption capacity (mg g –1 ), *q<sup>t</sup>* is the adsorption capacity (mg g –1 ) at time *t*, and *k* is the pseudo-first-order rate constant (h–1 ).
+
+![](_page_5_Figure_0.jpeg)
+
+**Figure S1.** Whole pattern fitting of In-MIL-53D soaked in DMF (never dried). The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of In-MIL-53D soaked in DMF (never dried) calculated using MDI Jade 9.0 software were *a* = 22.07 Å , *b* = 21.17 Å , *c* = 7.14 Å , and *α* = *β* = *γ* = 90°.
+
+![](_page_6_Figure_0.jpeg)
+
+**Figure S2.** Whole pattern fitting of In-MIL-53D dried at 250C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of In-MIL-53D dried at dried at 250C for 3 h calculated using MDI Jade 9.0 software were *a* = 25.46 Å , *b* = 16.70 Å , *c* = 7.11 Å , and *α* = *β* = *γ* = 90°.
+
+![](_page_7_Figure_0.jpeg)
+
+**Figure S3.** IR spectra of In-MIL-53D, Hybrid-1, Hybrid-2, Hybrid-3, Hybrid-4, and Hybrid-5.
+
+![](_page_8_Figure_0.jpeg)
+
+**Figure S4.** (a) SEM image of In-MIL-68B dried at 250C for 3 h. (b) PXRD patterns of simulated In-MIL-68B and In-MIL-68B dried at 250C for 3 h.
+
+![](_page_9_Figure_0.jpeg)
+
+**Figure S5.** Whole pattern fitting of Hybrid-1 dried at 250C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of Hybrid-1 dried at 250C for 3 h calculated using MDI Jade 9.0 software were *a* = 26.08 Å , *b* = 16.46 Å , *c* = 7.17 Å , and *α* = *β* = *γ* = 90°.
+
+![](_page_10_Figure_0.jpeg)
+
+**Figure S6.** Whole pattern fitting of Hybrid-2 dried at 250C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of Hybrid-2 dried at 250C for 3 h calculated using MDI Jade 9.0 software were *a* = 26.02 Å , *b* = 16.49 Å , *c* = 7.21 Å , and *α* = *β* = *γ* = 90°.
+
+![](_page_11_Figure_0.jpeg)
+
+**Figure S7.** Adsorption of CO<sup>2</sup> on (a) In-MIL-53D and (b) Hybrid-4 at 195 K. Filled symbols correspond to the sorption isotherms, while the cross symbols correspond to the equilibration time for each data point of the sorption isotherm.
+
+![](_page_12_Figure_0.jpeg)
+
+**Figure S8.** The isosteric heat of adsorption (*Q*st) for CO<sup>2</sup> of (a) In-MIL-53D and (b) Hybrid-4.
+
+![](_page_13_Figure_0.jpeg)
+
+**Figure S9.** SEM images of (a) Hybrid-0.5, (b) Hybrid-1.5, (c) Hybrid-2.5, (d) Hybrid-3.5, and (e) Hybrid-4.5. (f) PXRD patterns of a series of defect-containing In-MIL-53D hybrids.
+
+![](_page_14_Figure_0.jpeg)
+
+**Figure S10.** Whole pattern fitting of Hybrid-0.5 dried at 250C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of Hybrid-0.5 dried at 250C for 3 h calculated using MDI Jade 9.0 software were *a* = 26.14 Å , *b* = 16.50 Å , *c* = 7.22 Å , and *α* = *β* = *γ* = 90°.
+
+![](_page_15_Figure_0.jpeg)
+
+**Figure S11.** Whole pattern fitting of Hybrid-1.5 dried at 250C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of Hybrid-1.5 dried at 250C for 3 h calculated using MDI Jade 9.0 software were *a* = 26.12 Å , *b* = 16.50 Å , *c* = 7.23 Å , and *α* = *β* = *γ* = 90°.
+
+![](_page_16_Figure_0.jpeg)
+
+**Figure S12.** Whole pattern fitting of Hybrid-2.5 dried at 250C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of Hybrid-2.5 dried at 250C for 3 h calculated using MDI Jade 9.0 software were *a* = 25.11 Å , *b* = 16.84 Å , *c* = 7.06 Å , and *α* = *β* = *γ* = 90°.
+
+![](_page_17_Figure_0.jpeg)
+
+**Figure S13.** SEM images of (a) Fe-MIL-88C, (b) Fe-MIL-88C hybrid (12%), and (c) Fe-MIL-88C hybrid (26%). (d) PXRD patterns and (e) N<sup>2</sup> sorption isotherms of Fe-MIL-88C and Fe-MIL-88C hybrids.
+
+![](_page_18_Figure_0.jpeg)
+
+**Figure S14.** Whole pattern fitting of Fe-MIL-88C dried at 150˚C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of Fe-MIL-88C dried at 150˚C for 3 h calculated using MDI Jade 9.0 software were *a* = *b* = 9.63 Å , *c* = 23.71 Å , *α* = *β* = 90°, and *γ* = 120°.
+
+![](_page_19_Figure_0.jpeg)
+
+**Figure S15.** Whole pattern fitting of Fe-MIL-88C hybrid (12%) dried at 150˚C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of Fe-MIL-88C hybrid (12%) dried at 150˚C for 3 h calculated using MDI Jade 9.0 software were *a* = *b* = 9.63 Å , *c* = 23.17 Å , *α* = *β* = 90°, and *γ* = 120°.
+
+![](_page_20_Figure_0.jpeg)
+
+**Figure S16.** Whole pattern fitting of Fe-MIL-88C hybrid (26%) dried at 150˚C for 3 h. The black line is the experimental PXRD pattern and the red line is the calculated PXRD pattern. The top blue line indicates the deviation between the experimental and calculated PXRD patterns. The unit cell parameters of Fe-MIL-88C hybrid (26%) dried at 150˚C for 3 h calculated using MDI Jade 9.0 software were *a* = *b* = 9.66 Å , *c* = 21.98 Å , *α* = *β* = 90°, and *γ* = 120°.
+
+![](_page_21_Figure_0.jpeg)
+
+**Figure S17.** EDX spectra of (a) In-MIL-53D, (b) Hybrid-1, (c) Hybrid-2, (d) Hybrid-3, (e) Hybrid-4, and (f) Hybrid-5.
+
+![](_page_22_Figure_0.jpeg)
+
+**Figure S18.** EDX spectra of (a) In-MIL-53D, (b) Hybrid-1, (c) Hybrid-2, (d) Hybrid-3, (e) Hybrid-4, and (f) Hybrid-5 measured after exposure to CEES vapors for 240 min.
+
+**Table S1.** Ratios of the H2BPDC and H2BDC linkers used in the solvothermal reaction of In-MIL-53D and the series of defect-containing In-MIL-53D hybrids and ratios of the incorporated BPDC2– and HBDC– , as determined by analyzing the <sup>1</sup>H NMR spectra of the samples.
+
+| Used ratio (%) |       | Averageda<br>incorporated ratio (%) |       |
+|----------------|-------|-------------------------------------|-------|
+| H2BPDC         | H2BDC | BPDC2–                              | HBDC– |
+| 100            | 0     | 100                                 | 0     |
+| 98             | 2     | 95                                  | 5     |
+| 93             | 7     | 90                                  | 10    |
+| 88             | 12    | 85                                  | 15    |
+| 83             | 17    | 80                                  | 20    |
+| 78             | 22    | 75                                  | 25    |
+| 73             | 27    | 70                                  | 30    |
+| 68             | 32    | 64                                  | 36    |
+| 63             | 37    | 61                                  | 39    |
+| 58             | 42    | 55                                  | 45    |
+| 53             | 47    | 50                                  | 50    |
+|                |       |                                     |       |
+
+*<sup>a</sup>*Averaged incorporated ratio (%) is based on four independent experiments.
+
+| MOF        | Uptake                                  | [m2<br>-1<br>as,BET<br>g<br>] | Total pore volume                      |
+|------------|-----------------------------------------|-------------------------------|----------------------------------------|
+|            | [cm3<br>-1<br>(P/P0<br>= 1.0)<br>g<br>] |                               | = 0.990) [cm3<br>-1<br>(P/P0<br>g<br>] |
+| In-MIL-53D | 62.6                                    | 77.7                          | 0.097                                  |
+| Hybrid-0.5 | 59.4                                    | 124.4                         | 0.091                                  |
+| Hybrid-1   | 88.4                                    | 196.2                         | 0.134                                  |
+| Hybrid-1.5 | 155.1                                   | 467.4                         | 0.238                                  |
+| Hybrid-2   | 192.0                                   | 649.1                         | 0.295                                  |
+| Hybrid-2.5 | 280.6                                   | 776.2                         | 0.433                                  |
+| Hybrid-3   | 329.2                                   | 1033.7                        | 0.509                                  |
+| Hybrid-3.5 | 427.1                                   | 1373.9                        | 0.657                                  |
+| Hybrid-4   | 484.1                                   | 1680.2                        | 0.747                                  |
+| Hybrid-4.5 | 483.4                                   | 1651.2                        | 0.746                                  |
+| Hybrid-5   | 459.8                                   | 1534.8                        | 0.710                                  |
+
+**Table S2.** Maximum N<sup>2</sup> uptake capacities, Brunauer–Emmett–Teller (BET) surface areas, and total pore volumes of In-MIL-53D and the series of defect-containing In-MIL-53D hybrids.
+
+| MOF        | [cm3<br>-1<br>Uptake<br>(P/P0<br>= 1.0)<br>g<br>] |
+|------------|---------------------------------------------------|
+| In-MIL-53D | 32.1                                              |
+| Hybrid-1   | 58.8                                              |
+| Hybrid-2   | 134.3                                             |
+| Hybrid-3   | 220.9                                             |
+| Hybrid-4   | 351.5                                             |
+| Hybrid-5   | 302.6                                             |
+
+**Table S3.** Maximum CO<sup>2</sup> uptake capacities of In-MIL-53D and the series of defect-containing In-MIL-53D hybrids at 1 atm and 195 K.
+
+| MOF           | = 1.0) [cm3<br>-1<br>Uptake (P/P0<br>g<br>] | Reference |
+|---------------|---------------------------------------------|-----------|
+| Fe2(BPEB)3    | 300                                         | 1         |
+| SNU-M11       | 124                                         | 2         |
+| CPM-107       | 206                                         | 3         |
+| Qc-5-Cu-sql-β | 59                                          | 4         |
+| DZU-211       | 222                                         | 5         |
+| JUK-8         | 144                                         | 6         |
+| NTU-67        | 91                                          | 7         |
+| 1apohost      | 157                                         | 8         |
+| Fe2(BDP)3     | 298                                         | 9         |
+| Fe-PF1        | 343                                         | 10        |
+| X-dia-1-Ni    | 325                                         | 11        |
+| sql-1-Co-NCS  | 136                                         | 12        |
+| Zn-DPNA       | 64                                          | 13        |
+| DUT-8(Ni)     | 590                                         | 14        |
+| CAU-10-CH3    | 88                                          | 15        |
+| Zn(dcpa)      | 241                                         | 16        |
+| CoPzNi        | 140                                         | 17        |
+| Co-MOF-β      | 173                                         | 18        |
+| 1-O2          | 75                                          | 19        |
+| MOF 1         | 156                                         | 20        |
+| JUK-13-SO3H   | 181                                         | 21        |
+| MOF-NDC       | 203                                         | 22        |
+| mot-5,6-Zn-β  | 145                                         | 23        |
+| Zn(hia)(bphy) | 82                                          | 24        |
+| FJI-H14       | 279                                         | 25        |
+| JLU-Liu3      | 337                                         | 26        |
+| X-pcu-7-Zn    | 267                                         | 27        |
+| Cd-MOF        | 130                                         | 28        |
+| MIL-68        | 333                                         | 29        |
+| Hybrid-4      | 352                                         | This work |
+
+**Table S4.** Comparison of maximum CO<sup>2</sup> uptake capacities of MOFs at 1 atm and 195 K.
+
+| Table S5.<br>Unit cell parameters of Fe-MIL-88C<br>and<br>Fe-MIL-88C<br>hybrids.<br>Unit cell parameters |
+|----------------------------------------------------------------------------------------------------------|
+| were calculated by whole pattern fitting using MDI Jade 9.0 software. All<br>samples were dried at       |
+| 150°C for 3 h<br>under vacuum before analyzing.                                                          |
+
+| MOF                           | Cell parameters     |           |  |
+|-------------------------------|---------------------|-----------|--|
+|                               | a<br>=<br>b<br>(Å ) | c<br>(Å ) |  |
+| Fe-MIL-88C                    | 9.63                | 23.71     |  |
+| Fe-MIL-88C<br>hybrid<br>(12%) | 9.63                | 23.17     |  |
+| Fe-MIL-88C<br>hybrid<br>(26%) | 9.66                | 21.98     |  |
+
+| MOF        | molCEES/molMOF |        |        |         |         |         |
+|------------|----------------|--------|--------|---------|---------|---------|
+|            | 15 min         | 30 min | 60 min | 120 min | 180 min | 240 min |
+| In-MIL-53D | 0.03           | 0.03   | 0.04   | 0.04    | 0.05    | 0.05    |
+| Hybrid-1   | 0.04           | 0.05   | 0.07   | 0.08    | 0.08    | 0.09    |
+| Hybrid-2   | 0.05           | 0.05   | 0.09   | 0.12    | 0.14    | 0.14    |
+| Hybrid-3   | 0.07           | 0.09   | 0.12   | 0.14    | 0.15    | 0.15    |
+| Hybrid-4   | 0.10           | 0.14   | 0.19   | 0.23    | 0.24    | 0.23    |
+| Hybrid-5   | 0.02           | 0.06   | 0.07   | 0.09    | 0.09    | 0.10    |
+
+**Table S6.** The average CEES adsorption capacity, expressed as the number of moles at different time points, based on three independent experiments.
+
+**Table S7.** Kinetic parameters of the pseudo-first-order model for the adsorption of CEES on In-MIL-53D and the series of defect-containing In-MIL-53D hybrids.
+
+| MOF        | qe<br>(mol/mol) | (h-1<br>k<br>) | 2<br>R |
+|------------|-----------------|----------------|--------|
+| In-MIL-53D | 0.05            | 0.06           | 0.95   |
+| Hybrid-1   | 0.08            | 0.04           | 0.99   |
+| Hybrid-2   | 0.14            | 0.02           | 0.99   |
+| Hybrid-3   | 0.15            | 0.03           | 0.97   |
+| Hybrid-4   | 0.23            | 0.03           | 0.99   |
+| Hybrid-5   | 0.10            | 0.02           | 0.99   |
+
+## **References**
+
+- 1. Galli, S.; Maspero, A.; Giacobbe, C.; Palmisano, G.; Nardo, L.; Comotti, A.; Bassanetti, I.; Sozzani, P.; Masciocchi, N. When long bis(pyrazolates) meet late transition metals: structure, stability and adsorption of metal–organic frameworks featuring large parallel channels. *J. Mater. Chem. A* **2014**, *2*, 12208−12221.
+- 2. Choi, H.-S.; Suh, M. P. Highly Selective CO<sup>2</sup> Capture in Flexible 3D Coordination Polymer Networks. *Angew. Chem.*, *Int. Ed.* **2009**, *48*, 6865−6869.
+- 3. Yang, H.; Trieu, T. X.; Zhao, X.; Wang, Y.; Wang, Y.; Feng, P.; Bu, X. Lock-and-Key and Shape-Memory Effects in an Unconventional Synthetic Path to Magnesium Metal– Organic Frameworks. *Angew. Chem., Int. Ed.* **2019**, *58*, 11757−11762.
+- 4. Chen, K.-J.; Madden, D. G.; Pham, T.; Forrest, K. A.; Kumar, A.; Yang, Q.-Y.; Xue, W.; Space, B.; Perry IV, J. J.; Zhang, J.-P.; Chen, X.-M.; Zaworotko, M. J. Tuning Pore Size in Square-Lattice Coordination Networks for Size-Selective Sieving of CO2. *Angew. Chem., Int. Ed.* **2016**, *55*, 10268−10272.
+- 5. Zhang, D.-S.; Zhang, Z.-W.; Li, F.-C.; Huang, H.; Hu, H.; Zhang, Y.-Z.; Geng, L.; Wei, R.; Zhang, X.; Li, W.; Li, Y.-W. Construction of Coordination Spaces with Narrow Pore Windows in Co-Based Metal–Organic Frameworks toward CO2/N<sup>2</sup> Separation. *Inorg. Chem.* **2024**, *63*, 15915−15923.
+- 6. Roztocki, K.; Rauche, M.; Bon, V.; Kaskel, S.; Brunner, E.; Matoga, D. Combining *In Situ* Techniques (XRD, IR, and <sup>13</sup>C NMR) and Gas Adsorption Measurements Reveals CO2-Induced Structural Transitions and High CO2/CH<sup>4</sup> Selectivity for a Flexible Metal– Organic Framework JUK-8. *ACS Appl. Mater. Interfaces* **2021**, *13*, 28503−28513.
+- 7. Dong, Q.; Huang, Y.; Hyeon-Deuk, K.; Chang, I.-Y.; Wan, J.; Chen, C.; Duan, J.; Jin, W.; Kitagawa, S. Shape- and Size-Dependent Kinetic Ethylene Sieving from a Ternary Mixture by a Trap-and-Flow Channel Crystal. *Adv. Funct. Mater.* **2022**, *32*, 2203745.
+- 8. Nikolayenko, V. I.; Castell, D. C.; Sensharma, D.; Shivanna, M.; Loots, L.; Forrest, K. A.; Solanilla-Salinas, C. J.; Otake, K.-i.; Kitagawa, S.; Barbour, L. J.; Space, B.; Zaworotko, M. J. Reversible transformations between the non-porous phases of a flexible coordination network enabled by transient porosity. *Nat. Chem.* **2023**, *15*, 542−549.
+- 9. Vismara, R.; Terruzzi, S.; Maspero, A.; Grell, T.; Bossola, F.; Sironi, A.; Galli, S.; Navarro, J. A. R.; Colombo, V. CO<sup>2</sup> Adsorption in a Robust Iron(III) Pyrazolate-Based MOF: Molecular-Level Details and Frameworks Dynamics From Powder X-ray Diffraction Adsorption Isotherms. *Adv. Mater.* **2024**, *36*, 2209907.
+- 10. Perego, J.; Bezuidenhout, C. X.; Pedrini, A.; Bracco, S.; Negroni, M.; Comotti, A.; Sozzani, P. Reorientable fluorinated aryl rings in triangular channel Fe-MOFs: an investigation on CO2–matrix interactions. *J. Mater. Chem. A* **2020**, *8*, 11406−11413.
+- 11. Yang, Q.-Y.; Lama, P.; Sen, S.; Lusi, M.; Chen, K.-J.; Gao, W.-Y.; Shivanna, M.; Pham, T.; Hosono, N.; Kusaka, S.; Perry IV, J. J.; Ma, S.; Space, B.; Barbour, L. J.; Kitagawa, S.; Zaworotko, M. J. Reversible Switching between Highly Porous and Nonporous Phases of an Interpenetrated Diamondoid Coordination Network That Exhibits Gate-Opening at Methane Storage Pressures. *Angew. Chem., Int. Ed.* **2018**, *57*, 5684−5689.
+- 12. Wang, S.-Q.; Yang, Q.-Y.; Mukherjee, S.; O'Nolan, D.; Patyk-Kaźmierczak, E.; Chen, K.-J.; Shivanna, M.; Murray, C.; Tang, C. C.; Zaworotko, M. J. Recyclable switching
+
+between nonporous and porous phases of a square lattice (sql) topology coordination network. *Chem. Commun.* **2018**, *54*, 7042−7045.
+
+- 13. Wang, W.; Wang, G.-D.; Zhang, B.; Li, X.-Y.; Hou, L.; Yang, Q.-Y.; Liu, B. Discriminatory Gate-Opening Effect in a Flexible Metal–Organic Framework for Inverse CO2/C2H<sup>2</sup> Separation. *Small* **2023**, *19*, 2302975.
+- 14. Klein, N.; Hoffmann, H. C.; Cadiau, A.; Getzschmann, J.; Lohe, M. R.; Paasch, S.; Heydenreich, T.; Adil, K.; Senkovska, I.; Brunner, E.; Kaskel, S. Structural flexibility and intrinsic dynamics in the M2(2,6-ndc)2(dabco) (M = Ni, Cu, Co, Zn) metal–organic frameworks. *J. Mater. Chem.* **2012**, *22*, 10303−10312.
+- 15. Yang, S.-Q.; Xing, B.; Wang, L.-L.; Zhou, L.; Zhang, F.-Y.; Li, Y.-L.; Hu, T.-L. Boosting Acetylene Packing Density within an Isoreticular Metal–Organic Framework for Efficient C2H2/CO<sup>2</sup> Separation. *Chem Bio Eng.* **2024**, *1*, 245−251.
+- 16. Liu, B.; Li, Y.; Hou, L.; Yang, G.; Wang, Y.-Y.; Shi, Q.-Z. Dynamic Zn-based metal– organic framework: stepwise adsorption, hysteretic desorption and selective carbon dioxide uptake. *J. Mater. Chem. A* **2013**, *1*, 6535−6538.
+- 17. Shivanna, M.; Otake, K.-i.; Zheng, J.-J.; Sakaki, S.; Kitagawa, S. Control of local flexibility towards *p*-xylene sieving in Hofmann-type porous coordination polymers. *Chem. Commun.* **2020**, *56*, 9632−9635.
+- 18. Wang, S.-S.; Liang, Y.-J.; Guo, W.; Yin, Y.; Li, X.-Y.; Xu, Q.-Q.; Zhu, A.-X.; Huang, B. A 2D flexible cobalt-MOF: reversible solid-state structural transformation, two-step and gate-opening adsorption behaviours, and selective adsorption of C2H<sup>2</sup> over CO<sup>2</sup> and CH4. *Dalton Trans.* **2023**, *52*, 8198−8203.
+- 19. Leszczyński, M. K.; Niepiekło, K.; Terlecki, M.; Justyniak, I.; Lewiński, J. Chromium(II)-isophthalate 2D MOF with Redox-Tailorable Gas Adsorption Selectivity. *ACS Appl. Mater. Interfaces* **2024**, *16*, 45100−45106.
+- 20. Zhang, Z.; Nguyen, H. T. H.; Miller, S. A.; Ploskonka, A. M.; DeCoste, J. B.; Cohen, S. M. Polymer–Metal–Organic Frameworks (polyMOFs) as Water Tolerant Materials for Selective Carbon Dioxide Separations. *J. Am. Chem. Soc.* **2016**, *138*, 920−925.
+- 21. Szufla, M.; Krawczuk, A.; Jajko, G.; Kozyra, P.; Matoga, D. Flattening of a Bent Sulfonated MOF Linker: Impact on Structures, Flexibility, Gas Adsorption, CO2/N<sup>2</sup> Selectivity, and Proton Conduction. *Inorg. Chem.* **2024**, *63*, 151−162.
+- 22. Lee, G.; Kwon, H.; Lee, S.; Oh, M. Structural Compromise Between Conflicted Spatial-Arrangements of Two Linkers in Metal–Organic Frameworks. *Small Methods* **2023**, *7*, 2201586.
+- 23. Gao, M.-Y.; Liu, L.; Deng, C.; Bon, V.; Song, B.-Q.; Yang, S.; Schröder, M.; Kaskel, S.; Zaworotko, M. J. Light and Guest Responsive Behavior in a Porous Coordination Network Enabled by Reversible [2+2] Photocycloaddition. *Angew. Chem., Int. Ed.* **2024**, *63*, e202404084.
+- 24. Li, X.; Bezrukov, A. A.; Graham, W.; Sensharma, D.; Kong, X.-J.; Thonhauser, T.; Zaworotko, M. J. Modulation of Water Vapor Sorption by Pore Engineering in Isostructural Square Lattice Topology Coordination Networks. *ACS Appl. Mater. Interfaces* **2024**, *16*, 34402−34408.
+- 25. Liang, L.; Liu, C.; Jiang, F.; Chen, Q.; Zhang, L.; Xue, H.; Jiang, H.-L.; Qian, J.; Yuan, D.; Hong, M. Carbon dioxide capture and conversion by an acid-base resistant metalorganic framework. *Nat. Commun.* **2017**, *8*, 1233.
+- 26. Wang, J.; Luo, J.; Zhao, J.; Li, D.-S.; Li, G.; Huo, Q.; Liu, Y. Assembly of Two Flexible Metal–Organic Frameworks with Stepwise Gas Adsorption and Highly Selective CO<sup>2</sup> Adsorption. *Cryst. Growth Des.* **2014**, *14*, 2375−2380.
+- 27. Zhu, A.-X.; Yang, Q.-Y.; Mukherjee, S.; Kumar, A.; Deng, C.-H.; Bezrukov, A. A.; Shivanna, M.; Zaworotko, M. J. Tuning the Gate-Opening Pressure in a Switching pcu Coordination Network, X-pcu-5-Zn, by Pillar-Ligand Substitution. *Angew. Chem., Int. Ed.* **2019**, *58*, 18212−18217.
+- 28. Yang, H.; Guo, F.; Lama, P.; Gao, W.-Y.; Wu, H.; Barbour, L. J.; Zhou, W.; Zhang, J.; Aguila, B.; Ma, S. Visualizing Structural Transformation and Guest Binding in a Flexible Metal–Organic Framework under High Pressure and Room Temperature. *ACS Cent. Sci.* **2018**, *4*, 1194−1200.
+- 29. Cho, W.; Lee, H. J.; Oh, M. Growth-Controlled Formation of Porous Coordination Polymer Particles. *J. Am. Chem. Soc.* **2008**, *130*, 16943−16946.
+
+根据提供的文献内容，生成实验流程复现文献实验
+

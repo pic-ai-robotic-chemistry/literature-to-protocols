@@ -1,0 +1,133 @@
+{
+  "pair_id": 11,
+  "winner": "origin_paper",
+  "winner_reason_short": "PLAN_A cleanly separates material preparation from downstream tests, avoiding application overreach and maintaining a focused, automation-ready workflow.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid/liquid dosing",
+      "precursor solution preparation",
+      "mixing/stirring/dispersion",
+      "main synthesis reaction",
+      "post-synthetic modification (Tz loading)",
+      "washing/purification/centrifugation",
+      "solvent exchange",
+      "drying",
+      "final dispersion/storage",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "XRD/SEM characterization",
+      "electrochemical testing"
+    ],
+    "notes": "Both plans cover the full MOF material preparation lifecycle, but PLAN_A isolates downstream characterization and testing as external/optional, while PLAN_B includes electrochemical testing in the main workflow."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 11,
+      "covered_material_stage_count": 11,
+      "material_coverage": 1.0,
+      "coverage_reason": "All required material-preparation stages are present, with clear boundaries before downstream steps."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 4,
+      "correctly_isolated_boundary_count": 4,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "Manual/external steps (e.g., pelletizing, MEA assembly, testing) are explicitly marked as out-of-scope or user-completed."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 2,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "Downstream steps (XRD, SEM, testing) are clearly separated as external/optional or in platform analysis modules."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 18.0,
+      "practicality_reason": "Module mapping, sample transitions, and vessel choices are clear and actionable; platform limitations are handled with explicit boundaries."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 19.0,
+      "fidelity_reason": "Material-preparation lifecycle is faithfully preserved, with no silent deletion of difficult steps and no mixing of downstream content."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Material variants (different Tz loading) are clearly separated and mapped to containers."
+    },
+    "main_strengths": [
+      "Strict separation of material preparation and downstream tests",
+      "Explicit boundaries for manual/external steps"
+    ],
+    "main_weaknesses": [
+      "Some parameters default to platform values due to missing literature data",
+      "Downstream analysis modules are referenced (but not in main workflow)"
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 11,
+      "covered_material_stage_count": 11,
+      "material_coverage": 1.0,
+      "coverage_reason": "All core material-preparation stages are included, with detailed reagent and process mapping."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 4.0,
+      "boundary_reason": "Most manual/external steps are marked, but downstream electrochemical testing is not clearly separated from the main workflow."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 1,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 0,
+      "application_overreach_penalty_5": 2.0,
+      "overreach_reason": "Electrochemical testing is included as a main workflow step rather than separated as downstream/external."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 17.0,
+      "practicality_reason": "Platform mapping and sample transitions are clear, but inclusion of downstream testing in the main workflow reduces clarity for automation scope."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 15.0,
+      "fidelity_reason": "Material-preparation lifecycle is well preserved, but downstream testing is not excluded from the main automation workflow."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Material variants (different Tz loading) are clearly separated and mapped to containers."
+    },
+    "main_strengths": [
+      "Detailed mapping of reagents, process, and branching",
+      "Covers all required material-preparation stages"
+    ],
+    "main_weaknesses": [
+      "Electrochemical testing is included in the main workflow (application overreach)",
+      "Not all downstream steps are clearly separated as optional/external"
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "tie",
+    "fewer_material_omissions": "tie",
+    "better_automation_boundary_quality": "origin_paper",
+    "less_application_overreach": "origin_paper",
+    "better_platform_adaptation_practicality": "origin_paper",
+    "better_automation_scope_fidelity": "origin_paper",
+    "better_branch_handling": "tie",
+    "better_overall_for_automation_scope_material_workflow": "origin_paper"
+  }
+}

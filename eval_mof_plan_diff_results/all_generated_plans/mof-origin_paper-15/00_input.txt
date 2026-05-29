@@ -1,0 +1,1256 @@
+[pubs.acs.org/JACS](pubs.acs.org/JACS?ref=pdf) Article
+
+#### Halogenated Metal−Organic Framework Glasses and Liquids
+
+[Jingwei Hou,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Jingwei+Hou"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) María Laura Rí[os Gomez,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Mari%CC%81a+Laura+Ri%CC%81os+Go%CC%81mez"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Andraz](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Andraz%CC%8C+Krajnc"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) ́ ̌Krajnc, [Aoife McCaul,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Aoife+McCaul"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Shichun Li,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Shichun+Li"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Alice M. Bumstead,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Alice+M.+Bumstead"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Adam F. Sapnik,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Adam+F.+Sapnik"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Zeyu Deng,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Zeyu+Deng"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Rijia Lin,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Rijia+Lin"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Philip A. Chater,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Philip+A.+Chater"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Dean S. Keeble,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Dean+S.+Keeble"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [David A. Keen,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="David+A.+Keen"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Dominique Appadoo,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Dominique+Appadoo"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Bun Chan,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Bun+Chan"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Vicki Chen,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Vicki+Chen"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Gregor Mali,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Gregor+Mali"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [and Thomas D. Bennett](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Thomas+D.+Bennett"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf)[\\*](#page-7-0)
+
+![](_page_0_Figure_5.jpeg)
+
+# ■ INTRODUCTION
+
+glasses improves their gas-uptake properties.
+
+Current research on metal−organic frameworks (MOFs) has concentrated predominantly on the properties of ordered crystalline phases.[1,2](#page-8-0) However, there is growing recognition of the importance of the physical properties of MOFs. In particular, the role of disorder, defects, and structural flexibility in installing beneficial physical behavior is now widely studied.[3](#page-8-0)−[8](#page-8-0) In fact, it has recently been demonstrated that crystallinity itself is not a prerequisite for many of the properties for which MOFs are well-known, such as porosity, catalytic activity, and chemical and structural tunability.[6](#page-8-0),[9](#page-8-0)−[12](#page-9-0) Consequently, noncrystalline or amorphous MOFs are attracting attention for applications in, e.g., ion conductivity
+
+techniques reveal the dynamic structural properties of crystal, glass, and liquid phases of the halogenated ZIFs, linking the melting behavior of ZIFs to the propensity of the ZnN4 tetrahedra to undergo thermally induced deformation. The inclusion of halogenated ligands within metal−organic framework (MOF)
+
+Conventional amorphization of MOFs is achieved through the application of high pressures, thermal treatment, or ballmilling of crystalline frameworks.[12](#page-9-0),[13](#page-9-0) Recently, the macroscale melting of several zeolitic imidazolate frameworks (ZIFs, including ZIF-4 (cag), ZIF-62 (cag), and ZIF-76 (lta)) has been reported at ca. 650−900 K[.9](#page-8-0)[,14](#page-9-0)<sup>−</sup>[17](#page-9-0) The melting proceeds on a subnanosecond time frame via dissociation of the Zn−Im (Im = imidazolate, C3H3N2 <sup>−</sup>) bond, before reassociation of the Im with a different Zn center. The energy required to break the Zn−Im bond has been previously calculated as ca. 95 kJ/mol at 840 K for ZIF-4 [Zn(Im)2][.9](#page-8-0) The high-temperature liquid MOF exhibits a very high viscosity, which suppresses any recrystallization of the glasses formed by melt-quenching.[18](#page-9-0) The glasses formed upon cooling possess a continuous random network structure, like that of amorphous SiO2. [9,](#page-8-0)[13](#page-9-0)
+
+Among the ZIF glasses known to date, ZIF-62 [Zn- (Im)x(bIm)2<sup>−</sup>x] (bIm = benzimidazolate, C7H5N2 <sup>−</sup>) is of particular interest because it has the lowest melting temperature.[16,18](#page-9-0) The glass, agZIF-62, exhibits reversible host−guest adsorption behavior, with gas uptakes of 20.1 (CO2, 273 K) and 9.3 (H2, 77 K) cm3 STP g<sup>−</sup><sup>1</sup> at 1 bar.[19](#page-9-0) The liquid MOF phase, however, is also of interest as it provides a platform from which materials with specific physical and mechanical properties can be designed and shaped.[20](#page-9-0) One example of such a material is the MOF crystal−glass composite formed by embedding the as-synthesized phase of MIL-53(Al) (containing unreacted ligand within the pores) within a ZIF-62 glass, which results in stabilization of the high-temperature, openpore phase of MIL-53(Al) at room temperature.[21](#page-9-0),[22](#page-9-0)
+
+Currently, there are over 80 000 known MOF structures, although melting behavior has mainly been confined to the ZIF family.[13,23](#page-9-0) Various strategies have been proposed to construct new systems displaying accessible liquid states[24](#page-9-0) or, alternatively, to lower the melting point (Tm) of existing systems. Such efforts are highly valuable due to (i) the provision of a wider operational temperature window between melting and decomposition, which allows regulation of liquid viscosity, and (ii) the ability to combine a wider range of crystalline
+
+Received: October 29, 2019 Published: January 24, 2020
+
+and molecular encapsulation.[13](#page-9-0)
+
+![](_page_0_Picture_14.jpeg)
+
+<span id="page-1-0"></span>structures within the liquid state due to the lower temperatures needed for crystal−glass composite processing. Our understanding of the various factors that affect melting remains relatively poor, however, as does our knowledge of the structure, dynamics, and chemical reactivity of the liquid MOF state.
+
+In one of the few studies performed in this area, highpressure, high-temperature diffraction demonstrated the negative melting-curve behavior of ZIF-62.[19](#page-9-0) The structure shows a reduction in melting temperature at high pressures (up to 2 GPa), although related materials with accessible dense phases do not show this behavior.[19,25](#page-9-0) The melting temperature of ZIF-62 can also be regulated via alternating the Im/ bIm ligand ratio in the structure.[16,18](#page-9-0)
+
+Coudert and co-workers[26](#page-9-0) have also investigated the differences in thermal response between ZIF-4 and ZIF-8 [Zn(mIm)2] (mIm = 2-methylimidazolate, C4H5N2 <sup>−</sup>). The experimental T<sup>m</sup> of ZIF-4 is 863 K, while ZIF-8 decomposes before any possible melting event[.14,26](#page-9-0) Computationally, the T<sup>m</sup> values of ZIF-4 and ZIF-8 were found to be between 1200 and 1500 K, and >1750 K, respectively. This difference was ascribed to a greater energy barrier for diffusion in ZIF-8, which itself was proposed to be a result of the lack of stabilizing dispersive interactions for mIm linkers in the liquid state (due to the more porous structure of ZIF-8 compared to ZIF-4).
+
+Here, motivated by the prospect of expanding the family of ZIF glasses, realizing new methods to regulate T<sup>m</sup> and T<sup>g</sup> (glass transition temperature), and developing a greater understanding of melting behavior and dynamics of the liquid ZIF state, we explore the synthesis of a series of novel glass-forming halogenated ZIF structures. The incorporation of halogenated ligands within MOFs has recently been shown to improve the stiffness of frameworks,[27](#page-9-0) while they are also capable of introducing permanent dipole moments and facilitating responses to electric fields[.28](#page-9-0) The electron-withdrawing nature of −F- and −Cl-functionalized ligands also provides an avenue to regulate the melting behavior of the ZIFs, yet this has not been probed. In this work, four novel mixed-ligand ZIFs are constructed using halogenated bIm-based ligands. A combined array of techniques including 19F solid-state nuclear magnetic resonance (NMR) and in situ terahertz/far-infrared (THz/far-IR) spectroscopy are used to study the effect of halogenation upon melting behavior, as well as the dynamic structure of the resultant liquids. The porosity and mechanical behavior of the novel ZIF glasses formed upon melt-quenching are characterized, demonstrating improvement over their nonhalogenated counterparts.
+
+# ■ RESULTS AND DISCUSSION
+
+Crystalline Halogenated ZIF Structures. To produce ZIF glasses with accessible permanent porosity, we selected 5 chlorobenzimidazolate (5-ClbIm, C7H4N2Cl<sup>−</sup>), 5-chloro-2 methylbenzimidazolate (5-Cl-2-mbIm, C8H6N2Cl<sup>−</sup>), 5-fluorobenzimidazolate (5-FbIm, C7H4N2F<sup>−</sup>), and 6-chloro-5-fluorobenzimidazolate (6-Cl-5-FbIm, C7H3N2ClF<sup>−</sup>) linkers, alongside Im (Figure 1a). This followed from a previous report of the use of Im to promote melting and 5-ClbIm as a bulky linker to prevent the collapse of pore channels upon glass formation, allowing the diffusion of guest molecules in and out of the formed quenched glasses[.17](#page-9-0) These linkers also provided an array of halogenated functionalities, in order to study the effect on melting behavior.
+
+![](_page_1_Figure_7.jpeg)
+
+Figure 1. (a) Representations of the halogenated benzimidazolate ligands used in this study. (b) Building unit of ZIF-UC-4 (5-FbIm) with four independent linkers. (c) Representative slice of ZIF-UC-4 (5-FbIm) structure (N, orange; C, gray; ZnN4 tetrahedra, blue; F, green), showing the six- and four-membered rings. For clarity, only the range of fractional coordinates from 0.3 to 0.8 along a axis is shown, and hydrogen and solvent atoms are omitted. The inset highlights a 58.27° orientation deviation of the 5-FbIm linker from the corresponding Im linker position.
+
+Four isostructural frameworks based on the glass-forming ZIF-62 structure were synthesized via a solvothermal process, adapted from that of ZIF-62 (see [Supporting Informa](#page-7-0)[tion\)](#page-7-0).[17,21](#page-9-0) These materials are referred to as ZIF-UC-2 (6- Cl-5-FbIm), ZIF-UC-3 (5-Cl-2mbIm), ZIF-UC-4 (5-FbIm), and ZIF-UC-5 (5-ClbIm), respectively. UC indicates the university at which these structures were synthesized. The addition of aqueous sodium hydroxide solution, as reported by others[,29](#page-9-0) was found to be beneficial for the inclusion of bImbased linkers in ZIF-UC-3−5, due to facile deprotonation in solution[.29](#page-9-0) After the removal of occluded ligands from the internal pores, single-crystal X-ray diffraction was carried out on suitable crystals. All four frameworks are found to crystallize in the orthorhombic Pbca space group with the same 4- and 6 membered ring containing cag network topology as ZIF-62 ([Figures S1](#page-7-0)−S13 and [Tables S1](#page-7-0)−S8).[30](#page-9-0)
+
+Like the reported ZIF-62 structure, the asymmetric units of ZIF-UC-2 to ZIF-UC-5 include two independent Zn atoms and four organic linkers (Figure 1b). The preference for structural inclusion of the halogenated ligands, described by their total occupancy factors, follows the order 5-FbIm (ZIF-UC-4) > 5-ClbIm (ZIF-UC-5) > 5-Cl-2-mbIm (ZIF-UC-3) > 6-Cl-5-FbIm (ZIF-UC-2) ([Table 1\)](#page-2-0). This tendency is consistent with the trend expected for their steric indexes, δ (the product of the van der Waals volume of the linker and a measure related to size),[31](#page-9-0) where bulkier halogenated ligands have lower probabilities of substituting the Im linker in the framework structure. This is consistent with our previous work.[32](#page-9-0)
+
+Restrictions on ligand occupancy originate from either the symmetry operations of the specific crystallographic site or from the steric indexes of the halogenated linkers (see [Supporting Information\)](#page-7-0). This leads to a distribution of the halogenated ligands in the four structures, which results in different degrees of disorder. In the first case, the corresponding sites have a maximum occupancy of 50%,
+
+<span id="page-2-0"></span>
+
+| Table 1. Structural Information from Single-Crystal X-ray Diffractiona |  |  |  |  |  |  |  |
+|------------------------------------------------------------------------|--|--|--|--|--|--|--|
+|------------------------------------------------------------------------|--|--|--|--|--|--|--|
+
+|                        | cell parameters (Å) |            |            |                              |                                           |                          |
+|------------------------|---------------------|------------|------------|------------------------------|-------------------------------------------|--------------------------|
+| materials              | a                   | b          | c          | unit cell<br>volume (Å3<br>) | halogenated linker total<br>occupancy (%) | solvent<br>occupancy (%) |
+| ZIF-UC-2 (6-Cl-5-FbIm) | 15.5560(5)          | 15.6538(5) | 18.0875(6) | 4404.5(2)                    | 26                                        |                          |
+| ZIF-UC-3 (5-Cl-2-mbIm) | 15.8749(6)          | 16.2805(6) | 18.0681(6) | 4669.7(4)                    | 38                                        | 78(3)                    |
+| ZIF-UC-4 (5-FbIm)      | 15.6970(8)          | 15.9694(1) | 17.9282(2) | 4494.1(5)                    | 68                                        |                          |
+| ZIF-UC-5 (5-ClbIm)     | 15.7260(8)          | 16.0184(1) | 18.1617(1) | 4575.0(5)                    | 57                                        | 39(9)                    |
+
+a For solvent occupancy, for ZIF-UC-2 (6-Cl-5-FbIm) and ZIF-UC-4 (5-FbIm), the residual electronic density was too low to assign solvent molecules in the asymmetric unit. ZIF-UC-3 and ZIF-UC-4 were refined considering just dimethylformamide (DMF) solvent molecules because this solvent was used in a higher amount in comparison with diethylformamide (DMF) (see refinement details in the [Supporting Information\)](#page-7-0).
+
+|                                                | ZIF-UC-2<br>(6-Cl-5-FbIm)                     | ZIF-UC-3<br>(5-Cl-2-mbIm)                     | ZIF-UC-4 (5-FbIm)                        | ZIF-UC-5 (5-ClbIm)                             | ZIF-6214            |
+|------------------------------------------------|-----------------------------------------------|-----------------------------------------------|------------------------------------------|------------------------------------------------|---------------------|
+| crystal precursor<br>(single crystal)          | Zn(Im)1.87<br>(6-Cl-5-FbIm)0.13               | Zn(Im)1.81<br>(5-Cl-2-mbIm)0.19               | Zn(Im)1.66<br>(5-FbIm)0.34               | Zn(Im)1.72(5-ClbIm)0.28                        |                     |
+| crystal precursor<br>(1<br>H liquid NMR)       | Zn(Im)1.84<br>(6-Cl-5-FbIm)0.16·<br>(DMF)0.10 | Zn(Im)1.74<br>(5-Cl-2-mbIm)0.26·<br>(DEF)0.08 | Zn(Im)1.63<br>(5-FbIm)0.37·<br>(DEF)0.07 | Zn(Im)1.63(5-ClbIm)0.37·<br>(DMF)0.07(DEF)0.04 | Zn(Im)1.75(bIm)0.25 |
+| melt-quenched glass<br>(1<br>H liquid NMR)     | Zn(Im)1.90<br>(6-Cl-5-FbIm)0.10               | Zn(Im)1.75<br>(5-Cl-2-mbIm)0.25               | Zn(Im)1.63<br>(5-FbIm)0.37               | Zn(Im)1.69(5-ClbIm)0.31                        |                     |
+| melting onset temperature<br>(Tm for crystal)  | 679 K                                         | 663 K                                         | 694 K                                    | 705 K                                          | 673 K               |
+| glass transition temperature<br>(Tg for glass) | 523 K                                         | 609 K                                         | 563 K                                    | 593 K                                          | 591 K               |
+| Tg/Tm                                          | 0.77                                          | 0.92                                          | 0.81                                     | 0.84                                           | 0.88                |
+
+Table 2. Composition and Thermal Behavior of Halogenated ZIF Crystals and Their Melt-Quenched Glasses
+
+which prevents symmetry-related bIm-derived linkers coming into contact with each other. In the second case, the increased steric index of bIm-derived linkers relative to Im results in a shift of the halogenated benzimidazolate linker away from the original position to avoid clashing with a neighbor Im linker in a 100% occupied position. This shift results in partial occupancy of the crystallographic sites normally occupied by solvent molecules[,32](#page-9-0) reducing the occupancy of the halogenated linker due to the competition with solvent molecules.
+
+Therefore, systems in which the total occupancy factor of the halogenated linker is <50% contain just one disordered imidazolate position and only two different configurations for the asymmetric unit [\(Figure 1c](#page-1-0) and [Figures S1](#page-7-0)−S13), i.e., ZIF-UC-2 (6-Cl-5-FbIm) and ZIF-UC-3 (5-Cl-2-mbIm) (Table 1). Structures with higher occupancies on the other hand, possess two disordered linker positions. This is the case for ZIF-UC-4 (5-FbIm) and ZIF-UC-5 (5-ClbIm). This results in four possible configurations for the asymmetric unit, creating a higher degree of structural disorder in the system.
+
+The bulk-phase purity of the samples was further confirmed by Pawley refinement of powder X-ray diffraction data (PXRD), using lattice parameters from the determined single-crystal structures. Good agreement between the two confirms the formation of phase-pure samples of halogenated ZIFs ([Figure S14](#page-7-0)). <sup>1</sup> H solution NMR spectroscopy ([Figures](#page-7-0) [S15](#page-7-0)−S18) was carried out by digesting samples of crystalline ZIF-UC-2 to ZIF-UC-5 in a mixture of DCl/D2O (35%; 0.1 mL) and dimethyl sulfoxide (DMSO-d6) (0.5 mL). The NCHN chemical shifts for Im (∼9 ppm region, NCHNIm), the substituted bIm linkers (∼9.5 ppm for NCHN5‑ClbIm, NCHN5‑FbIm, and NCHN6‑Cl‑5‑FbIm and ∼2.75 ppm for NCCH3N5‑Cl‑2‑mbIm) are well-resolved. Their relative integrations are used to determine the relative ratio of the two linkers in each mixed-linker MOF and, subsequently, the chemical formula for each ZIF structure: ZIF-UC-2 [Zn(Im)1.84(6-Cl-5FbIm)0.16·(DMF)0.10], ZIF-UC-3 [Zn(Im)1.74(5-Cl-2 mbIm)0.26·(DEF)0.08], ZIF-UC-4 [Zn(Im)1.63(5-FbIm)0.37· (DEF)0.07], and ZIF-UC-5 [Zn(Im)1.63(5-ClbIm)0.37· (DMF)0.07(DEF)0.04] (Table 2).
+
+Thermal Behavior and Glass Formation. Thermogravimetric analysis (TGA) carried out on the crystalline samples shows the removal of the remaining solvents (N,Ndimethylformamide and N,N-diethylformamide) at ca. 500 K, followed by thermal decomposition at ca. 730 K for ZIF-UC-2 (6-Cl-5-FbIm), 720 K for ZIF-UC-3 (5-Cl-2-mbIm), and 750 K for ZIF-UC-4 (5-FbIm) and ZIF-UC-5 (5-ClbIm) (Figure 2a). Initial differential scanning calorimetry (DSC) scans on the crystalline samples contain endotherms at ca. 530 K
+
+![](_page_2_Figure_13.jpeg)
+
+Figure 2. (a) TGA and (b) DSC profiles of the crystalline samples heated at a rate of 20 K min<sup>−</sup><sup>1</sup> under argon. (c) Second up-scan DSC profiles of the melt-quenched glass samples at a rate of 10 K min<sup>−</sup><sup>1</sup> . (d) Microscopic images of the melt-quenched glass samples. The scale bars are 25 μm.
+
+corresponding to the loss of solvent from the frameworks, followed by endotherms ascribed to melting starting at ca. 679 K for ZIF-UC-2 (6-Cl-5-FbIm), 663 K for ZIF-UC-3 (5-Cl-2 mbIm), 694 K for ZIF-UC-4 (5-FbIm), and 705 K for ZIF-UC-5 (5-ClbIm) ([Figure 2](#page-2-0)b and [Table 2](#page-2-0)).
+
+In a separate experiment, to avoid excessive thermal decomposition, crystalline samples were heated above their corresponding melting onset temperatures (693 K for ZIF-UC-2 (6-Cl-5-FbIm), 683 K for ZIF-UC-3 (5-Cl-2-mbIm), 708 K for ZIF-UC-4 (5-FbIm), and 723 K for ZIF-UC-5 (5-ClbIm)) and then cooled back to room temperature. The glasses formed are termed agZIF-UC-2 (6-Cl-5-FbIm), agZIF-UC-3 (5-Cl-2-mbIm), agZIF-UC-4 (5-FbIm), and agZIF-UC-5 (5- ClbIm), with terminology in accordance with previous publications,[32,33](#page-9-0) and were used for subsequent ex situ studies. This was followed by a second DSC heating scan, at 10 K min<sup>−</sup><sup>1</sup> , which identifies T<sup>g</sup> values in each case [\(Figure 2c](#page-2-0) and [Table 2](#page-2-0)). All melt-quenched glass samples display only diffuse scattering in their PXRD patterns, while optical- and scanning electron microscopy confirm the formation of coherent, continuous, and glassy morphologies upon melt-quenching ([Figures 2d](#page-2-0), [S19, and S20](#page-7-0)). The Fourier-transform infrared spectroscopy (FTIR) spectra for the crystals and the corresponding melt-quenched glasses show similar features ([Figure S21](#page-7-0)). Because of the relatively close nature of the melting and thermal decomposition temperatures, the melting process was still accompanied by a small quantity of thermal decomposition for two of the crystalline samples. Specifically, <sup>1</sup> H NMR spectroscopy carried out on the glasses ([Table 2](#page-2-0)) confirms a partial loss of the bIm-derived ligand component in agZIF-UC-2 [Zn(Im)1.90(6-Cl-5-FbIm)0.10] and agZIF-UC-5 [Zn(Im)1.69(5-ClbIm)0.31]. However, agZIF-UC-3 [Zn- (Im)1.74(5-Cl-2-mbIm)0.26] and agZIF-UC-4 [Zn(Im)1.63(5- FbIm)0.37] are relatively unchanged compared with their crystalline precursors [\(Figures S22](#page-7-0)−S25).
+
+The glass transition indicates the transition from solid to liquid-like behavior upon heating. Glasses with similar organic ligand contents possess transition temperatures which correlate with the van der Waals radius of the added side-functional group(s), i.e., agZIF-UC-4 (5-FbIm) (563 K and 1.47 Å) and agZIF-UC-5 (5-ClbIm) (593 K and 1.75 Å). This has also been found previously and is related to larger functional groups increasing the extent of noncovalent interactions within glass or liquid structures[.14](#page-9-0),[35](#page-9-0) A lower than expected T<sup>g</sup> for agZIF-UC-2 (6-Cl-5-FbIm) was observed at 523 K, which was ascribed to the low bIm-derived linker content in the glass phase.
+
+Trends in melting point are less clear. The onsets of melting of the structures in this study, including ZIF-62 itself, are separated by 50 K. The 19 K difference between ZIF-UC-4 (5- FbIm) (T<sup>m</sup> = 694 K) and ZIF-UC-5 (5-ClbIm) (T<sup>m</sup> = 705 K) is consistent with the greater inductive withdrawal effect of −F compared with −Cl. This experimental observation was further confirmed by density functional theory (DFT) calculations ([Figures S26 and S27\)](#page-7-0), which demonstrates an average difference of 2.88 kJ/mol in Zn−N bond energy between Zn(Im)3(5-FbIm) and Zn(Im)3(5-ClbIm) tetrahedra.
+
+ZIF-UC-3 (5-Cl-2-mbIm) possesses the lowest T<sup>m</sup> observed (663 K), i.e., lower than that of ZIF-62 (T<sup>m</sup> = 673 K).[14,17](#page-9-0) The activation free energy, ΔF‡ , for melting has previously been demonstrated to follow the van't Hoff law, ΔF‡ (T) = ΔU‡ − TΔS‡ , where ΔU‡ and ΔS‡ are activation energy and entropy, respectively.[9](#page-8-0) From a thermodynamic point of view, the melting occurs through an activation process, leading to bond breakage at the point of the metastable phase of the ZIF crystal precursor rather than at the limit of stability of the liquid phase.[36](#page-9-0) The ZIF-UC-3 (5-Cl-2-mbIm) structure contains the most sterically large ligand, and thus the crystal structure formed is the most dense out of the four materials studied here. For dense ZIFs such as this one, it follows that greater dispersive interactions between the framework and the partially dissociated ligand will reduce the energy barrier to melting. For highly porous frameworks on the other hand, a low level of dispersive interactions between framework and detached ligands generates a high activation free energy barrier for melting.[26](#page-9-0)
+
+Glass Structure. The atomic structures of the crystalline ZIFs and their corresponding melt-quenched glasses were probed via synchrotron X-ray total scattering. The lack of crystallinity in the glasses is confirmed by the absence of sharp features in their structure factors [\(Figures S28](#page-7-0)−S31). Pair distribution functions (PDFs) for ZIF-UC-4 (5-FbIm) and agZIF-UC-4 (5-FbIm) (Figure 3) were obtained from the total
+
+![](_page_3_Figure_10.jpeg)
+
+Figure 3. D(r) for ZIF-UC-4 (5-FbIm) and agZIF-UC-4 (5-FbIm) samples. The inset highlights the peak assignment in the structures.
+
+scattering data via appropriate corrections and subsequent Fourier transform (see [Supporting Information\)](#page-7-0). As expected, the crystalline samples contain long-range oscillations in the D(r) on length scales above 7 Å, while the glass samples are relatively featureless in this region. For example, the peak in the D(r) for crystalline ZIF-62−5-FbIm at 11.4 Å, marked with an "a", is associated with the distance between the Zn metal center and the F atom on the next-nearest bIm ligand. This feature is absent in the glass phase, consistent with Zn−N bond breakage and rearrangement upon melting. Generally, below 7 Å, the PDF traces are similar for crystal and glass.[18](#page-9-0)
+
+Peak assignment was carried out using the PDFGUI software,[37](#page-9-0) which was used to calculate partial PDFs for the atom pairs in each system. For ZIF-UC-4 (5-FbIm), the first feature at 1.3 Å is assigned to C−C or C−N, and the intense peak at 2 Å is assigned to the Zn−N distance, which confirms Zn−N association in the glass. Correlations between Zn and the second- and third-nearest N atoms of Im ligands can be identified from the PDFs at 5.9 and 7.3 Å (labeled 4 and 6, respectively, in Figure 3). These features are relatively unchanged after vitrification, suggesting the preservation of this short-range order in the glass (Figure 3). Similar PDF results are also obtained for ZIF-UC-2 (6-Cl-5-FbIm), ZIF-UC-3 (5-Cl-2-mbIm), and ZIF-UC-5 (5-ClbIm) ([Figures](#page-7-0) [S32](#page-7-0)−S34).
+
+[Figure 4](#page-4-0) shows the 13C and 19F magic angle spinning (MAS) NMR spectra of ZIF-UC-4 (5-FbIm) and agZIF-UC-4 (5- FbIm). In the 13C MAS NMR spectrum of the crystalline
+
+<span id="page-4-0"></span>![](_page_4_Figure_1.jpeg)
+
+Figure 4. 13C (a) and 19F (b) MAS NMR spectra of ZIF-UC-4 (5- FbIm) and agZIF-UC-4 (5-FbIm). The spectrum at the bottom of (b) is the 19F solution NMR spectrum of agZIF-UC-4 (5-FbIm), digested in DCl/DMSO-d6. Approximate intensity ratios for the signals at about −114.0 ppm and all the other signals in the 19F spectra of the glass and digested glass are presented. Arrows denote correlations between the 19F NMR signals of the solid glass and the digested glass. Asterisks mark positions of the spinning side bands.
+
+material, the signals of all carbon sites of bIm-derived and Im ligands are clearly resolved. Assignments were performed using chemical shift prediction (ACD/I-lab NMR predictor), <sup>1</sup> H−13C Lee−Goldburg cross-polarization magic angle spinning (LG-CPMAS), and 19F−13C CPMAS measurements ([Figure S35\)](#page-7-0). The 19F MAS NMR spectrum of the crystalline sample contains one main peak at ca. −115 ppm, which is composed of at least two contributions (Figure 4b). This is explained by the relatively low 5-FbIm/Im ratio present in the material, meaning that two types of Zn centers exist: those that are coordinated to one 5-FbIm and three Im ligands, and those that are surrounded by four Im ligands. Hence, there are pores in the material into which two 5-FbIm ligands protrude (the positions of which are related by symmetry, [Figure 1](#page-1-0)c) and pores into which only one 5-FbIm ligand protrudes. The resulting local environments of 5-FbIm appear sufficiently different to give rise to resolved 19F NMR signals.
+
+The 13C MAS NMR spectrum of agZIF-UC-4 (5-FbIm) exhibits broader signals at roughly the same isotropic chemical shifts as the spectrum of ZIF-UC-4 (5-FbIm). Broadening of the signals is an expected effect of increased structural disorder and the loss of crystallinity. The 19F MAS NMR spectrum of agZIF-UC-4 (5-FbIm), however, is more informative. In addition to the signals at about −115 ppm (which are again slightly broader than the corresponding signals in the crystalline sample), several new broad signals appear between −170 and −240 ppm. NMR measurements show that F nuclei contributing to the narrow signals and F nuclei contributing to the broad signals share the same particles (Figures 4b and [S36\)](#page-7-0).
+
+We therefore ascribe the remarkable change in the chemical shift to a considerable change in the nature of the immediate bonding environment of F upon glass formation. 19F−13C CPMAS NMR measurements confirm this [\(Figure S37](#page-7-0)). Selective cross-polarization from 19F nuclei, contributing to the narrow 19F signal of the glass, clearly enhances the signal of C5 C nuclei, i.e., of the nuclei belonging to C atoms within the benzyl ring, which are directly bonded to F. On the contrary, selective cross-polarization from 19F nuclei, contributing to the broad 19F signal of the glass, gives rise to a C spectrum in which only the two signals of Im can be detected. Surprisingly, this observation suggests that F that contributes to the broad, shifted signal is in fact not directly attached to a bIm ligand.
+
+To further verify this observation, the 19F NMR spectrum of a digested sample of agZIF-UC-4 (5-FbIm) was measured (Figure 4b). The spectrum shows that only a fraction of F nuclei resonate at −114 ppm, i.e., at the chemical shift typical for F of the dissolved 5-FbIm. The spectrum also contains a weak signal at −139.7 ppm and a far stronger signal at −166.3 ppm, which can be consistent with F atoms attached to heavy atoms. On the basis of these observations, we suggest the formation of Zn−F bonds during melting and vitrification. This would explain the observed shift of about −200 ppm in the solid-state 19F MAS NMR spectrum of agZIF-UC-4 (5- FbIm), which agrees well with the 19F shift in ZnF2. [38](#page-9-0) Other sources of the shifted signal were investigated and ruled out, including the presence of paramagnetic species (through 19F relaxation measurements) and the presence of halogen bonds (through DFT-based calculations of the expected 19F chemical shifts) [\(Figures S38 and S39](#page-7-0)). Very similar observations are found also for agZIF-UC-2 (6-Cl-5-FbIm) ([Figure S40](#page-7-0)). We suspect that the mechanism of dissociation may be similar to thermally activated radical processes in, e.g., halogenated benzene compounds (e.g., chlorobenzene).[39](#page-9-0) We might also suggest that the fate of the molecule after defluorination is to perhaps form a benzyne intermediate, allowing further reaction with imidazole to form heterocyclic structures or, alternatively, to form N-alkyl-N′-arylimidazolium salts. This, however, is far beyond the scope of this work and investigations would be necessary.[40](#page-9-0)−[42](#page-9-0)
+
+THz/Far-IR Study of Bonding Environments. While the midrange IR region is usually associated with fundamental molecular vibrations, THz/far-IR spectra can reveal spectral features associated with quasi-localized and collective framework dynamic properties, which provides an effective probe to study dynamic framework properties upon glass formation.[43](#page-9-0) Synchrotron THz/far-IR absorption spectroscopy has been shown to be useful in determining the spectra of dynamic vibrational motions up to ∼700 cm<sup>−</sup><sup>1</sup> and ∼21 THz. The spectra above this region are not shown because of the cutoff by the beam splitter used for this beamline instrument.
+
+Compared to the ZIF precursors (Zn(NO3)2, HIm, and 5-F-1-HbIm, [Figure S41](#page-7-0)), there are three main sources of lowenergy vibrations of crystalline ZIF-UC-4 (5-FbIm) within the spectral region below 700 cm<sup>−</sup><sup>1</sup> ([Figure 5](#page-5-0)): in-plane and outof-plane aromatic ring deformations (ca. 630−700 cm<sup>−</sup><sup>1</sup> ), Zn− N stretching movements (ca. 280−330 cm<sup>−</sup><sup>1</sup> ), and 4-
+
+<span id="page-5-0"></span>![](_page_5_Figure_1.jpeg)
+
+Figure 5. THz/far-IR spectra of ZIF-UC-4 (5-FbIm) and agZIF-UC-4 (5-FbIm) with the inset being the second derivative of the spectra highlighting the emergence of a shoulder peak at ∼440 cm<sup>−</sup><sup>1</sup> after melt-quenching, and a schematic diagram of deformation modes of ZnIm35-FbIm tetrahedra and aromatic rings used for DFT calculations. Zn, blue; N, orange; F, green; C, gray; and H, white.
+
+membered and 6-membered ring collective motions (ca. 30− 200 cm<sup>−</sup><sup>1</sup> )[.44](#page-9-0) The experimental spectrum shows similarities with the theoretical DFT calculations on the Zn(Im)3(5- FbIm) tetrahedron (150−700 cm<sup>−</sup><sup>1</sup> , [Figure S42\)](#page-7-0). It should be emphasized that, for the low-wavenumber region, it is difficult to establish a good agreement between experimental and calculated data because of the complexity of the collective framework vibrations (23−100 cm<sup>−</sup><sup>1</sup> , [Figure S43](#page-7-0))[.45](#page-10-0)
+
+For the melt-quenched glass phase, a clear peak broadening compared with the crystal precursor is observed, especially in the region of 23−200 cm<sup>−</sup><sup>1</sup> (Figure 5), which has been linked to the collective movement of gate-opening and breathing effects involving 4- and 6-membered rings.[44](#page-9-0) Similar behavior is also observed for crystalline and glass ZIF-UC-2 (6-Cl-5- FbIm) ([Figures S44 and S45\)](#page-7-0), ZIF-UC-3 (5-Cl-2-mbIm) ([Figures S46 and S47\)](#page-7-0), ZIF-UC-5 (5-ClbIm) [\(Figures S48 and](#page-7-0) [S49\)](#page-7-0), and ZIF-62 [\(Figures S50 and S51\)](#page-7-0). In addition, the presence of a broad peak centered at ca. 440 cm<sup>−</sup><sup>1</sup> , as suggested by the second derivative spectra in the inset, is consistent with the emergence of a Zn−F bond after vitrification.[46](#page-10-0) DFT calculations on a Zn(Im)3(F) tetrahedron confirm this, with good agreement in the peak position (ca. 420 cm<sup>−</sup><sup>1</sup> , [Figure S52](#page-7-0)). The emergence of a broad peak (ca. 460 cm<sup>−</sup><sup>1</sup> ) assigned to Zn−F is also observed for ZIF-UC-2 (6- Cl-5-FbIm) after vitrification [\(Figure S44](#page-7-0)), while this broad peak is (evidently) absent for the ZIFs that do not contain the fluoro moiety: ZIF-UC-3 (5-Cl-2-mbIm), ZIF-UC-5 (5- ClbIm), and ZIF-62 [\(Figures S46, S48, and S50](#page-7-0)).
+
+Dynamic Properties of Crystal, Glass, and Liquid. The relatively low glass transition temperature of the halogenated ZIF glasses opens opportunities to probe vibrational properties and low-frequency conformational dynamics in the liquid and glass phases and compare these to those present in the crystalline solids. In situ heating experiments up to 573 K were performed at the Australian Synchrotron THz/far-IR beamline. An in-house built gas purge-box was used to maintain an argon environment during the heating process ([Figure S53](#page-7-0)). Because of the absence of thermal hysteresis for the THz/far-IR spectra
+
+during heating and subsequent cooling steps ([Figure S54](#page-7-0)), only the heating cycle was investigated.
+
+Heating of ZIF-UC-4 (5-FbIm) and agZIF-UC-4 (5-FbIm) to 573 K does not lead to a significant change in peak shape, with only a redshift in the peak positions for Zn−N tetrahedra observed (ca. 310−300 and 305−290 cm<sup>−</sup><sup>1</sup> , Figures 6a and b
+
+![](_page_5_Figure_10.jpeg)
+
+Figure 6. Synchrotron THz/far-IR spectra during the heating of ZIF-UC-4 (5-FbIm) and agZIF-UC-4 (5-FbIm). Temperature-resolved in situ THz/far-IR spectra for (a) ZIF-UC-4 (5-FbIm) and (b) agZIF-UC-4 (5-FbIm) up to 573 K. (c, d) Peak position shifts for the Zn−N stretching and aromatic ring deformation modes, respectively (see text for a detailed explanation of the graphs).
+
+and [S55\)](#page-7-0). Ryder et al. previously demonstrated that the quasidelocalized ZnN4 vibrational modes obey the Bose−Einstein distribution,[47](#page-10-0),[48](#page-10-0)
+
+$$
+v(T) = v_0 - \frac{X_R T_C}{\exp\left(\frac{T_C}{T}\right) - 1} \text{ where } T_C = \frac{hv_0}{k_B}
+$$
+
+where v<sup>0</sup> is the frequency of the vibration at 0 K and T<sup>C</sup> is the vibrational temperature (K), which is obtained from statistical thermodynamics via the Planck constant, h, and the Boltzmann constant, kB. In particular, they defined the linear curve fitting slope, XR, as the spectral position shift coefficient. X<sup>R</sup> was demonstrated to be correlated to the thermally induced deformation of the ZnN4 environment and, thus, affected by the exact nature of the coordinative environment. While a detailed quantum mechanical analysis of this Bosonic behavior lies beyond the scope of this Article, we applied the same logic here to deduce values of X<sup>R</sup> for all crystalline and glass phases.
+
+<span id="page-6-0"></span>Compared with the crystal precursor, a clear increase of the X<sup>R</sup> value of Zn−N stretching for the glass phase is observed ([Figure 6c](#page-5-0)). This is followed by a more significant enhancement above the T<sup>g</sup> (563 K) for the liquid phase, which demonstrates the greater flexibility of the Zn environment in the liquid phase.
+
+As expected, negligible changes are observed in the deformation-related behavior of the aromatic ring within crystalline ZIF-UC-4 (5-FbIm) upon heating [\(Figure 6](#page-5-0)d). The value of X<sup>R</sup> is a magnitude smaller than that for the Zn−N bond stretchingattributed to the rigidity of the aromatic ring[.49](#page-10-0) However, this same mode in agZIF-UC-4 (5-FbIm) displays a substantial redshift when the temperature approaches T<sup>g</sup> (ca. 563 K, [Figure 6d](#page-5-0)). For example, while the X<sup>R</sup> for Zn−N of agZIF-UC-4 (5-FbIm) increases by 1.3 times above the Tg, the agZIF-UC-4 (5-FbIm) X<sup>R</sup> for aromatic ring deformation increases to nearly 10 times the original value (0.0052−0.0496 cm<sup>−</sup><sup>1</sup> K<sup>−</sup><sup>1</sup> , [Figure 6](#page-5-0)d) upon heating above Tg.
+
+To further confirm the phenomenon, we conducted in situ THz/far-IR heating tests for all halogenated ZIFsZIF-UC-2 (6-Cl-5-FbIm), [Figures S56](#page-7-0)−S58; ZIF-UC-3 (5-Cl-2-mbIm), [Figures S59](#page-7-0)−S61; ZIF-UC-5 (5-ClbIm), [Figures S62](#page-7-0)−S64), together with ZIF-62 ([Figures S65](#page-7-0)−S67)and observed similar behavior for all crystals and glasses. The T<sup>g</sup> of agZIF-UC-3 (5-Cl-2-mbIm), agZIF-UC-5 (5-ClbIm), and agZIF-62 are all above 573 K, i.e., the maximum temperature of this experiment, and thus, little variance in X<sup>R</sup> values is noted[.21](#page-9-0) However, similar changes in X<sup>R</sup> above the T<sup>g</sup> of ca. 523 K are observed for agZIF-UC-2 (6-Cl-5-FbIm). Interestingly, the Zn−N stretching X<sup>R</sup> for different ZIF crystals follows the order of ZIF-UC-3 (5-Cl-2-mbIm) (0.0374 cm<sup>−</sup><sup>1</sup> K<sup>−</sup><sup>1</sup> ) > ZIF-62 (0.0362 cm<sup>−</sup><sup>1</sup> K<sup>−</sup><sup>1</sup> ) > ZIF-UC-2 (6-Cl-5-FbIm) (0.0343 cm<sup>−</sup><sup>1</sup> K<sup>−</sup><sup>1</sup> ) > ZIF-UC-4 (5-FbIm) (0.0292 cm<sup>−</sup><sup>1</sup> K<sup>−</sup><sup>1</sup> ) > ZIF-UC-5 (5-ClbIm) (0.0255 cm<sup>−</sup><sup>1</sup> K<sup>−</sup><sup>1</sup> ), which shows excellent agreement with their melting onset temperatures (Figure 7 and [Table S9\)](#page-7-0).
+
+![](_page_6_Figure_4.jpeg)
+
+The decrease in melting temperature with greater values of X<sup>R</sup> is consistent with the computationally calculated melting mechanism for ZIFs. For example, melting has been theorized to proceed via metal−linker bond breaking at a critical temperature, where the ratio of the thermally induced vibrational amplitude of metal-linked atoms (i.e., N) and the M−N bond distance reach a critical point, i.e., Lindemann's law[.9](#page-8-0) Since X<sup>R</sup> describes the increasing deformation of the ZnN4 tetrahedra, it must also be correlated to both bond distance and the thermal vibration of the ligand. We also observe that the melting tendency has no clear correlation with the Zn−N bond strength at room temperature ([Figure S68\)](#page-7-0).
+
+Porosity. ZIF-UC-2 (6-Cl-5FbIm), ZIF-UC-3 (5-Cl-2 mbIm), ZIF-UC-4 (5-FbIm), and ZIF-UC-5 (5-ClbIm) all display a low N2 uptake at 77 K [\(Figure S69](#page-7-0)) with relatively low level of Brunauer−Emmett−Teller (BET) surface areas, in the range of ca. 7.10−86.73 m<sup>2</sup> /g.[50](#page-10-0) These values are consistent with the data reported in the literature, where the relatively dense structure of ZIF-62 blocks the entry and exit of N2 gas molecules into its inner framework structure.[51](#page-10-0) On the other hand, smaller gas molecules like CO2 can diffuse into the crystalline framework, and the absence of adsorption/ desorption hysteresis indicates the rapid adsorptive/desorptive kinetics for these crystals (measured at 273 K, [Figure S70](#page-7-0)). Our earlier work demonstrates that a reduction in porosity, and thus gas adsorption capacity, is to be expected after vitrification of a crystalline ZIF[.19](#page-9-0) A substantial degree of microporosity can be preserved, however, because of the presence of bulky bIm-based ligands, which prevents the total collapse of the porous interior upon liquid formation.[11,17](#page-9-0) CO2 adsorption isotherms at 273 K for the melt-quenched glass samples confirm this is also the case here (Figure 8a): all meltquenched ZIF glasses show reversible adsorption of CO2, suggesting the relatively rapid diffusion of guest molecules within these microporous structures.
+
+![](_page_6_Figure_10.jpeg)
+
+Figure 8. (a) CO2 gas adsorption/desorption isotherm for meltquenched ZIF glasses. (b) Plot of pycnometric density against Young's modulus of existing MOF glasses in this work, alongside the materials reported in this work.[14](#page-9-0)
+
+#### <span id="page-7-0"></span>Journal of the American Chemical Society [pubs.acs.org/JACS](pubs.acs.org/JACS?ref=pdf) Article
+
+The incorporation of fluorinated ligands can improve the CO2 uptake for both crystalline and glass materials. For example, despite ZIF-UC-4 (5-FbIm) and ZIF-UC-5 (5- ClbIm) exhibiting comparable quantities of bulky bIm-based ligands ([Table 2](#page-2-0)), ZIF-UC-4 (5-FbIm) exhibits a markedly higher CO2 uptake that is rationalized in terms of the stronger interaction between CO2 guests and framework F atoms in the narrow channels of the MOF.[52](#page-10-0) Similar behavior of other Ffunctionalized MOFs has been reported by other researchers[.53](#page-10-0)<sup>−</sup>[55](#page-10-0) After melting, agZIF-UC-4 (5-FbIm) displays a CO2 uptake of 42 cm<sup>3</sup> (STP)/cm<sup>3</sup> at 1 bar, which is ca. 15% higher than that for agZIF-UC-5 (5-ClbIm) and ca. 30% higher than that for agZIF-62.[19](#page-9-0)
+
+Mechanical Properties. Nanoindentation has been previously applied to investigate the mechanical properties including Young's moduli (E) and hardness of crystalline and amorphous MOFs.[14,21](#page-9-0) The average Young's modulus was recorded from load-displacement data (200−1000 nm) on polished glass samples (Figures S71−S74). Both agZIF-UC-4 (5-FbIm) and agZIF-UC-5 (5-ClbIm) show comparable values of E ≈ 9.4 and 9.3 GPa, respectively, placing them roughly at the upper bound of the existing ZIF glasses [\(Figures 8b](#page-6-0) and S75). The mechanical properties of MOF materials do not always follow density−stiffness rules but are determined more by the primary (metal−organic coordination structure) and secondary (nonbonded interactions) networks, which provide extra support for the structural weak points.[56](#page-10-0) Consistent with these reports, we postulate that the presence of halogenated moieties on the bIm-derived ligands can introduce more effective secondary network structures via nonbonded interactions, or indeed by the Zn−F bonds, which raise E in these cases above that found for agZIF-62 (E ≈ 6.1−8.8 GPa, [Figure 8](#page-6-0)b). Attempts have also been made to prepare bulk halogenated glass samples by first pelletizing samples of agZIF-UC-3 (5-Cl-2-mbIm), before annealing above the glass Tg. [57](#page-10-0) The resultant bulk glass (termed as agrZIF-UC-3 (5-Cl-2 mbIm)) has a dark brown, opaque appearance, with a diameter of 13 mm (Figure S76) and a Young's modulus of 6.66 ± 0.14 GPa.
+
+# ■ CONCLUSION
+
+Four new crystalline ZIFs, ZIF-UC-2 (6-Cl-5-FbIm), ZIF-UC-3 (5-Cl-2-mbIm), ZIF-UC-4 (5-FbIm), and ZIF-UC-5 (5- ClbIm) have been reported and have all been shown to undergo melting. The melting of ZIFs has previously been reported to be affected by the crystal structure of the precursor, the stoichiometric ratio of different ligands, and the type of metal node.[16,18](#page-9-0) The array of experimental techniques provided here show that the presence of electron-withdrawing moieties on the benzimidazolate ligand may weaken the Zn−N bond and also lead to a small reduction in the melting temperature of the ZIF crystal. The results also show that the presence of bulkier ligands results in a lower free activation energy through dispersive interaction-based stabilization of dissociated ligands in the liquid phase. These findings are encapsulated by in situ THz/far-IR studies that reveal the connection between Zn−N bond motion and melting behavior. Specifically, they provide evidence of a correlation between the ZIF melting temperature and the propensity of thermal-induced Zn−N polyhedral deformation, which provides experimental evidence of a melting mechanism being underpinned by the thermally induced vibrational amplitude of the N atoms reaching a critical point, which leads to the breaking of the Zn−N bond.
+
+In addition, solid-state NMR results provide specific evidence for the formation of Zn−F bonding in the glass phase, implying a reduction in the overall network connectivity. The extent of this rearrangement process is dependent upon treatment temperature, although the fate of the proportion of fluorobenzimidazolate ligands from which F detaches is beyond the scope of this work. The presence of a fluorinated moiety within the glass of ZIF-UC-4 (5-FbIm) also notably improves gas uptake for CO2, compared with ZIF-62 and ZIF-UC-5 (5-ClbIm) containing chlorinated benzimidazole ligands.
+
+The results help explain the glass-forming ability (GFA) of ZIF materials, which were analyzed using their respective Tg/ T<sup>m</sup> ratios ([Table 2](#page-2-0)). This ratio for conventional metallic, covalent, and ionic melt-quenched glasses follows the empirical Kauzmann "2/3 Law" [34](#page-9-0) and has been used previously to suggest the resistance to recrystallization of the supercooled liquid state.[18](#page-9-0) The highest GFA (0.92) for the samples studied here is observed for ZIF-UC-3 (5-Cl-2-mbIm). This is ascribed to the presence of the sterically bulky 5-Cl-2-mbIm ligand, which suppresses the ones for diffusion in the liquid phase. This is higher than the reported GFA for ZIF-62 (0.88). At the same time, slightly lower GFAs for the ZIF-UC-2 (0.77) and ZIF-UC-4 (0.81) are attributed to the formation of Zn−F bonds, which breaks the continuity of the random network and improves the diffusivity of the ligands in ZIF liquid, thus lowering Tg. The GFAs for the halogenated ZIFs are still higher than ionic, metallic, and covalent glasses.
+
+Importantly, together with recent progress on lowering the melting temperature of ZIFs through (i) adjustment of organic linker ratio and (ii) inclusion of multiple organic linkers and (iii) cobalt, these results may be used to further lower the melting temperature of ZIFs. Such research is essential if industrially viable working temperatures are to be achieved and larger-scale studies on the applications of such glasses are to be performed.
+
+# ■ ASSOCIATED CONTENT
+
+#### \*s<sup>ı</sup> Supporting Information
+
+The Supporting Information is available free of charge at [https://pubs.acs.org/doi/10.1021/jacs.9b11639.](https://pubs.acs.org/doi/10.1021/jacs.9b11639?goto=supporting-info)
+
+- Crystallographic data for ZIF-UC-2 (ClFbIm) [\(CIF](http://pubs.acs.org/doi/suppl/10.1021/jacs.9b11639/suppl_file/ja9b11639_si_001.cif))
+- Crystallographic data for ZIF-UC-3 (ClmbIm) [\(CIF\)](http://pubs.acs.org/doi/suppl/10.1021/jacs.9b11639/suppl_file/ja9b11639_si_002.cif)
+- Crystallographic data for ZIF-UC-4 (FbIm) [\(CIF](http://pubs.acs.org/doi/suppl/10.1021/jacs.9b11639/suppl_file/ja9b11639_si_003.cif))
+
+Experimental and characterization procedures, data on crystal structure, PXRD and Pawley refinement, liquidstate NMR, solid-state NMR, DFT calculation for charge density distribution, SEM image, FTIR, X-ray total scattering, pair distribution function, synchrotron THz/ farIR spectra, gas sorption, and nanoindentation and density [\(PDF\)](http://pubs.acs.org/doi/suppl/10.1021/jacs.9b11639/suppl_file/ja9b11639_si_005.pdf)
+
+# ■ AUTHOR INFORMATION
+
+#### Corresponding Author
+
+Thomas D. Bennett − Department of Materials Science and Metallurgy, University of Cambridge, Cambridge CB3 0FS, United Kingdom; [orcid.org/0000-0003-3717-3119;](http://orcid.org/0000-0003-3717-3119) Email: [tdb35@cam.ac.uk](mailto:tdb35@cam.ac.uk)
+
+Crystallographic data for ZIF-UC-5 (ClbIm) ([CIF\)](http://pubs.acs.org/doi/suppl/10.1021/jacs.9b11639/suppl_file/ja9b11639_si_004.cif)
+
+#### <span id="page-8-0"></span>Authors
+
+- Jingwei Hou − Department of Materials Science and Metallurgy, University of Cambridge, Cambridge CB3 0FS, United Kingdom; School of Chemical Engineering, University of Queensland, St Lucia, Queensland 4072, Australia; [orcid.org/0000-0001-9139-9835](http://orcid.org/0000-0001-9139-9835)
+- María Laura Ríos Gómez − Department of Materials Science and Metallurgy, University of Cambridge, Cambridge CB3 0FS, United Kingdom; Institute of Materials Research (IIM-UNAM), Circuito Exterior, Ciudad Universitaria, Coyoacań 04510, Mexico City, Mexico
+- AndražKrajnc − Department of Inorganic Chemistry and Technology, National Institute of Chemistry, 1001 Ljubljana, Slovenia; [orcid.org/0000-0003-2249-602X](http://orcid.org/0000-0003-2249-602X)
+- Aoife McCaul − Department of Materials Science and Metallurgy, University of Cambridge, Cambridge CB3 0FS, United Kingdom
+- Shichun Li − Department of Materials Science and Metallurgy, University of Cambridge, Cambridge CB3 0FS, United Kingdom; Institute of Chemical Materials, China Academy of Engineering Physics, Mianyang 621900, P. R. China
+- Alice M. Bumstead − Department of Materials Science and Metallurgy, University of Cambridge, Cambridge CB3 0FS, United Kingdom
+- Adam F. Sapnik − Department of Materials Science and Metallurgy, University of Cambridge, Cambridge CB3 0FS, United Kingdom
+- Zeyu Deng − Department of Materials Science and Metallurgy, University of Cambridge, Cambridge CB3 0FS, United Kingdom; [orcid.org/0000-0003-0109-9367](http://orcid.org/0000-0003-0109-9367)
+- Rijia Lin − School of Chemical Engineering, University of Queensland, St Lucia, Queensland 4072, Australia
+- Philip A. Chater − Diamond House, Harwell Science & Innovation Campus, Diamond Light Source, Ltd., Didcot, Oxfordshire OX11 0DE, United Kingdom; [orcid.org/0000-](http://orcid.org/0000-0002-5513-9400) [0002-5513-9400](http://orcid.org/0000-0002-5513-9400)
+- Dean S. Keeble − Diamond House, Harwell Science & Innovation Campus, Diamond Light Source, Ltd., Didcot, Oxfordshire OX11 0DE, United Kingdom
+- David A. Keen − ISIS Facility, Rutherford Appleton Laboratory, Didcot, Oxon OX11 0QX, United Kingdom
+- Dominique Appadoo − Australian Synchrotron, Clayton, Victoria 3168, Australia
+- Bun Chan − Graduate School of Engineering, Nagasaki University, Nagasaki 852-8521, Japan; [orcid.org/0000-](http://orcid.org/0000-0002-0082-5497) [0002-0082-5497](http://orcid.org/0000-0002-0082-5497)
+- Vicki Chen − School of Chemical Engineering, University of Queensland, St Lucia, Queensland 4072, Australia; [orcid.org/0000-0002-6604-6197](http://orcid.org/0000-0002-6604-6197)
+- Gregor Mali − Department of Inorganic Chemistry and Technology, National Institute of Chemistry, 1001 Ljubljana, Slovenia; [orcid.org/0000-0002-9012-2495](http://orcid.org/0000-0002-9012-2495)
+
+Complete contact information is available at: [https://pubs.acs.org/10.1021/jacs.9b11639](https://pubs.acs.org/doi/10.1021/jacs.9b11639?ref=pdf)
+
+#### Notes
+
+The authors declare no competing financial interest.
+
+# ■ ACKNOWLEDGMENTS
+
+T.D.B. thanks the Royal Society for a University Research Fellowship (UF150021) and a research grant (RSG \R1\180395). J.H. and T.D.B also thank EPSRC (EP/ R015481/1). J.H. thanks the Australian Research Council for a DECRA Fellowship (DE190100803). V.C. acknowledges financial support (DP180103874). S.L. acknowledges the China Scholarship Council (CSC). A.F.S. acknowledges the EPSRC for a Ph.D. studentship under the industrial CASE scheme along with Johnson Matthey PLC (JM11106). A.M.B. acknowledges the Royal Society for funding (RGF\EA \180092) as well as the Cambridge Trust for a Vice Chancellor's Award (304253100). Z.D. thanks the Cambridge Trust and the China Scholarship Council. The calculations were performed at the U.K. National Supercomputing Service, ARCHER. Access was obtained via the UKCP consortium and funded by EPSRC under Grant no. EP/P022596/1. A.K. and G.M. acknowledge financial support from the Slovenian Research Agency (research core funding no. P1-0021 and research project Z1-9171). We thank U. Javornik for help with the liquid-state 19F NMR measurements. Generous computational resources are provided (to B.C.) by RIKEN Information Systems Division (Project Q19266). The authors acknowledge the facilities, and the scientific and technical assistance, of the Australian Microscopy & Microanalysis Research Facility at the Centre for Microscopy and Microanalysis, The University of Queensland. Part of this research was undertaken on the THz/ Far-IR beamline at the Australian Synchrotron, part of ANSTO (M14790 and EU15604). We acknowledge the provision of synchrotron access to Beamline I15-1 (EE20038-1 and EE20038-2) at the Diamond Light Source.
+
+# ■ REFERENCES
+
+(1) Stassen, I.; Burtch, N.; Talin, A.; Falcaro, P.; Allendorf, M.; Ameloot, R. [An updated roadmap for the integration of metal-organic](https://dx.doi.org/10.1039/C7CS00122C) [frameworks with electronic devices and chemical sensors.](https://dx.doi.org/10.1039/C7CS00122C) Chem. Soc. Rev. 2017, 46 (11), 3185−3241.
+
+(2) Furukawa, H.; Cordova, K. E.; O'Keeffe, M.; Yaghi, O. M. [The](https://dx.doi.org/10.1126/science.1230444) [chemistry and applications of metal-organic frameworks.](https://dx.doi.org/10.1126/science.1230444) Science 2013, 341 (6149), 1230444.
+
+(3) Bennett, T. D.; Cheetham, A. K.; Fuchs, A. H.; Coudert, F.-X. [Interplay between defects, disorder and flexibility in metal-organic](https://dx.doi.org/10.1038/nchem.2691) [frameworks.](https://dx.doi.org/10.1038/nchem.2691) Nat. Chem. 2017, 9 (1), 11−16.
+
+(4) Cai, G.; Jiang, H.-L[. A modulator-induced defect-formation](https://dx.doi.org/10.1002/ange.201610914) [strategy to hierarchically porous metal-organic frameworks with high](https://dx.doi.org/10.1002/ange.201610914) [stability.](https://dx.doi.org/10.1002/ange.201610914) Angew. Chem. 2017, 129 (2), 578−582.
+
+(5) Cliffe, M. J.; Castillo-Martínez, E.; Wu, Y.; Lee, J.; Forse, A. C.; Firth, F. C. N.; Moghadam, P. Z.; Fairen-Jimenez, D.; Gaultois, M. W.; Hill, J. A.; Magdysyuk, O. V.; Slater, B.; Goodwin, A. L.; Grey, C. P[. Metal-organic nanosheets formed via defect-mediated trans](https://dx.doi.org/10.1021/jacs.7b00106)[formation of a hafnium metal-organic framework.](https://dx.doi.org/10.1021/jacs.7b00106) J. Am. Chem. Soc. 2017, 139 (15), 5397−5404.
+
+(6) Chen, W.; Horike, S.; Umeyama, D.; Ogiwara, N.; Itakura, T.; Tassel, C.; Goto, Y.; Kageyama, H.; Kitagawa, S. [Glass formation of a](https://dx.doi.org/10.1002/anie.201600123) [coordination polymer crystal for enhanced proton conductivity and](https://dx.doi.org/10.1002/anie.201600123) [material flexibility.](https://dx.doi.org/10.1002/anie.201600123) Angew. Chem., Int. Ed. 2016, 55 (17), 5195−5200. (7) Krause, S.; Bon, V.; Senkovska, I.; Stoeck, U.; Wallacher, D.; Többens, D. M.; Zander, S.; Pillai, R. S.; Maurin, G.; Coudert, F.-X.; Kaskel, S[. A pressure-amplifying framework material with negative gas](https://dx.doi.org/10.1038/nature17430) [adsorption transitions.](https://dx.doi.org/10.1038/nature17430) Nature 2016, 532 (7599), 348−352.
+
+(8) Dissegna, S.; Epp, K.; Heinz, W. R.; Kieslich, G.; Fischer, R. A. [Defective metal-organic frameworks.](https://dx.doi.org/10.1002/adma.201704501) Adv. Mater. 2018, 30 (37), 1704501.
+
+(9) Gaillac, R.; Pullumbi, P.; Beyer, K. A.; Chapman, K. W.; Keen, D. A.; Bennett, T. D.; Coudert, F.-X[. Liquid metal-organic frameworks.](https://dx.doi.org/10.1038/nmat4998) Nat. Mater. 2017, 16 (11), 1149−1154.
+
+(10) Zhao, Y.; Lee, S.-Y.; Becknell, N.; Yaghi, O. M.; Angell, C. A. [Nanoporous transparent MOF glasses with accessible internal surface.](https://dx.doi.org/10.1021/jacs.6b07078) J. Am. Chem. Soc. 2016, 138 (34), 10818−10821.
+
+#### <span id="page-9-0"></span>Journal of the American Chemical Society [pubs.acs.org/JACS](pubs.acs.org/JACS?ref=pdf) Article
+
+(11) Frentzel-Beyme, L.; Kloß, M.; Pallach, R.; Salamon, S.; Moldenhauer, H.; Landers, J.; Wende, H.; Debus, J.; Henke, S. [Porous purple glass - a cobalt imidazolate glass with accessible](https://dx.doi.org/10.1039/C8TA08016J) [porosity from a meltable cobalt imidazolate framework.](https://dx.doi.org/10.1039/C8TA08016J) J. Mater. Chem. A 2019, 7 (3), 985−990.
+
+(12) Bennett, T. D.; Todorova, T. K.; Baxter, E. F.; Reid, D. G.; Gervais, C.; Bueken, B.; Van de Voorde, B.; De Vos, D.; Keen, D. A.; Mellot-Draznieks, C[. Connecting defects and amorphization in UiO-](https://dx.doi.org/10.1039/C5CP06798G)[66 and MIL-140 metal-organic frameworks: a combined experimental](https://dx.doi.org/10.1039/C5CP06798G) [and computational study.](https://dx.doi.org/10.1039/C5CP06798G) Phys. Chem. Chem. Phys. 2016, 18 (3), 2192−2201.
+
+(13) Bennett, T. D.; Horike, S. [Liquid, Glass and amorphous solid](https://dx.doi.org/10.1038/s41578-018-0054-3) [states of coordination polymers and metal-organic frameworks.](https://dx.doi.org/10.1038/s41578-018-0054-3) Nat. Rev. Mater. 2018, 3, 431−440.
+
+(14) Bennett, T. D.; Yue, Y.; Li, P.; Qiao, A.; Tao, H.; Greaves, N. G.; Richards, T.; Lampronti, G. I.; Redfern, S. A. T.; Blanc, F.; et al. [Melt-quenched glasses of metal-organic frameworks.](https://dx.doi.org/10.1021/jacs.5b13220) J. Am. Chem. Soc. 2016, 138 (10), 3484−3492.
+
+(15) Bennett, T. D.; Tan, J.-C.; Yue, Y.; Baxter, E.; Ducati, C.; Terrill, N. J.; Yeung, H. H.-M.; Zhou, Z.; Chen, W.; Henke, S.; Cheetham, A. K.; Greaves, G. N. [Hybrid glasses from strong and](https://dx.doi.org/10.1038/ncomms9079) [fragile metal-organic framework liquids.](https://dx.doi.org/10.1038/ncomms9079) Nat. Commun. 2015, 6, 8079.
+
+(16) Frentzel-Beyme, L.; Kloss, M.; Kolodzeiski, P.; Pallach, R.; Henke, S[. Meltable mixed-linker zeolitic imidazolate frameworks and](https://dx.doi.org/10.1021/jacs.9b05558) [their microporous glasses - from melting point engineering to selective](https://dx.doi.org/10.1021/jacs.9b05558) [hydrocarbon sorption.](https://dx.doi.org/10.1021/jacs.9b05558) J. Am. Chem. Soc. 2019, 141 (3), 12362− 12371.
+
+(17) Zhou, C.; Longley, L.; Krajnc, A.; Smales, G. J.; Qiao, A.; Erucar, I.; Doherty, C. M.; Thornton, A. W.; Hill, A. J.; Ashling, C. W.; Qazvini, Q. T.; Lee, S. J.; Chater, P. A.; Terrill, N. J.; Smith, A. J.; Yue, Y.; Mali, G.; Keen, D. A.; Telfer, S. G.; Bennett, T. D. [Metal](https://dx.doi.org/10.1038/s41467-018-07532-z)[organic framework glasses with permanent accessible porosity.](https://dx.doi.org/10.1038/s41467-018-07532-z) Nat. Commun. 2018, 9 (1), 5042.
+
+(18) Qiao, A.; Bennett, T. D.; Tao, H.; Krajnc, A.; Mali, G.; Doherty, C. M.; Thornton, A. W.; Mauro, J. C.; Greaves, G. N.; Yue, Y[. A](https://dx.doi.org/10.1126/sciadv.aao6827) [metal-organic framework with ultrahigh glass-forming ability.](https://dx.doi.org/10.1126/sciadv.aao6827) Sci. Adv. 2018, 4 (3), No. eaao6827.
+
+(19) Widmer, R. N.; Lampronti, G. I.; Anzellini, S.; Gaillac, R.; Farsang, S.; Zhou, C.; Belenguer, A. M.; Wilson, C. W.; Palmer, H.; Kleppe, A. K.; Wharmby, M. T.; Yu, X.; Cohen, S. M.; Telfer, S. G.; Redfern, S. A. T.; Coudert, X.-F; Macleod, S. G.; Bennett, T. D. [Pressure promoted low-temperature melting of metal-organic frame](https://dx.doi.org/10.1038/s41563-019-0317-4)[works.](https://dx.doi.org/10.1038/s41563-019-0317-4) Nat. Mater. 2019, 18 (4), 370−376.
+
+(20) Tuffnell, J. M.; Ashling, C. W.; Hou, J.; Li, S.; Longley, L.; Ríos Gomez, M. L.; Bennett, T. D[. Novel metal-organic framework](https://dx.doi.org/10.1039/C9CC01468C) ́ [materials: blends, liquids, glasses and crystal-glass composites.](https://dx.doi.org/10.1039/C9CC01468C) Chem. Commun. 2019, 55 (60), 8705−8715.
+
+(21) Hou, J.; Ashling, C. W.; Collins, S. M.; Krajnc, A.; Zhou, C.; Longley, L.; Johnstone, D. N.; Chater, P. A.; Li, S.; Coulet, M.-V.; Llewellyn, P. L.; Coudert, F.-X.; Keen, D. A.; Midgley, P. A.; Mali, G.; Chen, V.; Bennett, T. D. [Metal-organic framework crystal-glass](https://dx.doi.org/10.1038/s41467-019-10470-z) [composites.](https://dx.doi.org/10.1038/s41467-019-10470-z) Nat. Commun. 2019, 10 (1), 2580.
+
+(22) Ashling, C. W.; Johnstone, D. N.; Widmer, R. N.; Hou, J.; Collins, S. M.; Sapnik, A. F.; Bumstead, A. M.; Midgley, P. A.; Chater, P. A.; Keen, D. A.; Bennett, T. D[. Synthesis and properties of a](https://dx.doi.org/10.1021/jacs.9b07557) [compositional series of MIL-53\(Al\) metal-organic framework crystal](https://dx.doi.org/10.1021/jacs.9b07557)[glass composites.](https://dx.doi.org/10.1021/jacs.9b07557) J. Am. Chem. Soc. 2019, 141 (39), 15641−15648.
+
+(23) Moghadam, P. Z.; Li, A.; Wiggin, S. B.; Tao, A.; Maloney, A. G. P.; Wood, P. A.; Ward, S. C.; Fairen-Jimenez, D[. Development of a](https://dx.doi.org/10.1021/acs.chemmater.7b00441) [cambridge structural database subset: a collection of metal-organic](https://dx.doi.org/10.1021/acs.chemmater.7b00441) [frameworks for past, present, and future.](https://dx.doi.org/10.1021/acs.chemmater.7b00441) Chem. Mater. 2017, 29 (7), 2618−2625.
+
+(24) Nagarkar, S. S.; Kurasho, H.; Duong, N. T.; Nishiyama, Y.; Kitagawa, S.; Horike, S[. Crystal melting and glass formation in copper](https://dx.doi.org/10.1039/C9CC02172H) [thiocyanate based coordination polymers.](https://dx.doi.org/10.1039/C9CC02172H) Chem. Commun. 2019, 55 (38), 5455−5458.
+
+(25) Widmer, R. N.; Lampronti, G. I.; Chibani, S.; Wilson, C. W.; Anzellini, S.; Farsang, S.; Kleppe, A. K.; Casati, N. P. M.; MacLeod, S. G.; Redfern, S. A. T.; Coudert, F.-X; Bennett, T. D. [Rich](https://dx.doi.org/10.1021/jacs.9b03234) [polymorphism of a metal-organic framework in pressure-temperature](https://dx.doi.org/10.1021/jacs.9b03234) [space.](https://dx.doi.org/10.1021/jacs.9b03234) J. Am. Chem. Soc. 2019, 141 (23), 9330−9337.
+
+(26) Gaillac, R.; Pullumbi, P.; Coudert, F.-X. [Melting of zeolitic](https://dx.doi.org/10.1021/acs.jpcc.8b00385) [imidazolate frameworks with different topologies: insight from first](https://dx.doi.org/10.1021/acs.jpcc.8b00385)[principles molecular dynamics.](https://dx.doi.org/10.1021/acs.jpcc.8b00385) J. Phys. Chem. C 2018, 122 (12), 6730−6736.
+
+(27) Chaplais, G.; Fraux, G.; Paillaud, J.-L.; Marichal, C.; Nouali, H.; Fuchs, A. H.; Coudert, F.-X.; Patarin, J[. Impacts of the imidazolate](https://dx.doi.org/10.1021/acs.jpcc.8b08706) linker substitution (ch [3, cl, or br\) on the structural and adsorptive](https://dx.doi.org/10.1021/acs.jpcc.8b08706) [properties of ZIF-8.](https://dx.doi.org/10.1021/acs.jpcc.8b08706) J. Phys. Chem. C 2018, 122 (47), 26945−26955.
+
+(28) Namsani, S.; Yazaydin, A. O[. Electric field induced rotation of](https://dx.doi.org/10.1039/C8ME00030A) [halogenated organic linkers in isoreticular metal-organic frameworks](https://dx.doi.org/10.1039/C8ME00030A) [for nanofluidic applications.](https://dx.doi.org/10.1039/C8ME00030A) Mol. Syst. Des. Eng. 2018, 3 (6), 951− 958.
+
+(29) Peralta, D.; Chaplais, G.; Simon-Masseron, A.; Barthelet, K.; Pirngruber, G. D[. Synthesis and adsorption properties of zif-76](https://dx.doi.org/10.1016/j.micromeso.2011.12.009) [isomorphs.](https://dx.doi.org/10.1016/j.micromeso.2011.12.009) Microporous Mesoporous Mater. 2012, 153, 1−7.
+
+(30) Banerjee, R.; Phan, A.; Wang, B.; Knobler, C.; Furukawa, H.; O'Keeffe, M.; Yaghi, O. M. [High-throughput synthesis of zeolitic](https://dx.doi.org/10.1126/science.1152516) [imidazolate frameworks and application to CO](https://dx.doi.org/10.1126/science.1152516) <sup>2</sup> Capture. Science 2008, 319 (5865), 939−943.
+
+(31) Yang, J.; Zhang, Y.-B.; Liu, Q.; Trickett, C. A.; Gutierrez- ́ Puebla, E.; Monge, M. Á .; Cong, H.; Aldossary, A.; Deng, H.; Yaghi, O. M[. Principles of designing extra-large pore openings and cages in](https://dx.doi.org/10.1021/jacs.7b02272) [zeolitic imidazolate frameworks.](https://dx.doi.org/10.1021/jacs.7b02272) J. Am. Chem. Soc. 2017, 139 (18), 6448−6455.
+
+(32) Ríos Gomez, M. L.; Lampronti, G. I.; Yang, Y.; Mauro, J. C.; ́ Bennett, T. D[. Relating structural disorder and melting in complex](https://dx.doi.org/10.1039/C9DT03559A) [mixed ligand zeolitic imidazolate framework glasses.](https://dx.doi.org/10.1039/C9DT03559A) Dalton Trans. 2020, 49, 850.
+
+(33) Longley, L.; Collins, S. M.; Zhou, C.; Smales, G. J.; Norman, S. E.; Brownbill, N. J.; Ashling, C. W.; Chater, P. A.; Tovey, R.; Schönlieb, C.-B.; Headen, T. F.; Terrill, N. J.; Yue, Y.; Smith, A. J.; Blanc, F.; Keen, D. A.; Midgley, P. A.; Bennett, T. D. [Liquid Phase](https://dx.doi.org/10.1038/s41467-018-04553-6) [blending of metal-organic frameworks.](https://dx.doi.org/10.1038/s41467-018-04553-6) Nat. Commun. 2018, 9 (1), 2135.
+
+(34) Ito, K.; Moynihan, C. T.; Angell, C. A[. Thermodynamic](https://dx.doi.org/10.1038/19042) [determination of fragility in liquids and a fragile-to-strong liquid](https://dx.doi.org/10.1038/19042) [transition in water.](https://dx.doi.org/10.1038/19042) Nature 1999, 398 (6727), 492−495.
+
+(35) Donth, E.-J. The Glass Transition; Springer Series in Materials Science; Zunger, A., Osgood, R. M., Hull, R., Sakaki, H., Eds.; Springer: Berlin/Heidelberg, 2001; Vol. 48.
+
+(36) Samanta, A.; Tuckerman, M. E.; Yu, T.-Q.; E, W[. Microscopic](https://dx.doi.org/10.1126/science.1253810) [mechanisms of equilibrium melting of a solid.](https://dx.doi.org/10.1126/science.1253810) Science 2014, 346 (6210), 729−732.
+
+(37) Farrow, C. L.; Juhas, P.; Liu, J. W.; Bryndin, D.; Bozin, E. S.; ̌ Bloch, J.; Proffen, T.; Billinge, S. J. L. [PDFfit2 and PDFgui: computer](https://dx.doi.org/10.1088/0953-8984/19/33/335219) [programs for studying nanostructure in crystals.](https://dx.doi.org/10.1088/0953-8984/19/33/335219) J. Phys.: Condens. Matter 2007, 19 (33), 335219.
+
+(38) Cai, S.-H.; Chen, Z.; Chen, Z.-W.; Wan, H.-L. [19F NMR](https://dx.doi.org/10.1016/S0009-2614(02)01028-X) [chemical shielding for metal fluorides MF2](https://dx.doi.org/10.1016/S0009-2614(02)01028-X) (M = Zn, Cd, Pb), MF3 [\(M = Al, Ga, In\) and SnF4.](https://dx.doi.org/10.1016/S0009-2614(02)01028-X) Chem. Phys. Lett. 2002, 362 (1−2), 13− 18.
+
+(39) Cullis, C. F.; Priday, K[. The thermal decomposition of aromatic](https://dx.doi.org/10.1098/rspa.1954.0160) [compounds - I. Chlorobenzene.](https://dx.doi.org/10.1098/rspa.1954.0160) Proc. R. Soc. London Ser. Math. Phys. Sci. 1954, 224 (1158), 308−321.
+
+(40) Campbell, M. G.; Ritter, T[. Modern carbon-fluorine bond](https://dx.doi.org/10.1021/cr500366b) [forming reactions for aryl fluoride synthesis.](https://dx.doi.org/10.1021/cr500366b) Chem. Rev. 2015, 115 (2), 612−633.
+
+(41) Xie, C.; Zhang, Y[. A New tandem reaction of benzyne: one-pot](https://dx.doi.org/10.1021/ol063017g) [synthesis of aryl amines containing anthracene.](https://dx.doi.org/10.1021/ol063017g) Org. Lett. 2007, 9 (5), 781−784.
+
+(42) Yoshida, H.; Sugiura, S.; Kunai, A[. Facile synthesis of](https://dx.doi.org/10.1021/ol0262845) n -alkyl- n ' [-arylimidazolium salts via addition of imidazoles to arynes.](https://dx.doi.org/10.1021/ol0262845) Org. Lett. 2002, 4 (16), 2767−2769.
+
+(43) Baxter, J. B.; Guglietta, G. W[. Terahertz spectroscopy.](https://dx.doi.org/10.1021/ac200907z) Anal. Chem. 2011, 83 (12), 4342−4368.
+
+(44) Ryder, M. R.; Civalleri, B.; Bennett, T. D.; Henke, S.; Rudic, S.; ́ Cinque, G.; Fernandez-Alonso, F.; Tan, J.-C[. Identifying the role of](https://dx.doi.org/10.1103/PhysRevLett.113.215502) <span id="page-10-0"></span>[terahertz vibrations in metal-organic frameworks: from gate-opening](https://dx.doi.org/10.1103/PhysRevLett.113.215502) [phenomenon to shear-driven structural destabilization.](https://dx.doi.org/10.1103/PhysRevLett.113.215502) Phys. Rev. Lett. 2014, 113 (21), 215502.
+
+(45) Yang, S.; Sun, J.; Ramirez-Cuesta, A. J.; Callear, S. K.; David, W. I. F.; Anderson, D. P.; Newby, R.; Blake, A. J.; Parker, J. E.; Tang, C. C.; et al[. Selectivity and direct visualization of carbon dioxide and](https://dx.doi.org/10.1038/nchem.1457) [sulfur dioxide in a decorated porous host.](https://dx.doi.org/10.1038/nchem.1457) Nat. Chem. 2012, 4 (11), 887−894.
+
+(46) Giordano, J.; Benoit, C. [Infrared spectra of iron, zinc and](https://dx.doi.org/10.1088/0022-3719/21/14/014) [magnesium fluorides: i. analysis of results.](https://dx.doi.org/10.1088/0022-3719/21/14/014) J. Phys. C: Solid State Phys. 1988, 21 (14), 2749−2770.
+
+(47) Viña, L.; Logothetidis, S.; Cardona, M[. Temperature depend](https://dx.doi.org/10.1103/PhysRevB.30.1979)[ence of the dielectric function of germanium.](https://dx.doi.org/10.1103/PhysRevB.30.1979) Phys. Rev. B: Condens. Matter Mater. Phys. 1984, 30 (4), 1979−1991.
+
+(48) Shen, Y. C.; Upadhya, P. C.; Linfield, E. H.; Davies, A. G. [Temperature-dependent low-frequency vibrational spectra of purine](https://dx.doi.org/10.1063/1.1565680) [and adenine.](https://dx.doi.org/10.1063/1.1565680) Appl. Phys. Lett. 2003, 82 (14), 2350−2352.
+
+(49) Ryder, M. R.; Bennett, T. D.; Kelley, C. S.; Frogley, M. D.; Cinque, G.; Tan, J.-C[. Tracking thermal-induced amorphization of a](https://dx.doi.org/10.1039/C7CC01985H) [zeolitic imidazolate framework via synchrotron in situ far-infrared](https://dx.doi.org/10.1039/C7CC01985H) [spectroscopy.](https://dx.doi.org/10.1039/C7CC01985H) Chem. Commun. 2017, 53 (52), 7041−7044.
+
+(50) Walton, K. S.; Snurr, R. Q. [Applicability of the BET method for](https://dx.doi.org/10.1021/ja071174k) [determining surface areas of microporous metal-organic frameworks.](https://dx.doi.org/10.1021/ja071174k) J. Am. Chem. Soc. 2007, 129 (27), 8552−8556.
+
+(51) Longley, L.; Collins, S. M.; Li, S.; Smales, G. J.; Erucar, I.; Qiao, A.; Hou, J.; Doherty, C. M.; Thornton, A. W.; Hill, A. J.; Yu, X.; Terrill, N. J.; Smith, A. J.; Cohen, S. M.; Midgley, P. A.; Keen, D. A.; Telfer, S. G.; Bennett, T. D[. Flux melting of metal-organic](https://dx.doi.org/10.1039/C8SC04044C) [frameworks.](https://dx.doi.org/10.1039/C8SC04044C) Chem. Sci. 2019, 10 (12), 3592−3601.
+
+(52) Nugent, P.; Belmabkhout, Y.; Burd, S. D.; Cairns, A. J.; Luebke, R.; Forrest, K.; Pham, T.; Ma, S.; Space, B.; Wojtas, L.; et al. [Porous](https://dx.doi.org/10.1038/nature11893) [Materials with Optimal Adsorption Thermodynamics and Kinetics for](https://dx.doi.org/10.1038/nature11893) [CO2 Separation.](https://dx.doi.org/10.1038/nature11893) Nature 2013, 495 (7439), 80−84.
+
+(53) Bhatt, P. M.; Belmabkhout, Y.; Cadiau, A.; Adil, K.; Shekhah, O.; Shkurenko, A.; Barbour, L. J.; Eddaoudi, M[. A fine-tuned](https://dx.doi.org/10.1021/jacs.6b05345) [fluorinated MOF addresses the needs for trace CO2](https://dx.doi.org/10.1021/jacs.6b05345) removal and air [capture using physisorption.](https://dx.doi.org/10.1021/jacs.6b05345) J. Am. Chem. Soc. 2016, 138 (29), 9301− 9307.
+
+(54) Cadiau, A.; Belmabkhout, Y.; Adil, K.; Bhatt, P. M.; Pillai, R. S.; Shkurenko, A.; Martineau-Corcos, C.; Maurin, G.; Eddaoudi, M. [Hydrolytically stable fluorinated metal-organic frameworks for energy](https://dx.doi.org/10.1126/science.aam8310)[efficient dehydration.](https://dx.doi.org/10.1126/science.aam8310) Science 2017, 356 (6339), 731−735.
+
+(55) Liu, G.; Cadiau, A.; Liu, Y.; Adil, K.; Chernikova, V.; Carja, I.- D.; Belmabkhout, Y.; Karunakaran, M.; Shekhah, O.; Zhang, C.; Itta, A. K.; Yi, S.; Eddaoudi, M.; Koros, W. J[. Enabling fluorinated MOF](https://dx.doi.org/10.1002/anie.201808991)[based membranes for simultaneous removal of H2S and CO2](https://dx.doi.org/10.1002/anie.201808991) from [natural gas.](https://dx.doi.org/10.1002/anie.201808991) Angew. Chem., Int. Ed. 2018, 57 (45), 14811−14816.
+
+(56) Moosavi, S. M.; Boyd, P. G.; Sarkisov, L.; Smit, B. [Improving](https://dx.doi.org/10.1021/acscentsci.8b00157) [the mechanical stability of metal-organic frameworks using chemical](https://dx.doi.org/10.1021/acscentsci.8b00157) [caryatids.](https://dx.doi.org/10.1021/acscentsci.8b00157) ACS Cent. Sci. 2018, 4 (7), 832−839.
+
+(57) Li, S.; Limbach, R.; Longley, L.; Shirzadi, A. A.; Walmsley, J. C.; Johnstone, D. N.; Midgley, P. A.; Wondraczek, L.; Bennett, T. D. [Mechanical properties and processing techniques of bulk metal](https://dx.doi.org/10.1021/jacs.8b11357)[organic framework glasses.](https://dx.doi.org/10.1021/jacs.8b11357) J. Am. Chem. Soc. 2019, 141 (2), 1027− 1034.# **Supporting Information**
+
+# **Halogenated Metal-Organic Framework Glasses and Liquids**
+
+Jingwei Hou,1,2 María Laura Ríos Gómez,1,3 Andraž Krajnc,<sup>4</sup> Aoife McCaul,<sup>1</sup> Shichun Li,1,5 Alice M. Bumstead,<sup>1</sup> Adam F. Sapnik,<sup>1</sup> Zeyu Deng,<sup>1</sup> Rijia Lin,<sup>2</sup> Philip A. Chater,<sup>6</sup> Dean S. Keeble,<sup>6</sup> David A. Keen,<sup>7</sup> Dominique Appadoo,<sup>8</sup> Bun Chan,<sup>9</sup> Vicki Chen,<sup>2</sup> Gregor Mali,<sup>4</sup> Thomas D. Bennett1,\*
+
+<sup>1</sup>Department of Materials Science and Metallurgy, University of Cambridge, 27 Charles Babbage Road, Cambridge, CB3 0FS, UK.
+
+<sup>2</sup>School of Chemical Engineering, University of Queensland, St Lucia, QLD, 4072, Australia.
+
+3 Institute of Materials Research (IIM-UNAM), Circuito Exterior, Ciudad Universitaria, Coyoacán, 04510, D. F., Mexico.
+
+<sup>4</sup>Department of Inorganic Chemistry and Technology, National Institute of Chemistry, 1001 Ljubljana, Slovenia.
+
+5 Institute of Chemical Materials, China Academy of Engineering Physics, Mianyang 621900, P. R. China.
+
+<sup>6</sup>Diamond Light Source Ltd., Diamond House, Harwell Campus, Didcot, Oxfordshire OX11 0DE, UK.
+
+7 ISIS Facility, Rutherford Appleton Laboratory, Harwell Campus, Didcot, Oxon OX11 0QX, UK.
+
+<sup>8</sup>Australian Synchrotron, 800 Blackburn Rd, Clayton, VIC, 3168 Australia.
+
+9Graduate School of Engineering, Nagasaki University, Nagasaki 852-8521, Japan.
+
+| Detailed Experimental Procedures              | S2  |
+|-----------------------------------------------|-----|
+| Crystal Structure Information<br>             | S6  |
+| Pawley Refinement for PXRD                    | S30 |
+| Liquid-State NMR for Crystal Precursors<br>   | S31 |
+| PXRD for Glass Samples<br>                    | S35 |
+| SEM Images for Crystals and Glasses           | S36 |
+| FTIR for Crystals and Glasses                 | S37 |
+| Liquid-State NMR for Glass Samples            | S38 |
+| DFT Calculation of the Charge Density Map<br> | S42 |
+| Synchrotron X-ray Total Scattering<br>        | S43 |
+| Pair Distribution Function<br>Plots           | S45 |
+| Solid-State NMR for Crystals<br>and Glasses   | S47 |
+| In<br>situ<br>THz Far-IR Synchrotron Plots    | S52 |
+| Gas Adsorption for Crystals and Glasses<br>   | S78 |
+| Nanoindentation Tests                         | S80 |
+| Density Measurements                          | S84 |
+| Reference                                     | S85 |
+
+## **Experimental**
+
+#### **Synthesis**
+
+ZIF-UC-2 (6-Cl-5-FbIm): Zinc nitrate hexahydrate (220 mg, 0.74 mmol) and imidazole (1188 mg, 16.42 mmol) were dissolved in 10 mL *N,N*-dimethylformamide (DMF) within a screw top vial. After being stirred for 1 hour, 6-chloro-5-fluorobenzimidazole (297.4 mg, 1.74 mmol) was added to the mixture. The solution was heated at 403 K for 48 hours and then cooled at 5 K hour-1 .
+
+ZIF-UC-3 (5-Cl-2-mbIm): Imidazole (60 mg, 0.89 mmol), 5-chloro-2-methylbenzimidazole (293 mg, 1.76 mmol) and zinc nitrate hexahydrate (262 mg, 0.88 mmol) were fully dissolved in a solution of 3 mL DMF and 4 mL *N,N*-diethylformamide (DEF), to which 0.25 mL of 2.5 mol dm-3 NaOH was added. The mixture was stirred for 1 hour and subsequently heated to 383 K for 5 days. The crystalline product was collected by filtration with dichloromethane.
+
+ZIF-UC-4 (5-FbIm) and ZIF-UC-5 (5-ClbIm): Imidazole (120 mg, 1.77 mmol) and 5 fluorobenzimidazole (112 mg, 0.82 mmol) or 5-chlorobenzimidazole (130 mg, 0.85 mmol) were fully dissolved in a solution of 8.3 mL DMF and 5.7 mL DEF. Then zinc nitrate hexahydrate (120 mg, 0.40 mmol) was added to the solution and stirred for 1 hour. Subsequently, NaOH (0.52 mL, 2.5 mol dm-3 ) (10 wt%) was added to the mixture, and the turbid solution was then heated to 363 K for 5 days. To obtain a pure phase of product, the cooling rate was set at 5 K hour-1 .
+
+Prior to subsequent experiments, all ZIF crystals were centrifuged and wished with dichloromethane for three times, and then placed in a vacuum oven at 450 K overnight for activation.
+
+#### **Single crystal X-ray measurement**
+
+Single crystal X-ray diffraction data were collected at 298 K on a Gemini E Ultra diffractometer from Oxford Diffraction with an area detector Atlas CCD. Data collection was performed using Cu Kα (λ = 1.540598 Å) radiation. The structure was solved and refined using the program WinGX version 2018.2.<sup>1</sup> More details on data collection and structural refinement are presented in the results section.
+
+#### **Powder X-ray diffraction**
+
+Powder X-ray diffraction was carried out under ambient conditions with a Bruker-AXS D8 diffractometer and a Cu K<sup>α</sup> (λ = 1.540598 Å) radiation source. The detector was a LynxEye position-sensitive detector in Bragg-Brentano parafocusing geometry. The 2θ range was 5° to 40°, with a step size of 0.02° and a 10s step rate. Pawley refinement was performed with the program jEdit 4.3 and TOPAS academic V5.<sup>2</sup> The unit cell parameters obtained by single crystal X-ray diffraction were used in the Pawley refinement.<sup>3</sup>
+
+#### **Liquid-state nuclear magnetic resonance spectroscopy**
+
+Liquid-state <sup>1</sup>H and <sup>19</sup>F nuclear magnetic resonance (NMR) measurements were conducted with *ca.* 6 mg of sample, digested in a mixture of DCl/D2O (35%; 0.1 mL) and DMSO-d<sup>6</sup> (0.5 mL). The <sup>1</sup>H NMR measurement was performed with a Bruker Avance III 400 MHz spectrometer at ambient conditions. Chemical shifts were referenced to the residual protiosolvent signals of DMSO-d6. The <sup>19</sup>F spectra were recorded using Varian Inova 300 MHz spectrometer and referenced relative to external CFCl3.
+
+#### **Thermogravimetric and calorimetric analysis**
+
+A TA Instruments SDT Q600 was used for thermogravimetric (TG) analysis. Samples (*ca.* 10 mg) were held in an alumina pan under a continuous flow of argon gas at a rate of 100 ml min-1 . For the melting experiments, the heating rate was controlled at 20 K min-1 . The melting and glass transition temperatures of the sample were measured with a Netzsch 214 Polyma instrument. The sample (*ca.* 4 mg) was sealed in an aluminium crucible, with an *ca.* 0.5 mm hole on the lid. The temperature ramp was set at 20 K min-1 for the first heating (melting) cycle and then 10 K min-1 for the downscan and second heating cycle. To determine the glass transition temperature, the samples were heated to 693 K for ZIF-UC-2 (6-Cl-5-FbIm), 683 K for ZIF-UC-3 (5-Cl-2-mbIm), 708 K for ZIF-UC-4 (5-FbIm) and 723 K for ZIF-UC-5 (5- ClbIm) in the first cycle, before being cooled back to 310 K for the second heating cycle. An empty pan was run with identical settings and this was subtracted from the original trace, in order to baseline correct all scans.
+
+#### **Scanning electron microscopy**
+
+The surface morphologies of the crystal and glass samples were examined with a highresolution scanning electron microscope (FEI Nova Nano SEM 450, accelerating voltage voltage 10 kV). After being vacuum dried overnight, all samples were coated with a layer of gold prior to imaging.
+
+#### **Synchrotron X-ray total scattering and pair distribution function analysis**
+
+XRD data were collected on the I15-1 beamline at the Diamond Light Source, UK using an Xray wavelength λ = 0.161669 Å (76.7 keV). Crystalline and glass samples were loaded into borosilicate glass capillaries of  1.17 mm (inner) diameter. Data from the samples, empty instrument and empty capillary were collected in the region of ~0.4 < Q < ~ 26 Å−1 . Corrections for background, multiple scattering, container scattering, Compton scattering and absorption were performed using the GudrunX program. <sup>4</sup> The refinement was carried out with PDFGUI software.<sup>5</sup>
+
+#### **Solid-state nuclear magnetic resonance (NMR) spectroscopy**
+
+Solid-state NMR measurements were performed on a 600 MHz Varian NMR system equipped with a 1.6 mm HXY magic angle spinning (MAS) probe. For all the experiments, the sample spinning frequency was 40 kHz. <sup>19</sup>F MAS NMR spectra were recorded using Hahn-echo sequence with inter-pulse delays of 25 µs (one rotation period). The 90° pulse length was 1.7 µs, 180° pulse length was 3.4 µs, and 160 scans were accumulated with the repetition delay of 5 s. The 1H-<sup>13</sup>C cross-polarization (CP) MAS experiments consisted of excitation of protons with a 90° pulse of 1.5 µs, followed by the CP block of 5 ms, and signal acquisition with highpower XiX proton decoupling. A total of 40,000 scans were accumulated with the repetition delay of 1 s. For the 1H-<sup>13</sup>C Lee-Goldburg cross-polarization (LG-CP) experiment, the LG-CP scheme with duration of 50 µs was used. The 19F-<sup>13</sup>C CPMAS experiment consisted of <sup>19</sup>F excitation pulse of 1.7 µs and the CP block of 1 ms. The number of scans was 10,000 and recycling delay was 1 s. For the selective <sup>19</sup>F-<sup>13</sup>C CPMAS experiment the <sup>19</sup>F transmitting frequency was set to the selected peak position and a low-power <sup>19</sup>F excitation pulse with duration of 10 µs was applied prior to the CP block. The contact time was 5 ms, the repetition delay 2.5 s and 3300 scans were accumulated. The two-dimensional <sup>19</sup>F spin-diffusion measurement on ZIF-UC-4 (5-FbIm) consisted of 50 increments along the indirect dimension with 32 scans per increment and repetition delay of 1 s; spectral width in the indirect dimension was 40 kHz. The spin-diffusion mixing time was 100 ms. The wide-range <sup>19</sup>F spin-diffusion experiment on *a*gZIF-UC-4 (5-FbIm) was performed with 80 increments and 64 scans for each increment; spectral width in the indirect dimension was 160 kHz. Spin-diffusion mixing times varied between 0 and 100 ms. <sup>19</sup>F spin-lattice (T1) and spin-spin (T2) relaxation-time measurements were carried out under MAS using the inversion-recovery and spin-echo pulse sequences, respectively. Larmor frequencies for <sup>19</sup>F and <sup>13</sup>C nuclei were 564.03 MHz and 150.73 MHz, respectively. <sup>19</sup>F chemical shifts were referenced to the signal of CFCl<sup>3</sup> and <sup>13</sup>C chemical shifts to the signal of TMS.
+
+#### **Gas sorption and gas pycnometry (density) tests**
+
+Nitrogen and carbon dioxide gas sorption isotherm tests were carried out with a Micromeritics ASAP 2020 instrument. For each measurement, at least 100 mg sample was used. All samples were degassed overnight at 450 K under vaccum. For measurement, the equilibration interval was 45 s and the minimum equilibration delay at p/p\*>=0.995 was 600s. The BET surface area was calculated using pyGAPS v2.0.2 (Python General Adsorption Processing Suite) framework on Pythonv3.5. <sup>6</sup> A Micromeritics Accupyc 1340 helium pycnometer was used for the density measurement. For each test, a minimum of 100 mg of sample was applied and a cycle of 10 measurements was conducted. The volumetric gas uptake (cm<sup>3</sup> (STP) / cm<sup>3</sup> adsorbent) was calculated with the measured sample density.
+
+#### **Nanoindentation measurement**
+
+The mechanical properties of the glass samples were measured with an MTS Nanoindenter XP system. All glass samples were mounted within epoxy resin followed by polishing with fine diamond suspension liquids. Nanoindentation experiments were carried out at ambient conditions under the dynamic displacement controlled mode, with a constant strain rate at 0.05 s -1 . The testing penetration depth of 1000 nm using a three-sided pyramidal (Berkovich) diamond indenter tip. A Poisson's ratio of 0.4 was applied. Each sample was tested for at least 20 different locations. The load-displacement data were analyzed using the Oliver and Pharr method, with the gradient of unloading curves measured at 90 % of the maximum load.<sup>7</sup>
+
+#### **Computational methodology for bonding strength and charge density**
+
+DFT calculations were performed using projected augmented wave (PAW)8,9 potentials as implemented in VASP code10,11 with following electrons treated explicitly: Zn 3d<sup>10</sup>4s<sup>2</sup> , O 2s<sup>2</sup>2p<sup>4</sup> , C 2s<sup>2</sup>2p<sup>2</sup> N 2s<sup>2</sup>2p<sup>3</sup>and H 1s<sup>1</sup> . Van der Waals functional (optB86b-vdW)<sup>12</sup> was used to treat the exchange-correlation part. A 500 eV kinetic energy cut-off and a gamma point only k-point mesh were used for all calculations. Calculations were performed on the clusters of Zn(ImH)3(5-ClbImH) and Zn(ImH)3(5-FbImH) where all the bridging nitrogens within Im and bIm are connected to a H atom. Clusters were put at the center of a 30×30×30 Å<sup>3</sup> box and relaxed until interatomic forces were smaller than 0.01 eV/Å.
+
+#### **Pelletized bulk glass**
+
+200 mg ZIF-UC-3 (5-Cl-2-mbIm) was vitrified at 683 K in a tube furnace at a ramp rate of 20 K min-1 . Then the sample was held at 683 K for 14 min, before being cooled to room temperature. PXRD was performed to ensure the sample was fully amorphized. The quenched sample was ball milled at 25 Hz for 5 minutes with two 7 mm stainless steel balls to produce a fine powder. Then the powder was pressed into a 13 mm diameter pellet with the application of 10 tons for 1 min. The pellet was then heated to 653 K (i.e., above *T*<sup>g</sup> but below the decomposition temperature of the crystal) and held for 5 hours. The resultant sample was referred to as agrZIF-UC-3 (5-Cl-2-mbIm), where 'gr' refers to remelted glass.
+
+#### **Synchrotron TeraHz Far-Infrared (THz/Far-IR) absorption spectroscopy**
+
+THz/Far-IR absorption spectra of all samples were collected at the THz/Far-IR beamline at the Australian Synchrotron. The THz spectroscopy was performed using a Bruker IFS 125/HR Fourier Transform (FT) spectrometer. The measurements were performed with a 6 µm thick Multilayer Mylar beamsplitter. In order to obtain a high signal-to-noise ratio, a liquid heliumcooled bolometer was deployed.
+
+The Attenuated Total Reflection (ATR) method was applied for sample analysis: powdered samples were mounted on top of the diamond ATR crystal, then held in position by applying pressure with the lever arm. For each test, around 20 mg sample was used to ensure the sample thickness was higher than the penetration depth of the beam, which can be of the order of 20- 200 µm. Prior to each sample measurement, the diamond crystal was cleaned with isopropanol, and background spectra were collected. For *in situ* heating/cooling measurements, the background spectra were recorded at each tested temperature prior to recording the corresponding sample spectra in order to obtain accurate data. The ATR heating stage and sample were enclosed in an environment of flowing argon gas. The collected spectral data were then corrected via Extended ATR correction algorithms in the OPUS 8.0 software. The peak positions in the spectra during the *in situ* heating test were assigned using NumPy module v1.15 together with Python v3.5. 13
+
+#### **Computational details for THz/Far-IR spectra**
+
+Standard computational chemistry calculations were carried out using Gaussian 16 for the calculation of THz/Far-IR spectra. The detailed procedure can be found in the literature. 14 Briefly, we used a series of molecular species to model the key component of interest of the materials system. They were complexes of Zn with three Im and one bIm derivatives, with an overall charge of minus two; they essentially corresponded to Zn(II) complexes. Geometries of these molecular models were optimized with the B3-LYP method <sup>15</sup> in conjunction with the 6-31+G(d,p) basis set.<sup>16</sup> Harmonic vibrational frequencies were obtained at the same level of theory and they were inspected to ensure that the optimized structures correspond to minima on their potential energy surface. Fundamental frequencies reported in the text correspond to scaled B3-LYP/6-31+G(d,p) harmonic frequencies using the literature scale factor of 0.9648. <sup>17</sup> Simulated infrared spectra were obtained by assuming a Gaussian band for each peak with a full width at half maximum (FWHM) of 10 cm-1 .
+
+### **Results**
+
+## ZIF-UC-2 (6-Cl-5-FbIm) (**cag** ─ Orthorhombic) Experimental and Refinement Details for **ZIF-UC-2 (6-Cl-5-FbIm)**
+
+*(CCDC Deposition Number 1951694)*
+
+A colourless polyhedral crystal (0.10 × 0.07 × 0.05 mm<sup>3</sup> ) of ZIF-UC-2 (6-Cl-5-FbIm) was placed in a 0.2 mm diameter borosilicate loop and mounted on a Gemini E Ultra diffractometer from Oxford Diffraction, equipped with an Atlas CCD area detector and operated at 35 kV and 35 mA, to generate Cu Kα radiation (λ = 1.54184 Å) at 293(2) K. A total of 10790 reflections were collected, of which 3641 were unique and 3021 of these were greater than 2*σ(I)*. The range of *θ* was from 2.44 to 63.99°. Analysis of the data showed negligible decay during collection. The structure was solved in the orthorhombic *Pbca* space group with *Z* = 8 using the SUPERFLIP method.<sup>18</sup> Modeling of electron density led to the identification of an asymmetric unit with two independent Zn atoms and four organic linkers. From those four linkers, three are unsubstituted Imidazolates with no disorder, and the fourth is disordered between 6-Cl-5-FbIm (with occupancy 0.260(7)) and Imidazole (with occupancy 0.740(7)). Note that in this fourth position the 6-Cl-5-FbIm linker is shifted away from the complementary Im position by 54.80°, which results in partial occupancy of sites normally occupied by solvent molecules. This shift avoids a steric clash with neighboring Im linkers in the fully occupied sites. This feature, in addition to a previous desolvation of the crystal caused the electron density within the void of the frameworks to be too low to model the solvent. With the exception of disordered Cl, F and four partial occupancy benzene carbon atoms, all non-hydrogen atoms have been refined anisotropically. All hydrogen atoms have been placed in geometrically located positions and their displacement parameters are tied to those of the attached carbon atoms. The unit cell of ZIF-UC-2 (6-Cl-5-FbIm) contains 1.87 Im and 0.13 6-Cl-5-FbIm per Zn. Final full matrix least squares refinement on *F* <sup>2</sup> converged to *R*<sup>1</sup> = 0.0459 (*F* >2*σF*)) and *wR*<sup>2</sup> = 0.1511 (all data), with GooF = 1.074.
+
+| Chemical formula                | C13.04<br>H12<br>N8<br>Cl0.26<br>F0.26 Zn2     |
+|---------------------------------|------------------------------------------------|
+| Formula weight                  | 425.71 g/mol                                   |
+| Temperature                     | 293(2)                                         |
+| Wavelength                      | 1.54184 Å                                      |
+| Crystal system                  | Orthorhombic                                   |
+| Space group                     | Pbca                                           |
+| Unit cell dimensions            | a<br>= 15.5560 (5) A˚<br>α = 90°               |
+|                                 | b<br>= 15.6538 (5) A˚<br>β = 90°               |
+|                                 | c<br>= 18.0875 (6) A˚<br>γ = 90°               |
+| Volume                          | 4404.5(2) Å3                                   |
+| Density (calculated)            | 1.283 g/cm³                                    |
+| Absorption coefficient          | 3.066                                          |
+| F(000)                          | 1892.48                                        |
+| Crystal size                    | 0.05 mm3<br>0.10 ×<br>0.07 ×                   |
+| Theta range for data collection | 2.4428 -<br>63.9874°                           |
+| Index ranges                    | -16 <= h <= 18, -17 <= k <= 18, -20 <= l <= 21 |
+| Reflections collected           | 10790                                          |
+| Independent reflections         | 3641                                           |
+| Completeness to theta = 66.97°  | 92.81 %                                        |
+| Absorption correction           | multi-scan                                     |
+| Refinement method               | 2<br>Full-matrix least-squares on F            |
+| Data / restraints / parameters  | 3641 / 10 / 251                                |
+| 2<br>Goodness-of-fit on F       | 1.074                                          |
+| Final R<br>indices [I>2σ(I)]    | R1<br>= 0.0459, wR2<br>= 0.1408                |
+| R<br>indices (all data)         | R1<br>= 0.0535, wR2<br>= 0.1511                |
+| Largest diff. peak and hole     | 0.757 and -0.482 e. Å-3                        |
+
+**Table S1.** Crystal data and structure refinement details for ZIF-UC-2 (6-Cl-5-FbIm).
+
+**Table S2.** Additional refinement details for ZIF-UC-2 (6-Cl-5-FbIm): atomic positions (fractions), isotropic atomic displacement parameter (U iso or equivalent), type of atomic displacement parameters used for the site (Adp type) and corresponding site occupancy factors (Occup).
+
+| Atom  | Atom |            | Atom site fraction coordinates |              | U iso or   | Adp  |          |
+|-------|------|------------|--------------------------------|--------------|------------|------|----------|
+| label | sym  | x          | y                              | z            | equivalent | type | Occup    |
+| Zn1   | Zn   | 0.69842(3) | 0.14509(3)                     | 0.09462(3)   | 0.0684(2)  | Uani | 1        |
+| Zn2   | Zn   | 1.00115(3) | 0.34160(3)                     | 0.18728(3)   | 0.0673(2)  | Uani | 1        |
+| N4    | N    | 0.8216(2)  | 0.1686(2)                      | 0.11123(19)  | 0.0756(8)  | Uani | 1        |
+| N1    | N    | 0.5567(2)  | 0.3167(2)                      | 0.21662(17)  | 0.0746(8)  | Uani | 1        |
+| N5    | N    | 0.6631(2)  | 0.0450(2)                      | 0.15522(19)  | 0.0753(8)  | Uani | 1        |
+| N2    | N    | 0.6318(2)  | 0.2442(2)                      | 0.13360(17)  | 0.0732(8)  | Uani | 1        |
+| N3    | N    | 0.9366(2)  | 0.2417(2)                      | 0.14796(19)  | 0.0750(8)  | Uani | 1        |
+| N6    | N    | 0.5823(2)  | -0.0629(2)                     | 0.19484(17)  | 0.0720(8)  | Uani | 1        |
+| C7    | C    | 0.5990(3)  | -0.0081(2)                     | 0.1416(2)    | 0.0737(10) | Uani | 1        |
+| H7    | H    | 0.567937   | -0.006823                      | 0.097704     | 0.088      | Uiso | 1        |
+| C4    | C    | 0.8522(2)  | 0.2408(3)                      | 0.1385(2)    | 0.0748(10) | Uani | 1        |
+| H4    | H    | 0.817364   | 0.287222                       | 0.15002      | 0.09       | Uiso | 1        |
+| C1    | C    | 0.5915(3)  | 0.2437(3)                      | 0.1981(2)    | 0.0778(10) | Uani | 1        |
+| H1    | H    | 0.588236   | 0.195412                       | 0.227884     | 0.093      | Uiso | 1        |
+| C6    | C    | 0.9620(3)  | 0.1650(3)                      | 0.1222(4)    | 0.116(2)   | Uani | 1        |
+| H6    | H    | 1.018639   | 0.146142                       | 0.119591     | 0.139      | Uiso | 1        |
+| C8    | C    | 0.6903(4)  | 0.0211(4)                      | 0.2228(3)    | 0.116(2)   | Uani | 1        |
+| H8    | H    | 0.73612    | 0.045209                       | 0.248268     | 0.139      | Uiso | 1        |
+| C3    | C    | 0.5758(5)  | 0.3677(3)                      | 0.1597(3)    | 0.124(2)   | Uani | 1        |
+| H3    | H    | 0.560992   | 0.425129                       | 0.155855     | 0.149      | Uiso | 1        |
+| C2    | C    | 0.6193(5)  | 0.3233(4)                      | 0.1093(3)    | 0.126(2)   | Uani | 1        |
+| H2    | H    | 0.638076   | 0.344364                       | 0.06401      | 0.152      | Uiso | 1        |
+| C9    | C    | 0.6405(4)  | -0.0436(3)                     | 0.2477(3)    | 0.1093(17) | Uani | 1        |
+| H9    | H    | 0.645537   | -0.070232                      | 0.293491     | 0.131      | Uiso | 1        |
+| C5    | C    | 0.8926(4)  | 0.1200(4)                      | 0.1009(4)    | 0.118(2)   | Uani | 1        |
+| H5    | H    | 0.893289   | 0.064694                       | 0.082134     | 0.142      | Uiso | 1        |
+| C10A  | C    | 0.5949(9)  | 0.1453(8)                      | -0.0429(8)   | 0.064(2)   | Uani | 0.740(4) |
+| H10A  | H    | 0.550036   | 0.172077                       | -0.018037    | 0.077      | Uiso | 0.740(4) |
+| N7A   | N    | 0.6668(2)  | 0.1229(2)                      | -0.00937(18) | 0.0801(9)  | Uani | 0.740(4) |
+| N8A   | N    | 0.5909(2)  | 0.1271(2)                      | -0.11374(19) | 0.0816(9)  | Uani | 0.740(4) |
+| C12A  | C    | 0.6721(6)  | 0.1020(9)                      | -0.1298(4)   | 0.178(6)   | Uani | 0.740(4) |
+| H12A  | H    | 0.69301    | 0.089661                       | -0.176788    | 0.214      | Uiso | 0.740(4) |
+| C11A  | C    | 0.7176(6)  | 0.0979(10)                     | -0.0663(5)   | 0.187(7)   | Uani | 0.740(4) |
+| H11A  | H    | 0.774594   | 0.080655                       | -0.062311    | 0.225      | Uiso | 0.740(4) |
+| C10B  | C    | 0.6127(19) | 0.161(2)                       | -0.053(2)    | 0.047(5)   | Uani | 0.260(4) |
+| H10B  | H    | 0.589977   | 0.214166                       | -0.039684    | 0.057      | Uiso | 0.260(4) |
+| N7B   | N    | 0.6668(2)  | 0.1229(2)                      | -0.00937(18) | 0.0801(9)  | Uani | 0.260(4) |
+
+| Continued |
+|-----------|
+|-----------|
+
+| Atom  | Atom |            | Atom site fraction coordinates |              | U iso or   | Adp  |          |
+|-------|------|------------|--------------------------------|--------------|------------|------|----------|
+| label | sym  | x          | y                              | z            | equivalent | type | Occ      |
+| N8B   | N    | 0.5909(2)  | 0.1271(2)                      | -0.11374(19) | 0.0816(9)  | Uani | 0.260(4) |
+| C12B  | C    | 0.6233(7)  | 0.0406(8)                      | -0.1068(6)   | 0.058(3)   | Uani | 0.260(4) |
+| C11B  | C    | 0.6723(7)  | 0.0385(8)                      | -0.0423(7)   | 0.061(3)   | Uani | 0.260(4) |
+| C13   | C    | 0.6170(11) | -0.0317(11)                    | -0.1518(9)   | 0.084(4)   | Uiso | 0.260(4) |
+| H13   | H    | 0.584561   | -0.030954                      | -0.194931    | 0.101      | Uiso | 0.260(4) |
+| C15   | C    | 0.7152(13) | -0.1151(14)                    | -0.0696(12)  | 0.101(6)   | Uiso | 0.260(4) |
+| C16   | C    | 0.7175(12) | -0.0354(12)                    | -0.0219(11)  | 0.094(5)   | Uiso | 0.260(4) |
+| H16   | H    | 0.749531   | -0.035492                      | 0.021508     | 0.113      | Uiso | 0.260(4) |
+| C14   | C    | 0.6655(16) | -0.1127(18)                    | -0.1276(14)  | 0.123(7)   | Uiso | 0.260(4) |
+| Cl    | Cl   | 0.6661(6)  | -0.1930(6)                     | -0.1833(4)   | 0.155(3)   | Uiso | 0.260(4) |
+| F     | F    | 0.7584(10) | -0.1829(10)                    | -0.0580(7)   | 0.135(5)   | Uiso | 0.260(4) |
+
+![](_page_10_Figure_0.jpeg)
+
+**Figure S1.** Graphical representation (thermal ellipsoids) of the first of two possible configurations for the asymmetric unit of ZIF-UC-2 (6-Cl-5-FbIm): two crystallographically independent Zn atoms, one of them surrounded by four independent Im linkers. This configuration represents 74% of the coordination environments for Zn atoms. H atoms are excluded for clarity.
+
+![](_page_11_Figure_0.jpeg)
+
+**Figure S2**. Graphical representation (thermal ellipsoids) of the second of two possible configurations for the asymmetric unit of ZIF-UC-2 (6-Cl-5-FbIm): two crystallographically independent Zn atoms, one of them surrounded by four independent linkers: three Im and one 6-Cl-5-FbIm. The 6-Cl-5-FbIm linker is shifted away from the complementary Im position by 54.80° to avoid clashing with neighboring Im linkers in totally occupied sites. This configuration represents 26% of the coordination environments for Zn atoms. H atoms are excluded for clarity.
+
+# ZIF-UC-3 (5-Cl-2-mbIm) (**cag** ─ Orthorhombic) Experimental and Refinement Details for **ZIF-UC-3 (5-Cl-2-mbIm)**
+
+#### *(CCDC Deposition Number 1951695)*
+
+A colourless polyhedral crystal (0.05 × 0.04 × 0.04 mm<sup>3</sup> ) of ZIF-UC-3 (5-Cl-2-mbIm) was placed in a 0.1 mm diameter borosilicate loop and mounted on a Gemini E Ultra diffractometer from Oxford Diffraction, equipped with an Atlas CCD area detector and operated at 35 kV and 35 mA, to generate Cu Kα radiation (λ = 1.54184 Å) at 293(2) K. A total of 11002 reflections were collected, of which 3879 were unique and 2794 of these were greater than 2*σ(I)*. The range of *θ* was from 2.45 to 64.19°. Analysis of the data showed negligible decay during collection. The structure was solved in the orthorhombic *Pbca* space group with *Z* = 8 using the SUPERFLIP method.<sup>18</sup> Modeling of electron density led to identification of 0.78 DMF molecules in the asymmetric unit. The asymmetric unit is also integrated by two Zn atoms and four linkers. From those four linkers, three are Im in positions with no disorder and the fourth position is disordered between 5-Cl-2-mbIm (occupancy 0.375(10)) and Im (occupancy 0.625(12)). This fourth position can contain 5-Cl-2-mbIm with a maximum occupancy of a maximum of 50%, as the center of symmetry in this space group would bring the benzene rings related by this center into contact with each other. All non-H atoms, except the ones from the solvent, have been refined anisotropically. All H atoms have been placed in geometrically located positions and their displacement parameters are tied to those of the attached C atoms. The crystal was synthesized using a combination of DMF, DEF and NaOH solvents. Nevertheless the structure was refined just considering DEF because the other two were used in smaller quantities. This accounts for the residual density reported and resulting decrease of refinement stability. The unit cell of ZIF-UC-3 (5-Cl-2-mbIm) contains 1.81 Im and 0.19 5-Cl-2-mbIm per Zn. Final full matrix least -50 squares refinement on *F* <sup>2</sup> converged to *R*<sup>1</sup> = 0.0968 (*F* >2*σF*)) and *wR*<sup>2</sup> = 0.3257 (all data) with GooF = 1.205.
+
+| Chemical formula                | C16.22<br>H18.58<br>Cl0.38<br>N8.78<br>O0.78<br>Zn2 |
+|---------------------------------|-----------------------------------------------------|
+| Formula weight                  | 493.27 g/mol                                        |
+| Temperature                     | 293(2)                                              |
+| Wavelength                      | 1.54184 Å                                           |
+| Crystal system                  | Orthorhombic                                        |
+| Space group                     | Pbca                                                |
+| Unit cell dimensions            | a<br>= 15.8749(6) A˚<br>α = 90°                     |
+|                                 | b<br>= 16.2805(6) A˚<br>β = 90°                     |
+|                                 | c<br>= 18.0681(6) A˚<br>γ = 90°                     |
+| Volume                          | 4669.7(3) Å3                                        |
+| Density (calculated)            | 1.401 g/cm³                                         |
+| Absorption coefficient          | 3.110                                               |
+| F(000)                          | 2225.76                                             |
+| Crystal size                    | 0.04 mm3<br>0.05 ×<br>0.04 ×                        |
+| Theta range for data collection | 2.445 -<br>64.188 °                                 |
+| Index ranges                    | -18 <= h <= 18, -18 <= k <= 18, -21 <= l <= 21      |
+| Reflections collected           | 11002                                               |
+| Independent reflections         | 3879                                                |
+| Completeness to theta = 66.97°  | 93.23 %                                             |
+| Absorption correction           | multi-scan                                          |
+| Refinement method               | 2<br>Full-matrix least-squares on F                 |
+| Data / restraints / parameters  | 3879 / 19 / 232                                     |
+| Goodness-of-fit on F2           | 1.205                                               |
+| Final R<br>indices [I>2σ(I)]    | R1<br>= 0.0968, wR2<br>= 0.2950                     |
+| R indices (all data)            | R1<br>= 0.1257, wR2<br>= 0.3257                     |
+| Largest diff. peak and hole     | 0.932 and -1.143 e. Å-3                             |
+
+**Table S3.** Crystal data and structure refinement for ZIF-UC-3 (5-Cl-2-mbIm).
+
+**Table S4.** Additional refinement details for ZIF-UC-3 (5-Cl-2-mbIm): atomic positions (fractions), isotropic atomic displacement parameter (U iso or equivalent), type of atomic displacement parameters used for the site (Adp type) and corresponding site occupancy factors (Occup).
+
+| Atom  | Atom |            | Atom site fraction coordinates |            | U iso or   | Adp  |           |
+|-------|------|------------|--------------------------------|------------|------------|------|-----------|
+| label | sym  | x          | y                              | z          | equivalent | type | Occup     |
+| Zn1   | Zn   | 0.68367(7) | 0.35207(7)                     | 0.09704(6) | 0.0742(5)  | Uani | 1         |
+| Zn2   | Zn   | 0.48797(7) | 0.16158(7)                     | 0.31624(6) | 0.0708(5)  | Uani | 1         |
+| N3    | N    | 0.6130(5)  | 0.2616(5)                      | 0.1377(4)  | 0.089(2)   | Uani | 1         |
+| N4    | N    | 0.5409(5)  | 0.1903(5)                      | 0.2197(4)  | 0.0815(18) | Uani | 1         |
+| N5    | N    | 0.6568(5)  | 0.3653(5)                      | -0.0090(4) | 0.0805(19) | Uani | 1         |
+| N8    | N    | 0.9190(4)  | 0.2535(4)                      | 0.1454(4)  | 0.0768(17) | Uani | 1         |
+| N7    | N    | 0.8033(5)  | 0.3251(5)                      | 0.1151(4)  | 0.0824(19) | Uani | 1         |
+| N1    | N    | 0.5852(6)  | 0.5649(6)                      | 0.1893(5)  | 0.1117(16) | Uani | 1         |
+| N6    | N    | 0.5807(4)  | 0.3604(5)                      | -0.1141(4) | 0.0797(19) | Uani | 1         |
+| N2    | N    | 0.6569(6)  | 0.4540(6)                      | 0.1534(5)  | 0.1117(16) | Uani | 1         |
+| C6    | C    | 0.5765(6)  | 0.2604(5)                      | 0.2026(5)  | 0.079(2)   | Uani | 1         |
+| H6    | H    | 0.575918   | 0.305631                       | 0.234025   | 0.095      | Uiso | 1         |
+| C10   | C    | 0.8351(5)  | 0.2552(5)                      | 0.1401(5)  | 0.076(2)   | Uani | 1         |
+| C5    | C    | 0.5539(11) | 0.1450(7)                      | 0.1580(7)  | 0.137(6)   | Uani | 1         |
+| H5    | H    | 0.534894   | 0.091399                       | 0.151461   | 0.165      | Uiso | 1         |
+| C3    | C    | 0.5969(7)  | 0.5096(7)                      | 0.1395(6)  | 0.1117(16) | Uani | 1         |
+| H3    | H    | 0.565418   | 0.508349                       | 0.096163   | 0.134      | Uiso | 1         |
+| C9    | C    | 0.5849(5)  | 0.3448(5)                      | -0.0414(4) | 0.077(2)   | Uani | 1         |
+| H9    | H    | 0.540437   | 0.321202                       | -0.015522  | 0.092      | Uiso | 1         |
+| C7    | C    | 0.6577(9)  | 0.3912(14)                     | -0.1292(8) | 0.176(6)   | Uani | 1         |
+| H7    | H    | 0.676296   | 0.408164                       | -0.175522  | 0.212      | Uiso | 1         |
+| C8    | C    | 0.7041(9)  | 0.3936(13)                     | -0.0655(7) | 0.176(6)   | Uani | 1         |
+| H8    | H    | 0.759417   | 0.41181                        | -0.061743  | 0.212      | Uiso | 1         |
+| C4    | C    | 0.5965(10) | 0.1861(7)                      | 0.1089(7)  | 0.139(6)   | Uani | 1         |
+| H4    | H    | 0.612701   | 0.167339                       | 0.062418   | 0.167      | Uiso | 1         |
+| C2    | C    | 0.6846(7)  | 0.4789(7)                      | 0.2193(6)  | 0.1117(16) | Uani | 1         |
+| H2    | H    | 0.730044   | 0.455487                       | 0.243979   | 0.134      | Uiso | 1         |
+| C1    | C    | 0.6391(7)  | 0.5415(7)                      | 0.2456(6)  | 0.1117(16) | Uani | 1         |
+| H1    | H    | 0.642987   | 0.564739                       | 0.292455   | 0.134      | Uiso | 1         |
+| C11B  | C    | 0.9437(5)  | 0.3268(6)                      | 0.1193(6)  | 0.111(4)   | Uani | 0.375(11) |
+| H11B  | H    | 0.998823   | 0.345858                       | 0.116808   | 0.134      | Uiso | 0.375(11) |
+| C12B  | C    | 0.8721(5)  | 0.3692(6)                      | 0.0968(5)  | 0.116(4)   | Uani | 0.375(11) |
+| H12B  | H    | 0.871751   | 0.419796                       | 0.072963   | 0.139      | Uiso | 0.375(11) |
+| C11A  | C    | 0.9437(5)  | 0.3268(6)                      | 0.1193(6)  | 0.111(4)   | Uani | 0.625(11) |
+| C12A  | C    | 0.8721(5)  | 0.3692(6)                      | 0.0968(5)  | 0.116(4)   | Uani | 0.625(11) |
+| C13   | C    | 0.8800(10) | 0.4423(7)                      | 0.0578(9)  | 0.124(11)  | Uani | 0.375(11) |
+| H13   | H    | 0.832164   | 0.470681                       | 0.042682   | 0.149      | Uiso | 0.375(11) |
+
+Continued
+
+| Atom  | Atom |            | Atom site fraction coordinates |            | U iso or   | Adp  |           |
+|-------|------|------------|--------------------------------|------------|------------|------|-----------|
+| label | sym  | x          | y                              | z          | equivalent | type | Occ       |
+| C14   | C    | 0.9595(12) | 0.4731(9)                      | 0.0413(12) | 0.17(2)    | Uani | 0.375(11) |
+| H14   | H    | 0.964819   | 0.52207                        | 0.01514    | 0.204      | Uiso | 0.375(11) |
+| C15   | C    | 1.0311(9)  | 0.4307(12)                     | 0.0638(12) | 0.152(17)  | Uani | 0.375(11) |
+| Cl1   | Cl   | 1.1210(8)  | 0.4631(6)                      | 0.0534(5)  | 0.154(6)   | Uani | 0.375(11) |
+| C17   | C    | 0.7862(19) | 0.1944(17)                     | 0.165(2)   | 0.159(17)  | Uani | 0.375(11) |
+| H17A  | H    | 0.820866   | 0.149316                       | 0.180858   | 0.238      | Uiso | 0.375(11) |
+| H17B  | H    | 0.753604   | 0.213835                       | 0.206467   | 0.238      | Uiso | 0.375(11) |
+| H17C  | H    | 0.749085   | 0.176563                       | 0.126564   | 0.238      | Uiso | 0.375(11) |
+| C16   | C    | 1.0232(5)  | 0.3576(11)                     | 0.1028(10) | 0.126(13)  | Uani | 0.375(11) |
+| H16   | H    | 1.071029   | 0.329237                       | 0.117916   | 0.151      | Uiso | 0.375(11) |
+| C1S   | C    | 0.752(3)   | 0.413(2)                       | 0.378(3)   | 0.4        | Uiso | 0.78(3)   |
+| H1S   | H    | 0.751429   | 0.45919                        | 0.347881   | 0.48       | Uiso | 0.78(3)   |
+| N1S   | N    | 0.8262(17) | 0.3328(18)                     | 0.4005(15) | 0.224(14)  | Uiso | 0.78(3)   |
+| C2S   | C    | 0.863(4)   | 0.398(4)                       | 0.452(3)   | 0.52(5)    | Uiso | 0.78(3)   |
+| H2S1  | H    | 0.868188   | 0.375444                       | 0.500818   | 0.78       | Uiso | 0.78(3)   |
+| H2S2  | H    | 0.918198   | 0.413126                       | 0.43415    | 0.78       | Uiso | 0.78(3)   |
+| H2S3  | H    | 0.827332   | 0.44483                        | 0.452541   | 0.78       | Uiso | 0.78(3)   |
+| O1S   | O    | 0.6875(19) | 0.369(3)                       | 0.432(2)   | 0.37(2)    | Uiso | 0.78(3)   |
+| C3S   | C    | 0.793(4)   | 0.289(4)                       | 0.336(3)   | 0.49(4)    | Uiso | 0.78(3)   |
+| H3S1  | H    | 0.777133   | 0.234875                       | 0.350273   | 0.738      | Uiso | 0.78(3)   |
+| H3S2  | H    | 0.745394   | 0.318302                       | 0.317116   | 0.738      | Uiso | 0.78(3)   |
+| H3S3  | H    | 0.836259   | 0.286598                       | 0.298724   | 0.738      | Uiso | 0.78(3)   |
+
+![](_page_16_Figure_0.jpeg)
+
+**Figure S3**. Graphical representation (thermal ellipsoids) of the first of two possible configurations for the asymmetric unit of ZIF-UC-3 (5-Cl-2-mbIm): two crystallographically independent Zn atoms, one of them surrounded by four independent Im linkers. This configuration represents 62% of the coordination environments for Zn atoms. H atoms are excluded for clarity.
+
+![](_page_16_Figure_2.jpeg)
+
+**Figure S4.** Graphical representation (thermal ellipsoids) of the second of two possible configurations for the asymmetric unit of ZIF-UC-3 (5-Cl-2-mbIm): two crystallographically independent Zn atoms, one of them surrounded by four independent linkers: three Im and one 5-Cl-2-mbIm. This configuration represents 38% of the coordination environments for Zn atoms. H atoms are excluded for clarity.
+
+## ZIF-UC-4 (5-FbIm) (**cag** ─ Orthorhombic) Experimental and Refinement Details for **ZIF-UC-4 (5-FbIm)**
+
+*(CCDC Deposition Number 1951697)*
+
+A rose coloured polyhedral crystal (0.05 × 0.04 × 0.03 mm<sup>3</sup> ) of ZIF-UC-4 (5-FbIm) was placed in a 0.1 mm diameter borosilicate loop and mounted on a Gemini E Ultra diffractometer from Oxford Diffraction, equipped with an Atlas CCD area detector and operated at 35 kV and 35 mA, to generate Cu Kα radiation (λ = 1.54184 Å) at 293(2) K. A total of 11053 reflections were collected, of which 3717 were unique and 2405 of these were greater than 2*σ(I)*. The range of *θ* was from 2.82 to 64.17°. Analysis of the data showed negligible decay during collection. The structure was solved in the orthorhombic *Pbca* space group with *Z* = 8 using the SUPERFLIP method.<sup>18</sup> Modeling of electron density led to the identification of an asymmetric unit with two independent Zn and four independent linkers. From those four linkers, two are unsubstituted Im with no disorder, a third linker is 5-FbIm (occupancy 0.425(9)) and Im (occupancy 0.575(9)), and the fourth position is 5-FbIm (occupancy 0.257(11)) and Im (occupancy 0.743(11)). The third position can contain a maximum of 50% 5-FbIm because the center of symmetry in this space group would bring the benzene rings related by this center into contact with each other. The 5-FbIm linker at the fourth position is shifted away from the complementary Im position by 58.27°, which results in partial occupancy of sites normally occupied by solvent molecules. The shift happens to avoid clashing with one of the two neighboring Im linkers in totally occupied sites. This feature, in addition to a previous desolvation of the crystals, caused the electron density within the void of the frameworks to be too low to model the solvent. All non-H atoms have been refined anisotropically (isotropic refinements led to very high thermal ellipsoids). All H atoms, except H18 have been placed in geometrically located positions and their displacement parameters are tied to those of the attached carbon atoms. H18 was fixed in the geometrically equivalent position. There was a residual electronic density in the vicinity which indicates that possibly this site is partially occupied by another F atom with an occupancy too low to significantly change the final chemical composition of the material (occupancy less than 0.06 considering NMR results). Attempts to partition the electronic density to refine this extra configuration resulted in either an unstable refinement, or a non-physical structural solution. The unit cell of ZIF-UC-4 (5-FbIm) contains 1.66 Im and 0.34 5-FbIm per Zn. Final full matrix least -50 squares refinement on *F* <sup>2</sup> converged to *R*<sup>1</sup> = 0.0663 (*F* > 2*σF*)) and *wR*<sup>2</sup> = 0.2174 (all data) with GooF = 1.065.
+
+| Chemical formula                  | C14.73<br>H12<br>N8<br>F0.68 Zn2               |
+|-----------------------------------|------------------------------------------------|
+| Formula weight                    | 444.77 g/mol                                   |
+| Temperature                       | 293(2)                                         |
+| Wavelength                        | 1.54184 Å                                      |
+| Crystal system                    | Orthorhombic                                   |
+| Space group                       | Pbca                                           |
+| Unit cell dimensions              | a<br>= 15.6970(8) A˚<br>α = 90°                |
+|                                   | b<br>= 15.9694(10) A˚<br>β = 90°               |
+|                                   | c<br>= 17.9282(16) A˚<br>γ = 90°               |
+| Volume                            | 4494.1(5) Å3                                   |
+| Density (calculated)              | 1.314 g/cm³                                    |
+| Absorption coefficient            | 2.782                                          |
+| F(000)                            | 1983.28                                        |
+| Crystal size                      | 0.03 mm3<br>0.05 ×<br>0.04 ×                   |
+| Theta range for data collection   | 2.815 -<br>64.173°                             |
+| Index ranges                      | -18 <= h <= 18, -13 <= k <= 18, -20 <= l <= 20 |
+| Reflections collected             | 11053                                          |
+| Independent reflections           | 3717                                           |
+| Completeness to theta = 66.97°    | 92.61 %                                        |
+| Absorption correction             | multi-scan                                     |
+| Refinement method                 | 2<br>Full-matrix least-squares on F            |
+| Data / restraints<br>/ parameters | 3717 / 11 / 232                                |
+| 2<br>Goodness-of-fit on F         | 1.065                                          |
+| Final R indices [I>2σ(I)]         | R1<br>= 0.0663, wR2<br>= 0.1901                |
+| R indices (all data)              | R1<br>= 0.1017, wR2<br>= 0.2174                |
+| Largest diff. peak and hole       | 0.606 and -0.575 e. Å-3                        |
+
+**Table S5.** Crystal data and structure refinement for ZIF-UC-4 (5-FbIm).
+
+| Atom  | Atom |            | Atom site fraction coordinates |             | U iso or   | Adp  |           |
+|-------|------|------------|--------------------------------|-------------|------------|------|-----------|
+| label | sym  | x          | y                              | z           | equivalent | type | Occup     |
+| Zn1   | Zn   | 0.30725(5) | 0.35588(6)                     | 0.09601(5)  | 0.0821(4)  | Uani | 1         |
+| Zn2   | Zn   | 0.50575(5) | 0.16039(6)                     | 0.31335(5)  | 0.0796(3)  | Uani | 1         |
+| N2    | N    | 0.4500(4)  | 0.1877(4)                      | 0.2176(3)   | 0.0881(16) | Uani | 1         |
+| N8    | N    | 0.0706(3)  | 0.2575(3)                      | 0.1466(3)   | 0.0853(16) | Uani | 1         |
+| N7    | N    | 0.1853(3)  | 0.3296(4)                      | 0.1107(4)   | 0.0873(17) | Uani | 1         |
+| N1    | N    | 0.3739(4)  | 0.2598(4)                      | 0.1357(3)   | 0.0844(15) | Uani | 1         |
+| N4    | N    | 0.4134(4)  | 0.5653(3)                      | 0.1950(3)   | 0.0838(15) | Uani | 1         |
+| N3    | N    | 0.3389(4)  | 0.4546(4)                      | 0.1561(4)   | 0.0875(16) | Uani | 1         |
+| C6    | C    | 0.3994(4)  | 0.5100(5)                      | 0.1417(4)   | 0.088(2)   | Uani | 1         |
+| H6    | H    | 0.429964   | 0.509921                       | 0.097236    | 0.105      | Uiso | 1         |
+| C1    | C    | 0.4171(4)  | 0.2589(5)                      | 0.1990(4)   | 0.088(2)   | Uani | 1         |
+| H1    | H    | 0.423486   | 0.306577                       | 0.228367    | 0.105      | Uiso | 1         |
+| C5    | C    | 0.3124(6)  | 0.4775(6)                      | 0.2247(6)   | 0.135(4)   | Uani | 1         |
+| H5    | H    | 0.26895    | 0.451606                       | 0.251405    | 0.162      | Uiso | 1         |
+| C2    | C    | 0.4247(8)  | 0.1365(6)                      | 0.1625(6)   | 0.136(4)   | Uani | 1         |
+| H2    | H    | 0.436074   | 0.079428                       | 0.159996    | 0.164      | Uiso | 1         |
+| C14   | C    | 0.1550(4)  | 0.2601(4)                      | 0.1399(4)   | 0.0828(18) | Uani | 1         |
+| H14   | H    | 0.18989    | 0.216082                       | 0.15475     | 0.099      | Uiso | 1         |
+| C4    | C    | 0.3586(7)  | 0.5443(6)                      | 0.2489(6)   | 0.130(3)   | Uani | 1         |
+| H4    | H    | 0.353096   | 0.57071                        | 0.294935    | 0.157      | Uiso | 1         |
+| C3    | C    | 0.3799(7)  | 0.1808(6)                      | 0.1107(5)   | 0.129(4)   | Uani | 1         |
+| H3    | H    | 0.357672   | 0.16011                        | 0.066316    | 0.155      | Uiso | 1         |
+| C15A  | C    | 0.0450(5)  | 0.3316(5)                      | 0.1161(5)   | 0.1082(17) | Uani | 0.575(8)  |
+| H15A  | H    | -0.011224  | 0.349015                       | 0.110718    | 0.13       | Uiso | 0.575(8)  |
+| C16A  | C    | 0.1140(5)  | 0.3751(5)                      | 0.0952(5)   | 0.1082(17) | Uani | 0.575(8)  |
+| H16A  | H    | 0.113385   | 0.427958                       | 0.073515    | 0.13       | Uiso | 0.575(8)  |
+| N6A   | N    | 0.4155(4)  | 0.3693(4)                      | -0.1136(4)  | 0.0989(19) | Uani | 0.743(10) |
+| N5A   | N    | 0.3389(4)  | 0.3749(4)                      | -0.0092(4)  | 0.103(2)   | Uani | 0.743(10) |
+| C7A   | C    | 0.4103(7)  | 0.3539(8)                      | -0.0421(7)  | 0.079(3)   | Uani | 0.743(10) |
+| H7A   | H    | 0.455028   | 0.32942                        | -0.016003   | 0.094      | Uiso | 0.743(10) |
+| C9A   | C    | 0.2899(9)  | 0.3919(14)                     | -0.0705(11) | 0.216(11)  | Uani | 0.743(10) |
+| H9A   | H    | 0.231868   | 0.403607                       | -0.068665   | 0.259      | Uiso | 0.743(10) |
+| C8A   | C    | 0.3350(8)  | 0.3896(13)                     | -0.1323(8)  | 0.204(10)  | Uani | 0.743(10) |
+| H8A   | H    | 0.314946   | 0.399995                       | -0.180167   | 0.245      | Uiso | 0.743(10) |
+| C15B  | C    | 0.0450(5)  | 0.3316(5)                      | 0.1161(5)   | 0.1082(17) | Uani | 0.425(8)  |
+| C16B  | C    | 0.1140(5)  | 0.3751(5)                      | 0.0952(5)   | 0.1082(17) | Uani | 0.425(8)  |
+| C17   | C    | 0.1071(11) | 0.4510(12)                     | 0.0499(12)  | 0.1082(17) | Uani | 0.425(8)  |
+
+**Table S6.** Additional refinement details for ZIF-UC-4 (5-FbIm): atomic positions (fractions), isotropic atomic displacement parameter (U iso or equivalent), type of atomic displacement parameters used for the site (Adp type) and corresponding site occupancy factors (Occup).
+
+Continued
+
+| Atom  | Atom |             | Atom site fraction coordinates |             | U iso or   | Adp  |           |
+|-------|------|-------------|--------------------------------|-------------|------------|------|-----------|
+| label | sym  | x           | y                              | z           | equivalent | type | Occ       |
+| H17   | H    | 0.154798    | 0.479804                       | 0.033057    | 0.13       | Uiso | 0.425(8)  |
+| C19   | C    | -0.0416(12) | 0.4377(12)                     | 0.0589(13)  | 0.1082(17) | Uani | 0.425(8)  |
+| C18   | C    | 0.0199(11)  | 0.4791(12)                     | 0.0327(13)  | 0.1082(17) | Uani | 0.425(8)  |
+| C20   | C    | -0.0409(12) | 0.3587(11)                     | 0.0989(12)  | 0.1082(17) | Uani | 0.425(8)  |
+| H20   | H    | -0.089636   | 0.329037                       | 0.11194     | 0.13       | Uiso | 0.425(8)  |
+| F2    | F    | -0.1228(8)  | 0.4657(10)                     | 0.0502(11)  | 0.188(7)   | Uani | 0.425(8)  |
+| N5B   | N    | 0.3389(4)   | 0.3749(4)                      | -0.0092(4)  | 0.103(2)   | Uani | 0.257(10) |
+| N6B   | N    | 0.4155(4)   | 0.3693(4)                      | -0.1136(4)  | 0.0989(19) | Uani | 0.257(10) |
+| C7B   | C    | 0.390(2)    | 0.341(3)                       | -0.055(2)   | 0.079(14)  | Uiso | 0.257(10) |
+| H7B   | H    | 0.411684    | 0.289262                       | -0.041175   | 0.094      | Uiso | 0.257(10) |
+| C8B   | C    | 0.3813(13)  | 0.4635(17)                     | -0.1082(17) | 0.165(9)   | Uani | 0.257(10) |
+| C9B   | C    | 0.3335(16)  | 0.4669(18)                     | -0.0430(16) | 0.165(9)   | Uani | 0.257(10) |
+| C10   | C    | 0.2949(15)  | 0.541(2)                       | -0.0216(13) | 0.165(9)   | Uani | 0.257(10) |
+| H10   | H    | 0.262929    | 0.543694                       | 0.021983    | 0.198      | Uiso | 0.257(10) |
+| C11   | C    | 0.3040(16)  | 0.6126(18)                     | -0.0655(17) | 0.165(9)   | Uani | 0.257(10) |
+| H11   | H    | 0.278199    | 0.662536                       | -0.051237   | 0.198      | Uiso | 0.257(10) |
+| C12   | C    | 0.3518(18)  | 0.6093(18)                     | -0.1307(16) | 0.165(9)   | Uani | 0.257(10) |
+| C13   | C    | 0.3905(14)  | 0.535(2)                       | -0.1521(13) | 0.165(9)   | Uani | 0.257(10) |
+| H13   | H    | 0.42242     | 0.532458                       | -0.195692   | 0.198      | Uiso | 0.257(10) |
+| F1    | F    | 0.3588(16)  | 0.6685(15)                     | -0.1755(14) | 0.165(9)   | Uani | 0.257(10) |
+| H18   | H    | 0.021255    | 0.547853                       | 0.006863    | 0.166      | Uiso | 0.425(8)  |
+
+![](_page_21_Figure_0.jpeg)
+
+**Figure S5.** Graphical representation (thermal ellipsoids) of the first of four possible configurations for the asymmetric unit of ZIF-UC-4 (5-FbIm): two crystallographically independent Zn atoms, one of them surrounded by four independent Im linkers. This configuration represents 32% of the coordination environments for Zn atoms. H atoms are excluded for clarity.
+
+![](_page_21_Figure_2.jpeg)
+
+**Figure S6.** Graphical representation (thermal ellipsoids) of the second of four possible configurations for the asymmetric unit of ZIF-UC-4 (5-FbIm): two independent Zn atoms, one of them surrounded by four independent linkers: three Im and one 5-FbIm. The crystallographic position for 5-FbIm has a maximum occupancy of 50% because the center of symmetry in this space group would bring the 5-FbIm linkers related by this center into contact with each other. This configuration is one of three possible coordination environments for Zn atoms, that in total represents 68% of the tetrahedral units in the structure. H atoms are excluded for clarity.
+
+![](_page_22_Figure_0.jpeg)
+
+**Figure S7.** Graphical representation (thermal ellipsoids) of the third of four possible configurations for the asymmetric unit of ZIF-UC-4 (5-FbIm): two independent Zn atoms, one of them surrounded by four independent linkers: three Im and one 5-FbIm. The 5-FbIm linker is shifted away from the complementary Im position by 58.27° to avoid clashing with one of the two neighbors Im linkers in totally occupied sites. This configuration is one of three possible coordination environments for Zn atoms, that in total represents 68% of the tetrahedral units in the structure. H atoms are excluded for clarity.
+
+![](_page_22_Figure_2.jpeg)
+
+**Figure S8.** Graphical representation (thermal ellipsoids) of the fourth of four possible configurations for the asymmetric unit of ZIF-UC-4 (5-FbIm): two independent Zn atoms, one of them surrounded by four independent linkers: two Im and two 5-FbIm. Crystallographic details for both 5-FbIm linkers were described in Figures S6 and S7. This configuration is one of three possible coordination environments for Zn atoms, that in total represents 68% of the tetrahedral units in the structure. H atoms are excluded for clarity.
+
+## ZIF-UC-5 (5-ClbIm) (**cag** ─ Orthorhombic) Experimental and Refinement Details for **ZIF-UC-5 (5-ClbIm)**
+
+#### *(Deposition Number 1951696)*
+
+A colourless tetrahedral crystal (0.05 × 0.04 × 0.03 mm<sup>3</sup> ) of ZIF-UC-5 (5-ClbIm) was placed in a 0.1 mm diameter borosilicate loop and mounted on a Gemini E Ultra diffractometer from Oxford Diffraction equipped with an Atlas CCD area detector and operated at 35 kV and 35 mA, to generate Cu Kα radiation (λ = 1.54184 Å) at 293(2) K. A total of 11094 reflections were collected, of which 3786 were unique and 2684 of these were greater than 2*σ*(I). The range of *θ* was from 2.43 to 64.01°. Analysis of the data showed negligible decay during collection. The structure was solved in the orthorhombic *Pbca* space group with *Z* = 8 using the SUPERFLIP method.<sup>18</sup> Modeling of electron density led to the identification of 0.39 DMF molecules in the asymmetric unit (atoms with no crystallographic symmetry). The asymmetric unit is also integrated by two Zn atoms and four linkers. From those four linkers, two are unsubstituted Im with no disorder, a third linker in a position disordered between 5-ClbIm (0.397(10) occupancy) and Im (0.603(10) occupancy); and the fourth linker is in a position disordered between 5- ClbIm(0.171(11) occupancy) and Im (0.829(11) occupancy). The third position can contain a maximum of 50% 5-ClbIm because the center of symmetry in this space group would bring the 5-ClbIm linkers related by this center into contact with each other. The 5-ClbIm linker at the fourth position is shifted away from the complementary Im position by 57.47°, which results in partial occupancy of sites normally occupied by solvent molecules. The shift happens to avoid clashing with one of the two neighboring Im linker in totally occupied sites. This feature, in addition to a previous desolvation of the crystal is responsible for the low occupancy for solvent molecules. All non-H atoms, except the solvent molecules, the four C atoms from benzene rings in both 5-ClbIm linkers and corresponding Cl atoms, have been refined anisotropically. All H atoms, have been placed in geometrically located positions and their displacement parameters are tied to those of the attached C atoms. The positions for both Cl atoms and solvent atoms were fixed to be able to separate their contributions to the residual electronic density. The unit cell of ZIF-UC-5 (5-ClbIm) contains 1.72 Im and 0.28 ClbIm per Zn. Final full matrix least - 50 squares refinement on *F* <sup>2</sup> converged to *R*<sup>1</sup> = 0.0646 (*F* >2*σF*)) and *wR*<sup>2</sup> = 0.2107 (all data) with GooF = 1.103.
+
+| Chemical formula                | C15.44<br>H14.73<br>Cl0.57<br>N8.39<br>O0.39<br>Zn2 |
+|---------------------------------|-----------------------------------------------------|
+| Formula weight                  | 475.04 g/mol                                        |
+| Temperature                     | 293(2)                                              |
+| Wavelength                      | 1.54184 Å                                           |
+| Crystal system                  | Orthorhombic                                        |
+| Space group                     | Pbca                                                |
+| Unit cell dimensions            | a<br>= 15.7260(8) A˚<br>α = 90°                     |
+|                                 | b<br>= 16.0184(11) A˚<br>β = 90°                    |
+|                                 | c<br>= 18.1617(10) A˚<br>γ = 90°                    |
+| Volume                          | 4575.0(5) Å3                                        |
+| Density (calculated)            | 1.375 g/cm³                                         |
+| Absorption coefficient          | 3.331                                               |
+| F(000)                          | 2125.60                                             |
+| Crystal size                    | 0.05 × 0.04 × 0.03 mm3                              |
+| Theta range for data collection | 2.433 -<br>64.013°                                  |
+| Index ranges                    | -17 <= h <= 18, -17 <= k <= 18, -8 <= l <= 21       |
+| Reflections collected           | 11094                                               |
+| Independent reflections         | 3786                                                |
+| Completeness to theta = 66.97°  | 92.90 %                                             |
+| Absorption correction           | multi-scan                                          |
+| Refinement method               | 2<br>Full-matrix least-squares on F                 |
+| Data / restraints / parameters  | 3786 / 8 / 244                                      |
+| 2<br>Goodness-of-fit on F       | 1.103                                               |
+| Final R indices [I>2σ(I)]       | R1<br>= 0.0646, wR2<br>= 0.1888                     |
+| R indices (all data)            | R1<br>= 0.0872, wR2<br>= 0.2107                     |
+| Largest diff. peak and hole     | 0.844 and -0.614 e. Å-3                             |
+
+**Table S7.** Crystal data and structure refinement for ZIF-UC-5 (5-ClbIm).
+
+| Atom  | Atom |             | Atom site fraction coordinates |            | U iso or   | Adp  |          |
+|-------|------|-------------|--------------------------------|------------|------------|------|----------|
+| label | sym  | x           | y                              | z          | equivalent | type | Occup    |
+| Zn1   | Zn   | 0.30911(5)  | 0.35723(5)                     | 0.09849(5) | 0.0769(3)  | Uani | 1        |
+| Zn2   | Zn   | 0.49584(5)  | 0.66387(5)                     | 0.18221(5) | 0.0749(3)  | Uani | 1        |
+| N2    | N    | 0.4487(3)   | 0.1914(3)                      | 0.2224(3)  | 0.0830(14) | Uani | 1        |
+| N6    | N    | 0.0707(3)   | 0.2596(3)                      | 0.1447(3)  | 0.0773(13) | Uani | 1        |
+| N1    | N    | 0.3746(3)   | 0.2613(3)                      | 0.1402(3)  | 0.0789(13) | Uani | 1        |
+| N5    | N    | 0.1864(3)   | 0.3324(3)                      | 0.1136(3)  | 0.0799(14) | Uani | 1        |
+| N3    | N    | 0.3412(4)   | 0.4582(4)                      | 0.1553(3)  | 0.0870(15) | Uani | 1        |
+| C4    | C    | 0.4006(4)   | 0.5125(4)                      | 0.1403(4)  | 0.0819(17) | Uani | 1        |
+| H4    | H    | 0.43019     | 0.511534                       | 0.095992   | 0.098      | Uiso | 1        |
+| N4    | N    | 0.4163(3)   | 0.5682(3)                      | 0.1909(3)  | 0.0810(14) | Uani | 1        |
+| C1    | C    | 0.4151(4)   | 0.2624(4)                      | 0.2035(4)  | 0.0829(17) | Uani | 1        |
+| H1    | H    | 0.41946     | 0.310156                       | 0.232351   | 0.1        | Uiso | 1        |
+| C7    | C    | 0.1558(4)   | 0.2619(4)                      | 0.1398(3)  | 0.0746(15) | Uani | 1        |
+| H7    | H    | 0.190294    | 0.217371                       | 0.153626   | 0.09       | Uiso | 1        |
+| C3    | C    | 0.4267(7)   | 0.1401(5)                      | 0.1667(5)  | 0.125(3)   | Uani | 1        |
+| H3    | H    | 0.439419    | 0.083447                       | 0.16382    | 0.15       | Uiso | 1        |
+| C6    | C    | 0.3182(7)   | 0.4807(6)                      | 0.2247(5)  | 0.143(4)   | Uani | 1        |
+| H6    | H    | 0.277279    | 0.453693                       | 0.252939   | 0.171      | Uiso | 1        |
+| C2    | C    | 0.3837(6)   | 0.1836(5)                      | 0.1163(5)  | 0.120(3)   | Uani | 1        |
+| H2    | H    | 0.363467    | 0.162862                       | 0.07182    | 0.144      | Uiso | 1        |
+| C5    | C    | 0.3627(7)   | 0.5467(6)                      | 0.2464(5)  | 0.139(4)   | Uani | 1        |
+| H5    | H    | 0.357995    | 0.573492                       | 0.291618   | 0.167      | Uiso | 1        |
+| N7A   | N    | 0.3394(4)   | 0.3732(4)                      | -0.0060(3) | 0.0928(16) | Uani | 0.829(8) |
+| N8A   | N    | 0.4138(4)   | 0.3640(4)                      | -0.1107(3) | 0.0919(16) | Uani | 0.829(8) |
+| C14A  | C    | 0.4090(4)   | 0.3499(5)                      | -0.0389(4) | 0.0717(19) | Uani | 0.829(8) |
+| H14A  | H    | 0.453232    | 0.324454                       | -0.013322  | 0.086      | Uiso | 0.829(8) |
+| C15A  | C    | 0.3327(9)   | 0.3879(13)                     | -0.1288(7) | 0.176(7)   | Uani | 0.829(8) |
+| H15A  | H    | 0.311643    | 0.397761                       | -0.175855  | 0.211      | Uiso | 0.829(8) |
+| C16A  | C    | 0.2901(9)   | 0.3942(15)                     | -0.0658(9) | 0.220(11)  | Uani | 0.829(8) |
+| H16A  | H    | 0.23359     | 0.410937                       | -0.062602  | 0.264      | Uiso | 0.829(8) |
+| C8A   | C    | 0.1161(5)   | 0.3791(5)                      | 0.0979(5)  | 0.107(3)   | Uani | 0.603(8) |
+| H8A   | H    | 0.11655     | 0.432373                       | 0.077472   | 0.128      | Uiso | 0.603(8) |
+| C9A   | C    | 0.0462(5)   | 0.3359(5)                      | 0.1168(5)  | 0.099(2)   | Uani | 0.603(8) |
+| H9A   | H    | -0.009531   | 0.354408                       | 0.111799   | 0.119      | Uiso | 0.603(8) |
+| C8B   | C    | 0.1161(5)   | 0.3791(5)                      | 0.0979(5)  | 0.107(3)   | Uani | 0.397(8) |
+| C9B   | C    | 0.0462(5)   | 0.3359(5)                      | 0.1168(5)  | 0.099(2)   | Uani | 0.397(8) |
+| C10   | C    | -0.0373(11) | 0.3620(10)                     | 0.0974(8)  | 0.075(4)   | Uiso | 0.397(8) |
+
+**Table S8.** Additional refinement details for ZIF-UC-5 (5-ClbIm): atomic positions (fractions), isotropic atomic displacement parameter (U iso or equivalent), type of atomic displacement parameters used for the site (Adp type) and corresponding site occupancy factors (Occup).
+
+Continued
+
+| Atom  | Atom |             | Atom site fraction coordinates |             | U iso or   | Adp  |          |
+|-------|------|-------------|--------------------------------|-------------|------------|------|----------|
+| label | sym  | x           | y                              | z           | equivalent | type | Occ      |
+| H10   | H    | -0.086152   | 0.331599                       | 0.108209    | 0.09       | Uiso | 0.397(8) |
+| C13   | C    | 0.1124(11)  | 0.4566(10)                     | 0.0526(8)   | 0.080(4)   | Uiso | 0.397(8) |
+| H13   | H    | 0.160799    | 0.483255                       | 0.034956    | 0.096      | Uiso | 0.397(8) |
+| C11   | C    | -0.0378(12) | 0.4426(11)                     | 0.0581(9)   | 0.088(5)   | Uiso | 0.397(8) |
+| Cl1   | Cl   | -0.1186     | 0.4693                         | 0.0443      | 0.318(9)   | Uiso | 0.397(8) |
+| C12   | C    | 0.0288(12)  | 0.4863(12)                     | 0.0386(9)   | 0.092(5)   | Uiso | 0.397(8) |
+| H12   | H    | 0.02136     | 0.537493                       | 0.015232    | 0.11       | Uiso | 0.397(8) |
+| N7B   | N    | 0.3394(4)   | 0.3732(4)                      | -0.0060(3)  | 0.0928(16) | Uani | 0.171(8) |
+| N8B   | N    | 0.4138(4)   | 0.3640(4)                      | -0.1107(3)  | 0.0919(16) | Uani | 0.171(8) |
+| C14B  | C    | 0.3849(8)   | 0.3309(17)                     | -0.0505(9)  | 0.0717(19) | Uani | 0.171(8) |
+| H14B  | H    | 0.397587    | 0.275496                       | -0.039748   | 0.086      | Uiso | 0.171(8) |
+| C19   | C    | 0.340(2)    | 0.5998(16)                     | -0.1255(19) | 0.136      | Uiso | 0.171(8) |
+| C20   | C    | 0.3831(19)  | 0.528(2)                       | -0.1469(14) | 0.129(18)  | Uiso | 0.171(8) |
+| H20   | H    | 0.413124    | 0.527458                       | -0.191051   | 0.154      | Uiso | 0.171(8) |
+| C15B  | C    | 0.3815(15)  | 0.4576(16)                     | -0.1025(14) | 0.071(10)  | Uani | 0.171(8) |
+| C16B  | C    | 0.3366(16)  | 0.4586(16)                     | -0.0365(13) | 0.080(11)  | Uani | 0.171(8) |
+| C17   | C    | 0.2933(18)  | 0.530(2)                       | -0.0151(15) | 0.127(18)  | Uiso | 0.171(8) |
+| H17   | H    | 0.263314    | 0.530972                       | 0.029028    | 0.152      | Uiso | 0.171(8) |
+| C18   | C    | 0.295(2)    | 0.6009(16)                     | -0.060(2)   | 0.14(2)    | Uiso | 0.171(8) |
+| H18   | H    | 0.265994    | 0.648805                       | -0.045212   | 0.166      | Uiso | 0.171(8) |
+| Cl2   | Cl   | 0.3427      | 0.668015                       | -0.1816     | 0.34(2)    | Uiso | 0.171(8) |
+| C2S   | C    | 0.385571    | 0.623075                       | -0.097095   | 0.231      | Uiso | 0.389(9) |
+| H2S1  | H    | 0.37928     | 0.581093                       | -0.059769   | 0.347      | Uiso | 0.389(9) |
+| H2S2  | H    | 0.398631    | 0.596913                       | -0.143287   | 0.347      | Uiso | 0.389(9) |
+| H2S3  | H    | 0.430846    | 0.660316                       | -0.083743   | 0.347      | Uiso | 0.389(9) |
+| C1S   | C    | 0.302164    | 0.713021                       | -0.137766   | 0.231      | Uiso | 0.389(9) |
+| H1S   | H    | 0.26359     | 0.727006                       | -0.174568   | 0.278      | Uiso | 0.389(9) |
+| O1S   | O    | 0.376005    | 0.750863                       | -0.086349   | 0.231      | Uiso | 0.389(9) |
+| N1S   | N    | 0.325212    | 0.658916                       | -0.1023     | 0.231      | Uiso | 0.389(9) |
+| C3S   | C    | 0.2658      | 0.6766                         | -0.042      | 0.231      | Uiso | 0.389(9) |
+| H3S1  | H    | 0.218689    | 0.708448                       | -0.060463   | 0.347      | Uiso | 0.389(9) |
+| H3S2  | H    | 0.245383    | 0.625017                       | -0.021711   | 0.347      | Uiso | 0.389(9) |
+| H2S3  | H    | 0.430846    | 0.660316                       | -0.083743   | 0.347      | Uiso | 0.389(9) |
+
+![](_page_27_Figure_0.jpeg)
+
+**Figure S9.** Graphical representation (thermal ellipsoids) of the first of four possible configurations for the asymmetric unit of ZIF-UC-5 (5-ClbIm): two independent Zn atoms, one of them is surrounded by four independent Im linkers. This configuration represents 43% of the coordination environments for Zn atoms. H atoms are excluded for clarity.
+
+![](_page_27_Figure_2.jpeg)
+
+**Figure S10.** Graphical representation (thermal ellipsoids) of the second of four possible configurations for the asymmetric unit of ZIF-UC-5 (5-ClbIm): two independent Zn atoms, one of them surrounded by four independent linkers: three Im and one 5-ClbIm. The crystallographic position for 5-ClbIm has a maximum occupancy of 50% because the center of symmetry in this space group would bring the 5-ClbIm linkers related by this center into contact with each other. This configuration is one of three possible coordination environments for Zn atoms that in total represents 57% of the tetrahedral units in the structure. H atoms are excluded for clarity.
+
+![](_page_28_Figure_0.jpeg)
+
+**Figure S11.** Graphical representation (thermal ellipsoids) of the third of four possible configurations for the asymmetric unit of ZIF-UC-5 (5-ClbIm): two independent Zn atoms, one of them surrounded by four independent linkers: three Im and one 5-ClbIm. The 5-ClbIm is shifted away from the complementary Im position by 57.47° to avoid clashing with one of the two neighboring Im linker in totally occupied sites. This configuration is one of three possible coordination environments for Zn atoms that in total represents 57% of the tetrahedral units in the structure. H atoms are excluded for clarity.
+
+![](_page_28_Figure_2.jpeg)
+
+**Figure S12.** Graphical representation (thermal ellipsoids) of the fourth of four possible configurations for the asymmetric unit of ZIF-UC-5 (5-ClbIm): two crystallographically independent Zn atoms, one of them surrounded by four independent linkers: two Im and two 5- ClbIm. Crystallographic details for both 5-ClbIm linkers were described in Figures S10 and S11. This configuration is one of three possible coordination environments for Zn atoms that in total represents 57% of the tetrahedral units in the structure. H atoms are excluded for clarity.
+
+![](_page_29_Figure_0.jpeg)
+
+**Figure S13.** Schematic representative slice of (a) ZIF-UC-2 (6-Cl-5-FbIm), (b) ZIF-UC-3 (5- Cl-2-mbIm), and (c) ZIF-UC-5 (5-ClbIm) framework structures (N, orange; C, white; ZnN<sup>4</sup> tetrahedra, blue; Cl, purple; F, green), showing the six- and four-membered rings. For clarity, crystal structure within a range of fractional coordinates (0.3 to 0.8) along [100] direction are shown. H and solvent atoms are omitted.
+
+![](_page_30_Figure_0.jpeg)
+
+**Figure S14.** Pawley refinement results of the halogenated ZIFs synthesized in this study. The figures show the experimental powder X-ray diffraction (blue), fitted (red) and difference (grey) patterns.
+
+![](_page_31_Figure_0.jpeg)
+
+**Figure S15.** <sup>1</sup>H NMR spectrum of as-synthesized ZIF-UC-2 (6-Cl-5-FbIm) digested in DCl/DMSO-*d*6. Top figure is the full spectrum and the bottom is a partially enlarged region.
+
+![](_page_32_Figure_0.jpeg)
+
+**Figure S16**. <sup>1</sup>H NMR spectrum of as-synthesized ZIF-UC-3 (5-Cl-2-mbIm) digested in DCl/DMSO-*d*6.
+
+![](_page_33_Figure_0.jpeg)
+
+**Figure S17.** <sup>1</sup>H NMR spectrum of as-synthesized ZIF-UC-4 (5-FbIm) digested in DCl/DMSO*d*6. Top figure is the full spectrum and the bottom is a partially enlarged region.
+
+![](_page_34_Figure_0.jpeg)
+
+**Figure S18.** <sup>1</sup>H NMR spectrum of as-synthesized ZIF-UC-5 (5-ClbIm) digested in DCl/DMSO-*d*6. Top figure is the full spectrum and the bottom is a partially enlarged region.
+
+![](_page_35_Figure_0.jpeg)
+
+**Figure S19.** Powder X-ray diffraction patterns of the four halogenated glass samples.
+
+![](_page_36_Picture_0.jpeg)
+
+**Figure S20**. SEM images of the halogenated ZIF crystal precursors and the melt-quenched glasses. Scale bars are 50 µm for crystal samples and 100 µm for glass samples.
+
+![](_page_37_Figure_0.jpeg)
+
+**Figure S21.** FTIR spectra of the crystal and glass samples.
+
+![](_page_38_Figure_0.jpeg)
+
+**Figure S22.** <sup>1</sup>H NMR spectrum of agZIF-UC-2 (6-Cl-5-FbIm) digested in DCl/DMSO-*d*6. Top figure is the full spectrum and the bottom is a partially enlarged region.
+
+![](_page_39_Figure_0.jpeg)
+
+**Figure S23.** <sup>1</sup>H NMR spectrum of agZIF-UC-3 (5-Cl-2-mbIm) digested in DCl/DMSO-*d*6.
+
+![](_page_40_Figure_0.jpeg)
+
+**Figure S24.** <sup>1</sup>H NMR spectrum of agZIF-UC-4 (5-FbIm) digested in DCl/DMSO-*d*6. Top figure is the full spectrum and the bottom is a partially enlarged region.
+
+![](_page_41_Figure_0.jpeg)
+
+**Figure S25.** <sup>1</sup>H NMR spectrum of agZIF-UC-5 (5-ClbIm) digested in DCl/DMSO-*d*6. Top figure is the full spectrum and the bottom is a partially enlarged region.
+
+![](_page_42_Figure_0.jpeg)
+
+**Figure S26.** Charge density 2D contour plots of Zn-N tetrahedral cluster with (a) 5-FbIm and (b) 5-ClbIm ligands. Colours are in the RGB scale showing the charge density isosurface values between 0 (blue) to 0.2 (red) in e/bohr<sup>3</sup> .
+
+![](_page_42_Figure_2.jpeg)
+
+**Figure S27.** Charge density (3D) plots of Zn-N tetrahedral cluster with (a) 5-FbIm and (b) 5- ClbIm ligands. Isosurface value is set as 0.085 e/bohr<sup>3</sup> .
+
+![](_page_43_Figure_0.jpeg)
+
+**Figure S28.** Synchrotron X-ray total scattering structure factors for ZIF-UC-2 (6-Cl-5-FbIm) crystal and agZIF-UC-2 (6-Cl-5-FbIm).
+
+![](_page_43_Figure_2.jpeg)
+
+**Figure S29.** Synchrotron X-ray total scattering structure factors for ZIF-UC-3 (5-Cl-2-mbIm) crystal and agZIF-UC-3 (5-Cl-2-mbIm).
+
+![](_page_44_Figure_0.jpeg)
+
+**Figure S30.** Synchrotron X-ray total scattering structure factors for ZIF-UC-4 (5-FbIm) crystal and agZIF-UC-4 (5-FbIm).
+
+![](_page_44_Figure_2.jpeg)
+
+**Figure S31.** Synchrotron X-ray total scattering structure factors for ZIF-UC-5 (5-ClbIm) crystal and agZIF-UC-5 (5-ClbIm).
+
+![](_page_45_Figure_0.jpeg)
+
+**Figure S32.** Pair distribution function *D(r)* calculated *via* Fourier transform of the X-ray total scattering function *S(Q)* for ZIF-UC-2 (6-Cl-5-FbIm) crystal and agZIF-UC-2 (6-Cl-5-FbIm).
+
+![](_page_45_Figure_2.jpeg)
+
+**Figure S33.** Pair distribution function *D(r)* calculated *via* Fourier transform of the X-ray total scattering function *S(Q)* for ZIF-UC-3 (5-Cl-2-mbIm) crystal and agZIF-UC-3 (5-Cl-2-mbIm).
+
+![](_page_46_Figure_0.jpeg)
+
+**Figure S34.** Pair distribution function *D(r)* calculated *via* Fourier transform of the X-ray total scattering function *S(Q)* for ZIF-UC-5 (5-ClbIm) crystal and agZIF-UC-5 (5-ClbIm).
+
+![](_page_47_Figure_0.jpeg)
+
+**Figure S35.** (a) Various <sup>13</sup>C MAS NMR spectra of crystalline ZIF-UC-4 (5-FbIm), corroborating the assignment of the individual signals in the spectra. 1H-<sup>13</sup>C CPMAS spectrum exhibits signals of all C sites of Im and 5-FbIm. <sup>1</sup>H-<sup>13</sup>C Lee-Goldburg CPMAS spectrum shows only the signals of those C atoms that are directly bonded to H atoms (therefore signals of C5, C2 and C7 are missing). 19F-<sup>13</sup>C CPMAS spectrum shows only the signal of C5, which is directly bonded to F. In the latter spectrum, C5 exhibits a single sharp signal, because <sup>19</sup>F decoupling is employed during detection. In the <sup>1</sup>H-<sup>13</sup>C CPMAS spectrum, where <sup>19</sup>F decoupling was not performed, the signal belonging to C5 is split into two signals by the strong 19F-<sup>13</sup>C J-coupling interaction. (b) Two dimensional <sup>19</sup>F spin-diffusion NMR spectrum of ZIF-UC-4 (5-FbIm) crystals, recorded with the mixing time of 100 ms. Cross peaks between the signal resonating at -114 ppm and the signal resonating at -119 ppm indicate that <sup>19</sup>F nuclei occupying different sites are homogeneously dispersed within the same crystallites, and are not segregated into different domains or particles.
+
+![](_page_48_Figure_0.jpeg)
+
+**Figure S36.** Two dimensional <sup>19</sup>F spin-diffusion NMR spectra of agZIF-UC-4 (5-FbIm), recorded with the mixing times of 0 ms, 10 ms, and 100 ms. Cross peaks between the signals resonating at about -115 ppm and the signals resonating between -170 and -240 ppm indicate that <sup>19</sup>F nuclei that give rise to the broad, shifted signals are within the same particles as <sup>19</sup>F nuclei that give rise to the unshifted narrow signal.
+
+![](_page_48_Figure_2.jpeg)
+
+**Figure S37.** Selective <sup>19</sup>F-<sup>13</sup>C CPMAS NMR measurements in agZIF-UC-4 (5-FbIm). Selective cross-polarization from <sup>19</sup>F nuclei, contributing to the narrow <sup>19</sup>F signal of the glass, enhances the signal of C5 carbon nuclei. On the contrary, selective cross-polarization from <sup>19</sup>F nuclei, contributing to the broad <sup>19</sup>F signal of the glass, gives rise to a C spectrum in which only the two signals of Im can be detected. This observation suggests that F that contributed to the broad, shifted signal, is not bonded to benzene rings (it does not belong to 5-FbIm ligands of agZIF-UC-4 (5-FbIm)). Black arrows above the <sup>19</sup>F MAS NMR spectrum indicate the carrier frequencies used for selective excitation of F nuclei.
+
+![](_page_49_Figure_0.jpeg)
+
+**Figure S38.** <sup>19</sup>F spin-lattice (T1) and spin-spin (T2) relaxation-time measurements in ZIF-UC-4 (5-FbIm) and agZIF-UC-4 (5-FbIm). The results show that relaxation in the glass is slower than in the crystalline material. They also show that there is no significant difference between the relaxation times of the non-shifted narrow and the shifted broad signals of the <sup>19</sup>F MAS NMR spectrum of the glass. This clearly indicates that paramagnetic species are not present in the glass and that they cannot be responsible for the large shift of the <sup>19</sup>F signal. T<sup>1</sup> and T<sup>2</sup> measurements were carried out under MAS using the inversion-recovery and spin-echo pulse sequences, respectively.
+
+![](_page_50_Figure_0.jpeg)
+
+![](_page_50_Figure_1.jpeg)
+
+**Figure S39.** Comparison of <sup>19</sup>F chemical shifts measured in agZIF-UC-4 (5-FbIm) and <sup>19</sup>F chemical shifts calculated for selected arrangements of pairs of 5-FbIm molecules. In different DFT-based calculations two 5-FbIm molecules are placed in different positions with respect to each other. The calculations suggest that in cases, when two 5-FbIm molecules are close one to another (and especially when the F atom of one molecule approaches the benzyl ring of the other molecule), large changes in chemical shifts can be expected. However, the predicted changes in chemical shifts have opposite sign than the experimentally detected ones. Calculations thus indicate that the detected broad, shifted <sup>19</sup>F signals with chemical shifts ranging between -170 and -240 ppm is not due to the formation of halogen bonds between pairs of 5-FbIm ligands within agZIF-UC-4 (FbIm). Calculations of chemical shifts were carried out with Orca 4.0.1.2 package at the PBE0-D3/def2-QZVPP level.
+
+![](_page_51_Figure_0.jpeg)
+
+**Figure S40.** <sup>13</sup>C (a) and <sup>19</sup>F (b) MAS NMR spectra of ZIF-UC-2 (6-Cl-5-FbIm) and agZIF-UC-2 (6-Cl-5-FbIm). The spectrum at the bottom of (b) is the <sup>19</sup>F solution NMR spectrum of agZIF-UC-2 (6-Cl-5-FbIm), digested in DCl/DMSO-d6. Appro ximate intensity ratios for the signals at about -116 ppm and the shifted signals in the <sup>19</sup>F spectra of the glass and digested glass are presented. Arrows denote correlations between the <sup>19</sup>F NMR signals of the glass and digested glass. Asterisks mark positions of the spinning sidebands. Features that can be observed in the <sup>19</sup>F NMR spectra of ZIF-UC-2 (6-Cl-5-FbIm), agZIF-UC-2 (6-Cl-5-FbIm), and digested agZIF-UC-2 (6-Cl-5-FbIm) are almost identical to the ones detected in the ZIF-UC-4 (5-FbIm) series of samples.
+
+![](_page_52_Figure_0.jpeg)
+
+**Figure S41.** THz/Far-IR spectra of the ZIF precursors. Data were collected at room temperature.
+
+![](_page_53_Figure_0.jpeg)
+
+**Figure S42.** Comparison of the experimental ZIF-UC-4 (5-FbIm) and DFT calculated Zn(Im)3(5-FbIm) tetrahedron spectra in the wavenumber range of 150–700 cm-1 (measured & calculated at 298 K).
+
+![](_page_53_Figure_2.jpeg)
+
+**Figure S43.** (a) Comparison of the experimental ZIF-UC-4 (5-FbIm) and DFT calculated Zn(Im)3(5-FbIm) tetrahedron spectra in the wavenumber range of 23–100 cm-1 . The corresponding tetrahedron motion for DFT calculation is demonstrated in panel (b). The vibrational movement of the single tetrahedron leads to the distortion movement of the 4 and 6 membered rings. Zn: blue; N: orange; F: green; C: grey; H: white.
+
+![](_page_54_Figure_0.jpeg)
+
+**Figure S44.** THz/Far-IR spectra of ZIF-UC-2 (6-Cl-5-FbIm) and agZIF-UC-2 (6-Cl-5-FbIm) measured at 298 K with the insert being the enlarged spectra highlighting the emergence of a broad peak at 400–500 cm-1 after melt quenching (intensity normalized against the Zn-N peak at *ca.* 300 cm-1 ).
+
+![](_page_55_Figure_0.jpeg)
+
+**Figure S45.** Comparison of the experimental ZIF-UC-2 (6-Cl-5-FbIm) and DFT calculated Zn(Im)3(6-Cl-5-FbIm) tetrahedron spectra in the wavenumber range of 100–700 cm-1 , with the schematic diagram of the corresponding vibrational movements for DFT calculation at 298 K. Zn: blue; N: orange; F: green; Cl: purple; C: grey; H: white.
+
+![](_page_56_Figure_0.jpeg)
+
+**Figure S46.** THz/Far-IR spectra of ZIF-UC-3 (5-Cl-2-mbIm) and agZIF-UC-3 (5-Cl-2-mbIm) measured at 298 K. Insert is the enlarged spectra showing the relatively feature less pattern after melting (intensity normalized against the Zn-N peak at *ca.* 300 cm-1 ).
+
+![](_page_57_Figure_0.jpeg)
+
+**Figure S47.** Comparison of the experimental ZIF-UC-3 (5-Cl-2-mbIm) and DFT calculated Zn(Im)3(5-Cl-2-mbIm) tetrahedron spectra in the wavenumber range of 100–700 cm-1 , with the schematic diagram of the corresponding vibrational movements for DFT calculation at 298 K. Zn: blue; N: orange; Cl: purple; C: grey; H: white.
+
+![](_page_58_Figure_0.jpeg)
+
+**Figure S48.** THz/Far-IR spectra of ZIF-UC-5 (5-ClbIm) and agZIF-UC-5 (5-ClbIm) measured at 298 K. Insert is the enlarged spectra (intensity normalized against the Zn-N peak at *ca.* 300 cm-1 ).
+
+![](_page_59_Figure_0.jpeg)
+
+**Figure S49.** Comparison of the experimental ZIF-UC-5 (5-ClbIm) and DFT calculated Zn(Im)3(5-ClbIm) tetrahedron spectra in the wavenumber range of 100–700 cm-1 , with the schematic diagram of the corresponding vibrational movements for DFT calcuation at 298 K. Zn: blue; N: orange; Cl: purple; C: grey; H: white.
+
+![](_page_60_Figure_0.jpeg)
+
+**Figure S50.** THz/Far-IR spectra of ZIF-62 and agZIF-62 measured at 298 K. Insert is the enlarged spectra for crystal and glass (intensity normalized against the Zn-N peak at *ca.* 300 cm-1 ).
+
+![](_page_61_Figure_0.jpeg)
+
+**Figure S51.** Comparison of the experimental ZIF-62 and DFT calculated Zn(Im)3(bIm) tetrahedron spectra in the wavenumber range of 100–700 cm-1 , with the schematic diagram of the corresponding vibrational movements for DFT calculation at 298 K. Zn: blue; N: orange; Cl: purple; C: grey; H: white.
+
+![](_page_62_Figure_0.jpeg)
+
+**Figure S52.** DFT calculated THz/FIR spectra of Zn(Im)3F tetrahedron in the wavenumber range of 100–700 cm-1 (298 K), with the schematic diagram of the corresponding vibrational movement of Zn-F bond. Zn: blue; N: orange; F: green; C: grey; H: white.
+
+![](_page_62_Picture_2.jpeg)
+
+**Figure S53**. Experimental setup of the Synchrotron THz/Far-IR beamline for the *in situ* heating test at Australian Synchrotron.
+
+![](_page_63_Figure_0.jpeg)
+
+**Figure S54.** *In situ* THz/FIR spectra for ZIF-UC-4 (5-FbIm) (a and c) and ZIF-UC-3 (5-Cl-2 mbIm) (b and d) during the heating and subsequent cooling test. Each spectrum was collected after 3 min thermal equilibrium.
+
+![](_page_64_Figure_0.jpeg)
+
+**Figure S55.** *In situ* THz/FIR spectra for (a) ZIF-UC-4 (5-FbIm) and (b) agZIF-UC-4 (5-FbIm) at the wavenumber range of 23–100cm-1 .
+
+![](_page_64_Figure_2.jpeg)
+
+**Figure S56.** *In situ* synchrotron THz/FIR spectra for (a) ZIF-UC-2 (6-Cl-5-FbIm) and (b) agZIF-UC-2 (6-Cl-5-FbIm) at the wavenumber range of 23–100cm-1 .
+
+![](_page_65_Figure_0.jpeg)
+
+**Figure S57.** *In situ* synchrotron THz/FIR spectra for (a) ZIF-UC-2 (6-Cl-5-FbIm) and (b) agZIF-UC-2 (6-Cl-5-FbIm) at the wavenumber range of 100–700 cm-1 .
+
+![](_page_66_Figure_0.jpeg)
+
+**Figure S58.** Deformation modes of the (a) Zn-N stretching and (b) aromatic ring deformation during the *in situ* THz/FIR heating test for ZIF-UC-2 (6-Cl-5-FbIm) and agZIF-UC-2 (6-Cl-5- FbIm).
+
+![](_page_67_Figure_0.jpeg)
+
+**Figure S59.** *In situ* synchrotron THz/FIR spectra for (a) ZIF-UC-3 (5-Cl-2-mbIm) and (b) agZIF-UC-3 (5-Cl-2-mbIm) at the wavenumber range of 23–100cm-1 .
+
+![](_page_68_Figure_0.jpeg)
+
+**Figure S60.** *In situ* synchrotron THz/FIR spectra for (a) ZIF-UC-3 (5-Cl-2-mbIm) and (b) agZIF-UC-3 (5-Cl-2-mbIm) at the wavenumber range of 100–700 cm-1 .
+
+![](_page_69_Figure_0.jpeg)
+
+**Figure S61.** Deformation modes of the (a) Zn-N stretching and (b) aromatic ring deformation during the *in situ* THz/FIR heatin g test for ZIF-UC-3 (5-Cl-2-mbIm) and agZIF-UC-3 (5-Cl-2-mbIm).
+
+![](_page_70_Figure_0.jpeg)
+
+**Figure S62.** *In situ* synchrotron THz/FIR spectra for (a) ZIF-UC-5 (5-ClbIm) and (b) agZIF-UC-5 (5-ClbIm) at the wavenumber range of 23–100cm-1 .
+
+![](_page_71_Figure_0.jpeg)
+
+**Figure S63.** *In situ* synchrotron THz/FIR spectra for (a) ZIF-UC-5 (5-ClbIm) and (b) agZIF-UC-5 (5-ClbIm) at the wavenumber range of 100–700 cm-1 .
+
+![](_page_72_Figure_0.jpeg)
+
+**Figure S64.** Deformation modes of the (a) Zn-N stretching and (b) aromatic ring deformation during the *in situ* THz FIR heating test for ZIF-UC-5 (5-ClbIm) and agZIF-UC-5 (5-ClbIm).
+
+![](_page_73_Figure_0.jpeg)
+
+**Figure S65.** *In situ* synchrotron THz/FIR spectra for (a) ZIF-62 and (b) agZIF-62 at the wavenumber range of 23–100cm-1 .
+
+![](_page_74_Figure_0.jpeg)
+
+**Figure S66.** *In situ* synchrotron THz/FIR spectra for (a) ZIF-62 and (b) agZIF-62 at the wavenumber range of 100–700 cm-1 .
+
+![](_page_75_Figure_0.jpeg)
+
+**Figure S67.** Deformation modes of the (a) Zn-N stretching and (b) aromatic ring deformation during the *in situ* THz FIR heating test for ZIF-62 and agZIF-62.
+
+| Sample                     | Deformation mode                                                        | XR     | Standard Error<br>of XR | R2     | Reduced<br>Chi2 |
+|----------------------------|-------------------------------------------------------------------------|--------|-------------------------|--------|-----------------|
+| ZIF-UC-2 (6-<br>Cl-5-FbIm) | Zn-N stretching<br>(Crystal phase)                                      | 0.0343 | 0.0014                  | 0.9947 | 1.36            |
+|                            | Zn-N stretching<br>(Glass phase)                                        | 0.0401 | 0.0036                  | 0.9606 | 1.17            |
+|                            | Zn-N stretching<br>(Liquid phase)                                       | 0.1038 | 0.0030                  | 0.9916 | 1.21            |
+|                            | Aromatic ring deformation<br>(Crystal phase)                            | 0.0077 | 0.0008                  | 0.9845 | 1.46            |
+|                            | Aromatic ring deformation<br>(Glass phase)                              | 0.0037 | 0.0002                  | 0.9918 | 1.54            |
+|                            | Aromatic ring deformation<br>(Liquid phase)                             | 0.0291 | 0.0008                  | 0.9960 | 1.26            |
+| ZIF-UC-3 (5-<br>Cl-2-mbIm) | Zn-N stretching<br>(Crystal phase)                                      | 0.0374 | 0.0003                  | 0.9955 | 1.24            |
+|                            | Zn-N stretching<br>(Glass phase)                                        | 0.0753 | 0.0024                  | 0.9848 | 1.07            |
+|                            | Aromatic ring deformation<br>(Crystal phase)                            | 0.0055 | 0.0002                  | 0.9930 | 1.55            |
+|                            | Aromatic ring deformation<br>(Glass phase)                              | 0.0092 | 0.0002                  | 0.9683 | 1.57            |
+| ZIF-UC-4 (5-<br>FbIm)      | Zn-N stretching<br>(Crystal phase)                                      | 0.0292 | 0.0005                  | 0.9991 | 1.50            |
+|                            | Zn-N stretching<br>(Glass phase)                                        | 0.0597 | 0.0013                  | 0.9960 | 1.15            |
+|                            | Zn-N stretching<br>(Liquid phase)                                       | 0.1377 | 0.0042                  | 0.9891 | 1.35            |
+|                            | Aromatic ring deformation<br>(Crystal phase)                            | 0.0022 | 0.0001                  | 0.9903 | 1.81            |
+|                            | Aromatic ring deformation<br>(Glass phase)<br>Aromatic ring deformation | 0.0052 | 0.0003                  | 0.9609 | 1.77            |
+|                            | (Liquid phase)<br>Zn-N stretching                                       | 0.0496 | 0.0048                  | 0.9429 | 1.43            |
+| ZIF-UC-5 (5-<br>ClbIm)     | (Crystal phase)<br>Zn-N stretching                                      | 0.0255 | 0.0011                  | 0.9885 | 1.17            |
+|                            | (Glass phase)<br>Aromatic ring deformation                              | 0.0559 | 0.0009                  | 0.9939 | 1.07            |
+|                            | (Crystal phase)<br>Aromatic ring deformation                            | 0.0021 | 0.0002                  | 0.9916 | 1.26            |
+|                            | (Glass phase)                                                           | 0.0095 | 0.0003                  | 0.9874 | 1.08            |
+| ZIF-62                     | Zn-N stretching<br>(Crystal phase)                                      | 0.0362 | 0.0025                  | 0.9769 | 1.20            |
+|                            | Zn-N stretching<br>(Glass phase)                                        | 0.0585 | 0.0016                  | 0.9894 | 1.08            |
+|                            | Aromatic ring deformation<br>(Crystal phase)                            | 0.0055 | 0.0002                  | 0.9930 | 1.89            |
+|                            | Aromatic ring deformation<br>(Glass phase)                              | 0.0092 | 0.0003                  | 0.9683 | 1.09            |
+
+**Table S9.** Summary of curve fitting results (white: crystal phase, blue: glass phase and red: liquid phase).
+
+![](_page_77_Figure_0.jpeg)
+
+**Figure S68**. Correlation between the melting onset temperature and the Zn-N stretching wavenumber at room temperature (298 K).
+
+![](_page_78_Figure_0.jpeg)
+
+**Figure S69.** (a) Nitrogen adsorption-desorption isotherm at 77K for all halogenated crystalline ZIFs, and (b) pore size distribution of the ZIFs. BET surface area is calculated with the pressure range of 0.05-0.15 p/p0.
+
+![](_page_79_Figure_0.jpeg)
+
+**Figure S70.** Carbon dioxide adsorption-desorption isotherms at 273 K for all halogenated ZIF crystals.
+
+![](_page_80_Picture_1.jpeg)
+
+![](_page_80_Picture_2.jpeg)
+
+![](_page_80_Picture_4.jpeg)
+
+![](_page_80_Picture_5.jpeg)
+
+![](_page_80_Picture_7.jpeg)
+
+![](_page_80_Picture_8.jpeg)
+
+**Figure S71.** Optical images of the indentations for ZIF glass samples. Scale bars are 20 µm.
+
+![](_page_81_Picture_0.jpeg)
+
+**Figure S72.** Optical image of the indentations for agrZIF-UC-3 (5-Cl-2-mbIm) sample.
+
+![](_page_82_Figure_0.jpeg)
+
+**Figure S73.** Typical load-displacement data for all glass samples.
+
+![](_page_83_Figure_0.jpeg)
+
+**Figure S74.** The variance of Young's modulus with indentation depth for ZIF glass samples, with standard deviation calculated based on 20 cycles of repeated tests.
+
+![](_page_84_Figure_0.jpeg)
+
+**Figure S75.** Density of MOF crystal and glass. Crystal samples are in blue and glass samples are in red.
+
+![](_page_84_Picture_2.jpeg)
+
+**Figure S76.** Photograph of a 13 mm diameter pellet of agrZIF-UC-3 (5-Cl-2-mbIm) (a) before and (b) after thermal treatment at 653 K for 5 hours under argon.
+
+#### **Reference**
+
+- (1) Farrugia, L. J. *WinGX* and *ORTEP for Windows* : an update. *J. Appl. Crystallogr.* **2012**, *45* (4), 849–854.
+- (2) Coelho, A. A. TOPAS and TOPAS-Academic: an optimization program integrating computer algebra and crystallographic objects written in C++, *J. Appl. Crystallogr*. **2018**, 51 (1), 210-218
+- (3) Pawley, G. S. Unit-Cell refinement from powder diffraction scans. *J. Appl. Crystallogr.* **1981**, *14* (6), 357–361.
+- (4) Soper, A. K.; Barney, E. R. Extracting the pair distribution function from white-beam xray total scattering data. *J. Appl. Crystallogr.* **2011**, *44* (4), 714–726.
+- (5) Farrow, C. L., Juhas, P., Liu, J. W., Bryndin, D., Božin, E. S., Bloch, J., Proffen, Th., Billinge, S. J. L. PDFfit2 and PDFgui: computer programs for studying nanostructure in crystals, *J. Phys. Condens. Matter*, **2007**, 19, 335219
+- (6) Iacomi, P.; Llewellyn, P. L. PyGAPS: a python-based framework for adsorption isotherm processing and material characterisation. *Adsorption* **2019**, *25* (8), 1533–1542.
+- (7) Oliver, W. C.; Pharr, G. M. Measurement of hardness and elastic modulus by instrumented indentation: advances in understanding and refinements to methodology. *J. Mater. Res.* **2004**, *19* (01), 3–20.
+- (8) Kresse, G.; Joubert, D. From ultrasoft pseudopotentials to the projector augmentedwave method. *Phys. Rev. B* **1999**, *59* (3), 1758–1775.
+- (9) Blöchl, P. E. Projector augmented-wave method. *Phys. Rev. B* **1994**, *50* (24), 17953– 17979.
+- (10) Kresse, G.; Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set. *Comput. Mater. Sci.* **1996**, *6* (1), 15– 50.
+- (11) Kresse, G.; Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set. *Phys. Rev. B* **1996**, *54* (16), 11169–11186.
+- (12) Klimes, J.; Bowler, D. R.; Michaelides, A. Van der waals density functionals applied to solids. *Phys. Rev. B* **2011**, *83* (19), 195131.
+- (13) van der Walt, S.; Colbert, S. C.; Varoquaux, G. The NumPy array: a structure for efficient numerical computation. *Comput. Sci. Eng.* **2011**, *13* (2), 22–30.
+- (14) Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.; Robb, M. A.; Cheeseman, J. R.; Scalmani, G.; Barone, V.; Petersson, G. A.; Nakatsuji, H.; Li, X.; Caricato, M.; Marenich, A. V.; Bloino, J.; Janesko, B. G.; Gomperts, R.; Mennucci, B.; Hratchian, H. P.; Ortiz, J. V.; Izmaylov, A. F.; Sonnenberg, J. L.; Williams-Young, D.; Ding, F.; Lipparini, F.; Egidi, F.; Goings, J.; Peng, B.; Petrone, A.; Henderson, T.; Ranasinghe, D.; Zakrzewski, V. G.; Gao, J.; Rega, N.; Zheng, G.; Liang, W.; Hada, M.; Ehara, M.; Toyota, K.; Fukuda, R.; Hasegawa, J.; Ishida, M.; Nakajima, T.; Honda, Y.; Kitao, O.; Nakai, H.; Vreven, T.; Throssell, K.; Montgomery, J. A., Jr.; Peralta, J. E.; Ogliaro, F.; Bearpark, M. J.; Heyd, J. J.; Brothers, E. N.; Kudin, K. N.; Staroverov, V. N.; Keith, T. A.; Kobayashi, R.; Normand, J.; Raghavachari, K.; Rendell, A. P.; Burant, J. C.; Iyengar, S. S.; Tomasi, J.; Cossi, M.; Millam, J. M.; Klene, M.; Adamo, C.; Cammi, R.; Ochterski, J. W.; Martin, R. L.; Morokuma, K.; Farkas, O.; Foresman, J. B.; Fox, D. J. Gaussian 16, Revision C.01, *Gaussian, Inc., Wallingford CT*, **2016**.
+- (15) Stephens, P. J.; Devlin, F. J.; Chabalowski, C. F.; Frisch, M. J. Ab initio calculation of vibrational absorption and circular dichroism spectra using density functional force fields. *J. Phys. Chem*. **1994**, *98*, 11623–11627.
+- (16) Clark, T.; Chandrasekhar, J.; Spitznagel, G. W.; Schleyer, P. V. R. Efficient diffuse function-augmented basis sets for anion calculations. III. The 3-21+G basis set for firstrow elements, Li-F. *J. Comput. Chem.* **1983**, *4*, 294–301.
+- (17) Merrick, J. P.; Moran, D.; Radom, L. An evaluation of harmonic vibrational frequency scale factors. *J. Phys. Chem. A* **2007**, *111*, 11683–11700.
+- (18) Palatinus, L.; Chapuis, G. SUPERFLIP-A computer program for the solution of crystal structures by charge flipping in arbitrary dimensions. *J. Appl. Crystallogr.*, **2007**, *40*, 786–790.
+- (19) Retrieved from http://rcsr.anu.edu.au/nets/cag
+
+根据提供的文献内容，生成实验流程复现文献实验

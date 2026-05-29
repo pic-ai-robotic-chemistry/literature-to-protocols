@@ -1,0 +1,1028 @@
+![](_page_0_Picture_0.jpeg)
+
+### **Anionic Metal**−**Organic Framework as an Ultrafast Single-Ion Conductor for Exceptional Performance Rechargeable Zinc Batteries**
+
+[Qingchun](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Qingchun+Xia"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Xia,[\\*](#page-5-0) [Xuxiao](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Xuxiao+Ma"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Ma, [Pengtao](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Pengtao+Qiu"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Qiu, [Guozan](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Guozan+Yuan"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Yuan,[\\*](#page-5-0) and [Xuenian](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Xuenian+Chen"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Chen[\\*](#page-5-0)
+
+**Cite This:** *J. Am. Chem. Soc.* 2025, 147, [23331−23338](https://pubs.acs.org/action/showCitFormats?doi=10.1021/jacs.5c08566&ref=pdf) **Read [Online](https://pubs.acs.org/doi/10.1021/jacs.5c08566?ref=pdf)**
+
+![](_page_0_Picture_6.jpeg)
+
+| ACCESS | Metrics & More | Article Recommendations | *sı<br>Supporting Information |
+|--------|----------------|-------------------------|-------------------------------|
+|        |                |                         |                               |
+
+ABSTRACT: Anionic metal−organic frameworks (MOFs) are promising single-ion conductive electrolytes in quasi-solid-state batteries. Herein, we propose an anionic MOF as a promising single Zn2+ conductor for high-performance quasi-solid-state zincion battery (ZIB). The anionic MOF is synthesized by reacting carboxylic acid functionalized tetraphenylborate with a Zr6-oxo cluster, which displays outstanding ionic conductivity (0.83 mS cm<sup>−</sup><sup>1</sup> at −40 °C, 2.75 mS cm<sup>−</sup><sup>1</sup> at 25 °C, and 7.9 mS cm<sup>−</sup><sup>1</sup> at 120 °C), an impressive Zn2+ transference number (*t*Zn2+ = 0.90), low activation energy (0.19 eV), good interfacial compatibility, and excellent rate performance. The fabricated quasi-solid-state ZIB using NH4V4O10 cathode delivers a remarkable capacity of 497 mAh g<sup>−</sup><sup>1</sup> at 0.3 A g<sup>−</sup><sup>1</sup> under ambient conditions and can maintain
+
+![](_page_0_Figure_9.jpeg)
+
+capacities of 420, 350, and 270 mAh g<sup>−</sup><sup>1</sup> at elevated current densities of 1, 5, and 10 A g<sup>−</sup><sup>1</sup> with both capacities and Coulombic efficiency retention at 100% after 2500 cycles. Even at a low temperature of −40 °C or with a high current density of 100 A g<sup>−</sup><sup>1</sup> , excellent reversible capacities and rate performance can still be achieved. This work set up a new direction for designing and developing anionic porous materials as advanced solid electrolytes for zinc and/or other secondary batteries.
+
+# ■ **INTRODUCTION**
+
+The ultimate goal of electrochemical energy storage research is to develop environmentally friendly, high-capacity, and safe rechargeable batteries[.1](#page-6-0)<sup>−</sup>[3](#page-6-0) Among the various battery systems, rechargeable zinc-ion batteries (ZIBs) have emerged as a promising candidate for the postlithium era by virtue of their low electrode potential (−0.76 V vs SHE), high theoretical capacity (820 mAh g<sup>−</sup><sup>1</sup> )[,2](#page-6-0),[4](#page-6-0)<sup>−</sup>[6](#page-6-0) abundant natural reserves, and eco-friendliness.[1](#page-6-0) Despite these merits, their practical application is persistently beset by many challenges, such as zinc corrosion, dendrite formation, hydrogen evolution reaction (HER) in aqueous systems, and freezing tendency of aqueous electrolytes at low temperatures.[7](#page-6-0)<sup>−</sup>[9](#page-6-0) Electrolyte is the main component of ZIB,[10](#page-6-0) and the development of solid-state electrolytes (SSEs),[11,12](#page-6-0) which have been extensively investigated in lithium batteries for their mechanical barriers,[13](#page-6-0) has been proposed to alleviate or overcome these problems[.14](#page-6-0) However, their low Zn2+ ion conductivity, poor interface compatibility with electrodes, and insufficient chemical/ electrochemical stabilities still pose a formidable challenge for commercial applications.[15,16](#page-6-0)
+
+Metal−organic frameworks (MOFs) have recently emerged as promising SSEs for rechargeable batteries due to their designable and regular porous structures[,17](#page-6-0),[18](#page-6-0) which facilitate the incorporation of high-density charged species and provide additional space for guest molecules as the electrolyte within a confined geometric volume[.19](#page-6-0)<sup>−</sup>[21](#page-6-0) However, nearly all MOF- based SSEs need to incorporate extrinsic metal salts (e.g., ZnSO4, LiTFSI, et al.) into the frameworks,[22](#page-6-0)−[27](#page-6-0) and the mobile anions in the pore tend to cause low transference number and undesirable polarization effect[.28](#page-6-0)<sup>−</sup>[30](#page-6-0) Beyond that, these anions can trigger the nonuniform ion plating/stripping on the anodic metal surface, giving rise to uncontrolled mossy and dendritic metal growth[.31](#page-6-0),[32](#page-6-0) To avoid this, a handful of MOF-based SSEs employ postsynthetic modification to immobilize anions within the framework. Nevertheless, this strategy is restricted to MOFs with either unsaturated metal coordination sites or modifiable organic linkers, where anions can be coordinately bonded to metal clusters or covalently anchored to ligands.[17](#page-6-0) Although promising, this necessarily means that not all metal clusters or ligands can be modified to provide continuous hopping sites for charge carriers[,36](#page-7-0) and even worse, the requirement of the extrinsic metal salts is sometimes even more than the amount of available binding sites.[34](#page-7-0),[37](#page-7-0) Consequently, these MOF-based SSEs still suffer from relatively low ionic conductivity and transference
+
+Received: May 21, 2025 Revised: June 15, 2025 Accepted: June 17, 2025 Published: June 23, 2025
+
+![](_page_0_Picture_16.jpeg)
+
+![](_page_0_Picture_18.jpeg)
+
+number, leading to the fabricated batteries still exhibiting poor rate performance and high resistance.[32](#page-6-0),[34,35](#page-7-0),[38](#page-7-0)
+
+The synthesis and application of anionic MOFs as single-ion conductors represent a promising strategy to overcome these inherent limitations.[39](#page-7-0)−[43](#page-7-0) We previously developed an anionic tetraphenylborate (BPh4 <sup>−</sup>) ligand and employed it to construct an anionic MOF as a single Li+ conductor for quasi-solid-state lithium battery.[44](#page-7-0) We herein demonstrate the successful extension of this strategy by using anionic MOF as an efficient single-ion conductor for rechargeable ZIB. We first successfully targeted a robust Zr-based anionic framework using the carboxylic acid functionalized lithium tetraphenylborate anionic ligand. Through ion exchange of its intrinsic Li<sup>+</sup> ion with Zn(H2O)6 2+, the resulting single-ion Zn2+ conductor exhibited excellent ionic conductivity, impressive Zn2+ transference number, and low activation energy. This remarkable efficiency could be maintained across a wide temperature range from −40 to 120 °C, with ionic conductivities all satisfying the stringent requirements of the solid-state ZIBs. At room temperature, the anionic MOF-based NH4V4O10 solid-state ZIB delivered a remarkable capacity of 497 mAh g<sup>−</sup><sup>1</sup> at 0.3 A g<sup>−</sup><sup>1</sup> and could maintain the capacities of 420, 350, and 270 mAh g<sup>−</sup><sup>1</sup> when the current density increased to 1, 5, and 10 A g<sup>−</sup><sup>1</sup> with both capacities and Coulombic efficiency retention at 100% after 2500 charge−discharge cycles. Notably, even under some extreme conditions, such as low temperature (−40 °C) or high current density (100 A g<sup>−</sup><sup>1</sup> ), our solid-state ZIB could still display excellent rate performances. Lastly, our anionic MOF electrolyte also exhibited good compatibility with various cathodes like MnO2, Cu3(HHTP)2, and PTCDA (3,4,9,10 perylenetetracarboxylic dianhydride), enabling all corresponding ZIBs to display superior rate performance. This work establishes anionic MOFs and other anionic porous materials as a versatile platform for the development of next-generation solid-state batteries.
+
+# ■ **RESULTS AND DISCUSSION**
+
+Anionic MOF 1 was synthesized through a solvothermal reaction between anionic tetraphenylborate ligand Li·[H4L] (0.5 mmol) and ZrOCl2·8H2O (0.5 mmol) in a mixture of DMF (60 mL) and TFA (10 mL) at 100 °C for 24 h. Colorless single crystals of 1 were isolated in a 57% yield with a formula of Li2·[Zr6O4(OH)8(H2O)4L2]·*n*G based on microstructure analyses, including single-crystal X-ray diffraction (SC-XRD), Fourier transform infrared (FT-IR) spectra, elemental analysis (EA), inductively coupled plasma mass spectrometry (ICP-MS), and thermogravimetric analysis (TGA). SC-XRD analysis revealed that 1 crystallized in the tetragonal *I*4/*m* space group with one-fourth of a tetraphenylborate ligand and two crystallographically independent Zr atoms in the asymmetric unit. In 1, six Zr atoms were bonded together by four *μ*3-O and four *μ*3−OH groups to form the classical Zr6(*μ*3-O)4(*μ*3− OH)4 cluster with four − OH and four H2O groups attached as terminal groups on the equatorial plane [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S1). For the *T*<sup>d</sup> symmetric BPh<sup>4</sup><sup>−</sup> ligand, the central B adopted sp<sup>3</sup> hybridization with a C−B−C angle of about 109.2 ± 0.5 and a C−B bond length of about 1.65 Å (Figure 1a). Notably, the C−B bond was slightly longer than the C−C bond (1.56 Å) in its neutral isostructure MOF-841, which was derived from the neutral ligand tetrakis(4-carboxylic acid phenyl) methane reported by Yaghi and co-workers.[45](#page-7-0) Each BPh4<sup>−</sup> ligand was coordinated to four Zr6 clusters (Figure 1b), and each Zr6 cluster was bonded to eight tetraphenylborate ligands, thus
+
+![](_page_1_Figure_5.jpeg)
+
+![](_page_1_Figure_6.jpeg)
+
+Figure 1. (a) Molecular structures of the Li·[H4L] ligand. (b) Linker conformation in 1. (c) 3D porous structure of 1.
+
+forming a three-dimensional (4,8)-connected anionic framework with flu topology. Notably, such topology was concomitant with a large dodecahedral cage with a dimension of ∼14.0 × 18.2 × 20.4 Å3 that occupied 63.7% void space of the framework for the guest inclusion (Figure 1c).[46](#page-7-0) Unfortunately, SC-XRD could not resolve the presence of Li<sup>+</sup> in the framework. However, <sup>7</sup> Li MAS NMR analysis indicated the presence of Li+ ; a single broad peak was observed at −1.01 ppm [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S4), implying the freedom of the Li<sup>+</sup> species in the pore that could be exchanged by other ions like Zn2+ to endow the framework as the solid electrolyte in the zinc solid-state battery. ICP-MS analysis of the digested sample revealed the content of Li<sup>+</sup> to be 2.90 wt %.
+
+The phase purity was established by the similarity between the experimental and calculated powder X-ray diffraction (PXRD) patterns [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S6). N2 adsorption isotherm showed Type I adsorption behavior with the Brunauer−Emmett− Teller (BET) area of 995 m2 g<sup>−</sup><sup>1</sup> [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S9). Pore size distribution derived from the nonlocal density functional theory model (NLDFT) indicated the presence of regular ∼8.6 Å [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S10), which is in good agreement with the simulation of 7.0 Å [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S13), thereby facilitating the rapid transport of Zn2+ and other ions within the pore. TGA showed that the included guest molecules in the framework could be readily removed [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S14). Variable temperature PXRD (VT-XRD) indicated that the structure and crystallinity integrity could be preserved up to 300 °C in the open air. Chemical stability was also evaluated by PXRD, N2 sorption, and 11B NMR analysis on 1 soaking in 3 M HCl (aq), 1 M NaOH (aq), and 0.001 M K3PO4(aq) at room temperature for 24 h. These recoveries exhibited little weight loss after being
+
+<span id="page-2-0"></span>![](_page_2_Figure_3.jpeg)
+
+Figure 2. (a) LSV measurements for the SS/1Zn/Zn asymmetric cells at room temperature at a scan speed of 0.5 mV s −1 , and IR correction was applied during LSV measurements. (b) Ionic conductivity of 1Zn as a function in the temperature range from −40 to 120 °C. Inset: Nyquist plots for 1Zn. (c) CA curves of the Zn/1Zn/Zn and SUS/1Zn/SUS cells at a polarized voltage of 5 mV. Inset: Nyquist plots were obtained before and after polarization. (d) GC performance of the Zn/1Zn/Zn symmetrical cell at a current density of 10 mA cm<sup>−</sup><sup>2</sup> at room temperature. (e) Stepped current GC curve of the Zn/1Zn/Zn cell at room temperature.
+
+thoroughly washed and dried. PXRD patterns were almost the same as those of the original sample after chemical stability testing ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S6). N2 adsorption measurements provided BET surface areas of 762, 697, and 742 m<sup>2</sup> g<sup>−</sup><sup>1</sup> , respectively, confirming the framework stability and permanent porosity ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S9). 11B NMR analysis of these solutions after removing the anionic framework with no detectable B signal indicated neither stoichiometric nor substoichiometric amounts of decomposition during these treatments. These recoveries were then decomposed by 3 M NaOH, and the resulting 11B NMR spectra were consistent with those of the Li·[H4L] ligand [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S15), further demonstrating the full integrity of the ligands during these treatments. The electrochemical stability was then evaluated by cyclic voltammetry (CV) and linear sweep voltammetry (LSV) measurements at room temperature. CV measurement displayed a wide voltage window up to 5.0 V ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S18). LSV measurement exhibited a stable electrochemical window of −0.25−4.63 V (Figure 2a). Both CV and LSV measurements demonstrated exceptional electrochemical stability toward zinc metal and high-voltage cathode. Notably, although our framework exhibits instability toward phosphate ions with the concentration higher than 1 mM, this is not really an issue with regard to the applications in the following zinc batteries.
+
+Considering the existence of free Li<sup>+</sup> ions and the readily accessible channels, we conducted ion exchange with Zn2+ to access the single Zn2+ conductor. Typically, the ion exchange was performed by immersing 1 in a 2.0 M aqueous solution of Zn(NO3)2·6H2O at 80 °C, with the solution refreshed every 4 h for a total of five cycles. After ion exchange completion, the precipitates were filtered, thoroughly washed with water, and dried at 120 °C under vacuum to afford 1Zn. PXRD showed that 1Zn displayed a pattern similar to that of its pristine counterpart 1 [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S8). N2 adsorption experiment provided a BET surface area of 667 m<sup>2</sup> g<sup>−</sup><sup>1</sup> [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S11). Scanning electron microscopy-energy dispersive spectroscopy (SEM-EDS) mapping analysis of a single crystal at the microstructural level indicated a uniform distribution of Zr and Zn throughout the hole crystal [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S17). ICP-MS measurement indicated 3.2 wt % Zn2+ ions incorporation with less than 0.05 wt % residual Li+ ions. Significantly, the content of Zn2+ ions would not decrease even after extensive washing with water at either room temperature or 80 °C, thus ruling out zinc nitrate as guest dispersing in the framework. Significantly, other cations, including Na+ , K+ , Ca2+, Mg2+, and Al3+, could also be similarly incorporated into 1 through ion exchange [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S65−S70).
+
+We subsequently employed 1Zn as a competitive candidate for single a Zn-ion quasi-solid-state conductor, where Zn2+ ions migration involves intrinsic ion diffusion along anionic channels and extrinsic transport across interparticle phases. To enhance Zn-ion transportation, we trapped water into the anionic frameworks not only to hydrate the free Zn2+ ions but also to moisten the pores and wet the interfaces between MOF particles. After soaking 1Zn in water and drying at 65 °C, we obtained free-flowing 1Zn powder with about 12.8 wt % water content in the anionic framework. Additionally, 1Zn exhibited excellent water retention, losing less than 3 wt % after 1 week under ambient conditions and retaining 85 wt % water after 1 month. The free-flowing 1Zn powder was then pressed into a densely packed morphology and sandwiched between two
+
+<span id="page-3-0"></span>![](_page_3_Figure_3.jpeg)
+
+Figure 3. (a) Schematic illustration of the Zn/1Zn/NH4V4O10 SSB. (b) Schematic illustration of the single Zn2+ ions transportation in 1Zn. (c, d) Rate and cycling performance at the current density from 0.3 to 100 A/g at room temperature. (e, f) Rate and cycling performance at the current density from 1 to 10 A g<sup>−</sup><sup>1</sup> at 60, 30, −10, and −20 °C, respectively. (g) CV curves of the Zn/1Zn/NH4V4O10 SSB under 1 mV s −1 . (h) Long-term GCD performance of the battery at 5 A g<sup>−</sup><sup>1</sup> ; insets: photographs and SEM morphologies of the Zn metal surface before and after the Zn/1Zn/ NH4V4O10 cell cycling; the photograph of 1Zn electrolyte; the obtained Zn/1Zn/NH4V4O10 SSB for lighting LED lamps.
+
+stainless steel (SS) electrodes in an electrochemical cell for electrochemical evaluation. Ionic conductivities were assessed through alternating current (AC) impedance measurements over a frequency range of 500 kHz to 500 Hz and temperatures from −40 to 120 °C. [Figure](#page-2-0) 2b displays the conductivity variation with temperature and unveils a remarkable conductivity of 2.2 mS cm<sup>−</sup><sup>1</sup> at 25 °C, with ion conductivity increasing to 7.7 mS cm<sup>−</sup><sup>1</sup> as the temperature rose to 120 °C, and remaining as high as 0.27 mS cm<sup>−</sup><sup>1</sup> even when the temperature was decreased to −40 °C. We further acquired the activation energy (*E*a) within this temperature range, and the value was estimated to be 0.19 eV for the fast Zn2+ ion transportation ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S22). Moreover, when 1Zn was placed at room temperature for more than one year, its ionic conductivity exhibited a negligible degradation, and therefore, the ionic conductivity of the aged sample is also acceptable for practical application as the quasi-solid-state electrolyte in a zinc-ion battery.
+
+Electronic conduction was then studied by direct current (DC) polarization measurement, yielding a value of 1.52 × 10<sup>−</sup><sup>9</sup> S cm<sup>−</sup><sup>1</sup> [\(Figures](#page-2-0) 2c and [S19](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf)). This value is 6 orders of magnitude lower than its ionic conductivity, indicating a significant electrical insulation of the anionic framework to prevent any current flow through the electrolyte. The zinc-ion transfer number (*t*Zn2+) was then measured by using the Evans method, yielding a value of 0.90 ([Figure](#page-2-0) 2c). The transference number of electronic conductivity was also measured with a value less than 0.01% ([Figure](#page-2-0) 2c), further confirming the superior ionic conduction characteristics of 1Zn. Moreover, we employed its neutral isostructure MOF-841 and the Zn· [Me4L]2 ester as controls to elucidate the role of Zn2+ ions and the anionic framework.[45](#page-7-0) Notably, these controls showed significantly low conductivities upon hydration (2.28 × 10<sup>−</sup><sup>7</sup> and 1.02 × 10<sup>−</sup><sup>8</sup> S cm<sup>−</sup><sup>1</sup> for MOF-841 and Zn·[Me4L]2, respectively, [Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S20 and S21), conclusively verifying that the observed ionic conduction was predominantly derived from the Zn2+ migration within the well-defined anionic framework.
+
+Notably, the room-temperature conductivity of 1Zn ranks among the highest values of all reported crystalline porous materials (e.g., COFs and MOFs)[.13](#page-6-0),[33,39,41](#page-7-0),[44](#page-7-0) We believe this remarkable performance is due to the following synergistic the BPh4
+
+factors. First, the anionic and porous feature of 1, derived from <sup>−</sup> linkage, establishes efficient ion transport pathways that enable rapid Zn2+ migration through hopping between boron centers [\(Figure](#page-3-0) 3b), which leads to improved ion conductivity, low activation energy, and excellent transference number. Second, the shielding effect of the coordinated water
+
+shell, in which the Zn(H2O)6 2+ ions exhibit negligible bonding interactions with the anionic frameworks, further contributes to the high conductivity and low activation energy. Third, we propose that when the MOF nanocrystals are densely packed into pellets, direct interfacial connections wetted by water at the atomic level facilitate Zn2+ ion transport between crystals. Finally, we believe that the perfect size match between the Zn(H2O)6 2+ ion (5.1 Å) and the pore of the framework (7.0 Å) plays a crucial role in ensuring excellent ion conductivity. Given its high conductivity and low activation energy, we assert that 1Zn can be defined as a superionic solid-state conductor for ZIBs.
+
+We subsequently assessed the compatibility of 1Zn with the metallic Zn anode via continuous plating and stripping cycles. Initially, we constructed a Zn/1Zn/Cu asymmetric cell to examine the Coulombic efficiency of Zn plating and stripping on Cu foils. As shown in [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S23, the asymmetric Zn/1Zn/ Cu cell produced a high efficiency of 99% and could maintain stability over 200 cycles. Furthermore, during this long-term cycling experiment, the Zn/1Zn/Cu cell exhibited a remarkably low voltage hysteresis of just 40 mV. The nucleation overpotential (NOP) of this asymmetric cell was also evaluated and found to be as low as 50 mV ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S24). We further assembled a symmetric Zn/1Zn/Zn cell to evaluate its electrochemical performance and the long-term cycling stability between the Zn metal anode and 1Zn electrolyte. CV measurement revealed that the initial deposition potential of Zn2+ is only 42 mV ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S25), thereby facilitating Zn2+ ion transport within the anionic channel and subsequent Zn2+ ion deposition onto zinc foils with a lower nucleation barrier. Chronoamperometry (CA) measurement was then performed at an overpotential of −150 mV for a duration of 600 s to study the influence of 1Zn on Zn nucleation/deposition mechanisms. As shown in [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S26, the current density exhibited a rapid increase during the initial 10 s and subsequently stabilized throughout the entire plating process, conforming to a uniform nucleation/deposition process without Zn dendrite formation on the surface of the zinc electrode. Lastly, a galvanostatic cycling (GC) measurement was conducted to assess the longterm durability at a high current of 10 mA cm<sup>−</sup><sup>2</sup> with a plating capacity of 5 mAh cm<sup>−</sup><sup>2</sup> at room temperature. As shown in [Figure](#page-2-0) 2d, the GC curve of the symmetric cell produced an overpotential of less than 50 mV and maintained stable performance for over 450 h without significant fluctuations in polarization potential. The enlarged voltage profile showed a flat voltage plateau in the hole charge−discharge cycles, reflecting a uniform Zn-ion flux directed by 1Zn. Encouraged by the low overpotential, we then explored the rate performances with a fixed deposition capacity of 1 mAh cm<sup>−</sup><sup>2</sup> at various current densities from 20 to 50 mA cm<sup>−</sup><sup>2</sup> . As shown in [Figure](#page-2-0) [2](#page-2-0)e, even at a super high current density of 50 mA cm<sup>−</sup><sup>2</sup> , a stable cell voltage of around 0.25 V was obtained without causing a short circuit, and the cell voltage could quickly return to its original value of less than 0.1 V upon reverting the current density back to 20 mA cm<sup>−</sup><sup>2</sup> .
+
+We further tracked the resistance of the symmetrical cell to assess calendar aging. The total resistance (6.77 ± 0.03 Ω) remained nearly unchanged throughout the process [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) [S29\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf). Finally, we disassembled the symmetric cell to investigate the composition and crystallinity integrity of the 1Zn electrolyte and the surface morphology change of the Zn electrode. PXRD analysis showed that the recovered 1Zn electrolyte still retained a high degree of crystallinity after the cycling tests ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S8). ICP-MS measurement indicated that the Zn2+ content remained nearly consistent with its pristine counterpart. N2 sorption measurements revealed that the BET surface area of the recovery was estimated to be 561 m<sup>2</sup> g<sup>−</sup><sup>1</sup> [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S11). SEM analysis of the postcycling Zn electrode still displayed a clean and flat surface morphology ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S30), visually indicating that single Zn2+ ion migration within the anionic framework can avoid the polarization effect and inhibit zinc dendrite formation.
+
+To evaluate the feasibility of 1Zn in a practical battery system, we fabricated a CR2025-type coin cell utilizing 1Zn, zinc foil, and NH4V4O10 as the electrolyte, anode, and cathode, respectively ([Figure](#page-3-0) 3a). In this cell, we controlled the thickness of the 1Zn electrolyte to 1−2 mm, and the 1Zn electrolyte was directly compacted with NH4V4O10 and polished Zn metal in an open-air environment without any special treatment for all three components. It should be noted that the fabrication of our solid ZIB is facile and efficient, and it does not need to be performed under a water- and/or oxygen-free environment or any other protection measures, making it particularly ideal for large-scale fabrication.
+
+[Figure](#page-3-0) 3g presents the initial five CV curves of our solid ZIB recorded at 1 mV s <sup>−</sup><sup>1</sup> within the voltage range of 0.2−1.8 V, in which three pairs of reduction/oxidation peaks can be observed, indicating the multistep reversible insertion/ extraction process occurring in the NH4V4O10 cathode. Among these redox peaks, two distinct couples at 0.55/0.64 V and 0.92/1.14 V corresponded to the redox reactions of V4+/ V3+ and V5+/V4+, [47](#page-7-0) respectively, signifying the multistep Zn2+ intercalation/deintercalation process. Additionally, a pair of small redox peaks at 1.32/1.27 V might be related to the oxidation−reduction process of NH4 <sup>+</sup> in V−O interlayers,[48](#page-7-0)−[52](#page-7-0) while a gradually disappeared oxidative peak at 1.41 V, likely ascribed to the complete phase transition of NH4V4O10. [52](#page-7-0) The galvanostatic charge−discharge (GCD) performance under varied current densities at room temperature is illustrated in [Figure](#page-3-0) 3c,d, in which our solid ZIB released a high reversible capacity of 497 mAh g<sup>−</sup><sup>1</sup> at a current density of 0.3 A g<sup>−</sup><sup>1</sup> and could retain the capacities of 437, 394, 351, and 274 mAh g<sup>−</sup><sup>1</sup> at the current densities of 1, 3, 5, and 10 A g<sup>−</sup><sup>1</sup> , respectively. Notably, even at a super high rate of 100 A g<sup>−</sup><sup>1</sup> , our ZIB could still deliver a capacity of 47 mAh g<sup>−</sup><sup>1</sup> and rapidly recover back to 490 mAh g<sup>−</sup><sup>1</sup> when the current density was cycled back to 0.3 A g<sup>−</sup><sup>1</sup> [\(Figure](#page-3-0) 3c). We further examined its rate performance across a broad temperature range. [Figure](#page-3-0) 3e[,3f](#page-3-0) displays its rate capability from −40 to 60 °C. At 60 °C, the battery delivered capacities of 460, 406, 370, and 288 mAh g<sup>−</sup><sup>1</sup> at current densities of 1, 2, 5, and 10 A g<sup>−</sup><sup>1</sup> ([Figures](#page-3-0) 3f and [S31\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf), respectively. When the temperature was decreased to − 20 °C, the battery still exhibited capacities of 213 and 51 mAh g<sup>−</sup><sup>1</sup> at 1 and 10 A g<sup>−</sup><sup>1</sup> , respectively. Upon returning to 60 °C, the battery showed a significant capacity recovery, reaching 450 mAh g<sup>−</sup><sup>1</sup> ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S32).
+
+The long-term GCD stability was subsequently assessed at the current density of 5 A g<sup>−</sup><sup>1</sup> and displayed in [Figure](#page-3-0) 3h. Our solid ZIB exhibited a capacity of 349 mAh g<sup>−</sup><sup>1</sup> and demonstrated an admirable capacity retention of 99.7% even <span id="page-5-0"></span>after 2500 cycles, accompanied by a Coulombic efficiency approaching 100% and tiny resistance rises ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S33). Furthermore, even at high current densities of 50, 70, and 100 A g<sup>−</sup><sup>1</sup> , our solid ZIB still delivered high Coulombic efficiency and capacity retention, both approximately reaching 100% after the same number of cycles ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S34). We also evaluated the long-term GCD performances at a current density of 5 A g<sup>−</sup><sup>1</sup> at −40 and 60 °C, respectively. As shown in [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S36, our solid ZIB could maintain capacities of 126 and 436 mAh g<sup>−</sup><sup>1</sup> , respectively. Even after 2200 cycles, it could still retain 93 and 96% of its initial capacities, respectively, with both Coulombic efficiencies achieving nearly 100%. More encouragingly, at some other more extreme conditions�such as 10 A g<sup>−</sup><sup>1</sup> at −20 °C and 20 A g<sup>−</sup><sup>1</sup> at −10 °C�our solid ZIBs still exhibited exceptional resilience and were capable of undergoing more than 1000 cycles with 97.3 and 94.3% capacity retention versus their initial capacity, respectively [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S37 and S38), further underscoring their superlong lifespan with extremely high stability.
+
+The self-discharge behavior of our solid ZIB was then studied by precharging to 1.6 V first. As shown in [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S39, our solid ZIB maintained a stable voltage of 1.33 V after resting for 24 h at room temperature and delivered a discharge capacity of 388 mAh g<sup>−</sup><sup>1</sup> with a 93% capacity retention. Given its excellent charge and discharge performance, the brilliant red-light-emitting diodes (LEDs) could be briefly powered using our solid ZIB. After cycling and disassembling the solid ZIB, the anode zinc sheet remained as smooth and bright as before, and the MOF solid electrolyte also stayed intact, with no cracks or voids being detected [\(Figure](#page-3-0) 3h, insets). Finally, we assembled a pouch cell to verify its practical application. As shown in [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S40, the pouch cell outputs an open-circuit potential of 1.14 V. Three pouch cells could power more than 77 LEDs ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S41), with no observable abnormality even at temperatures of 60 °C and − 20 °C ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S42).
+
+Our solid electrolyte 1Zn could further tolerate other cathode materials, such as MnO2, PTCDA, and Cu3(HHTP)2, enabling the formation of stable solid ZIBs that achieved capacities of 65, 190, and 70 mAh g<sup>−</sup><sup>1</sup> , respectively. These three solid ZIBs were capable of undergoing more than 1000 consecutive charge/discharge cycles at room temperature [\(Figures](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) S43, [S49,](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf) and S55). Therefore, we concluded that our anionic MOF electrode not only facilitated efficient Zn2+ transport in its anionic channels but also exhibited excellent interfacial compatibility with Zn anode and cathode materials like NH4V4O10, MnO2, PTCDA, and Cu3(HHTP)2, enabling effective utilization of Zn metal and stable rate performance during the continuous plating/stripping and charge/discharge cycles.
+
+# ■ **CONCLUSIONS**
+
+In summary, by employing the carboxylic acid functionalized anionic tetraphenylborate ligand, we have constructed a highly stable anionic metal−organic framework. After the Zn2+ ion exchange of the leaving freedom Li+ in the anionic pore, the resulting anionic MOF delivers outstanding Zn2+ conductivity, impressively high transference number, low activation energy, good interfacial compatibility, and excellent rate performance. The regular and well-ordered pores, combined with the uniform distribution of BPh4 <sup>−</sup> anions throughout the crystals, fundamentally facilitate Zn2+ rapid transport and deposition. All these properties consequently enable the high performance of the following solid-state zinc-ion battery with good rate performance and long-term cycling stability, thereby making our battery have great potential for commercial applications. Moreover, our anionic metal−organic framework can also tolerate other ions such as Na+ , K<sup>+</sup> , Mg2+, Ca2+, or Al3+, which may make it suitable for other new types of solid-state batteries in the future.
+
+# ■ **ASSOCIATED CONTENT**
+
+### \***sı Supporting Information**
+
+The Supporting Information is available free of charge at [https://pubs.acs.org/doi/10.1021/jacs.5c08566.](https://pubs.acs.org/doi/10.1021/jacs.5c08566?goto=supporting-info)
+
+Details on experimental procedures, X-ray crystallographic data for 1Zn, supporting figures, reaction procedures, and spectra [\(PDF](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c08566/suppl_file/ja5c08566_si_001.pdf))
+
+### **Accession Codes**
+
+Deposition Number [2404118](https://summary.ccdc.cam.ac.uk/structure-summary?pid=ccdc:2404118&id=doi:10.1021/jacs.5c08566) contains the supplementary crystallographic data for this paper. These data can be obtained free of charge via the joint Cambridge Crystallographic Data Centre (CCDC) and Fachinformationszentrum Karlsruhe Access [Structures](http://www.ccdc.cam.ac.uk/structures) service.
+
+# ■ **AUTHOR INFORMATION**
+
+### **Corresponding Authors**
+
+- Qingchun Xia − *Henan Key Laboratory of Boron Chemistry and Advanced Energy Materials, Key Laboratory of Green Chemical Media and Reactions, Ministry of Education, School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang, Henan 453007, China; State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing 210093, China;* [orcid.org/0000-0002-4367-](https://orcid.org/0000-0002-4367-9194) [9194;](https://orcid.org/0000-0002-4367-9194) Email: [xiaqingchun@htu.edu.cn](mailto:xiaqingchun@htu.edu.cn)
+- Guozan Yuan − *School of Chemistry and Chemical Engineering, Anhui University of Technology, Ma'anshan, Anhui 243032, China;* [orcid.org/0000-0003-0074-1274;](https://orcid.org/0000-0003-0074-1274) Email: [guozan@ahut.edu.cn](mailto:guozan@ahut.edu.cn)
+- Xuenian Chen − *Henan Key Laboratory of Boron Chemistry and Advanced Energy Materials, Key Laboratory of Green Chemical Media and Reactions, Ministry of Education, School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang, Henan 453007, China; State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing 210093, China; College of Chemistry, Zhengzhou University, Zhengzhou, Henan 450001, China;* [orcid.org/](https://orcid.org/0000-0001-9029-1777) [0000-0001-9029-1777](https://orcid.org/0000-0001-9029-1777); Email: [xuenian\\_chen@zzu.edu.cn](mailto:xuenian_chen@zzu.edu.cn)
+
+### **Authors**
+
+- Xuxiao Ma − *Henan Key Laboratory of Boron Chemistry and Advanced Energy Materials, Key Laboratory of Green Chemical Media and Reactions, Ministry of Education, School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang, Henan 453007, China*
+- Pengtao Qiu − *Henan Key Laboratory of Boron Chemistry and Advanced Energy Materials, Key Laboratory of Green Chemical Media and Reactions, Ministry of Education, School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang, Henan 453007, China;* [orcid.org/0000-0001-8982-0803](https://orcid.org/0000-0001-8982-0803)
+
+Complete contact information is available at: [https://pubs.acs.org/10.1021/jacs.5c08566](https://pubs.acs.org/doi/10.1021/jacs.5c08566?ref=pdf)
+
+### <span id="page-6-0"></span>**Notes**
+
+The authors declare no competing financial interest.
+
+# ■ **ACKNOWLEDGMENTS**
+
+This work was financially supported by the Natural Science Foundation of Henan Province (Grant No. 242300421353), Henan Key Research Projects of Higher Education Institutions (Grant No. 24A150017), and the Open Research Fund of State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University.
+
+# ■ **REFERENCES**
+
+(1) Tang, L.; Peng, H.; Kang, J.; Chen, H.; Zhang, M.; Liu, Y.; Kim, D. H.; Liu, Y.; Lin, Z. Zn-based batteries for [sustainable](https://doi.org/10.1039/D3CS00295K) energy storage: strategies and [mechanisms.](https://doi.org/10.1039/D3CS00295K) *Chem. Soc. Rev.* 2024, *53* (10), 4877−4925.
+
+(2) Zhang, H.; Liu, X.; Li, H.; Hasa, I.; Passerini, S. [Challenges](https://doi.org/10.1002/anie.202004433) and Strategies for High-Energy Aqueous Electrolyte [Rechargeable](https://doi.org/10.1002/anie.202004433) [Batteries.](https://doi.org/10.1002/anie.202004433) *Angew. Chem., Int. Ed.* 2021, *60* (2), 598−616.
+
+(3) Zhu, Z.; Jiang, T.; Ali, M.; Meng, Y.; Jin, Y.; Cui, Y.; Chen, W. [Rechargeable](https://doi.org/10.1021/acs.chemrev.2c00289?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Batteries for Grid Scale Energy Storage. *Chem. Rev.* 2022, *122* (22), 16610−16751.
+
+(4) Guo, J.; Du, J. Y.; Liu, W. Q.; Huang, G.; Zhang, X. B. [Revealing](https://doi.org/10.1002/anie.202406465) Hydrogen Bond Effect in Rechargeable Aqueous [Zinc-Organic](https://doi.org/10.1002/anie.202406465) [Batteries.](https://doi.org/10.1002/anie.202406465) *Angew. Chem., Int. Ed.* 2024, *63* (29), No. e202406465.
+
+(5) Konarov, A.; Voronina, N.; Jo, J. H.; Bakenov, Z.; Sun, Y.-K.; Myung, S.-T. Present and Future [Perspective](https://doi.org/10.1021/acsenergylett.8b01552?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) on Electrode Materials for [Rechargeable](https://doi.org/10.1021/acsenergylett.8b01552?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Zinc-Ion Batteries. *ACS Energy Lett.* 2018, *3* (10), 2620−2640.
+
+(6) Wang, Y.; Song, J.; Wong, W. Y. Constructing 2D [Sandwich-like](https://doi.org/10.1002/anie.202218343) MOF/MXene [Heterostructures](https://doi.org/10.1002/anie.202218343) for Durable and Fast Aqueous Zinc-Ion [Batteries.](https://doi.org/10.1002/anie.202218343) *Angew. Chem., Int. Ed.* 2023, *62* (8), No. e202218343. (7) Guo, Q.; Li, W.; Li, X.; Zhang, J.; Sabaghi, D.; Zhang, J.; Zhang, B.; Li, D.; Du, J.; Chu, X.; Chung, S.; Cho, K.; Nguyen, N. N.; Liao, Z.; Zhang, Z.; Zhang, X.; Schneider, G. F.; Heine, T.; Yu, M.; Feng, X. Proton-selective coating enables fast-kinetics [high-mass-loading](https://doi.org/10.1038/s41467-024-46464-9) cathodes for [sustainable](https://doi.org/10.1038/s41467-024-46464-9) zinc batteries. *Nat. Commun.* 2024, *15*, No. 2139.
+
+(8) Nam, K. W.; Park, S. S.; dos Reis, R.; Dravid, V. P.; Kim, H.; Mirkin, C. A.; Stoddart, J. F. Conductive 2D [metal-organic](https://doi.org/10.1038/s41467-019-12857-4) framework for [high-performance](https://doi.org/10.1038/s41467-019-12857-4) cathodes in aqueous rechargeable zinc batteries. *Nat. Commun.* 2019, *10*, No. 4948.
+
+(9) Li, H.; Li, S.; Hou, R.; Rao, Y.; Guo, S.; Chang, Z.; Zhou, H. Recent advances in zinc-ion [dehydration](https://doi.org/10.1039/D4CS00343H) strategies for optimized Zn− metal [batteries.](https://doi.org/10.1039/D4CS00343H) *Chem. Soc. Rev.* 2024, *53* (15), 7742−7783.
+
+(10) Zhang, T.; Tang, Y.; Guo, S.; Cao, X.; Pan, A.; Fang, G.; Zhou, J.; Liang, S. [Fundamentals](https://doi.org/10.1039/D0EE02620D) and perspectives in developing zinc-ion battery electrolytes: a [comprehensive](https://doi.org/10.1039/D0EE02620D) review. *Energy Environ. Sci.* 2020, *13* (12), 4625−4665.
+
+(11) Xu, M.; Dou, H.; Zhang, Z.; Zheng, Y.; Ren, B.; Ma, Q.; Wen, G.; Luo, D.; Yu, A.; Zhang, L.; Wang, X.; Chen, Z. [Hierarchically](https://doi.org/10.1002/anie.202117703) [Nanostructured](https://doi.org/10.1002/anie.202117703) Solid-State Electrolyte for Flexible Rechargeable Zinc−Air [Batteries.](https://doi.org/10.1002/anie.202117703) *Angew. Chem., Int. Ed.* 2022, *61* (23), No. e202117703.
+
+(12) Qiu, T.; Wang, T.; Tang, W.; Li, Y.; Li, Y.; Lang, X.; Jiang, Q.; Tan, H. Rapidly [Synthesized](https://doi.org/10.1002/anie.202312020) Single-Ion Conductive Hydrogel Electrolyte for [High-Performance](https://doi.org/10.1002/anie.202312020) Quasi-Solid-State Zinc-ion Bat[teries.](https://doi.org/10.1002/anie.202312020) *Angew. Chem., Int. Ed.* 2023, *62* (45), No. e202312020.
+
+(13) Park, S.; Kristanto, I.; Jung, G. Y.; Ahn, D. B.; Jeong, K.; Kwak, S. K.; Lee, S.-Y. A single-ion [conducting](https://doi.org/10.1039/D0SC02785E) covalent organic framework for aqueous [rechargeable](https://doi.org/10.1039/D0SC02785E) Zn-ion batteries. *Chem. Sci.* 2020, *11* (43), 11692−11698.
+
+(14) Wang, L.; Xu, Y.; Xiao, L.; Liu, Y.; Wang, L.; Zha, S.; Zhang, S.; Jin, J. Ionic Covalent Organic [Framework](https://doi.org/10.1021/acsami.4c11422?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Membrane as Active Separator for Highly [Reversible](https://doi.org/10.1021/acsami.4c11422?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Zinc−Sulfur Battery. *ACS Appl. Mater. Interfaces* 2024, *16* (38), 50036−50044.
+
+(15) Lee, M.; Choi, I.; Kim, A.; Paik, S.; Kim, D.; Kim, H.; Nam, K. W. [Supramolecular](https://doi.org/10.1021/acsnano.4c08550?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic Framework for the High Stability of Aqueous [Rechargeable](https://doi.org/10.1021/acsnano.4c08550?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Zinc Batteries. *ACS Nano* 2024, *18* (33), 22586−22595.
+
+(16) Khayum M, A.; Ghosh, M.; Vijayakumar, V.; Halder, A.; Nurhuda, M.; Kumar, S.; Addicoat, M.; Kurungot, S.; Banerjee, R. Zinc ion interactions in a [two-dimensional](https://doi.org/10.1039/C9SC03052B) covalent organic [framework](https://doi.org/10.1039/C9SC03052B) based aqueous zinc ion battery. *Chem. Sci.* 2019, *10* (38), 8889−8894.
+
+(17) Yang, H.; Liu, B.; Bright, J.; Kasani, S.; Yang, J.; Zhang, X.; Wu, N. A Single-Ion [Conducting](https://doi.org/10.1021/acsaem.0c00410?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) UiO-66 Metal−Organic Framework Electrolyte for [All-Solid-State](https://doi.org/10.1021/acsaem.0c00410?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Lithium Batteries. *ACS Appl. Energy Mater.* 2020, *3* (4), 4007−4013.
+
+(18) Park, S. S.; Tulchinsky, Y.; Dinca, ̆ M. [Single-Ion](https://doi.org/10.1021/jacs.7b06197?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Li+ , Na<sup>+</sup> , and Mg2+ Solid Electrolytes Supported by a [Mesoporous](https://doi.org/10.1021/jacs.7b06197?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Anionic Cu− Azolate Metal−Organic [Framework.](https://doi.org/10.1021/jacs.7b06197?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2017, *139* (38), 13260−13263.
+
+(19) Xu, W.; Pei, X.; Diercks, C. S.; Lyu, H.; Ji, Z.; Yaghi, O. M. [A](https://doi.org/10.1021/jacs.9b10418?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic Framework of Organic Vertices and [Polyoxometalate](https://doi.org/10.1021/jacs.9b10418?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Linkers as a Solid-State [Electrolyte.](https://doi.org/10.1021/jacs.9b10418?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2019, *141* (44), 17522−17526.
+
+(20) Zhao, R.; Wu, Y.; Liang, Z.; Gao, L.; Xia, W.; Zhao, Y.; Zou, R. Metal−organic frameworks for solid-state [electrolytes.](https://doi.org/10.1039/D0EE00153H) *Energy Environ. Sci.* 2020, *13* (8), 2386−2403.
+
+(21) Xia, Q.; Yang, J.; Zhang, S.; Zhang, J.; Li, Z.; Wang, J.; Chen, X. [Bodipy-Based](https://doi.org/10.1021/jacs.2c11647?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic Frameworks Transformed in Solid States from 1D Chains to 2D Layer [Structures](https://doi.org/10.1021/jacs.2c11647?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) as Efficient Visible Light [Heterogeneous](https://doi.org/10.1021/jacs.2c11647?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Photocatalysts for Forging C−B and C−C [Bonds.](https://doi.org/10.1021/jacs.2c11647?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2023, *145* (11), 6123−6134.
+
+(22) Miao, C. L.; Wang, X. X.; Guan, D. H.; Li, J. X.; Li, J. Y.; Xu, J. J. Spatially Confined [Engineering](https://doi.org/10.1002/anie.202410208) Toward Deep Eutectic Electrolyte in [Metal-Organic](https://doi.org/10.1002/anie.202410208) Framework Enabling Solid-State Zinc-Ion Batteries. *Angew. Chem., Int. Ed.* 2024, *63* (40), No. e202410208.
+
+(23) Deng, S.; Xu, B.; Zhao, J.; Kan, C. W.; Liu, X. [Unlocking](https://doi.org/10.1002/anie.202401996) Double Redox Reaction of Metal−Organic [Framework](https://doi.org/10.1002/anie.202401996) for Aqueous [Zinc-Ion](https://doi.org/10.1002/anie.202401996) Battery. *Angew. Chem., Int. Ed.* 2024, *63* (17), No. e202401996.
+
+(24) Jiang, Y.; Wan, Z.; He, X.; Yang, J. [Fine-Tuning](https://doi.org/10.1002/anie.202307274) Electrolyte [Concentration](https://doi.org/10.1002/anie.202307274) and Metal−Organic Framework Surface toward Actuating Fast Zn2+ [Dehydration](https://doi.org/10.1002/anie.202307274) for Aqueous Zn-Ion Batteries. *Angew. Chem., Int. Ed.* 2023, *62* (44), No. e202307274.
+
+(25) Zettl, R.; Lunghammer, S.; Gadermaier, B.; Boulaoued, A.; Johansson, P.; Wilkening, H. M. R.; Hanzu, I. [High](https://doi.org/10.1002/aenm.202003542) Li+ and Na<sup>+</sup> [Conductivity](https://doi.org/10.1002/aenm.202003542) in New Hybrid Solid Electrolytes based on the Porous MIL-121 Metal Organic [Framework.](https://doi.org/10.1002/aenm.202003542) *Adv. Energy Mater.* 2021, *11* (16), No. 2003542.
+
+(26) Yoshida, Y.; Yamada, T.; Jing, Y.; Toyao, T.; Shimizu, K.; Sadakiyo, M. Super Mg2+ [Conductivity](https://doi.org/10.1021/jacs.2c01612?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) around 10<sup>−</sup><sup>3</sup> S cm<sup>−</sup><sup>1</sup> Observed in a Porous Metal−Organic [Framework.](https://doi.org/10.1021/jacs.2c01612?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2022, *144* (19), 8669−8675.
+
+(27) Yoshida, Y.; Kato, K.; Sadakiyo, M. [Vapor-Induced](https://doi.org/10.1021/acs.jpcc.1c05250?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Superionic [Conduction](https://doi.org/10.1021/acs.jpcc.1c05250?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of Magnesium Ions in a Metal−Organic Framework. *J. Phys. Chem. C* 2021, *125* (38), 21124−21130.
+
+(28) Bao, H.; Chen, D.; Liao, B.; Yi, Y.; Liu, R.; Sun, Y. [Enhanced](https://doi.org/10.1021/acs.energyfuels.4c01821?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Ionic Conduction in Metal−[Organic-Framework-Based](https://doi.org/10.1021/acs.energyfuels.4c01821?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Quasi-Solid-State [Electrolytes:](https://doi.org/10.1021/acs.energyfuels.4c01821?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Mechanistic Insights. *Energy Fuels* 2024, *38* (12), 11275−11283.
+
+(29) Wang, X.; Jin, S.; Liu, Z. Recent progress and [perspectives](https://doi.org/10.1039/D4CC01340A) on metal−organic [frameworks](https://doi.org/10.1039/D4CC01340A) as solid-state electrolytes for lithium [batteries.](https://doi.org/10.1039/D4CC01340A) *Chem. Commun.* 2024, *60* (41), 5369−5390.
+
+(30) Xue, W.; Sewell, C. D.; Zhou, Q.; Lin, Z. Metal−[Organic](https://doi.org/10.1002/anie.202206512) Frameworks for Ion [Conduction.](https://doi.org/10.1002/anie.202206512) *Angew. Chem., Int. Ed.* 2022, *61* (34), No. e202206512.
+
+(31) Jiang, S.; Lv, T.; Peng, Y.; Pang, H. MOFs [Containing](https://doi.org/10.1002/advs.202206887) Solid-State [Electrolytes](https://doi.org/10.1002/advs.202206887) for Batteries. *Adv. Sci.* 2023, *10* (10), No. 2206887. (32) Dong, P.; Zhang, X.; Hiscox, W.; Liu, J.; Zamora, J.; Li, X.; Su, M.; Zhang, Q.; Guo, X.; McCloy, J.; Song, M. K. [Toward](https://doi.org/10.1002/adma.202211841) High-Performance Metal−[Organic-Framework-Based](https://doi.org/10.1002/adma.202211841) Quasi-Solid-State Electrolytes: Tunable Structures and [Electrochemical](https://doi.org/10.1002/adma.202211841) Properties. *Adv. Mater.* 2023, *35* (32), No. 2211841.
+
+*Inorg. Chem. Front.* 2024, *11*, 8855−8865.
+
+*Chem. Front.* 2024, *11*, 1266−1278.
+
+*A* 2022, *10*, 14345−14354.
+
+No. 2305700.
+
+zinc-ion batteries using [glutaronitrile](https://doi.org/10.1039/D2TA02816F) based electrolyte. *J. Mater. Chem.*
+
+(50) Fang, Z.; Tong, Y.; Yang, Y.; Hu, A.; Long, J.; Zhao, Y.; Lai, X.; Gao, D.; Liu, M. Dual effects of Ag+ [intercalation](https://doi.org/10.1039/D4QI01942C) boosting the kinetics and stability of [NH4V4O10](https://doi.org/10.1039/D4QI01942C) cathodes for enhanced zinc ion storage.
+
+(51) Zhao, S.; Wang, S.; Guo, J.; Li, L.; Li, C.; Sun, Y.; Xue, P.; Wu, D.; Wei, L.; Wang, Y.; Zhang, Q. [Sodium-Ion](https://doi.org/10.1002/adfm.202305700) and Polyaniline Co-[Intercalation](https://doi.org/10.1002/adfm.202305700) into Ammonium Vanadate Nanoarrays Induced Enlarged Interlayer Spacing as [High-Capacity](https://doi.org/10.1002/adfm.202305700) and Stable Cathodes for Flexible Aqueous Zinc-Ion [Batteries.](https://doi.org/10.1002/adfm.202305700) *Adv. Funct. Mater.* 2023, *33*,
+
+(52) Chen, L.; Zheng, Y.; Zhang, Z.; Ma, Y.; Wang, Y.; Xiao, H.; Xu, M.; Li, Z.; Yuan, G. Optimizing [ammonium](https://doi.org/10.1039/D3QI02266H) vanadate crystal structure by facile in situ phase transformation of [VO2/NH4V4O10](https://doi.org/10.1039/D3QI02266H) with special micro−nano feature for [advanced](https://doi.org/10.1039/D3QI02266H) aqueous zinc ion batteries. *Inorg.*
+
+<span id="page-7-0"></span>(33) Wang, Z.; Hu, J.; Han, L.; Wang, Z.; Wang, H.; Zhao, Q.; Liu, J.; Pan, F. A [MOF-based](https://doi.org/10.1016/j.nanoen.2018.11.038) single-ion Zn2+ solid electrolyte leading to [dendrite-free](https://doi.org/10.1016/j.nanoen.2018.11.038) rechargeable Zn batteries. *Nano Energy* 2019, *56*, 92− 99.
+
+(34) Huang, W.; Wang, S.; Zhang, X.; Kang, Y.; Zhang, H.; Deng, N.; Liang, Y.; Pang, H. Universal [F4-Modified](https://doi.org/10.1002/adma.202310147) Strategy on Metal− Organic Framework to Chemical Stabilize PVDF-HFP as [Quasi-Solid-](https://doi.org/10.1002/adma.202310147)State [Electrolyte.](https://doi.org/10.1002/adma.202310147) *Adv. Mater.* 2023, *35* (52), No. 202310147.
+
+(35) Wu, Z.; Yi, Y.; Hai, F.; Tian, X.; Zheng, S.; Guo, J.; Tang, W.; Hua, W.; Li, M. A Metal−Organic Framework Based [Quasi-Solid-](https://doi.org/10.1021/acsami.3c00988?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as)State Electrolyte Enabling [Continuous](https://doi.org/10.1021/acsami.3c00988?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Ion Transport for High-Safety and [High-Energy-Density](https://doi.org/10.1021/acsami.3c00988?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Lithium Metal Batteries. *ACS Appl. Mater. Interfaces* 2023, *15* (18), 22065−22074.
+
+(36) Zhu, F.; Bao, H.; Wu, X.; Tao, Y.; Qin, C.; Su, Z.; Kang, Z. [High-Performance](https://doi.org/10.1021/acsami.9b15374?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal−Organic Framework-Based Single Ion Conducting Solid-State Electrolytes for [Low-Temperature](https://doi.org/10.1021/acsami.9b15374?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Lithium Metal [Batteries.](https://doi.org/10.1021/acsami.9b15374?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *ACS Appl. Mater. Interfaces* 2019, *11* (46), 43206− 43213.
+
+(37) Ouyang, Y.; Gong, W.; Zhang, Q.; Wang, J.; Guo, S.; Xiao, Y.; Li, D.; Wang, C.; Sun, X.; Wang, C.; Huang, S. Bilayer [Zwitterionic](https://doi.org/10.1002/adma.202304685) [Metal-Organic](https://doi.org/10.1002/adma.202304685) Framework for Selective All-Solid-State Superionic [Conduction](https://doi.org/10.1002/adma.202304685) in Lithium Metal Batteries. *Adv. Mater.* 2023, *35* (39), No. 2304685.
+
+(38) Wang, X. X.; Chi, X. W.; Li, M. L.; Guan, D. H.; Miao, C. L.; Xu, J. J. Metal−Organic [Frameworks](https://doi.org/10.1002/adfm.202113235) Derived Electrolytes Build Multiple Wetting Interfaces for Integrated [Solid-State](https://doi.org/10.1002/adfm.202113235) Lithium− [Oxygen](https://doi.org/10.1002/adfm.202113235) Battery. *Adv. Funct. Mater.* 2022, *32* (30), No. 2113235.
+
+(39) Duan, X.; Ouyang, Y.; Zeng, Q.; Ma, S.; Kong, Z.; Chen, A.; He, Z.; Yang, T.; Zhang, Q. Two [Carboxyl-Decorated](https://doi.org/10.1021/acs.inorgchem.1c00744?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Anionic Metal−Organic [Frameworks](https://doi.org/10.1021/acs.inorgchem.1c00744?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) as Solid-State Electrolytes Exhibiting High Li+ and Zn2+ [Conductivity.](https://doi.org/10.1021/acs.inorgchem.1c00744?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Inorg. Chem.* 2021, *60* (15), 11032− 11037.
+
+(40) Hou, T.; Xu, W.; Pei, X.; Jiang, L.; Yaghi, O. M.; Persson, K. A. Ionic [Conduction](https://doi.org/10.1021/jacs.2c03710?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Mechanism and Design of Metal−Organic Framework Based [Quasi-Solid-State](https://doi.org/10.1021/jacs.2c03710?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Electrolytes. *J. Am. Chem. Soc.* 2022, *144* (30), 13446−13450.
+
+(41) Iliescu, A.; Andrews, J. L.; Oppenheim, J. J.; Dinca, ̆ M. A [Solid](https://doi.org/10.1021/jacs.3c10326?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Zn-Ion Conductor from an All-Zinc Metal−Organic [Framework](https://doi.org/10.1021/jacs.3c10326?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Replete with Mobile Zn2+ [Cations.](https://doi.org/10.1021/jacs.3c10326?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2023, *145* (48), 25962−25965.
+
+(42) Zhang, Y.; Duan, J.; Ma, D.; Li, P.; Li, S.; Li, H.; Zhou, J.; Ma, X.; Feng, X.; Wang, B. [Three-Dimensional](https://doi.org/10.1002/anie.201710633) Anionic Cyclodextrin-Based Covalent Organic [Frameworks.](https://doi.org/10.1002/anie.201710633) *Angew. Chem., Int. Ed.* 2017, *56* (51), 16313−16317.
+
+(43) Xia, Q.; Zhang, J.; Chen, X.; Cheng, C.; Chu, D.; Tang, X.; Li, H.; Cui, Y. Synthesis, structure and property of [boron-based](https://doi.org/10.1016/j.ccr.2021.213783) metal− organic [materials.](https://doi.org/10.1016/j.ccr.2021.213783) *Coord. Chem. Rev.* 2021, *435*, No. 213783.
+
+(44) Xia, Q.; Han, K.; Ma, X.; Qiu, P.; Li, Z.; Chen, X. [A](https://doi.org/10.1039/D4SC02861A) [tetraphenylborate-based](https://doi.org/10.1039/D4SC02861A) anionic metal−organic framework as a versatile solid [electrolyte](https://doi.org/10.1039/D4SC02861A) for fast Li+ , Na<sup>+</sup> , K+ , Mg2+, Ca2+, and Zn2+ [transportation.](https://doi.org/10.1039/D4SC02861A) *Chem. Sci.* 2024, *15*, 17579−17589.
+
+(45) Furukawa, H.; Gándara, F.; Zhang, Y.; Jiang, J.; Queen, W. L.; Hudson, M. R.; Yaghi, O. M. Water [Adsorption](https://doi.org/10.1021/ja500330a?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) in Porous Metal− Organic [Frameworks](https://doi.org/10.1021/ja500330a?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) and Related Materials. *J. Am. Chem. Soc.* 2014, *136*, 4369−4381.
+
+(46) Spek, A. L. [Single-crystal](https://doi.org/10.1107/S0021889802022112) structure validation with the program [PLATON.](https://doi.org/10.1107/S0021889802022112) *J. Appl. Crystallogr.* 2003, *36* (1), 7−13.
+
+(47) Chen, L.; Zhang, Z.; Ma, Y.; Wang, Y.; Xiao, H.; Xu, M.; Huang, Y.; Yuan, G. Tuning ionic [conduction](https://doi.org/10.1039/D2QI02669D) and structure stability of ammonium vanadate by [intercalating](https://doi.org/10.1039/D2QI02669D) polyaniline molecules for [advanced](https://doi.org/10.1039/D2QI02669D) aqueous zinc-ion batteries. *Inorg. Chem. Front.* 2023, *10*, 1926−1937.
+
+(48) Wang, K.; Li, S.; Chen, X.; Shen, J.; Zhao, H.; Bai, Y. Trifunctional Rb<sup>+</sup> -Intercalation Enhancing the [Electrochemical](https://doi.org/10.1021/acsnano.4c00803?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Cyclability of [Ammonium](https://doi.org/10.1021/acsnano.4c00803?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Vanadate Cathode for Aqueous Zinc Ion [Batteries.](https://doi.org/10.1021/acsnano.4c00803?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *ACS Nano* 2024, *18*, 7311−7323.
+
+(49) Yao, M.; Pan, R.; Ren, Y.; Fu, Y.; Qin, Y.; Mao, C.; Zhang, Z.; Guo, X.; Li, G. [Regulating](https://doi.org/10.1039/D2TA02816F) solvation shells and interfacial chemistry in
+
+![](_page_7_Picture_22.jpeg)
+
+![](_page_7_Picture_27.jpeg)
+
+**23338**Supporting Information for
+
+# **An Anionic Metal−Organic Framework as Ultrafast Single-ion Conductor for Exceptional Performance Rechargeable Zinc Battery**
+
+Qingchun Xia,1,3,\* Xuxiao Ma,<sup>1</sup> Pengtao Qiu,<sup>1</sup> Guozan Yuan,2,\* and Xuenian Chen1,3,4,\*
+
+*<sup>1</sup>Henan Key Laboratory of Boron Chemistry and Advanced Energy Materials, Key Laboratory of Green Chemical Media and Reactions, Ministry of Education, School of Chemistry and Chemical Engineering, Henan Normal University, Xinxiang, Henan 453007, China.*
+
+*<sup>2</sup>School of Chemistry and Chemical Engineering, Anhui University of Technology, Ma'anshan, Anhui 243032, China.*
+
+*<sup>3</sup>State Key Laboratory of Coordination Chemistry, School of Chemistry and Chemical Engineering, Nanjing University, Nanjing 210093, China.*
+
+*<sup>4</sup>College of Chemistry, Zhengzhou University, Zhengzhou, Henan 450001, China.*
+
+\*e-mail: xiaqingchun@htu.edu.cn; guozan@ahut.edu.cn; xuenian\_chen@zzu.edu.cn
+
+### **Table of Content**
+
+| 1 Materials and general procedures S2                  |  |
+|--------------------------------------------------------|--|
+| 2 Experimental procedure for synthesis and analysis S2 |  |
+| 3 Electrochemical measurementsS4                       |  |
+| 4 Characterization S8                                  |  |
+| 5 Summary and ComparisonS35                            |  |
+
+#### <span id="page-1-0"></span>**1 Materials and general procedures**
+
+All reagents and solvents used in these studies are commercially available and used without further purification.
+
+Single-crystal XRD data for **1** were collected on a Bruker SMART Apex II CCD-based X-ray diffractometer with Cu-Kα radiation ( = 1.54178 Å) at 150 K. The empirical absorption correction was applied by using the SADABS program (G. M. Sheldrick, SADABS, program for empirical absorption correction of area detector data; University of Göttingen, Göttingen, Germany, 1996). The structure was solved by direct methods with SHELXS-2018 and refined with SHELXL-2018 using OLEX 1.2. In the structure, all the non-hydrogen atoms were refined by full-matrix least-squares techniques with anisotropic displacement parameters, and the hydrogen atoms were geometrically fixed at the calculated positions attached to their parent atoms, treated as riding atoms. Contributions to scattering due to these highly disordered solvent molecules were removed using the *SQUEEZE* routine of *PLATON*; structures were then refined again using the data generated.
+
+The structure was then refined again using the data generated. Crystal data and details of the data collection are given in **Table S1**. CCDC 2222634 contain the supplementary crystallographic data for this paper. These data can be obtained free of charge from the Cambridge Crystallographic Data Centre via www.ccdc.cam.ac.uk/data request/cif
+
+### <span id="page-1-1"></span>**2 Experimental procedure for synthesis and analysis 2.1 Synthesis of the ligand Li·[H4L]**
+
+![](_page_1_Figure_5.jpeg)
+
+#### **2.1.1 Synthesis of lithium tetrakis(4-iodophenyl)borate**
+
+1,4-Diiodobenzene (32.9 g, 100 mmol) was dissolved in Et2O (150 mL). The solution was cooled to −20 <sup>o</sup>C and treated dropwise with a solution of n-BuLi (40 mL, 2.5 M in hexane, 100 mmol) while maintaining the temperature below −20 <sup>o</sup>C. The resulting mixture was kept at −10 <sup>o</sup>C for 30 min, and BF3**·Et2O** (2.3 ml, 18.7 mmol) was then added. After that, the cooling bath was removed and the mixture was allowed to warm to room temperature and left overnight. The mixture was filtered to get a solid, and the solid was washed with ether several times, which was then redissolved into the acetone (100 mL). Filter and remove the insoluble LiF, the filtrate was concentrated under reduced pressure to remove the acetone, leaving the desired lithium tetrakis(4-iodophenyl)borate 14.9 g with 72% yield. <sup>1</sup>H NMR (600 MHz, DMSO-*d*6): δ 6.93-6.90 (m, 8H), 7.31 (d, 8H, *J* = 7.8 Hz). <sup>11</sup>B NMR (193 MHz, DMSO-*d*6): δ −7.31. <sup>13</sup>C NMR (151 MHz, DMSO-*d*6): δ 88.3, 134.5, 137.9, 161.7 (m).
+
+#### **2.1.2 Synthesis of lithium tetrakis (4-(methoxycarbonyl) phenyl) borate**
+
+To a mixture of DMF (52 mL), MeOH (52 mL) and triethylamine (26 mL) in an autoclave, lithium tetrakis (4-iodophenyl) borate (13.0 g, 15.37 mmol) and Pd(PPh3)4 (3.3 g, 3.0 mmol, 20 mol% ) were added. Seal the autoclave and press the CO to 2 MPa, the autoclave was stirred and heated at 120 <sup>o</sup>C for 10 hours. After cooling to room temperature, the solvents were removed under reduce pressure, and the residue was redissolved into ethyl acetate. The mixture was then filtered to get the filtrate, and the filtrate was concentrated under vacuum and then purified by column chromatography on silica gel (EtOAc/ Actione, 10/1, v/v) to afford the desired product lithium tetrakis (4-(methoxycarbonyl) phenyl) borate 6.43 g with 75% yield. <sup>1</sup>H NMR (600 MHz, DMSO-*d*6): δ = 7.62 (d, *J* = 7.8 Hz, 8H), 7.27 (m, 8H), 3.78 (s, 12H).<sup>11</sup>B NMR (193 MHz, DMSO-*d*6): δ = −6.37. <sup>13</sup>C NMR (151 MHz, DMSO-*d*6): 169.83 (m), 167.39, 135.24, 126.84, 124.13, 51.49.
+
+### **2.1.3 Synthesis of lithium tetrakis(4-carboxyphenyl)borate (Li·[H4L])**
+
+To a mixture of MeOH (40 mL), THF (40 mL) and water (40 mL) in a round-bottom flask, lithium tetrakis (4-(methoxycarbonyl) phenyl) borate (4.1 g, 7.14 mmol), LiOH·H2O (1.43g, 34.08 mmol) were added. The mixture was refluxed for 16 h. MeOH and THF were removed by evaporation, and the residue was diluted with H2O and washed with EA for 3 times. The aqueous phase was acidified with concentrated HCl, and the precipitate was collected by filtration and then dried under vacuum to afford 2.32 g of brown solid Li·[H4**L]** with 65% yield.<sup>1</sup>H NMR (600 MHz, DMSO-*d*6): δ = 7.59 (d, *J* = 8.1 Hz, 8H), 7.25 (m, 8H). <sup>11</sup>B NMR (193 MHz, DMSO-*d*6): δ = −6.43. <sup>13</sup>C NMR (151 MHz, DMSO*d*6):169.37 (m), 168.68, 135.19, 127.09, 125.21.
+
+#### **2.2 Synthesis of 1**
+
+A mixture of ZrOCl2·8H2O(161 mg, 0.5 mmol), Li·[H4**L**] (251 mg, 0.5 mmol), DMF (60 mL), TFA (10 mL) was sealed in a 100 mL vial with a screw cap and heated at 100 <sup>o</sup>C for 24 h. After that, the colorless crystals were collected, washed with MeOH, and dried under vacuum at 80 <sup>o</sup>C to afford the **1** (305 mg, 68%). The product can be best formulated as Li2·[Zr6O4(OH)8(H2O)4**L**2]·nG based on single-crystal analysis, and the letter G in the formula represents the disordered guest molecules that occupy in the frameworks, which may include H2O, DMF, and/or TFA. Elemental analysis for **1**: Anal (%). Calcd for C56H56B2Zr6O32Li2; C, 36.88; H, 3.09. Found: C, 39.02; H, 3.34. ICP measurement indicated the molar ratio of Li:B:Zr is about 0.84:1:2.89. IR (KBr, cm-1): 1645 (w), 1580 (w), 1502 (w), 1401(s), 1279 (w), 1242(w), 1178 (m), 1034 (m), 761 (m), 711 (w), 640 (s), 454 (s).
+
+#### **2.3 Synthesis of 1Zn**
+
+To a Schlenk tube, 60 mg of **1** and 2 mL 2.0 M aqueous solution of Zn(NO3)2 were added. The Schlenk tube was then immersed in the oil bath and incubated at 80 <sup>o</sup>C for 4 h. Subsequently, the crystals were collected via vacuum filtration, and the aforementioned ion exchange experiment was repeated every 4 hours for a total of 5 cycles until no free Li<sup>+</sup> was detected by ICP-MS. The final product was collected, washed with water, and dried under vacuum at 120 <sup>o</sup>C to afford **1 Zn** as a white free-flowing powder. Elemental analysis for **1 Zn**: Anal (%). Calcd for C56H56B2Zr6O32Zn; C, 35.87; H, 3.01. Found: C, 36.38; H, 3.73. ICP measurement indicated the molar ratio of Zn:B:Zr is about 0.47:1:3.11. IR (KBr, cm-1): 1652(m), 1588(w), 1502(m), 1402(s), 1108(w), 1014(w), 1022 (w), 821 (w), 763 (m), 720 (w), 642 (m), 455 (s).
+
+#### **2.4 Weighing analysis of 1Zn**
+
+**1 Zn** was first subjected to Soxhlet extraction using methanol as the eluent for comprehensive purification. After that, **1 Zn** was then degassed under vacuum at 160 °C for 10 h to ensure the complete removal of residual solvent molecules within the framework. The activated sample was then weighed to determine its dry mass (m0).
+
+The activated **1 Zn** was immersed in DI water for 24 h under ambient conditions. The hydrated sample was subsequently filtered and dried in an oven at 65°C for 12 hours to afford a free-flowing powder, which was then weighed to determine its mass (*m1*). The water content in the pore was calculated via mass differential analysis (*Δm = m₁ - m₀*), and the water percentage content was then expressed as: *H2O% = (m₁ - m₀)/m<sup>0</sup> × 100.*
+
+The free-flowing powder was then placed at room temperature and weighed again after one week (*t1*) and one month (*t2*) to calculate the water loss within the pore. The water loss was expressed as: *Water loss (%) = [(m1 - mt)/(m₁ - m₀)] × 100.*
+
+#### **2.5 Chemical stability**
+
+ The activated **1**, 100 mg for each batch, was immersed in about 50 mL aqueous solution of 3 M HCl, 1 M NaOH, and 1 mM K3PO4 at room temperature for 24 h, respectively. The treated samples were then filtered, washed with DI water (3 times), acetone (3 times), and dried under vacuum at 100 °C for 10 h before PXRD, gravimetric analysis, <sup>11</sup>B NMR, and N2 sorption measurements. The recoveries after the vacuum drying were 98.7, 101.7, and 102.4 mg, respectively.
+
+### **2.6 Synthesis of Zn[Me4L]<sup>2</sup>**
+
+To a flask, lithium tetrakis (4-(methoxycarbonyl) phenyl) borate (1.12 g, 2.0 mmol) was suspended in 50 mL water. Zinc nitrate hexahydrate (12.0 g, 40 mmol) was added to this suspension, and then stirred at room temperature overnight. The exchanged Zn[Me4L]2 was collected by filtration, and the above ion-exchange operation was repeated four times to ensure the complete exchange of Li ions. The final exchanged Zn[Me4L]2 was collected by filtration and dried under vacuum.
+
+#### <span id="page-3-0"></span>**3 Electrochemical measurements**
+
+#### **3.1 Cyclic voltammetry (CV) measurement of 1**
+
+Under a force of 5 MPa, 50 mg **1** was compressed into a pellet with a diameter ranging from 1.0 to 1.4 mm. Subsequently, the pellet was assembled into an airtight Swagelok-type cell to form an asymmetric SS|**1 Zn**|Zn cell which was then employed to perform the cyclic voltammetry (CV) measurement at a scan rate of 5 mV/s with a voltage range from –0.5 to 5.0 V (vs. Zn/Zn2+) at room temperature.
+
+#### **3.2 Linear sweep voltammograms (LSV) measurement of 1**
+
+The linear sweep voltammetry (LSV) measurement was conducted with the aforementioned asymmetric SS|**1 Zn**|Zn cell under a sweep rate of 0.5 mV/s in a voltage range from –0.3 V to 6.0 V (vs. Zn/Zn2+) at room temperature.
+
+#### **3.3 Ionic conductivity of 1Zn**
+
+50 mg **1 Zn** was ground into a fine powder and then pressed into a thin pellet with a thickness of 1.0 to 1.4 mm under a force of 5 MPa. The final thickness of the pellet was measured with a vernier caliper, and the pellet was then sealed in an airtight Swagelok-type cell between two stainless steel blocking electrodes to form a symmetric SS|**1 Zn**|SS cell for ionic conductivity measurement.
+
+The alternating current (AC) impedance analysis was performed using a two-probe method with an Autolab AUT88031 potentiostat/galvanostat over the frequency range of 10–2 to 10<sup>6</sup> Hz, with an input voltage amplitude of 100 mV. Data was recorded every 10 <sup>o</sup>C between –40 to 120 <sup>o</sup>C. Each temperature was held for 1 h to reach thermal equilibrium. At each temperature point, the ionic conductivities (*σ*) were determined according to the following equation:
+
+$$
+\sigma = \frac{L}{AR} \tag{1}
+$$
+
+where *L* and *A* represent the thickness (cm) and the area (cm<sup>2</sup> ) of the pellet, respectively. And *R*, which was extracted directly from the impedance plots, is the bulk resistance of the sample (Ω). The activation energy (*E*a) was calculated with the Nernst-Einstein relation:
+
+$$
+\sigma = \frac{\sigma_0}{T} \exp\left(-\frac{E_a}{kT}\right) \tag{2}
+$$
+
+where <sup>0</sup> is a pre-exponential factor, *T* is the temperature, is the activation energy, and *k* is the Boltzmann constant.
+
+#### **3.4 Electrical conductivity of 1Zn**
+
+Direct current (DC) polarization measurements were carried out to determine the electronic conductivity. 50 mg **1 Zn** was ground into a fine powder and then pressed into a thin pellet with a thickness of 1.0 to 1.4 mm under a force of 5 MPa. The final thickness of the pellet was measured with a vernier caliper, and the pellet was then sealed in an airtight Swagelok-type cell between two stainless steel blocking electrodes to form a symmetric SS|**1 Zn**|SS cell for electronic conductivity measurement. The cells were connected to the Autolab AUT88031 potentiostat/galvanostat in combination with a low-current option. Measurements were recorded at a constant voltage of 2 V, and the currents were recorded for 2000 s The electronic conductivity was calculated to be 1.54 × 10−9 S/cm.
+
+#### **3.5 Ionic transference number of 1Zn**
+
+The ionic transference number was evaluated using a potentiostatic polarization method at room temperature. The **1 Zn** pellet assembled into an airtight Swagelok-type cell between two Zn foils to form a symmetric Zn|**1 Zn**|Zn cell. The direct current (DC) polarization measurement was performed on this cell using an Autolab AUT88031 potentiostat/galvanostat with an applied polarized voltage ranging from 10 mV to 50 mV. The AC impedance of the symmetric cell was conducted over the frequency range 1 MHz–1 Hz, with an input voltage amplitude of 100 mV. The ionic transference number *t* was determined according to the following equation:
+
+$$
+t = \frac{I^{S}(\Delta V - I^{0}R^{0})}{I^{0}(\Delta V - I^{S}R^{S})}
+$$
+(3)
+
+where *I S* is the steady-state current, *I 0* is the initial current, *∆V* is the applied potential, *R<sup>0</sup>* and *R<sup>S</sup>* are the interfacial resistances before and after the polarization, respectively.
+
+#### **3.6 The Ohm's law method to determine the electrical conductivity**
+
+The electrical conductivity, *σ*, is generally obtained by fitting the linear region of a current−voltage (I−V) curve to Ohm's law. From the Ohm's law:
+
+For the 1<sup>Zn</sup>,  
+
+$$
+R = \frac{V}{I}
+$$
+
+$$
+R = \frac{L}{\sigma A}
+$$
+
+ = 2
+
+*L* and *r* are the thickness and radius of the pellet, respectively. Therefore,
+
+$$
+\sigma = \frac{L}{\pi r^2} \times \frac{I}{V} \tag{4}
+$$
+
+A direct current (DC) voltage ranging from −0.8 to 0.8 V was then applied to the symmetric SS/**1 Zn**/SS cell (Figure S19), and their corresponding currents were measured to draw the I−V curve. The slope of the fitted lines was then calculated to determine the electrical conductivity σ using the above formula, and the value was evaluated to be 1.52 × 10−9 S/cm.
+
+#### **3.7 Galvanostatic cycling measurements**
+
+Galvanostatic cycling measurement was performed on the asymmetric Zn|**1 Zn**|Cu cell assembled in the CR2025 button cell. Galvanostatic cycling for this asymmetrical cell was performed using a multichannel battery testing system (LAND CT3001A) by sequentially charge and discharge.
+
+The galvanostatic cycling measurement of the symmetric Zn|**1 Zn**|Zn cell was similar, and this symmetric Zn|**1 Zn**|Zn cell was also assembled in the CR2025 button cell.
+
+#### **3.8 Galvanostatic charge/discharge measurements of the quasi-solid ZIB**
+
+The **1 Zn** electrolyte was prepared by making a slurry containing **1 Zn**: poly(vinylidene difluoride) (PVDF) in the weight ratio of 60:40 in 1-methyl-2-pyrrolidinone (NMP). The slurry was then cast onto stainless steel foil, followed by drying at 85 °C in a vacuum oven for 12 h.
+
+The NH4V4O10 cathode was prepared from a slurry of NH4V4O10, Super-p, and PVDF in the weight ratio of 70:20:10 in NMP. The slurry was ground and then carefully coated on the carbon paper. The coated carbon paper was dried at 85 ℃ in a vacuum oven for 12 h, and pressed for 2 min under a pressure of 30 MPa. The weight loading of NH4V4O10 was about 1~2 mg/cm<sup>2</sup> .
+
+The polished Zn foil, **1 Zn** electrolyte, and NH4V4O10 cathode were assembled into a CR2025 coin cell. The galvanostatic charge/discharge test of the quasi-solid ZIB was recorded by cycling between 0.3 to 1.6 V vs Zn2+/Zn with a current density of 1 C, after a 6 h rest at 30 °C. The coin cell was measured by a LAND CT3001A instrument.
+
+The MnO2, PTCDA, and Cu3(HHTP)2 cathodes were prepared similarly.
+
+#### **3.9 ICP-MS analysis the composition of 1Zn electrolyte**
+
+After the rate performances, we disassembled the Zn|**1 Zn**|Cu, Zn|**1 Zn**|Zn, and Zn|**1 Zn**|NH4V4O10. The **1 Zn** electrolytes were digested in a small beaker with 10 mL aqua regia, diluted by 10 wt% HNO3, and transferred to a volumetric flask, washed the beaker three times, and then diluted with dilute nitric acid to 100 mL for ICP measurement. ICP-MS measurements indicated the molar ratios of the Zn:Zr after the rate performance were 0.146:1, 0.161:1, and 0.157:1, respectively, almost consistent with the original ratio of 0.151:1 for the pristine of **1 Zn** .
+
+| Identification code                 | 1                                |
+|-------------------------------------|----------------------------------|
+| Empirical formula                   | C28H16BO16Zr3                    |
+| Formula weight                      | 892.88                           |
+| Temperature (K)                     | 170                              |
+| Wavelength (Å)                      | CuKα<br>(λ = 1.54184)            |
+| Crystal system                      | tetragonal                       |
+| Space group                         | I4/m                             |
+| Unit cell dimensions                | a = 15.3170(3) Å                 |
+|                                     | b = 15.3170(3) Å                 |
+|                                     | c = 27.7377(6) Å                 |
+|                                     | α = β = γ = 90                   |
+| Volume (Å3<br>), Z                  | 6507.6(3), 4                     |
+| Density (calculated) (mg/m3<br>)    | 0.911                            |
+| Absorption coefficient (mm-1)       | 4.200                            |
+| F(000)                              | 1748.0                           |
+| θ range for data collection (º)     | 8.164 to 142.898                 |
+| Limiting indices                    | -10 ≤ h ≤ 18                     |
+|                                     | -10 ≤ k ≤ 18                     |
+|                                     | -33 ≤ l ≤ 16                     |
+| Reflections collected               | 7267                             |
+| Independent reflections             | 3165                             |
+|                                     | [Rint = 0.0334, Rsigma = 0.0471] |
+| Completeness to theta               | 98%                              |
+| Data / restraints / parameters      | 3165/0/114                       |
+| Goodness-of-fit on F^2              | 1.072                            |
+| Final R indices [I>2sigma(I)]       | R1 = 0.0468, wR2 = 0.1379        |
+| R indices (all data)                | R1 = 0.0579, wR2 = 0.1464        |
+| Largest diff. peak and hole (e.Å-3) | 1.28/-1.18                       |
+
+**Table S1. Crystal data and structure refinement for 1.**
+
+### <span id="page-7-0"></span>**4 Characterization**
+
+![](_page_7_Picture_1.jpeg)
+
+**Figure S1.** The asymmetric unit in **1**.
+
+![](_page_7_Figure_3.jpeg)
+
+**Figure S2.** The coordination environments of the Zr6 cluster.
+
+![](_page_7_Figure_5.jpeg)
+
+**Figure S3.** The packing mode and simplified dodecahedral cage in **1**.
+
+![](_page_8_Figure_0.jpeg)
+
+**Figure S4.** <sup>7</sup>Li MAS NMR spectra.
+
+![](_page_8_Picture_2.jpeg)
+
+**Figure S5.** The micrographs of **1**.
+
+![](_page_8_Figure_4.jpeg)
+
+**Figure S6.** PXRD patterns of **1**.
+
+![](_page_9_Figure_0.jpeg)
+
+**Figure S7.** PXRD patterns of **1** after grinding into powder.
+
+![](_page_9_Figure_2.jpeg)
+
+**Figure S8.** PXRD patterns of **1Zn** .
+
+![](_page_9_Figure_4.jpeg)
+
+**Figure S9.** N2 adsorption isotherms of **1** after various treatments.
+
+![](_page_10_Figure_0.jpeg)
+
+**Figure S10.** Pore size distribution profiles of **1**.
+
+![](_page_10_Figure_2.jpeg)
+
+**Figure S11.** N2 adsorption isotherms of **1Zn** .
+
+![](_page_10_Figure_4.jpeg)
+
+**Figure S12.** <sup>67</sup>Zn NMR spectra of **1 Zn** and Zn·[Me4**L**]2. <sup>67</sup>Zn NMR of **1 Zn** was conducted by decomposing **1 Zn** with 6 M HCl to dissolve in water.
+
+![](_page_11_Figure_0.jpeg)
+
+**Figure S13.** The size comparison among the pore of the framework and Zn(H2O)<sup>6</sup> 2+ ion. **a)** The pore width of the framework, and **b)** the size of the Zn(H2O)<sup>6</sup> 2+ion.
+
+![](_page_11_Figure_2.jpeg)
+
+**Figure S14.** TGA curve.
+
+![](_page_12_Figure_0.jpeg)
+
+**Figure S15.** <sup>1</sup>B NMR of the decomposed **1** after the treatment. a, b) <sup>11</sup>B NMR of the ligand Li<sup>+</sup> [B(C6H4COOH)4] − and immersing in 6 M HCl for more than 24h, respectively. c, d, and e) <sup>11</sup>B NMR of **1** after immersing 3 M HCl, 1 M NaOH, and 1 mM K3PO4, for more than 24h, respectively. f) <sup>11</sup>B NMR of **1** after heating to 300 <sup>o</sup>C.
+
+![](_page_12_Figure_2.jpeg)
+
+**Figure S16.** IR spectrum**.**
+
+![](_page_13_Picture_0.jpeg)
+
+![](_page_13_Figure_1.jpeg)
+
+ **Figure S17.** SEM and SEM-EDS mapping of **1 Zn** .
+
+![](_page_13_Figure_3.jpeg)
+
+**Figure S18.** Cyclic voltammetry (CV) test for **1Zn**. CV of **1 Zn** displayed a wide window of electrochemical stability, no significant current flow corresponding to electrolyte decomposition was observed up to 5.0 V. Only cathodic and anodic currents corresponding to Zinc deposition (Zn2+ + 2e<sup>−</sup> → Zn) and stripping (Zn → Zn<sup>+</sup> + 2e−) were observed near 0 V vs Zn.
+
+![](_page_14_Figure_0.jpeg)
+
+**Figure S19.** The electronic conductivity of **1 Zn** determined by direct current (DC) polarization measurements.
+
+![](_page_14_Figure_2.jpeg)
+
+**Figure S20.** The ionic conductivity of MOF-841.
+
+![](_page_14_Figure_4.jpeg)
+
+**Figure S21.** The ionic conductivity of Zn·[Me4L]2.
+
+![](_page_15_Figure_0.jpeg)
+
+**Figure S22.** The activation energy of **1 Zn** .
+
+![](_page_15_Figure_2.jpeg)
+
+**Figure S23.** Rate performance of the asymmetric Zn|**1 Zn**|Cu cell.
+
+![](_page_15_Figure_4.jpeg)
+
+**Figure S24.** The nucleation overpotential of the asymmetric Zn|**1 Zn**|Cu cell.
+
+![](_page_16_Figure_0.jpeg)
+
+**Figure S25.** Cyclic voltammetry (CV) measurement of Zn|**1 Zn**|Zn cell.
+
+![](_page_16_Figure_2.jpeg)
+
+**Figure S26.** Curves of chronoamperometry for the symmetric Zn|**1 Zn**|Zn cell.
+
+![](_page_16_Figure_4.jpeg)
+
+**Figure S27.** Rate performance of the symmetric Zn|**1 Zn**|Zn cell at current densities from 1 to 10 mA/cm<sup>2</sup> .
+
+![](_page_17_Figure_0.jpeg)
+
+**Figure S28.** Rate performance of the symmetric Zn|**1 Zn**|Zn cell at current densities from 10 to 20 mA/cm<sup>2</sup> .
+
+![](_page_17_Figure_2.jpeg)
+
+**Figure S29.** Impedance changes during the GC measurement.
+
+![](_page_17_Figure_4.jpeg)
+
+**Figure S30.** SEM morphology of the Zn metal surface before (**a**) and after (**b**) the GC measurement.
+
+![](_page_18_Figure_0.jpeg)
+
+**Figure S31.** Rate and cycling performance of the Zn|**1 Zn**|NH4V4O10 battery at the current density from 1 to 10 A/g at 60, 30, 0, −10, −20 and −40 <sup>o</sup>C, respectively.
+
+![](_page_18_Figure_2.jpeg)
+
+**Figure S32.** GCD performance of the Zn|**1 Zn**|NH4V4O10 battery at 1 A/g stepwise decrease of temperature from 60 to −40 <sup>o</sup>C, and then stepwise increase to 60 <sup>o</sup>C.
+
+![](_page_18_Figure_4.jpeg)
+
+**Figure S33.** Impedance changes of the Zn|**1 Zn**|NH4V4O10 during the GCD measurement.
+
+![](_page_19_Figure_0.jpeg)
+
+**Figure S34.** Long-term GCD performance of the Zn|**1 Zn**|NH4V4O10 battery at 1, 5, 10, 20, 50, 70, and 100 A/g at room temperature, respectively.
+
+![](_page_19_Figure_2.jpeg)
+
+**Figure S35.** Long-term GCD performance of the Zn|**1 Zn**|NH4V4O10 battery at 1 A/g at −40, −20, −10, 30, and 60 <sup>o</sup>C.
+
+![](_page_19_Figure_4.jpeg)
+
+**Figure S36.** Long-term GCD performance of the Zn|**1 Zn**|NH4V4O10 battery at 5 A/g at −40, −20, −10, 30, and 60 oC.
+
+![](_page_20_Figure_0.jpeg)
+
+**Figure S37.** Long-term GCD performance of the Zn|**1 Zn**|NH4V4O10 battery at 10 A/g at −20, −10, 30, and 60 <sup>o</sup>C.
+
+![](_page_20_Figure_2.jpeg)
+
+**Figure S38.** Long-term GCD performance of the Zn|**1 Zn**|NH4V4O10 battery at 20 A/g at −20, −10, 30, and 60 <sup>o</sup>C.
+
+![](_page_20_Figure_4.jpeg)
+
+**Figure S39.** Self-discharge tests of the Zn|**1 Zn**|NH4V4O10 battery at room temperature.
+
+![](_page_21_Picture_0.jpeg)
+
+**Figure S40.** Open circuit voltage of the pouch cell Zn|**1 Zn**|NH4V4O10.
+
+![](_page_21_Picture_2.jpeg)
+
+**Figure S41.** Photograph of the assembled pouch cells powering the array of LEDs at room temperature.
+
+![](_page_21_Picture_4.jpeg)
+
+**Figure S42.** Photograph of the assembled pouch cells powering the array of LEDs at 60 <sup>o</sup>C and -20 oC.
+
+![](_page_22_Figure_0.jpeg)
+
+ **Figure S43.** Long-term GCD performance of the Zn|**1 Zn**|MnO2 battery at 1 A/g at room temperature
+
+![](_page_22_Figure_2.jpeg)
+
+**Figure S44.** Long-term GCD performance of the Zn|**1 Zn**|MnO2 battery at 1 A/g at -20 <sup>o</sup>C
+
+![](_page_22_Figure_4.jpeg)
+
+**Figure S45.** Long-term GCD performance of the Zn|**1 Zn**|MnO2 battery at 1 A/g at 60 <sup>o</sup>C
+
+![](_page_23_Figure_0.jpeg)
+
+**Figure S46.** Galvanostatic charge-discharge curves of the Zn|**1 Zn**| MnO2 battery at different rates at room temperature.
+
+![](_page_23_Figure_2.jpeg)
+
+**Figure S47.** Self-discharge tests of the Zn|**1 Zn**|MnO2 battery at room temperature.
+
+![](_page_23_Figure_4.jpeg)
+
+**Figure S48.** Charge–discharge curves of the Zn|**1 Zn**|MnO2 battery at 1 A/g at different temperature.
+
+![](_page_24_Figure_0.jpeg)
+
+**Figure S49.** Long-term GCD performance of the Zn|**1 Zn**| PTCDA battery at 1 A/g at room temperature.
+
+![](_page_24_Figure_2.jpeg)
+
+**Figure S50.** Long-term GCD performance of the Zn|**1 Zn**| PTCDA battery at 1 A/g at -20 <sup>o</sup>C.
+
+![](_page_24_Figure_4.jpeg)
+
+**Figure S51.** Long-term GCD performance of the Zn|**1 Zn**| PTCDA battery at 1 A/g at 60 oC.
+
+![](_page_25_Figure_0.jpeg)
+
+**Figure S52.** Charge–discharge curves of the Zn|**1 Zn|**PTCDA battery at 1 A/g at different temperature.
+
+![](_page_25_Figure_2.jpeg)
+
+**Figure S53.** Galvanostatic charge-discharge curves of the Zn|**1 Zn**| PTCDA battery at different rates
+
+![](_page_25_Figure_4.jpeg)
+
+S26
+
+![](_page_26_Figure_0.jpeg)
+
+**Figure S55.** Long-term GCD performance of the Zn|**1 Zn**| Cu3(HHTP)2 battery at 1 A/g at room temperature
+
+![](_page_26_Figure_2.jpeg)
+
+**Figure S56.** Long-term GCD performance of the Zn|**1 Zn**| Cu3(HHTP)2 battery at 1 A/g at -20 <sup>o</sup>C
+
+![](_page_26_Figure_4.jpeg)
+
+**Figure S57.** Long-term GCD performance of the Zn|**1 Zn**|Cu3(HHTP)2 battery at 1 A/g at 60 <sup>o</sup>C
+
+![](_page_27_Figure_0.jpeg)
+
+**Figure S58.** Charge–discharge curves of the Zn|**1 Zn**| Cu3(HHTP)2 battery at 1 A/g at different temperature.
+
+![](_page_27_Figure_2.jpeg)
+
+**Figure S59.** Galvanostatic charge-discharge curves of the Zn|**1 Zn** |Cu3(HHTP)2 battery at different rates.
+
+![](_page_27_Figure_4.jpeg)
+
+**Figure S60.** Self-discharge tests of the Zn|**1 Zn**| Cu3(HHTP)2 battery.
+
+![](_page_29_Figure_0.jpeg)
+
+**Figure S61.** Ionic conductivity and transference number of **1 Na**
+
+![](_page_29_Figure_2.jpeg)
+
+**Figure S62.** Ionic conductivity and transference number of **1 K**
+
+![](_page_29_Figure_4.jpeg)
+
+**Figure S63.** Ionic conductivity and transference number of **1Mg**
+
+![](_page_30_Figure_0.jpeg)
+
+**Figure S64.** Ionic conductivity and transference number of **1 Ca**
+
+![](_page_30_Figure_2.jpeg)
+
+**Figure S65.** Ionic conductivity and transference number of **1 Al**
+
+**Table S2.** Ionic Conductivity, activation energy, and transference number of **1<sup>M</sup>** at room temperature.
+
+| Electrolyte | σ (S/cm)    | Ea<br>(eV) | t    |
+|-------------|-------------|------------|------|
+| K<br>1      | 1.71 × 10−4 | 0.24       | 0.89 |
+| 1Ca         | 4.46 × 10−3 | 0.15       | 0.70 |
+| Na<br>1     | 3.88 × 10−4 | 0.19       | 0.86 |
+| 1Mg         | 1.30 × 10−4 | 0.20       | 0.80 |
+| 1<br>Al     | 1.11 × 10−4 | 0.10       | 0.74 |
+
+![](_page_32_Figure_0.jpeg)
+
+**Figure S66.** SEM and SEM-EDS mapping of **1 Na**
+
+![](_page_32_Figure_2.jpeg)
+
+**Figure S67.** SEM and SEM-EDS mapping of **1 K**
+
+![](_page_32_Figure_4.jpeg)
+
+**Figure S68.** SEM and SEM-EDS mapping of **1Mg**
+
+![](_page_33_Figure_0.jpeg)
+
+![](_page_33_Figure_1.jpeg)
+
+**Figure S70.** SEM and SEM-EDS mapping of **1**
+
+### **5 Summary and Comparison**
+
+| Entry | Compound      | σ (S/cm)    | T (oC) | Ea (eV) | +<br>t | Ref.                                     |
+|-------|---------------|-------------|--------|---------|--------|------------------------------------------|
+| 1     | TpPa-SO3Zn0.5 | 2.2 × 10−4  | r.t.   | 0.19    | 0.91   | Chem. Sci., 2020, 11, 11692–11698        |
+| 2     | InOF-Zn       | 1.22 × 10−3 | r.t.   | –––     | –––    | Inorg. Chem.<br>2021, 60, 11032–11037    |
+| 3     | Zn@MOF-808    | 2.1 × 10−4  | 30     | 0.12    | 0.93   | Nano Energy.<br>2019, 56, 92-99          |
+| 4     | ZnZnBTT       | 1.15 × 10−4 | r.t.   | 0.317   | –––    | J. Am. Chem. Soc. 2023, 145, 25962−25965 |
+| 5     | ZnI2@TB-MOF   | 6.10 × 10−4 | r.t.   | 0.20    | 0.84   | Chem. Sci., 2024, 15, 17579-17589        |
+| 6     | Zn<br>1       | 2.20 × 10−3 | r.t.   | 0.19    | 0.90   | This work                                |
+
+## **5.1 Summary of Porous Materials for Solid-State Zn2+ Electrolyte**
+
+## **5.2 Summary of Porous Materials for Solid-State Mg2+ Electrolyte**
+
+<span id="page-34-0"></span>
+
+| Entry | Compound                          | σ (S/cm)    | T (oC) | Ea (eV) | t<br>+ | Ref.                                        |
+|-------|-----------------------------------|-------------|--------|---------|--------|---------------------------------------------|
+| 1     | Mg-MOF-74 ⊃ {Mg(TFSI)2}0.15       | 2.6 × 10−4  | 25     | 0.26    | 0.47   | J. Phys. Chem. C<br>2021, 125, 21124−21130  |
+| 2     | MIL-101⊃{Mg(TFSI)2}1.6            | 1.9 × 10−3  | 25     | 0.18    | 0.41   | J. Am. Chem. Soc.<br>2022, 144, 8669−8675   |
+| 3     | MIT-20-Mg                         | 8.8 × 10−7  | r.t.   | 0.37    | –––    | J. Am. Chem. Soc.<br>2017, 139, 13260−13263 |
+|       | MOF-MgCl2                         | 1.2 × 10−5  |        | 0.32    | –––    |                                             |
+| 4     | MOF-MgBr2                         | 1.3 × 10−4  | 25     | 0.24    | –––    | J. Am. Chem. Soc.<br>2019, 141, 4422−4427   |
+| 5     | Mg(OPhCF3)2·Mg(TFSI)2⊂Mg2(dobpdc) | 2.5 × 10−4  | r.t.   | 0.11    | –––    | Energy Environ. Sci., 2014, 7, 667–671      |
+| 6     | MgI2@TB-MOF                       | 3.28 × 10−4 | r.t.   | 0.21    | 0.76   | Chem. Sci., 2024, 15, 17579-17589           |
+| 7     | 1Mg                               | 1.30 × 10−4 | r.t.   | 0.20    | 0.80   | This work                                   |
+
+#### **5.3 Summary of Porous Materials for Solid-State K<sup>+</sup> Electrolyte**
+
+| Entry | Compound     | σ (S/cm)    | T (oC) | Ea (eV) | +<br>t | Ref.                                          |
+|-------|--------------|-------------|--------|---------|--------|-----------------------------------------------|
+| 1     | InOF-K       | 7.69 × 10−4 | 25     | –––     | –––    | Inorg. Chem.<br>2021, 60, 11032–11037         |
+| 2     | MOF-808-SO3K | 3.1 × 10−5  | 30     | 0.32    | 0.76   | ACS Appl. Energy Mater.<br>2022, 5, 8573–8580 |
+| 3     | KI@TB-MOF    | 1.64 × 10−4 | r.t.   | 0.25    | 0.78   | Chem. Sci., 2024, 15, 17579-17589             |
+| 4     | K<br>1       | 1.71 × 10−4 | r.t.   | 0.24    | 0.89   | This work                                     |
+
+| Entry | Compound      | σ (S/cm)    | T (oC) | Ea (eV) | +<br>t | Ref.                                                 |
+|-------|---------------|-------------|--------|---------|--------|------------------------------------------------------|
+| 1     | MIL-121/Na+SE | 1.2 × 10−4  | 30     | 0.36    | –––    | Adv. Energy Mater. 2021, 11, 2003542                 |
+| 2     | InOF-Na       | 7.97 × 10−4 | 25     | –––     | –––    | Inorg. Chem.<br>2021, 60, 11032–11037                |
+| 3     | UIOSNa        | 3.6 × 10−4  | r.t.   | –––     | 0.34   | ACS Appl. Mater. Interfaces<br>2021, 13, 24662−24669 |
+| 4     | NaOOC-COF     | 2.68 × 10−4 | r.t.   | 0.24    | 0.9    | Nano Energy., 2022, 92, 106756                       |
+| 5     | EHU1(Sc,Na)   | 9.2 × 10−5  | r.t.   | 0.64    | –––    | Chem. Mater.<br>2016, 28, 2519−2528                  |
+| 6     | MIL-121/Na    | 1.2 × 10−4  | 30     | 0.36    | –––    | Adv. Energy Mater.<br>2021, 2003542                  |
+| 7     | MIT-20-Na     | 1.8 × 10−5  | r.t.   | 0.39    | –––    | J. Am. Chem. Soc.<br>2017, 139, 13260−13263          |
+| 8     | NaI@TB-MOF    | 3.09 × 10−4 | r.t.   | 0.19    | 0.69   | Chem. Sci., 2024, 15, 17579-17589                    |
+| 9     | Na<br>1       | 3.88 × 10−4 |        | 0.19    | 0.86   | This work                                            |
+
+#### **5.4 Summary of Porous Materials for Solid-State Na<sup>+</sup> Electrolyte**
+
+#### **5.5 Summary of Porous Materials for Solid-State Li<sup>+</sup> Electrolyte**
+
+| Entry | Compound                 | σ (S/cm)    | T (oC) | Ea (eV) | +<br>t | Ref.                                                 |
+|-------|--------------------------|-------------|--------|---------|--------|------------------------------------------------------|
+| 1     | IL/LiTFSI@NUST-9         | 2.60 × 10−3 | 120    | 0.317   | –––    | Chem. Mater. 2021, 33, 5058−5066                     |
+| 2     | Li+<br>-PEG@NUST-23      | 1.36 × 10−3 | 80     | –––     | –––    | Chem. Mater.<br>2022, 34, 9104−9110                  |
+| 3     | COF-PEGB6-Li             | 1.5 × 10−3  | 200    | 0.60    | 0.3    | ACS Appl. Energy Mater.<br>2021, 4, 11720−11725      |
+| 4     | UiO-66-S-Li@OPBI         | 1.46 × 10−3 | r.t    | –––     | 0.73   | ACS Appl. Energy Mater.<br>2022, 5, 9131−9140        |
+| 5     | Helical Covalent Polymer | 1.2 × 10−3  | r.t.   | 0.14    | 0.84   | CCS Chem.<br>2021, 3, 2762–2770                      |
+|       | NH2-MIL-125-Li           | 1.52 × 10−4 |        | 0.15    | 0.72   |                                                      |
+| 6     | MIL-125-Li               | 4.42 × 10−5 | r.t.   | 0.24    | 0.43   | J. Am. Chem. Soc.<br>2023, 145, 5718−5729            |
+| 7     | COF-MCMCs                | 4.9×10-4    | 30     | 0.31    | 0.71   | Angew. Chem. Int. Ed. 2023, e202302505               |
+|       | Dq-COF-DEME              | 1.07 ×10−3  |        | –––     | 0.382  |                                                      |
+| 8     | EB-COF-TFSI-DEME         | 1.23 ×10−3  | r.t.   | –––     | 0.396  | Electrochim. Acta. 2021, 389,138585                  |
+| 9     | EHU1(Sc,Li)              | 4.2 × 10−4  | r.t    | 0.25    | ---    | Chem. Mater.<br>2016, 28, 2519−2528                  |
+| 10    | UiO-66-LiSS              | 7.8 × 10−4  | r.t.   | 0.21    | 0.90   | ACS Appl. Energy Mater.<br>2020, 3, 4007−4013        |
+| 11    | C−CSE                    | 4.26 × 10−4 | 30     | –––     | 0.67   | ACS Appl. Mater. Interfaces 2020, 12, 22930−22938    |
+| 12    | Li/UiOLiTFSI             | 2.07 × 10−4 | 25     | 0.31    | 0.84   | ACS Appl. Mater. Interfaces<br>2019, 11, 43206–43213 |
+| 13    | Li-IL@MOF                | 3.0 × 10−4  | r.t.   | –––     | 0.36   | Adv. Mater. 2018, 30, 1704436                        |
+| 14    | UiO-67-Li                | 6.4 × 10−4  | r.t.   | 0.14    | 0.65   | Adv. Funct. Mater.<br>2022, 2113235                  |
+| 15    | DMA@LiTFSI-mediated COF  | 1.7 × 10−4  | r.t.   | –––     | 0.85   | Adv. Mater. 2022, 34, 2201410                        |
+
+| 16 | PSS@HKUST-1                                 | 5.53 × 10−4              | 25   | 0.21        | –––         | Angew. Chem. Int. Ed.<br>2016, 55, 15120–15124 |
+|----|---------------------------------------------|--------------------------|------|-------------|-------------|------------------------------------------------|
+| 17 | CD-COFs                                     | 2.7 × 10−3               | 30   | 0.26        | –––         | Angew. Chem. Int. Ed.<br>2017, 56, 16313–16317 |
+| 18 | PEG-LiBF<br>4 @DBC-2P (COF)                 | 2.31 × 10−3              | 70   | 0.09        | –––         | Angew. Chem. Int. Ed.<br>2019, 58, 15742–15746 |
+| 19 | LiPF<br>6@PAF-1                             | 4.0 × 10−4               | r.t. | 0.15        | 0.859       | Angew. Chem. Int. Ed.<br>2020, 59, 769–774     |
+| 20 | Q-COF SSE                                   | 1.5 × 10−4               | 60   | 0.15        | 0.72        | Angew. Chem. Int. Ed. 2021, 60, 24915–24923    |
+| 21 | ICOF-2                                      | 3.05 × 10−4              | r.t. | 0.24        | 0.80        | Angew. Chem. Int. Ed. 2016, 55, 1737–1741      |
+| 22 | LiOtBu-grafted UiO-66                       | 1.8 × 10−5               | r.t. | 0.18        | –––         | Chem. Eur. J.<br>2013, 19, 5533–5536           |
+| 23 | LiPF<br>6/Ge-COF-1                          | 2.5 × 10−4               | 30   | 0.29        | 0.67        | Chem. Eur. J.<br>2019, 25, 13479–13483         |
+| 24 | DMPI @<br>Tp-DB-COF                         | 4.36 × 10−4              | 60   | 0.21        | 0.58        | Chem. Eur. J.<br>2021, 27, 4583–4587           |
+| 25 | Tp-PaSO<br>3Li-COF                          | 1.6 × 10−3               | 20   | 0.13        | 0.94        | Chem. Commun., 2020, 56, 2747–2750             |
+|    | 0.2MOF-LPC                                  | 1.3 × 10−3               |      | 0.15        | 0.58        |                                                |
+| 26 | 0.2MOF-LPF                                  | 2.4 × 10−3               | r.t  | 0.11        | 0.74        | Chem. Commun., 2020,<br>56, 13603–13606        |
+|    | 0.2MOF-LFS                                  | 1.0 × 10−3               |      | 0.08        | 0.55        |                                                |
+| 27 | LiPF<br>6-LE@COF                            | 4.63 × 10−3              | 20   | 5.2 kJ/mol  | 0.79        | Chem. Commun., 2020, 56, 10465–10468           |
+| 28 | Li-AOIA@BF4 (MOF)                           | 1.09 × 10−5              | r.t. | 0.18        | –––         | Chem. Commun., 2020, 56, 14873–14876           |
+| 29 | ZIF-67@ZIF-8                                | 1.35 × 10−3              | r.t. | 0.18        | 0.82        | Chem. Commun., 2020, 56, 14629–14632           |
+| 30 | VDF-HFP/MOF-5-II                            | 1.2 × 10−3               | 25   | –––         | 0.9         | Chem. Commun., 2022, 58, 6717–6720             |
+| 31 | LiNO<br>3@HM-MIL-101                        | 1.24 × 10−3              | 30   | 0.11        | 0.86        | J. Mater. Chem. A. 2022, 10, 14020–14027       |
+| 32 | iPr·0.25LiBF<br>Mg<br>2(dobdc)·0.35LiO<br>4 | 3.1 × 10−4               | 27   | 0.15        | –––         | J. Am. Chem. Soc.<br>2011, 133, 14522–14525    |
+|    | ·EC·DEC                                     |                          |      |             |             |                                                |
+| 33 | LiClO<br>4@COF-5                            | 2.6 × 10−4               | r.t. | 37±4 meV    | –––         | J. Am. Chem. Soc.<br>2016, 138, 9767–9770      |
+| 34 | LiClO4@TpPa-1<br>MIT-20-LiBF                | 1.5 × 10−4<br>4.8 × 10−4 | r.t. | –––<br>0.16 | –––<br>0.66 | J. Am. Chem. Soc.<br>2017, 139, 13260−13263    |
+| 35 | 4<br>Li-CON-TFSI                            | 2.09 × 10−4              | 70   | 0.34        | 0.61        | J. Am. Chem. Soc.<br>2018, 140, 896−899        |
+| 36 | SLEN material                               | 1.0× 10−3                | r.t. | 0.16        | 0.56        | J. Am. Chem. Soc. 2018, 140, 7504−7509         |
+|    | +@TPB-DMTP-COF<br>Li                        | 1.36 × 10−7              | 40   | 0.96        | –––         |                                                |
+| 37 | Li+@TPB-BMTP-COF                            | 5.49 × 10−4              | 90   | 0.87        | –––         | J. Am. Chem. Soc.<br>2018, 140, 7429−7432      |
+|    | COF-PEO-3-Li                                | 9.72 × 10−5              |      | –––         | –––         |                                                |
+| 38 | COF-PEO-6-Li                                | 3.71 × 10−4              | 200  | –––         | –––         | J. Am. Chem. Soc.<br>2019, 141, 1227−1234      |
+|    | COF-PEO-9-Li                                | 1.33 × 10−4              |      | –––         | –––         |                                                |
+|    | MOF-LiCl                                    | 2.4 × 10−5               |      | 0.34        | 0.69        |                                                |
+| 39 | MOF-LiBr                                    | 3.2 × 10−5               | 25   | 0.30        | 0.42        | J. Am. Chem. Soc.<br>2019,<br>141, 4422−4427   |
+|    | MOF-LiI                                     | 1.1 × 10−4               |      | 0.24        | 0.34        |                                                |
+|    | +@CD-COF-Li<br>PEG-Li                       | 1.30 × 10−4              |      | 0.17        | –––         |                                                |
+|    | PEG-Li<br>+@COF-300                         | 9.11 × 10−5              |      | 0.20        | –––         |                                                |
+| 40 | +@COF-5<br>PEG-Li                           | 3.49 × 10−5              | 120  | 0.35        | –––         | J. Am. Chem. Soc. 2019, 141, 1923−1927         |
+|    | +@EB-COF-ClO<br>PEG-Li                      | 1.78 × 10−3              |      | 0.21        | –––         |                                                |
+|    | 4                                           |                          |      |             |             |                                                |
+
+| 41 | COF-TpPa-SO3Li | 2.7 × 10−5     | r.t. | 0.18 | 0.90 | J. Am. Chem. Soc.<br>2019, 141, 5880−5885    |
+|----|----------------|----------------|------|------|------|----------------------------------------------|
+|    | CH3-ImCOF      | 8.0 × 10−5     |      | 0.27 | 0.93 |                                              |
+| 42 | H-ImCOF        | 5.3 × 10−3     | r.t. | 0.12 | 0.88 | J. Am. Chem. Soc.<br>2019, 141, 7518−7525    |
+|    | CF3-ImCOF      | 7.2 × 10−3     |      | 0.10 | 0.81 |                                              |
+| 43 | MOF-688        | 3.4 × 10−4     | 20   | –––  | 0.87 | J. Am. Chem. Soc.<br>2019, 141, 17522−17526  |
+| 44 | UIO/Li-IL SEs  | 3.2 × 10−4     | 25   | 0.4  | 0.33 | Small. 2019, 15, 1804413                     |
+| 45 | InOF-Li        | 1.49 × 10−3    | 25   | 0.19 | 0.78 | Inorg. Chem.<br>2021, 60, 11032–11037        |
+| 46 | MIL-121/Li+SE  | 9.1 × 10−3     | 50   | 0.28 | –––  | Adv. Energy Mater.<br>2021, 11, 2003542      |
+|    | LPC@HKUST-1    | 3.8 × 10−4     |      | 0.18 | –––  |                                              |
+|    | LPC@MIL-100-Al | 1.22 × 10−3    |      | 0.21 | –––  |                                              |
+|    | LPC@MIL-100-Fe | 9 × 10−4       | r.t. | 0.18 | –––  |                                              |
+| 47 | LPC@UiO-67     | 6.5 × 10−4     |      | 0.12 | 0.65 | Adv. Mater. 2018, 1707476                    |
+|    | LPC@UiO-66     | 1.8 × 10−4     |      | 0.21 | –––  |                                              |
+|    | LPC@MIL-100-Cr | 2.3 × 10−4     |      | 0.18 | –––  |                                              |
+| 49 | Al-Td-MOF-1    | 5.7±1.9 × 10−4 | r.t. | 0.11 | –––  | Angew. Chem. Int. Ed. 2018, 57, 16683 –16687 |
+|    | LiI@TB-MOF     | 2.75 × 10−3    |      | 0.15 | 0.89 |                                              |
+|    | LiBr@TB-MOF    | 1.33 × 10−3    |      | 0.19 | 0.91 |                                              |
+| 50 | LiCl@TB-MOF    | 1.34 × 10−4    | r.t. | 0.21 | 0.89 | Chem. Sci., 2024, 15, 17579-17589            |
+|    | LiClO4@TB-MOF  | 1.51 × 10−4    |      | 0.22 | 0.80 |                                              |
+|    | LiOTf@TB-MOF   | 2.66 × 10−5    |      | 0.22 | 0.74 |                                              |
+
+## **5.6 Summary of Anionic Boron-Based Porous Materials for Solid-State Electrolyte**
+
+| Entry | Compound | σ (S/cm)   | T (oC) | Ea (eV) | +<br>t | Ref.                              |
+|-------|----------|------------|--------|---------|--------|-----------------------------------|
+| 1     |          | 2.1 × 10−4 | 28     | 0.25    | 0.93   | Chem. Sci., 2015, 6,<br>5499–5505 |
+
+![](_page_38_Figure_0.jpeg)
+
+![](_page_39_Figure_0.jpeg)
+
+### **5.7 Summary of Anionic MOFs and COFs as Solid Electrolyte for Solid-State Batteries**
+
+|                        |              |              |        |           |             | Full cell                           |                     |                       |                                                      |
+|------------------------|--------------|--------------|--------|-----------|-------------|-------------------------------------|---------------------|-----------------------|------------------------------------------------------|
+| Compound<br>σ (mS/cm)  |              | Ea<br>(eV)   | +<br>t | Type      | Cycle       | Current<br>Density<br>(mA/ cm2<br>) | Capacity<br>(mAh/g) | Capacity<br>Retention | Ref.                                                 |
+| COF-SS-Li              | 0.0963       | 0.24         | 0.53   | LFP/Li    | 500         | 0.1 A/g                             | 120                 | 56.7%                 | ACS Appl. Mater. Interfaces 2023, 15, 34704−34710    |
+| COF-TFSI−Li+           | 0.0826       | 0.14         | 0.91   | LFP/Li    | 200         | 0.1C                                | 142                 | 94.5%                 | ACS Energy Lett.<br>2024, 9, 5341−5348               |
+| Li+<br>[Cu-BTC]-       | 0.42         | 0.18         | 0.8    | LFP/Li    | 150         | 0.1C                                | 152                 | 82%                   | Chem. Commun., 2024, 60, 13416–13419                 |
+| COF-S-S-TFSILi         | 0.43         | 0.24         | 0.90   | LFP/Li    | 100         | 0.2C                                | 150.3               | 98.8%                 | Polym. Chem., 2024, 15, 4529–4541                    |
+| MOF-688                | 0.34         | –––          | 0.87   | LFP/Li    | 200         | 30 (mA/g)                           | 149                 | 83%                   | J. Am. Chem. Soc.<br>2019, 141, 17522−17526          |
+| IL-1.0@NUST-7          | 0.087        | 0.32         | ––     | LFP/Li    | 60          | 0.05C                               | 140.8               | 93%                   | Chem. Mater.<br>2021, 33, 5058−5066                  |
+| LiI@TB-MOF             | 2.75 × 10−3  | 0.15         | 0.89   | LFP/Li    | 220         | 0.5                                 | 135                 | 95%                   | Chem. Sci., 2024, 15, 17579-17589                    |
+| CN-iCOF                | 0.0133       | 0.2          | 0.93   | LCO/Li    | 130         | 0.05C                               | 160                 | 63%                   | Angew. Chem. Int. Ed.<br>2024, 63, e202410392        |
+| PEO/5%TpPa-SO3Li       | 0.628 (60oC) | –––          | 0.78   | S/Li      | 600 (60 oC) | 0.5C (60 oC)                        | 506                 | –––                   | J. Colloid Interface Sci.2025, 678, 105-113          |
+| QSSE-COF-SO3Na         | 0.41         | 0.14         | 0.89   | NVOPF /Na | 700         | 1C                                  | 92                  | 82%                   | Energy Storage Mater.<br>2025, 77, 104192            |
+| PEGMEM-co<br>SSS@ZIF-8 | 0.4 (80 oC)  | –––          | 0.87   | NVP/Na    | 200         | 0.1C (80 oC)                        | 92                  | 95%                   | Angew. Chem. Int. Ed.<br>2024, 63, e202318822        |
+| Na-MOFs                | 0.44         | 0.28         | ––     | NVP/Na    | 200         | 0.5C                                | ~90                 | >95%                  |                                                      |
+| Mg-MOFs                | 1.0          | 0.20         |        |           |             |                                     |                     |                       | ACS Appl. Mater. Interfaces<br>2020, 12, 43824−43832 |
+| Al-MOFs                | 0.13<br>0.22 | 0.37<br>0.19 | 0.91   |           | 800         | 0.6 A/g                             | 196                 | 73%                   |                                                      |
+| TpPa-SO3Zn0.5          |              |              |        | α-MnO2/Zn |             |                                     |                     |                       | Chem. Sci., 2020, 11, 11692–11698                    |
+| TCOF-S-Gel             | 14.1         | –––          | 0.89   | α-MnO2/Zn | 1400        | 2C                                  | ~200                | –––                   | Angew. Chem. Int. Ed.<br>2023, 62, e202312020        |
+| Zn<br>1                | 2.2          | 0.19         | 0.90   | NVO/Zn    | 2500        | 5A/g                                | 351                 | 99.7%                 | Our work                                             |
+
+|               |               |            | +<br>t |           |       | Full cell                           |                     |                       |                                                      |
+|---------------|---------------|------------|--------|-----------|-------|-------------------------------------|---------------------|-----------------------|------------------------------------------------------|
+| Compound      | σ (mS/cm)     | Ea<br>(eV) |        | Type      | Cycle | Current<br>Density<br>(mA/ cm2<br>) | Capacity<br>(mAh/g) | Capacity<br>Retention |                                                      |
+| PAEK-SIGPE    | 0.078 (30 oC) | 0.12       | 0.95   | LFP/Li    | 300   | 0.2C                                | 117                 | 88%                   | Appl. Surf. Sci.<br>2023, 611, 155363                |
+| VC70          | 0.16          | –––        | 0.92   | LFP/Li    | 300   | 0.1C                                | 150                 | 60%                   | J. Power Sources.<br>2023, 574, 233145               |
+| M-PBI/PEO-0.4 | 0.099         | –––        | 0.89   | LFP/Li    | 200   | 0.2C                                | 152.8               | 74%                   | Chem. Eng. J.<br>2025, 503, 158268                   |
+| 6FPSF-Li      | 0.246 (40 oC) | –––        | 0.93   | LFP/Li    | 250   | 0.1C                                | 157                 | 83%                   | J. Energy Chem.<br>2023, 80, 174-181                 |
+| PLSSCQD       | 0.202         | –––        | 0.94   | LFP/Li    | 100   | 0.2 C (60 oC)                       | 155.9               | 94.3%                 | Nano Energy,<br>2021, 82, 105698                     |
+| ANP-5         | 0.48 (40 oC)  | 0.16       | 0.95   | LFP/Li    | 50    | 0.5C                                | 122                 | –––                   | Adv. Mater.<br>2020, 32, 1905771                     |
+| C-ASPE-5/8    | 0.0196        | –––        | 0.91   | LFP/Li    | 100   | 0.1C                                | 137.7               | 89%                   | Macromolecules<br>2021, 54, 9135−9144                |
+| MCM41-NLiTf   | 0.024         | –––        | 0.82   | LFP/Li    | 100   | 0.1C                                | ~140                | 96.9%                 | Chem. Commun., 2022, 58, 13656–13659                 |
+| PI-SIGPE      | 0.14          | 0.10       | 0.97   | LFP/Li    | 330   | 0.2C                                | 145                 | 90.1%                 | J. Mater. Chem. A,<br>2023, 11, 1766–1773            |
+| IN-SCPE5      | 0.19          | –––        | 0.9    | LFP/Li    | 100   | 0.2C                                | 150.2               | 92.5%                 | ACS Appl. Energy Mater.<br>2020, 3, 12532−12539      |
+| SLIC-PEM5     | 0.18          | –––        | 0.91   | LFP/Li    | 100   | 0.2C                                | 153                 | 92%                   | ACS Appl. Energy Mater.<br>2019, 2, 3028−3034        |
+| PAF-220-QSPE  | 0.206         | 0.14       | 0.76   | LFP/Li    | 180   | 0.2C                                | 170                 | 90%                   | Small. 2023, 19, 2302818                             |
+| c-SIPM60      | 0.12          | ––         | 0.87   | LFP/Li    | 700   | 1C                                  | 134.9               | 75.6%                 | ACS Appl. Mater. Interfaces<br>2025, 17, 5360−5369   |
+| PEO8−LiPCSI   | 0.073(60 oC)  | –––        | 0.84   | LFP/Li    | 80    | 0.1C                                | 141                 | 85%                   | ACS Appl. Mater. Interfaces<br>2020, 12, 7249−7256   |
+| Li+@iPOPs     | 4.38          | 0.63       | 0.95   | LFP/Li    | 200   | 0.5C                                | 114                 | 86.7                  | ACS Appl. Mater. Interfaces 2024, 16, 44957−44966    |
+| SI10-05-70%PC | 0.6           | –––        | –––    | NCM811/Li | 180   | 1C                                  | 165                 | 97.2%                 | Nano Energy,<br>2020, 77, 105129                     |
+| AMPE          | 0.38          | 0.24       | –––    | LCO/Li    | 700   | 0.2C                                | 152.08              | –––                   | Angew. Chem. Int. Ed.<br>2024, 63, e202412280        |
+| NaSTFSI-SIPEs | 0.042         | 0.12       | ––     | PW/Na     | 200   | 0.4C (40 oC)                        | 102                 | 69%                   | ACS Appl. Polym. Mater. 2025, 7, 4895−4907           |
+| SIHE          | 2.15          | –––        | 0.93   | V2O5/Zn   | 500   | 5C                                  | 127.5               | 81.9%                 | ACS Appl. Mater. Interfaces<br>2021, 13, 30594−30602 |
+| 1<br>Zn       | 2.2           | 0.19       | 0.90   | NVO/Zn    | 2500  | 5A/g                                | 351                 | 99.7%                 | Our work                                             |
+
+| Cathode              | Working capacity (mA h/g) | Working current density (A/g) | Ref.                                                 |
+|----------------------|---------------------------|-------------------------------|------------------------------------------------------|
+| VO2-D                | 420.8                     | 0.1                           | Adv. Mater. 2024, 36, 2400888                        |
+| V2O3                 | 625                       | 0.1                           | ACS Nano<br>2020, 14, 7328–7337                      |
+|                      | 358.7                     | 0.2                           | Chem. Mater.<br>2020, 32, 4054–4064                  |
+|                      | 326                       | 0.02                          | ACS Appl. Mater. Interfaces<br>2020, 12, 15305–15312 |
+| V2O5                 | 357                       | 2                             | ACS Appl. Energy Mater.<br>2020, 3, 11183–11192      |
+|                      | 350                       | 0.1                           | ACS Appl. Mater. Interfaces<br>2023, 15, 20089–20099 |
+|                      | 473                       | 0.1                           | Adv. Mater. 2023, 13, 2301480                        |
+| La-V2O5              | 439                       | 0.1                           | Adv. Mater. 2023, 35, 2301996                        |
+| (NH4)0.5V2O5·0.5H2O  | 490                       | 0.3                           | Chem. Sci., 2024,15, 2601-2611                       |
+| Zn0.52V2O5−a⋅1.8 H2O | 286.2                     | 0.2                           | Angew. Chem. Int. Ed.<br>2022, 61, e202207779        |
+| Cu0.3V2O5            | 315                       | 0.02                          | ACS Appl. Energy Mater.<br>2021, 4, 10197–10202      |
+| Ca0.24V2O5⋅0.83 H2O  | 340                       | 0.2C                          | Angew. Chem. Int. Ed.<br>2018, 57, 3943-3948         |
+| CuV2O6               | 427                       | 0.1                           | ACS Nano<br>2019, 13, 12081–12089                    |
+| Zn3V2O7(OH)2·2H2O    | 213                       | 0.05                          | Angew. Chem. Int. Ed.<br>2017, 30, 1705580           |
+| (Mn0.13Zn0.03)V2O5   | 463                       | 0.1                           | Small. 2024, 21, 2408596                             |
+| V3O7·H2O             | 386.7                     | 0.1                           | Small. 2023, 20, 2305030                             |
+| AgxV3O7·H2O          | 437                       | 0.1                           | ACS Sustainable Chem. Eng.<br>2021, 9, 3985–3995     |
+| Sn–V3O7·H2O          | 408                       | 0.1                           | Adv. Mater. 2024, 15, 2404026                        |
+| NH4V3O8              | 433                       | 0.5                           | Adv. Mater. 2024, 34, 2312789                        |
+|                      | 245.8                     | 0.2                           | Adv. Mater. 2024, 36, 2400888                        |
+| NH4V4O10             | 370                       | 0.5                           | Angew. Chem. Int. Ed.<br>2023, 62, e202303529.       |
+|                      | 497                       | 0.3                           | Our Work                                             |
+| Na@NH4V4O10          | 610.7                     | 0.5                           | Adv. Mater. 2023, 33, 2305700                        |
+| NH4V4O10 NFAs/CC     | 536                       | 0.5                           | Small. 2023, 19, 2304462                             |
+| V5O12·6H2O           | 226.5                     | 10                            | Adv. Mater. 2024, 35, 2420686                        |
+| Al0.34V5O12·2.4H2O   | 407.8                     | 0.2                           | Small. 2022, 18, 2204180                             |
+| V6O13                | 360                       | 0.2                           | Adv. Mater. 2019, 9, 1900083                         |
+| NaCa0.6V6O16·3H2O    | 347                       | 0.1                           | Adv. Mater. 2019, 9, 1901968                         |
+| SbO2/K0.43V6O1       | 414.2                     | 1                             | Adv. Mater. 2024, 34, 2304798                        |
+| CaV6O16·2.7H2O       | 379                       | 0.05                          | Adv. Mater. 2025, 15, 2404037                        |
+| ZnV6O16·8H2O         | 365                       | 0.5                           | Angew. Chem. Int. Ed.<br>2023, 62, e202213368        |
+| H3.78V6O13           | 406                       | 0.1                           | Adv. Mater. 2023, 33, 2307270                        |
+
+| Na<br>V<br>O16<br>2<br>6                | 564            | 0.1          | ACS Appl. Mater. Interfaces<br>2024, 16, 58587–58597                                           |
+|-----------------------------------------|----------------|--------------|------------------------------------------------------------------------------------------------|
+| Al2.65<br>V<br>O13·2.07H<br>O<br>6<br>2 | 571.7          | 1            | Angew. Chem. Int. Ed.<br>2022, 62, e202216089                                                  |
+| Ca0.67<br>V<br>O20·3.5H<br>O<br>8<br>2  | 466            | 0.1          | ACS Nano 2019, 13, 14447–14458                                                                 |
+| (Na,Mn)V<br>O20<br>8                    | 377            | 0.1          | Adv. Mater. 2020,<br>7, 2000083                                                                |
+| Kx<br>H<br>9(PV14<br>O42<br>)           | 413.3          | 0.05         | ACS Appl. Energy Mater.<br>2024,<br>7, 629–638                                                 |
+| MVO+V<br>C<br>2                         | 389.4          | 0.5          | Adv. Mater. 2024, 34, 2402071                                                                  |
+| VNQD/NC                                 | 698            | 0.5          | Adv. Mater. 2025, 35, 2418671                                                                  |
+| MIL-88B(V)@rGO                          | 479.6          | 0.05         | Adv. Mater. 2024, 34, 2308319                                                                  |
+| Ov-CoVO                                 | 475.0          | 0.2          | Adv. Mater. 2024, 34, 2407925                                                                  |
+| V2CTx                                   | 358            | 30           | Adv. Mater. 2021, 31, 2008033                                                                  |
+| V-EG                                    | 553            | 0.3          | Adv. Mater. 2024, 34, 2311412                                                                  |
+| alk-V<br>2CT<br>x                       | 498.2          | 0.1          | Adv. Mater. 2024, 34, 2308508                                                                  |
+| VO-DP                                   | 473            | 0.05         | Adv. Mater. 2023, 33, 2213187                                                                  |
+| VNTONC                                  | 802.5/331.8    | 0.5/6        | Small. 2024, 20, 2312036                                                                       |
+| sodium vanadate                         | 302.4          | 0.05         | Angew. Chem. Int. Ed.<br>2024, 63, e202317944                                                  |
+| nano-vanadium oxide                     | 553            | 0.1          | Adv. Mater. 2024, 36, 2404796                                                                  |
+| Od-VO                                   | 400            | 0.2          | Angew. Chem. Int. Ed.<br>2020, 59, 2273-2278                                                   |
+| KVO                                     | 461            | 0.2          | Nano Lett. 2021, 21, 2738–2744                                                                 |
+| EDA-VO                                  | 382.6          | 0.5          | Adv. Mater. 2022, 34, 2105452                                                                  |
+| NHVO@CC                                 | 517            | 0.1          | ACS Appl. Mater. Interfaces<br>2022, 14, 10407–10418                                           |
+| α-MnO<br>2                              | 238.3          | 0.2          | Adv. Mater. 2025, 35, 2412370                                                                  |
+| K-doped α-MnO<br>2 (KMO)                | 218.1          | 0.2          | Ind. Eng. Chem. Res.<br>2023, 62,16757–16765                                                   |
+| isoleucine-α-MnO<br>2                   | 332.8          | 0.1          | Adv. Mater. 2025, 15, 2402819                                                                  |
+| CNT@β-MnO<br>2                          | 259            |              |                                                                                                |
+| β-MnO<br>2                              | 32             | 3            | Inorg. Chem.<br>2024, 63, 13100–13109                                                          |
+| δ-MnO<br>2-C NA                         | 346.7          | 0.5          | Small. 2023, 19, 2207517                                                                       |
+| δ-MnO<br>2/Ti<br>C<br>T<br>3<br>2<br>x  | 502.2          | 0.3          | Adv. Mater. 2024, 14, 2304357                                                                  |
+| Ru−MnO<br>2                             |                |              |                                                                                                |
+|                                         |                |              |                                                                                                |
+| PVP−MnO                                 | 314.4<br>317.2 | 0.2<br>0.125 | Angew. Chem. Int. Ed.<br>2025, 64, e202415997<br>Angew. Chem. Int. Ed.<br>2023, 62, e202313163 |
+| 2<br>C@PODA/MnO                         | 321            | 0.1          | Angew. Chem. Int. Ed.<br>2022, 61, e202212231.                                                 |
+| 2<br>V                                  | 303            | 0.3          | ACS Appl. Energy Mater. 2023,<br>6, 6689–6699                                                  |
+| O-MnO<br>2<br>Na:MnO                    | 381.8          | 0.1          | Adv. Mater. 2020, 30, 1907120                                                                  |
+| 2/GCF                                   | 348.8          | 0.3          | Adv. Mater. 2024, 14, 2304303                                                                  |
+| Cein/inter-MnO<br>2<br>CMC-MnO          | 324            | 0.5          | Adv. Mater. 2025, 35, 2411990                                                                  |
+| 2<br>N-coordinated MnO<br>2             | 351            | 0.1          | Angew. Chem. Int. Ed.<br>2024, 63, e202408414.                                                 |
+
+| MnO<br>/polypyrrole nanosheets<br>x | 408         | 0.133    | ACS Appl. Mater. Interfaces<br>2020, 12, 9347–9354 |
+|-------------------------------------|-------------|----------|----------------------------------------------------|
+| NaMnO<br>2                          | 190         | 1.0      | Angew. Chem. Int. Ed. 2024, 63, e202409322.        |
+| CaMnO-140                           | 485.4       | 0.1      | Angew. Chem. Int. Ed.<br>2024, 63, e202412057.     |
+| Ca0.10MnO<br>2·0.61H<br>O<br>2      | 289         | 1.5      | Adv. Mater. 2025, 35, 2413993                      |
+| VMn-Mn<br>O<br>4@C<br>3             | 280.9       | 0.1      | Adv. Mater. 2025, 35, 2413711                      |
+| Mo doping regnant LaMnO<br>3        | 445         | 0.5      | Adv. Mater. 2025, 35, 2416652                      |
+| ZnMn<br>O<br>2<br>4                 | 239.2       | 0.1      | Adv. Mater. 2024, 34, 2405680                      |
+| ZnMn<br>O<br>4/Graphene<br>2        | 445         | 0.1      | Adv. Mater. 2024, 34, 2405551                      |
+| MoS<br>2                            | 439.5       | 0.1      | Angew. Chem. Int. Ed.<br>2024, 63, e202320075.     |
+| MoS<br>2/graphene                   | 285.4       | 0.05     | Adv. Mater. 2021, 33, 2007480                      |
+| Mn-doped MoO<br>3                   | 366.2       | 0.2      | Adv. Mater. 2023, 19, 2301351                      |
+| S-MoO<br>2                          | 236         | 0.1      | Adv. Mater. 2024, 34, 2308834                      |
+| Bi<br>2Se<br>3                      | 320         | 0.1      | Adv. Mater. 2023, 35, 2306269                      |
+| Bi<br>O<br>2Se<br>2                 | 380.3       | 0.1      | Adv. Mater. 2024, 34, 2406975                      |
+| P–NiCo<br>O4-<br>2<br>x             | 361.3       | 3        | Adv. Mater. 2018, 30, 1802396                      |
+| CuS@CTMAB                           | 367         | 0.1      | ACS Appl. Mater. Interfaces<br>2022, 14, 1126–1137 |
+| TAP/Ti<br>C<br>T<br>3<br>2<br>x     | 303         | 0.04     | Adv. Mater. 2022, 34, 2206812                      |
+|                                     |             |          |                                                    |
+| BBQPH                               | 498.6       | 0.2      | Nat Commun. 2023,<br>14, 5235.                     |
+| BQPH                                | 429         | 0.1      | J. Am. Chem. Soc.<br>2022, 144, 10301–10308        |
+| 6CN-HAT@MXene                       | 413         | 0.05     | Adv. Mater. 2024, 34, 2316182                      |
+|                                     | 260.1       | 0.1      | Angew. Chem. Int. Ed.<br>2023, 62, e202218343.     |
+| Cu-HHTP                             | 228         | 0.05     | Nat Commun. 2019,<br>10, 4948.                     |
+| Cu-BTA-H                            | 330         | 0.2      | ACS Nano<br>2023, 17, 3077–3087                    |
+| Cu-TBPQ MOF                         | 371.2       | 0.05     | Adv. Mater. 2024, 34, 2312636                      |
+| COF-TMT-BT                          | 283.5       | 0.1      | Angew. Chem. Int. Ed.<br>2023, 62, e202216136.     |
+| COF-PTO                             | 165         | 0.3      | Adv. Mater. 2024, 36, 2314050                      |
+| DQP                                 | 413         | 0.05     | ACS Appl. Energy Mater.<br>2021,<br>4, 655–661     |
+| DPT                                 | 367/303/231 | 0.1/5/20 | J. Am. Chem. Soc. 2023, 145, 25604–25613           |
+| DQH                                 | 385         | 0.5      | Adv. Mater. 2024, 34, 2405710                      |
+| HATNQ                               | 482.5       | 0.2      | Angew. Chem. Int. Ed.<br>2022, 61, e202116289.     |
+| HATN-PNZ                            | 257         | 5        | Adv. Mater. 2023, 35, 2207115                      |
+| PTO                                 | 16/142      | 5/10     | J. Am. Chem. Soc.<br>2024, 146, 15393–15402.       |
+| TNP                                 | 338         |          | Angew. Chem. Int. Ed.<br>2024, 63, e202401049.     |
+
+根据提供的文献内容，生成实验流程复现文献实验

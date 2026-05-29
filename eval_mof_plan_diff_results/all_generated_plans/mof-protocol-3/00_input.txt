@@ -1,0 +1,383 @@
+# Direct photo-oxidation of methane to methanol over a mono-iron hydroxyl site
+
+## 1. Materials
+
+### 1.1 Reagents
+
+#### 1.1.1 Metal Precursors
+- **Zirconium tetrachloride (ZrCl₄)**: ZrCl₄, [purity not specified], [Supplier not specified], Used as the primary source of zirconium for forming the metal nodes in the MOF.
+- **Iron(III) chloride hexahydrate (FeCl₃·6H₂O)**: FeCl₃·6H₂O, [purity not specified], [Supplier not specified], Used in the post‑synthetic metalation to introduce mono‑iron hydroxyl sites into the framework.
+
+#### 1.1.2 Organic Linkers
+- **2,2′-Bipyridine-5,5′-dicarboxylic acid (H₂bpydc)**: H₂bpydc, [purity not specified], [Supplier not specified], Used as a dicarboxylate linker to bridge zirconium nodes in the UiO‑67 framework.
+- **[Ru(bpy)₂(H₂bpydc)]Cl₂**: [Ru(bpy)₂(H₂bpydc)]Cl₂, [purity not specified], [Supplier not specified], Serves dual functions as a photosensitizer complex and an organic linker, integrating light‑harvesting capabilities with the MOF structure.
+
+#### 1.1.3 Modulators
+- **Glacial acetic acid**: CH₃COOH, [purity not specified], [Supplier not specified], Used as a modulator to control crystal growth and particle size during the solvothermal synthesis.
+
+#### 1.1.4 Solvents
+- **N,N‑Dimethylformamide (DMF)**: DMF, [purity not specified], [Supplier not specified], Used as the primary solvent for dissolving reactants and facilitating MOF crystallization during the solvothermal process.
+- **Tetrahydrofuran (THF)**: THF, [purity not specified], [Supplier not specified], Employed as a washing solvent to remove unreacted materials and impurities.
+- **Water**: H₂O, [purity not specified], [Supplier not specified], Used as a solvent during the post‑synthetic photo‑activation process to enable ligand exchange from Cl to OH.
+
+#### 1.1.5 Atmosphere Gases
+- **Oxygen**: O₂, [purity not specified], [Supplier not specified], Employed as an oxidant in the photocatalytic oxidation of CH₄ to CH₃OH under ambient conditions.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- 5 mL glass vial (5 mL capacity)  
+ A small-volume reaction vessel used for solvothermal synthesis and post‑synthetic modification.
+
+#### Characterization Equipment
+- Powder X‑ray Diffractometer (Philips X'pert XRD)  
+- Scanning Electron Microscope (Quanta FEG 650)  
+- Transmission Electron Microscope (Philips Analytical FEI Tecnai F30)  
+- BET Surface Area Analyzer (Tristar gas sorption analyzer)  
+- FTIR Spectrometer (Thermo Scientific Nicolet iS5‑IR in ATR mode)  
+- Thermogravimetric Analyzer (TA SDT‑600)  
+- X‑ray Photoelectron Spectrometer (Qtac‑100 LEISS‑XPS)  
+- UV‑Vis Spectrophotometer (Hitachi U‑3010)  
+- Inelastic Neutron Scattering (INS) setup (Spallation Neutron Source, Oak Ridge)  
+- Electron Paramagnetic Resonance Spectrometer (Bruker Elexsys 500)  
+
+#### Activation Equipment
+- Dynamic vacuum system  
+ A dedicated setup to provide low-pressure conditions for catalyst activation.
+
+#### Reaction Equipment
+- Transparent reaction vessel (Schlenk tube)  
+ Used for photocatalytic oxidation of CH₄ under ambient conditions.
+- Fixed‑bed reactor  
+ Used to simulate flow conditions during the extended stability tests.
+
+#### Product Analysis Equipment
+- Gas Chromatograph (GC equipped with a thermal conductivity detector)  
+- FTIR Spectrometer (applied for CH₃OH quantification in product analysis)
+
+#### Other Specific Equipment
+- Centrifuge  
+ Standard laboratory centrifuge used for solid–liquid separation.
+- Magnetic Stirrer  
+ Utilized for uniform stirring during synthesis and post‑synthetic modifications.
+- Analytical Balance  
+ Employed for precise mass measurements during reagent handling.
+- Rotary Evaporator  
+ Used for solvent removal under reduced pressure.
+
+This equipment list integrates the detailed apparatus used during MOF crystallization, synthesis, post‑synthetic modification, catalyst activation, and subsequent characterization and performance evaluation. The 5 mL glass vial serves as the primary reactor for the solvothermal process at 100 °C for 72 hours, while advanced characterization instruments secure structural and compositional verification. Additionally, reaction conditions and product evaluations are conducted with specialized equipment including a dynamic vacuum system, Schlenk tube, fixed‑bed reactor, GC, and FTIR, ensuring robust and reproducible experimental procedures.
+
+### 1.3 Common Laboratory Equipment
+
+In MOF experimental workflows, a variety of common laboratory equipment is employed to ensure accurate reagent handling, reproducibility, and maintenance of controlled reaction conditions. Although some equipment may not be directly involved in MOF synthesis, they are integral to experimental preparation and analysis.
+
+#### Drying Equipment
+Appropriate drying methods are essential at various stages of MOF synthesis. For the overnight drying step following a solvothermal reaction, a vacuum oven is typically used, ensuring that solvents are effectively removed without thermal degradation. Additional options may include freeze dryers or desiccators as alternatives where low-temperature drying is needed to preserve sensitive materials.
+
+#### Calcination Equipment
+Calcination is a critical step when high-temperature treatment is required. A muffle furnace is commonly chosen for such processes because it offers a controlled thermal environment ideal for calcination procedures. For experiments that require tube furnaces, these devices can also be implemented when precise, continuous temperature profiles are necessary.
+
+#### Other Common Equipment
+Several other pieces of laboratory equipment support the overall experimental workflow. For heating the reaction mixtures at 100°C over extended periods (such as 72-hour solvothermal reactions), programmable ovens with accurate temperature controllers are indispensable. During reagent dissolution—where solvents like DMF or THF are used—magnetic stirrers or overhead stirrers provide effective mixing. Precision in reagent measurement is achieved through the use of analytical balances for weighing chemicals (e.g., ZrCl₄, FeCl₃•6H₂O) and micropipettes or electronic pipettes for dispensing defined volumes. 
+
+General laboratory glassware, including beakers, flasks, and small-volume vials (such as the 5 mL reaction vials used), is crucial for preparing reaction mixtures and directly conducting the experiments. Additionally, for separation and purification steps, filtration apparatuses, such as Büchner funnels, are used to isolate MOF crystals from solvent mixtures. In some cases, centrifuges or ultrasonic baths may be employed to enhance sample dispersion or for cleaning procedures prior to characterization.
+
+Overall, this combination of drying, calcination, mixing, and measuring tools ensures a robust and replicable execution of MOF synthesis and related experimental procedures.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+This section outlines the synthesis methods used for the MOF‐based materials, with a focus on the solvothermal one‑pot approach reported for PMOF‑Ru leading to PMOF‑RuFe(OH). A comparative analysis of this method underscores its ability to produce high-quality frameworks despite the complexity of the synthesis and equipment requirements.
+
+#### • Solvothermal Synthesis of PMOF‑Ru
+
+1. **Precursor Mixing/Dissolution**  
+   - Reagents: ZrCl₄ (10 mg, 43 μmol), H₂bpydc (9 mg, 37 μmol), [Ru(bpy)₂(H₂bpydc)]Cl₂ (2 mg, 4 μmol), and glacial acetic acid (82 μL, 1.44 mmol)  
+   - Solvent: 1.5 mL DMF  
+   - Equipment: 5 mL vial (or Teflon-lined autoclave for crystallization in some protocols)  
+   - Observation: Uniform solution formation prior to sealing
+
+2. **Modulator or Structure-Directing Agent Addition**  
+   - Glacial acetic acid acts as the modulator and is added during the initial dissolution step to influence crystallization and morphology.
+
+3. **Crystallization**  
+   - Method: Solvothermal synthesis  
+   - Conditions: Sealed vial heated at 100 °C for 72 h  
+   - Equipment: 5 mL vial ensures a controlled reaction environment
+
+4. **Cooling and Collection**  
+   - Post-reaction, the vial is cooled to room temperature  
+   - The resulting MOF crystals are collected by filtration
+
+5. **Washing and Solvent Exchange**  
+   - Washing solvents: DMF followed by THF  
+   - Procedure: Multiple washes (exact cycle numbers as reported) to remove residual unreacted materials
+
+6. **Drying**  
+   - Conditions: Dried at 50 °C under vacuum overnight
+
+7. **Activation and Post-synthetic Modification**  
+   - Conversion Step: FeCl₃·6H₂O in THF is introduced to perform post-synthetic metalation, yielding PMOF‑RuFe(Cl)  
+   - Photo‑activation: The Fe‑Cl species are converted to active Fe‑OH sites by exposing the MOF dispersion in water to visible‑light irradiation at room temperature for 2 h  
+   - Observation: Accompanying ligand exchange is evidenced by a color change and formation of a colorless supernatant during washing
+
+### Comparative Analysis
+
+• The solvothermal method offers precise control over reaction parameters, yielding stable MOF structures with integrated functionalities; its disadvantages include increased synthesis complexity and reliance on specialized equipment which may constrain scalability. 
+
+This detailed procedural breakdown ensures reproducibility and allows researchers to understand each experimental step and its contribution to the MOF structure and subsequent catalytic performance.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+In this section, the experimental procedures for preparing reagents are organized into three distinct operations: weighing of solid reagents, liquid transfer of liquid components, and mixing to achieve homogeneous reaction mixtures. The two MOF materials detailed in the article—PMOF‑Ru and PMOF‑RuFe(OH)—are addressed separately under each operation to ensure full reproducibility of the synthesis protocol.
+
+#### 3.1.1 Weighing
+
+For both PMOF‑Ru and PMOF‑RuFe(OH), the article does not explicitly provide precise details regarding the weighing of solid reagents. Therefore, no specific entries are included for this step, although the synthesis relies on accurate measurements of metal salts, organic linkers, and other additives.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 PMOF‑Ru
+- **Glacial Acetic Acid**: Poured 82 μL (dissolved in 1.5 mL DMF) and subsequently sealed in a 5 mL vial. This precise liquid handling ensures that the modulator is introduced consistently into the solvothermal system.
+
+##### 3.1.2.2 PMOF‑RuFe(OH)
+No explicit details on liquid transfer are provided for the post‑synthetic modification step that introduces the iron species into PMOF‑RuFe(OH).
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 PMOF‑Ru
+- **Precursor Solution**: Mixed by first stirring at room temperature overnight to ensure complete dissolution and interaction of the Zr‑based components with organic linkers. This is followed by an ultrasonic treatment for 0.5 hours to further homogenize the mixture and promote uniform nucleation during the solvothermal reaction.
+
+##### 3.1.3.2 PMOF‑RuFe(OH)
+- **Post‑synthetic Mixture**: After the incorporation of the metalation reagent (FeCl₃·6H₂O in THF), the resultant mixture is stirred at room temperature for 20 minutes to facilitate binding of the iron species to the framework. This is then followed by 2 hours of photo‑activation in water, a step critical for converting the initial Fe–Cl bonding into the active Fe–OH sites.
+
+This structured approach—grouping operations under each MOF variant—ensures that every phase of reagent preparation is clearly documented, thereby enhancing the reproducibility and precision of the MOF synthesis experiments.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: PMOF‑RuFe(OH)
+
+##### Step 1: Precursor Preparation  
+- **Reagents**:  
+  - ZrCl₄ (10.0 mg, 43 μmol, 99.9%)  
+  - H₂bpydc (9.0 mg, 37 μmol, 98%)  
+  - [Ru(bpy)₂(H₂bpydc)]Cl₂ (2.0 mg, 4 μmol)  
+  - Glacial acetic acid (82 µL, 1.44 mmol, 99.7%)  
+- **Conditions**:  
+  - Dissolve all precursors in 1.5 mL DMF at room temperature using continuous stirring until complete dissolution.  
+- **Process**:  
+  - Combine the metal salt, linker, and photosensitizer complex in DMF, then add glacial acetic acid, which acts as a modulator to help control nucleation and crystal growth.  
+  - Immediately seal the mixture in a 5 mL vial to maintain a controlled reaction environment.  
+- **Key Steps**:  
+  - Ensure complete dissolution for uniform precursor distribution, critical for subsequent MOF assembly.
+
+##### Step 2: MOF Assembly/Crystallization  
+- **Reagents**:  
+  - Precursor solution from Step 1  
+- **Conditions**:  
+  - Heat the sealed vial at 100 °C for 72 hours under solvothermal conditions.  
+- **Process**:  
+  - Transfer the sealed vial to a heating block or place in a Teflon-lined autoclave.  
+  - Maintain the temperature precisely to facilitate the formation of the UiO‑67 type framework.  
+  - Cool to room temperature gradually before further handling.  
+- **Key Steps**:  
+  - Strict temperature control is essential to ensure proper crystallization.
+
+##### Step 3: Purification, Drying & Activation  
+- **Process**:  
+  - Recover the solid product by filtration and wash several times with DMF and THF to remove impurities and residual reactants.  
+  - Dry the purified solid at 50 °C under vacuum overnight.  
+- **Key Steps**:  
+  - Multiple washes and controlled drying are vital for achieving the desired purity and activation state.
+
+##### Step 4: Post-synthetic Modification  
+- **Reagents**:  
+  - FeCl₃·6H₂O (60 mg) dissolved in 10 mL THF  
+- **Conditions**:  
+  - Sonicate a suspension of 60 mg MOF in 10 mL THF for 0.5 hours; then stir at room temperature overnight.  
+- **Process**:  
+  - After modification, subject the solid to visible-light irradiation in water for 2 hours to trigger ligand exchange—converting PMOF‑RuFe(Cl) to PMOF‑RuFe(OH)—thereby forming the active mono‑iron hydroxyl sites.  
+- **Key Steps**:  
+  - Photo‑activation is critical to achieve the final active MOF catalyst.
+
+This detailed workflow—covering primary precursor preparation, controlled crystallization, systematic purification, drying, and precise post‑synthetic modification—provides a clear, reproducible protocol for synthesizing PMOF‑RuFe(OH) under the described experimental conditions.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD  
+• Operational Description: PXRD was performed to assess the crystallinity and phase purity of the synthesized MOF, confirming the retention of the UiO-type framework.  
+• Instruments and Models: Philips X'pert X-ray diffractometer.  
+• Characterization Conditions: Utilized Cu Kα radiation (λ = 1.5406 Å) at 40 kV and 30 mA.  
+• Test Parameters: Although specific 2θ scan ranges, step sizes, and scan rates were not provided, the technique reliably confirmed structural integrity.  
+• Key Notes: Pulverized samples were measured directly, ensuring that the diffraction patterns reflected the bulk material's phase distribution.
+
+### 4.2 FTIR  
+• Operational Description: FTIR spectroscopy was employed to monitor the coordination of carboxylate linkers and the formation of Fe–OH groups.  
+• Instruments and Models: Thermo Scientific Nicolet iS5-IR spectrometer operating in attenuated total-reflection (ATR) mode.  
+• Characterization Conditions: Spectra acquired over the range 4000–400 cm⁻¹.  
+• Test Parameters: Standard ATR parameters were used to capture the infrared absorption features critical for functional group analysis.  
+• Key Notes: Minimal sample preparation was required beyond placing the MOF on the ATR crystal.
+
+### 4.3 TGA/DSC  
+• Operational Description: Thermal analysis was conducted to evaluate the MOF’s thermal stability and decomposition profile.  
+• Instruments and Models: TA SDT-600 thermogravimetric analyzer.  
+• Characterization Conditions: Measurements under an air flow of 100 mL/min with a heating rate of 2 °C/min; samples were preconditioned by solvent exchange and outgassing at 80 °C under vacuum for 12 hours.  
+• Test Parameters: Temperature ramp and mass-loss profiles provided insights into thermal decomposition thresholds.  
+• Key Notes: The technique highlights the temperature limits and stability of the framework.
+
+### 4.4 SEM/TEM/EDS  
+• Operational Description: Microscopy was used to elucidate the MOF crystal morphology and elemental distribution.  
+• Instruments and Models: SEM performed on a Quanta FEG 650; TEM on a Philips Analytical FEI Tecnai F30 operating at 300 kV, with EDS for elemental mapping.  
+• Characterization Conditions: Standard imaging conditions were applied without any special coating or mounting modifications.  
+• Test Parameters: Qualitative imaging and elemental distribution profiles were recorded.  
+• Key Notes: Ensured the uniform dispersion of Ru, Fe, and other components within the framework.
+
+### 4.5 BET Surface Area Analysis  
+• Operational Description: N₂ adsorption–desorption isotherms were measured to determine the surface area and porosity of the MOF.  
+• Instruments and Models: 3Flex or Tristar gas sorption analyzer.  
+• Characterization Conditions: Samples degassed at 80 °C under vacuum for 12 hours; adsorption conducted at 77 K; analysis within P/P₀ = 0.05–0.30.  
+• Test Parameters: BET method was applied to derive surface area values.  
+• Key Notes: Revealed a ~50% decrease in porosity upon post-synthetic metalation.
+
+### 4.6 XPS  
+• Operational Description: XPS was employed to evaluate the chemical state and surface composition of the MOF.  
+• Instruments and Models: Instrument model was not specified.  
+• Characterization Conditions: Specific vacuum levels and radiation details were not provided.  
+• Test Parameters: Standard XPS acquisition parameters were assumed.  
+• Key Notes: Complemented compositional insights obtained from other spectroscopic methods.
+
+### 4.7 Solid-State NMR  
+• Operational Description: ¹H NMR spectroscopy was performed to probe the local chemical environment within the MOF framework.  
+• Instruments and Models: B400 Bruker Avance III and B500 Bruker Avance II+ spectrometers.  
+• Characterization Conditions: Referenced to residual proton signals from D₂O, CDCl₃, and DMSO‑d₆.  
+• Test Parameters: Standard acquisition parameters for solid-state NMR were employed.  
+• Key Notes: Offered detailed insights into the framework’s structure and the interaction of the functional groups.
+
+### 4.8 UV-Vis Spectroscopy  
+• Operational Description: UV‑Vis analysis was conducted to assess the light absorption properties relevant to the MOF’s photocatalytic function.  
+• Instruments and Models: Hitachi U‑3010 spectrophotometer.  
+• Characterization Conditions: Operating conditions (wavelength range, sample concentration) were standard, ensuring accurate measurement of absorption features.  
+• Test Parameters: Data acquisition was performed under typical UV‑Vis settings.  
+• Key Notes: This technique supports the understanding of the MOF’s light‐harvesting capabilities essential for catalysis.
+
+### 4.9 EXAFS  
+• Operational Description: EXAFS was utilized to investigate the local bonding environment around the active metal centers.  
+• Instruments and Models: Details were not explicitly provided.  
+• Characterization Conditions: Standard EXAFS conditions assumed for probing local structure under in situ circumstances.  
+• Test Parameters: Analysis focused on detecting subtle changes in coordination geometry.  
+• Key Notes: The technique complements XPS by providing electronic and structural insights with high sensitivity.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+The activation of the MOF catalyst is a critical pre-use treatment aimed at converting the post‑synthetic Fe–Cl sites to active Fe–OH sites. This conversion enhances the catalyst’s performance for methane oxidation by establishing mono‑iron hydroxyl centers, which are essential for efficient C–H bond activation.
+
+#### 5.1.1 Photo‑Activation Process  
+• **Definition:** Photo‑activation involves irradiating the MOF catalyst to induce a ligand exchange reaction, effectively replacing labile Cl ligands with hydroxide ions. This transformation is essential for generating the catalytically active PMOF‑RuFe(OH) species.  
+• **Experimental Conditions:** The process is carried out by dispersing the PMOF‑RuFe(Cl) catalyst in deoxygenated water and subjecting it to visible‑light irradiation using a Xe lamp fitted with a 400–780 nm filter. The photo‑activation step is performed at ambient conditions for 2 hours.  
+• **Observations:** Following the 2‑hour irradiation, analytical techniques (including XPS and Raman) confirm the elimination of chloride signatures and the emergence of hydroxyl-related features. This successful ligand exchange correlates with enhanced methanol yield and selectivity during CH₄ oxidation, validating the formation of the active Fe–OH sites.
+
+#### 5.1.2 Aqueous and Ambient Conditions  
+• **Definition:** The aqueous environment during activation not only serves as the solvent but also supplies the necessary hydroxide ions for the exchange reaction.  
+• **Experimental Conditions:** The entire activation is conducted at room temperature without additional heating, ensuring that the MOF framework remains intact and that residual solvents from the prior THF washing step are effectively managed.  
+• **Observations:** The absence of external temperature stress contributes to the structural stability of the framework while facilitating the efficient exchange of Cl for OH. This mild activation process is distinctly separate from thermal or vacuum treatments used in characterization protocols.
+
+The deliberate integration of the photo‑activation step with the post‑synthetic metalation ensures that the catalyst transitions smoothly from its Fe–Cl precursor to the catalytically active Fe–OH form, directly impacting its performance in the selective conversion of CH₄ to CH₃OH.
+
+### 5.2 Application/Performance Evaluation
+
+#### 5.2.1 Test Temperature  
+- **Definition:** The test temperature defines the thermal setting under which the catalytic reaction is carried out, influencing reaction kinetics and selectivity.  
+- **Experimental Conditions:** Photocatalytic evaluations were performed under ambient conditions, approximately 25 °C, ensuring simplicity and energy efficiency.  
+- **Observations:** Ambient temperature enabled efficient CH₄ activation while preserving the integrity of the MOF, contributing to complete selectivity toward CH₃OH.
+
+#### 5.2.2 Pressure Conditions  
+- **Definition:** Pressure during the test governs the partial pressures of the reactants and influences adsorption equilibria within the MOF pores.  
+- **Experimental Conditions:** The oxidation experiments were conducted under atmospheric pressure (approximately 1 bar), negating the need for high-pressure systems.  
+- **Observations:** Operating at atmospheric conditions simplifies reactor design and maintains catalyst stability, as no significant leaching of metals was observed over prolonged testing.
+
+#### 5.2.3 Reaction Gas Composition  
+- **Definition:** The gas composition used in performance evaluation is critical for ensuring the correct stoichiometry and reaction pathways.  
+- **Experimental Conditions:** The reaction medium comprised CH₄ (as the carbon source), O₂ (serving as the oxidant), and water (acting both as the solvent and to facilitate product desorption).  
+- **Observations:** The presence of O₂ was essential for initiating the photocatalytic cycle, while water accelerated CH₃OH desorption from the porous MOF, leading to 100% selectivity.
+
+#### 5.2.4 Flow Conditions and Duration  
+- **Definition:** Flow conditions pertain to the rate at which the reaction media passes over the catalyst, impacting mass transfer and catalyst exposure time.  
+- **Experimental Conditions:** Continuous-flow experiments maintained stable operational performance for over 120 h, under conditions that allowed for immediate removal of the formed methanol.  
+- **Observations:** The dynamic testing ensured minimal over-oxidation, with rapid CH₃OH desorption preventing product accumulation within the framework.
+
+#### 5.2.5 Photocatalytic Performance  
+- **Definition:** Photocatalytic performance encompasses the efficiency and rate at which CH₄ is converted into CH₃OH.  
+- **Experimental Conditions:** Under visible-light irradiation, the modified PMOF‑RuFe(OH) catalyst achieved a reported time yield of 12.6 mmol·g_cat⁻¹·h⁻¹.  
+- **Observations:** The synergistic interaction among the Ru photosensitizer, polyoxometalate, and mono‑iron hydroxyl active sites enhanced charge separation and CH₄ activation, underpinning the high catalytic performance.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** The crystal structure and phase purity of the MOF materials were assessed using powder X-ray diffraction (PXRD). This technique verifies the retention of the intended framework and the absence of impurity phases, which is critical for ensuring consistent catalytic performance.
+- **Findings:** PXRD patterns of PMOF‑RuFe(OH), PMOF‑Ru, and PMOF‑RuFe(Cl) matched the simulated pattern of UiO‑67, confirming that the UiO‑67-type framework was preserved throughout synthesis and post-synthetic modifications. No impurity peaks were detected in any sample.
+- **Observations:** The structural integrity of the MOF was maintained after post-synthetic metalation and catalytic testing, indicating high phase purity and robustness.
+
+#### 6.1.2 Surface Area and Porosity
+- **Description:** Surface area and porosity were determined by N₂ adsorption isotherms at 77 K, with BET analysis providing quantitative values. These parameters are essential for evaluating the accessibility of active sites and the material’s capacity for guest molecule adsorption.
+- **Findings:** The BET surface area of PMOF‑Ru was reduced by approximately 50% following post-synthetic metalation to form PMOF‑RuFe(Cl), indicating successful incorporation of Fe species and other functional groups within the MOF pores. The pore size distribution remained open, confirming that the framework was not blocked.
+- **Observations:** The significant decrease in surface area directly evidences the integration of catalytic components, while the preserved porosity supports efficient mass transport during catalysis.
+
+#### 6.1.3 Morphology and Elemental Distribution
+- **Description:** Scanning electron microscopy (SEM) and transmission electron microscopy (TEM), combined with energy-dispersive X-ray spectroscopy (EDX), were used to examine particle morphology and elemental homogeneity. These analyses are vital for confirming uniformity and compositional integrity.
+- **Findings:** SEM images revealed distorted octahedral crystals for all MOF variants. EDX mapping and TEM/HAADF imaging demonstrated homogeneous distribution of Ru, Fe, W, and V throughout the MOF particles, both before and after catalysis.
+- **Observations:** The uniform morphology and elemental dispersion confirm successful integration of the photosensitizer, polyoxometalate clusters, and iron sites, which is crucial for synergistic catalytic activity.
+
+#### 6.1.4 Chemical Composition and Coordination Environment
+- **Description:** FTIR, Raman, and X-ray photoelectron spectroscopy (XPS) were employed to probe the coordination environment of linkers and metal centers, as well as to confirm post-synthetic transformations.
+- **Findings:** FTIR spectra showed characteristic carboxylate coordination to Zr₆ nodes. After photo-activation, a negative peak at 3617 cm⁻¹ (O–H stretch) and the absence of Fe–Cl features confirmed the formation of Fe–OH groups. XPS analysis indicated Fe³⁺ as the predominant oxidation state, with Fe 2p₃/₂ and 2p₁/₂ peaks at 710 and 723 eV, and additional features consistent with Fe–OH. The presence of V (V⁵⁺/V⁴⁺), W⁶⁺, and Ru²⁺ was also confirmed.
+- **Observations:** The spectroscopic data collectively validate the successful ligand exchange (Cl⁻ to OH⁻) and the chemical environments of all key components.
+
+#### 6.1.5 Thermal Stability
+- **Description:** Thermogravimetric analysis (TGA) was used to assess the thermal stability and compositional changes of the MOF materials. This analysis is important for determining operational limits and framework robustness.
+- **Findings:** Initial weight loss between 25–300 °C corresponded to solvent removal, while further loss between 300–500 °C was attributed to ligand decomposition. The residual mass increased with post-synthetic metalation (30.3% for PMOF‑Ru, 35.7% for PMOF‑RuFe(Cl), 40.7% for PMOF‑RuFe(OH)), indicating successful incorporation of additional components.
+- **Observations:** The MOF framework remains stable up to ~300 °C, with decomposition occurring above this temperature, supporting its suitability for catalytic applications under mild conditions.
+
+#### 6.1.6 Host–Guest Interactions and Active Site Formation
+- **Description:** Inelastic neutron scattering (INS) coupled with DFT calculations was utilized to investigate host–guest interactions and the formation of catalytically active sites.
+- **Findings:** INS revealed that CH₄ binds to the mono-iron hydroxyl site via hydrogen bonding (Fe–OH···CH₄ distance = 2.39 Å), weakening the C–H bond as evidenced by a red shift in the C–H stretching vibration. The transformation from Fe–Cl to Fe–OH was confirmed by the disappearance of Fe–Cl features and the emergence of Fe–OH signals in spectroscopic analyses.
+- **Observations:** These results provide direct evidence for the formation of the [Fe–OH···CH₄] binding motif, which is central to the observed catalytic activity.
+
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Catalytic Activity: Methane to Methanol Conversion
+- **Description:** Catalytic activity is quantified by the time yield of methanol (CH₃OH) produced per gram of catalyst per hour (mmol·g_cat⁻¹·h⁻¹) and the iron turnover number (Fe-TON), defined as the number of CH₃OH molecules generated per iron active site.
+- **Experimental Data:** Under continuous-flow photo-oxidation at ambient temperature and pressure, PMOF‑RuFe(OH) achieved a CH₃OH time yield of 8.81 ± 0.34 mmol·g_cat⁻¹·h⁻¹ (18,908 ± 730 mmol·mol_Fe⁻¹·h⁻¹). In batch mode, the yield was 3,145 ± 340 µmol·g_cat⁻¹·h⁻¹ (6,750 ± 730 mmol·mol_Fe⁻¹·h⁻¹), with a cumulative Fe-TON of 135 ± 16. The quantum efficiency was measured at 0.07.
+- **Observations and Trends:** The catalyst outperformed state-of-the-art photocatalysts and natural methane monooxygenase in both activity and efficiency. The presence of mono-iron hydroxyl sites, photosensitizer, and polyoxometalate clusters was essential for optimal performance, as confirmed by control experiments.
+
+#### 6.2.2 Selectivity
+- **Description:** Selectivity refers to the proportion of CH₃OH among all products, calculated as:  
+  \[
+  \text{Selectivity} = \frac{\text{moles of CH}_3\text{OH produced}}{\text{total moles of products}} \times 100\%
+  \]
+- **Experimental Data:** In flow mode, CH₃OH selectivity reached 100%, with CH₃OH as the only liquid product detected. In batch mode, selectivity was 98% under ambient conditions. Trace CO₂ (<2%) was the only byproduct observed.
+- **Observations and Trends:** Rapid desorption of CH₃OH from the MOF matrix, facilitated by water, minimized over-oxidation and ensured high selectivity. Isotopic labeling confirmed CH₄ as the sole carbon source.
+
+#### 6.2.3 Cycling Stability and Durability
+- **Description:** Cycling stability assesses the retention of catalytic performance over repeated reaction cycles, while durability evaluates structural and compositional integrity post-reaction.
+- **Experimental Data:** PMOF‑RuFe(OH) maintained high activity and selectivity over 120 h of continuous-flow operation and 10 consecutive batch cycles (totaling 200 h), with negligible loss in performance. The accumulated Fe-TON reached 2,269 ± 88 over 120 h.
+- **Observations and Trends:** Post-reaction analyses (SEM, TEM, PXRD, IR, UV–vis, N₂ sorption, XAS) showed no significant changes in morphology, crystallinity, or oxidation state, and minimal leaching of active sites, confirming robust catalyst stability.
+
+#### 6.2.4 Synergistic Effects and Mechanistic Insights
+- **Description:** The cooperative function of the MOF matrix, photosensitizer, and polyoxometalate clusters is critical for efficient photocatalysis.
+- **Experimental Data:** Catalysts lacking any component or using physical mixtures exhibited only trace CH₃OH production.
+- **Observations and Trends:** The integrated design enabled effective charge separation, O₂ reduction, and C–H activation, resulting in superior activity and selectivity compared to systems with isolated or missing components.
+
+
+
+根据提供的文献内容，生成实验流程复现文献实验

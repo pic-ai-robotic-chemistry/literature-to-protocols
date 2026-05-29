@@ -1,0 +1,658 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# Anhydrous proton conduction at 150 8C in a crystalline metal–organic framework
+
+Jeff A. Hurd1 , Ramanathan Vaidhyanathan1 , Venkataraman Thangadurai1 , Christopher I. Ratcliffe2, Igor L. Moudrakovski2 and George K. H. Shimizu1 \*
+
+Metal organic frameworks (MOFs) are particularly exciting materials that couple porosity, diversity and crystallinity. But although they have been investigated for a wide range of applications, MOF chemistry focuses almost exclusively on properties intrinsic to the empty frameworks; the use of guest molecules to control functions has been essentially unexamined. Here we report Na3(2,4,6-trihydroxy-1,3,5-benzenetrisulfonate) (named b-PCMOF2), a MOF that conducts protons in regular one-dimensional pores lined with sulfonate groups. Proton conduction in b-PCMOF2 was modulated by the controlled loading of 1H-1,2,4-triazole (Tz) guests within the pores and reached 5 3 102<sup>4</sup> S cm2<sup>1</sup> at 150 8C in anhydrous H2, as confirmed by electrical measurements in H2 and D2, and by solid-state NMR spectroscopy. To confirm its potential as a gas separator membrane, the partially loaded MOF (b-PCMOF2(Tz)0.45) was also incorporated into a H2/air membrane electrode assembly. The resulting membrane proved to be gas tight, and gave an open circuit voltage of 1.18 V at 100 8C.
+
+Metal organic frameworks (MOFs) are breakthrough materials characterized by tunable pores permeating regular molecular scaffoldings1,2. These inorganic solids couple the variety of potential ligands from coordination chemistry with the topological diversity of solid-state chemistry. To date, most research on MOFs has focused on gas storage applications3 , with particular interest for hydrogen4,5, carbon dioxide6,7 and methane<sup>8</sup> . These solids are noted for their crystallinity, which enables molecular-level structure determination by X-ray techniques. Transport phenomena, such as ion conduction, are more widely associated with disordered structures as movement of components in a solid typically disfavors crystallinity and, to date, studies on transport properties in crystalline MOF-type materials are rare9–11.
+
+A phenomenon increasingly evidenced in coordination polymer materials is their ability to undergo reversible structural changes in the solid state in response to guest molecules, temperature or pressure12–15. For porous network solids, this point is itself remarkable as the solid must also be sufficiently stable to sustain pores. MOFs have shown the ability to reconcile stability and structural dynamics, and often achieve this with retention of crystallinity. Our team has been pursuing organosulfonate MOFs as the sulfonate group imparts 'adaptable' coordinative properties<sup>16</sup> that are often manifested as reversible solid-state dynamics. Given that, and the well-established role of macromolecular sulfonic acid polymers as proton conductors17–20, we undertook a study of sulfonated MOFs as proton-conducting solids.
+
+From the perspective of synthesizing new materials, there are several potential advantages to this approach. The open framework structure of MOFs could allow for controlled guest loading with non-volatile proton carriers, enabling proton conduction over 100 8C. Being in the microporous realm, the open structure could be blocked with guest molecules to prevent hydrogen fuel crossover in a fuel cell configuration. From a design perspective, owing to the crystallinity of MOFs, molecular level insights into transport phenomena could be gained. Coupling this with the modularity of MOF synthesis could open the door to a wide range of potentially better ion conductors. Here, we report a crystalline sulfonate coordination material, b-PCMOF2 (proton conducting metal organic framework 2) with channels that can be loaded with amphoteric heterocycles to exhibit proton conduction under anhydrous H2 at 150 8C. This is a new domain for MOF materials and also a different approach to proton-conducting solids21. The results are enabled by not only the controlled loading of certain guests in a MOF, but also by the specific stoichiometries of that guest. As a step towards application, we show that loaded b-PCMOF2 can function both as a proton conductor and gas separator in a membrane electrode assembly (MEA) and exhibit open circuit voltages (OCVs) over 1.1 V at 100 8C for a H2-air fuel cell. This is significant as membrane materials that function above the boiling point of water are needed for widespread use of proton exchange membrane (PEM) and direct methanol fuel cells (DMFCs).
+
+### Results
+
+The trisodium salt of 2,4,6-trihydroxy-1,3,5-benzenetrisulfonate, L, can be prepared as a lower-temperature a-phase (not discussed here) and a higher-temperature b-phase. b-PCMOF2, crystallizes in a honeycomb structure with one-dimensional pores lined with sulfonate groups. The L molecules are disordered because of rotation in the plane of the benzene ring; each part of Fig. 1 represents one position of the molecule. The X-ray structure shows hexagonal sheets of L molecules, in the crystallographic ab plane, crosslinked in the third dimension by Na ions to form channels (Fig. 1a). The channels in b-PCMOF2 have an 18-membered periphery with a diameter of 5.65(2)–5.91(2) Å measured between Na ions and the transannular O atoms. The Na<sup>þ</sup> ions are eight-coordinate and ligated by two hydroxyl (Na1–O6 ¼ 2.669(2)–2.676(2) Å) and six sulfonate oxygen atoms (Na1–O ¼ 2.350(2)–2.798(2) Å). The sheets of ligands are packed efficiently with the nearest intermolecular C...C distance at 3.987(2) Å (Fig. 1b). Significantly, the pores are lined exclusively with oxygen atoms of sulfonate groups (Fig. 1c,d) to form a potential hydrogen-bond transfer pathway. Figure 2 shows powder X-ray
+
+<sup>1</sup> Department of Chemistry, University of Calgary, Calgary, Alberta, T2N 1N4, Canada, <sup>2</sup> Steacie Institute for Molecular Sciences, National Research Council, 100 Sussex Drive, Ottawa, Ontario K1A 0R6, Canada. \*e-mail: [gshimizu@ucalgary.ca](mailto:gshimizu@ucalgary.ca)
+
+![](_page_1_Figure_2.jpeg)
+
+Figure 1 | Single-crystal X-ray structure of b-PCMOF2. Grey, C; red, O; yellow, S; cyan, Na. a, A ball-and-stick representation of a single layer showing the open 18-membered channels. b, A space-filling diagram perpendicular to the pores, showing the packing of the aryl groups down the crystallographic c-axis. c, A space-filling diagram down the axis of the pores. d, A space-filling diagram of the cross-section of one pore, showing the high degree of sulfonation.
+
+data confirming that b-PCMOF2 can be prepared as a matching bulk sample.
+
+Solid-state ion conduction involves passage of an ion between favourable binding sites. In polymers such as Nafion, sulfonic acid aggregates act as scaffoldings for water-mediated proton transfer18–20. To assess whether the 'persulfonated' pore wall structure in b-PCMOF2 could conduct protons, two-probe a.c. impedance spectroscopy was performed (Supplementary Figs S10–S13). Experiments were performed using porous carbon electrodes, anhydrous hydrogen gas and varying temperature and humidity. The impedance plots of b-PCMOF2 at 150 8C were resolved using the equivalent circuit (RbCPEb)(RgbCPEgb)(CPEel) where R<sup>b</sup> ¼ resistance inherent to the bulk material; Rgb ¼ resistance attributed to interfacial grain-boundary contributions; CPE ¼ contributions to account for the depressed, versus perfect, semicircle due to non-ideal capacitance—so called constant phase elements—for bulk (b), grain boundary (gb) and electrode (el) contributions. The impedance plots were reproducible during heating and cooling cycles. The CPEb value was of the order 102<sup>11</sup> F at high frequency and about 102<sup>9</sup> F at low frequency regions of the semicircle, typical for bulk and grain-boundary contributions. The spike at low frequency is attributed to electrode polarization. At 30 8C, b-PCMOF2(H2O)0.5 conducts protons at 5.0 - 102<sup>6</sup> S cm2<sup>1</sup> (Fig. 3). Heating above 70 8C causes dehydration and a decrease in conduction to below 102<sup>8</sup> S cm2<sup>1</sup> . To examine hydration dependence, the sample was humidified prior to the analysis of b-PCMOF2(H2O)0.6. Over the temperature range analysed, the conductivity was raised by 0.5–1.0 orders of magnitude, but above 70 8C conductivity still dropped below 102<sup>7</sup> S cm2<sup>1</sup> . Loss of proton conduction with dehydration is typical for sulfonated ionomers because, for Grotthus or vehicle mechanisms, H2O molecules are critical18–20.
+
+For PEMs and direct methanol fuel cells, a major challenge is proton conduction above 100 8C (see below)17–23. An approach to attain this goal is to replace water as the proton carrier with an amphoteric N-heterocycle, such as imidazole24,25. The imidazole/imidazolium pair can transfer protons via a Grotthus-type mechanism and are also a less volatile base–acid pair. As the channels in b-PCMOF2, were sufficiently large to include such heterocycles, this approach was examined. Our results with 1H-1,2,4-triazole (Tz) are presented here. In our studies, Tz was found to be a superior anhydrous proton transfer agent than imidazole, as has been put forth by Liu26.
+
+Uniform loading of one-dimensional channels is a challenge as the core regions of individual particles are often inaccessible27. Incorporation of the heterocycle into the channels of b-PCMOF2 was achieved by in situ loading of Tz into the a-phase and conversion to the b-phase with heating as confirmed by several techniques (see Supplementary Information). Powder X-ray diffraction (PXRD) showed that the Tz-loaded networks were isostructural to the unloaded hydrated b-phase (Fig. 2) and 13C and <sup>1</sup> H solid-state NMR (Supplementary Figs S17–S22) confirmed framework retention and the absence of free triazole. Samples of b-PCMOF2(Tz)<sup>x</sup> were prepared with various controlled loadings (x ¼ 0.3, 0.45, 0.6).
+
+Typical impedance plots of hydrated and Tz-loaded b-PCMOF2, obtained using porous carbon electrodes at 150 8C, show at low
+
+![](_page_2_Figure_2.jpeg)
+
+Figure 2 | Comparison between the simulated and experimental powder X-ray diffraction (PXRD) patterns for b-PCMOF2. Black: simulation from the single-crystal structure of b-PCMOF2. Red: a bulk preparation of b-PCMOF2. Blue: a bulk preparation of b-PCMOF2(Tz)0.45. The patterns for the x ¼ 0.3 and 0.6 loadings are analogous. Green: a sample of a b-PCMOF2(Tz)0.45 run after impedance experiments with two cycles of heating to 150 8C. There is a slight shift to higher 2u values, which is attributed to dehydration of the sample in the first run.
+
+temperatures a semicircle in the high frequency region and a tail at low frequencies (Supplementary Figs S11–S14). The tail at low frequencies may be due to mobile ions being blocked by the electrode– electrolyte interfaces and/or instrument limitations in observing the low-frequency electrode polarization region. Owing to large overlaps at high temperature, the bulk, grain-boundary and electrode contributions were unable to be separated. Therefore, the low-frequency minimum/intercept along the Z<sup>0</sup> -axis of the impedance plots was used to estimate bulk resistance. Accordingly, the reported calculated electrical conductivity may be considered as the lower limit of the actual bulk conductivity of these PCMOFs. Samples were run through two cycles of heating to 150 8C (holding for 12 h) and were then cooled to 23 8C in anhydrous H2 with excellent reproducibility. Comparable a.c. impedance plots are observed for a wide range of known proton conductors<sup>28</sup> including Nafion membranes18–20,29, CsHSO4 (ref. 30), phosphotungstic acid/ polystyrenesulfonic acid composites31, uracil alkylphosphate composites32, and Ta-doped Ba3(CaNb)3O9 double perovskites33.
+
+Impedance analyses show that the loaded b-PCMOF2(Tz)<sup>x</sup> samples are much better proton conductors than their unloaded, hydrated counterparts, and indeed function above 100 8C. The data also confirm a dependence of proton conductivity on Tz loading. Figure 3 shows Arrhenius plots from the impedance analysis of four samples of b-PCMOF2(Tz)<sup>x</sup> (x ¼ 0, 0.30, 0.45 and 0.60). At 150 8C, the conductivity measured for x ¼ 0.30, 0.45 and 0.60 Tz-loaded samples reached roughly 2 - 102<sup>4</sup> S cm2<sup>1</sup> , 5 - 102<sup>4</sup> S cm2<sup>1</sup> , and 4 - 102<sup>4</sup> S cm2<sup>1</sup> , respectively. Neither pure triazole nor pure b-PCMOF2 show proton conductivity above 102<sup>6</sup> S cm2<sup>1</sup> . PXRD analyses confirmed the retention of the original structure after impedance analyses (Fig. 2).
+
+In order to confirm that the observed electrical effects were due to proton conduction, and not electron or Na<sup>þ</sup> conduction, a.c. impedance experiments were performed in H2 and D2, with and without gas diffusion electrodes. In Fig. 4, the a.c. impedance plots of PCMOF-2(Tz)0.3 in anhydrous H2 and D2, with gas diffusion electrodes, are shown. Interestingly, three clear semicircles due to bulk, grain-boundary and electrode polarization contributions were observed in both H2 and D2. A noteworthy feature is the absence of the tail at low frequencies indicating the non-blocking nature of the electrolyte–electrode interfaces. Also, for D2, the expected kinetic isotope effect was observed in that the bulk resistance was 1.5 times higher than H2, which is consistent with deuteron versus proton migration33.
+
+For the b-phase, in the bulk PXRD (Fig. 2), a broad 'hump' centered at 20.58 2u was observed. This feature was present both with pure and Tz-loaded b-PCMOF2. Two possible explanations exist. The first is that an amorphous-like impurity was present, which is disconcerting as a less-ordered phase could contribute to ion conduction. The second explanation is that the broad peak arose from the b-PCMOF2 sample itself. As the anomaly was present in pure b-PCMOF2, it could not be attributed to the triazole loading. A key point in ionic conduction measurements is that sufficient electrolyte must be present to form a continuous pathway between electrodes; assuming a random particle distribution, at least half the material should be composed of the conducting phase. The phase purity of b-PCMOF2 was examined by scanning electron microscopy (SEM) and showed a homogeneous sample of plate-like crystallites (Supplementary Figs S23–S26). The exact sample shown in the SEM images in Supplementary Figure S24a,b gave the PXRD pattern shown in Fig. 2. Furthermore, if the 'hump' represented a different phase, some change in its relative proportion would be anticipated with different preparative conditions; no such variation was observed through six trials. With the crosslinked layered structure of b-PCMOF2, we believe the broad peak most likely originates from incommensurate lattice packing. b-PCMOF2 does not conduct protons in the absence of triazole even though the broad peak appears in its PXRD pattern.
+
+The activation energy for proton conduction was calculated by fitting the electrical conductivity data to the Arrhenius equation. b-PCMOF2(Tz)x, x ¼ 0.3, clearly demonstrated Arrhenius behaviour over the investigated range of 23–150 8C with an activation energy of 0.51 eV. The x ¼ 0.45 and 0.6 samples exhibited a change in slope and two activation energies have been determined. For the x ¼ 0.45 sample, the activation energy was 1.8 eV between 50 and 90 8C, and 0.34 eV between 90 and 150 8C. For the x ¼ 0.6 sample, the activation energy was 1.87 eV between 23 and 80 8C, and 0.56 eV between 80 and 150 8C. Lower activation energies at higher temperatures have also been observed in other solid-state
+
+![](_page_2_Figure_10.jpeg)
+
+Figure 3 | Comparison of the Arrhenius plots of b-PCMOF2, [b-PCMOF2(Tz)0.3], [b-PCMOF2(Tz)0.45], and [b-PCMOF2(Tz)0.6] measured in anhydrous H2 atmospheres (data from the second heating cycles is shown to remove hydration). For comparison, the electrical conductivity for pure 1,2,4-triazole is also shown in pink. s, conductivity.
+
+![](_page_3_Figure_2.jpeg)
+
+Figure 4 | a.c. impedance plots of as-pressed pellets of b-PCMOF2(Tz)0.3 at 90 8C in dry H2 and D2. Both curves show clear separation of bulk, grain-boundary and electrode contributions, and the D2 plot (blue) shows the expected kinetic isotope effect relative to H2 (red). Measurements were performed using Pt–C gas diffusion electrodes (5 mg Pt m2<sup>2</sup> , ELAT, BASF fuel cell).
+
+ion conductors where superionic phase transitions enhance the mobility of ion vacancies30. Mechanistic studies with loading dependence are the subject of ongoing work but lower activation energies at higher loading would be consistent with facilitated hydrogen bond transfer by the heterocycles. Variable temperature <sup>1</sup> H magic angle spinning solid-state NMR studies (Supplementary Figs S19– S22) were performed on hydrated b-PCMOF2, b-PCMOF2(Tz)<sup>x</sup> (x ¼ 0.3, 0.6) and pure Tz up to 120 8C. These spectra confirm that the PCMOF structure was retained, that the triazole was incorporated (that is, no free Tz present) and that the protonation state of the Tz changed with temperature, all consistent with the proposed model.
+
+As a critical proof-of-principle experiment, to further confirm the potential of a MOF as a membrane, a membrane–electrode assembly with b-PCMOF2(Tz)0.45 was constructed and the electromotive force of the H2/air cell was measured. The MEA was prepared by tying platinum wires to porous Pt–C electrodes. b-PCMOF2(Tz)0.45 powder was pressed between the electrodes in a die, with the Pt wires away from the sample. A gas-tight connection, via a hollow ceramic tube, was made between the H2 source and the anode. The other side of the MEA was left open to air as the cathode. Electromotive force measurements (Fig. 5) showed an open circuit voltage of 1.18 V, stable for 72 h at 100 8C. There was a decrease in the OCV value to 0.93 and 0.77 V at 120 8C and 140 8C, respectively, which was attributed to fuel crossover.
+
+### Discussion
+
+In Fig. 6, we compare the proton conduction of [b-PCMOF2(Tz)0.3] with well-known proton conductors reported in the literature, particularly focusing on the region over 100 8C. Interestingly, the Tz-loaded PCMOF exhibits conductivity about four orders of magnitude higher than Zr-phosphate and b-alumina-based ceramic proton conductors24. It is also three orders of magnitude lower than that of fully hydrated Nafion and H3PO4-derived proton conductors24. However, the proton conductivity of Nafion and PBI-H3PO4 (ref. 34) depend highly on humidity, whereas the loaded PCMOF shows proton conduction in anhydrous conditions. More importantly, one can pose the question for the other materials charted, 'What are the options for rationally designing improvements?' From a materials design perspective, the MOF approach offers a precisely known structure and ample options for systematic, modular variation to improve conductivity and robustness.
+
+The demonstration of anhydrous proton conduction in a MOF is only a step towards applicability as a fuel cell membrane. Anhydrous proton conduction above 100 8C is significant to fuel cell technologies as, for PEMFC and DMFC systems, efficiencies are improved by operation above 100 8C17–23. The reasons are multifold and include: enhancing electrode kinetics; decreasing CO poisoning of Pt-based electrodes; management of only a single phase of water above 100 8C. However, basic issues that could disqualify this electrolyte include: the ability to construct a dense membrane from the powder; inadequate PCMOF/electrode contact; partial electronic conductivity of the MOF; or catastrophic fuel crossover. The open circuit voltage experiment on the PCMOF-electrode assembly shows that none of these potential issues are overriding; a guest-loaded, proton-conducting MOF can function to separate H2 from the cathode half-cell and sustain a marked potential difference across the electrolytic cell at 100 8C. With respect to fuel crossover, the one-dimensional pores shown in Fig. 1 would appear to invite passage of fuel between half-cells. However, a key point for b-PCMOF2 is that Tz sits in, and is only slightly smaller than, the pores (Tz is 4.21 Å across whereas the pores are 5.6 Å). The value of 1.18 V for an OCV is near the theoretical maximum, at 100 8C and 1 atm pressure, for the formation of water vapour from the H2–O2 cell (1.16 V). Although it is higher than the theoretical value, the uncertainty in our OCV measurement itself is +0.02 V, so it is within error. Further variation also comes from the temperature fluctuation in the tube furnace. The OCV value of 1.18 V at 100 8C is better than that of low temperature Nafion-based fuel cells35.
+
+To contrast the MOF approach with other crystalline materials, solid acids possess crystalline architectures, which give insight into the mechanism of ion conduction, and have shown very good proton conductivity well above 150 8C (ref. 36). Some of these materials can have both chemical and mechanical stability issues but there are options for varying inorganic components. However,
+
+![](_page_3_Figure_11.jpeg)
+
+Figure 5 | Open-circuit voltage measurements performed over time at different temperatures, using the following electrochemical cell: H2, Pt,Cjb-PCMOF2(Tz)0.45jPt,C, air. The relatively constant voltages at the different temperatures demonstrate the stability of the b-PCMOF2(Tz)0.45 material to the operating conditions. Note that the sample was equilibrated at each temperature prior to taking a measurement.
+
+708 NATURE CHEMISTRY | VOL 1 | DECEMBER 2009 |<www.nature.com/naturechemistry> **©** 2009 **Macmillan Publishers Limited. All rights reserved.**
+
+![](_page_4_Figure_2.jpeg)
+
+Figure 6 | Comparison of b-PCMOF2(Tz)0.3 with other proton-conducting materials. SWA is the highly hydrated silicotungstic acid H4SiW12O40†28H2O. sPSU-1,2,4-Tz is sulfonated polysulfone with intercalated 1H-1,2,4-triazole (where n refers to the ratio of Tz/SO3H). PBI is polybenzimidazole, where high and low refer to the H3PO4 content. (HOC2H4)2dtoaCu is N,N<sup>0</sup> -bis-(2-hydroxyethyl)dithiooxamidatocopper(II), a two-dimensional coordination polymer. PFSA-AS is a mesoporous aluminosilicate with covalently grafted perfluorosulfonic acid groups.
+
+the options to tune a solid acid framework by organic doping are not extensive as regular pores are not typically observed. Layered solid acids37,38, included in Fig. 6, will typically swell or exfoliate with hydration39. Comparison is also made to sulfonated three-dimensional mesoporous solids such as PFSA-alumina40. The mesopores in these solids enable covalent modification and hydrated samples to show good conductivity, but challenges with hydrogen fuel crossover can certainly be envisaged. The MOF approach merges the options to alter the inorganic components of the solid acid approach with the choice of organic components from the macromolecular approach in an open, crystalline architecture that can be made gastight by guest loading. With exact knowledge of the dimensions of a pore and the locations of hydrogen bond donors and acceptors, the pairing with the ideal proton transferring dopant could be made judiciously with sub-angstrom level insight.
+
+Research on MOFs has mainly focused on gas storage4,8. Transport phenomena, including ion conduction, have been virtually ignored. To date, two families have been reported that shows ion conductivity. Cu thiooxamides that conduct protons in the 102<sup>6</sup> –102<sup>5</sup> S cm2<sup>1</sup> range below 80 8C with hydration dependence9,10, and a recently reported ferrous oxalate hydrate that conducts on the order of 102<sup>3</sup> S cm2<sup>1</sup> at ambient conditions and 98% relative humidity11. One MOF has been reported with sulfonated pores but no conductivity studies were performed41. The extrinsic doping of a MOF to give proton conduction above 100 8C and its incorporation into a MEA to show a significant OCV are major advances. More generally, there are very few examples where an intrapore guest plays any role in the function of a MOF42,43. The guests may act as substrates for catalysis44–47 or sensing48,49, but typically they are simply removed to activate the pore for storage. This work represents a case where, not only is the nature of the guest fundamental to function, but the stoichiometry of loading is a determinant of performance.
+
+We have presented a new approach to high-temperature proton conducting materials based on metal organic frameworks. PCMOFs can be designed based on molecular-level insights to structure and conduction pathways. The selection of host and guest components for PCMOFs is vast and improvements can be made based on lessons learned from both macromolecular and solid acid approaches to proton conduction. Further, PCMOFs could be used, as inorganic salts have, with complementary polymer supports to form proton conducting nanocomposites50. Ongoing work in our lab includes more robust PCMOFs with higher proton conductivity, optimal guest matching and mechanistic studies.
+
+### Methods
+
+Procedure for the synthesis of b-PCMOF2. Anhydrous phloroglucinol (8.053 g, 63.86 mmol) was dissolved in dry dimethyl carbonate (200 ml) and the resulting yellow solution was cooled to 0 8C under argon. Chlorosulfonic acid (12.43 ml, 186.8 mmol, 2.925 equiv.) was added dropwise over the course of two minutes with vigorous stirring, resulting in an orange coloured solution. The reaction was warmed to ambient temperature and allowed to proceed for 1.5 h under a steady flow of Ar before the system was sealed and stirred for an additional 22.5 h. The solvent was then removed via rotary evaporation and the resulting viscous brown oil was dissolved in 150 ml of water. Sodium bicarbonate was added to the solution until it reached a pH of 2.0. Addition of the aqueous solution to 4 l of acetone resulted in the formation of a thick white precipitate, which was isolated via vacuum filtration. This phase (a) was then converted to the b-phase via heating in a bomb apparatus. As synthesized a-PCMOF2 (0.500 g, 1.16 mmol) was placed into a 20 ml teflon cup. To this, a mixture of water (5 ml), methanol (1.5 ml) and acetone (1.5 ml) was added. The teflon cup was then sealed in a hydrothermal bomb. The bomb was heated at 100 8C for 24 h and then cooled back to room temperature over a period of 12 h. The resulting white precipitate was isolated via vacuum filtration.
+
+General procedure for the synthesis of b-PCMOF2(Tz)0.3. Anhydrous phloroglucinol (6.150 g, 48.77 mmol) was dissolved in dry dimethyl carbonate (175 ml) and the resulting yellow solution cooled to 0 8C under Ar. Chlorosulfonic acid (9.50 ml, 143 mmol, 2.93 equiv.) was added dropwise over the course of two minutes with vigorous stirring, resulting in an orange coloured solution. The reaction was warmed to ambient temperature and allowed to proceed for 1.5 h under a steady flow of Ar before the system was sealed and stirred for an additional 22.5 h. The solvent was then removed via rotary evaporation and the resulting viscous brown oil dissolved in water to a concentration of 125 mg ml2<sup>1</sup> . 1,2,4-Triazole (3.283 g, 47.54 mmol,) was then added to the aqueous solution and allowed to stir for 24 h. Sodium bicarbonate (5.992 g, 71.33 mmol, 1.5 equiv.) was added to the solution, which was then precipitated via addition to 3 l of acetone. The resulting thick white precipitate was isolated via vacuum filtration. Similarly, a-PCMOF2(Tz)0.45 was prepared by adding 1.35 equivalents (relative to ligand) of NaHCO3, and a-PCMOF2(Tz)0.6 was prepared by adding 1.2 equivalents (relative to ligand) of NaHCO3, during preparation of the frameworks. The a-phases were then quantitatively converted to b-phase in a bomb apparatus. Approximately 2 g of as synthesized a-PCMOF2(Tz) was packed into a silicone tube, sealed and pressed under a hydrostatic pressure of 5,000 kg for 2 min. The resulting pellet was removed from the silicone tube and placed into a 20 ml teflon cup, along with a vial containing 0.5 ml of water. The teflon cup was then sealed in a hydrothermal bomb and heated at 80 8C for 8 h.
+
+Impedance spectroscopy. Impedance analysis was performed on pristine PCMOF powders without modification. All pellets were prepared by first grinding the samples into a homogeneous powder with a mortar and pestle. The powders (0.3 g) were then added to a standard 13 mm die, sandwiched between two porous carbon electrodes (Sigracet, GDL 10 BB, 1.222 cm diameter) and pressed at 5,000 kg for 2 min. All pellets were 13 mm in diameter and ranged in thickness from 1.30 to 1.38 mm. Measurements were performed using an impedance and gain-phase analyser (SI model 1260), 1 Hz–1 MHz, with a two-probe electrochemical cell equipped with platinum current collectors and an applied a.c. voltage of 10–100 mV (unless otherwise stated). Measurements were taken in the temperature range of 23 to 150 8C in either an anhydrous H2 or D2 atmosphere. Conductivity was calculated using the following equation : s ¼ l/R<sup>s</sup> S, where l and S are the thickness (cm) and cross-sectional area (cm<sup>2</sup> ) of the pellet respectively, and Rs, which was extracted directly from the impedance plots, is the bulk resistance of the sample (V).
+
+Full experimental details and characterization are provided as Supplementary Information.
+
+Received 20 July 2009; accepted 9 September 2009; published online 18 October 2009
+
+### References
+
+- 1. Kitagawa, S. & Matsuda, R. Chemistry of coordination space of porous coordination polymers. Coord. Chem. Rev. 251, 2490–2509 (2007).
+- 2. Yaghi, O. M. et al. Reticular synthesis and the design of new materials. Nature 423, 705–714 (2003).
+
+## ARTICLES NATURE CHEMISTRY [DOI: 10.1038/NCHEM.402](http://www.nature.com/doifinder/10.1038/nchem.402)
+
+- 3. Mueller, U. et al. Metal–organic frameworks- prospective industrial applications. J. Mater. Chem. 16, 626–636 (2006).
+- 4. Collins, D. J. & Zhou, H. C. Hydrogen storage in metal-organic frameworks. J. Mater. Chem. 17, 3154–3160 (2007).
+- 5. Choi, H. J., Dinca, M. & Long, J. R. Broadly hysteretic H2 adsorption in the microporous metal-organic framework Co(1,4-benzenedipyrazolate). J. Am. Chem. Soc. 130, 7848–7850 (2008).
+- 6. Wang, B., Coˆte´, A. P., Furukawa, H., O'Keeffe, M. & Yaghi, O. M. Colossal cages in zeolitic imidazolate frameworks as selective carbon dioxide reservoirs. Nature 453, 207–211 (2008).
+- 7. Vaidhyanathan, R., Iremonger, S. S., Dawson, K. W. & Shimizu, G. K. H. An amine-functionalized metal organic framework for preferential CO2 adsorption at low pressures. Chem. Commun. 5230–5232 (2009).
+- 8. Ma, S. Q. et al. Metal-organic framework from an anthracene derivative containing nanoscopic cages exhibiting high methane uptake. J. Am. Chem. Soc. 130, 1012–1016 (2008).
+- 9. Nagao, Y., Fujishima, M., Ikeda, R., Kanda, S. & Kitagawa, H. Highly protonconductive copper coordination polymers. Synth. Metals 133, 431–432 (2003).
+- 10. Nagao, Y. et al. Preparation and proton transport property of N,N<sup>0</sup> diethyldithiooxamidatocopper coordination polymer. Synth. Metals 154, 89–92 (2005).
+- 11. Yamada, T., Sadakiyo, M. & Kitagawa, H. High proton conductivity of one-dimensional ferrous oxalate dehydrate. J. Am. Chem. Soc. 131, 3144–3145 (2009).
+- 12. Serre, C. et al. Role of solvent-host interactions that lead to very large swelling of hybrid frameworks. Science 315, 1828–1831 (2007).
+- 13. Choi, H. J. & Suh, M. P. Dynamic and redox active pillared bilayer open framework: single-crystal-to-single-crystal transformations upon guest removal, guest exchange, and framework oxidation. J. Am. Chem. Soc. 126, 15844–15851 (2004).
+- 14. Bradshaw, D., Warren, J. E. & Rosseinsky, M. J. Reversible concerted ligand substitution at alternating metal sites in an extended solid. Science 315, 977–980 (2007).
+- 15. Chandler, B. D. et al. Mechanical gas capture and release in a network solid via multiple single crystalline transformations. Nature Mater. 7, 229 (2008).
+- 16. Shimizu, G. K. H. Assembly of metal ions and ligands with adaptable coordinative tendencies as a route to functional metal-organic solids. J. Solid State Chem. 178, 2519 (2005).
+- 17. Zhang, J. et al. High temperature PEM fuel cells. J. Power Sources 160, 872–891 (2006).
+- 18. Mauritz, K. A. & Moore, R. B. State of understanding of Nafion. Chem. Rev. 104, 4535–4586 (2004).
+- 19. Kreuer, K. D., Paddison, S. J., Spohr, E. & Schuster, M. Transport in proton conductors for fuel-cell applications: simulations, elementary reactions, and phenomenology. Chem. Rev. 104, 4637–4678 (2004).
+- 20. Li, Q. F., He, R. H., Jensen, J. O. & Bjerrum, N. J. Approaches and recent development of polymer electrolyte membranes for fuel cells operating above 100 8C. Chem. Mater. 15, 4896–4915 (2003).
+- 21. Shimizu, G. K. H., Hurd, J. A., Vaidhyanathan, R. & Taylor, J. M. Metal–organic solids for use in proton exchange membranes. US Patent, 2008/0160356 A1 (2008).
+- 22. Hickner, M. A., Ghassemi, H., Kim, Y. S., Einsla, B. R. & McGrath, J. E. Alternative polymer systems for proton exchange membranes (PEMs). Chem. Rev. 104, 4587–4612 (2004).
+- 23. Alberti, G. & Casciola, M. Solid state protonic conductors, present main applications and future prospects. Solid State Ionics 145, 3–16 (2001).
+- 24. Kreuer, K. D. Proton conductivity: materials and applications. Chem. Mater. 8, 610–641 (1996).
+- 25. Goward, G. R., Schuster, M. F. H., Sebastiani, D., Schnell, I. & Spiess, H. W. High-resolution solid-state NMR studies of imidazole-based proton conductors: Structure motifs and chemical exchange from <sup>1</sup> H NMR. J. Phys. Chem. B 106, 9322–9334 (2002).
+- 26. Li, S., Zhou, Z., Zhang, Y., Liu, M. & Li, W. 1H-1,2,4-Triazole: An effective solvent for proton-conducting electrolytes. Chem. Mater. 17, 5884–5886 (2005).
+- 27. Marti-Rujas, J., Desmedt, A., Harris, K. D. M. & Guillaume, F. Direct timeresolved and spatially resolved monitoring of molecular transport in a crystalline nanochannel system. J. Am. Chem. Soc. 126, 11124–11125 (2004).
+- 28. Irvine, J. T. S., Sinclair, D. C. & West, A. R. Electroceramics: Characterization by impedance spectroscopy. Adv. Mater. 2, 132–138 (1990).
+- 29. Casciola, M., Alberti, G., Sganappa, M. & Narducci, R. On the decay of Nafion proton conductivity at high temperature and relative humidity. J. Power Sources 162, 141–145 (2006).
+- 30. Haile, S. M., Chisholm, C. R. I., Sasaki, K., Boysen, D. A. & Uda, T. Solid acid proton conductors: from laboratory curiosities to fuel cell electrolytes. Faraday Discuss. 134, 17–39 (2007).
+- 31. Yamada, M. & Honma, I. Heteropolyacid-encapsulated self-assembled materials for anhydrous proton-conducting electrolytes. J. Phys. Chem. B 110, 20486–20490 (2006).
+- 32. Yamada, M. & Honma, I. An anhydrous proton conductor based on lactam-lactim tautomerism of uracil. ChemPhysChem 5, 724–728 (2004).
+- 33. Bhella, S. S. & Thangadurai, V. Synthesis and characterization of carbon dioxide and boiling water stable proton conducting double perovskite-type metal oxides. J. Power Sources 186, 311–319 (2009).
+- 34. Haile, S. Fuel cell materials and components. Acta Materialia 51, 5981–6000 (2003).
+- 35. Zhang, J. L., Tang, Y. H., Song, C. J., Zhang, J. J. & Wang, H. J. PEM fuel cell open circuit voltage (OCV) in the temperature range of 23 degrees C to 120 degrees C. J. Power Sources, 163, 532–537 (2006).
+- 36. Haile, S. M., Boysen, D. A., Chisholm, C. R. I. & Merle, R. B. Solid acids as fuel cell electrolytes. Nature 410, 910–913 (2001).
+- 37. Alberti, G., Boccali, L., Casciola, M., Massinelli, L. & Montoner, E. Protonic conductivity of layered zirconium phosphonates containing -SO3H groups. 3. Preparation and characterization of gamma-zirconium sulfoaryl phosphonates Solid State Ionics 84, 97–104 (1996).
+- 38. Casciola, M., Marmottini, F. & Peraio, A. AC conductivity of a-layered Zr phosphate in the presence of water vapor at 100–200 8C. Solid State Ionics 61, 125–129 (1993).
+- 39. Stein, E. W., Clearfield, A. & Subramanian, M. A. Conductivity of group IV metal sulfophosphonates and a new class of interstratified metal aminesulfophosphonates. Solid State Ionics 83, 113–124 (1996).
+- 40. Athens, G. L., Ein-Eli, Y. & Chmelka, B. F. Acid-functionalized mesostructured aluminosilica for hydrophilic proton conduction membranes. Adv. Mater. 19, 2580–2587 (2007).
+- 41. Horike, S. et al. Immobilization of sodium ions on the pore surface of a porous coordination polymer. J. Am. Chem. Soc. 128, 4222–4223 (2006).
+- 42. Alkordi, M. H., Liu, Y. L., Larsen, R. W., Eubank, J. F. & Eddaoudi, M. Zeolite-like metal-organic frameworks as platforms for applications: On metalloporphyrin-based catalysts. J. Am. Chem. Soc. 130, 12639–12641 (2008).
+- 43. Hermes, S., Schroder, F., Amirjalayer, S., Schmid, R. & Fischer, R. A. Loading of porous metal-organic open frameworks with organometallic CVD precursors: inclusion compounds of the type [LnM]a@MOF-5. J. Mater. Chem. 16, 2464–2472 (2006).
+- 44. Ohmori, O. & Fujita, M. Heterogeneous catalysis of a coordination network: cyanosilylation of imines catalyzed by a Cd(II)-(4,4<sup>0</sup> -bipyridine) square grid complex. Chem. Commun. 1586–1587 (2004).
+- 45. Dybtsev, D. N. et al. Homochiral metal–organic material with permanent porosity, enantioselective sorption properties, and catalytic activity. Angew. Chem. Int. Ed. 45, 916–920 (2006).
+- 46. Cho, S. H., Ma, B., Nguyen, S. B. T., Hupp, J. T. & Albrecht-Schmitt, T. E. A metal–organic framework material that functions as an enantioselective catalyst for olefin epoxidation. Chem. Commun. 2563–2565 (2006).
+- 47. Wu, C. D. & Lin, W. B. Heterogeneous asymmetric catalysis with homochiral metal–organic frameworks: Network-structure-dependent catalytic activity. Angew. Chem. Int. Ed. 46, 1075–1078 (2007).
+- 48. Neville, S. M. et al. Single-crystal to single-crystal structural transformation and photomagnetic properties of a porous iron(II) spin-crossover framework. J. Am. Chem. Soc. 130, 2869–2876 (2008).
+- 49. Katz, M. J., Ramnial, T., Yu, H. Z. & Leznoff, D. B. Polymorphism of Zn[Au(CN)2]2 and its luminescent sensory response to NH3 vapor. J. Am. Chem. Soc. 130, 10662–10673 (2008).
+- 50. Alberti, G. & Casciola, M. Composite membranes for medium-temperature PEM fuel cells. Annu. Rev. Mater. Sci. 33, 129–154 (2003).
+
+### Acknowledgements
+
+The authors thank the Western Canada Fuel Cell Initiative, Alberta Energy Research Institute, University Technologies International, Southern Alberta Intellectual Property Alliance, the Natural Sciences and Engineering Research Council of Canada and the Canadian Foundation for Innovation for funding.
+
+### Author contributions
+
+J.A.H. designed experiments, performed synthesis, characterization and property studies. R.V. grew crystals, performed crystallography and SEM/EDX. V.T. designed impedance and membrane electrode assembly experiments. C.I.R. and I.L.M. designed and performed solid state NMR experiments. G.K.H.S. conceived the project and drafted the manuscript. All authors discussed results and commented on the manuscript.
+
+### Additional information
+
+[Supplementary information](http://www.nature.com/sifinder/10.1038/nchem.402) accompanies this paper at<www.nature.com/naturechemistry>. Reprints and permission information is available online at [http://npg.nature.com/](http://npg.nature.com/reprintsandpermissions/) [reprintsandpermissions/.](http://npg.nature.com/reprintsandpermissions/) Correspondence and requests for materials should be addressed to [G.K.H.S.](mailto:gshimizu@ucalgary.ca)# **Proton Conduction at 150**°**C in a Nanoporous Metal-Organic Framework**
+
+Jeff A. Hurd<sup>1</sup> , Ramanathan Vaidhyanathan<sup>1</sup> , Venkataraman Thangadurai1 , Christopher I. Ratcliffe<sup>2</sup> , Igor L. Moudrakovski<sup>2</sup> and George K. H. Shimizu<sup>1</sup> \*
+
+> 1 Department of Chemistry, University of Calgary Calgary, Alberta, T2N 1N4, Canada
+
+2 Steacie Institute for Molecular Sciences, National Research Council, 100 Sussex Drive, Ottawa, Ontario K1A 0R6, Canada.
+
+AUTHOR EMAIL ADDRESS gshimizu@ucalgary.ca
+
+CORRESPONDING AUTHOR FOOTNOTE
+
+Dr. George K. H. Shimizu Department of Chemistry University of Calgary Calgary, Alberta T2N 1N4 Canada Ph: 1 403 220 5347 Fax: 1 403 289 9488
+
+*Materials and Methods* 
+
+*Section S1: Synthesis (pp. 2-6) Section S2: Single Crystal XRD of PCMOFs (pp. 7-12) Section S3: PXRD of PCMOFs (pp. 13-17) Section S4: IR, DSC/TGA, Elemental Analysis, Solution NMR (pp. 18-23) Section S5: Impedance analysis of PCMOFs (pp. 24-28) Section S6: EMF Studies of PCMOFs (pp. 29-31) Section S7: SS NMR of PCMOFs (pp. 32-38) Section S8: SEM of PCMOFs (pp. 39-43)* 
+
+*Section S1:* Synthetic procedures for the preparation of ȕ-PCMOF2, [ȕ-PCMOF2(Tz)0.3], **1**, [ȕ-PCMOF2(Tz)0.45], **2**, [ȕ-PCMOF2(Tz)0.6], **3**.
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_* 
+
+**General Synthetic Procedures:** Phloroglucinol (anhydrous) was obtained from Acros Organics. All other starting materials and solvents were obtained from Aldrich Chemical Co. and used without further purification. Yields reported here have not been optimized.
+
+**Synthesis of ȕ-PCMOF2.** Anhydrous phloroglucinol (8.0534 g, 63.86 mmol) was dissolved in dry dimethyl carbonate (200 mL) and the resulting yellow solution cooled to 0 o C under Ar. Chlorosulfonic acid (12.43 mL, 186.79 mmol, 2.925 equiv.) was added dropwise over the course of 2 minutes with vigorous stirring, resulting in an orange colored solution. The reaction was warmed to ambient temperature and allowed to proceed for 1.5 h under a steady flow of Ar before the system was sealed and stirred for
+
+an additional 22.5 h. The solvent was then removed via rotary evaporation and the resulting viscous, brown oil dissolved in 150 mL of water. Sodium bicarbonate was added to the solution until it reached a pH of 2.0. Addition of the aqueous solution to 4 L of acetone resulted in the formation of a thick white precipitate, which was isolated via vacuum filtration. Yield: 22.6073 g, 84%. This phase (Į) was then converted to the ȕphase via heating in a bomb apparatus. As synthesized Į-PCMOF2 (0.5000 g, 1.16 mmol) was placed into a 20 mL teflon cup. To this a mixture of water (5 mL), methanol (1.5 mL) and acetone (1.5 mL) was added. The teflon cup was then sealed in a hydrothermal bomb. The bomb was heated at 100 °C for 24 h and then cooled back to room temperature over a period of 12 hours. The resulting white precipitate was isolated via vacuum filtration. Yield: 0.4912 g, 98%.
+
+**Synthesis of [ȕ-PCMOF2(Tz)0.3], 1.** Prepared following the same procedure as that for ȕ-PCMOF2 except for one additional step, where 1,2,4-triazole was added after preparation of the ligand. Anhydrous phloroglucinol (6.1500 g, 48.77 mmol) was dissolved in dry dimethyl carbonate (175 mL) and the resulting yellow solution cooled to 0 o C under Ar. Chlorosulfonic acid (9.50 mL, 142.64 mmol, 2.925 equiv.) was added dropwise over the course of 2 minutes with vigorous stirring, resulting in an orange colored solution. The reaction was warmed to ambient temperature and allowed to proceed for 1.5 h under a steady flow of Ar before the system was sealed and stirred for an additional 22.5 h. The solvent was then removed via rotary evaporation and the resulting viscous, brown oil dissolved in water to a concentration of 125 mgmL-1. 1,2,4Triazole (3.2835 g, 47.54 mmol,) was then added to the aqueous solution and allowed to stir for 24 h. Sodium bicarbonate (5.9921 g, 71.33 mmol, 1.5 equiv.) was added to the solution, which was then precipitated via addition to 3 L of acetone. The resulting thick white precipitate was isolated via vacuum filtration. Yield: 10.6785 g, 61.3%. The Įphase was then quantitatively converted to ȕ-phase in a bomb apparatus. Approximately 2 g of as synthesized Į-PCMOF2(Tz)0.3 was packed into a silicone tube, sealed and pressed under a hydrostatic pressure of 5000 kg for 2 min. The resulting pellet was removed from the silicone tube and placed into a 20 mL teflon cup, along with a vial containing 0.5 mL of water. The teflon cup was then sealed in a hydrothermal bomb and heated at 80 °C for 8 h. Conversion to the ȕ-phase was confirmed via PXRD analysis.
+
+**Synthesis of [ȕ-PCMOF2(Tz)0.45], 2.** Prepared following the same procedure as that for ȕ-PCMOF2(Tz)0.3 except for the addition of 1.35 equivalents (relative to ligand) of NaHCO3 during the preparation of the framework. Yield: 10.5333 g, 61.1%. The resulting Į-phase was then converted to ȕ-phase via the same procedure as described above for ȕ-PCMOF2(Tz)0.3.
+
+**Synthesis of [ȕ-PCMOF2(Tz)0.6], 3.** Prepared following the same procedure as that for ȕ-PCMOF2(Tz)0.3 except for the addition of 1.20 equivalents (relative to ligand) of NaHCO3 during the preparation of the framework. Yield: 10.8796 g, 62.7%. The resulting Į-phase was then converted to ȕ-phase via the same procedure as described above for ȕ-PCMOF2(Tz)0.3.
+
+**Synthesis of deuterated ȕ-PCMOF2(Tz) (d-[ȕ-PCMOF2(Tz)0.5]) for <sup>2</sup> D NMR.** First 1,2,4-triazole was deuterated following a procedure modified from McDermott et al.x 1,2,4-triazole (1.6162 g, 23.40 mmol) was added to a 20 mL teflon cup. To this D2O (10 g, 499 mmol) was added. The teflon cup was then sealed in a hydrothermal bomb and heated at 200 °C for 4 hours. The deuterated product was isolated as a white powder by rotary evaporation. The percent deuteration was determined to be 95% via NMR. Yield = 1.6662, 94%. The d-[ȕ-PCMOF2(Tz)0.5] framework was prepared following a procedure similar to that for ȕ-PCMOF2(Tz)0.3 with a few modifications to limit H-D exchange. Anhydrous phloroglucinol (3.0649 g, 24.30 mmol) was dissolved in dry dimethyl carbonate (75 mL) and the resulting yellow solution cooled to 0 <sup>o</sup> C under Ar. Chlorosulfonic acid (4.73 mL, 71.09 mmol, 2.925 equiv.) was added dropwise over the course of 2 minutes with vigorous stirring, resulting in an orange colored solution. The reaction was warmed to ambient temperature and allowed to proceed for 1.5 h under a steady flow of Ar before the system was sealed and stirred for an additional 22.5 h. The solvent was then removed via rotary evaporation and the resulting viscous, brown oil dissolved in D2O to a concentration of 175 mgmL-1. Deuterated 1,2,4-triazole (0.3444 g, 4.78 mmol,) was then added to 10 mL ( 1.7500g, 4.78 mmol) of the solution and allowed to stir for 24 h. Sodium carbonate (0.3038 g, 2.87 mmol, 1.2 equiv.) was added to the solution, which was then precipitated via addition to 300 mL of freshly distilled acetone. The resulting thick white precipitate was isolated via vacuum filtration with a swivel frit. Yield: 0.6903 g, 33.4%. The Į-phase was then quantitatively converted to ȕ-phase in a bomb apparatus. Approximately 0.6 g of as synthesized d**-**[Į-PCMOF2(Tz)0.5] was
+
+## **doi: 10.1038/nchem.402** SUPPLEMENTARY INFORMATION
+
+packed into a silicone tube, sealed and pressed under a hydrostatic pressure of 5000 kg for 2 min. The resulting pellet was removed from the silicone tube and placed into a 20 mL teflon cup, along with a vial containing 0.25 mL of D2O. The teflon cup was then sealed in a hydrothermal bomb and heated at 80 °C for 8 h. Conversion to the ȕ-phase was confirmed via PXRD analysis.
+
+## *Section S2: Single Crystal XRD of PCMOFs.*
+
+Single-crystal diffraction experiments were conducted at 173K for `-PCMOF2. Crystallographic data have been deposited with the Cambridge Crystallographic Data Centre with the number CCDC 746416. Samples were collected using a Nonius Kappa CCD diffractometer with graphite monochromated Mo K radiation ( = 0.71069 Å) and equipped with a CCD detector. The intensity data collection was performed in the scanning mode with the goniometer and detector angular settings optimized using the program COLLECT.1 The crystal-to-detector distance was 30 mm. The unit cell and the orientation matrix were refined using the entire data set of reflections. The diffraction spots were measured in full with a high accuracy, scaled with SCALEPACK,<sup>1</sup> corrected for Lorentz-polarization correction, and integrated using DENZO.1 The crystallographic data and conditions for structure analysis are listed in Table 1. Structure solutions and refinements were run in SIR972 and SHELXL-973 , respectively. The structure model (non-hydrogen atoms) was readily obtained from successive difference Fourier maps. At the end of refinement, anisotropic displacement parameters and extinction coefficients were allowed to vary, with the resulting residuals listed in Table 1.
+
+1. COLLECT, DENZO, SCALEPACK, SORTAV, Kappa CCD Program Package; Nonius BV: Delft, The Netherlands, 1998.
+
+2. Altomare, A.; Burla, M. C.; Camalli, M.; Cascarano, G. L.; Giacovazzo, C.; Guagliardi, A.; Moliterni, A. G. G.; Polidori, G.; Spagna, R. *J. Appl. Crystallogr.* **1999**, *32*, 115.
+
+3. Sheldrick. G. M. *SHELXL-97, Program for crystal structure refinement*: University of Göttingen: Germany, 1997.
+
+**Table S1.** Crystal data and structure refinement for `-PCMOF2.
+
+| Empirical formula           | C12 Na6 O24 S6                                                                                          |
+|-----------------------------|---------------------------------------------------------------------------------------------------------|
+| Formula weight              | 858.42                                                                                                  |
+| Temperature                 | 293(2) K                                                                                                |
+| Wavelength                  | 0.71073 A                                                                                               |
+| Crystal system, space group | Trigonal, P3*                                                                                           |
+| Unit cell dimensions        | alpha = 90 °<br>a = 9.5120(13) A<br>beta = 90 °<br>b = 9.5120(13) A<br>gamma = 120 °<br>c = 3.9870(8) A |
+| Volume                      | 312.41(9) A^3                                                                                           |
+| Z, Calculated density       | 6, 2.281 Mg/m^3                                                                                         |
+| Absorption coefficient      | 0.769 mm^-1                                                                                             |
+
+| F(000)                          | 213                              |
+|---------------------------------|----------------------------------|
+| Crystal size                    | 0.1 x 0.06 x 0.06 mm             |
+| Theta range for data collection | 4.29 to 27.48 deg.               |
+| Limiting indices                | -12<=h<=12, -12<=k<=12, -5<=l<=4 |
+| Reflections collected / unique  | 2660 / 946 [R(int) = 0.0611]     |
+| Completeness to theta = 27.48   | 99.8 %                           |
+| Absorption correction           | None                             |
+| Refinement method               |                                  |
+|                                 | Full-matrix least-squares on F^2 |
+| Data / restraints / parameters  | 946 / 104 / 144                  |
+| Goodness-of-fit on F^2          | 1.117                            |
+| Final R indices [I>2sigma(I)]   | R1 = 0.0324, wR2 = 0.0652        |
+| R indices (all data)            | R1 = 0.0418, wR2 = 0.0689        |
+| Absolute structure parameter    | 0.16(13)                         |
+
+ \* Platon indicates higher symmetry may be present. In fact, the structure does solve statistically better in a hexagonal setting (R1 < 3%) but the structure solution requires disorders with bond angles that are not chemically rational .
+
+![](_page_8_Figure_2.jpeg)
+
+**Figure S1**. Thermal Ellipsoid Plot of `-PCMOF2. Ellipsoids of 50% probability are shown.
+
+**Table S2.** Atomic coordinates ( x 10<sup>4</sup> ) and equivalent isotropic displacement parameters (A<sup>2</sup> x 103 ) for `-PCMOF2 in P3. U(eq) is defined as one third of the trace of the orthogonalized Uij tensor.
+
+| Moiety | x                                                                                  | y        | z        | U(eq) |
+|--------|------------------------------------------------------------------------------------|----------|----------|-------|
+| Na(1)  | _______________________________________________________________________<br>6666(2) | -2172(1) | 14442(3) | 27(1) |
+| S(1)   | 7893(2)                                                                            | 777(2)   | 9450(3)  | 19(1) |
+| C(1)   | 5507(16)                                                                           | 1667(11) | 9446(19) | 20(6) |
+| C(2)   | 5018(13)                                                                           | 2846(17) | 9431(18) | 15(5) |
+| O(1)   | 6420(18)                                                                           | -839(13) | 9410(40) | 23(3) |
+| O(2)   | 8802(5)                                                                            | 1030(5)  | 12483(9) | 25(2) |
+| O(3)   | 8804(5)                                                                            | 1030(5)  | 6395(9)  | 26(2) |
+| O(6)   | 4324(5)                                                                            | 86(5)    | 9453(10) | 22(2) |
+| S(1')  | 5444(2)                                                                            | -444(2)  | 9445(3)  | 19(1) |
+| C(1')  | 7817(16)                                                                           | 2823(17) | 9484(19) | 10(5) |
+| C(2')  | 8302(14)                                                                           | 4493(15) | 9444(19) | 14(5) |
+| O(1')  | 6905(18)                                                                           | -621(17) | 9470(40) | 22(3) |
+| O(2')  | 4530(5)                                                                            | -1104(5) | 12495(9) | 26(2) |
+| O(3')  | 4526(5)                                                                            | -1106(5) | 6394(9)  | 25(2) |
+| O(6')  | 9006(5)                                                                            | 2435(5)  | 9465(10) | 21(2) |
+
+| Moiety                      | Distance (Å)<br>___________________________________________________________ |  |
+|-----------------------------|-----------------------------------------------------------------------------|--|
+|                             |                                                                             |  |
+| Na(1)-O(3')#1               | 2.346(4)                                                                    |  |
+| Na(1)-O(2')#2               | 2.348(4)                                                                    |  |
+| Na(1)-O(3)#3                | 2.350(4)                                                                    |  |
+| Na(1)-O(2)#4                | 2.352(4)                                                                    |  |
+| Na(1)-O(1')<br>Na(1)-O(1)#5 | 2.413(14)<br>2.425(15)                                                      |  |
+| Na(1)-O(1')#5               | 2.432(14)                                                                   |  |
+| Na(1)-O(1)                  | 2.447(15)                                                                   |  |
+| Na(1)-O(6')#4               | 2.668(4)                                                                    |  |
+| Na(1)-O(6)#2                | 2.669(4)                                                                    |  |
+| Na(1)-O(6)#1                | 2.676(4)                                                                    |  |
+| Na(1)-O(6')#3               | 2.682(4)                                                                    |  |
+| S(1)-O(2)                   | 1.435(4)                                                                    |  |
+| S(1)-O(3)                   | 1.444(4)                                                                    |  |
+| S(1)-O(1)                   | 1.474(12)                                                                   |  |
+| S(1)-C(2)#6                 | 1.785(11)                                                                   |  |
+| S(1)-Na(1)#7                | 3.1537(18)                                                                  |  |
+| C(1)-O(6)                   | 1.355(10)                                                                   |  |
+| C(1)-C(2)#6                 | 1.390(15)                                                                   |  |
+| C(1)-C(2)                   | 1.413(12)                                                                   |  |
+| C(2)-C(1)#8                 | 1.390(15)                                                                   |  |
+| C(2)-S(1)#8                 | 1.785(11)                                                                   |  |
+| O(1)-Na(1)#7                | 2.425(15)                                                                   |  |
+| O(2)-Na(1)#9                | 2.352(4)                                                                    |  |
+| O(3)-O(2)#7                 | 1.560(5)                                                                    |  |
+| O(3)-O(6')                  | 1.750(5)                                                                    |  |
+| O(3)-Na(1)#10               | 2.350(4)                                                                    |  |
+| O(3)-Na(1)#7                | 2.798(4)                                                                    |  |
+| O(6)-Na(1)#11               | 2.669(4)                                                                    |  |
+| O(6)-Na(1)#12               | 2.676(4)                                                                    |  |
+| S(1')-O(2')                 | 1.443(4)                                                                    |  |
+| S(1')-O(3')                 | 1.445(4)                                                                    |  |
+| S(1')-O(1')                 | 1.481(12)                                                                   |  |
+| S(1')-Na(1)#7               | 3.1537(17)                                                                  |  |
+| C(1')-O(6')                 | 1.354(10)                                                                   |  |
+| C(1')-C(2')                 | 1.415(12)                                                                   |  |
+| O(1')-Na(1)#7               | 2.432(14)                                                                   |  |
+| O(2')-Na(1)#11              | 2.348(4)                                                                    |  |
+| O(3')-Na(1)#12              | 2.346(4)                                                                    |  |
+| O(3')-Na(1)#7               | 2.800(4)                                                                    |  |
+| O(6')-Na(1)#9               | 2.668(4)                                                                    |  |
+| O(6')-Na(1)#10              | 2.682(4)                                                                    |  |
+
+**Table S3.** Bond lengths for `-PCMOF2 in P3.
+
+| Table S4. Bond angles for `-PCMOF2 in P3. |  |  |  |  |  |  |
+|-------------------------------------------|--|--|--|--|--|--|
+|-------------------------------------------|--|--|--|--|--|--|
+
+| Moiety                 | Angle (º)                                                     |
+|------------------------|---------------------------------------------------------------|
+| O(3)#3-Na(1)-O(1)#5    | 94.4(4)                                                       |
+| O(2)#4-Na(1)-O(1)#5    | 128.2(4)                                                      |
+| O(3)#3-Na(1)-O(1)      | 128.0(4)                                                      |
+| O(2)#4-Na(1)-O(1)      | 94.1(4)                                                       |
+| O(1)#5-Na(1)-O(1)      | 109.8(5)                                                      |
+| O(3)#3-Na(1)-O(6)#2    | 100.16(14)                                                    |
+| O(2)#4-Na(1)-O(6)#2    | 71.45(13)                                                     |
+| O(1)#5-Na(1)-O(6)#2    | 158.6(4)                                                      |
+| O(1)-Na(1)-O(6)#2      | 73.0(3)                                                       |
+| O(3)#3-Na(1)-O(6)#1    | 71.49(13)                                                     |
+| O(2)#4-Na(1)-O(6)#1    | 100.24(14)                                                    |
+| O(1)#5-Na(1)-O(6)#1    | 73.3(3)                                                       |
+| O(1)-Na(1)-O(6)#1      | 158.6(3)                                                      |
+| O(6)#2-Na(1)-O(6)#1    | 96.48(14)                                                     |
+| O(2)-S(1)-O(3)         | 114.9(3)                                                      |
+| O(2)-S(1)-O(1)         | 111.3(6)                                                      |
+| O(3)-S(1)-O(1)         | 110.0(7)                                                      |
+| O(2)-S(1)-C(2)#6       | 107.9(3)                                                      |
+| O(3)-S(1)-C(2)#6       | 107.4(3)                                                      |
+| O(1)-S(1)-C(2)#6       | 104.7(8)                                                      |
+| O(6)-C(1)-C(2)#6       | 123.4(13)                                                     |
+| O(6)-C(1)-C(2)         | 117.4(12)                                                     |
+| C(2)#6-C(1)-C(2)       | 119.2(11)                                                     |
+| C(1)#8-C(2)-C(1)       | 120.8(11)                                                     |
+| C(1)#8-C(2)-S(1)#8     | 122.5(11)                                                     |
+| C(1)-C(2)-S(1)#8       | 116.7(11)                                                     |
+| S(1)-O(1)-Na(1)#7      | 105.4(8)                                                      |
+| S(1)-O(1)-Na(1)        | 104.1(8)                                                      |
+| Na(1)#7-O(1)-Na(1)     | 109.8(5)                                                      |
+| S(1)-O(2)-O(3)#5       | 147.4(3)                                                      |
+| S(1)-O(2)-Na(1)#9      | 130.6(2)                                                      |
+| O(3)#5-O(2)-Na(1)#9    | 70.56(18)                                                     |
+| S(1)-O(2)-Na(1)        | 90.24(18)                                                     |
+| O(3)#5-O(2)-Na(1)      | 73.81(19)                                                     |
+| Na(1)#9-O(2)-Na(1)     | 139.19(16)                                                    |
+| S(1)-O(3)-O(2)#7       | 147.5(3)                                                      |
+| S(1)-O(3)-Na(1)#10     | 130.4(2)                                                      |
+| O(2)#7-O(3)-Na(1)#10   | 70.69(18)                                                     |
+| S(1)-O(3)-Na(1)#7      | 90.25(17)                                                     |
+| O(2)#7-O(3)-Na(1)#7    | 73.81(19)                                                     |
+| Na(1)#10-O(3)-Na(1)#7  | 139.31(16)                                                    |
+| C(1)-O(6)-Na(1)#11     | 121.5(5)                                                      |
+| C(1)-O(6)-Na(1)#12     | 121.2(5)                                                      |
+| Na(1)#11-O(6)-Na(1)#12 | 96.48(14)                                                     |
+|                        | _____________________________________________________________ |
+
+ Symmetry transformations used to generate equivalent atoms: #1 -x+y+1,-x,z+1 #2 -x+y+1,-x,z #3 -y+1,x-y-1,z+1 #4 -y+1,x-y-1,z #5 x,y,z+1 #6 -y+1,x-y,z #7 x,y,z-1 #8 -x+y+1,-x+1,z #9 -x+y+2,-x+1,z #10 -x+y+2,-x+1,z-1 #11 -y,x-y-1,z #12 -y,x-y-1,z-1
+
+## **doi: 10.1038/nchem.402** SUPPLEMENTARY INFORMATION
+
+|  |  |  |  |  |  |                                         |  |  |  | Table S5. Anisotropic displacement parameters (A2 x 103) for `-PCMOF2 |  |
+|--|--|--|--|--|--|-----------------------------------------|--|--|--|-----------------------------------------------------------------------|--|
+|  |  |  |  |  |  |                                         |  |  |  | in P3.The anisotropic displacement factor exponent takes the form: -2 |  |
+|  |  |  |  |  |  | pi2 [ h2 a*2 U11 +  + 2 h k a* b* U12 ] |  |  |  |                                                                       |  |
+
+| _______________________________________________________________________<br>Moiety | U11   | U22                                                                     | U33   | U23   | U13   | U12   |
+|-----------------------------------------------------------------------------------|-------|-------------------------------------------------------------------------|-------|-------|-------|-------|
+|                                                                                   |       | _______________________________________________________________________ |       |       |       |       |
+| Na(1)                                                                             | 34(1) | 26(1)                                                                   | 24(1) | 0(1)  | 0(1)  | 17(1) |
+| S(1)                                                                              | 21(1) | 18(1)                                                                   | 20(1) | 0(1)  | 0(1)  | 11(1) |
+| C(1)                                                                              | 11(7) | 18(5)                                                                   | 17(3) | 0(2)  | 0(4)  | -3(7) |
+| C(2)                                                                              | 15(5) | 10(16)                                                                  | 19(3) | 3(5)  | -3(2) | 5(8)  |
+| O(1)                                                                              | 21(7) | 17(5)                                                                   | 36(3) | -2(2) | -2(4) | 13(4) |
+| O(2)                                                                              | 29(3) | 25(2)                                                                   | 25(3) | 0(2)  | -4(2) | 16(2) |
+| O(3)                                                                              | 30(3) | 25(2)                                                                   | 24(3) | -2(2) | 6(2)  | 14(2) |
+| O(6)                                                                              | 15(3) | 20(2)                                                                   | 28(3) | -2(2) | 0(2)  | 6(2)  |
+| S(1')                                                                             | 21(1) | 16(1)                                                                   | 22(1) | 0(1)  | 0(1)  | 9(1)  |
+| C(1')                                                                             | 7(7)  | 8(15)                                                                   | 14(3) | -3(5) | -5(4) | 4(9)  |
+| C(2')                                                                             | 14(6) | 19(8)                                                                   | 18(3) | 0(4)  | 1(2)  | 15(6) |
+| O(1')                                                                             | 20(7) | 22(5)                                                                   | 26(3) | 0(2)  | -4(4) | 12(5) |
+| O(2')                                                                             | 27(3) | 24(2)                                                                   | 27(3) | 5(2)  | 6(2)  | 12(2) |
+| O(3')                                                                             | 27(3) | 22(2)                                                                   | 25(3) | -7(2) | -6(2) | 12(2) |
+| O(6')                                                                             | 14(3) | 19(3)                                                                   | 29(3) | -1(2) | 0(2)  | 9(2)  |
+| _______________________________________________________________________           |       |                                                                         |       |       |       |       |
+
+## *Section S3: PXRD of PCMOFs.*
+
+PXRD was used to validate the structures of the as synthesized PCMOFs. In addition, the effects of a) pressing the PCMOF powders into pellets and b) exposing those pellets to impedance analysis were also probed. Data was collected on a Rigaku Multiflex 'theta-theta' X-ray diffractometer equipped with a PSPC scintillation counter using a CuK� tube (�ҏ= 1.5418 Å) operated at 40 kV and 40 mA. Samples for analysis were ground into fine powders using a mortar and pestle. They were then mounted onto a zero background sample holders and the surface of the powders leveled using a glass slide. A scan range of 2-theta = 3º to 60º, with a scan speed of 0.66 deg/min and a sampling width equal to 0.04º were employed. Following collection, the data was processed using winJADE software.
+
+**Figure S2**: Comparison of pristine ȕ-PCMOF2 and the single crystal of ȕ-PCMOF2. Bottom: PXRD pattern of ȕ-PCMOF2 simulated from the single crystal data. Top: PXRD pattern of pristine ȕ-PCMOF2. Note that the patterns match with the exception of the "hump" at ~20.5 °, which is absent in the simulated pattern. The pristine ȕ-PCMOF2 pattern is representative of that obtained for the hydrated ȕ-PCMOF2 sample.
+
+![](_page_12_Figure_5.jpeg)
+
+**Figure S3**: Effect of pellet preparation and impedance analysis on ȕ-PCMOF2. Bottom: PXRD pattern of pristine ȕ-PCMOF2. Middle: PXRD pattern of ȕ-PCMOF2 pressed into a pellet at 5000 kg for 2 minutes. Top: PXRD of the same pellet after impedance analysis. Note that all three patterns match. The patterns are representative of those obtained for the hydrated ȕ-PCMOF2 sample.
+
+![](_page_13_Figure_3.jpeg)
+
+**Figure S4**: Comparison of the structure of ȕ-PCMOF2(Tz) with ȕ-PCMOF2. Bottom: PXRD pattern of ȕ-PCMOF2 simulated from the single crystal data. Middle: PXRD pattern of pristine ȕ-PCMOF2. Top: PXRD pattern of pristine ȕ-PCMOF2(Tz). Note that all three patterns match.
+
+![](_page_14_Figure_3.jpeg)
+
+**Figure S5**: Example of the effect of pellet preparation and impedance analysis on pristine ȕ-PCMOF2(Tz) samples. Bottom: PXRD pattern of pristine [ȕ-PCMOF2(Tz)0.3], **1**. Middle: PXRD pattern of pristine [ȕ-PCMOF2(Tz)0.3], **1** pressed into a pellet at 5000 kg for 2 minutes. Top: PXRD of the same pellet after impedance analysis. Note that all three patterns match. The patterns are representative of those obtained for the [ȕ-PCMOF2(Tz)0.45], **2** and [ȕ-PCMOF2(Tz)0.6], **3** samples.
+
+![](_page_15_Figure_3.jpeg)
+
+## **doi: 10.1038/nchem.402** SUPPLEMENTARY INFORMATION
+
+**Figure S6**: Comparison of the structure of deuterated ȕ-PCMOF2(Tz) [d-ȕ-PCMOF2(Tz)] with ȕ-PCMOF2(Tz). Bottom: PXRD pattern of ȕ-PCMOF2 simulated from the single crystal data. Middle: PXRD pattern of pristine ȕ-PCMOF2(Tz). Top: PXRD pattern of pristine deuterated ȕ-PCMOF2(Tz). Note that all three patterns match.
+
+![](_page_16_Figure_3.jpeg)
+
+#### *Section S4: IR, DSC/TGA, Elemental Analysis, <sup>1</sup> H NMR of PCMOFs*
+
+*Materials and Methods-FT-IR:* FT-IR data was used to help verify the identity of the PCMOF materials. The FT-IR spectra were obtained as KBr pellets using a Nicolet Nexus 470 spectrometer.
+
+**Figure S7:** FT-IR spectrum of pristine ȕ-PCMOF2. The peaks at 3539 and 3430 cm-1 corresponds to the presence of water molecules in the framework and aromatic O-H stretching of the ligand.<sup>1</sup> Aromatic C-H stretching is present in the region 2780-2980 cm-1 . 1 Bands corresponding to the aromatic ring are observed between 600-800 cm-1 and 1300-1630 cm-1. 1 Bands corresponding to the fundamental and spilt i3 S-O stretching modes are found in the region 1000-1240cm-1. 1
+
+![](_page_17_Figure_5.jpeg)
+
+## **doi: 10.1038/nchem.402** SUPPLEMENTARY INFORMATION
+
+**Figure S8:** FT-IR spectrum of pristine [ȕ-PCMOF2(Tz)0.3], **1**. The broad peak at 3548 cm -1 corresponds water molecules in the framework, aromatic O-H stretching of the ligand and N-H stretching of 1,2,4-triazole.1,2 The band at 3133 cm-1 corresponds to C-H stretching of 1,2,4-triazole.2 Aromatic C-H stretching is present in the region 2780-3000 cm-1. 1 Bands corresponding to the aromatic ring are observed between 600-800 cm-1 and 1300-1630 cm-1. 1 Finally, bands corresponding to the fundamental and spilt i3 S-O stretching modes are found in the region 1000-1240cm-1. 1 The spectrum is representative of those obtained for [ȕ-PCMOF2(Tz)0.45], **2** and [ȕ-PCMOF2(Tz)0.6], **3**.
+
+![](_page_18_Figure_3.jpeg)
+
+(1): J. Cai, C. Chen, C. Liao, J. Yao, X. Hu and X. Chen, *J. Chem. Soc., Dalton Trans.* **2001,** 1137-1142.
+
+ (2): V. A. Lopyrev, N, K, Beresneva, and B. K. Strelets, *Khimiya Geterotsiklicheskikh Soedinenii* **1969,** 5(4), 732-735.
+
+#### *Materials and Methods - Thermal Gravimetric Analysis (TGA), Differential Scanning Calorimetry (DSC), Elemental Analysis (EA) and Proton Nuclear Magnetic Resonance ( 1 H NMR) of PCMOFs.*
+
+DSC/TGA was performed to determine the thermal stability of the PCMOF materials. Crystallographically, the chemical formula of the PCMOF frameworks discussed in this paper (i.e. ȕ-PCMOF2, ȕ–PCMOF2(Tz)0.3, ȕ–PCMOF2(Tz)0.45 and ȕ–PCMOF2(Tz)0.6) was determined to be Na3L, where the ligand (L) is C6H3S3O12. Ea data was also used to confirm this formula, as well as the purity of each of the samples. In addition, EA data in combination with <sup>1</sup> H NMR and TGA data were used to determine the number of guest molecules (i.e. 1,2,4-triazole and/or water) in each framework and thereby derive a formula for each material. TGA/DSC experiments were carried out on a Netzsch 449C Simultaneous Thermal Analyzer in a nitrogen atmosphere. Samples (~ 5 mg of powder) were placed in aluminum pans, and referenced against an empty pan for the DSC measurements. Typical heating programs involved data collection between 25 and 440 ºC with heating rates of 5 deg/min. <sup>1</sup> H NMR experiments were performed on a Bruker Avance 400 MHz spectrometer. The 1,2,4-triazole in each sample was quantified by comparing the Tz resonance against that of an acetonitrile internal standard. EA data was obtained on a Control Equipment Corporation Model 440 system, with samples weighed in ambient laboratory atmosphere. All samples were run as duplicates.
+
+**Figure S9.** Thermal analysis of ȕ-PCMOF2. TGA showed that the material underwent a two-step weight loss. The first step, between 25 and 300 °C is very gradual and resulted from the loss of water from the solid. The second step, beginning at 300 °C, corresponded to thermal degradation of the solid. DSC showed three peaks, broad endothermic peaks at 30 °C and 320 °C and a sharp endothermic peak at 378 °C, corresponding to the weight loss steps in the thermogram. A similar thermogram, with a slightly larger first weight loss step was obtained for the hydrated ȕ-PCMOF2 sample.
+
+![](_page_20_Figure_3.jpeg)
+
+**Table S6.** Quantifying molecules of guest in ȕ-PCMOF2 with TGA.
+
+| Step | Temperature | % weight loss | Number of Guest |
+|------|-------------|---------------|-----------------|
+|      | Range (°C)  |               | Molecules       |
+| 1    | 25 - 300    | 2.10          | 0.5 H2O         |
+
+Therefore: [Na3L]•0.5H2O: Theoretical %C = 16.33, %H = 0.91, %N = 0
+
+**Table S7.** EA of ȕ-PCMOF2.
+
+| Element | Experimental |
+|---------|--------------|
+| %C      | 16.16        |
+| %H      | 0.82         |
+| %N      | 0            |
+
+The theoretical and experimental values match within reason. Therefore, the formula established for the ȕ-PCMOF2 network was [Na3L]•0.5H2O.
+
+\*Similarly, the formula established for the hydrated ȕ-PCMOF2 framework was [Na3L]•0.6H2O.
+
+**Figure S10.** Thermal analysis of [ȕ-PCMOF2(Tz)0.45], **2**. TGA showed a four-step weight loss. The first two weight loss steps from 25 – 100 °C and 100 – 250 °C resulted from the loss of water from the solid. The third weight loss step from 250 - 298 °C, corresponded to loss of 1,2,4-triazole from the framework. The fourth step, beginning at 360 °C, corresponded to thermal degradation of the framework. DSC showed three endothermic peaks, two broad peaks at 40 and 280 °C (corresponding to loss of water and 1,2,4-triazole, respectively), and a sharp endothermic peak at 389 °C (corresponding to framework degradation). Similar thermograms were obtained for both the [ȕ-PCMOF2(Tz)0.3], **1** and [ȕ-PCMOF2(Tz)0.6], **3** samples, with variations in mass loss corresponding to the differing amounts of water and 1,2,4-triazole guests in each framework.
+
+![](_page_21_Figure_4.jpeg)
+
+| Step |            | Temperature<br>% weight loss |                              |
+|------|------------|------------------------------|------------------------------|
+|      | Range (°C) |                              | Number of Guest<br>Molecules |
+| 1    | 25 - 100   | 1.66                         | 0.41 H2O                     |
+| 2    | 100 - 250  | 2.58                         | 0.64 H2O                     |
+| 3    | 250 - 298  | 6.77                         | 0.45 Tz                      |
+
+**Table S8.** Quantifying molecules of guest in ȕ-PCMOF2(Tz)0.45 with TGA.
+
+Therefore: [Na3L]•0.45(1,2,4-triazole)•1.05H2O: Theor. %C = 17.19, %H = 1.35, %N = 3.92
+
+**Table S9.** EA of ȕ-PCMOF2(Tz)0.45.
+
+| Element | Experimental |
+|---------|--------------|
+| %C      | 17.25        |
+| %H      | 1.36         |
+| %N      | 3.86         |
+
+The theoretical and experimental values match within reason. <sup>1</sup> H NMR also validates the ratio of 0.45Tz:ligand. Therefore, the formula established for the ȕ-PCMOF2(Tz)0.45 network was [Na3L]•0.45(1,2,4-triazole)•1.05H2O.
+
+\*Similarly: [ȕ-PCMOF2(Tz)0.3], **1** was found to be [Na3L]•0.3(1,2,4-triazole)•1.09H2O.
+
+[ȕ-PCMOF2(Tz)0.6], **3** was found to be [Na3L]•0.6(1,2,4-triazole)•1.28H2O.
+
+### *Section S5: Impedance analysis of PCMOFs.*
+
+*Materials and Methods- Impedance Analysis of PCMOFs.* 
+
+Impedance analysis was performed on pristine PCMOF powders without modification. All pellets were prepared by first grinding the samples into a homogeneous powder with a mortar and pestle. The powders (~0.3 g) were then added to a standard 13 mm die, sandwiched between two porous carbon electrodes (Sigracet, GDL 10 BB, 1.222 cm diameter) and pressed at 5000 kg for 2 min.
+
+*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_* 
+
+ȕ-PCMOF2 was also analyzed by first hydrating the solid prior to preparation of the pellet. In this procedure, approximately 0.3 g of sample was placed into a 30 mL beaker, the beaker placed into an 8 oz jar with 60 mL distilled water and the jar sealed for 12 h. Pellets of the hydrated powder was then prepared as outlined above.
+
+All pellets were 13 mm in diameter and ranged in thickness from 1.30 to 1.38 mm. Measurements were performed using an impedance and gain-phase analyzer (SI model 1260), 1 Hz - 1 MHz, with a two-probe electrochemical cell equipped with platinum current collectors and an applied AC voltage of 10 - 100 mV (unless otherwise stated). Measurements were taken in the temperature range of 23 to 150 °C in an anhydrous H2 or D2 atmosphere. Conductivity was calculated using the following equation : ı = l/RsS, where l and S are the thickness (cm) and cross-sectional area (cm2 ) of the pellet respectively, and Rs is the bulk resistivity of the sample (ȍ), which Rs was extracted directly from the impedance plots.
+
+**Figure S11.** Comparison of the Arrhenius plots for ȕ-PCMOF2 measured in an anhydrous H2 atmosphere with and without initial sample hydration. The procedure for hydrating the sample was outlined in the *Materials and Methods, Section S5*. Red circles = powder was hydrated prior to preparation of the pellet for analysis; blue triangles = as synthesized material. The higher conductivity of the hydrated sample, suggests that water functions as a proton carrier in this system. As expected, with heating, water is lost from the framework and conductivity decreases.
+
+![](_page_24_Figure_3.jpeg)
+
+**Figure S12.** Representative Nyquist plots of ȕ-PCMOF2 measured in anhydrous H2 with and without initial sample hydration. The procedure for hydration is given in *Section S5*. The lines through the points of the 23 °C and 150 °C plots represent fits for the following equivalent circuits: 23°C, (RbCPEb)(CPEel); 150°C,(RbCPEb)(RgbCPEgb)(CPEel).
+
+![](_page_25_Figure_3.jpeg)
+
+ȕ-
+
+hyd
+
+**Figure S13.** Comparison of the Arrhenius plots for [ȕ-PCMOF2(Tz)0.3], **1**, [ȕ-PCMOF2(Tz)0.45], **2**, [ȕ-PCMOF2(Tz)0.6], **3**, measured in anhydrous H2 atmospheres. ȕ-PCMOF2(Tz)0.3: heating cycle 1 = solid green circles, cooling cycle 1 = open green circles, heating cycle 2 = solid green triangles, cooling cycle 2 = open green triangles. ȕ-PCMOF2(Tz)0.45: heating cycle 1 = solid blue circles, cooling cycle 1 = open blue circles, heating cycle 2 = solid blue triangles, cooling cycle 2 = open blue triangles. ȕ-PCMOF2(Tz)0.6: heating cycle 1 = solid red circles, cooling cycle 1 = open red circles, heating cycle 2 = solid red triangles, cooling cycle 2 = open red triangles. Note for all 3 samples: after each heating cycle, the sample temperature was maintained at 150 ºC for 12 – 18 hours, prior to taking measurements for the subsequent cooling cycle. Also the sample temperature was maintained at 23 ºC for ~12 h after cooling cycle 1, prior to taking measurements for heating cycle 2.
+
+![](_page_26_Figure_3.jpeg)
+
+**Figure S14.** Sample Nyquist plots of the second heating cycle for [ȕ-PCMOF2(Tz)0.3], **1**. These plots are representative of the heating and cooling cycles of all three ȕ-PCMOF2(Tz)x samples (where x = 0.3, 0.45, 0.6). Measurements were performed in anhydrous H2. The lines passing through the data points of the plots at 23 °C and 60 °C represent fitted lines for the equivalent circuit (RbCPEb)(CPEel).
+
+![](_page_27_Figure_3.jpeg)
+
+| Sample   | T (°C) | Rb     | CPEb-T    | CPEb-P | CPEe-T   | CPEe-P |              |
+|----------|--------|--------|-----------|--------|----------|--------|--------------|
+| ȕ-PCMOF2 | 23     | 188070 | 3.3x10-10 | 0.75   | 9.5x10-7 | 0.59   | CPEb<br>CPEe |
+| (Tz)0.3  |        |        |           |        |          |        |              |
+| ȕ-PCMOF2 | 60     | 12701  | 2.4x10-9  | 0.66   | 2.8x10-6 | 0.595  |              |
+| (Tz)0.3  |        |        |           |        |          |        | Rb           |
+
+### *Section S6: EMF Study of PCMOFs.*
+
+## *Materials and Methods – Electromotive Force Studies of [ȕ-PCMOF2(Tz)0.45], 2.*
+
+Electromotive force studies were carried out on [ȕ-PCMOF2(Tz)*0.45*], **2**, as proof of principle of the ability for these materials to conduct protons. A membrane electrode assembly (MEA) was first prepared following a slightly modified procedure to that used in the preparation of the samples for impedance analysis. First, pieces of platinum wire (~15-20 mm in length) were tied to porous carbon electrodes (Sigracet, GDL 10 BB, 1.3 cm diameter) and coiled around the perimeter of each electrode cut out. Ground ȕ-PCMOF2(Tz)0.45 powder (0.4015 g) was then sandwiched between the two electrodes in a 13mm die (with the coiled pieces of platinum wire facing away from the sample) and pressed at 5000 kg for 2 minutes. The pieces of platinum wire were then lifted off the two sides of the MEA and functioned as electrical contacts to the anode and cathode during the measurements. A hollow piece of ceramic tube was then sealed onto one side of the MEA using a two component epoxy (J-B weld). The other end of the ceramic tube was attached to a gas inlet-outlet apparatus and sealed with J-B weld. This allowed H2 gas to be passed through the ceramic tube and selectively over the sealed side of the assembly, which functioned as the anode. The other side of the MEA was left open to the air and functioned as the cathode. Open circuit voltage (OCV) measurements were performed with a Solartron SI 1287 eletrochemical interface. CorrWare and CView2 software were used to collect and analyze the data.
+
+![](_page_29_Figure_2.jpeg)
+
+**Figure S15.** Schematic of the device used for EMF measurements.
+
+|  | Table S10. Open circuit voltage of |  | [ȕ-PCMOF2(Tz)0.45], 2. |  |
+|--|------------------------------------|--|------------------------|--|
+|--|------------------------------------|--|------------------------|--|
+
+| Temperature (°C) | Voltage (V) | Duration of Time Held at |
+|------------------|-------------|--------------------------|
+|                  |             | Temperature (h)          |
+| 23               | 1.21        | 12                       |
+| 60               | 1.03        | 13                       |
+| 70               | 0.73        | 70                       |
+| 80               | 0.51        | 2.5                      |
+| 90               | 1.09        | 40*                      |
+| 100              | 1.18        | 72                       |
+| 120              | 0.93        | 18.5*                    |
+| 130              | 0.84        | 5*                       |
+| 140              | 0.77        | 4.5                      |
+| 150              | 0.61        | 2.75**                   |
+
+\* non-equilibrated voltage: slowly increasing
+
+\*\* non-equilibrated voltage: slowly decreasing (due to fuel crossover)
+
+**Figure S16.** Open circuit voltage of [ȕ-PCMOF2(Tz)0.45], **2**. The initial loss in voltage observed from 23 ºC to 80 ºC is believed to arise from dehydration of the sample. The sharp increase in voltage at 90 ºC is thought to be due to the contribution of the 1,2,4 triazole guests in the framework, which are more kinetically active at this temperature. A similar phenomenon is observed in the ac impedance studies (*Section S5***, Figure S12**), where the second heating cycle of the ȕ-PCMOF2(Tz)0.45 sample, showed a marked increase in conductivity at 90 ºC.
+
+![](_page_30_Figure_3.jpeg)
+
+## *Section S7: SS NMR of PCMOFs.*
+
+*Materials and Methods - Solid-State 13C CP/MAS Nuclear Magnetic Resonance Studies (NMR) of ȕ-PCMOF2, [ȕ-PCMOF2(Tz)0.3], 1, [ȕ-PCMOF2(Tz)0.45], 2, [ȕ-PCMOF2(Tz)0.6], 3.* 
+
+Solid-state *13C* CP/MAS NMR spectra were collected at ambient temperature using a Bruker AMX-300 spectrometer with a Bruker magic angle spinning (MAS) BL-4 probe and 4 mm zirconia rotors at 75.47 MHz. Samples were spun at the magic angle at a rate of 5 kHz and required collection times ranging between 2 and 6 h. The 13C chemical shifts were externally referenced to the carbonyl signal of lysine (C=O įiso 176.3 ppm).
+
+Solid state <sup>1</sup> H MAS NMR spectra were obtained at various temperatures using a Bruker DSX 400 spectrometer with a Bruker MAS BL4 probe and 4mm thick wall zirconia rotors (Spin rate ~16 kHz, reference TMS). Temperatures were corrected for frictional heating using a calibration of the 207Pb resonance in Pb(NO3)2 [A. Bielecki, A.; Burum, D. *J. Magn. Res*. **1995**, *116*, 215].
+
+**Figure S17:** CPMAS Solid-State <sup>13</sup> C NMR spectrum of !-PCMOF2 and peak assignment. Unassigned peaks correspond to spinning side bands.
+
+![](_page_32_Figure_3.jpeg)
+
+![](_page_32_Figure_4.jpeg)
+
+| Carbon | Chemical<br>Shift<br>in<br>ppm |
+|--------|--------------------------------|
+| 1      | 107.91                         |
+| 2      | 153.42                         |
+
+**Figure S18:** CPMAS Solid-State <sup>13</sup> C NMR spectrum of [!-PCMOF2(Tz)0.45], **2** and peak assignments. Unassigned peaks correspond to spinning side bands. The spectrum is representative of those obtained for [!-PCMOF2(Tz)0.3], **1** and [!-PCMOF2(Tz)0.6], **3**.
+
+![](_page_33_Figure_3.jpeg)
+
+**Figure S19**. Solid state <sup>1</sup> H MAS NMR spectra of (from top to bottom) beta-PCMOF2(Tz)0.6, beta-PCMOF2(Tz)0.3, bulk 1,2,4-triazole and beta-PCMOF2, (spinning at 16kHz the temperature is 318.1 K). The signal at 11.8 ppm can be assigned to the O-H on the PCMOF2 aromatic ring. The signals at ~9.2 ppm arise from the C-H of incorporated Tz. The weaker signals near 4 ppm and 5 ppm are most probably water molecules.
+
+![](_page_34_Figure_3.jpeg)
+
+**Figure S20**. Solid state <sup>1</sup> H MAS NMR spectra of bulk 1,2,4-Triazole as a function of temperature (MAS ~ 16 kHz). At 318K the spectrum consists of a singlet at 15.6 ppm which can be assigned to N1-H and an unresolved doublet centred at 7.9 ppm which can be assigned to C3-H (low field) and C5-H (high field). The presence of the two C-H resonances is consistent with the asymmetric tautomer shown in the crystal structure (Goldstein et al.). The larger shift for N1-H in the solid reflects the hydrogen bonding to N4 on an adjacent molecule observed in the crystal structure. The two sharp lines in the 392K spectrum represent the liquid phase produced by overheating before temperature equilibration, and the shifts correspond with values observed previously (Creagh et al.). The single resonance for C-H indicates tautomerism.
+
+Goldstein, P., Ladell, J., Abowitz, G. Refinement of the Crystal and Molecular Structure of 1,2,4-Triazole (C2H3N3) at Low Temperature. *Acta Cryst*. **B25**, 135-143 (1969). Creagh, L. T., Truitt, P. Nuclear Magnetic Resonance Studies of Triazoles. I. Tautomerism of 1,2,4-Triazole. *J.Org.Chem.* **33**, 2956-2957 (1968).
+
+![](_page_35_Figure_4.jpeg)
+
+**Figure S21**. Solid state <sup>1</sup> H MAS NMR spectra of beta-PCMOF2(Tz)0.3 as a function of temperature (MAS ~ 16 kHz). This material does not appear to show any resonances from bulk Tz. The line at 9.1 ppm is best assigned to the C-H of the triazolium cation (shifted markedly from 7.9 ppm observed for triazole) and the single line indicates tautomerism. The lines sharpen with increasing temperature and the asymmetric 11.7 ppm line reveals a shoulder and then a peak at 10.9 ppm which presumably is due to N-H of triazolium. The resonances of triazolium cation in CD3CN solution have been reported at 9.89 ppm (C-H) and 10.47 ppm (N-H) (Moers et al.).
+
+ Moers, O., Wijaya, K., Jones, P. G., Blaschette, A. Polysulfonylamines. CIX. 1,2,4- Triazolium di(methanesulfonyl)amidate.*Acta Cryst.* **C55**, 754-756 (1999).
+
+![](_page_36_Figure_4.jpeg)
+
+**Figure S22**. Solid state <sup>1</sup> H MAS NMR spectra of beta-PCMOF2(Tz)0.6 as a function of temperature (MAS ~ 16 kHz). The fresh sample shows traces of the broad signals of bulk Tz underlying the sharper signals of the PCMOF2 and the Tz inside the pores. These bulk signals disappear on heating, the Tz presumably absorbs into the PCMOF2 and stays inside on cooling. The increased intensity of the 9.2 ppm C-H line relative to the 11.7
+
+![](_page_37_Figure_3.jpeg)
+
+### *Section S8: SEM of PCMOFs.*
+
+### *Materials and Methods - Scanning Electron Microscopy Imaging (SEM) of PCMOFs.*
+
+SEM was used to determine the morphology of the crystals in each of the PCMOF products. Samples of the PCMOFs were analyzed and their purity verified with the presence of a single crystal morphology for each material. Samples for analysis were prepared by attaching a piece of sticky carbon onto flat aluminum sample holders and then coating these surfaces with the PCMOF materials. Samples requiring gold coating were prepared using a Hummer sputter coater at 50 millitorr of pressure in an argon atmosphere for 3 minutes, with 15 mA of current. Samples were analyzed on a Philips XL30 ESEM, utilizing either a GSE detector with water vapor pressures between 0.4 and 1.0 Torr and an accelerating voltage of 20 KV (samples run using the environmental mode of the instrument) or an SEI detector and an accelerating voltage of 20 KV (gold coated samples). The environmental mode was utilized, except for the 1,2,4-triazole loaded samples after impedance, to eliminate the need for gold coating the samples, thereby preventing charging of the materials during analysis.
+
+**Figure S23:** SEM images of ȕ-PCMOF2 at different magnifications illustrating a rodshape morphology. Note the homogeneity/phase purity of the sample.
+
+**(a)** 
+
+![](_page_39_Picture_4.jpeg)
+
+**(b)** 
+
+![](_page_39_Picture_6.jpeg)
+
+**Figure S24:** SEM images of [ȕ-PCMOF2(Tz)0.45], **2** at different magnifications illustrating a rod-shape morphology. Note the homogeneity/phase purity of the sample. The micrographs are representative of those obtained for [ȕ-PCMOF2(Tz)0.3], **1** and [ȕ-PCMOF2(Tz)0.6], **3**.
+
+![](_page_40_Picture_3.jpeg)
+
+![](_page_40_Picture_4.jpeg)
+
+**(b)** 
+
+![](_page_40_Picture_6.jpeg)
+
+**Figure S25:** SEM image of [ȕ-PCMOF2(Tz)0.45], **2**, following impedance analysis. It is evident that the crystals still possess a rod-shaped morphology but that they are much smaller due to grinding of the powder during pellet preparation. Gold coated sample. The micrograph is representative of those obtained for [ȕ-PCMOF2(Tz)0.3], **1** and [ȕ-PCMOF2(Tz)0.6], **3**.
+
+![](_page_41_Picture_3.jpeg)
+
+**Figure S26:** SEM images of recrystallized [ȕ-PCMOF2(Tz)0.3], **1**, at different magnifications following impedance analysis. It is evident that the rod-shaped morphology of the sample prior to impedance analysis has been reestablished. The micrographs are representative of those obtained for [ȕ-PCMOF2(Tz)0.45], **2** and [ȕ-PCMOF2(Tz)0.6], **3**.
+
+**(a)** 
+
+![](_page_42_Picture_4.jpeg)
+
+**(b)** 
+
+![](_page_42_Picture_6.jpeg)
+
+根据提供的文献内容，生成实验流程复现文献实验
+

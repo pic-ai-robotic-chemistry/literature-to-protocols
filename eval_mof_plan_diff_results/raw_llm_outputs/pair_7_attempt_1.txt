@@ -1,0 +1,138 @@
+{
+  "pair_id": 7,
+  "winner": "protocol",
+  "winner_reason_short": "The protocol plan covers the full material-preparation lifecycle, including drying and activation, with clear automation boundaries and no downstream overreach.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid/liquid dosing",
+      "precursor solution preparation",
+      "mixing/stirring/dispersion",
+      "main synthesis reaction",
+      "washing/purification/centrifugation",
+      "solvent exchange",
+      "drying",
+      "activation (high vacuum, tube furnace)",
+      "final dispersion/storage",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "gas adsorption/benzene exposure",
+      "catalytic testing",
+      "electrochemical testing",
+      "offline characterization"
+    ],
+    "notes": "Both plans focus on MIL-125 (and variants) synthesis, washing, drying, activation, and storage; protocol plan includes explicit vacuum and tube furnace activation, with all boundaries and no downstream tests in main workflow."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 11,
+      "covered_material_stage_count": 9,
+      "material_coverage": 0.82,
+      "coverage_reason": "Covers all synthesis, washing, and final dispersion, but omits explicit drying and activation steps needed for final material state."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 2,
+      "severe_material_omission_count": 1,
+      "missing_material_stages": [
+        "drying",
+        "activation (high vacuum/tube furnace)"
+      ]
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 4.5,
+      "boundary_reason": "Manual/external steps (activation, gas adsorption, characterization) are clearly marked as out-of-scope."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 2,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or analysis steps are included in the main workflow."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 17.0,
+      "practicality_reason": "Module mapping, container types, and sample transitions are clear and actionable, but omits drying/activation so final state is not fully platform-ready."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 16.0,
+      "fidelity_reason": "Faithfully converts the synthesis and purification steps, but omits critical drying and activation for MOF final state."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Parallel branches for metal doping are clearly separated and mapped."
+    },
+    "main_strengths": [
+      "Clear automation boundaries for non-automatable steps",
+      "Accurate mapping of synthesis, washing, and waste handling"
+    ],
+    "main_weaknesses": [
+      "Omission of drying and activation steps required for final MOF material",
+      "Final material state not fully platform-ready"
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 11,
+      "covered_material_stage_count": 11,
+      "material_coverage": 1.0,
+      "coverage_reason": "Covers all required material-preparation stages, including drying and activation (vacuum and tube furnace)."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 1,
+      "correctly_isolated_boundary_count": 1,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "All non-automatable or downstream steps are clearly excluded or marked as out-of-scope."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 1,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or analysis steps are included in the main workflow; benzene/adsorption steps are noted but not included."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 19.0,
+      "practicality_reason": "All modules, containers, and transitions are clearly mapped; drying and activation steps are included, making the workflow fully platform-ready."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 19.0,
+      "fidelity_reason": "Faithfully converts the protocol into a complete automation-scope workflow, including all material-preparation steps and boundaries."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Parallel branches for metal doping are clearly separated and mapped."
+    },
+    "main_strengths": [
+      "Complete coverage of all material-preparation stages including drying and activation",
+      "Excellent automation boundaries and platform mapping"
+    ],
+    "main_weaknesses": [
+      "Slightly more complex step structure",
+      "Some minor parameter defaults required where protocol is incomplete"
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "protocol",
+    "fewer_material_omissions": "protocol",
+    "better_automation_boundary_quality": "protocol",
+    "less_application_overreach": "tie",
+    "better_platform_adaptation_practicality": "protocol",
+    "better_automation_scope_fidelity": "protocol",
+    "better_branch_handling": "tie",
+    "better_overall_for_automation_scope_material_workflow": "protocol"
+  }
+}

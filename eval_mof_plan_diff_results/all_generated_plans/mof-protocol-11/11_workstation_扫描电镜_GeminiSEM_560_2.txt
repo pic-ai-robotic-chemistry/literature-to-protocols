@@ -1,0 +1,117 @@
+--------------------------------------------------------------------------------
+MESSAGE #11 [workstation_扫描电镜_GeminiSEM_560_2]
+--------------------------------------------------------------------------------
+```yaml
+- 一级模块：扫描电镜
+- 二级子工作站：GeminiSEM_560_2
+- 功能动作参数块：
+
+  - 三级功能：机械臂进样
+
+    - 适用容器：
+      - 无
+
+    - 四级动作：
+
+      - 动作：开始
+        参数：
+
+        - 指令: start
+        - data参数组:
+          - point: 1
+            param:
+              x: 
+              y: 
+            dict:
+              EHT: 
+              B: 
+              C: 
+              MAG: 
+              WD: 
+              Aperture: 
+              ImageStore: 
+              ScanRate: 
+              NoiseReduction: 
+              N: 
+              FreezeOn: 
+              DetectorType: 
+        - 备注: 启动机械臂进样流程，准备对合成的MOF样品进行扫描电镜形貌观察，样品为压片或粉末，位于进样台。
+
+  - 三级功能：实验流程
+
+    - 适用容器：
+      - 无
+
+    - 四级动作：
+
+      - 动作：进样1
+        参数:
+
+        - 指令: pull1
+        - 备注: 执行第一次进样操作，将MOF样品从样品架转移至扫描电镜样品台，准备进行形貌观察。
+
+      - 动作：进样2
+        参数:
+
+        - 指令: pull2
+        - 备注: 执行第二次进样操作，调整样品位置以获得最佳观察视野，确保样品稳定。
+
+      - 动作：实验
+        参数:
+
+        - 指令: experiment
+        - 实验参数组:
+          - 点位: 1
+            坐标:
+              width: 50
+              height: 50
+            字典:
+              AP_MANUALKV: 5
+              AP_BRIGHTNESS: 70
+              AP_CONTRAST: 50
+              AP_MAG: 5000
+              AP_WD: 8
+              DP_APERTURE: 30
+              DP_IMAGE_STORE: true
+              DP_SCANRATE: 1
+              DP_NOISE_REDUCTION: true
+              AP_NR_COEFF: 3
+              DP_FREEZE_ON: false
+              DP_DETECTOR_TYPE: SE
+          - 点位: 2
+            坐标:
+              width: 100
+              height: 100
+            字典:
+              AP_MANUALKV: 10
+              AP_BRIGHTNESS: 75
+              AP_CONTRAST: 55
+              AP_MAG: 10000
+              AP_WD: 7
+              DP_APERTURE: 30
+              DP_IMAGE_STORE: true
+              DP_SCANRATE: 1
+              DP_NOISE_REDUCTION: true
+              AP_NR_COEFF: 3
+              DP_FREEZE_ON: false
+              DP_DETECTOR_TYPE: SE
+        - 备注: 对不同三唑负载量的MOF样品进行扫描电镜形貌观察，采集晶体形貌及粒径分布图像，参数覆盖低倍和高倍放大。
+
+      - 动作：获取实验结果
+        参数:
+
+        - 指令: getImage
+        - 备注: 获取扫描电镜采集的图像数据，供后续形貌分析及对比三唑负载影响。
+
+      - 动作：复位1
+        参数:
+
+        - 指令: reset1
+        - 备注: 执行第一次复位操作，清理样品台，准备下一组样品进样。
+
+      - 动作：复位2
+        参数:
+
+        - 指令: reset2
+        - 备注: 执行第二次复位操作，恢复扫描电镜至初始状态，确保设备稳定运行。
+```

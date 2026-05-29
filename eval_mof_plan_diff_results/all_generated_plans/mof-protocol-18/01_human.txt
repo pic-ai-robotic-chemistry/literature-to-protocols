@@ -1,0 +1,353 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# Anionic Metal−Organic Framework as an Ultrafast Single-Ion Conductor for Exceptional Performance Rechargeable Zinc Batteries
+
+## 1. Materials
+
+### 1.1 Reagents
+
+In the synthesis of both the pristine anionic MOF and its Zn²⁺ ion‐exchanged derivative (1Zn), several reagents have been precisely selected to fulfill distinct roles. The details below follow the experimentally critical categories and incorporate the key information from the QA pairs.
+
+#### 1.1.1 Metal Precursors
+- **Zirconium(IV) chloride octahydrate**: ZrOCl₂·8H₂O, [purity not specified], [supplier not provided], Used as the metal node precursor in the solvothermal synthesis to construct the Zr-based framework.
+- **Zinc nitrate hexahydrate**: Zn(NO₃)₂·6H₂O, [purity not specified], [supplier not provided], Used as the metal source during the ion‐exchange process to replace intrinsic Li⁺ ions with Zn²⁺.
+
+#### 1.1.2 Organic Linkers
+- **Lithium tetraphenylborate**: Li·[H₄L], [composition as carboxylic acid functionalized tetraphenylborate ligand], [purity and supplier not specified], Employed as the organic linker that bridges metal nodes to form the anionic MOF framework.
+
+#### 1.1.3 Modulators
+- **Trifluoroacetic acid (TFA)**: CF₃COOH, [purity not specified], [supplier not provided], Acts as both a modulator and a co‐solvent to control crystallization and pH in the solvothermal environment.
+- **Triethylamine**: C₆H₁₅N, [purity not specified], [supplier not provided], Utilized as a base modulator to further fine‐tune reaction conditions and promote deprotonation processes.
+
+#### 1.1.4 Solvents
+- **N,N-Dimethylformamide (DMF)**: C₃H₇NO, [purity not specified], [supplier not provided], Serves as the primary solvent for the MOF crystallization process.
+- **Water**: H₂O, [no additional details], Used in the ion‐exchange and washing steps to remove residual ions and exchange solvents.
+
+#### 1.1.5 Atmosphere Gases
+- **Carbon monoxide**: CO, [purity not specified], [supplier not provided], Operated at 2 MPa and 120 °C during synthesis to maintain the required atmospheric pressure conditions.
+
+#### 1.1.6 Other Reagents
+- **Methanol**: CH₃OH, [purity not specified], [supplier not provided], Serves as a washing agent and is used for solvent exchange during the post‐synthesis cleanup.
+
+Each reagent is chosen and applied in a manner that ensures replicability and optimal performance of the MOF in its dual roles as a solid electrolyte and an ion conductor in rechargeable zinc batteries.
+
+### 1.2 Specific Experimental Equipment
+
+#### Synthesis Equipment
+- 100 mL vial with screw cap (used for solvothermal synthesis at 100 °C for 24 hours)
+- Schlenk tube (employed for ion exchange in a 2.0 M Zn(NO₃)₂ aqueous solution at 80 °C)
+- Round-bottom flask (utilized for reagent mixing and solvent system preparation)
+
+#### Characterization Equipment
+- Powder X-ray diffractometer – Bruker SMART Apex II CCD-based instrument (for structure determination)
+- Scanning Electron Microscope / Transmission Electron Microscope with EDS (instrument model not specified)
+- Nitrogen adsorption analyzer (for BET surface area measurements; model details not provided)
+- Thermogravimetric analyzer (for assessing thermal stability up to 300 °C; model not specified)
+- Solid-state NMR spectrometer (for ⁷Li and ¹¹B nuclei analysis; specific model not provided)
+- Inductively Coupled Plasma Mass Spectrometer (for precise elemental composition analysis)
+- Potentiostat/galvanostat – Autolab AUT88031 (for conducting conductivity and ion transference evaluations)
+
+#### Activation Equipment
+- Vacuum oven (used for drying MOF materials at 120 °C under vacuum; no model details provided)
+
+#### Reaction Equipment
+- Schlenk tube (also serving as the reactor for post-synthetic ion exchange modifications)
+- Oil bath (ensuring controlled temperature at 80 °C during the ion exchange process)
+
+#### Product Analysis Equipment
+- LAND CT3001A instrument (employed for the assembly and testing of CR2025 coin cells via galvanostatic charge/discharge)
+- Gas chromatograph (utilized for performance evaluation related to gas storage and release, if applicable)
+
+This structured list integrates the specific equipment referenced throughout the experimental workflow, including synthesis, post-synthetic modifications, activation, and characterization stages. Each item is identified by its operational role within the protocol, with exact models noted where available, ensuring clarity for reproducibility and consistent application in similar MOF synthesis and performance evaluation studies.
+
+### 1.3 Common Laboratory Equipment
+
+In MOF experimental work, the selection of common laboratory equipment is vital to ensure optimal reaction conditions, reproducibility, and accurate material handling. This section lists the instruments and apparatus frequently used across various stages such as reagent preparation, synthesis, washing, and drying.
+
+#### Drying Equipment
+Drying is a critical step, especially during the final preparation of the MOF sample. For instance, to remove residual solvent under controlled conditions at 120 °C, a vacuum oven is often employed. In addition, a freeze dryer can be considered as it sublimates solvents at low temperatures, preserving the integrity and porosity of the framework.  
+- Vacuum oven  
+- Freeze dryer  
+
+#### Calcination Equipment
+Certain experimental protocols may require high-temperature treatments to activate or modify the MOF material. In this context, calcination equipment such as a muffle furnace is preferable due to its ability to provide precise temperature control for thermal treatments. A tube furnace might also be suitable for these procedures where uniform heating is essential.  
+- Muffle furnace  
+- Tube furnace  
+
+#### Other Common Equipment
+A variety of general laboratory instruments support both synthesis and post-synthesis processes. For accurate reagent weighing during steps such as measuring 60 mg of MOF 1, an analytical balance is indispensable. Uniform mixing in solvent systems like DMF/TFA during solvothermal synthesis is managed by magnetic stirrers alongside overhead stirrers when necessary. Handling liquids and dispersing reagents is efficiently achieved with micropipettes or graduated pipettes. In addition, glassware—including round-bottom flasks, Schlenk tubes, and sealed reaction vessels—ensures a controlled reaction environment. Finally, filtration apparatus such as Büchner funnels allow for the efficient separation and washing of MOF solids from byproducts.  
+- Analytical balance  
+- Magnetic stirrer  
+- Micropipettes or graduated pipettes  
+- Filtration apparatus (Büchner funnel)  
+- Glassware (round-bottom flasks, Schlenk tubes)
+
+This collection of equipment facilitates precise control over reaction parameters, ensuring that critical processes like drying and calcination do not compromise the MOF’s crystalline structure while maintaining a contaminant-free environment throughout the workflow.
+
+## 2. Synthesis Methods
+
+### Extraction of Detailed Preparation and Post-processing Steps
+
+The article describes a two‐stage synthesis approach for MOF materials. First, MOF 1 is synthesized via a solvothermal method, and then a post‐synthesis ion exchange converts it to MOF 1Zn. A comparative analysis shows that while the solvothermal route provides highly crystalline products with controlled phase purity, its longer reaction times and specialized solvent systems pose scalability challenges. In contrast, the ion-exchange step offers precise metal incorporation and improved ionic conductivity but requires iterative processing and additional equipment.
+
+#### Solvothermal Synthesis of MOF 1
+
+1. Precursor Mixing/Dissolution  
+   - • Reagents: 0.5 mmol ZrOCl₂·8H₂O and 0.5 mmol Li·[H4L] are dissolved in a solvent system comprising 60 mL DMF and 10 mL TFA.  
+   - • Equipment: Reaction performed in a sealed autoclave (or 100 mL vial) ensuring controlled pressure and temperature.
+
+2. Modulator or Structure-Directing Agent Addition  
+   - • TFA is incorporated during mixing and acts as a modulator to influence crystal growth and purity.  
+   - • In some procedures, triethylamine is also employed as an additive for reaction control.
+
+3. Crystallization  
+   - • Process: The mixture is heated at 100 °C for 24 h under solvothermal conditions, leading to the formation of colorless crystals.
+
+4. Cooling and Collection  
+   - • The reaction mixture is cooled to room temperature, and the crystals are collected by filtration.
+
+5. Washing and Solvent Exchange  
+   - • The collected crystals are washed with methanol to remove unreacted species and exchange residual solvent molecules.
+
+6. Drying  
+   - • Drying is achieved under vacuum at 80 °C, preparing the sample for activation.
+
+7. Activation  
+   - • Activation is performed by vacuum degassing at 160 °C for 10 h to remove trapped solvents and enhance framework openness.
+
+#### Ion-Exchange Process for MOF 1Zn
+
+1. The pristine MOF 1 is immersed in 2 mL of a 2.0 M aqueous solution of Zn(NO₃)₂ using a Schlenk tube.
+2. Temperature and Duration  
+   - • The process is conducted at 80 °C for 4 h per cycle and repeated five times until ICP-MS confirms the complete replacement of Li⁺ by Zn²⁺.
+3. Post-treatment  
+   - • The ion-exchanged product is washed with water and dried under vacuum at 120 °C. 
+
+This structured sequence ensures reproducibility and clarity, enabling researchers to precisely replicate conditions for high-performance single-ion conductors in rechargeable zinc battery applications.
+
+## 3. Synthesis Procedures
+
+### 3.1 Reagent Preparation
+
+This section details the precise procedures for preparing the reagents used in the synthesis of both the pristine MOF 1 and the ion‐exchanged MOF 1Zn. The following procedures ensure reproducibility through careful weighing of solids, accurate liquid transfer, and controlled mixing.
+
+#### 3.1.1 Weighing
+
+##### 3.1.1.1 MOF 1
+- **Lithium tetrakis(4-(methoxycarbonyl)phenyl)borate**: Weighed 251 mg using a calibrated analytical balance.
+- **ZrOCl₂·8H₂O**: Weighed 161 mg for exact stoichiometry.
+
+##### 3.1.1.2 MOF 1Zn
+- **MOF 1**: Weighed 60 mg to be used in the subsequent ion‐exchange process.
+
+#### 3.1.2 Liquid Transfer
+
+##### 3.1.2.1 MOF 1
+- **DMF**: Poured 60 mL into the reaction vessel containing the weighed solid reagents.
+- **TFA**: Poured 10 mL concurrently, ensuring the solvent system is complete for the solvothermal reaction.
+
+##### 3.1.2.2 MOF 1Zn
+- **Aqueous Zn(NO₃)₂**: Poured 2 mL of a 2.0 M solution into a Schlenk tube already containing 60 mg of MOF 1. This controlled addition is vital for the ion exchange process.
+
+#### 3.1.3 Mixing
+
+##### 3.1.3.1 MOF 1
+- **Reaction Mixture**: The combined reagents were sealed in a suitable reaction vessel and heated at 100 °C for 24 hours. This prolonged heating ensures thorough mixing and complete reaction, leading to a homogeneous solution.
+
+##### 3.1.3.2 MOF 1Zn
+- **Ion Exchange Suspension**: The MOF 1 sample immersed in the Zn(NO₃)₂ solution was maintained at 80 °C for 4 hours per cycle. The ion exchange was repeated for a total of five cycles, with the process ensuring the replacement of Li⁺ ions by Zn²⁺. Following these cycles, the product was washed with water and subsequently dried under vacuum at 120 °C.
+
+Both procedures underscore the importance of precise weighing, calibrated liquid transfers, and monitored mixing conditions. The detailed operational steps guarantee that the synthesis, from initial reagent preparation to ion exchange, is fully reproducible for subsequent experiments and performance evaluations in zinc-ion battery applications.
+
+### 3.2 Detailed synthesis process
+
+#### MOF Preparation [1]: Pristine Anionic MOF (MOF 1)
+
+##### Step 1: Precursor Preparation
+- **Reagents**: Lithium tetraphenylborate ligand (0.5 mmol, 251 mg) and ZrOCl₂·8H₂O (0.5 mmol, 161 mg) are used. Additional solvents include DMF (60 mL) and TFA (10 mL).
+- **Conditions**: The reagents are dissolved in the solvent mixture in a 100 mL vial sealed with a screw cap. Temperature is maintained at room temperature initially to ensure homogeneity.
+- **Process**:
+  - Dissolve the lithium tetraphenylborate ligand in water, then add ZrOCl₂·8H₂O.
+  - Mix these with the DMF/TFA solvent blend.
+  - Ensure complete dissolution and uniformity of the mixture by stirring at room temperature.
+- **Key Steps**: Confirm complete solvation before sealing and proceeding.
+
+##### Step 2: MOF Assembly/Crystallization
+- **Reagents**: The precursor mixture prepared above.
+- **Conditions**: The sealed vial is heated at 100 °C for 24 hours under solvothermal conditions.
+- **Process**:
+  - Place the vial in an oven and maintain the set temperature.
+  - Allow the reaction to proceed for 24 hours, during which crystallization occurs.
+- **Key Steps**: Maintain a consistent temperature and monitor timing closely.
+
+##### Step 3: Purification
+- **Process**: 
+  - After cooling, collect the formed crystals by vacuum filtration.
+  - Wash the product with methanol (MeOH) to remove unreacted species.
+- **Key Steps**: Use filtration and ensure thorough solvent exchange.
+
+##### Step 4: Drying & Activation
+- **Drying**: Dry the washed crystals under vacuum at 80 °C.
+- **Activation**: Further activate by vacuum degassing at 160 °C for 10 hours to remove residual solvents.
+
+---
+
+#### MOF Preparation [2]: Zn²⁺ Ion‐Exchanged MOF (MOF 1Zn)
+
+##### Step 1: Ion Exchange
+- **Reagents**: Use a 2.0 M aqueous solution of Zn(NO₃)₂·6H₂O (2 mL).
+- **Conditions**: The purified MOF 1 is immersed in the solution inside a Schlenk tube at 80 °C.
+- **Process**:
+  - Immerse 60 mg of MOF 1 in the Zn(NO₃)₂ solution.
+  - Incubate for 4 hours. Repeat this cycle five times.
+  - Monitor ion exchange progress via ICP-MS to ensure complete Li⁺ replacement.
+- **Key Steps**: Maintain 80 °C and strictly adhere to the cyclical immersion protocol.
+
+##### Step 2: Final Purification
+- **Process**:
+  - Wash the exchanged MOF (MOF 1Zn) with water.
+  - Dry under vacuum at 120 °C for 10 hours.
+- **Key Steps**: Ensure complete removal of solvents to support high ionic conductivity.
+
+Critical parameters such as temperature, reagent quantities, and cycle repetitions are maintained to ensure reproducibility and framework integrity throughout both synthesis routes.
+
+## 4. Characterization Methods
+
+### 4.1 PXRD  
+- **Operational Description**: PXRD was performed to confirm the crystallinity and phase purity of the MOF samples. Prior to analysis, the MOF samples were filtered, washed with deionized water and acetone, and then dried under vacuum at 100 °C for 10 hours.  
+- **Instruments and Models**: Specific instrument models and manufacturer details were not provided.  
+- **Characterization Conditions**: Although key operating parameters such as radiation source, voltage, and scan range were not explicitly specified, the technique involved comparing experimental patterns with calculated ones.  
+- **Test Parameters**: Details on step size, scan rate, and 2θ range were omitted.  
+- **Key Notes**: The method confirms structural integrity by matching experimental patterns to theoretical data, despite the absence of detailed instrument settings.
+
+### 4.2 BET Surface Area Analysis  
+- **Operational Description**: N₂ adsorption–desorption measurements were conducted to evaluate the surface area and porosity of the MOF materials.  
+- **Instruments and Models**: No specific instrument model or manufacturer information was provided.  
+- **Characterization Conditions**: Samples were degassed by drying under vacuum at 100 °C for 10 hours before measurement.  
+- **Test Parameters**: Standard test conditions such as the adsorption temperature (typically 77 K), relative pressure range, and BET calculation range were implied but not detailed.  
+- **Key Notes**: BET analysis confirmed high surface areas though precise operating conditions remain unspecified.
+
+### 4.3 SEM/TEM Analysis  
+- **Operational Description**: SEM/TEM was applied to assess the morphology and verify elemental distribution (via SEM-EDS mapping) in both pristine and Zn²⁺ ion-exchanged MOF samples.  
+- **Instruments and Models**: Instrument details, including manufacturer and model, were not provided.  
+- **Characterization Conditions**: Standard electron microscopy conditions were followed; however, specific settings like voltage or working distance were not listed.  
+- **Test Parameters**: Detailed procedural parameters were not disclosed.  
+- **Key Notes**: Uniform distribution of Zr and Zn was observed in the ion-exchanged MOF.
+
+### 4.4 TGA Analysis  
+- **Operational Description**: TGA was employed to evaluate the thermal stability of the MOF framework by monitoring weight loss and confirming framework integrity up to 300 °C.  
+- **Instruments and Models**: Specific details of the TGA equipment were not provided.  
+- **Characterization Conditions**: Measurements were performed in open air.  
+- **Test Parameters**: Heating rates and gas flow details were not specified.  
+- **Key Notes**: Complementary variable temperature PXRD verified the TGA findings.
+
+### 4.5 Solid-State NMR  
+- **Operational Description**: Solid-state NMR was used to verify ligand integrity and the effectiveness of Li⁺ ion exchange by analyzing ⁷Li and ¹¹B resonances.  
+- **Instruments and Models**: ¹¹B NMR was conducted at 193 MHz; further equipment specifics were not provided.  
+- **Characterization Conditions**: Typical magic-angle spinning conditions were assumed, though precise spinning rates and probe types were omitted.  
+- **Test Parameters**: Limited operational parameters were mentioned.  
+- **Key Notes**: The analysis confirmed successful ion exchange, with details provided only for the resonance frequency.
+
+### 4.6 FTIR Analysis  
+- **Operational Description**: FTIR spectroscopy was conducted to identify functional groups within the MOF structure using KBr as the sample matrix.  
+- **Instruments and Models**: No specific FTIR instrument or model details were provided.  
+- **Characterization Conditions**: Sample preparation involved mixing with KBr; further details such as scan range or temperature control were not mentioned.  
+- **Test Parameters**: Specific measurement parameters were not detailed.  
+- **Key Notes**: FTIR served to confirm the presence of key functional groups, although complete procedural details were not disclosed.
+
+## 5. Evaluation Methods
+
+### 5.1 Activation
+
+The activation of the MOF materials is a critical step aimed at ensuring complete removal of residual solvents and guest molecules from within the porous framework. This procedure, performed immediately after synthesis and washing, is essential for “opening” the MOF channels and thereby optimizing ion conduction for subsequent applications.
+
+#### 5.1.1 Activation Temperature
+Activation temperature is crucial for driving off residual solvent molecules without compromising the framework’s integrity. In the described process, the MOF is dried under vacuum at 120°C. This precise temperature is selected to ensure efficient solvent removal while maintaining the crystallinity and permanent porosity of the material. Observations from subsequent PXRD and gas sorption analyses confirm that this temperature condition effectively “opens” the framework channels without causing structural collapse.
+
+#### 5.1.2 Vacuum Conditions
+The activation process is conducted under vacuum, which significantly enhances the evaporation of any remaining guest molecules. Although no exact numerical pressure is provided, the use of vacuum drying facilitates a reduced atmospheric pressure environment that promotes efficient solvent removal. The low-pressure conditions prevent potential re-adsorption of solvent molecules, thereby preserving the well-defined porous structure required for high-performance ion conduction.
+
+#### 5.1.3 Activation Equipment and Protocol
+A vacuum oven is employed to achieve and maintain the necessary temperature and vacuum environment during activation. This equipment allows for precise control over both heating and pressure, ensuring a uniform activation process. Prior to vacuum drying, the MOF samples were thoroughly washed with deionized water and acetone, thereby minimizing the presence of residual impurities. Such detailed activation conditions have been validated by the high BET surface areas observed post-activation—for instance, surface areas around 995 m²/g for pristine samples—demonstrating that the protocol efficiently opens the MOF pores without destabilizing the framework.
+
+Overall, the combination of a controlled temperature of 120°C, vacuum conditions, and precise equipment ensures that the activated MOF materials exhibit both high porosity and robust structural integrity, key to their exceptional performance in subsequent applications.
+
+### 5.2 Application/Performance Evaluation
+
+The performance evaluation of the MOF-based electrolyte focused on parameters critical for battery operation, addressing the influence of temperature on ionic conductivity, the configuration of coin cells, and key electrochemical indicators.
+
+#### 5.2.1 Test Temperature and Ionic Conductivity
+Temperature plays a pivotal role in ion mobility within the MOF electrolyte. The evaluation was conducted across a wide temperature range to reliably capture its performance. Specifically, conductivity measurements revealed values of 0.83 mS/cm at −40 °C, 2.75 mS/cm at 25 °C, and 7.9 mS/cm at 120 °C. These results demonstrate that ionic conductivity increases as temperature rises, confirming enhanced Zn²⁺ transport at elevated temperatures. Alternating current (AC) impedance measurements were employed, with each temperature condition maintained for one hour to ensure thermal equilibrium, thereby guaranteeing the reproducibility of the results.
+
+#### 5.2.2 Cell Configuration and Battery Testing
+Battery performance was assessed using CR2025 coin cells. In these tests, the MOF-based electrolyte was paired with a polished Zn anode and an appropriate cathode (e.g., NH₄V₄O₁₀). The cell assembly featured careful electrode preparation and conditioning, including a resting period of 6 hours at 30 °C prior to galvanostatic charge-discharge (GCD) measurements. At a current density of 0.3 A/g, the battery delivered an initial capacity of 497 mAh/g. The cycle tests further confirmed excellent long-term stability, maintaining near-100% capacity retention over 2500 cycles and demonstrating high Coulombic efficiency.
+
+#### 5.2.3 Zn²⁺ Transference and Activation Energy
+The Zn²⁺ transference number was quantified using potentiostatic polarization methods, yielding a value of 0.90. This high transference number underlines the efficiency of Zn²⁺ transport through the anionic framework. Additionally, the activation energy was measured to be 0.19 eV, a low value that supports rapid ion migration even at lower temperatures. These parameters collectively highlight the material’s robustness and suitability for high-performance rechargeable zinc batteries.
+
+Overall, the evaluation protocol—encompassing strict control of temperature, current density, and cell configuration—provides a clear, reproducible framework for assessing the performance of MOF-based electrolytes in practical battery applications.
+
+## 6 Results
+
+
+### 6.1 Characterization Results
+
+#### 6.1.1 Crystal Structure and Phase Purity
+- **Description:** The crystal structure and phase purity of the MOF materials were determined using single-crystal X-ray diffraction (SC-XRD) and powder X-ray diffraction (PXRD). These techniques are essential for confirming the framework topology, space group, and the absence of impurities.
+- **Findings:** SC-XRD analysis of the pristine MOF (1) revealed a tetragonal I4/m space group with unit cell parameters a = b = 15.3170(3) Å, c = 27.7377(6) Å, and α = β = γ = 90°. PXRD patterns for both 1 and the Zn²⁺-exchanged MOF (1Zn) closely matched the simulated patterns derived from SC-XRD data, with no additional peaks observed.
+- **Observations:** The retention of the tetragonal I4/m structure and the absence of impurity peaks after ion exchange confirm high phase purity and successful preservation of the framework during Zn²⁺ incorporation.
+
+#### 6.1.2 Surface Area and Porosity
+- **Description:** Surface area and porosity were evaluated using N₂ adsorption isotherms at 77 K, with BET (Brunauer–Emmett–Teller) analysis for surface area and NLDFT (nonlocal density functional theory) for pore size distribution. These parameters are critical for assessing the accessibility and capacity of the MOF channels.
+- **Findings:** The BET surface area was 995 m²/g for 1 and 667 m²/g for 1Zn. Pore size distribution analysis indicated regular pores of approximately 8.6 Å for 1, with the framework featuring a large dodecahedral cage (14.0 × 18.2 × 20.4 Å³). After Zn²⁺ exchange, the surface area decreased, consistent with partial pore occupation.
+- **Observations:** The high surface area and well-defined porosity are retained after ion exchange, supporting the framework’s suitability for ion transport applications.
+
+#### 6.1.3 Thermal Stability
+- **Description:** Thermal stability was assessed by thermogravimetric analysis (TGA) in open air and variable temperature PXRD (VT-XRD), which monitor weight loss and crystallinity as a function of temperature.
+- **Findings:** The MOF frameworks maintained their crystallinity and structural integrity up to 300 °C. Decomposition and significant weight loss occurred above this temperature.
+- **Observations:** The robust thermal stability up to 300 °C ensures the MOF’s applicability in demanding electrochemical environments.
+
+#### 6.1.4 Morphology and Elemental Distribution
+- **Description:** Morphology and elemental distribution were examined using scanning electron microscopy (SEM) and SEM-EDS (energy dispersive spectroscopy) mapping. These analyses provide insights into crystal shape, size uniformity, and the spatial distribution of key elements.
+- **Findings:** SEM images showed well-defined, uniformly sized crystals for both 1 and 1Zn. SEM-EDS mapping of 1Zn demonstrated homogeneous distribution of Zr and Zn throughout the crystals, indicating successful and uniform ion exchange.
+- **Observations:** The pressed 1Zn powder exhibited a densely packed morphology, and post-cycling analysis revealed clean, dendrite-free surfaces, highlighting the material’s morphological stability.
+
+#### 6.1.5 Chemical Composition and Ligand Integrity
+- **Description:** Chemical composition was determined by ICP-MS and elemental analysis, while ligand integrity and ion exchange were probed by solid-state NMR (⁷Li and ¹¹B MAS NMR).
+- **Findings:** ICP-MS confirmed a Zn:B:Zr molar ratio of approximately 0.47:1:3.11 in 1Zn, with residual Li⁺ below 0.05 wt%. Solid-state ⁷Li NMR showed the disappearance of the Li⁺ signal after exchange, and ¹¹B NMR confirmed the ligand remained intact.
+- **Observations:** These results verify efficient Zn²⁺ incorporation, minimal residual Li⁺, and preservation of the framework’s chemical structure during and after ion exchange.
+
+
+
+### 6.2 Performance Results
+
+#### 6.2.1 Zn²⁺ Ionic Conductivity
+- **Description:** Ionic conductivity (σ) quantifies the ability of the MOF-based electrolyte to transport Zn²⁺ ions, a critical parameter for battery performance. It is typically measured in millisiemens per centimeter (mS cm⁻¹) using AC impedance spectroscopy.
+- **Experimental Data:** The Zn²⁺-exchanged MOF (1Zn) exhibited conductivities of 0.83 mS cm⁻¹ at −40 °C, 2.75 mS cm⁻¹ at 25 °C, and 7.9 mS cm⁻¹ at 120 °C. These values were obtained from pressed pellets of hydrated 1Zn (12.8 wt% water) sandwiched between Zn electrodes.
+- **Observations and Trends:** Conductivity increased with temperature, demonstrating thermally activated Zn²⁺ transport. The high conductivity across a wide temperature range highlights the suitability of 1Zn for solid-state zinc-ion batteries (ZIBs) operating under diverse conditions.
+
+#### 6.2.2 Zn²⁺ Transference Number
+- **Description:** The Zn²⁺ transference number (t_Zn²⁺) represents the fraction of total ionic current carried by Zn²⁺ ions, calculated as \( t_{Zn^{2+}} = \frac{I_{Zn^{2+}}}{I_{total}} \).
+- **Experimental Data:** The 1Zn electrolyte achieved a high transference number of 0.90.
+- **Observations and Trends:** This value indicates that 90% of the ionic current is due to Zn²⁺ migration, minimizing polarization and suppressing dendrite formation, which are essential for stable and efficient battery operation.
+
+#### 6.2.3 Activation Energy for Ion Transport
+- **Description:** Activation energy (Ea) reflects the energy barrier for Zn²⁺ migration within the MOF, determined from Arrhenius plots of conductivity versus temperature.
+- **Experimental Data:** The activation energy for Zn²⁺ conduction in 1Zn was measured as 0.19 eV.
+- **Observations and Trends:** The low Ea supports rapid Zn²⁺ transport and high conductivity, contributing to the electrolyte’s superior rate performance.
+
+#### 6.2.4 Electrochemical Performance in Zinc-Ion Batteries
+- **Description:** Key battery metrics include reversible capacity (mAh g⁻¹), rate capability (capacity at various current densities), and cycling stability (capacity retention over repeated cycles).
+- **Experimental Data:** In CR2025 coin cells (Zn|1Zn|NH₄V₄O₁₀), the initial capacity reached 497 mAh g⁻¹ at 0.3 A g⁻¹. At 5 A g⁻¹, the battery delivered 349 mAh g⁻¹ and retained 99.7% of its capacity after 2500 cycles, with Coulombic efficiency approaching 100%. Even at extreme rates (10 A g⁻¹ at −20 °C, 20 A g⁻¹ at −10 °C), capacity retention exceeded 94% after 1000 cycles.
+- **Observations and Trends:** The MOF-based electrolyte enabled robust rate performance and exceptional long-term cycling stability, outperforming many benchmark materials.
+
+#### 6.2.5 Interfacial Compatibility and Structural Stability
+- **Description:** Interfacial compatibility assesses the stability and uniformity of the electrolyte–electrode interface, while structural stability ensures the MOF maintains crystallinity and porosity during operation.
+- **Experimental Data:** Post-cycling SEM and PXRD analyses confirmed smooth Zn anodes and intact MOF structure. BET surface area remained high (561 m² g⁻¹ after cycling), and no dendrite formation was observed.
+- **Observations and Trends:** These results demonstrate excellent interfacial compatibility and structural robustness, supporting the electrolyte’s long-term performance in ZIBs.
+
+
+
+根据提供的文献内容，生成实验流程复现文献实验
+

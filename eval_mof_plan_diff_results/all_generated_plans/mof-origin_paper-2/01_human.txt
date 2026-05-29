@@ -1,0 +1,824 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# **Metal–organic frameworks embedded in a liposome facilitate overall photocatalytic water splitting**
+
+**Huihui Hu1 , Zhiye Wang1 , Lingyun Cao1 , Lingzhen Zeng1 , Cankun Zhang1 , Wenbin Lin <sup>2</sup> and Cheng Wang <sup>1</sup>** ✉
+
+**Metal–organic frameworks (MOFs) have been studied extensively in the hydrogen evolution reaction (HER) and the water oxidation reaction (WOR) with sacrificial reagents, but overall photocatalytic water splitting using MOFs has remained challenging, principally because of the fast recombination of photo-generated electrons and holes. Here we have integrated HERand WOR-MOF nanosheets into liposomal structures for separation of the generated charges. The HER-MOF nanosheets comprise light-harvesting Zn–porphyrin and catalytic Pt–porphyrin moieties, and are functionalized with hydrophobic groups to facilitate their incorporation into the hydrophobic lipid bilayer of the liposome. The WOR-MOF flakes consist of [Ru(2,2′-bipyridine)3]2+-based photosensitizers and Ir–bipyridine catalytic centres, and are localized in the hydrophilic interior of the liposome. This liposome–MOF assembly achieves overall photocatalytic water splitting with an apparent quantum yield of (1.5 ± 1)% as a result of ultrafast electron transport from the antennae (Zn–porphyrin and [Ru(2,2′-bipyridine)3]2+) to the reaction centres (Pt–porphyrin and Ir–bipyridine) in the MOFs and efficient charge separation in the lipid bilayers.**
+
+The construction of artificial chloroplasts has been a long-held goal for chemists[1](#page-7-0) . Natural photosynthesis takes place on thylakoid membranes in chloroplasts where protein complexes for light harvesting, charge separation and catalysis are grouped into photosystem I for nicotinamide adenine dinucleotide phosphate (NADP<sup>+</sup>) reduction and photosystem II for water oxidation[2](#page-7-1) . The electrons are pumped twice using two separate photons at the two photosystems, giving a 'zig-zag' energy profile of the electrons in a so called 'Z-scheme' to overcome the high overpotentials of the reaction[s3](#page-8-0)[,4](#page-8-1) . The thylakoid membrane spatially separates the generated charges and prevents their recombination to ensure a high solar-to-chemical conversion efficiency.
+
+The 'Z-scheme' of photon management and the spatial separation of the two half-reactions have also been employed in artificial photosynthesis for solar fuel production. For example, light-driven overall water splitting to hydrogen and oxygen has been achieved in colloidal semiconductor/catalyst assemblies, integrated photo-electrochemical cells and hybrid photobiochemical system[s5–](#page-8-2)[11.](#page-8-3) Although MOFs built from photo-active molecular units have provided a versatile platform for studying the key steps of artificial photosynthesis, such as the WOR and the HER[12](#page-8-4)–[17](#page-8-5), few MOF-only systems have been used for overall photocatalytic water splitting, due to the inability of spatially separating light-generated charges to prevent recombination. The charge recombination also sets limits on other MOF-based photocatalytic processes including CO2 reduction and synthetically useful organic transformations. With lipid bilayers mimicking biological membranes, liposomes have provided a scaffold for the construction of biomimetic structures for charge separation and solar energy harvestin[g18](#page-8-6)[–22](#page-8-7). We posit that liposomal structures could provide a strategy for organizing WOR-MOFs and HER-MOFs to achieve overall water splitting.
+
+Among molecular catalytic centres for the HER half-reaction, [(TCPP)Pt], where TCPP=meso-tetra(4-carboxyphenyl)porphine, shows a very high turnover frequency (TOF) of 35h<sup>−</sup><sup>1</sup> (ref. [23\)](#page-8-8). As the HER requires two photon-generated electrons, it is critical to transport two equivalents of excited states or electrons to the same catalytic centre within a short time interval. We have achieved this by constructing a MOF antenna: hafnium-based nodes are used for framework stability, and light-harvesting [(TCPP)Zn]-based ligands doped with [(TCPP)Pt] moieties allow fast energy/electron transfer from the [(TCPP)Zn] network to the reaction centre of the [(TCPP)Pt] moieties. The four-connected Hf6(μ3-O)4(μ3-OH)4 nodes and four-connected [(TCPP)Zn]/[(TCPP)Pt] ligands formed a two-dimensional network of square lattice (sql) topology. For the WOR half-reaction, Ir–BPY complexe[s24](#page-8-9) (BPY=2,2′-bipyridine) as the reaction centres were incorporated within a [Ru(BPY)3]2<sup>+</sup>-based MOF to act as antennae to allow efficient energy/hole transfer from [Ru(BPY)3]2<sup>+</sup> to Ir–BPY. Zirconium-based nodes instead of hafnium-based nodes were chosen for the construction of stable WOR-MOFs, to differentiate them from the HER-MOFs and for easier quantification of these two MOFs in the final assembly. The Zr12(μ3-O)8(μ3-OH)8(μ2-OH)6 nodes were connected by Ru- or Ir-based dicarboxylate ligands to form a hexagonal close-packed structure.
+
+The HER- and WOR-MOF nanosheets were then assembled in the hydrophobic and hydrophilic regions, respectively, of liposome (LP) vesicles constructed from lecithin (PC) and cholesterol (Chol) in a molar ratio of 3:1 for overall photocatalytic water splitting (Fig. [1\)](#page-1-0). The HER-MOF is of monolayer thickness and functionalized with hydrophobic pentafluoropropionate groups for insertion into the hydrophobic region of the lipid bilayer, whereas the WOR-MOF nanosheets are assembled in the interior of the liposome. The HER-MOF and the WOR-MOF are connected by two redox relays—the tetrachlorobenzoquinone/tetrachlorobenzohydrosemiquinone (TCBQ/TCBQH) pair, introduced into the lipid bilayer in the organic phase before film formation, and the Fe3<sup>+</sup>/ Fe2<sup>+</sup> pair, introduced into the aqueous phase in the hydration step that carry out the electron-transfer processes. The lipid membrane
+
+<sup>1</sup> Collaborative Innovation Center of Chemistry for Energy Materials, State Key Laboratory of Physical Chemistry of Solid Surfaces, Department of Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, P.R. China. 2 Department of Chemistry, The University of Chicago, Chicago, IL, USA. ✉e-mail: [wangchengxmu@xmu.edu.cn](mailto:wangchengxmu@xmu.edu.cn)
+
+![](_page_1_Figure_2.jpeg)
+
+<span id="page-1-0"></span>**Fig. 1 | Structure of the LP–MOF for overall photocatalytic water splitting and the proposed 'Z-scheme' electron-transfer chain in the LP–MOF system.** The bilayer in the illustration represents a section of the liposome. The HER-MOF for hydrogen evolution is incorporated between the hydrophobic chains, and the WOR-MOF for water oxidation is in the aqueous phase. Both MOFs are represented by polyhedron–ball–stick models; see Fig. [2](#page-2-0) for their structures. The redox shuttles TCBQ/TCBQH and Fe3+/Fe2+ connect the HER and WOR sides, functioning in the lipid phase and the aqueous phase, respectively. Electron-transfer chains (shown by blue arrows) and photons (represented by yellow lightning shapes) form the 'Z-scheme'. Inset, schematic representation of the liposome with the two MOFs embedded within the hydrophobic bilayer (HER-MOF) and the hydrophilic interior (WOR-MOF).
+
+separates light-generated reductive species like [(TCPP)Pt-H] for HER and oxidative species like [Ru(BPY)3]3<sup>+</sup> for WOR on the two MOFs. For the HER-MOF, light-induced charge separation between [(TCPP)Zn] and [(TCPP)Pt] generates [(TCPP)Zn]<sup>+</sup> and [(TCPP) Pt]<sup>−</sup>. [(TCPP)Pt]<sup>−</sup> is then protonated to [(TCPP)Pt-H] before accepting another electron and another proton to release one H2, while [(TCPP)Zn]<sup>+</sup> reacts with TCBQH to regenerate [(TCPP)Zn] and give TCBQ that oxidizes Fe2+ to Fe3<sup>+</sup> at the lipid/water interface. The WOR-MOF is initiated by the photo-oxidation of [Ru(BPY)]2+\* by the Fe3+ to produce [Ru(BPY)]3<sup>+</sup>, which in turn oxidizes the Ir– BPY complex for water oxidation. This LP–MOF assembly mimics natural photosynthetic systems for light-to-chemical conversion.
+
+### **Results and discussion**
+
+**Preparation of the LP–MOF assemblies.** The HER-MOF is constructed from metalloporphyrin ligands [(TCPP)Zn] and [(TCPP) Pt] (see Supplementary Figs. 1–3) and Hf6(μ3-O)4(μ3-OH)4 secondary building units (SBUs) (Fig. [2a](#page-2-0) and Supplementary Figs. 5 and 6). Nanosheets with a lateral size of less than 200nm were obtained from solvothermal synthesis by intentionally adding water to a mixed solvent of dimethylformamide (DMF) and formic acid (HCO2H) (Fig. [3a\)](#page-3-0) followed by sonication and filtration through a porous membrane (1μm) to make the MOF particles smaller and remove the larger flakes (Supplementary Fig. 7a)[25](#page-8-10)–[28](#page-8-11). High-resolution transmission electron microscopy (HRTEM) (Supplementary Fig. 7b) and scanning transmission electron microscopy-high angle annular dark-field (STEM-HAADF) images (Fig. [3b](#page-3-0) and Supplementary Fig. 7c) showed an sql lattice that matches the structural model of a two-dimensional layer of alternately connected TCPP ligands and Hf6 SBUs (Fig. [3b](#page-3-0)). This structural assignment was confirmed by powder X-ray diffraction (PXRD) studies (Supplementary Fig. 8) and chemical composition analysis (Supplementary Figs. 9 and 10). Atomic force microscopy (AFM) gave a range of thickness of 1.3–2.2nm, roughly matching the height of a flat or zig-zag layer (Fig. [3c](#page-3-0) and Supplementary Fig. 11). HER-MOFs have chemical compositions of [Hf6(μ3-O)4(μ3-OH)4 (μ1-OH)2(μ1-H2O)2(HCO2)6[(TCPP)Zn]1−*<sup>x</sup>*[(TCPP)Pt]*x*].
+
+The WOR-MOF was constructed from the Zr12(μ3-O)8(μ3-OH)8 (μ2-OH)6 SBU and [Ruii(BPY)2(BPYDC)] (abbreviated as [Ru]2<sup>+</sup>, where BPYDC are 2,2′-bipyridine-5,5′-dicarboxylic acid bridging ligands) (Supplementary Fig. 4) with a BPYDC/[Ru]2<sup>+</sup> ratio of 1.7 as determined by proton NMR of digested MOF (Supplementary Fig. 12). Further functionalization with Iriii gave [(BPYDC) Ir] catalytic centres (Fig. [2b\)](#page-2-0) that are evenly distributed in the MOF, as shown by energy dispersive X-ray spectroscopy images (Supplementary Fig. 13)[26,](#page-8-12)[29](#page-8-13). The MOF without an Ir centre is denoted as Zr-[Ru]2<sup>+</sup>-MOF, while the one with Ir is denoted as WOR-MOF. The WOR-MOF exhibits a hexagonal nanoplate morphology with a thickness range of 1.2–11.5nm, as measured by AFM (Fig. [3f](#page-3-0) and Supplementary Fig. 14), and a lateral size of the order of 400nm, as measured by TEM (Fig. [3d](#page-3-0) and Supplementary Figs. 15 and 16). HRTEM (Fig. [3e\)](#page-3-0) and PXRD (Supplementary Fig. 17) studies confirm that WOR-MOFs adopt a 'double-decker' hexagonal close-packed structure[29,](#page-8-13)[30](#page-8-14), in which six lateral connections on each Zr12 node are through double bridges of two parallel dicarboxylate linkers (Fig. [2b\)](#page-2-0).
+
+The HER-MOF was treated with pentafluoropropionic acid to give a hydrophobic surface by replacing the formate capping groups on the SBU. This hydrophobic modification was confirmed by a change in the water contact angle from 65±2° to 136±3° (Supplementary Fig. 18). We incorporated the HER-MOF into the lipid bilayer by adding the nanosheets to the lecithin/cholesterol mixture in the preparation of the liposome assembly (LP–HER-MOF[\)31.](#page-8-15) Thicker HER-MOFs were not incorporated into the bilayer and were removed in an extrusion step as they tended to aggregate outside the liposome to form large particles, leading to an incorporation yield of (4±2)% for the HER-MOF (Supplementary Fig. 19). The redox shuttle TCBQ was also added to the lipid bilayer. The lipid mixture first formed a film on wall of the flask (Fig. [4a\)](#page-4-0) and was then hydrated and sonicated to form small vesicles. The WOR-MOF nanosheets and the redox shuttle Fe3<sup>+</sup> ions were introduced into the aqueous phase in the hydration step (LP–WOR-MOF). Interactions between the polar phosphate head groups of the lipids and the cationic WOR-MOF and Fe3<sup>+</sup> ions help to increase their chances of being wrapped inside the liposome, leading to a wrapping yield of (2.6±1)% for the WOR-MOF. Most of the WOR-MOFs outside the liposome were removed in the extrusion step because of their aggregation into large particles.
+
+The diameters of the LP–HER-WOR-MOF were 2±0.5μm as determined by dynamic light scattering and TEM imaging (Fig. [4h](#page-4-0) and Supplementary Figs. 20–24). The TEM images also showed WOR-MOF nanosheets (Supplementary Figs. 23 and 24) but were insensitive to HER-MOF in the lipid bilayer.
+
+We also used fluorescence confocal microscopy to locate the HER-MOF and WOR-MOF in the liposomes. In the image of the LP–HER-MOF, [(TCPP)Zn] fluorescence clearly showed as ring-like structure when the liposome was right at the focus (Supplementary Figs. 25 and 26), which is consistent with the HER-MOF being located within the lipid bilayer. In the image of the LP–WOR-MOF, [Ru]2<sup>+</sup> phosphorescence appeared only in the inner part of the liposome (Supplementary Fig. 27). In the LP–HER-WOR-MOF hybrid, owing to spectral overlap between the two MOFs, it is difficult to assign one channel to a specific MOF, but excitation at 488nm led to more signal from the WOR-MOF, while excitation at 552nm led to more signal from the HER-MOF (Fig. [4j\)](#page-4-0). The signal responsible for the WOR-MOF seems to be from the inner part
+
+![](_page_2_Figure_2.jpeg)
+
+<span id="page-2-0"></span>**Fig. 2 | HER-MOF and WOR-MOF structures. a**, HER-MOF constructed from hydrophobically modified Hf6(μ3-O)4(μ3-OH)4 clusters with pentafluoropropionate groups and [(TCPP)Zn]/[(TCPP)Pt] linkers. Hf6(μ3-O)4(μ3-OH)4(μ<sup>1</sup> -OH)2(μ<sup>1</sup> -H2O)2(HCO2)6 clusters are shown as green polyhedra; Zn atoms in the centre of [(TCPP)Zn] are shown in purple; Pt atoms in the centre of [(TCPP)Pt] are in yellow. **b**, WOR-MOF constructed from Zr12(μ3-O)8(μ3-OH)8(μ2-OH)6 clusters and [Ru]2+ and [BPYDC] linkers. Some of the [BPYDC] were functionalized with Ir3+. Zr12(μ3-O)8(μ3-OH)8(μ2-OH)6 clusters are shown as sky blue polyhedral; Ru atoms in the centre of [Ruii(BPY)2(BPYDC)] are in orange; Ir in [(BPYDC)Ir] are in red. In both structures: C, grey; N, blue; H omitted for clarity.
+
+of the liposome, whereas the channel assigned to the HER-MOF showed a higher intensity on the shell (Fig. [4b–g](#page-4-0), Supplementary Fig. 28). We also observed complete signal overlap in some of the liposomes, which may be due to the formation of multilamellar vesicles. Furthermore, phosphorescence from the Zr-[Ru]2<sup>+</sup>-MOF can be efficiently quenched by water-soluble Fe3<sup>+</sup> but not by lipid-soluble TCBQ (Supplementary Fig. 29), confirming its location in the aqueous phase inside the liposome (Fig. [4i](#page-4-0)). Similarly, the fluorescence of the Hf-[(TCPP)Zn]-MOF cannot be quenched by Fe3<sup>+</sup> in the aqueous phase but can by lipid-soluble TCBQ when it is incorporated into the liposomal structure (Fig. [4i](#page-4-0) and Supplementary Figs. 30 and 31).
+
+The amounts of encapsulated MOFs in the LP–HER-WOR-MOF hybrid were determined using inductively coupled plasma-mass spectrometry (ICP-MS), and showed a molar ratio for PC/Chol/ HER-MOF/WOR-MOF/TCBQ/Fe3<sup>+</sup> of 696:230:(8.5±3.8):(2±0.8) :22:24 (where the MOFs are counted by the number of SBUs, and the ligand/SBU ratios are equal to one in the HER-MOF and nine in the WOR-MOF) and 696:230:9:2:22:24 for a typical sample used in the water-splitting test. Variations exist among different samples. The molar ratio of Pt/Zn in the HER-MOF was 0.011 and the molar ratio of Ir/Ru in the WOR-MOF was 0.82. These ratios were chosen based on different energy-/electron-transfer efficiencies in these two systems to optimize catalytic activities. The functionalized liposome was then examined for overall photocatalytic water splitting.
+
+**Photocatalytic hydrogen evolution.** The HER-MOF and the LP–HER-MOF hybrid were first tested for the HER half-reaction under irradiation by a 400nm light-emitting diode (LED) using phenol as a sacrificial agent. The amount of hydrogen evolved in the headspace of the vial was quantified by gas chromatography (GC) and the amounts of encapsulated MOFs in the LP–HER-MOF were determined using ICP-MS (Supplementary Table 1). The TOF, as calculated by the molar ratio of generated H2 to [(TCPP)Pt] in 24h, was approximately 1.25×104h−<sup>1</sup> , and is among the highest reported for molecular systems (Supplementary Table 2)[32–](#page-8-16)[37.](#page-8-17) The bare HER-MOF assembly without liposome showed a comparable TOF of 1.2×104h−<sup>1</sup> (Supplementary Table 2). A MOF without [(TCPP) Pt] and the sacrificial agent (phenol) did not show any HER activity, confirming [(TCPP)Pt] as the catalytic centre and excluding the possibility that a blank liposome can serve as a sacrificial agent (Supplementary Table 3). The Pt-based TOF was inversely related to the ratio of [Zn]/([Pt]+[Zn]) (Fig. [5a\)](#page-5-0), showing the importance of [(TCPP)Zn] as an antenna.
+
+After catalysis, the [(TCPP)Pt] and [(TCPP)Zn] moieties remained intact, as shown by the characteristic [(TCPP)Zn] peaks in the UV-visible absorption spectra of the HER-MOF before and after the reaction (Supplementary Fig. 32). The HER-MOF structure was also stable under the reaction conditions used here, as revealed by the retention of its PXRD pattern (Supplementary Figs. 33–35).
+
+**Photocatalytic water oxidation.** The WOR-MOF and LP–WOR-MOF hybrid were tested for the WOR half-reaction under irradiation by a 450nm LED. Amount of oxygen evolved was quantified using both GC and a fluorescent probe (YSI ProODO) in the aqueous phase (Fig. [5b](#page-5-0)). The LP–WOR-MOF showed steady oxygen generation for 12h using Na2S2O8 as the sacrificial agent to afford a TOF of 25h<sup>−</sup><sup>1</sup> , which is comparable to other efficient
+
+![](_page_3_Picture_2.jpeg)
+
+**Fig. 3 | Preparation and characterization of HER-MOF and WOR-MOF. a**, TEM image of HER-MOF. **b**, STEM-HAADF image of HER-MOF showing a rectangular arrangement of SBUs (white dots). The measured inter-SBU distances in the HAADF image were 1.69 nm in one direction (1.67 nm in the model, with 1% deviation) and 1.95 nm in the other direction (1.97 nm in the model, with 1% deviation), matching that of the zig-zag monolayer HER-MOF model in the inset, which is also superimposed on the upper left corner of the image. **c**, AFM image of HER-MOF with the height profile in the inset, which is measured along the white line on the image. **d**, TEM image of WOR-MOF. **e**, HRTEM images of WOR-MOF showing a hexagonal arrangement of SBUs (dark dots), with a structural model superimposed on the image, and a Fourier transform of the image for extracting the distance between the lines of SBUs at 1.72 nm. **f**, AFM image of WOR-MOF with the height profile in the inset, which is measured along the white line on the image.
+
+<span id="page-3-0"></span>photocatalytic molecular catalysts (Supplementary Tables 4 and 5 and Supplementary Figs. 36–39)[38–](#page-8-18)[40.](#page-8-19) The bare WOR-MOF assembly without any liposome showed a similar TOF of 21h<sup>−</sup><sup>1</sup> (Supplementary Table 4).
+
+**Overall photocatalytic water splitting.** We then combined the HER and WOR parts in the LP–HER-WOR-MOF assembly for overall water splitting with the redox shuttles TCBQ in the lipid bilayer, introduced in the organic phase before film formation, and Fe3<sup>+</sup> in the aqueous phase, introduced in the hydration step. Hydrogen and oxygen were detected in a roughly 2:1 ratio under LED illumination (Fig. [5c](#page-5-0)). The MOFs inside the assembled liposome were stable during the catalytic process, as confirmed by the PXRD patterns (Supplementary Fig. 40), and ICP-MS measurement of the solution after catalysis showed negligible leaching of the metal centres (2% for Ir, 0.1% for Ru, 0.5% for Pt, and no leaching for Zr and Hf). The catalytic activity (*v*) based on H2 in the LP–HER-WOR-MOF over 72h was 836 µmol g<sup>−</sup><sup>1</sup> . An apparent quantum yield of (1.5±1)% at 436nm was obtained by counting the number of absorbed photons and the number of generated H2 and O2 molecules during the catalysis (Supplementary Table 6, Supplementary Figs. 41 and 42)[41–](#page-8-20)[44.](#page-8-21) The H2-TOF was 3.1h−<sup>1</sup> (a TON of 223 over 72h) based on Pt, whereas the O2-TOF was 0.19h<sup>−</sup><sup>1</sup> (a TON of 14 over 72h) based on Ir (where the Pt/Ir ratio was 0.1 in the sample). We noted that the amounts of redox relays (Fe3<sup>+</sup> and TCBQ) were only two or three equivalents with respect to the Ir centres. As the generation of one O2 molecule requires four equivalents of the one-electron oxidants, the observed H2 and O2 evolution must come from the overall water splitting instead of sacrificial reactions. When D2O was used in the experiment, D2 was observed along with a small amount of HD, confirming the splitting of water to generate hydrogen. All components in the LP–HER-WOR-MOFs are therefore critical for overall water splitting. For example, removing the TCBQ or the Fe3+ redox shuttle in the system led to notably reduced H2 and O2 generation (Supplementary Table 7). The lipid bilayer is also crucial, as incorporating both the HER-MOF (without hydrophobic modification) and the WOR-MOF together during the hydration step into the hydrophilic interior of the liposome resulted in a significantly decreased overall water-splitting activity (Fig. [5d\)](#page-5-0). The liposomal structure was intact during the first 36h but began to degrade after that, as confirmed by both dye-releasing experiments (Supplementary Fig. 43) and confocal images of the liposomes (Supplementary Fig. 44). The water-splitting activity of the LP–HER-WOR-MOF also decreased after 36h, possibly due to destruction of the liposomal structure. The degradation is possibly caused by generation of reactive oxygen species during the reaction.
+
+**Photochemical processes in the HER-MOF.** Femtosecond and nanosecond transient absorption spectroscopies (fsTA: 100 fs to 3.5ns with 410nm excitation; nsTA: 5ns to 3.3ms with 532nm excitation) were used to obtain further insight into the photocatalytic process (Fig. [6](#page-6-0)). Global fitting of the fsTA spectrum of Hf-[(TCPP) Zn]-MOF gave five time constants, of ~100 fs, 1.6ps, 26ps, ~100ps and 1.0ns, together with a long-lasting component for the triplet excited state (Supplementary Figs. 45–49 and Supplementary Table 8). The time for intersystem crossing was 1.0ns, which is consistent with the fluorescence lifetime (Supplementary Fig. 50 and Supplementary Table 9). The first three time constants are due to S2–S1 internal conversion (from the Soret band to the Q band) and
+
+![](_page_4_Figure_2.jpeg)
+
+<span id="page-4-0"></span>**Fig. 4 | Construction and confocal fluorescence microscopy images of LP–HER-WOR-MOF. a**, Assembling the hydrophobically modified HER-MOF with lecithin/cholesterol/TCBQ gave a bilayer film on a glass surface after solvent removal, which was hydrated and sonicated to form vesicles that wrap a fraction of WOR-MOF and Fe3+ in the aqueous phase; the mixture was then pushed through an extruder (1 µm) to reshape large liposomes and remove most of the unwrapped WOR-MOFs that aggregated into particles larger than the pore size. **b**,**d**,**f**, Confocal fluorescence microscopy images of LP–HER-WOR-MOF at different excitation wavelengths. Emissions were collected in the wavelength range of 600–700 nm: red represents HER-MOF + WOR-MOF and green represents WOR-MOF, whereas overlay of green and red gives a yellow colour to represent the overlap of the two MOFs. There is a thin shell of the liposome containing HER-MOF but not WOR-MOF, consistent with distribution of HER-MOF in the bilayer and WOR-MOF in the inner cavity. **c**,**e**,**g**, Higher resolution confocal images of the LP–HER-WOR-MOF at different excitation wavelengths. **h**, TEM image of the LP–HER-WOR-MOF showing WOR-MOF as small dark dots inside the liposome. **i**, Schematic of the LP–HER-WOR-MOF showing HER-MOF as green blocks within the lipid bilayer and marking the space containing WOR-MOF as the blue area. **j**, Excitation spectra of HER-MOF and WOR-MOF.
+
+intramolecular vibrational relaxation[45](#page-8-22). The formation of the S1 state is represented by a stimulated emission (SE) band at around 665nm in the evolution associated difference spectra (Supplementary Fig. 49b and Fig. [6a\)](#page-6-0) of a homogeneous control sample. The S1 state in the Hf-[(TCPP)Zn]-MOF split into two singlet excitonic states, S1h (higher energy at 650nm) and S1l (lower energy at 675nm), due to electronic coupling between adjacent [(TCPP) Zn] moieties (Fig. [6a\)](#page-6-0). The two states equilibrate at a time of ~100ps (Supplementary Fig. 49d). The SE signal of the HER-MOF with both [(TCPP)Zn] and [(TCPP)Pt] shifted to 655nm, which is absent in either Hf-[(TCPP)Zn]-MOF or Hf-[(TCPP)Pt]-MOF, indicating a new excitonic state S1mix from electronic coupling between [(TCPP) Zn] and [(TCPP)Pt] (Fig. [6a](#page-6-0) and Supplementary Fig. 49d), which is also confirmed by fluorescence spectroscopy (Supplementary Figs. 50–52). Importantly, the addition of phenol to the HER-MOF suspension neither changed the fsTA results (Supplementary
+
+![](_page_5_Figure_2.jpeg)
+
+<span id="page-5-0"></span>**Fig. 5 | Photocatalytic activity of LP–MOF hybrids. a**, Photocatalytic hydrogen evolution by the LP–HER-MOF with different [(TCPP)Pt] doping levels under visible-light irradiation (light source: 400 nm LED) showing higher TOFs at lower [(TCPP)Pt] doping levels due to concentrated photo-produced electrons at individual [(TCPP)Pt] centres in the antennae providing multi-electron injection for the HER. **b**, Photocatalytic water oxidation by the LP–WOR-MOF under visible-light irradiation (light source: 450 nm LED) showing progressive O2 evolution. TON, turnover number. **c**, Overall water splitting by the LP–HER-WOR-MOF under visible-light irradiation (light source: 400 nm LED + 450 nm LED) showing H2 and O2 produced in a roughly 2:1 ratio. **d**, Overall water splitting by the unmodified hydrophilic HER-MOF and WOR-MOF inside the liposome to be compared with the LP–HER-WOR-MOF shown in **c**, demonstrating the importance of separation of the HER- and WOR-MOFs by the liposomal structure for overall water splitting. The error bars represent ± the standard deviation obtained from three independent tests.
+
+Figs. 47 and 49) nor quenched the fluorescence (Supplementary Figs. 53 and 54), suggesting that electron transfer happens over a longer time scale.
+
+The triplet excited states were then monitored by nsTA spectroscopy at 490nm, which is the maximum of the excited state absorption. However, phenol does not quench triplet excited states in either the Hf-[(TCPP)Zn]-MOF (lifetime: 52.6μs) or the homogeneous solution of [(TCPP)Zn] (58μs) (Supplementary Figs. 55 and 56 and Supplementary Table 10)[46.](#page-8-23) On the other hand, doping [(TCPP)Pt] into the MOF shortened the lifetime to 1.5μs in HER-MOF, possibly due to dissociation of the excitonic state (T1mix from intersystem crossing of S1mix) to generate [(TCPP)Pt]<sup>−</sup> and [(TCPP) Zn]<sup>+</sup> (Fig. [6b\)](#page-6-0). A residual component representing [(TCPP)Zn]<sup>+</sup> finally decayed with a time constant of 0.32ms, which corresponds to the rate of charge recombination. The addition of 0.15mM of phenol significantly shortened this time to 0.19ms, indicating a reaction between phenol and [(TCPP)Zn]<sup>+</sup> to regenerate [(TCPP) Zn] (Fig. [6c](#page-6-0)).
+
+The HER thus occurs via light-induced charge separation between [(TCPP)Zn] and [(TCPP)Pt]. The generated [(TCPP)Pt]<sup>−</sup> is then protonated to [(TCPP)Pt-H], which accepts another electron and another proton to release one H2 molecule (Fig. [7a](#page-7-2)).
+
+**Photochemical processes in the WOR-MOF.** For the WOR side, global fitting of the fsTA spectra of Zr-[Ru]2<sup>+</sup>-MOF gave two fast components with time constants of 660 fs and 4.2ps that are due to fast intramolecular vibrational relaxation and triplet metal-to-ligand charge transfer (3 MLCT) dynamics involving inter-ligand electron transfer (Supplementary Figs. 57–59, Supplementary Table 11[\)47.](#page-8-24) There is also a long-lasting component (lifetime>10ns) assigned as the relaxed 3 MLCT state of [Ru]2+\* (ref. [47\)](#page-8-24). In the WOR-MOF, excited-state dynamics of the [(BPYDC)Ir] reaction centre were also observed with a time constant of 79ps. The [Ru]2+\* excited state was quenched with a time constant of 1.9ns, possibly through energy transfer. The addition of Fe3<sup>+</sup> (37mM) to the suspension of the WOR-MOF gave a significant change even within the first 660 fs. The decay-associated difference spectra of the initial component indicated a fast build-up of negative signals in the 500–600nm region (Fig. [6d](#page-6-0) and Supplementary Figs. 60 and 61), which is consistent with the generation of [Ru]3+ from [Ru]2+\* (ref. [47](#page-8-24)) ([Ru]3<sup>+</sup>/ [Ru]2+\* 0.35VNHE versus Fe3+/Fe2<sup>+</sup> 0.77VNHE). This fast electron transfer is also consistent with static phosphorescence quenching of [Ru]2+\* by Fe3<sup>+</sup> (Fig. [6d,e](#page-6-0)). The decay-associated difference spectra of this component are also similar to that of the photooxidation of [Ru]2+ using Na2S2O8 (42mM) (Fig. [6f](#page-6-0) and Supplementary Fig. 54). The [Ru]3<sup>+</sup> then oxidizes Ir to a higher oxidation state ([Ru]3+/[Ru]2<sup>+</sup> 1.47VNHE versus [(BPYDC)Ir]/[(BPYDC)Ir]<sup>+</sup> 1.34VNHE[\)29,](#page-8-13)[40,](#page-8-19) possibly with a time constant of 0.92ns (Supplementary Table 11).
+
+The WOR is thus initiated by the photo-oxidation of [Ru]2+\* by Fe3+ to produce [Ru]3<sup>+</sup>, which in turn oxidizes [(BPYDC)Ir] for water oxidation (Fig. [7b](#page-7-2) and Supplementary Table 12)[48](#page-8-25)–[50](#page-8-26).
+
+![](_page_6_Figure_2.jpeg)
+
+<span id="page-6-0"></span>**Fig. 6 | Transient absorption spectra of HER-MOF and WOR-MOF. a**, The fsTA spectra of the Hf-[(TCPP)Zn]-MOF, HER-MOF and Hf-[(TCPP)Pt]-MOF, showing the emergence of an excitonic state. **b**, Time trace nsTA spectra at 490 nm of Hf-[(TCPP)Zn]-MOF and HER-MOF, showing the decay signal of the triplet excited state of [(TCPP)Zn] with a lifetime of 52.6 ± 0.7 µs using a mono-exponential model [*y*=*A* exp(−*t*/*τ*), where *A*= 37.2 ± 0.2 and *τ*= 52.6 ± 0.7 µs], and formation of charge-separated [(TCPP)Pt]− and [(TCPP)Zn]+ species in the HER-MOF with a time constant of 1.5 ± 0.1 µs using a bi-exponential model [*y*=*A*1 (exp−*t*/*τ*1) + A2 exp(−*t*/*τ*2), where *A*1= 272 ± 1, *τ*1= 1.5 ± 0.1 µs, *A*2= 62.8 ± 0.2 and *τ*2= 47 ± 4 µs]. **c**, Time trace nsTA spectra at 490 nm of the HER-MOF and HER-MOF + 0.015 mM phenol, showing recombination of [(TCPP)Pt]− and [(TCPP)Zn]+ in the HER-MOF with a time constant of 0.32 ± 0.01 ms using a mono-exponential model [*y*=*A* exp(−*t*/*τ*), where *A*= 32.7 ± 0.1 and *τ*= 0.32 ± 0.01 ms] and phenol to quench the generated [(TCPP)Zn]+ with a reduced time constant of 0.19 ± 0.005 ms using a mono-exponential model [*y*=*A* exp(−*t*/*τ*), where *A*= 34.6 ± 0.1 and *τ*= 0.19 ± 0.005 ms]. The errors of the fitted time constants in **b** and **c** are the standard deviations obtained from data fitting. **d**, The fsTA spectra of the WOR-MOF, WOR-MOF + FeCl3 and WOR-MOF + Na2S2O8 at 5 ps, showing fast electron transfer to produce Ru3+ by a red shift of the spectra. **e**, Quenching of the [Ru]2+ emission by different concentrations of Fe3+, confirming electron transfer between the two. **f**, The fs TA spectra of the WOR-MOF, WOR-MOF + FeCl3 and WOR-MOF + Na2S2O8 at 3.5 ns, suggesting the generation of high-valence Ir species on this time scale in the presence of oxidant, which is consistent with the colour change of the WOR-MOF + Na2S2O8 after irradiation.
+
+**Charge recombination.** The lipid bilayer prevents direct charge recombination between the HER-MOF and the WOR-MOF. Furthermore, TCBQ/TCBQH added to the lipid bilayer is not in contact with the WOR-MOF, which is consistent with the lack of phosphorescence quenching of the Zr-[Ru]2<sup>+</sup>-MOF by TCBQ in the liposomal assembly (Supplementary Fig. 61) and avoids reaction between TCBQH and oxidative species in the WOR-MOF. Similarly, the Fe3+/Fe2<sup>+</sup> pair added in the hydration step in the aqueous phase is not in contact with the HER-MOF, as evidenced by the lack of fluorescence quenching of the Hf-[(TCPP)Zn]-MOF by Fe3<sup>+</sup> in the assembly (Supplementary Fig. 30). On the other hand, a redox reaction between Fe3+/Fe2<sup>+</sup> (0.77VNHE) and TCBQ/TCBQH
+
+![](_page_7_Figure_2.jpeg)
+
+<span id="page-7-2"></span>**Fig. 7 | The photocatalytic cycle and energy level diagram. a**, Photocatalytic hydrogen evolution cycle. **b**, Photocatalytic water oxidation cycle. **c**, Energy level diagram of overall water splitting. The energy levels are either determined by electrochemical/photophysical measurements or estimated based on values in the literature. To sum up, photo-excitation of [Ru]2+ in the WOR-MOF initiates its oxidation by Fe3+ to produce high-valence Ir species that oxidize water to O2 and generate a proton. Fe2+ and the proton react with TCBQ at the lipid/water interface to produce reduced TCBQH and Fe3+. In the HER-MOF, [(TCPP)Zn]/[(TCPP)Pt] are excited to an excitonic triplet state that undergoes charge separation to produce [(TCPP)Pt]− and [(TCPP) Zn]+. TCBQH is oxidized by [(TCPP)Zn]+ and releases a proton to [(TCPP)Pt]− and thus [(TCPP)Pt-H] is obtained, which accepts another electron and proton to release H2.
+
+(0.8VNHE) can happen efficiently at the interface of the liposome (Supplementary Fig. 62a). This is facilitated by favourable adsorption of Fe3+/Fe2<sup>+</sup> on the polar heads of the lipid (Supplementary Fig. 62b). Charge recombination can still occur between TCBQ and the reductive species in the HER-MOF or Fe2+ and the oxidative species in the WOR-MOF. The latter process is considered as the major recombination channel, as Fe2<sup>+</sup> is detected in the aqueous solution by UV-visible spectroscopy using phenanthroline as an indicator of photocatalysis, while the resting state of TCBQ in the reaction is in its reductive form as confirmed by the lack of fluorescence quenching of [(TCPP)Zn] (Supplementary Fig. 63). The accumulated Fe2<sup>+</sup> in the water-splitting process indicated unbalanced reaction rates in the HER and WOR sides, that is, the overall rate of the HER (reduction side) is slower than the WOR (oxidation side), so redox shuttles are trapped in their reductive form that can recombine with oxidative species like [Ru(BPY)3]3<sup>+</sup>, limiting the quantum efficiency in the current system.
+
+**The overall water-splitting process.** The overall water splitting process is thus initiated by the photo-oxidation of [Ru]2<sup>+</sup> in the WOR-MOF by Fe3+, followed by hole transfer to Iriii centres to generate Iriv/v species, which oxidize water to O2 with concomitant generation of a proton. The generated Fe2<sup>+</sup> is then adsorbed to the lipid/water interface where it reacts with TCBQ to afford the reduced TCBQH and Fe3<sup>+</sup>. The proton on the TCBQH comes from water. Another photon excites the [(TCPP)Zn]/[(TCPP)Pt] to an excitonic triplet state in the HER-MOF, which undergoes charge separation to generate [(TCPP)Pt]<sup>−</sup> and [(TCPP)Zn]<sup>+</sup>. The [(TCPP) Zn]<sup>+</sup> oxidizes the TCBQH back to TCBQ and releases the proton; the [(TCPP) Pt]<sup>−</sup> is protonated to [(TCPP)Pt-H], which accepts another electron and proton to release H2 to complete the overall water-splitting cycle (Fig. [7c](#page-7-2) and Supplementary Figs. 64–67 and Supplementary Table 12).
+
+### **Conclusion**
+
+We show evidence for overall photocatalytic water splitting by hierarchically assembling a HER-MOF, constructed from hydrophobically modified Hf6(μ3-O)4(μ3-OH)4 clusters with pentafluoropropionate groups and [(TCPP)Zn]/[(TCPP)Pt] linkers, and a WOR-MOF, constructed from Zr12(μ3-O)8(μ3-OH)8(μ2-OH)6 clusters and [Ru]2<sup>+</sup> and [(BPYDC)Ir] linkers, in liposome vesicles. Connected by the Fe3+/Fe2<sup>+</sup> and TCBQ/TCBQH redox relays, these MOFs use sunlight energy (irradiation) to convert water into chemical fuels (H2 and O2) through the 'Z-scheme'. The lipid membrane separates the oxidative and reductive components of the system to avoid charge recombination. Transient absorption spectroscopy studies confirmed fast electron transport from the antennae to the reaction centres in this artificial photosynthetic system. The efficiency of the current hybrid system is limited, with an apparent quantum yield of (1.5±1)%, by unbalanced rates of the HER and WOR sides in which a slower overall rate of the HER compared with the WOR gives rise to the accumulation of redox shuttles in the reductive form that can recombine with oxidative species like [Ru(BPY)3]3<sup>+</sup> on the oxidation side. This, we hope can be improved in future studies. Importantly, this work highlights the hierarchical organization of MOF components into biomimetic hybrid assemblies to accomplish complex functions.
+
+### **Online content**
+
+Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at [https://doi.org/10.1038/](https://doi.org/10.1038/s41557-020-00635-5) [s41557-020-00635-5](https://doi.org/10.1038/s41557-020-00635-5).
+
+Received: 13 May 2019; Accepted: 18 December 2020; Published online: 15 February 2021
+
+### **References**
+
+- <span id="page-7-0"></span>1. Ciamician, G. Te photochemistry of the future. *Science* **36**, 385–394 (1912).
+- <span id="page-7-1"></span>2. Barber, J. Photosynthetic energy conversion: natural and artifcial. *Chem. Soc. Rev.* **38**, 185–196 (2009).
+
+- <span id="page-8-0"></span>3. Favereau, L. et al. A molecular tetrad that generates a high-energy charge-separated state by mimicking the photosynthetic Z-scheme. *J. Am. Chem. Soc.* **138**, 3752–3760 (2016).
+- <span id="page-8-1"></span>4. Kothe, T. et al. Combination of a photosystem 1-based photocathode and a photosystem 2-based photoanode to a Z-scheme mimic for biophotovoltaic applications. *Angew. Chem. Int. Ed.* **52**, 14233–14236 (2013).
+- <span id="page-8-2"></span>5. Tian, H., Yu, Z., Hagfeldt, A., Kloo, L. & Sun, L. Organic redox couples and organic counter electrode for efcient organic dye-sensitized solar cells. *J. Am. Chem. Soc.* **133**, 9413–9422 (2011).
+- 6. Sokol, K. P. et al. Bias-free photoelectrochemical water splitting with photosystem II on a dye-sensitized photoanode wired to hydrogenase. *Nat. Energy* **3**, 944–951 (2018).
+- 7. Li, Z. et al. Biomimetic electron transport via multiredox shuttles from photosystem II to a photoelectrochemical cell for solar water splitting. *Energy Environ. Sci.* **10**, 765–771 (2017).
+- 8. Tachibana, Y., Vayssieres, L. & Durrant, J. R. Artifcial photosynthesis for solar water-splitting. *Nat. Photonics* **6**, 511–518 (2012).
+- 9. Li, F. et al. Organic dye-sensitized tandem photoelectrochemical cell for light driven total water splitting. *J. Am. Chem. Soc.* **137**, 9153–9159 (2015).
+- 10. Gurudayal et al. Perovskite–hematite tandem cells for efcient overall solar driven water splitting. *Nano Lett.* **15**, 3833–3839 (2015).
+- <span id="page-8-3"></span>11. Wang, W., Li, Z., Chen, J. & Li, C. Crucial roles of electron–proton transport relay in the photosystem II-photocatalytic hybrid system for overall water splitting. *J. Phys. Chem. C* **121**, 2605–2612 (2017).
+- <span id="page-8-4"></span>12. Cui, Y. et al. Metal–organic frameworks as platforms for functional materials. *Acc. Chem. Res.* **49**, 483–493 (2016).
+- 13. Fateeva, A. et al. A water-stable porphyrin-based metal–organic framework active for visible-light photocatalysis. *Angew. Chem. Int. Ed.* **51**, 7440–7444 (2012).
+- 14. Kalmutzki, M. J., Hanikel, N. & Yaghi, O. M. Secondary building units as the turning point in the development of the reticular chemistry of MOFs. *Sci. Adv.* **4**, eaat9180 (2018).
+- 15. Maza, W. A., Padilla, R. & Morris, A. J. Concentration dependent dimensionality of resonance energy transfer in a postsynthetically doped morphologically homologous analogue of UiO-67 MOF with a ruthenium(II) polypyridyl complex. *J. Am. Chem. Soc.* **137**, 8161–8168 (2015).
+- 16. Son, H. J. et al. Light-harvesting and ultrafast energy migration in porphyrinbased metal–organic frameworks. *J. Am. Chem. Soc.* **135**, 862–869 (2013).
+- <span id="page-8-5"></span>17. Choi, K. M. et al. Plasmon-enhanced photocatalytic CO2 conversion within metal–organic frameworks under visible light. *J. Am. Chem. Soc.* **139**, 356–362 (2017).
+- <span id="page-8-6"></span>18. Nilsson, T. et al. Lipid-mediated protein-protein interactions modulate respiration-driven ATP synthesis. *Sci. Rep.* **6**, 24113 (2016).
+- 19. Steinberg-Yfrach, G. et al. Conversion of light energy to proton potential in liposomes by artifcial photosynthetic reaction centres. *Nature* **385**, 239–241 (1997).
+- 20. Li, Y. et al. Supramolecular assembly of photosystem II and adenosine triphosphate synthase in artifcially designed honeycomb multilayers for photophosphorylation. *ACS Nano.* **12**, 1455–1461 (2018).
+- 21. Limburg, B. et al. Kinetics of photocatalytic water oxidation at liposomes: membrane anchoring stabilizes the photosensitizer. *ACS Catal.* **6**, 5968–5977 (2016).
+- <span id="page-8-7"></span>22. Limburg, B., Bouwman, E. & Bonnet, S. Molecular water oxidation catalysts based on transition metals and their decomposition pathways. *Coord. Chem. Rev.* **256**, 1451–1467 (2012).
+- <span id="page-8-8"></span>23. Fang, X. et al. Single Pt atoms confned into a metal–organic framework for efcient photocatalysis. *Adv. Mater.* **30**, 1705112 (2018).
+- <span id="page-8-9"></span>24. Wang, C., Wang, J.-L. & Lin, W. Elucidating molecular iridium water oxidation catalysts using metal–organic frameworks: a comprehensive structural, catalytic, spectroscopic, and kinetic study. *J. Am. Chem. Soc.* **134**, 19895–19908 (2012).
+- <span id="page-8-10"></span>25. Hu, Z. et al. Kinetically controlled synthesis of two-dimensional Zr/Hf metal–organic framework nanosheets via a modulated hydrothermal approach. *J. Mater. Chem. A* **5**, 8954–8963 (2017).
+- <span id="page-8-12"></span>26. Maza, W. A. & Morris, A. J. Photophysical characterization of a ruthenium(II) tris(2,2′-bipyridine)-doped zirconium UiO-67 metal–organic framework. *J. Phys. Chem. C* **118**, 8803–8817 (2014).
+- 27. Feng, D. et al. Zirconium-metalloporphyrin PCN-222: mesoporous metal–organic frameworks with ultrahigh stability as biomimetic catalysts. *Angew. Chem. Int. Ed.* **51**, 10307–10310 (2012).
+- <span id="page-8-11"></span>28. He, T. et al. Ultrathin 2D zirconium metal–organic framework nanosheets: preparation and application in photocatalysis. *Small* **14**, 1703929 (2018).
+- <span id="page-8-13"></span>29. Dai, R. et al. Electron crystallography reveals atomic structures of metal– organic nanoplates with M12(μ3-O)8(μ3-OH)8(μ2-OH)6 (M = Zr, Hf) secondary building units. *Inorg. Chem.* **56**, 8128–8134 (2017).
+- <span id="page-8-14"></span>30. Clife, M. J. et al. Metal–organic nanosheets formed via defect-mediated transformation of a hafnium metal–organic framework. *J. Am. Chem. Soc.* **139**, 5397–5404 (2017).
+- <span id="page-8-15"></span>31. Xie, R., Hong, S., Feng, L., Rong, J. & Chen, X. Cell-selective metabolic glycan labeling based on ligand-targeted liposomes. *J. Am. Chem. Soc.* **134**, 9914–9917 (2012).
+- <span id="page-8-16"></span>32. Wang, C., deKraf, K. E. & Lin, W. Pt nanoparticles@photoactive metal– organic frameworks: efcient hydrogen evolution via synergistic photoexcitation and electron injection. *J. Am. Chem. Soc.* **134**, 7211–7214 (2012).
+- 33. Lv, H. et al. A noble-metal-free, tetra-nickel polyoxotungstate catalyst for efcient photocatalytic hydrogen evolution. *J. Am. Chem. Soc.* **136**, 14015–14018 (2014).
+- 34. Kim, D., Whang, D. R. & Park, S. Y. Self-healing of molecular catalyst and photosensitizer on metal–organic framework: robust molecular system for photocatalytic H2 evolution from water. *J. Am. Chem. Soc.* **138**, 8698–8701 (2016).
+- 35. Zhang, F.-M. et al. Rational design of MOF/COF hybrid materials for photocatalytic H2 evolution in the presence of sacrifcial electron donors. *Angew. Chem. Int. Ed.* **57**, 12106–12110 (2018).
+- 36. Eckenhof, W. T. & Eisenberg, R. Molecular systems for light driven hydrogen production. *Dalton Trans.* **41**, 13004–13021 (2012).
+- <span id="page-8-17"></span>37. Bae, E. & Choi, W. Efect of the anchoring group (carboxylate vs phosphonate) in Ru-complex-sensitized TiO2 on hydrogen production under visible light. *J. Phys. Chem. B* **110**, 14792–14799 (2006).
+- <span id="page-8-18"></span>38. Lan, Q. et al. Highly dispersed polyoxometalate-doped porous Co3O4 water oxidation photocatalysts derived from POM@MOF crystalline materials. *Chem. Eur. J.* **22**, 15513–15520 (2016).
+- 39. Huang, Z. et al. Efcient light-driven carbon-free cobalt-based molecular catalyst for water oxidation. *J. Am. Chem. Soc.* **133**, 2068–2071 (2011).
+- <span id="page-8-19"></span>40. Chi, L., Xu, Q., Liang, X., Wang, J. & Su, X. Iron-based metal–organic frameworks as catalysts for visible light-driven water oxidation. *Small* **12**, 1351–1358 (2016).
+- <span id="page-8-20"></span>41. Wang, Q. et al. Particulate photocatalyst sheets based on carbon conductor layer for efcient Z-scheme pure-water splitting at ambient pressure. *J. Am. Chem. Soc.* **139**, 1675–1683 (2017).
+- 42. Iwase, A., Ng, Y. H., Ishiguro, Y., Kudo, A. & Amal, R. Reduced graphene oxide as a solid-state electron mediator in Z-scheme photocatalytic water splitting under visible light. *J. Am. Chem. Soc.* **133**, 11054–11057 (2011).
+- 43. Melo, M. A. et al. Surface photovoltage measurements on a particle tandem photocatalyst for overall water splitting. *Nano Lett.* **18**, 805–810 (2018).
+- <span id="page-8-21"></span>44. Zhu, M., Sun, Z., Fujitsuka, M. & Majima, T. Z-scheme photocatalytic water splitting on a 2D heterostructure of black phosphorus/bismuth vanadate using visible light. *Angew. Chem. Int. Ed.* **57**, 2160–2164 (2018).
+- <span id="page-8-22"></span>45. Gurzadyan, G. G., Tran-Ti, T.-H. & Gustavsson, T. Time-resolved fuorescence spectroscopy of high-lying electronic states of Zn-tetraphenylporphyrin. *J. Chem. Phys.* **108**, 385–388 (1998).
+- <span id="page-8-23"></span>46. Tran Ti, T. H., Desforge, C., Tiec, C. & Gaspard, S. Singlet–singlet and triplet–triplet intramolecular transfer processes in a covalently linked porphyrin–phthalocyanine heterodimer. *J. Phys. Chem.* **93**, 1226–1233 (1989).
+- <span id="page-8-24"></span>47. Reichardt, C. et al. Excited state dynamics of a photobiologically active Ru(II) dyad are altered in biologically relevant environments. *J. Phys. Chem. A* **121**, 5635–5644 (2017).
+- <span id="page-8-25"></span>48. Limburg, B., Bouwman, E. & Bonnet, S. Rate and stability of photocatalytic water oxidation using [Ru(bpy)3]2<sup>+</sup> as photosensitizer. *ACS Catal.* **6**, 5273–5284 (2016).
+- 49. Wang, C., Xie, Z., deKraf, K. E. & Lin, W. Light-harvesting cross-linked polymers for efcient heterogeneous photocatalysis. *ACS Appl. Mater. Interfaces* **4**, 2288–2294 (2012).
+- <span id="page-8-26"></span>50. Hong, D., Yamada, Y., Nagatomi, T., Takai, Y. & Fukuzumi, S. Catalysis of nickel ferrite for photocatalytic water oxidation using [Ru(bpy)3]2<sup>+</sup> and S2O8 <sup>2</sup><sup>−</sup>. *J. Am. Chem. Soc.* **134**, 19572–19575 (2012).
+
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+© The Author(s), under exclusive licence to Springer Nature Limited 2021
+
+### **Methods**
+
+**Catalyst preparation.** *Synthesis of the Hf-[(TCPP)Zn(Pt)]-MOF (HER-MOF).* Te synthetic procedure for the Hf-[(TCPP)Zn(Pt)]-MOF was modifed from that of a previously reported MOF[28](#page-8-11). However, the resultant MOF structure is diferent from the reported one. A mixture of HfCl4 (19.2mg, 60μmol) and [(H4TCPP)Zn] (8.6mg, 10μmol) was dissolved in a mixture of DMF (1.6ml), HCO2H (0.75ml) and H2O (0.66ml) in a Pyrex vial, and was kept at 120 °C for three days. Te Hf- [(TCPP)Zn]-MOF was isolated as a powder by centrifugation before washing with DMF and H2O several times (~90% yield). Te Hf-[(TCPP)Zn(Pt)]-MOF series with mixed [(TCPP)Pt]/[(TCPP)Zn] ratios was synthesized following a similar procedure but with diferent [(TCPP)Pt]/[(TCPP)Zn] ratios. Te resultant MOFs were then sonicated and fltered through a porous membrane (pore size 1µm) to remove large pieces (~32% yield).
+
+*Determining the structure of the Hf-[(TCPP)Zn]-MOF.* We assigned the structure of the Hf-[(TCPP)Zn]-MOF as Hf6 SBUs linked by [(TCPP)Zn] ligands in an sql lattice (Supplementary Figs. 5 and 6). The evidence below supports this structure assignment.
+
+First, HRTEM images of the Hf-[(TCPP)Zn]-MOF gave clear lattice patterns (Supplementary Fig. 7b) and the selected area electron diffraction image along the [001] zone axis (Supplementary Fig. 7b) can be indexed to (*hk*0) using a unit cell of dimensions *a*=39.76Å, *b*=16.65Å, *c*=43.11Å, *α*=90°, *β*=84° and *γ*=90° (the value of *c* and the accurate values of *a* and *b* were obtained from PXRD patterns). The STEM-HAADF image showed the arrangement of SBUs in a 4,4-connected sql topology with each SBU represented as a white dot (Supplementary Fig. 7c). The measured inter-SBU distances in the HAADF image were 1.69nm in one direction (1.67nm in the model, with 1% deviation) and 1.95nm in the other direction (1.97nm in the model, with 1% deviation), matching that of a zig-zag monolayer model of the Hf-[(TCPP)Zn]-MOF (Supplementary Fig. 5). HRTEM and electron diffraction of other regions of the sample gave another sql lattice with inter-SBU distances of 1.7nm in one direction and 2.2nm in the other direction (Supplementary Fig. 7d). These distances correspond to the structure of a flat lattice (Supplementary Fig. 6).
+
+Second, AFM measurement of the Hf-[(TCPP)Zn]-MOF showed a thickness range of 1.3–2.2nm (Supplementary Fig. 11). The 1.3nm thickness matches roughly the height of the flat lattice while the 2.2nm thickness matches roughly the height of the zig-zag lattice.
+
+Third, the PXRD pattern was consistent with a combination of the simulated patterns of monolayer[s51](#page-10-0) of the flat and the zig-zag lattices (Supplementary Fig. 8).
+
+Fourth, thermogravimetric analysis (TGA) gave a weight loss of 25% from room temperature to 350°C (Supplementary Fig. 9), which corresponds to the loss of solvent and coordinated H2O and formates; the 28% weight loss in the 350–465°C range corresponds to the decomposition of [(TCPP)Zn], and the residual weight of 47% is due to HfO2 and ZnO. The [(TCPP)Zn]/Hf ratio calculated from TGA is only slightly lower than 1:6, which is predicted from the structural models.
+
+Fifth, the 1 H NMR spectrum of the dissolved Hf-[(TCPP)Zn]-MOF in d6-dimethyl sulfoxide/K3PO4–D2O (4:1) gave an *n*(HCO2H):*n*([(TCPP)Zn]) ratio of 3.4:1 from the integrations (Supplementary Fig. 10). The formates coordinate to the sites on the SBUs that are not occupied by the carboxylates from the [(TCPP) Zn] ligands. The theoretical ratio of *n*(HCO2H):*n*([(TCPP)Zn]) was 3:1 for the Hf6- [(TCPP)Zn]-MOF, which is close to the experimental value.
+
+Sixth, the connections in the zig-zag and flat layers are chemically equivalent. Therefore, there is no energy preference for forming one structure over the other. The real structure can be a combination of the two, even within one nanosheet.
+
+*Hydrophobic modification of the HER-MOF.* The Hf-[(TCPP)Zn(Pt)]-MOF was hydrophobically modified by replacing the capping formates with pentafluoropropionate groups. The MOF was dispersed in DMF and reacted with three equivalents of pentafluoropropionic acid in the solution at 60 °C for 6h before being washed with DMF and ethanol multiple times. The contact angle of the resultant HER-MOF was measured by drop-drying the MOF on a clean silicon wafer to form a film for the test.
+
+*Synthesis and characterization of the Zr-[Ru]2*<sup>+</sup>*-MOF.* The Zr-[Ru]2<sup>+</sup>-MOF was synthesized following procedure similar to that for a previously reported MOF[29.](#page-8-13) A mixture of ZrCl4 (20mg, 86μmol), H2BPYDC (20mg, 82μmol) and [Ru]2<sup>+</sup> (11.7mg, 16μmol) was dissolved in a mixture of DMF (3.6ml), HCO2H (1.0ml) and H2O (4.4ml) in a Pyrex vial, and was kept at 120 °C for two days. The Zr- [Ru]2<sup>+</sup>-MOF was isolated as a powder by centrifugation before being washed with DMF and H2O multiple times, and was obtained in 80% yield. The phase purity of the synthesized MOF was supported by the similarity between the experimental and simulated PXRD patterns (Supplementary Fig. 17).
+
+*Synthesis of the WOR-MOF.* The WOR-MOF was prepared by coordinating IrCl3·3H2O or Ir(NO3)3 onto the Zr-[Ru]2<sup>+</sup>-MOF. The Ir(NO3)3 was prepared by heating IrCl3·3H2O (300mg, 1.0μmol), AgNO3 (550mg, 3.2μmol) and H2O (30ml) in a 50ml round-bottomed flask at 60 °C in the dark overnight before removing the AgCl precipitate by filtration through diatomaceous earth. The filtrate was used directly for reaction with Zr-[Ru]2<sup>+</sup>-MOF (320mg, 0.2μmol) at 90 °C in the dark
+
+overnight. Loading of IrCl3·3H2O (108mg, 0.34μmol) was similarly achieved by reaction with Zr-[Ru]2<sup>+</sup>-MOF (320mg, 0.2μmol) at 90 °C in the dark overnight. The resultant WOR-MOF was isolated through centifugation, then washed with H2O and DMF multiple times. The phase purity of the WOR-MOF was supported by the similarity between the experimental and simulated PXRD patterns (Supplementary Fig. 17).
+
+*Synthesis of the LP–HER-MOF.* The liposomes were synthesized following similar procedures in the literature using a film-dispersion method[31](#page-8-15). To a 100ml round-bottomed flask was added PC (1.71ml, 10mgml<sup>−</sup><sup>1</sup> ), Chol (291 μl, 10mgml<sup>−</sup><sup>1</sup> ) and the HER-MOF (1.71mg). The solvent was removed by rotary evaporation to leave a thin film on the wall of the flask. The flask was kept in vacuo overnight. The dried lipid film was then hydrated in the presence of Pyrex glass beads in the dark with aqueous solution. The mixture was ultra-sonicated for 10min, followed by ten freeze–thaw cycles using liquid N2, and then immersed in a 55 °C water bath to form a multilamellar vesicle suspension. The suspension was cooled slowly to room temperature over 30min before being extruded with a mini-extruder (Avanti Polar Lipids) at room temperature using a polycarbonate membrane (pore size 1μm) for 11 cycles to obtain the LP–HER-MOF.
+
+*Synthesis of the LP–WOR-MOF.* To a 100ml round-bottomed flask was added PC (1.71ml, 10mgml<sup>−</sup><sup>1</sup> ) and Chol (291 μl, 10mgml<sup>−</sup><sup>1</sup> ). The solvent was removed by rotary evaporation to leave a thin film on the wall of the flask. The flask was kept in vacuo overnight. The dried lipid film was then hydrated in the presence of WOR-MOF (1.71mg). The mixture was then ultra-sonicated for 10min, followed by ten freeze–thaw cycles using liquid N2, and then immersed in a 55 °C water bath to form a multilamellar vesicle suspension. The suspension was cooled slowly to room temperature over 30min before being extruded with a mini-extruder at room temperature using a polycarbonate membrane (pore size 1 µm) for 11 cycles to obtain the LP–WOR-MOF.
+
+*Synthesis of the LP–HER-WOR-MOF.* To a 100ml round-bottomed flask was added PC (1.71ml, 10mgml<sup>−</sup><sup>1</sup> ), Chol (291μl, 10mgml<sup>−</sup><sup>1</sup> ), TCBQ (1mg) and the HER-MOF (1.71mg). The solvent was removed by rotary evaporation to leave a thin film on the wall of the flask. The flask was kept in vacuo overnight. The dried lipid film was then hydrated in the presence of the WOR-MOF (1.71mg) and FeCl3 (1.5mg). The mixture was then ultra-sonicated for 10min, followed by ten freeze–thaw cycles using liquid N2, and then immersed in a 55°C water bath to form a multilamellar vesicle suspension. The suspension was cooled slowly to room temperature over 30min before being extruded with a mini-extruder at room temperature using a polycarbonate membrane (pore size 1μm) for 11 cycles to obtain the aqueous suspension of the LP–HER-WOR-MOF. The suspension contained liposomes with 10mgml<sup>−</sup><sup>1</sup> of PC, 10mgml<sup>−</sup><sup>1</sup> of Chol and 0.07mgml<sup>−</sup><sup>1</sup> of the HER MOF in the LP–HER-MOF assembly, and 0.04mg ml<sup>−</sup><sup>1</sup> of the WOR-MOF in the LP–WOR-MOF assembly (the amounts of MOFs were determined using ICP-MS).
+
+*Determining the amount of MOFs in the LP–MOF assembly.* Unwrapped MOFs were all removed during the extrusion step in liposome preparation, as they aggregated to form large pieces. The MOFs encapsulated in the liposomes were released by adding DMF to the liposome suspension to destroy the liposome and dissolve the lipids. The MOFs were then obtained by centrifugation (speed 9,600 rpm, ~6,000 *g*, time 5min). The amount of MOFs was quantified by digesting them for ICP-MS analysis and the incorporation yield was thus obtained by dividing the amount of incorporated MOFs by the amount of MOFs initially added to the suspension.
+
+*General procedure for ICP-MS experiments.* For ICP-MS measurements, 2mg of the MOF was added to a mixture of concentrated hydrochloric acid (1.5ml), concentrated nitric acid (0.5ml) and hydrogen peroxide (two drops) and was kept at 200 °C overnight. ICP-MS analysis was performed using a SCIEX ELAN ICP-DRC-qMS instrument (PerkinElmer) equipped with a concentric pneumatic nebulizer (Meinhard) and a cyclonic spray chamber. Samples were diluted in a 5% nitric acid matrix and analysed with a 159Tb internal standard against a six-point standard curve over the range from 1 to 100ppm. The correlation coefficient was >0.9997 for all analytes of interest.
+
+*ICP-MS measurement of the supernatant after catalysis.* After reaction, we added ethanol to the liposome suspension to destroy the liposome and dissolve the lipids. The MOFs were then obtained by centrifugation (speed 9,600 rpm, ~6,000 *g*, time 5min), and the supernatant solution was evaporated to remove the ethanol for ICP-MS measurement.
+
+*General procedure for the photocatalytic hydrogen evolution experiments.* MOF hybrids for photocatalytic hydrogen evolution were loaded in 20ml septum-sealed glass vials filled with H2O (10ml). Phenol (100mg) was added as a sacrificial reducing agent. The sample vials were capped and deoxygenated by bubbling with nitrogen for 30min. The vials were then placed in front of a 400nm LED with magnetic stirring. The hydrogen evolution reaction lasted 24hs, after which the gas in the headspace of the vial was analysed by GC (GC7900) to determine the amount of hydrogen generated.
+
+*General procedure for the water oxidation experiments.* MOF hybrids for photocatalytic water oxidation were loaded in 20ml septum-sealed glass vials filled with H2O (10ml). For testing the WOR-MOF, Na2S2O8 (100mg) was added as the sacrificial oxidizing agent; for the LP–WOR-MOF, 8.5mg of Na2S2O8 or TCBQ were added as the sacrificial oxidizing agent. Sample vials were capped and deoxygenated by bubbling with nitrogen for 30min. The vials were then placed in front of a 450nm LED with magnetic stirring. The water oxidation reaction lasted for 16hs, after which the gas in the headspace of the vial was analysed by GC (GC7900) to determine the amount of oxygen generated.
+
+*Standard catalytic test for overall water splitting.* The LP–HER-WOR-MOF (10ml) was placed in a 20ml sealed container and degassed with N2 for 30min before being placed under an LED light. The gaseous products were monitored by GC equipped with a thermal conductivity detector (column, TDX-01 and 5Å molecular sieves; oven temperature, 120 °C; carrier gas flow rate, 50mlmin<sup>−</sup><sup>1</sup> ; amount of headspace gas injected, 400 µl) at various time points.
+
+*Preparation of the sample containing both the HER-MOF and WOR-MOF inside the liposome.* To a 100ml round-bottomed flask was added PC (1.71ml, 10mgml<sup>−</sup><sup>1</sup> ), Chol (291 µl, 10mgml<sup>−</sup><sup>1</sup> ) and TCBQ (1mg). The solvent was removed by rotary evaporation to leave a thin film on the wall of the flask. The flask was kept in vacuo overnight. The dried lipid film was then hydrated in the presence of the HER-MOF (1.71mg, unmodified), the WOR-MOF (1.71mg) and FeCl3 (1.5mg). The mixture was sonicated for 10min, followed by ten freeze–thaw cycles using liquid N2 and then immersed in a 55 °C water bath to form a multilamellar vesicle suspension. The suspension was cooled slowly to room temperature over 30min before being extruded with a mini-extruder at room temperature using a polycarbonate membrane (pore size 1µm) for 11 cycles to obtain the liposomal assembly.
+
+*Determining the quantum yield of photocatalytic water splitting.* The photocatalytic water-splitting reaction under the optimized conditions was carried out in a septum-sealed cuvette under N2. The excitation light was from the Xe lamp on a fluorimeter with a grating monochromator. The excitation wavelength of the fluorimeter was set to 430nm, and the reaction proceeded for 24h before analysing the headspace gas using GC. The amount of hydrogen generated during the 24h was calculated to be 0.2 µmol based on the GC data. The light intensity of the fluorimeter at 436nm was then determined using potassium ferrioxalate as a chemical actinomete[r32](#page-8-16)[,52.](#page-10-1) These measurements led to an apparent quantum yield of 2.5% for the water splitting.
+
+The apparent quantum efficiency (AQE) was calculated using the following equation:
+
+$$
+AQE = \frac{N_e}{N_p} \times 100\% = \frac{4 \times n_{H_2} \times N_A \times h \times c}{S \times P \times t \times \lambda} \times 100\%
+$$
+
+where *N*p is the total number of incident photons, *N*e is the total number of reactive electrons, nH2 I is the amount of H2 molecules generated, *N*A is Avogadro's constant, *h* is the Planck constant, c is the speed of light, *S* is the irradiation area, *P* is the
+
+intensity of irradiation light, *t* is the photoreaction time and *λ* is the wavelength of the monochromatic light.
+
+*General experimental.* Commercial sources of all chemicals and experimental details of the 1 H NMR, TGA, ICP-MS, PXRD and TEM procedures can be found in the Supplementary Information.
+
+### **Data availability**
+
+ Source data are provided with this paper. All of the data that support the findings of this study, including catalytic measurements, material characterizations and spectroscopic data, are available within the paper and its Supplementary Information files. Further requests about the data can be directed to the corresponding author.
+
+## **References**
+
+- <span id="page-10-0"></span>51. Jiang, Y. et al. Simulating powder X-ray difraction patterns of two-dimensional materials. *Inorg. Chem.* **57**, 15123–15132 (2018).
+- <span id="page-10-1"></span>52. Hatchard, C. G. & Parker, C. A. A new sensitive chemical actinometer - II. Potassium ferrioxalate as a standard chemical actinometer. *Proc. R. Soc. Lond. A* **235**, 518–536 (1956).
+
+### **Acknowledgements**
+
+We acknowledge funding support from the Ministry of Science and Technology of China (2016YFA0200702) and the National Natural Science Foundation of China (no. 21671162 and no. 21721001). We acknowledge R. Huang and S. Zhang, B. Xu, Q. Wang, D. Guo and Y. Jiang for experimental help.
+
+## **Author contributions**
+
+H.H. and C.W. conceived and designed this project. H.H. carried out the synthesis of the materials, characterized the materials and analysed the data. L.C. helped with the data analysis and structural determination. H.H. also performed the catalysis study. Z.W. and C.Z. performed the transient absorption experiments and data analysis. L.Z. performed elemental analysis. H.H., C.W. and W.L. wrote the manuscript. All the authors discussed the results and commented on the manuscript.
+
+## **Competing interests**
+
+The authors declare no competing interests.
+
+### **Additional information**
+
+**Supplementary information** is available for this paper at [https://doi.org/10.1038/](https://doi.org/10.1038/s41557-020-00635-5) [s41557-020-00635-5.](https://doi.org/10.1038/s41557-020-00635-5)
+
+**Correspondence and requests for materials** should be addressed to C.W.
+
+**Reprints and permissions information** is available at [www.nature.com/reprints](http://www.nature.com/reprints).### **Supplementary information**
+
+# **Metal–organic frameworks embedded in a liposome facilitate overall photocatalytic water splitting**
+
+In the format provided by the authors and unedited
+
+# **Metal–organic frameworks embedded in a liposome facilitate overall photocatalytic water splitting**
+
+Huihui Hu,†, Zhiye Wang,†, Lingyun Cao,† Lingzhen Zeng,† Cankun Zhang,† Cheng Wang\*,† and Wenbin Lin‡
+
+† Collaborative Innovation Center of Chemistry for Energy Materials, State Key Laboratory of Physical Chemistry of Solid Surfaces, Department of Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen 361005, P.R. China
+
+‡ Department of Chemistry, The University of Chicago, 929 East 57th Street, Chicago, Illinois 60637, United States
+
+Email: wangchengxmu@xmu.edu.cn
+
+#### Table of Contents
+
+| 1. General Experimental and Chemicals                             |  |  |  |  |  | 2  |
+|-------------------------------------------------------------------|--|--|--|--|--|----|
+| 2. Ligand synthesis                                               |  |  |  |  |  | 2  |
+| 3. Synthesis and Characterization of HER-MOF .                    |  |  |  |  |  | 6  |
+| 4. Synthesis and Characterization of WOR-MOF.                     |  |  |  |  |  | 9  |
+| 5. Synthesis and Characterization of LP-MOF Hybrids               |  |  |  |  |  | 12 |
+| 6. Procedures and Results of HER                                  |  |  |  |  |  | 18 |
+| 7. Procedures and Results of WOR                                  |  |  |  |  |  | 22 |
+| 8. Procedures and Results of Total Water Splitting                |  |  |  |  |  | 25 |
+| 9. Time-Resolved Spectroscopic Analysis of Photocatalytic Process |  |  |  |  |  | 28 |
+| Supplementary References                                          |  |  |  |  |  | 46 |
+
+#### <span id="page-2-0"></span>**1. General Experimental and Chemicals**
+
+**Chemicals.** Biphenyl-4,4'-dicarboxylic acid (H2bpdc, 97%), zirconium(IV) chloride (99.9%, ZrCl4), hafnium(IV) chloride (99.9%, HfCl4), iridium(III) chloride (IrCl3·3H2O), and formic acid (HCO2H, 99%) were purchased from J&K Scientific Co., Ltd. N,N'-dimethylformamide (DMF) was purchased from Sinopharm Chemical Reagent Co. Ar (99.999%) was purchased from Fuzhou Xinhang Industrial gases Co., Ltd. [Meso-Tetra\(4-carboxyphenyl\)porphine \(](javascript:showMsgDetail()TCPP, 97%) was purchased from Zhengzhou Ruke Biological Co., Ltd.
+
+**General experimental.** Reagents were commercially available and used without further purification unless otherwise indicated. Thermogravimetric analysis (TGA) was performed in air using a Shimadzu TGA-50 equipped with an alumina pan and heated at a rate of 5 °C per minute. The powder X-ray diffraction data were collected on Agilent SuperNova, Rigaku and Bruker D8 Venture diffractometers using Cu Kα radiation sources (λ = 1.54178 Å). Transmission electron microscopy images were obtained on JEOL 2100 and Tecnai F20 High Resolution Transmission Electron Microscopy and JEOL 1400. Before performed the TEM characterization, we fishing the samples with copper grid. AFM images were taken on a Bruker Multimode Ⅴ, using Tapping Mode, scan speed is 1Hz, and before performed the characterization, the samples were dripped directly onto clean mica flakes. <sup>1</sup> H NMR spectra were recorded on a Bruker AV-500 and referenced to the proton resonance resulting from incomplete deuteration of the DMSO-d6 (δ 2.50). DLS measurements were performed with a Malvern Zetasizer Nano ZS (Malvern, Herrenberg, Germany). Fluorescence spectra were taken at room temperature on Hitachi FL980 and Hitachi F7000. The emission wavelength selection is achieved through the grating-based monochromator. The confocal fluorescence microscopy images were performed with a Leica TCS SP5 and Leica TCS SP8. Using 100x Oil lens to observe the sample and for LP-HER-MOF, the excited laser is 405 nm, for LP-WOR-MOF , the excited laser is 458 nm, for LP-HER-WOR-MOF, in HER-MOF channel, the excited laser is 552nm, in WOR-MOF channel, the excited laser is 488nm, before performed the characterization, we directly transfer the sample to the confocal dish, and slide diameter is 15 mm. The femtosecond transient absorption system is based on Coherent's regeneratively amplified titanium-doped gemstone femtosecond laser (center wavelength 800 nm, pulse width 35 fs, exit light intensity 5.8 mJ/pulse, repetition rate 1 kHz), optical parametric amplifier and home-built delay and detection systems with Andor spectrometers. Gas phasic products were quantified by gas chromatography with a thermal conductivity detector (TCD, column: TDX-01 and 5Å molecular sieve, GC7900).
+
+#### <span id="page-2-1"></span>**2. Ligand synthesis**
+
+**Ligand synthesis.** [(H4TCPP)Zn] was synthesized as reported previously1 and [(H4TCPP)Pt] was synthesized using a similar procedure.
+
+**Synthesis of 5,10,15,20-tetrakis(4-methoxycarbonylphenyl)porphyrin (Me4TCPP)** In a 250 mL two-neck round bottom flask in an ice water bath, meso-tetra(4-carboxyphenyl)porphine (1.0 g, 1.26 mmol) was dissolved in methanol (150 mL) before 3mL of concentrated sulfuric acid was
+
+added. The solution was refluxed for 12h in dark. After the reaction mixture was cooled to room temperature, the pH was adjusted to 7 with an ammonia solution, and excess methanol was removed by rotary evaporation. The aqueous phase was then extracted with dichloromethane and water (v:v = 1:1), which was dried by rotary evaporation to obtain the pure product. (952 mg, 1.134 mmol, 90% yield). <sup>1</sup> H NMR (400 MHz, DMSO-d6) δ 8.85 (s, 8H), 8.40 (d, 8H), 8.35(d, 8H), 4.04 (s, 12H), -2.96 (s, 2H). (Supplementary Figure 1)
+
+**Synthesis of 5,10,15,20-tetrakis(4-carboxyphenyl)porphyrinato-Zn ([(H4TCPP)Zn]).** Me4TCPP (0.854 g, 1.0 mmol) and Zn(NO3)2·6H2O (3.8 g, 12.8 mmol) were added to 100 mL of DMF and the mixture was refluxed for 12 h. After cooling to room temperature, 150 mL of H2O was introduced. The resultant precipitate was filtered and washed with 50 mL of H2O for three times. The resultant solid was dissolved in CH2Cl2, washed three times with 1 M HCl and twice with water. The organic layer was then dried over anhydrous sodium sulfate and evaporated to give a dark brown solid (720 mg, 0.8 mmol, 80% yield). The as-synthesized ester (0.72 g, 0.8 mmol) was stirred in a mixed solvent of THF (25 mL) and MeOH (25 mL), to which a solution of KOH (2.63 g, 46.95 mmol) in H2O (25 mL) was introduced. This mixture was refluxed for 12 h. After cooling to room temperature, THF and MeOH were evaporated. Additional water was added to the resultant aqueous phase. Then the solution was acidified with 1 M HCl until no further precipitate was detected. The brown solid was collected by filtration, washed with water and dried in vacuum. (610 mg, 0.72 mmol, 90% yield). <sup>1</sup> H NMR (400 MHz, DMSO-d6) δ 8.80 (s, 8H), 8.35 (d, 8H), 8.28 (d, 8H). (Supplementary Figure 2)
+
+**Synthesis of 5,10,15,20-tetrakis(4-carboxyphenyl)porphyrin-Pt ([(H4TCPP)Pt]).** Me4TCPP (100 mg, 0.12 mmol) and K2PtCl4 (70 mg, 0.21 mmol) were added into 30 mL of benzonitrile and the mixture was refluxed for 24 h under Ar atmosphere in dark. After cooling to room temperature, the solvent was removed by rotary evaporation on an oil bath. The solid was then extracted with dichloromethane and water (v:v = 1:1), and the organic phase was dried by rotary evaporation to afford the product (92.8 mg, 0.09 mmol, 75% yield). The as-synthesized ester (92.8 mg, 0.09 mmol) was stirred in a mixed solvent of THF (25 mL) and MeOH (25 mL), to which a solution of KOH (2.63 g, 46.95 mmol) in H2O (25 mL) was introduced. This mixture was refluxed for 12 h. After cooling to room temperature, THF and MeOH were evaporated. Additional water was added to the resulting aqueous phase. Then the solution was acidified with 1 M HCl until no further precipitate was detected. The red solid was collected by filtration, washed with water and dried in vacuum. (84 mg, 0.086 mmol, 95% yield). <sup>1</sup> H NMR (400 MHz, DMSO-d6) δ 8.76 (s, 8H), 8.37 (d, 8H), 8.29(d, 8H). (Supplementary Figure 3)
+
+**Synthesis of [RuII(BPY)2(H2BPYDC)]Cl2 ([Ru]2+).** [Ru]2+ was synthesized as reported previously.2-3 The Ru(II) precursor cis-[(BPY)2RuCl2] was prepared by reacting 2 equiv. of
+
+2,2'-bipyridine with RuCl3·3H2O in dimethylformamide (DMF) under reflux for 24 h to obtain the reddish brown product. Then the *cis*-[Ru(BPY)2Cl2] (160 mg, 0.33 mmol) was mixed with 2,2'-bipyridine-5,5'-dicarboxylic acid (101 mg, 0.42 mmol) in 20 mL of EtOH/H2O, refluxed for 12 hours under Argon before being concentrated. The solid was recrystallized from MeOH-diethyl ether. <sup>1</sup> H NMR (400 MHz, DMSO-d6) δ 8.76 (s, 8H), 8.37 (d, 8H), 8.29(d, 8H). (Supplementary Figure 4)
+
+![](_page_4_Figure_1.jpeg)
+
+**Supplementary Figure 1.** <sup>1</sup> H-NMR spectrum of Me4TCPP in d6-DMSO.
+
+![](_page_4_Figure_3.jpeg)
+
+**Supplementary Figure 2.** <sup>1</sup> H-NMR spectrum of [(H4TCPP)Zn] in d6-DMSO.
+
+![](_page_5_Figure_0.jpeg)
+
+**Supplementary Figure 3.** <sup>1</sup> H-NMR spectrum of [(H4TCPP)Pt] in d6-DMSO.
+
+![](_page_5_Figure_2.jpeg)
+
+**Supplementary Figure 4.** <sup>1</sup> H-NMR spectrum of [Ru]2+ in d6-DMSO.
+
+#### <span id="page-6-0"></span>**3. Synthesis and Characterization of HER-MOF**
+
+![](_page_6_Figure_1.jpeg)
+
+**Supplementary Figure 5.** The structure of the [Hf6(*μ*3-O)4(*μ*3-OH)4(*μ*1-OH)2(*μ*1-H2O)2(HCO2)6([(TCPP)Zn])]: viewed along the *a* axis(a). viewed along the *b* axis (b). topview of the monolayer (c).
+
+![](_page_6_Figure_3.jpeg)
+
+**Supplementary Figure 6.** The structure of the zig-zag monolayer: viewed along the *a* axis (a). viewed along the *b* axis (b). topview of the monolayer(c).
+
+![](_page_7_Figure_0.jpeg)
+
+**Supplementary Figure 7.** TEM image of the Hf-[(TCPP)Zn]-MOF with a structural model superimposed on the image(a) & (b); The HAADF image of Hf-[(TCPP)Zn]-MOF(c); SAED image of Hf-[(TCPP)Zn]-MOF(d).
+
+![](_page_7_Figure_2.jpeg)
+
+**Supplementary Figure 8.** The PXRD of Hf-[(TCPP)Zn]-MOF, together with the simulated patterns from the structural models of Hf-[(TCPP)Zn]-MOF of a flat monolayer and a zig-zag monolayer.
+
+![](_page_8_Figure_0.jpeg)
+
+**Supplementary Figure 9.** The TGA of Hf-[(TCPP)Zn]-MOF.
+
+![](_page_8_Figure_2.jpeg)
+
+**Supplementary Figure 10.** The <sup>1</sup> H NMR spectrum of the dissolved Hf-[(TCPP)Zn]-MOF. The procedure for taking the spectrum is as following: As-synthesized Hf-[(TCPP)Zn]-MOFs were washed with DMF and acetone several times and dried in vacuum at 50 <sup>o</sup> C; The dried MOFs were dissolved with a solution of 0.1 mL of D3PO4 and 0.4 mL of d6-DMSO.
+
+![](_page_9_Picture_0.jpeg)
+
+**Supplementary Figure 11.** The AFM images of the HER-MOF
+
+## <span id="page-9-0"></span>**4. Synthesis and Characterization of WOR-MOF**
+
+![](_page_9_Figure_3.jpeg)
+
+**Supplementary Figure 12.** <sup>1</sup> H NMR spectrum of the dissolved WOR-MOF. The procedure for taking the spectrum is as following: As-synthesized WOR-MOFs were washed with DMF and acetone several times and dried in vacuum at 50 °C; The dried MOFs were dissolved with a solution of 0.1 mL of D3PO4 and 0.4 mL of d6-DMSO.
+
+![](_page_10_Figure_0.jpeg)
+
+**Supplementary Figure 13.** TEM EDX Mapping of the WOR-MOF.
+
+![](_page_10_Figure_2.jpeg)
+
+**Supplementary Figure 14.** AFM images of WOR-MOF (a&b).
+
+![](_page_11_Picture_0.jpeg)
+
+**Supplementary Figure 15.** TEM (a) and HRTEM (b) images of Zr-[Ru]2+-MOF.
+
+![](_page_11_Figure_2.jpeg)
+
+**Supplementary Figure 16.** TEM (a) and HRTEM (b) images of WOR-MOF.
+
+![](_page_12_Figure_0.jpeg)
+
+**Supplementary Figure 17.** PXRD pattern of WOR-MOF compared with the simulated ones.
+
+#### <span id="page-12-0"></span>**5. Synthesis and Characterization of LP-MOF Hybrids**
+
+**Synthesis and characterization of blank liposome.** The liposomes were synthesized following similar procedures in the literature by film dispersion method. <sup>4</sup> The Lecithin (PC, 1709 μL) and cholesterol (Chol, 291 μL) dissolved in chloroform were dried into a film on the wall of a flask and kept in vacuum overnight. The dried lipid film was then hydrated in the presence of PYREXTM glass beads in dark. The mixture was then ultra-sonicated for 10 min, followed by 10 freeze-thaw cycles using liquid N2, and then immersed in a 55 °C water bath to form a multilamellar vesicle suspension. The suspension was slowly cooled to room temperature in 30 min. The suspension was then extruded with a mini-extruder (Avanti Polar Lipids) at room temperature using a polycarbonate membrane with a pore size of 1 μm for 11 cycles.
+
+![](_page_13_Figure_0.jpeg)
+
+**Supplementary Figure 18.** The micrographs of water droplets on HER-MOF(a) and Micrographs of water droplets of pentafluoropropionic acid modified HER-MOF(b).
+
+![](_page_13_Figure_2.jpeg)
+
+**Supplementary Figure 19.** The TEM images of HER-MOFs that were extracted from the LP-HER-MOF assemblies (a&b). We added DMF to the liposome suspension to destroy the liposome and dissolve the lipids. The MOFs were then obtained by centrifugation (Speed 9600 r/min, ~6000 g, time: 5min), and the amounts of MOFs are determined by ICP-MS.
+
+![](_page_13_Figure_4.jpeg)
+
+**Supplementary Figure 20.** Dynamic light scattering measurement of blank liposome (a) and TEM of blank liposome (b).
+
+![](_page_14_Figure_0.jpeg)
+
+**Supplementary Figure 21.** Dynamic light scattering measurement of LP-HER-MOF (a) and TEM of LP-HER-MOF (b)&(c). The size of the liposome with MOF are typically significantly larger than 1 μm. We attributed this to the fusion of different liposomes. We frequently observed connected liposomes that are about to fuse under TEM (c). The addition of the MOF in the lipid bilayer may disturb its structure to enhance its fluidity that facilitates fusion.
+
+![](_page_14_Figure_2.jpeg)
+
+**Supplementary Figure 22.** Dynamic light scattering measurement of LP-WOR-MOF (a) and TEM of LP-WOR-MOF (b).
+
+![](_page_14_Figure_4.jpeg)
+
+**Supplementary Figure 23.** Dynamic light scattering measurement of LP-HER-WOR-MOF (a) and TEM of LP– HER-WOR-MOF (b).
+
+![](_page_15_Figure_0.jpeg)
+
+**Supplementary Figure 24.** TEM images of the same LP-HER-WOR-MOF. Demonstrate the heterogeneity of the system.
+
+![](_page_15_Figure_2.jpeg)
+
+**Supplementary Figure 25.** Confocal fluorescence microscopy images of LP-HER-MOF. The emission from [(TCPP)Zn] in the HER-MOF (excited at 405 nm, emission in the range of 600-700nm) can be observed either all over the liposome or only on the ring (a)&(b).
+
+![](_page_16_Figure_0.jpeg)
+
+**Supplementary Figure 26.** Confocal fluorescence microscopy images of LP-HER-MOF-Nile blue in different channels. Note that the LP-HER-MOF in this figure contains 100% [(TCPP)Pt] for its spectrum seperation from Nile blue. (a) is the HER-MOF channel with excitation wavelength of 405 nm and emission wavelength in the range of 600-700nm. (b) is the Nile blue channel with excitation wavelength of 633nm and emission wavelength in the range of 600-700nm. (c) is the overlay channel. (d) is the UV-Vis spectrum. There is no excitation spectral overlap between the two. There is possile energy tranfer between the two, but because they are differentiated by the excitation wavelength, the energy transfer will not cause missassignment.
+
+![](_page_16_Figure_2.jpeg)
+
+**Supplementary Figure 27.** Confocal fluorescence microscopy images of LP-WOR-MOF-Nile blue in different channels. Note that the LP-WOR-MOF used in this figure contains only [Ru]2+ without the Ir centers as the latter can quench the phosphorescence. (a) is the Nile blue channel with excitation wavelength of 633nm and emission wavelength in the range of 600-700nm. (b) is the WOR-MOF channel with excitation wavelength of 458 nm and emission wavelength in the range of 600-700nm. (c) is the overlay channel. (d) is the UV-Vis spectrum. There is no exciation spectral overlap between the two. There is possile energy tranfer between the two, but because they are differentiated by the excitation wavelength, the energy transfer will not cause missassignment.
+
+![](_page_17_Figure_0.jpeg)
+
+**Supplementary Figure 28.** Confocal fluorescence microscopy images of blank liposome in different channels. (a) brightfield picture. (b) excitation wavelength was 488nm, emission was collected in the range of 600-700 nm. (c) excitation wavelength was 552nm, emission was collected in the range of 600-700 nm.
+
+![](_page_17_Figure_2.jpeg)
+
+**Supplementary Figure 29.** Fluorescence emission spectra of LP-Zr-[Ru]2+-MOF, LP-Zr-[Ru]2+-MOF+TCBQ and LP-Zr-[Ru]2+-MOF+Fe3+. The fact that the emission of the LP-Zr-[Ru]2+-MOF can be quenced by water soluble Fe3+ but cannot be efficiently quenced by lipid soluble TCBQ indicates that the Zr-[Ru]2+-MOF is in the aqueous phase.
+
+![](_page_17_Figure_4.jpeg)
+
+**Suppelementary Figure 30.** Fluorescence quenching by adding FeCl3 to the aqueous suspension of Hf-[(TCPP)Zn]-MOF (a) and to the liposome hybrid LP-Hf-[(TCPP)Zn]-MOF (b).The concentration of the quencher is from 100μM to 650 μM increased at 50 μM intervals. We find that Fe3+can not quench the emission of the LP-Hf-[(TCPP)Zn]-MOF, which shows effective seperation between Fe3+ (in aqueous phase) and the Hf-[(TCPP)Zn]-MOF (in the lipid bilayer) by the liposome structure.
+
+![](_page_18_Figure_0.jpeg)
+
+**Supplementary Figure 31.** Fluorescence quenching by adding TCBQ to the Hf-[(TCPP)Zn]-MOF (a) and to the liposome hybrid LP-Hf-[(TCPP)Zn]-MOF (b).The concentration of quencher is 1 mM. We find that TCBQ can quench the emission of the LP-Hf-[(TCPP)Zn]-MOF, which shows TCBQ (in the lipid bilayer) and the Hf-[(TCPP)Zn]-MOF are in the same position at the liposome structure.
+
+#### <span id="page-18-0"></span>**6. Procedures and Results of HER**
+
+| Sample     | Pt/(Zn+Pt)    | Sample     | Pt/(Zn+Pt)    | Sample       | Pt/(Zn+Pt)    |
+|------------|---------------|------------|---------------|--------------|---------------|
+|            | (molar ratio) |            | (molar ratio) |              | (molar ratio) |
+| HER-MOF-1  | 0.034%        | HER-MOF-11 | 0.79%         | LP-HER-MOF-1 | 0.013%        |
+| HER-MOF-2  | 0.086%        | HER-MOF-12 | 0.87%         | LP-HER-MOF-2 | 0.098%        |
+| HER-MOF-3  | 0.129%        | HER-MOF-13 | 1.02%         | LP-HER-MOF-3 | 0.108%        |
+| HER-MOF-4  | 0.134%        | HER-MOF-14 | 1.13%         | LP-HER-MOF-4 | 0.22%         |
+| HER-MOF-5  | 0.149%        | HER-MOF-15 | 1.86%         | LP-HER-MOF-5 | 0.49%         |
+| HER-MOF-6  | 0.203%        | HER-MOF-16 | 2.56%         | LP-HER-MOF-6 | 0.84%         |
+| HER-MOF-7  | 0.213%        | MOF-17     | 5.18%         | LP-HER-MOF-7 | 8.0%          |
+| HER-MOF-8  | 0.355%        | MOF-18     | 5.76%         | LP-HER-MOF-8 | 0.47%         |
+| HER-MOF-9  | 0.371%        |            |               |              |               |
+| HER-MOF-10 | 0.49%         |            |               |              |               |
+
+**Supplementary Table 1.** Elemental analysis of HER-MOF and LP-HER-MOFa
+
+a The doping level of the HER-MOF, which is defined as the ratio of C[(TCPP)Pt] /(C[(TCPP)Pt]+C[(TCPP)Zn]) as determined by ICP-MS analysis of Pt and Zn.
+
+| Entry | Catalyst          | Electronic        | TON         | References                   |
+|-------|-------------------|-------------------|-------------|------------------------------|
+|       |                   | sacrificial agent |             |                              |
+| 1     | HER-MOF with      | Phenol            | 290000(24h) | In this work                 |
+|       | [(TCPP)Pt] center |                   |             |                              |
+| 2     | Pt                | TEAa              | 7000        | J. Am. Chem. Soc. 2012,      |
+|       |                   |                   |             | 134,7211 – 72145             |
+| 3     | b<br>TBA-P2W18Ni4 | TEOAc             | 6500        | J. Am. Chem. Soc. 2014,      |
+|       |                   |                   |             | 136,14015 – 140186           |
+| 4     | Pt                | DMAd              | 343         | J. Am. Chem. Soc. 2016, 138, |
+|       |                   |                   |             | 8698-87017                   |
+| 5     | Pt                | SAe               | 2011.8(5h)  | Angew. Chem. Int. Ed. 2018,  |
+|       |                   |                   |             | 57, 12106 –121108            |
+| 6     | Co                | AAf               | 9000        | Dalton Trans., 2012,41,      |
+|       |                   |                   |             | 13004-130219                 |
+| 7     | Pt                | EDTAg             | 135         | J. Phys. Chem.               |
+|       |                   |                   |             | B, 2006, 110 (30), 14792–    |
+|       |                   |                   |             | 1479910                      |
+
+**Supplementary Table 2.** Summarizing recent reports of photocatalytic hydrogen evolution
+
+[a]TEA = Triethylamine, [b]TBA= tetrabutylammonium, [c]TEOA= Triethanolamine, [d] DMA = Dimethylacetamide, [e] SA = Sodium ascorbate, [f] AA = Ascorbic acid/Sodium ascorbate, [g] EDTA = Ethylenediaminetetraacetic acid.
+
+| Entry | Catalyst                 | Electronic sacrificial agent             | Pt-TON[b]         |
+|-------|--------------------------|------------------------------------------|-------------------|
+| 1     | HER-MOF[c]               | No                                       | no H2<br>detected |
+| 2     | HER-MOF[d]               | phenol                                   | no H2<br>detected |
+| 3     | Hf-[(TCPP)Zn]-MOF[e]     | phenol                                   | no H2<br>detected |
+| 4     | Hf-[(TCPP)Pt]-MOF[f]     | phenol                                   | 5                 |
+| 5     | LP-HER-MOF[g]            | No                                       | no H2<br>detected |
+| 6     | LP-HER-MOF[d]            | phenol                                   | no H2<br>detected |
+| 7     | LP- Hf-[(TCPP)Zn]-MOF[e] | phenol                                   | no H2<br>detected |
+| 8     | LP- Hf-[(TCPP)Pt]-MOF[f] | phenol                                   | 8                 |
+| 9     | [(TCPP)Pt][h]            | Cholesterol                              | trace (<0.1)      |
+| 10    | [(TCPP)Pt][h]            | Lecithin (PC)                            | trace (<0.1)      |
+| 11    | [(TCPP)Pt][h]            | Cholesterol + TCBQ                       | trace (<0.1)      |
+| 12    | [(TCPP)Pt][h]            | Lecithin (PC) + TCBQ                     | no H2<br>detected |
+| 13    | LP-HER-MOF[i]            | 3+ (1.4<br>Fe<br>eq.) and TCBQ (1.4 eq.) | trace (<0.1)      |
+| 14    | LP-HER-MOF[i]            | TCBQ (1.4 eq.)                           | no H2<br>detected |
+| 15    | LP-HER-MOF[i]            | 3+ (1.4<br>Fe<br>eq.)                    | no H2<br>detected |
+| 16    | LP-HER-WOR-MOF (12h)     | 3+ (1.4 eq.) and TCBQ (1.4 eq.)<br>Fe    | 47                |
+| 17    | LP-HER-WOR-MOF (72h)     | 3+ (1.4 eq.) and TCBQ (1.4 eq.)<br>Fe    | 223               |
+
+**Supplementary Table 3.** Control experiments for photocatalytic hydrogen evolution[a]
+
+[a]Hydrogen evolution reactions were carried out in water for 24 hours using a 400 nm LED. [b] Pt-based turnover number (Pt-TON) is defined as n(H2)/n(Pt). [c]without adding phenol. [d]in dark. [e]without doping the [(TCPP)Pt] into the MOF. [f]with 100% of [(TCPP)Pt] in the MOF. [g]without adding phenol. [h]in THF/H2O =9/1 solution,
+
+[(TCPP)Pt] 0.1 mg/mL. Concentrations of sacrificial reagents: phenol (110 mM for entries 2-4, 0.5 mg/mLliposome for entries 6-8), Cholesterol (110 mM), PC (110 mM), TCBQ (0.4 mM). [i]The amounts of HER-MOF and both shuttles were the same as those in the water splitting tests. Concentrations of sacrificial reagents: TCBQ (0.018 mM for 13&14), Fe3+ (0.018 mM for 13&15), the amount of HER-MOF is 0.07 mg/mL.
+
+![](_page_20_Figure_1.jpeg)
+
+**Supplementary Figure 32.** UV-Vis spectra of Hf-[(TCPP)Zn]-MOF (a) and UV-Vis spectra Hf-[(TCPP)Pt]-MOF (b) before and after reaction.The two peaks of the Q-bands indicate that no Zn and Pt was removed from the porphyrin ring after the catalysis, as the TCPP with two hydrogen atoms at the center of the ring will show two additional absorption peaks in the UV-Vis spectra.
+
+![](_page_20_Figure_3.jpeg)
+
+**Supplementary Figure 33.** PXRD patterns of HER-MOF before and after reaction.
+
+![](_page_21_Figure_0.jpeg)
+
+**Supplementary Figure 34.** PXRD patterns of HER-MOF (or LP-HER-MOF) before and after assembling with liposome and after reaction.
+
+![](_page_21_Figure_2.jpeg)
+
+**Supplementary Figure 35.** The photocatalytic hydrogen evolution by the LP-HER-MOF with different [(TCPP)Pt] doping levels under visible-light irradiation, light source: 400 nm LED. In LP-HER-MOF, the amount of HER-MOF is 0.07mg/mL, the concentration of phenol 0.5 mg/mLliposome. The error bar represents ± standard deviation.
+
+#### <span id="page-22-0"></span>**7. Procedures and Results of WOR**
+
+| Entry | Catalyst                           | Electron          | TON[a]      | References                                  |
+|-------|------------------------------------|-------------------|-------------|---------------------------------------------|
+|       |                                    | sacrificial agent |             |                                             |
+| 1     | WOR-MOF with<br>[(BPYDC)Ir] center | Na2<br>S2<br>O8   | 252         | In this work[b]                             |
+| 2     | WOR-MOF with<br>[(BPYDC)Ir] center | Na2<br>S2<br>O8   | 36          | In this work[c]                             |
+| 3     | POM@Co3<br>O4                      | Na2<br>S2<br>O8   | 0.3 (5 min) | Chem. Eur. J. 2016, 22,<br>15513 – 1552011  |
+| 4     | POM                                | Na2<br>S2<br>O8   | 36 (15 min) | J. Am. Chem. Soc. 2018,<br>140, 3613-361812 |
+| 5     | POM                                | Na2<br>S2<br>O8   | 224         | J. Am. Chem. Soc. 2011,<br>133, 2068-207113 |
+
+**Supplementary Table 4.** Summarizing the recent report of photocatalytic water oxidation
+
+[a]The TON is defined as n(O2)/n(M) [b] The WOR-MOF here was prepared using Ir(NO3)3·3H2O. [c] The WOR-MOF here was prepared using IrCl3·3H2O.
+
+| Entry | Catalyst                | Electron sacrificial agent               | Ir-TON[b]         |
+|-------|-------------------------|------------------------------------------|-------------------|
+| 1     | WOR-MOF [c]             | No                                       | no O2<br>detected |
+| 2     | Zr-[Ru]2+-MOF[d]        | Na2S2O8                                  | no O2<br>detected |
+| 3     | WOR-MOF[e]              | Na2S2O8                                  | no O2<br>detected |
+| 4     | LP-WOR-MOF[c]           | No                                       | no O2<br>detected |
+| 5     | LP-Zr-[Ru]2+-MOF<br>[d] | Na2S2O8                                  | no O2<br>detected |
+| 6     | LP-WOR-MOF[e]           | Na2S2O8                                  | no O2<br>detected |
+| 7     | LP-Zr-[Ru]2+-MOF<br>[d] | TCBQ                                     | no O2<br>detected |
+| 8     | LP-WOR-MOF              | 3+ (1.4<br>Fe<br>eq.) and TCBQ (1.4 eq.) | 0.26              |
+| 9     | LP-WOR-MOF              | TCBQ (1.4 eq.)                           | 0.15              |
+| 10    | LP-WOR-MOF              | 3+ (1.4<br>Fe<br>eq.)                    | 0.06              |
+| 11    | LP-HER-WOR-MOF (12h)    | 3+ (1.4 eq.) and TCBQ (1.4 eq.)<br>Fe    | 2.8               |
+| 12    | LP-HER-WOR-MOF (72h)    | 3+ (1.4 eq.) and TCBQ (1.4 eq.)<br>Fe    | 14                |
+
+#### **Supplementary Table 5.** Control experiments for photocatalytic water oxidation[a]
+
+[a] Water oxidation reaction were carried out for 12 hours using a 450 nm LED. [b] Ir-based turnover number (Ir-TON) is defined as n(O2)/n(Ir). [c]without adding any electron sacrificial agent. [d]without loading the Ir into the MOF. [e] in the dark. Concentrations of sacrificial reagents: Na2S2O8 (8 mM for entries 2&3, 4 mM for entries 5&6), TCBQ (2 mM). [f] the amounts of WOR-MOF and both shuttles were the same as those in the water splitting tests. Concentrations of sacrificial reagents : TCBQ (0.018 mM for 8&9), Fe3+ (0.018 mM for 8&10), the amount of WOR-MOF is 0.04 mg/mL.
+
+![](_page_23_Figure_0.jpeg)
+
+**Supplementary Figure 36.** Photocatalytic water oxidation under visible-light irradiation using WOR-MOF and LP-WOR-MOF with 450 nm LED irradiation. The WOR-MOF in LP-WOR-MOF was prepared using IrCl3 for Ir functionalization, while some of the WOR-MOF without liposome were functionalized with Ir(NO3)3. The amount of O2 was quantified by a fluorescence oxygen sensor. In LP-WOR-MOF, the amount of WOR-MOF is 0.04mg/mL, the amount of FeCl3, TCBQ and Na2S2O8 are 0.8mg/mL, 0.5mg/mL and 2mg/mL respectively. In WOR-MOF+Na2S2O8, the amount of WOR-MOF is 0.5mg/mL, the amount of Na2S2O8 is 10mg/mL. We also planned to do the experiment using TCBQ as oxidant and only WOR-MOF as the catalyst, but TCBQ is insoluble in water, which gave us a lot of difficulty. Attempts to perform this experiment in organic solvent gave inconsistent results, possibly due to competing oxidation of the organic solvents. The error bars represent standard deviations.
+
+![](_page_23_Figure_2.jpeg)
+
+**Supplementary Figure 37.** The photocatalytic water oxidation by the LP-MOF-WOR under visible-light irradiation, light source: 450 nm LED. In LP-WOR-MOF, the amount of WOR-MOF is 0.04mg/mL, the amount of Na2S2O8 is 2mg/mL and the WOR-MOFs were functionalized with Ir(NO3)3. From the figure, we can find that [Ir]/[Ru]=0.82, water oxidation has the best catalytic effect. The error bar represents ± standard deviation.
+
+![](_page_24_Figure_0.jpeg)
+
+**Supplementary Figure 38.** PXRD patterns of WOR-MOF (or LP-WOR-MOF) before and after being assembled into liposomes and after reaction.
+
+![](_page_24_Figure_2.jpeg)
+
+**Supplementary Figure 39.** Experimental device for detecting O2 using a fluorescence detector. Note that only data in Supplementary Fig. 36 were obtained using the fluorescence detector, while other data on O2 quantification throughout the paper were obtained by GC using the experimental set-up in Suppementarty Fig. 41.
+
+#### <span id="page-25-0"></span>**8. Procedures and Results of Total Water Splitting**
+
+| Entry | Photocatalyst          | Activity                                 | AQE(H2<br>) | References                         |
+|-------|------------------------|------------------------------------------|-------------|------------------------------------|
+| 1     | LP-HER-WOR-MOF         | H2:836 μmol/g                            | (1.5±1) %   | In this work                       |
+| 2     | Ru/SrTiO3<br>:Rh/BiVO4 | O2:464 μmol/g<br>H2<br>:367 μmol/g       | 1.03%       | J. Am. Chem. Soc., 2011, 133 (29), |
+|       |                        | O2<br>:183 μmol/g                        |             | 11054–1105714                      |
+| 3     | Ru/SrTiO3<br>:Rh/BiVO4 | H2<br>:2378 μmol/g<br>O2<br>:1100 μmol/g | 1.29%       | Nano Lett. 2018, 18, 805−81015     |
+| 4     | BP/BiVO4               | H2<br>:780 μmol/g                        | 0.89%       | Angew. Chem. Int. Ed.              |
+|       |                        | O2<br>:460 μmol/g                        |             | 2018, 57, 2160 –216416             |
+| 5     | Ru/SrTiO3<br>:La/Rh/   | H2<br>:54.4 mmol/g                       | 19%         | J. Am. Chem. Soc.                  |
+|       | BiVO4<br>:Mo           | O2<br>:27.2 mmol/g                       |             | 2017,139, 1675-168317              |
+
+**Supplementary Table 6.** Summarizing recent reports of photocatalytic total water splitting
+
+**Supplementary Table 7.** Control experiments for photocatalytic total water splitting[a]
+
+| Entry | Catalyst          | Redox relay | activity                   |
+|-------|-------------------|-------------|----------------------------|
+| 1     | LP-HER-WOR-MOF[b] | TCBQ        | H2:586 µmol/g O2:260µmol/g |
+| 2     | LP-HER-WOR-MOF[c] | FeCl3       | H2:236 µmol/g O2:163µmol/g |
+| 3     | HER-WOR-MOF[d]    | TCBQ&FeCl3  | H2:99 µmol/g O2:42µmol/g   |
+| 4     | LP-HER-WOR-MOF[e] | TCBQ&FeCl3  | 0                          |
+
+[a]photocatalytic total water splitting reactions were carried out for 72 hours using 400nm LED+450nm LED. [b]only using the TCBQ as redox relay. [c]only using the FeCl3 as redox relay. [d]without the liposome, only the HER-MOF and WOR-MOF-Ir in the system along with the redox relays. [e]in dark.
+
+![](_page_25_Figure_6.jpeg)
+
+**Supplementary Figure 40.** PXRD patterns of MOFs extracted from LP-HER-WOR-MOF before and after reaction.
+
+![](_page_26_Figure_0.jpeg)
+
+**Supplementary Figure 41.** (a) The total water splitting by LP-HER-WOR (external water phase)-MOF under visible-light irradiation, light source: 400 nm LED + 450 nm LED. (b) The total water splitting by LP-HER-WOR-MOF under visible-light irradiation, light source: 400 nm LED + 450 nm LED. In (a), the amount of catalysts and shuttles used were the same as that in Figure 2a, and Fe3+ was put in the outer water phase like WOR-MOF. The error bar represents ± standard deviation.
+
+![](_page_26_Figure_2.jpeg)
+
+**Supplementary Figure 42.** Experimental setup for total water splitting.
+
+![](_page_26_Figure_4.jpeg)
+
+**Supplementary Figure 43.** UV-Vis spectrum of released coumarin 30. Coumarin 30 was added in the liposomal synthesis and excess Coumarin 30 in the outside solution was separated from the liposomes through dialysis (dialysis membrane = 34 mm, MW =3500 kD). After water splitting reaction of 36 h, we observed no dye release from the liposomes as determined by UV-Vis measurements, but after a reaction of 48 h, we did observe some dye
+
+release, which indicates the loss of integrity of the lipid layers after 36 h.
+
+![](_page_27_Figure_1.jpeg)
+
+**Supplementary Figure 44.** Confocal fluorescence microscopy images of LP-HER-WOR-MOF after water splitting reaction. a-c is fluorescence imaging after 24 h water splitting reaction, d-f is fluorescence imaging after 48h water splitting reaction, g-i is fluorescence imaging after 72 h water splitting reaction. All emissions were collected in the wavelength range of 600-700 nm.
+
+![](_page_28_Figure_0.jpeg)
+
+#### <span id="page-28-0"></span>**9. Time-Resolved Spectroscopic Analysis of Photocatalytic Process**
+
+**Supplementary Figure 45.** Femtosecond transient absorption spectra of [(H4TCPP)Zn] Ligand in DMF (a, c, e) and Hf-[(TCPP)Zn]-MOF (b, d, f).
+
+![](_page_29_Figure_0.jpeg)
+
+**Supplementary Figure 46.** Femtosecond transient absorption spectra of [(H4TCPP)Pt] Ligand (a, c, e) and Hf-[(TCPP)Pt]-MOF (b, d, f).
+
+![](_page_30_Figure_0.jpeg)
+
+**Supplementary Figure 47.** Femtosecond transient absorption spectra of HER-MOF (a, c, e) and HER-MOF + phenol (b, d, f).
+
+![](_page_31_Figure_0.jpeg)
+
+**Supplementary Figure 48.** The DADS and EADS from global fittings of fsTA spectra of [(H4TCPP)Pt] ligand (a)&(b) and Hf-[(TCPP)Pt]-MOF (c)&(d).
+
+![](_page_32_Figure_0.jpeg)
+
+**Supplementary Figure 49.** The DADS and EADS from global fittings of fsTA spectra of [(H4TCPP)Zn] ligand (a)&(b), Hf-[(TCPP)Zn]-MOF (c)&(d), HER-MOF (e)&(f), and HER-MOF + phenol (g)&(h).
+
+|                     | Time constants |        |       |       |        |       |  |  |  |
+|---------------------|----------------|--------|-------|-------|--------|-------|--|--|--|
+| Sample              | 1st            | 2nd    | 3rd   | 4th   | 5th    | 6th   |  |  |  |
+| [(H4TCPP)Zn] Ligand | 65fs           | 1.5ps  | 17ps  | -     | 1.0ns  | >10ns |  |  |  |
+| Hf-[(TCPP)Zn]-MOF   | 100fs          | 1.6ps  | 26ps  | 100ps | 1.0ns  | >10ns |  |  |  |
+| HER-MOF             | 475fs          | 2.9ps  | 20ps  | 178ps | 0.65ns | >10ns |  |  |  |
+| HER-MOF + phenol    | 480fs          | 3.9ps  | 22ps  | 218ps | 0.66ns | >10ns |  |  |  |
+| [(H4TCPP)Pt] Ligand | 109fs          | 0.74ps | 5.4ps | 29ps  | 0.54ns | >10ns |  |  |  |
+| Hf-[(TCPP)Pt]-MOF   | 374fs          | 4.1ps  | 16ps  | 150ps | 0.73ns | >10ns |  |  |  |
+
+**Supplementary Table 8.** Time constants from global fitting of fsTA spectra of Hf-[(TCPP)Zn(Pt)] MOFs and homogeneous ligands
+
+![](_page_33_Figure_2.jpeg)
+
+**Supplementary Figure 50.** Time resolved fluorescence measurements of [(H4TCPP)Zn] ligand and [(H4TCPP)Zn] ligand+phenol (a), Hf-[(TCPP)Zn]-MOF and Hf-[(TCPP)Zn]-MOF+phenol (b), Hf-[(TCPP)Pt]-MOF and Hf-[(TCPP)Pt]-MOF+phenol (c), and HER-MOF (d).
+
+| Sample                        | B1    | τ1      | B2   | τ2      | Rel%                    | Weighted<br>average τ |
+|-------------------------------|-------|---------|------|---------|-------------------------|-----------------------|
+| [(H4TCPP)Zn] Ligand           | 941   | 2.4ns   | 5    | 13.4ns  | 96.90(τ1),<br>3.10(τ2)  | 2.5ns                 |
+| [(H4TCPP)Zn]<br>Ligand+phenol | 960   | 2.4ns   | 4    | 50ns    | 91.31(τ1),<br>8.69(τ2)  | 2.6ns                 |
+| Hf-[(TCPP)Zn]-MOF             | 1851  | 0.95ns  | 330  | 3.2ns   | 62.44(τ1),<br>37.56(τ2) | 1.3ns                 |
+| Hf-[(TCPP)Zn]-MOF+phenol      | 1747  | 0.95ns  | 311  | 3.2ns   | 62.39(τ1),<br>37.61(τ2) | 1.3ns                 |
+| Hf-[(TCPP)Pt]-MOF             | 5751  | 14.4µs  | 3811 | 33.36µs | 39.43(τ1),<br>60.57(τ2) | 22µs                  |
+| Hf-[(TCPP)Pt]-MOF+phenol      | 5405  | 11.08µs | 4282 | 26.38µs | 34.64(τ1),<br>65.36(τ2) | 17.8µs                |
+| HER-MOF                       | 10804 | 1.21µs  | 1170 | 11.62µs | 49.03(τ1),<br>50.97(τ2) | 2.1µs                 |
+
+**Supplementary Table 9.** The fitting [parameters](javascript:;) of the time-resolved fluorescence data in Supplementary Fig. 48.
+
+![](_page_34_Figure_2.jpeg)
+
+**Supplementary Figure 51.** The fluorescence emission and excitation spectra of Hf-[(TCPP)Pt]-MOF & Hf-[(TCPP)Zn]-MOF (a), and the UV–vis spectra of Hf-[(TCPP)Pt]-MOF, Hf-[(TCPP)Zn]-MOF, [(TCPP)Pt] ligand and [(TCPP)Zn] ligand (b).
+
+![](_page_35_Figure_0.jpeg)
+
+**Supplementary Figure 52.** Fluorescence emission spectra comparing emissions of HER-MOF, Hf-[(TCPP)Zn]-MOF and Hf-[(TCPP)Pt]-MOF showing different excitonic states in the three (a); Fluorescence emission spectra comparing emissions of the Hf-[(TCPP)Zn]-MOF and solution of the [(H4TCPP)Zn] ligand to show possible excitonic state in the MOF (b).
+
+![](_page_35_Figure_2.jpeg)
+
+**Supplementary Figure 53.** The time traces of nanosecond transient absorption spectra (490 nm) of Hf-[(TCPP)Zn]-MOF, Hf-[(TCPP)Zn]-MOF+phenol, solution of [(H4TCPP)Zn] ligand (a) and [(H4TCPP)Zn] ligand with different concentrations of phenol (0-0.06 mM) (b). The excitation wavelength is 532 nm.
+
+![](_page_35_Figure_4.jpeg)
+
+**Supplementary Figure 54.** Fluorescence emission spectra of HER-MOF (green trace) and HER-MOF+phenol (black trace).
+
+| Sample                                | A1   | τ1    | A2  | τ2      | A3 | τ3      |
+|---------------------------------------|------|-------|-----|---------|----|---------|
+| HER-MOF                               | 33   | 0.3ms |     |         |    |         |
+| HER-MOF+0.01mM phenol                 | 25   | 0.4ms |     |         |    |         |
+| HER-MOF+0.015mM phenol                | 35   | 0.2ms |     |         |    |         |
+| Hf-[(TCPP)Pt]-MOF                     | -169 | 59ns  | 92  | 514ns   | 33 | 17601ns |
+| Hf-[(TCPP)Zn]-MOF                     | -55  | 200ns | 49  | 65522ns |    |         |
+| Hf-[(TCPP)Zn]-MOF+phenol              | -41  | 350ns | 38  | 74280ns |    |         |
+| [(H4TCPP)Zn] Ligand                   | -269 | 118ns | 196 | 53532ns |    |         |
+| [(H4TCPP)Zn] Ligand+0.01mM<br>phenol  | -273 | 127ns | 202 | 52800ns |    |         |
+| [(H4TCPP)Zn] Ligand+0.015mM<br>phenol | -385 | 126ns | 285 | 49612ns |    |         |
+| [(H4TCPP)Zn] Ligand+0.04mM<br>phenol  | -314 | 103ns | 230 | 53296ns |    |         |
+| [(H4TCPP)Zn] Ligand+0.06mM<br>phenol  | -352 | 139ns | 272 | 49364ns |    |         |
+| [(H4TCPP)Zn] Ligand+0.1mM<br>phenol   | -123 | 124ns | 92  | 65152ns |    |         |
+
+**Supplementary Table 10.** The fittin[g parameters](javascript:;) of the Supplementary Fig. 51-54**.**
+
+![](_page_37_Figure_0.jpeg)
+
+**Supplementary Figure 55.** Time traces of the nanosecond transient absorption spectra (400-500 nm) of solutions of [(H4TCPP)Zn] ligand with different concentrations of phenol: 0 mM (a), 0.01mM (b), 0.015mM (c), 0.04mM (d), 0.06mM (e), 0.1mM (f). The excitation wavelength is 532nm.
+
+![](_page_38_Figure_0.jpeg)
+
+**Supplementary Figure 56.** The time trances of nanosecond transient absorption spectra of Hf-[(TCPP)Zn]-MOF (a), Hf-[(TCPP)Pt]-MOF (b), Hf-[(TCPP)Zn]-MOF+phenol (c), HER-MOF (d), HER-MOF+0.01 mM phenol (e), HER-MOF+0.015 mM phenol (f). The excitation wavelength is 532 nm.
+
+![](_page_39_Figure_0.jpeg)
+
+**Supplementary Figure 57.** Transient absorption spectra of WOR-MOF (a,c,e) and Zr-[Ru]2+-MOF (b,d,f).
+
+![](_page_40_Figure_0.jpeg)
+
+**Supplementary Figure 58.** Transient absorption spectra of WOR-MOF + FeCl3 (a, c, e), and WOR-MOF + Na2S2O8 (b, d, f).
+
+![](_page_41_Figure_0.jpeg)
+
+**Supplementary Figure 59.** DADS and EADS from global fittings of fsTA spectra of Zr-[Ru]2+-MOF (a, b), WOR-MOF containing [Ru]2+/[(BPYDC)Ir] (c, d), and WOR-MOF + FeCl3 (e, f), WOR-MOF + Na2S2O8 (g, h).
+
+|                   | Time constants |       |      |        |     |       |  |  |  |  |
+|-------------------|----------------|-------|------|--------|-----|-------|--|--|--|--|
+| Sample            | 1st            | 2nd   | 3rd  | 4th    | 5th | 6th   |  |  |  |  |
+| Zr-[Ru]2+-MOF     | 660fs          | 4.2ps |      |        |     | >10ns |  |  |  |  |
+| WOR-MOF           | 660fs          | 4.2ps | 79ps | 1.9ns  |     |       |  |  |  |  |
+| WOR-MOF + FeCl3   | 660fs          | 4.2ps | 79ps | 0.92ns |     | >10ns |  |  |  |  |
+| WOR-MOF + Na2S2O8 | 660fs          | 4.2ps | 79ps | 0.74ns |     | >10ns |  |  |  |  |
+
+**Supplementary Table 11.** Time constants from global fitting of fsTA spectra of Zr-[RuII(BPY)2(BPYDC)]-MOFs and homogeneous ligands
+
+![](_page_42_Figure_2.jpeg)
+
+**Supplementary Figure 60.** Phosphorescence lifetime spectra of Zr-[Ru]2+-MOF and Zr-[Ru]2+-MOF+FeCl3.
+
+![](_page_42_Figure_4.jpeg)
+
+**Supplementary Figure 61.** Fluorescence quenching by adding TCBQ into the aqueous suspension of the Zr-[Ru]2+-MOF(a) and the liposome hybrid LP-Zr-[Ru] 2+-MOF (b). The concentration of quencher is 1mM. We find that TCBQ cannot quench the emission of the LP-[Ru]2+-MOF, which shows effective seperation between TCBQ (in the lipid bilayer) and the Zr-[Ru]2+-MOF (in the aqueous phase) by the liposome structure.
+
+![](_page_43_Figure_0.jpeg)
+
+**Supplementary Figure 62.** UV-Vis spectra to determine the amount of Fe2+ and Fe3+ in the aqueous solution using 1,10-phenanthroline monohydrate as indicator after the reaction between Fe2+ in the aqueous solution and TCBQ in the lipid bilayer (a). The amount of Fe3+ was obtained by adding hydroxylamine hydrochloride as reducing agent to reduce the Fe3+ to Fe2+. The UV-Vis spectra before the addition of hydroxylamine hydrochloride were due to Fe2+ in the analysis solution while the UV-Vis spectra after the addition of hydroxylamine hydrochloride correpsond to the sum of Fe2+ + Fe3+ of the original analysis solution. The reaction solution after the reaction between Fe2+ in the aquoues phase and TCBQ in the liposome bilayer is shown here, demonstrating that the TCBQ can effectively oxidize Fe2+ to Fe3+ even if they are not in the same phase. Adsorption experiment of Fe2+ and Fe3+ on Lecithin (b). After extracting aqueous solution of the Fe2+ and Fe3+ with the ether solution of Lecithin, the organic phase was added 1,10-phenanthroline monohydrate and/or hydroxylamine hydrochloride to detect Fe. The result shows that the polar phosphate group on the Lecithin can adsorb the Fe3+ and Fe2+, which may facilitate the reaction between Fe2+ and TCBQ on the liposome/water interface.
+
+![](_page_43_Figure_2.jpeg)
+
+**Supplementary Figure 63.** Fluorescence spectra of LP-WOR-HER-MOF after reaction (a). The retention of the emission of [(TCPP)Zn] indicates that the resting state of the TCBQ in the reaction is in its reductive form HTCBQ, as the TCBQ can efficiently quench the [(TCPP)Zn] emission. The UV-Vis spectra to determine the amount of Fe2+ and Fe3+ in the aqueous phase after photocatalysis using LP-WOR-HER-MOF by adding 1,10-phenanthroline monohydrate and/or hydroxylamine hydrochloride (b). The results show that the majority of the Fe is in the Fe2+ oxidation state.
+
+**UV-Vis spectra under electrochemistry scan to produce difference spectra.** For spectroelectrochemistry, solutions of analytes were prepared in DMF with 0.2 M of tetra*n* Bu-ammonium perchlorate electrolyte. Spectra were recorded with a Varian/Agilent Cary 5000 between 400 and 800 nm. A home-built three neck cell was used for the three-electrode setup with platinum gauze as working electrode, Pt wire as counter electrode, and Ag/AgCl as pseudo-reference electrode. Argon was used to flush the cell before (20 min) and during measurements to remove oxygen. Potentials were provided by a CHI1000C, controlled via CHI1000C Electro Chemical Analyzer software.
+
+**Electrochemical cyclic voltammetry experiment.** For cyclic voltammetry, solutions of analytes were prepared in DMF with 0.2 M of tetra(n-butyl)ammonium perchlorate electrolyte. A home-built three neck cell was used for the three-electrode setup with a platinum electrode as working electrode, a Pt wire as counter electrode, and Ag/AgCl as pseudo-reference electrode.
+
+![](_page_44_Figure_2.jpeg)
+
+**Supplementary Figure 64.** Differential absorption spectra of [(H4TCPP)Zn] ligand under reduction potential (a) and oxidation potential (b).
+
+![](_page_44_Figure_4.jpeg)
+
+**Supplementary Figure 65.** Differential absorption spectra of [(H4TCPP)Pt] Ligand under oxidation potential (a) and reduction potential (b).
+
+![](_page_45_Figure_0.jpeg)
+
+**Supplementary Figure 66.** Photocurrent responses for HER-MOF, WOR-MOF and hybrid.
+
+**Supplementary Table 12.** Solution redox potentials of the ligands and redox shutters in the total water splitting system vs NHEa
+
+| Sample              | Oxidation(V) | Reduction(V)   |             |
+|---------------------|--------------|----------------|-------------|
+|                     | 1st<br>2nd   | 1st<br>2nd     | Ref.        |
+| [(H4TCPP)Zn] Ligand | 1.22         | -0.75<br>-1.72 | This work18 |
+| [(H4TCPP)Pt] Ligand | 1.27         | -0.75<br>-1.60 | This work   |
+| [(BPYDC)Ir]         | 1.34         |                | [19]        |
+| [Ru]2+ Ligand       | 1.47         | -1.3<br>-1.47  | This work   |
+| FeCl3               | 0.77         |                | [20]        |
+| TCBQ                | 0.80         | -0.065         | This work21 |
+
+a All Cyclic voltammograms were measured at a scan rate of 100 mV s-1 using a Pt electrode as working electrode in DMF Solution.
+
+![](_page_46_Figure_0.jpeg)
+
+**Supplementary Figure 67.** Proposed catalytic mechanism for the total water splitting.
+
+#### <span id="page-46-0"></span>**Supplementary References**
+
+1. Feng, D. et al. Construction of ultrastable porphyrin Zr metal-organic frameworks through linker elimination. *J. Am. Chem. Soc.* **135**, 17105-17110 (2013).
+
+2. Slattery, S. J., Gokaldas, N., Mick, T. & Goldsby, K. A. Bis(4,4'-bis(diethylamino)-2,2'-bipyridine)dichlororuthenium(III): a new starting material for ruthenium polypyridyl complexes exhibiting low redox potentials. *Inorg. Chem.* **33**, 3621-3624 (1994). 3. Wang, C., Liu, D., Xie, Z. & Lin, W. Functional metal-organic frameworks via ligand doping: influences of ligand charge and steric demand. *Inorg. Chem.* **53**, 1331-1338 (2014).
+
+4. Xie, R., Hong, S., Feng, L., Rong, J. & Chen, X. Cell-selective metabolic glycan labeling based on ligand-targeted liposomes. *J. Am. Chem. Soc.* **134**, 9914-9917 (2012).
+
+5. Wang, C., deKrafft, K. E. & Lin, W. Pt nanoparticles@photoactive metal-organic frameworks: efficient hydrogen evolution via synergistic photoexcitation and electron injection. *J. Am. Chem. Soc.* **134**, 7211-7214 (2012).
+
+6. Lv, H. et al. A noble-metal-free, tetra-nickel polyoxotungstate catalyst for efficient photocatalytic hydrogen evolution. *J. Am. Chem. Soc.* **136**, 14015-14018 (2014).
+
+7. Kim, D., Whang, D. R. & Park, S. Y. Self-healing of molecular catalyst and photosensitizer on metal-organic framework: robust molecular system for photocatalytic H2 evolution from water. *J. Am. Chem. Soc.* **138**, 8698-8701 (2016).
+
+8. Zhang, F.-M. et al. Rational design of MOF/COF hybrid materials for photocatalytic H2 evolution in the presence of sacrificial electron donors. *Angew. Chem. Int. Ed.* **57**, 12106-12110 (2018).
+
+9. Eckenhoff, W. T. & Eisenberg, R. Molecular systems for light driven hydrogen production. *Dalton Trans.* **41**, 13004-13021 (2012).
+
+10. Bae, E. & Choi, W. Effect of the anchoring group (carboxylate vs phosphonate) in Ru-complex-sensitized TiO2 on hydrogen production under visible light. *J. Phys. Chem. B* **110**, 14792-14799 (2006).
+
+11. Lan, Q. et al. Highly dispersed polyoxometalate-doped porous Co3O4 water oxidation photocatalysts derived from POM@MOF crystalline materials. *Chem. - Eur. J*. **22**, 15513-15520 (2016).
+
+12. Paille, G. et al. A fully noble metal-free photosystem based on cobalt-polyoxometalates immobilized in a porphyrinic metal-organic framework for water oxidation. *J. Am. Chem. Soc.* **140**, 3613-3618 (2018).
+
+13. Huang, Z. et al. Efficient light-driven carbon-free cobalt-based molecular catalyst for water oxidation. *J. Am. Chem. Soc.* **133**, 2068-2071 (2011).
+
+14. Iwase, A., Ng, Y. H., Ishiguro, Y, Kudo, A. & Amal, R. Reduced graphene oxide as a solid-state electron mediator in z-scheme photocatalytic water splitting under visible light. *J. Am. Chem. Soc.* **133**, 11054-11057 (2011).
+
+15. Melo, M. A. et al. Surface photovoltage measurements on a particle tandem photocatalyst for overall water splitting. *Nano Letters* **18**, 805-810 (2018).
+
+16. Zhu, M., Sun, Z., Fujitsuka, M. & Majima, T. Z-scheme photocatalytic water splitting on a 2D heterostructure of black phosphorus/bismuth vanadate using visible light. *Angew. Chem. Int. Ed.* **57**, 2160-2164 (2018).
+
+17. Wang, Q. et al. Particulate photocatalyst sheets based on carbon conductor layer for efficient z-scheme pure-water splitting at ambient pressure. *J. Am. Chem. Soc.* **139**, 1675-1683 (2017).
+
+18. Rochford, J., Chu, D., Hagfeldt, A. & Galoppini, E. Tetrachelate porphyrin chromophores for metal oxide semiconductor sensitization: effect of the spacer length and anchoring group position. *J. Am. Chem. Soc.* **129**, 4655-4665 (2007).
+
+19. Ip, H. F., So, Y. M., Lee, H. K., Williams, I. D. & Leung, W.-H. A stable Iridium(IV) complex containing the Kläui tripodal ligand [Co(η5-C5H5){P(O)(OEt)2}3] – . *Eur. J. Inorg. Chem.* **2012**, 3289-3295 (2012).
+
+20. Zhao, Y. et al. Low-voltage gaseous HCl electrolysis with an Iron redox-mediated cathode for chlorine regeneration. *Angew. Chem. Int. Ed.* **56**, 10735-10739 (2017).
+
+21. Zhang, L., Li, T., Yu, P., Ohsaka, T. & Mao, L. Charge-transfer interaction between melamine and quinones: towards voltammetric determination of melamine. *Electrochem. Commun.* **26**, 89-92 (2013).
+
+根据提供的文献内容，生成实验流程复现文献实验
+

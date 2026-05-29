@@ -1,0 +1,622 @@
+# **The MOF-driven synthesis of supported palladium clusters with catalytic activity for carbene-mediated chemistry**
+
+**Francisco R. Fortea-Pérez1† , Marta Mon1† , Jesús Ferrando-Soria<sup>1</sup> , Mercedes Boronat2 , Antonio Leyva-Pérez2 \*, Avelino Corma2 \*, Juan Manuel Herrera<sup>3</sup> , Dmitrii Osadchii<sup>4</sup> , Jorge Gascon4 , Donatella Armentano5 \* and Emilio Pardo<sup>1</sup> \***
+
+**The development of catalysts able to assist industrially important chemical processes is a topic of high importance. In view of the catalytic capabilities of small metal clusters, research eorts are being focused on the synthesis of novel catalysts bearing such active sites. Here we report a heterogeneous catalyst consisting of Pd<sup>4</sup> clusters with mixed-valence 0**/+**1 oxidation states, stabilized and homogeneously organized within the walls of a metal–organic framework (MOF). The resulting solid catalyst outperforms state-of-the-art metal catalysts in carbene-mediated reactions of diazoacetates, with high yields (**>**90%) and turnover numbers (up to 100,000). In addition, the MOF-supported Pd<sup>4</sup> clusters retain their catalytic activity in repeated batch and flow reactions (**>**20 cycles). Our findings demonstrate how this synthetic approach may now instruct the future design of heterogeneous catalysts with advantageous reaction capabilities for other important processes.**
+
+U ltrasmall metal clusters[1](#page-5-0)[–5](#page-5-1) have attracted a great deal of interest as extremely active and selective catalysts for organic reactions[6,](#page-5-2)[7](#page-5-3) . Despite the efforts made, there is yet more work to be done to fully understand the exact nature of the catalytic species, their reactivity, structure, shape and nuclearity[8,](#page-5-4)[9](#page-5-5) . Ligand stabilization[10](#page-5-6) and matrix-supported[11,](#page-5-7)[12](#page-5-8) are the most efficient strategies to synthesize and characterize metal clusters. While the former allows structure determination of the cluster metal complex by single-crystal X-ray crystallography, these compounds rarely find applications in catalysis[13](#page-5-9) since ligand exchange with the reactants triggers decomposition of the cluster. In clear contrast, clusters supported on solids are stable catalytic species with highly reactive uncoordinated atoms[1](#page-5-0) , but only nuclearity and oxidation state of the metal by X-ray absorption spectroscopies combined with highresolution microscopies can be addressed. Thus, the synthesis of supported metal clusters with precise topological and electronic properties, as occurs in metal complexes, would be of much interest.
+
+In this context, metal–organic frameworks (MOFs)[14](#page-5-10) have emerged[15](#page-5-11) as very versatile materials for encapsulating catalytic nanosized species within their channels[16](#page-5-12). In addition, the regular and well-defined channels in MOFs appear, theoretically, as the perfect hosts to obtain information about the nature of the metallic catalyst species by means of single-crystal X-ray crystallography. However, after a number of studies on this topic showing small 1–2 nm metal nanoparticles[17](#page-5-13)[–20](#page-5-14), it is difficult to find reports of metal clusters below the nanometre size within MOF matrices.
+
+Metal carbenoids are powerful catalytic and synthetic intermediates in organic synthesis, and different metals have been reported to form and transfer carbenes[21](#page-5-15). Despite Pd compounds being found as catalysts for a plethora of fundamental transformations in organic synthesis, such as hydrogenations, carbon–carbon couplings, and many others[22](#page-5-16), they have been only occasionally employed as catalysts in carbene-transfer processes[23–](#page-5-17)[27](#page-5-18) .
+
+Here we report the preparation of Pd<sup>0</sup>/1<sup>+</sup> 4 clusters stabilized by the anionic framework of a MOF. The material is able to catalyse representative carbene-mediated reactions such as the inter- and intramolecular Buchner ring expansion reaction, the alcohol insertion and the dimerization of diazocompounds, to give some unique naturally occurring and synthetically useful products[28](#page-5-19)[–30](#page-6-0). This new catalytic behaviour of Pd emerges due to the stabilization of intermediate Pd<sup>+</sup> valence within the supported-MOF cluster, which enables carbene bonding to give a catalytic activity that exceeds by one order of magnitude that of the state-of-the-art catalysts for these reactions. In addition, the solid catalyst can be recovered and reused up to 20 times in batch without any reactivation treatment or depletion of the catalytic activity, or operated in flow with solvent recycling during hours.
+
+### **Synthesis and characterization of Pd4-MOF**
+
+Herein, we take advantage of the emerging post-synthetic methods[31](#page-6-1)[,32](#page-6-2) to synthesize (see Methods), in three steps, [Pd4] 2+ clusters from a preformed highly porous anionic MOF of formula MgII 2 {MgII 4 [CuII 2 (Me3mpba)2]3} · 45H2O (**1**) [Me3mpba<sup>4</sup><sup>−</sup> = N,N<sup>0</sup> -2,4,6-trimethyl-1,3-phenylenebis(oxamate)] (Fig. [1a\)](#page-1-0) by: the already reported transmetallation[32](#page-6-2) of **1** to yield the more robust MOF NiII 2 {NiII 4 [CuII 2 (Me3mpba)2]3} · 54H2O (**2**) (Fig. [1b\)](#page-1-0); the
+
+<sup>1</sup>Departamento de Química Inorgánica, Instituto de Ciencia Molecular (ICMOL), Universidad de Valencia, 46980 Paterna, Valencia, Spain. <sup>2</sup> Instituto de Tecnología Química (UPV-CSIC), Universidad Politècnica de València-Consejo Superior de Investigaciones Científicas, Avda. de los Naranjos s/n, 46022 Valencia, Spain. <sup>3</sup>Departamento de Química Inorgánica, Facultad de Ciencias, Universidad de Granada, Avda. Fuentenueva s/n, 18071 Granada, Spain. <sup>4</sup>Catalysis Engineering-Chemical Engineering Dept, Delft University of Technology, Julianalaan 136, 2628 BL Delft, The Netherlands. <sup>5</sup>Dipartimento di Chimica e Tecnologie Chimiche, Università della Calabria, 87030 Rende, Cosenza, Italy. †These authors contributed equally to this work. \*e-mail: [anleyva@itq.upv.es;](mailto:anleyva@itq.upv.es) [acorma@itq.upv.es;](mailto:acorma@itq.upv.es) [donatella.armentano@unical.it;](mailto:donatella.armentano@unical.it) [emilio.pardo@uv.es](mailto:emilio.pardo@uv.es)
+
+<span id="page-1-0"></span>![](_page_1_Figure_2.jpeg)
+
+**Figure 1 | X-ray crystal structure. a**–**d**, Design approach showing the structures of **1**–**4** determined by single-crystal X-ray diraction from the three-step post-synthetic process consisting of a transmetallation **1** (**a**) to give **2** (**b**), an exchange of the NiII cations of the pores by [PdII(NH3)4] <sup>2</sup><sup>+</sup> ones yielding **3** (**c**) and the final reduction process aording **4** (**d**). **e**, Perspective views of a channel of **4** along the *c* (left) and *a* (right) axis. **f**, Detail of the proposed self-assembly after reduction process of the PdII units in **3** (left) to give the Pd<sup>4</sup> cluster in **4** (right). Copper, magnesium and nickel atoms from the network are represented by cyan, orange and yellow polyhedral, respectively, whereas organic ligands are depicted as sticks. Orange, yellow, pink, dark blue, pale blue and red spheres represent Mg, Ni, Na and Pd atoms and NH<sup>3</sup> and O2<sup>−</sup> molecules/ions, respectively. Dashed and dotted lines represent the Pd···<sup>O</sup> and Na···O weak supramolecular interactions, respectively.
+
+exchange of the nickel(II) cations hosted in the pores of **1** by [PdII(NH3)4] 2+ ones yielding the novel compound [PdII(NH3)4] [PdII 2 (µ-O)(NH3)6(NH4)2]0.5{NiII 4 [CuII 2 (Me3mpba)2]3} · 52H2O (**3**) (Fig. [1c\)](#page-1-0); and the reduction process to give the final compound [Pd4]0.5@Na3{NiII 4 [CuII 2 (Me3mpba)2]3} · 56H2O (**4**) (Fig. [1d\)](#page-1-0).
+
+Overall, the presence of PdII cations in a controlled stoichiometry[33,](#page-6-3)[34](#page-6-4) together with the confined state provided by the anionic porous network seems to play a key role in gaining control of the size and mixed-valence nature of metal particles and thus, such small clusters as [Pd4] 2+ units were formed. The robustness of the three-dimensional network allowed the resolution of the crystal structure of every single material to unambiguously visualize the single-crystal to single-crystal guest inclusion and the final observation of quasi-linear [Pd4] 2+ clusters (Figs [1](#page-1-0) and [2](#page-1-1) and Supplementary Figs 1–6), reminiscent of ligand-stabilized palladium sandwich complexes reported before[10](#page-5-6)[,35](#page-6-5)[,36](#page-6-6), which are undoubtedly stabilized by the network (Figs [1e](#page-1-0) and [2](#page-1-1) and structural details section in the Supplementary Information).
+
+The nature of the Pd4–MOF compound **4** was established by the combination of a variety of techniques including: density functional theory calculations, inductively coupled plasma–mass spectrometry, elemental, powder X-ray diffraction (PXRD) and thermo-gravimetric analyses, Fourier transform infrared (FTIR) under CO and X-ray photoelectron (XPS) spectroscopies and scanning (SEM) and high-resolution transmission electron (HR-TEM) microscopies, including high-angle annular darkfield scanning transmission electron microscopy (HAADF-STEM) measurements (Fig. [3,](#page-2-0) Supplementary Figs 7–17 and Supplementary Table 1). The N<sup>2</sup> adsorption isotherm at 77 K confirmed the permanent porosity of **4** (Supplementary Fig. 18). Finally, the resolution of the crystal structure of **4** allowed an unambiguous observation of such small Pd entities in **4**.
+
+The anionic NiII <sup>4</sup> CuII 6 open-framework structure displays hydrophilic octagonal pores, exhibiting a virtual diameter of 2.2 nm, that accommodate free nickel(II) cations that can be exchanged afterwards to give **3** and **4** (Figs [1b–d](#page-1-0) and [2,](#page-1-1) and Supplementary
+
+<span id="page-1-1"></span>![](_page_1_Figure_8.jpeg)
+
+**Figure 2 | Cluster structure.** Perspective view along the *b* crystallographic axis of two portions (top and bottom) of the crystal structure of **4** enclosing the two crystallographic not equivalent ligand-stabilized quasi-linear [Pd4] <sup>2</sup><sup>+</sup> NCs. MOF structure is depicted as gold sticks and Pd atoms are represented as purple spheres. Purple dotted lines show some of the cluster–network interactions.
+
+Figs 1, 2 and 4a) with no evidence of remarkable changes in structural parameters (Supplementary Table 2)[32](#page-6-2). The arrangement of Pd<sup>2</sup><sup>+</sup> moieties in **3** and that of Pd nanoclusters (NCs) in **4**, confined into the channels, are strictly related. In **3** they exhibit either mononuclear, [PdII(NH3)4] 2+ , or dinuclear complexes of the type [PdII 2 (µ-O)(NH3)6] 2+ (Supplementary Fig. 3), whereas in **4**, after reduction, they finally assemble in centrosymmetric tetranuclear Pd<sup>4</sup> NCs (Fig. [1](#page-1-0) and Supplementary Figs 1b, 2 and 4). The Pd<sup>2</sup><sup>+</sup> ions from the oxo-bridged dinuclear entities in **3**
+
+<span id="page-2-0"></span>![](_page_2_Figure_2.jpeg)
+
+**Figure 3 | Density functional theory calculations.** Optimized geometry of Pd<sup>4</sup> in a Pd4{Ni4[Cu2(Me3mpba)2]3} <sup>2</sup><sup>−</sup> model. **a**–**d**, The two equivalent structures separated (**a**), overlapped (**b**) and averaged (**c**) are shown, together with the XRD structure (**d**). Pd–Pd and Pd–O (italics) distances are given in Å. Pd, Cu, Ni, N, O, C and H atoms are depicted in blue, green, pink, purple, red, orange and white, respectively.
+
+(Supplementary Fig. 3) are tetracoordinated, in a distorted square planar geometry, with Pd–NH<sup>3</sup> and Pd–O bond distances similar to those found in the literature[37](#page-6-7). The Pd atoms in **4** are twoor one-coordinated, respectively in a slightly bent geometry [Pd–Pd–Pd angles of 155(1)◦ and 169(1)◦ ] (Supplementary Fig. 4) growing tetranuclear NCs. The inner Pd–Pd bond length values [2.57(3)/2.44(3) Å] are significantly shorter than the relatively long outer ones [3.16(2)/2.91(3) Å] although both falling in the range of Pd–Pd bonding interactions[10,](#page-5-6)[35](#page-6-5)[,36,](#page-6-6)[38](#page-6-8). This asymmetry of bond lengths within the [Pd4] <sup>2</sup><sup>+</sup> moiety is a striking feature, because despite the similarity in the shape of the Pd<sup>4</sup> cluster, such a difference was not observed in the two previously reported ligand-stabilized tetrapalladium compounds, where Pd–Pd separation varies in the range 2.538(1)–2.563(1) Å (ref. [35\)](#page-6-5) and 2.571(1)–2.622(1) Å (ref. [36\)](#page-6-6).
+
+The possibility to have disordered [Pd2] instead of [Pd4] clusters might be consistent and it has been considered. However, diverse factors determine that Pd<sup>4</sup> clusters are, by far, the most probable resolution (see structural details section in the Supplementary Information). To support the nature of these clusters, theoretical calculations were carried out using a simplified model of a Pd4{Ni4[Cu2(Me3mpba)2]3} 2− unit (Fig. [3](#page-2-0) and Supplementary Fig. 7). When Pd atoms are allowed to move without restrictions within the octagonal ring model, they approach the donor oxygen atoms of the wall forming bonds with typical Pd–O distances of 2.30/2.37 Å, and optimized Pd–Pd distances of 2.69 and 2.65 Å for the outer and inner bonds, respectively (Fig. [3a\)](#page-2-0). Despite this result apparently contradicting the quasi-linear arrangement of the [Pd4] <sup>2</sup><sup>+</sup> moiety observed by XRD, averaging of the two equivalent structures obtained from optimization yields a slightly bent, Pd<sup>4</sup> unit with longer outer Pd–Pd distances (Fig. [3b,c\)](#page-2-0), in agreement with experiment (Fig. [3d\)](#page-2-0) where the positions of Pd atoms were refined with considerably large thermal motion. Analysis of charge distribution reveals a mixed-valence state of the type Pd<sup>+</sup>Pd<sup>0</sup>Pd<sup>0</sup>Pd<sup>+</sup> , with a calculated net atomic charge of 0.34 and 0.18 e on the outer and inner Pd atoms, respectively.
+
+Figure [1f](#page-1-0) suggests a tentative formation mechanism of the Pd<sup>4</sup> NCs by proposing that the [PdII 2 (µ-O)(NH3)6] 2+ complexes act as precursors of the central NCs core, whereas the mononuclear Pd<sup>2</sup><sup>+</sup> cations become the terminal atoms in the Pd<sup>4</sup> NCs (Supplementary Fig. 3e). Finally, hydrated charge-counterbalancing alkali Na<sup>+</sup> cations are present in **4** as a result of the reduction with NaBH<sup>4</sup> . They are distributed within the channels, further stabilizing the whole net (Supplementary Fig. 5).
+
+The Pd<sup>2</sup><sup>+</sup> -based guest molecules in **3** are efficiently organized within the MOF pore, where they can react, aggregating in ordered dimers. This suggests that the crystalline porous host aligns the molecules within its cavities through a high degree of molecular recognition. While in **3**, [PdII 2 (µ-O)(NH3)6] 2+ dimers interact with the net through –NH<sup>3</sup> ··· O hydrogen bonds (Supplementary Fig. 6), in **4**, tetranuclear [Pd4] 2+ clusters are most likely stabilized either by the network, through weak supramolecular interactions between Pd and oxamate moieties, or through a probable hydrated primary coordination sphere around Pd atoms, hydrogen-bonded to the net (Figs [1f](#page-1-0) and [2](#page-1-1) and Supplementary Fig. 4). Despite the typical structural uncertainty related to the difficulty to determine the positions of solvent molecules in porous materials, the most plausible [Pd4] 2+ cluster structure is solvated and stabilized by a synergic effect between the network and the solvent molecules surrounding clusters. The large accessible free voids (56% of the total cell volume) allow the guest to become more than an innocent bystander. Such a vastly solvated nano-confined space stabilizes catalytic NCs without protective groups while retaining access to reactant species.
+
+PXRD patterns of **3** and **4** (Supplementary Fig. 8) confirm the crystallinity and pureness of the bulk samples with no trace of the typical peaks of Pd NPs, not even after catalysis.
+
+FTIR spectroscopy of adsorbed CO (ref. [39\)](#page-6-9) is able to differentiate between supported Pd<sup>0</sup> , Pd<sup>+</sup> and Pd<sup>2</sup><sup>+</sup> . The spectrum of **4** (Supplementary Fig. 10a) shows absorption bands at 2,140 cm<sup>−</sup><sup>1</sup> and 1,882 cm<sup>−</sup><sup>1</sup> , which correspond to linearly adsorbed CO to Pd<sup>+</sup> and Pd<sup>0</sup> , respectively, together with some weak bands assignable to Pd<sup>2</sup><sup>+</sup> metal cations[39](#page-6-9)[–41](#page-6-10). For the sake of comparison, the FTIR spectrum of adsorbed CO on the mono-directional zeolite LH after impregnation and reduction of Pd<sup>2</sup><sup>+</sup> was recorded (Supplementary Fig. 10b), showing that the mono-directional zeolite is able to stabilize Pd<sup>+</sup> to a much lesser extent.
+
+#### <span id="page-3-0"></span>**Table 1 | Catalytic activity and structures of Pd complexes.**
+
+![](_page_3_Figure_3.jpeg)
+
+Reaction conditions: **6** (15 µl, 0.14 mmol, inter-) or **8** (100 mg, 0.60 mmol, intra-) in the corresponding solvent (6 ml) at reflux temperature with the Pd catalyst (5 and 1 mol%, respectively) for 2 h. Under the indicated reaction conditions, conversion of the diazoacetate is always 100%, either to the desired products, alkene dimers, protonation to the acetate, and/or unidentified decomposition products. Reaction yields were triple-checked by *in situ* <sup>1</sup>H–NMR analysis in deuterated solvents after calibration with the pure products, GC–MS analysis after derivatization to the more stable conjugated isomers with CF3COOH or Et3N and calibration with the pure products[49](#page-6-11), and isolated yields. The given yields refer to the average with a ±5% error. <sup>∗</sup>6 h reaction time; pump addition of the diazocompound in brackets.
+
+The XPS spectrum of compound **3** is shown in Supplementary Fig. 11a. The Pd3d line consists of only one doublet with binding energy (BE) of Pd3d5/<sup>2</sup> peak equal to 338.6 eV, corresponding to Pd(II) (ref. [42\)](#page-6-12). In turn, the XPS of **4** (Supplementary Fig. 11b), after deconvolution of the Pd3d line, shows the typical peak for Pd<sup>0</sup> at a binding energy of BE(Pd3d5/2) = 335.7 eV together with a nonordinary signal at BE(Pd3d5/2)=337.0 eV, an energy between that of Pd<sup>0</sup> and the residual signals of Pd<sup>2</sup><sup>+</sup> at BE(Pd3d5/2) = 338.7 eV, and with a 1:1 ratio with respect to Pd<sup>0</sup> , which, even if distinguishing between Pd<sup>0</sup> and Pd<sup>+</sup> is challenging, can be attributed to Pd<sup>+</sup> , as previously reported[42](#page-6-12) .
+
+All these results, together, further support that both Pd<sup>+</sup> and Pd<sup>0</sup> can be found in **4** and that the Pd<sup>+</sup>Pd<sup>0</sup>Pd<sup>0</sup>Pd<sup>+</sup> arrangement predicted by theoretical calculations is the most probable electronic state of the cluster.
+
+Aberration-corrected HR-TEM images of **4** (Supplementary Figs 12a, 13 and 14) reveal no aggregation of the Pd<sup>4</sup> NCs and their uniform distribution throughout the highly crystalline framework. Analysis of these images also directly visualizes the lattice fringes of the net, where the interplanar spacing is 0.248 nm (Supplementary Fig. 12a), corresponding to (110) planes of the MOF, and confirms its retained crystallinity. Both SEM and HAADF-STEM imaging and their corresponding EDX elemental mappings for Cu, Ni, Pd and Na elements (Supplementary Figs 12b,d and 15–17) confirm a homogeneous spatial distribution of the Pd<sup>4</sup> NCs through the MOF crystal.
+
+### **Pd4-MOF catalyses carbene-transfer reactions**
+
+Table [1](#page-3-0) shows the catalytic results of different Pd compounds for the Buchner reaction of benzene derivatives to give naturally occurring and synthetically useful cycloheptatrienes[28](#page-5-19). This unique transformation is catalysed only by dirhodium salts[29](#page-6-13) or particular copper complexes[30](#page-6-0). Here, from the different Pd compounds tested that include salts, complexes, pure metallic forms, and different Pd supported species (entries 1–26), only **3** and **4** (entries 27–28) catalyse efficiently the intermolecular Buchner reaction of benzene **5a** and ethyl diazoacetate **6a** (Table [1](#page-3-0) left) and the intramolecular reaction of **8** (Table [1](#page-3-0) right).
+
+Kinetic analysis showed that the green solid **3** gives an induction time of ∼30 min after which the intermolecular reaction starts and proceeds (Supplementary Fig. 19), and in situ magic angle spinning–solid nuclear magnetic resonance (MAS–NMR) of a sample of **3** treated with an equimolecular amount respect to Pd of isotopically labelled **6a** N 13 <sup>2</sup> CH–COOEt (refs [43,](#page-6-14)[44\)](#page-6-15), in gas phase, shows the immediate transformation of **6a** to the corresponding dimer (Supplementary Fig. 20) with the recovered solid active for the Buchner reaction without induction period. These results point to diazoacetate **6a** as a reducing agent of Pd<sup>2</sup><sup>+</sup> in **3**, to give **4** under reaction conditions, as NaBH<sup>4</sup> does externally. The solid precursors **1** and **2** do not show any catalytic activity, which confirms that the catalytic activity comes from [Pd4] 2+ and not from any defects on the MOF structure.
+
+Zeolites able to stabilize Pd<sup>+</sup> cluster species within their anionic zeolite framework, such as KL and mordenite, give significant yields of **7a** (entries 23–26), which supports the active role of Pd<sup>+</sup> in the reaction. In contrast, ligand-stabilized complexes such as a perylene-stabilized linear [Pd4] 2+ complex (**10d**; refs [35,](#page-6-5)[45\)](#page-6-16) and two commercially available phosphine-stabilized Pd<sup>+</sup> dimer complexes, **10e** (ref. [46\)](#page-6-17) and **10f** (ref. [47\)](#page-6-18), were prepared and evaluated catalytically (entries 29–31). In all cases, product **7a** was not observed, which can be easily understood taking into account that the labile perylene ligand (**10d**) is also a potential reactant in the Buchner reaction and that **10d–f** are temperaturesensitive compounds.
+
+The catalytic amount of **4** could be lowered to 0.5 mol% and reused up to 20 times without a significant depletion of its inherent catalytic activity for the intermolecular reaction (entry 32, Supplementary Fig. 21). The process could also be run in flow (Supplementary Fig. 22) by adding **6a** with a syringe pump to a fixed amount of catalyst **4** under recirculating benzene **5a**. In this way,
+
+#### <span id="page-4-0"></span>**Table 2 | Catalytic activity and substrate scope.**
+
+![](_page_4_Figure_3.jpeg)
+
+Top, scope for the Pd4-catalysed intermolecular Buchner reaction. Bottom, catalyst comparison and substrate scope for other Pd4-catalysed carbene-mediated reactions of diazoacetates. Under the indicated reaction conditions, conversion of the diazoacetate is always 100%, either to the desired products, protonation to the acetate, and/or unidentified decomposition products.
+
+a solution of ∼1 g of **7a** in 100 ml of benzene (∼0.1 M) could be obtained, which not only saves fivefold amounts of benzene but also enables a safer handling of **6a** for industrial applications[30](#page-6-0)[,48](#page-6-19). Besides, the recovered catalyst **4** completely retained its intrinsic catalytic activity after working in flow mode for 24 h (Supplementary Fig. 23). A turnover number (TON) > 2,000 was obtained for **4** either in batch or in flow, a value one order of magnitude higher than the state-of-the-art catalyst Rh2(OAc)<sup>4</sup> (TON = 104, entry 33), which rapidly decomposes to inactive species after the first use[29](#page-6-13) .
+
+Table [2](#page-4-0) shows that **4** catalyses the intermolecular Buchner reaction of different arenes and diazoacetates in yields comparable to Rh2(OAc)<sup>4</sup> (ref. [29\)](#page-6-13). In contrast to the soluble catalyst, the isomeric distribution obtained with **4** for products **7a–l** shifts significantly towards less hindered products (Supplementary Table 3). For instance, the isomeric ratio at full conversion for the 2-, 3- and 4-methyl substituted products in **7b** changes from ∼1:1:2.5 with Rh2(OAc)<sup>4</sup> or ∼1:1:6 with Rh2(OAc3-F)<sup>4</sup> (ref. [29\)](#page-6-13) to 0:1:1 with **4**, indicating that the MOF structure imposes shape selectivity effects during the catalytic process. Indeed, the intramolecular Buchner reaction of the bulkier diazoacetate **8** (ref. [49\)](#page-6-11) proceeds in 57% yield, a significantly lower value than the intermolecular reaction, since the channel of **4** probably restricts sterically the transition state. Note that no conversion of **8** was found with KL and mordenite with smaller ∼7 Å<sup>2</sup> channels.
+
+The reaction rate for the intermolecular Buchner reaction of **5a** (Supplementary Fig. 24) follows a first-order kinetics with respect to both reactants and catalyst to give the equation rate v<sup>0</sup> = k[cat][**5a**][**6a**] (k = observable kinetic constant) at low concentrations of **6a**. The participation of a Pd carbenoid in the rate-determining step of the reaction is supported by:
+
+# <span id="page-5-20"></span>**NATURE MATERIALS DOI: [10.1038/NMAT4910](http://dx.doi.org/10.1038/nmat4910)** ARTICLES
+
+![](_page_5_Figure_2.jpeg)
+
+#### **Figure 4 | Proposed mechanism for Pd4-catalysed intermolecular Buchner reaction.**
+
+the similar rates found for N<sup>2</sup> liberation and formation of cycloheptatriene **7a**; values for 1H 6= and 1S 6= of 19.0(8) kcal mol<sup>−</sup><sup>1</sup> and −9.9(5) kcal mol<sup>−</sup><sup>1</sup> K −1 , respectively, obtained by an Eyring plot of the intermolecular reaction and which agree with previous reports on associative transition states during this reaction[50](#page-6-20); and the structure of the conjugated cycloheptatrienes obtained here can only come, in principle, from the classically accepted cyclopropanation/electrocyclic ring opening route, since other potential ways of coupling/opening should lead to different products. Thus, a plausible mechanism for the Pd4-catalysed Buchner reaction can be proposed (Fig. [4\)](#page-5-20). The reaction would start with the formation of a Pd carbenoid, which enables the cyclopropanation of the arene and the 6π disrotatory electrocyclic ring opening of the so-formed norcaradiene, to give the final cycloheptatriene product.
+
+Finally, Table [2](#page-4-0) also compares the catalytic activity of different Pd compounds for other representative carbene-transfer-mediated reactions of diazocompounds, such as the insertion of alcohols or the dimerization. The results show that 0.005 mol% of **4** gives >90% yield of products **12a–f** and **13a–d** with TONs approaching 100,000 catalytic cycles in some cases, thus outperforming not only other Pd catalysts but also the state-of-the-art metal catalysts for these reactions[29](#page-6-13)[,30](#page-6-0) .
+
+#### **Conclusions**
+
+The confinement and protection provided by the MOF together with an exquisite control of the stoichiometry of the Pd<sup>2</sup><sup>+</sup> cations has allowed the multigram-scale synthesis of linear Pd<sup>0</sup>/1<sup>+</sup> 4 clusters, homogeneously distributed and stabilized along the MOF channels and fully characterized with X-ray crystallography. These ultrasmall clusters catalyse very efficiently representative carbene-mediated reactions such as the inter- and intramolecular Buchner reaction, the O–H insertion and the dimerization of diazocompounds, with TONs at least one order of magnitude higher than the state-ofthe-art most active catalysts. The solid Pd<sup>0</sup>/1<sup>+</sup> 4 –MOF catalyst is very stable under reaction conditions, recoverable and reusable, and can work in a batch or in flow with no observable loss of activity with time. These results bring Pd to the selected group of metals that catalyse carbene-mediated reactions.
+
+#### **Methods**
+
+Methods, including statements of data availability and any associated accession codes and references, are available in the [online version of this paper.](http://dx.doi.org/10.1038/nmat4910)
+
+Received 30 November 2016; accepted 20 April 2017; published online 12 June 2017
+
+#### **References**
+
+- <span id="page-5-0"></span>1. Argo, A. M., Odzak, J. F., Lai, F. S. & Gates, B. C. Observation of ligand effects during alkene hydrogenation catalysed by supported metal clusters. Nature **415,** 623–626 (2002).
+- 2. Corma, A. et al. Exceptional oxidation activity with size-controlled supported gold clusters of low atomicity. Nat. Chem. **5,** 775–781 (2013).
+- 3. Oliver-Meseguer, J., Cabrero-Antonino, J. R., Dominguez, I., Leyva-Perez, A. & Corma, A. Small gold clusters formed in solution give reaction turnover numbers of 107 at room temperature. Science **338,** 1452–1455 (2012).
+- 4. Wang, N. et al. In situ confinement of ultrasmall Pd clusters within nanosized silicalite-1 zeolite for highly efficient catalysis of hydrogen generation. J. Am. Chem. Soc. **138,** 7484–7487 (2016).
+- <span id="page-5-1"></span>5. Yamamoto, K. et al. Size-specific catalytic activity of platinum clusters enhances oxygen reduction reactions. Nat. Chem. **1,** 397–402 (2009).
+- <span id="page-5-2"></span>6. Boronat, M., Leyva-Pérez, A. & Corma, A. Theoretical and experimental insights into the origin of the catalytic activity of subnanometric gold clusters: attempts to predict reactivity with clusters and nanoparticles of gold. Acc. Chem. Res. **47,** 834–844 (2014).
+- <span id="page-5-3"></span>7. Campbell, C. T. The effect of size-dependent nanoparticle energetics on catalyst sintering. Science **298,** 811–814 (2002).
+- <span id="page-5-4"></span>8. Lei, Y. et al. Increased silver activity for direct propylene epoxidation via subnanometer size effects. Science **328,** 224–228 (2010).
+- <span id="page-5-5"></span>9. Tyo, E. C. & Vajda, S. Catalysis by clusters with precise numbers of atoms. Nat. Nanotech. **10,** 577–588 (2015).
+- <span id="page-5-6"></span>10. Murahashi, T. Discrete sandwich compounds of monolayer palladium sheets. Science **313,** 1104–1107 (2006).
+- <span id="page-5-7"></span>11. Liu, L. et al. Generation of subnanometric platinum with high stability during transformation of a 2D zeolite into 3D. Nat. Mater. **16,** 132–138 (2017).
+- <span id="page-5-8"></span>12. Serna, P. & Gates, B. C. Molecular metal catalysts on supports: organometallic chemistry meets surface science. Acc. Chem. Res. **47,** 2612–2620 (2014).
+- <span id="page-5-9"></span>13. Okrut, A. et al. Selective molecular recognition by nanoscale environments in a supported iridium cluster catalyst. Nat. Nanotech. **9,** 459–465 (2014).
+- <span id="page-5-10"></span>14. Furukawa, H., Cordova, K. E., O'Keeffe, M. & Yaghi, O. M. The chemistry and applications of metal-organic frameworks. Science **341,** 974–986 (2013).
+- <span id="page-5-11"></span>15. Gascon, J., Corma, A., Kapteijn, F. & Llabrés i Xamena, F. X. Metal organic framework catalysis: quo vadis? ACS Catal. **4,** 361–378 (2014).
+- <span id="page-5-12"></span>16. Moon, H. R., Lim, D.-W. & Suh, M. P. Fabrication of metal nanoparticles in metal–organic frameworks. Chem. Soc. Rev. **42,** 1807–1824 (2013).
+- <span id="page-5-13"></span>17. Li, X. et al. Controlling catalytic properties of Pd nanoclusters through their chemical environment at the atomic level using isoreticular metal–organic frameworks. ACS Catal. **6,** 3461–3468 (2016).
+- 18. Liu, H. et al. Controllable encapsulation of 'clean' metal clusters within MOFs through kinetic modulation: towards advanced heterogeneous nanocatalysts. Angew. Chem. Int. Ed. **55,** 5019–5023 (2016).
+- 19. Liu, L. et al. Size-confined growth of atom-precise nanoclusters in metal–organic frameworks and their catalytic applications. Nanoscale **8,** 1407–1412 (2016).
+- <span id="page-5-14"></span>20. Yang, Q., Xu, Q., Yu, S.-H. & Jiang, H.-L. Pd Nanocubes@ZIF-8: integration of plasmon-driven photothermal conversion with a metal-organic framework for efficient and selective catalysis. Angew. Chem. Int. Ed. **55,** 3685–3689 (2016).
+- <span id="page-5-15"></span>21. Seidel, G. & Fürstner, A. Structure of a reactive gold carbenoid. Angew. Chem. Int. Ed. **53,** 4807–4811 (2014).
+- <span id="page-5-16"></span>22. Wu, X.-F., Anbarasan, P., Neumann, H. & Beller, M. From noble metal to nobel prize: palladium-catalyzed coupling reactions as key methods in organic synthesis. Angew. Chem. Int. Ed. **49,** 9047–9050 (2010).
+- <span id="page-5-17"></span>23. Albéniz, A. C., Espinet, P., Manrique, R. & Pérez-Mateo, A. Observation of the direct products of migratory insertion in aryl palladium carbene complexes and their subsequent hydrolysis. Angew. Chem. Int. Ed. **41,** 2363–2366 (2002).
+- 24. Fillion, E. & Taylor, N. J. Cine-substitution in the stille coupling: evidence for the carbenoid reactivity of sp 3 - g em -Organodimetallic iodopalladio-trialkylstannylalkane intermediates. J. Am. Chem. Soc. **125,** 12700–12701 (2003).
+- 25. Qin, G., Li, L., Li, J. & Huang, H. Palladium-catalyzed formal insertion of carbenoids into aminals via C–N bond activation. J. Am. Chem. Soc. **137,** 12490–12493 (2015).
+- 26. Solé, D., Mariani, F., Bennasar, M.-L. & Fernández, I. Palladium-catalyzed intramolecular carbene insertion into C(sp 3)-H bonds. Angew. Chem. Int. Ed. **55,** 6467–6470 (2016).
+- <span id="page-5-18"></span>27. Gutiérrez-Bonet, Á., Juliá-Hernández, F., de Luis, B. & Martin, R. Pd-catalyzed C(sp 3)–H functionalization/carbenoid insertion: all-carbon quaternary centers via multiple C–C bond formation. J. Am. Chem. Soc. **138,** 6384–6387 (2016).
+- <span id="page-5-19"></span>28. McKervey, M. A., Tuladhar, S. M. & Twohig, M. F. Efficient synthesis of bicyclo[5.3.0]decatrienones and of 2-tetralones via rhodium(II) acetate-catalysed cyclisation of α-diazoketones derived from 3-arylpropionic acids. J. Chem. Soc. Chem. Commun. 129–130 (1984).
+
+# ARTICLES **NATURE MATERIALS DOI: [10.1038/NMAT4910](http://dx.doi.org/10.1038/nmat4910)**
+
+- <span id="page-6-13"></span>29. Anciaux, A. J. et al. Transition-metal-catalyzed reactions of diazo compounds. 2. Addition to aromatic molecules: catalysis of Buchner's synthesis of cycloheptatrienes. J. Org. Chem. **46,** 873–876 (1981).
+- <span id="page-6-0"></span>30. Maestre, L. et al. A fully recyclable heterogenized Cu catalyst for the general carbene transfer reaction in batch and flow. Chem. Sci. **6,** 1510–1515 (2015).
+- <span id="page-6-1"></span>31. Brozek, C. K. & Dincă, M. Cation exchange at the secondary building units of metal-organic frameworks. Chem. Soc. Rev. **43,** 5456–5467 (2014).
+- <span id="page-6-2"></span>32. Grancha, T. et al. Postsynthetic improvement of the physical properties in a metal-organic framework through a single crystal to single crystal transmetallation. Angew. Chem. Int. Ed. **54,** 6521–6525 (2015).
+- <span id="page-6-3"></span>33. Mon, M. et al. Selective gold recovery and catalysis in a highly flexible methionine-decorated metal–organic framework. J. Am. Chem. Soc. **138,** 7864–7867 (2016).
+- <span id="page-6-4"></span>34. Mon, M. et al. Selective and efficient removal of mercury from aqueous media with the highly flexible arms of a BioMOF. Angew. Chem. Int. Ed. **55,** 11167–11172 (2016).
+- <span id="page-6-5"></span>35. Murahashi, T., Uemura, T. & Kurosawa, H. Perylene-tetrapalladium sandwich complexes. J. Am. Chem. Soc. **125,** 8436–8437 (2003).
+- <span id="page-6-6"></span>36. Murahashi, T., Kato, N., Uemura, T. & Kurosawa, H. Rearrangement of a Pd4 skeleton from a 1D chain to a 2D sheet on the face of a perylene or fluoranthene ligand caused by exchange of the binder molecule. Angew. Chem. Int. Ed. **46,** 3509–3512 (2007).
+- <span id="page-6-7"></span>37. Mealli, C. et al. Theoretical aspects of the heterobimetallic dimers with the T over square structural motif. Synthesis and structure of a heteronuclear platinum and palladium complex with 1-methylcytosinato bridging ligands. Inorg. Chem. **34,** 3418–3424 (1995).
+- <span id="page-6-8"></span>38. Murahashi, T. & Kurosawa, H. Organopalladium complexes containing palladium-palladium bonds. Coord. Chem. Rev. **231,** 207–228 (2002).
+- <span id="page-6-9"></span>39. Fernández-García, M. et al. Role of the state of the metal component on the light-off performance of Pd-based three-way catalysts. J. Catal. **221,** 594–600 (2004).
+- 40. Liang, B., Zhou, M. & Andrews, L. Reactions of laser-ablated Ni, Pd, and Pt atoms with carbon monoxide: matrix infrared spectra and density functional calculations on M(CO)<sup>n</sup> (n=1–4), M(CO)<sup>n</sup> (n=1–3), and M(CO)<sup>+</sup> n (n=1–2), (M = Ni, Pd, Pt). J. Phys. Chem. A **104,** 3905–3914 (2000).
+- <span id="page-6-10"></span>41. Willner, H. et al. Superelectrophilic tetrakis(carbonyl)palladium(II)- and -platinum(II) undecafluorodiantimonate(V), [Pd(CO)4][Sb2F11]<sup>2</sup> and [Pt(CO)4][Sb2F11]<sup>2</sup> : syntheses, physical and spectroscopic properties, their crystal, molecular, and extended structures, and density functional calculations: an experimental, computational, and comparative study. J. Am. Chem. Soc. **123,** 588–602 (2001).
+- <span id="page-6-12"></span>42. Nefedov, V. I. et al. ESCA and X-ray spectral study of Pd(0), Pd(I) and Pd(II) compounds with triphenylphosphine ligands. Inorg. Chim. Acta **35,** L343–L344 (1979).
+- <span id="page-6-14"></span>43. Searle, N. E. Ethyl diazoacetate. Org. Synth. **36,** 25 (1956).
+- <span id="page-6-15"></span>44. Ranocchiari, M. & Mezzetti, A. Ru/PNNP-catalyzed asymmetric imine aziridination by diazo ester activation. Organometallics **28,** 3611–3613 (2009).
+- <span id="page-6-16"></span>45. Horiuchi, S. et al. Multinuclear metal-binding ability of a carotene. Nat. Commun. **6,** 6742 (2015).
+- <span id="page-6-17"></span>46. Barder, T. E. Synthesis, structural, and electron topographical analyses of a Dialkylbiaryl Phosphine/Arene-Ligated Palladium(I) dimer: enhanced reactivity in Suzuki–Miyaura coupling reactions. J. Am. Chem. Soc. **128,** 898–904 (2006).
+- <span id="page-6-18"></span>47. Yin, G., Kalvet, I. & Schoenebeck, F. Trifluoromethylthiolation of aryl iodides and bromides enabled by a bench-stable and easy-to-recover dinuclear Palladium(I) catalyst. Angew. Chem. Int. Ed. **54,** 6809–6813 (2015).
+- <span id="page-6-19"></span>48. Maas, G. New syntheses of diazo compounds. Angew. Chem. Int. Ed. **48,** 8186–8195 (2009).
+- <span id="page-6-11"></span>49. Kennedy, M., McKervey, M. A., Maguire, A. R., Tuladhar, S. M. & Twohig, M. F. The intramolecular Buchner reaction of aryl diazoketones. Substituent effects and scope in synthesis. J. Chem. Soc. Perkin Trans. **1,** 1047–1054 (1990).
+- <span id="page-6-20"></span>50. Pereira, A. et al. Copper-carbene intermediates in the copper-catalyzed functionalization of O–H bonds. Chem. A Eur. J. **21,** 9769–9775 (2015).
+
+### **Acknowledgements**
+
+This work was supported by the MINECO (Spain) (Projects CTQ2013-46362-P, CTQ2014-56312-P and Excellence Units 'Severo Ochoa' and 'Maria de Maeztu' SEV-2012-0267 and MDM-2015-0538), the Generalitat Valenciana (Spain) (Project PROMETEOII/2014/070), the Ministero dell'Istruzione, dell'Università e della Ricerca (Italy) and the Junta de Andalucía (FQM-195 and P11-FQM-7756). M.M. thanks the MINECO for a predoctoral contract. Thanks are also extended to the Ramón y Cajal Program and the 'Convocatoria 2015 de Ayudas Fundación BBVA a Investigadores y Creadores Culturales' (E.P., A.L.-P. and J.F.-S.). J.G. acknowledge the financial support of the European Research Council under the European Union's Seventh Framework Programme (FP/2007-2013)/ERC Grant Agreement no. 335746, CrystEng-MOF-MMM.
+
+### **Author contributions**
+
+E.P., A.L.-P., A.C. and D.A. designed the research; E.P. and J.F.-S. coordinated the whole work; F.R.F.-P. and M.M. performed synthetic work; D.A. performed powder and single-crystal XRD characterization and analysed data; A.L.-P. carried out the catalytic experiments; J.G. and D.O. performed spectroscopic characterization and analysed data; J.M.H. performed microscopy measurements; M.B. carried out the theoretical calculations; E.P., A.L.-P., A.C., D.A., J.F.-S., M.B. and J.G. wrote and revised the paper.
+
+### **Additional information**
+
+Supplementary information is available in the [online version of the paper.](http://dx.doi.org/10.1038/nmat4910) Reprints and permissions information is available online at [www.nature.com/reprints.](http://www.nature.com/reprints) Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. Correspondence and requests for materials should be addressed to A.L.-P., A.C., D.A. or E.P.
+
+### **Competing financial interests**
+
+The authors declare no competing financial interests.
+
+![](_page_7_Picture_1.jpeg)
+
+#### **Methods**
+
+**Materials.** All chemicals were of reagent-grade quality. They were purchased from commercial sources and used as received. Crystals of
+
+MgII 2 {MgII 4 [CuII 2 (Me3mpba)2]3} · 45H2O (**1**), NiII 2 {NiII 4 [CuII 2 (Me3mpba)2]3} · 54H2O (**2**) and [Pd(NH3)4]Cl<sup>2</sup> were prepared as previously reported (see Supplementary Methods). Alternatively, a large-scale synthesis of NiII 2 {NiII 4 [CuII 2 (Me3mpba)2]3} · 54H2O (**2**) was carried out by direct reaction of two aqueous solutions (250 ml each) of Na4[Cu2(Me3mpba)2] · 4H2O (8.71 g, 0.010 mol) and Ni(NO3)<sup>2</sup> · 6H2O (3.88 g, 0.013 mol) and subsequent addition, after filtration and re-suspension in 150 ml water of the resulting compound, of 1.94 g (0.0067 mol) of Ni(NO3)<sup>2</sup> · 6H2O (yield 99%).
+
+**Syntheses.** For [PdII(NH3)4][PdII 2 (µ-O)(NH3)6(NH4)2]0.5{NiII 4 [CuII 2 (Me3mpba)2]3} · 52H2O (**3**), well-formed deep green prisms of **3**, which were suitable for XRD, were obtained by immersing crystals of **2** (about 5 mg, 0.0015 mmol) for 48 h in 5 ml of a [Pd(NH3)4]Cl<sup>2</sup> aqueous solution (0.004 mmol). Aiming at industrial applications, a multigram-scale procedure was also carried out by using the same synthetic procedure but with greater amounts of both, a powder sample of compound **2** (20 g, 5.8 mmol) and [Pd(NH3)4]Cl<sup>2</sup> (3.43 g, 14.0 mmol), with the same successful results and a very high yield (20.33 g, 96%). Anal.: calcd (%) for Cu6Ni4Pd2C78H189N20O88.5 (3,652.3): C, 25.65; H, 5.22; N, 7.67. Found: C, 25.68; H, 5.13; N, 7.33. IR (KBr): ν =3, 014, 2,951 and 2,913 cm<sup>−</sup><sup>1</sup> (C–H), 1,607 cm<sup>−</sup><sup>1</sup> (C=O).
+
+For [Pd4]0.5@Na3{NiII 4 [CuII 2 (Me3mpba)2]3} · 56H2O (**4**), both, crystals (about 5 mg) and a powder polycrystalline sample of **3** (about 10 g), were suspended in 50 ml of a H2O/CH3OH (1:2) solution to which an excess of NaBH<sup>4</sup> , divided into 26 fractions (each fraction consisting of 1 mole of NaBH<sup>4</sup> per mole of **3** to give a final NaBH<sup>4</sup> /MOF molar ratio of 26 or, which is the same, NaBH<sup>4</sup> /Pd atom molar ratio of 13), was added progressively in the space of 72 h. After each addition, the mixture was allowed to react for 1.5 h. After this period, samples were gently washed with a H2O/CH3OH solution and filtered on paper giving excellent yields (98%). Anal.: calcd (%) for Cu6Ni4Pd2Na3C78H172N12O<sup>92</sup> (3,648.1): C, 25.68; H, 4.75; N, 4.61. Found: C, 25.68; H, 4.63; N, 4.65. IR (KBr): ν =3, 013, 2,964 and 2,914 cm<sup>−</sup><sup>1</sup> (C–H), 1,603 cm<sup>−</sup><sup>1</sup> (C=O).
+
+**Single-crystal X-ray diffraction.** Crystal data for **3** and **4**: tetragonal, space group P4/mmm, T =90(2)K, Z =4; **3**: C78H189Cu6N20Ni4O88.5Pd<sup>2</sup> , a=35.920(2)Å, c =15.3561(9)Å, V =19, 813(2)Å 3 , ρcalc =1.224 g cm<sup>−</sup><sup>3</sup> , µ=1.259 mm<sup>−</sup><sup>1</sup> ; **4**: C78H172Cu6N12Na3Ni4O92Pd<sup>2</sup> , a=35.794(13)Å, c =15.063(5)Å, V =19, 298(16)Å 3 , ρcalc =1.256 g cm<sup>−</sup><sup>3</sup> , µ=1.299 mm<sup>−</sup><sup>1</sup> . Further details can be found in the Supplementary Information.
+
+**X-ray powder diffraction.** PXRD patterns of solid polycrystalline samples **3** and **4**, before and after catalysis, were obtained with a Empyrean PANalytical powder diffractometer, using Cu K<sup>α</sup> radiation (λ=1.54056 Å) at room temperature (2θ =2 ◦ –60◦ ).
+
+**FTIR spectroscopy of adsorbed CO.** The spectra were recorded on a Biorad FTS-40A spectrometer equipped with a DTGS detector. The experiments have been carried out in a home-made IR cell able to work in the high- and low- (77 K) temperature range. Further experimental details can be found in the Supplementary Methods.
+
+**Microscopy.** High-resolution transmission electron microscopy (HR-TEM), high-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) and energy-dispersive X-ray analysis (EDX) characterizations were done using a HAADF-FEI-TITAN G2 electron microscope. Five micrograms of the material was re-dispersed in 1 ml of absolute ethanol. Carbon-reinforced copper grids (200 mesh) were submerged into the suspension 30 times and then allowed to dry in air for 24 h.
+
+Scanning electron microscopy coupled with energy-dispersive X-ray (SEM/EDX) was carried out with an XL 30 ESEM (PHILIPS) microscope equipped with a home-made EDX detector.
+
+**X-ray photoelectron spectroscopy.** Samples were prepared by dropping a solid water suspension onto a molybdenum plate followed by air drying, and then measurements were performed on a SPECS spectrometer equipped with a Phoibos 150 MCD-9 analyser using a non-monochromatic Mg KR (1,253.6 eV) X-ray source working at 50 W. As an internal reference for the peak positions in the XPS spectra, the C1s peak has been set at 284.5 eV.
+
+**Magic angle spinning–solid-state NMR.** Fifty micrograms of catalyst **3** was introduced into glass inserts and dehydrated at 80 ◦C for 18 h. Then, 4.7 µmol of isotopically labelled **6a** N<sup>2</sup> <sup>13</sup>CH–COOEt, corresponding to Pd/**6a** = 1, was introduced onto the dehydrated material. The glass inserts were sealed while they were immersed in liquid nitrogen. In situ <sup>13</sup>C solid-state NMR spectra were recorded at room temperature with a Bruker AVIII HD 400 WB spectrometer. The glass inserts were fitted into 7 mm rotors and were spun at 5 kHz in a Bruker BL7 probe. <sup>13</sup>C CP/MAS NMR spectra were recorded with proton decoupling, with a <sup>1</sup>H 90◦ pulse length of 5 µs, and a recycle delay of 3 s.
+
+**Computational details.** All calculations are based on density functional theory and were carried out with the Gaussian 09 program package, using the hybrid B3PW91 functional, the LANL2DZ basis set for Pd, Cu and Ni atoms, and the standard 6-311G(d,p) basis set by Pople for O, N, C and H atoms. Atomic charges were calculated using the natural bond order (NBO) approach. A detailed description of models and methods is given in the Supplementary Information.
+
+**Catalytic experiments.** A detailed description of all the catalytic experiments is given in the Supplementary Information.
+
+**Data availability.** All data supporting the findings of this work are available from the corresponding authors on request. Crystallographic data for the structure reported in this paper have been deposited in the Cambridge Structural Database with CCDC numbers 1517224-1517225.In the format provided by the authors and unedited. **Supplementary Information** (SI) for the manuscript:
+
+# **The MOF–driven synthesis of supported palladium clusters with catalytic activity for carbene–mediated chemistry**
+
+Francisco R. Fortea–Pérez1 , Marta Mon1 , Jesús Ferrando–Soria1 , Mercedes Boronat,2 Antonio Leyva–Pérez2 \*, Avelino Corma2 \*, Juan Manuel Herrera3 , Dmitrii Osadchii4 , Jorge Gascon4 , Donatella Armentano5 \* and Emilio Pardo1 \*
+
+#### **Supplementary Methods**
+
+| Materials                                                                                       | S4  |
+|-------------------------------------------------------------------------------------------------|-----|
+| Preparation of compounds                                                                        | S4  |
+| [PdII(NH3)4][PdII<br>2(–H2O)(NH3)6]0.5{NiII<br>4[CuII<br>2(Me3mpba)2]3} · 52H2O<br>(3)         | S4  |
+| [Pd4]0.5@Na3{NiII<br>4[CuII<br>2(Me3mpba)2]3} · 56H2O (4)                                       | S4  |
+| Supplementary Table<br>1                                                                        | S6  |
+| X–ray crystallographic data collection and structure refinement                                 | S7  |
+| Structural details and in depth analysis of X-ray data                                          | S9  |
+| Supplementary<br>Table 2 (Summary of crystallographic data for 3<br>and 4)                      | S12 |
+| Supplementary<br>Fig. 1 (Comparison of crystal structures of 3<br>and 4)                        | S13 |
+| Supplementary<br>Fig. 2<br>(Details of octagonal pores<br>and guests in crystal structure of 4) | S14 |
+| Supplementary<br>Fig. 3<br>(Details of crystal structure of<br>3)                               | S14 |
+| Supplementary<br>Fig. 4<br>(A portion of a pore of the crystal structure of 4)                  | S16 |
+| (Details of charge–counterbalancing alkali NaI cations<br>Supplementary<br>Fig. 5<br>in<br>4)   | S17 |
+| Supplementary<br>Fig. 6<br>(A portion of a pore of the crystal structure of 3)                  | S18 |
+| Physical techniques<br>and theoretical calculations                                             | S19 |
+| Supplementary<br>Fig. 7<br>(Theoretical calculations)                                           | S22 |
+| Supplementary<br>Fig. 8<br>(PXRD Patterns)                                                      | S23 |
+| Supplementary<br>Fig. 9<br>(TGA Analyses)                                                       | S24 |
+| Supplementary<br>Fig. 10<br>(FTIR under CO spectra)                                             | S25 |
+| Supplementary<br>Fig. 11<br>(XPS)                                                               | S26 |
+| Supplementary<br>Fig. 12<br>(HR–TEM and SEM)                                                    | S27 |
+| Supplementary<br>Fig. 13<br>(HR–TEM)                                                            | S28 |
+| Supplementary<br>Fig. 14<br>(HR–TEM)                                                            | S29 |
+| Supplementary<br>Fig. 15<br>(SEM)                                                               | S30 |
+| Supplementary<br>Fig. 16<br>(SEM)                                                               | S31 |
+| Supplementary<br>Fig. 17<br>(SEM)                                                               | S32 |
+| Supplementary<br>Fig. 18<br>(N2<br>isotherm)                                                    | S33 |
+
+## **[DOI: 10.1038/NMAT491](http://dx.doi.org/10.1038/nmat4910)0** SUPPLEMENTARY INFORMATION
+
+| Catalysis<br>S34<br>Preparation of diazocompound 8<br>S34<br>Catalytic experiments<br>S34<br>Buchner reaction in flow<br>S35<br>In–situ magic angle spinning–solid nuclear magnetic resonance (MAS–NMR)<br>S35 |     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+|                                                                                                                                                                                                                |     |
+|                                                                                                                                                                                                                |     |
+|                                                                                                                                                                                                                |     |
+|                                                                                                                                                                                                                |     |
+| Product characterisation                                                                                                                                                                                       | S36 |
+| Supplementary<br>Table 3                                                                                                                                                                                       | S43 |
+| Supplementary<br>Fig. 19                                                                                                                                                                                       | S44 |
+| Supplementary<br>Fig. 20                                                                                                                                                                                       | S45 |
+| Supplementary<br>Fig. 21                                                                                                                                                                                       | S46 |
+| Supplementary<br>Fig. 22                                                                                                                                                                                       | S47 |
+| Supplementary<br>Fig. 23                                                                                                                                                                                       | S48 |
+| Supplementary<br>Fig. 24                                                                                                                                                                                       | S49 |
+
+#### **Supplementary Methods**
+
+**Materials.** All chemicals were of reagent grade quality. They were purchased from commercial sources and used as received. Crystals of Mg2 II{MgII 4[CuII 2(Me3mpba)2]3} · 45H2O (**1**), Ni2 II{NiII 4[CuII 2(Me3mpba)2]3} · 54H2O (**2**) and [Pd(NH3)4]Cl2 were prepared as previously reported.1 Alternatively, a large scale synthesis of Ni2 II{NiII 4[CuII 2(Me3mpba)2]3} · 54H2O (**2**) was carried out by direct reaction of two aqueous solutions (250 mL each) of Na4[Cu2(Me3mpba)2] · 4H2O<sup>2</sup> (8.71 g, 0.010 mol) and Ni(NO3)2 . 6H2O (3.88 g, 0.013 mol) and subsequent addition, after filtration and re–suspension in 150 mL water of the resulting compound, of 1.94 g (0.0067 mol) of Ni(NO3)2 . 6H2O (Yield 99 %).
+
+**[PdII(NH3)4][PdII2(–O)(NH3)6(NH4)2]0.5{NiII4[CuII2(Me3mpba)2]3} · 52H2O (3):** Well–formed deep green prisms of **3**, which were suitable for X–ray diffraction, were obtained by immersing crystals of **2** (*ca.* 5 mg, 0.0015 mmol) for 48 hours in 5 mL of a [Pd(NH3)4]Cl2 aqueous solution (0.004 mmol). Aiming at industrial applications, a multigram scale procedure was also carried out by using the same synthetic procedure but with greater amounts of both, a powder sample of compound **2** (20 g, 5.8 mmol) and [Pd(NH3)4]Cl2 (3.43 g, 14.0 mmol), with the same successful results and a very high yield (20.33 g, 96%). Anal.: calcd (%) for Cu6Ni4Pd2C78H189N20O88.5 (3652.3): C, 25.65; H, 5.22; N, 7.67. Found: C, 25.68; H, 5.13; N, 7.33. IR (KBr): *ν* = 3014, 2951 and 2913 cm–1 (C–H), 1607 cm–1 (C=O).
+
+**[Pd4]0.5@Na3{NiII4[CuII2(Me3mpba)2]3} · 56H2O (4):** Both, crystals (*ca.* 5 mg) and a powder polycrystalline sample of **3** (*ca.* 10 g), were suspended in 50 mL of a H2O/CH3OH (1:2) solution to which an excess of NaBH4, divided 26 in fractions (each fraction consisting of 1 mole of NaBH4 per mole of **3** to give a final NaBH4 / MOF molar ratio of 26 or, which is the same, NaBH4 / Pd atom molar ratio of 13), was added progressively in the space of 72 hours. After each addition, the mixture was allowed to react for 1.5 hour. After this period, samples were gently washed with a H2O/CH3OH solution and filtered on paper giving excellent yields (98%). Anal.: calcd (%) for
+
+ <sup>1</sup> (a) T. Grancha, J. Ferrando-Soria, H.-C. Zhou, J. Gascon, B. Seoane, J. Pasán, O. Fabelo, M. Julve, E. Pardo, *Angew. Chem., Int. Ed.* **2015**, *54*, 6521–6525. (b) Prepared as reported in Sintez kompleksnykh soedinenii metallov platinovoi gruppy. Spravochnik (Synthesis of Complex Compounds of the Platinum Group Metals. Handbook), Chernyaev, I.I., Ed., Moscow: Nauka, 1964, p. 325.
+
+<sup>2</sup> J. Ferrando-Soria, P. Serra-Crespo, M. de Lange, J. Gascon, F. Kapteijn, M. Julve, J. Cano, F. Lloret, J. Pasán, C. Ruiz-Pérez, et al., *J. Am. Chem. Soc.* **2012**, *134*, 15301–4.
+
+Cu6Ni4Pd2Na3C78H172N12O92 (3648.1): C, 25.68; H, 4.75; N, 4.61. Found: C, 25.68; H, 4.63; N, 4.65. IR (KBr): *ν* = 3013, 2964 and 2914 cm–1 (C–H), 1603 cm–1 (C=O).
+
+#### **Table 1.** Selected data from the ICP–MS*<sup>a</sup>* , SEM/EDX*<sup>b</sup>* and TEM/EDX*<sup>c</sup>* analyses*.*
+
+|       |         | Compound 3               |         |                          |         |                         |
+|-------|---------|--------------------------|---------|--------------------------|---------|-------------------------|
+| Metal | % massa | Metal<br>stoichiometry a | % massb | Metal<br>stoichiometry b | % massc | Metal<br>stoichiometryc |
+| Cu    | 10.571  | 6.00                     | 10.43   | 5.92                     | –       | –                       |
+| Ni    | 6.518   | 4.01                     | 6.47    | 3.98                     | 6.46    | 3.99                    |
+| Pd    | 5.892   | 1.99                     | 5.77    | 1.95                     | 5.92    | 2.00                    |
+|       |         | Compound 4               |         |                          |         |                         |
+| Metal | % massa | Metal<br>stoichiometry a | % massb | Metal<br>stoichiometry b | % massc | Metal<br>stoichiometryc |
+| Cu    | 10.802  | 6.02                     | 10.92   | 6.08                     | –       | –                       |
+| Ni    | 6.679   | 4.03                     | 6.73    | 4.05                     | 6.66    | 4.02                    |
+| Pd    | 6.012   | 1.99                     | 6.08    | 2.02                     | 6.07    | 2.01                    |
+| Na    | 1.895   | 2.92                     | –       | –                        | –       | –                       |
+
+*<sup>a</sup>*Solid samples were digested with 0.5 mL of HNO3 69% at 60°C for 4 hours followed by the addition of 0.5 mL of HCl 37% and digestion 80°C for 1 hour.
+
+**X–ray crystallographic data collection and structure refinement.** Crystals of **3** and **4** with 0.12 x 0.10 x 0.10 mm as dimensions were selected and mounted on a MITIGEN holder in Paratone oil and very quickly placed on a liquid nitrogen stream cooled at 90 K to avoid the possible degradation upon dehydration. Diffraction data were collected on a Bruker–Nonius X8APEXII CCD area detector diffractometer using graphite–monochromated Mo–K<sup>α</sup> radiation ( = 0.71073 Å). The data were processed through the SAINT3 reduction and SADABS4 multi–scan absorption software. The structure was solved with the SHELXS structure solution program, using the Patterson method. The model was refined with version 2013/4 of SHELXL against *F*<sup>2</sup> on all data by full–matrix least squares.5
+
+As reported in the main text, the robustness of the 3D network, allowed the resolution of the crystal structure of both **3** and **4**, being their crystals suitable for X–ray diffraction, even over two– and three–step process, after a crystal–to–crystal transformation. For that reason it is reasonable to observe a quite poor diffraction power of the samples even if in presence of heavy atoms as palladium. In fact, a completeness of data was obtained at θmax of 21 and 23°, for **3** and **4**, respectively (Table S2) (detected as Alerts A in the checkcifs). However, the solution and refinement parameters are suitable, compared with MOFs structures generally reported, thus we are convinced that the structures found are consistent.
+
+In both samples, all non–hydrogen atoms were refined anisotropically except some highly dynamically disordered atoms of the ligand [N1, C5, C6, C8, C9, C22, C23] and solvent molecules [O5W, O6W, O7W and O17W] (**3)**, [O5, O6, N2, C13] and [O5W– O14W] together with Pd2, Pd3 and Pd4 palladium atoms in **4**. The occupancy factors, of Pd and Na+ ions have been defined in agreement with SEM and ICP–MS results. The use of some C–C bond lengths and planes restrains on atoms that are supposed to lie on a common plane (FLAT command) during the refinements and Pd–N (**3**) or Pd–Pd (**4**) bond lengths restrains of some highly disordered atoms has been reasonable imposed and related to flexibility of the three–substituted phenyl rings of the Me3mpba ligand that are dynamic components of the frameworks. This feature is particularly marked in
+
+ <sup>3</sup> SAINT, version 6.45, Bruker Analytical X-ray Systems, Madison, WI, 2003.
+
+<sup>4</sup> Sheldrick G.M. SADABS Program for Absorption Correction, version 2.10, Analytical X-ray Systems, Madison, WI, 2003
+
+<sup>5</sup> (a) G. M. Sheldrick, *Acta Cryst.* **<sup>2015</sup>**, *C71*, 3-8. (b) G. M. Sheldrick, *Acta Cryst.* **<sup>2008</sup>**, *A64*, 112-122. (c) SHELXTL-2013/4, Bruker Analytical X-ray Instruments, Madison, WI, **2013**.
+
+compound **3** whereas in **4** the further stabilization of the net by means of Na<sup>+</sup> ions (Supplementary Fig. 5) efficiently reduces such disorder. As a consequence, Alert A in the checkcifs, also related to short intra H···H, are detected. Furthermore, in **3**, Pd3 metal ions is disordered being placed in special position and at a very short distance to the equivalent one (levels Alert A in checkcifs).
+
+The solvent molecules were highly disordered (some refined double positions are detected as Alerts A in the checkcif) but, even if not all the ones detected by TGA analysis, have been somehow modeled in **3** and **4**, whereas no confined NH3 molecules belonging to the mononuclear complex [Pd(NH3)4] 2+ or NH4+ ions have been found from the F map, the quite large channels featured by this series of MOFs likely account for that.
+
+As a consequence, in **3** and **4**, the contribution to the diffraction pattern from the highly disordered water and NH3 molecules located in the voids was subtracted from the observed data through the SQUEEZE method, implemented in PLATON.6 The hydrogen atoms of the ligand were set in calculated positions and refined as riding atoms whereas for water molecules were neither found nor calculated.
+
+A summary of the crystallographic data and structure refinement for the two compounds is given in Table S2. CCDC reference numbers are 1517224 and 1517225 for **3**, and **4**, respectively.
+
+Somewhat high R–values especially for **3**, (levels Alert A in checkcifs) are, most likely, mainly affected by the contribution of the highly disordered solvent to the intensities of the low angle reflections.
+
+All attempts to increase quality of data measuring on a single crystal of **3** and **4** at CRISTAL beamline of SOLEIL synchrotron facility failed, mostly due to fast crystal deterioration under synchrotron beam radiation. Of 32265 and 18344 collected reflections for **3** and **4**, respectively, only 7837 (2209 with I > 2I) and 3711 (1878 with I > 2I) of them were unique.
+
+The final geometrical calculations on free voids and the graphical manipulations were carried out with PLATON6 implemented in WinGX,7 and CRYSTAL MAKER8 programs, respectively.
+
+#### **Structural details and in depth analysis of X-ray data.**
+
+As reported in the main text, the anionic host network {NiII 4[CuII 2(Me3mpba)2]3}4 displays remarkably robust crystallinity, which enables the use of X-ray crystallography, as ultimate method of structural determination, for the unambiguously *in situ* observation of guest inclusion, either after absorption of [PdII(NH3)]4Cl2 guest molecules (**3**) or after the reduction process (**4)**. Both crystal structures **3** and **4** clearly evidence the presence of [Pd(NH3)4] 2+ or [PdII 2(–O)(NH3)6] 2+ and Pd4 NCs guest hosted in the nanopores of **3** and **4**.
+
+The anionic NiII 4CuII 6 open-framework structure, in **3** and **4**, exhibit a pillared square/octagonal layer architecture, where nickel(II) and copper(II) ions are located on the vertices and midpoints of the edges, respectively, featuring three types of pores, different in size and shape, propagating along the *c* axis. In fact, it is built up of regularly spaced, almost square sized small pores (virtual diameter of *ca* 0.4 nm) and two octagonal-type large pores (virtual diameters of *ca.* 1.5 and 2.2 nm, respectively), hydrophobic and hydrophilic, depending on the disposition of the trimethyl-substituted phenylene spacers, pointing inwards or outwards of the voids, respectively (Fig. 1). The host framework, occupies only 35% of the crystal volume, (calculated subtracting also the volume related to metal counterions allocated in the pores). As stated in the main text the arrangement of [PdII(NH3)]4 2+ moieties or dinuclear complexes of the type [PdII 2(–O)(NH3)6] 2+ in **3** and Pd NCs in **4**, confined into the channels are, as expected, strictly related.
+
+In **3**, three crystallographically independent Pd(II) metal ions are present in the asymmetric unit whereas in **4** there are four crystallographically independent Pd(I)/Pd(0) metal ions for which positions have been refined, with occupancy factors, in in agreement with SEM results. While in **3**, [PdII 2(–O)(NH3)6] 2+ dimers interact with the net through –NH3···O hydrogen bonds (Supplementary Fig. 6), in **4** the Pd4 moieties
+
+ <sup>6</sup> Spek, A. L. *Acta Crystallogr. Sect. D, Biol. Crystallogr.* **<sup>2009</sup>**, *65*, 148.
+
+<sup>7</sup> Farrugia, L. J. *J. Appl. Crystallogr.* **<sup>1999</sup>**, *32*, 837.
+
+<sup>8</sup> D. Palmer, CRYSTAL MAKER, Cambridge University Technical Services, C. No Title, 1996.
+
+are situated at average Pd···O distances of 2.8 Å far from oxygen donor atoms of the wall of the octagonal pore (Fig. 4 and Supplementary Figs 2 and 4). Hence, it is also reasonable to suppose either [Pd4] 2+ clusters straight stabilized by the network by means of these weak supramolecular interactions between Pd and oxamate moieties or that the presence of a hydrated primary coordination sphere around Pd can further drive interactions with the net. In fact, being highly porous, MOFs can adsorb and retain a very large amount of solvent molecules in their pores. According to this point, this feature could play a role in the stabilization of Pd4 clusters in such vastly solvated nanoconfined space. Lattice water molecules hydrogen-bonded to the network can therefore bind Pd clusters supporting and further stabilizing them. Looking at X-ray data, even taking into account the disorder that always affects solvent molecules and the related diffuse electron density (very difficult to model), it is possible to identify the first two peaks of residual density [1.29 and 1.24 e.Å-3 ] which may correspond to two coordinated waters, being at a distance of 1.9 [at Pd(4)] and 1.8 Å [Pd(2)] and thus, coordinated to Pd. Anyway, aiming at being rigorous, we prefer to not explicitly assign these residual peaks that, due to the quite large pores hosting them, give us a case of continuous positional disorder**,** in which any rotational angle of the molecules or part of them (oxygen atoms) are more or less energetically similar. However, we are confident that this feature can represent a clear insight about this possibility, considering a synergic effect between network and solvent molecules surrounding clusters, this stabilization might reflect the unique condition of the Pd4 unit in the MOF. Continuing our analysis of X-ray data we can also highlight that Pd4 clusters exhibit distances from some copper coordinated or hydrogen bonded to the net water molecules [that we were able to assign] ranging from 4.8 to 5.0 Å, in perfect agreement with a plausible primary sphere of water molecules coordinated to Pd further interacting with the net.
+
+It is also evident from X-ray data that the positions of Pd atoms are disordered. In fact, Pd atoms in **4** were solved with considerably large thermal ellipsoids, however, the expected thermal disorder (dynamical disorder, a real motion in the solid state) cannot be held responsible for a so much shorter Pd-Ooxamate distance than the detected one when considering the accuracy of X-rays [bond precision on C-C = 0.0208 Å] to envisage a more strong Pd···O interaction to realize an actual Pd-O bond. Even considering Pd···O distances [average Pd···O distances 2.8(1) Å] ranging within +/-
+
+three times standard deviations, these could reach a minimum value of 2.5 Å that is still out of the range for a Pd primary sphere of coordination.
+
+For the sake of rigour and as possible X-ray error analysis we have also to underline that, in principle, disordered [Pd2] instead of [Pd4] clusters might be consistent. In fact, we took that possibility into account when refining data. However all the factors described as follow determine that Pd4 clusters are, by far, the most probable resolution. When we solved the crystal structure of **4** considering the case of disordered [Pd2] we reached refinement results not so divergent in term of goodness of fit, which means that this refinement, even if slightly worse than considering [Pd4], could be acceptable. However, considering how challenging the structural characterisation of this kind of hybrid material is, several considerations should be taken into account to drive towards the most probably results: in order to define [Pd2] clusters, we should assume that two spatial orientations of such dimers, related by a symmetry operation, on crystalline sites are allowed. This positional disorder in **4** should be considered as a static disorder distributed among different unit cells (a sort of a look-alike motion) in which the clusters can possess two well defined energetically similar positions. In fact the final positions of [Pd2] will be mediated in overall crystal assuming a 1:1 statistical distribution of the two defined positions giving as result that in cells they reside only on one side of the vector Ni···Cu···Ni of the net. This suggest us a less net-stabilized state (as confirmed by theoretical calculations) also taking into account the overall +2 charge of the cluster [Pd2] 2+ disordered or [Pd4] 2+. Moreover, considering the multi technique approach that pervades the whole paper, the assumption of dimers would involve a random distribution of charge with most probably Pd(I)-Pd(0) together with either clusters containing only Pd(0) or Pd(I) metal/ions to be in agreement with DRX, ICP– MS, XPS results. This situation is unlikely as it is hard to envisage Pd clusters in different oxidation states where no change occur in bond lengths along dimers. It is very difficult to assume that a Pd(I)-Pd(I) bond length will be exactly the same to a Pd(0)- Pd(0) ones giving dimers possessing two energetically very similar state and thus positions.
+
+Finally, theoretical calculations were performed to support the [Pd4] 2+ XRD structure (see computational details section).
+
+| Compound                                 | 3                        | 4                         |
+|------------------------------------------|--------------------------|---------------------------|
+| Formula                                  | C78H189Cu6N20Ni4O88.5Pd2 | C78H172Cu6N12Na3Ni4O92Pd2 |
+| M (g mol–1<br>)                          | 3652.35                  | 3648.12                   |
+| Å                                    | 0.71073                  | 0.71073                   |
+| Crystal system                           | Tetragonal               | Tetragonal                |
+| Space group                              | P4/mmm                   | P4/mmm                    |
+| a (Å)                                    | 35.920(2)                | 35.794(13)                |
+| c (Å)                                    | 15.3561(9)               | 15.063(5)                 |
+| V (Å3<br>)                               | 19813(2)                 | 19298(16)                 |
+| Z                                        | 4                        | 4                         |
+| calc (g cm–3<br>)<br>                   | 1.224                    | 1.256                     |
+| µ (mm–1<br>)                             | 1.259                    | 1.299                     |
+| T (K)                                    | 90                       | 90                        |
+| range for data collection (°)<br>       | 0.80 to 23.24            | 0.80 to 20.87             |
+| Completeness to                          | = 23.0°<br>100%<br>     | = 21.0°<br>99.5%<br>     |
+| Completeness to<br>= 25.0<br>           | 80%                      | 59%                       |
+| Measured reflections                     | 96726                    | 56926                     |
+| Unique reflections (Rint)                | 7880(0.0443)             | 5693(0.1162)              |
+| Observed reflections [I > 2<br>(I)]<br> | 6354                     | 3109                      |
+| Goof                                     | 2.171                    | 1.137                     |
+| Ra [I<br>> 2<br>(I)] (all data)<br>     | 0.2275(0.2442)           | 0.1206(0.1808)            |
+| wRb [I<br>> 2<br>(I)] (all data)<br>    | 0.5840(0.5964)           | 0.3279(0.3571)            |
+
+| Table 2. Summary of Crystallographic Data for 3 and 4. |  |  |  |
+|--------------------------------------------------------|--|--|--|
+|--------------------------------------------------------|--|--|--|
+
+*<sup>a</sup> R* = ∑(|*F*o| – |*F*c|)/∑|*F*o|. *<sup>b</sup> wR* = [∑*w*(|*F*o| – |*F*c|)2/∑*w*|*F*o| 2 ]1/2.
+
+![](_page_12_Figure_2.jpeg)
+
+**Supplementary Figure 1.** Perspective view along *c* crystallographic axis of crystal structures of **3** (a) and **4** (b) featuring channels filled by Pd(II) complexes (**3**) or [Pd4] 2+ NCs (**4**). Lattice water molecules and hydrogen atoms have been omitted for clarity. Color scheme: palladium, violet sphere; ligands atoms and metal ions of the whole net have been depicted as grey sticks.
+
+![](_page_13_Figure_2.jpeg)
+
+**Supplementary Figure 2.** Perspective view along c crystallographic axis of crystal structure of **4** featuring hydrophobic and hydrophilic octagonal pores, exhibiting a virtual diameter of 1.5 and 2.2 nm, respectively. the hydrophobic ones accommodate [Pd4] 2+ NCs and counterbalancing alkali Na(I) cations as a result of the reduction with NaBH4. Lattice water molecules and hydrogen atoms have been omitted for clarity. Color scheme: Sodium(I), yellow spheres; copper(II), blue polyhedra; nickel(II), yellow gold polyhedra; palladium, violet spheres. Ligands atoms have been depicted as grey sticks.
+
+![](_page_14_Figure_2.jpeg)
+
+**Supplementary Figure 3.** Details of crystal structure of **3**: a) Perspective view along *c* crystallographic axis of a portion of the highly porous net where mononuclear Pd(II) solvated and dinuclear [PdII 2(– O)(NH3)6] 2+ complexes, formed after the insertion of [PdII(NH3)4] 2+ by a dimerization reaction, reside; details along *c* axis of b) a pore with intercalated Pd(II) ions and complexes and of c) the, surprisingly, highly ordered structure of [PdII 2(–O)(NH3)6] 2+ and its structural parameters; d) perspective view of a channel along *a* axis; e) view along *c* axis of Pd(II) ions and complexes in **3**. Lattice water molecules and hydrogen atoms have been omitted for clarity. Color scheme: Sodium(I), yellow spheres; copper(II), blue polyhedra; nickel(II), yellow gold polyhedra; palladium, violet spheres; nitrogen from NH3, light blue spheres; O2- , red spheres; ligand atoms have been depicted as grey sticks.
+
+![](_page_15_Figure_2.jpeg)
+
+**Supplementary Figure 4.** A portion of a pore of the crystal structure of **4** along the *a* axis (a and b) and the [111] direction (c and d) showing the two not–crystallographically equivalent tetranuclear Pd4 NCs of the type Pd+Pd0 Pd0 Pd+ and related structural parameters, stabilized by Pd···O interactions [distances are in Å]. Lattice water molecules and hydrogen atoms have been omitted for clarity. Color scheme: Sodium(I), yellow spheres; copper(II), blue polyhedra; nickel(II), yellow gold polyhedra; palladium, violet spheres. Ligands atoms have been depicted as grey sticks.
+
+![](_page_16_Figure_2.jpeg)
+
+**Supplementary Figure 5.** Perspective view of crystal structure of **4**, showing hydrated charge– counterbalancing alkali NaI cations distributed within the channels, further stabilizing the whole net, through interactions with the carboxylate– and/or carbonyl–oxygen atoms from the coordination network (blue dotted lines) occupying the interlayer space of the wide octagonal channels. Color scheme: Sodium(I), yellow spheres; copper(II), blue polyhedra; nickel(II), yellow gold polyhedra; palladium, violet spheres. Ligands atoms have been depicted as grey sticks.
+
+## **[DOI: 10.1038/NMAT491](http://dx.doi.org/10.1038/nmat4910)0** SUPPLEMENTARY INFORMATION
+
+![](_page_17_Figure_2.jpeg)
+
+**Supplementary Figure 6.** Perspective view of a pore of the crystal structure of **3** showing [PdII 2(– O)(NH3)6] 2+ dimers retained by the net through –NH3···O hydrogen bonds [NH3···O distances vary in the range 2.91–3.28 Å]. Lattice water molecules and hydrogen atoms have been omitted for clarity. Color scheme: Sodium(I), yellow spheres; copper(II), blue polyhedra; nickel(II), yellow gold polyhedra; palladium, violet spheres; nitrogen from NH3, light blue spheres; O2- , red spheres; ligand atoms have been depicted as grey sticks.
+
+**Computational details.** All calculations are based on Density Functional Theory (DFT) and were carried out with the Gaussian 09 program package,<sup>9</sup> using the hybrid B3PW91 functional, which combines the PW91 correlation functional by Perdew and Wang with the Becke's hybrid three-parameter exchange functional.<sup>10</sup> The LANL2DZ basis set that combines Los Alamos effective core potential with a double zeta (DZ) set for valence electrons was used for Pd, Cu and Ni atoms,<sup>11</sup> while the standard 6- 311G(d,p) basis set by Pople was employed for O, N, C and H atoms.<sup>12</sup> Atomic charges were calculated using the natural bond order (NBO) approach.<sup>13</sup>
+
+A cluster model containing two Cu2+ cations, four Ni2+ cations and six Me3mpba units, {Ni4[Cu2(Me3mpba)2]3}4- was initially cut out from the experimental geometry of material **4**, and further simplified by substituting four aromatic rings of the Me3mpba units by methyl groups. To maintain in this cluster model the same charge balance as in the global system, two of the four N atoms that in the real system would be interacting with Cu2+ cations in the next coordination sphere were saturated with H atoms. The resulting system, Cu2Ni4N8O24C38H34 2- depicted in Supplementary Fig. 7, includes all atoms that could stabilize the Pd4 clusters by means of short and medium range interactions. Then, four Pd atoms were placed in the centre of the octagonal pore as indicated by the XRD analysis, and their positions were allowed to fully optimize without restrictions while keeping the rest of the model fixed.
+
+**Physical Techniques.** Elemental (C, H, N) analyses were performed at the Microanalytical Service of the Universitat de València. <sup>1</sup> H, 13C and DEPT NMR spectra were recorded at room temperature on a Bruker AC 200 (200.1 MHz) spectrometer. FT–IR spectra were recorded on a Perkin–Elmer 882 spectrophotometer as KBr pellets. The thermogravimetric analysis was performed on crystalline samples under a dry N2
+
+ <sup>9</sup> Gaussian 09, Revision C.01, Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.; Robb, M. A.; Cheeseman, J. R.; Scalmani, G.; Barone, V.; Mennucci, B.; Petersson, G. A.; et al. Gaussian, Inc., Wallingford CT, 2009.
+
+<sup>10</sup> (a) Perdew, J. P.; Chevary, J. A.; Vosko, S. H.; Jackson, K. A.; Pederson, M. R.; Singh, D. J.; Fiolhais, C*. Phys. Rev. B* **1992***, 46,* 6671–6687. (b) Perdew, J. P.; Wang, Y. *Phys. Rev. B* **1992**, *45*, 13244–13249. (c) Becke, A. D. *J. Chem. Phys.* **1993***, 98*, 5648–5652.
+
+<sup>11</sup> (a) Hay, P. J.; Wadt, W. R. Ab Initio Effective Core Potentials for Molecular Calculations -Potentials for the Transition-Metal Atoms Sc to Hg. *J. Chem. Phys.* **1985**, *82***,** 270–283. (b) Hay, P. J.; Wadt, W. R. Ab Initio Effective Core Potentials for Molecular Calculations - Potentials for K to Au including the Outermost Core Orbitals. *J. Chem. Phys.* **1985,** *82***,** 299–310.
+
+<sup>12</sup> K. Raghavachari, J. S. Binkley, R. Seeger, and J. A. Pople, "Self-Consistent Molecular Orbital Methods. 20. Basis set for correlated wave-functions," *J. Chem. Phys.*, **72** (1980) 650-54. <sup>13</sup> Reed, A. E.; Weinstock, R. B.; Weinhold, F. *J. Chem. Phys*. **1985**, *83*, 735–747.
+
+atmosphere with a Mettler Toledo TGA/STDA 851<sup>e</sup> thermobalance operating at a heating rate of 10 ºC min–<sup>1</sup> . Absorption spectra were recorded on an UV/Vis spectrophotometer (UV0811M209, Varian).
+
+The N2 adsorption–desorption isotherms at 77 K were carried out on crystalline samples of **3** and **4** with a Micromeritics ASAP2020 instrument. Samples were evacuated at 50 ºC during 15 hours under 10–<sup>6</sup> Torr prior to their analysis.
+
+**X–ray Powder Diffraction Measurements.** Polycrystalline samples of **3** and **4**, before and after catalysis, were introduced into 0.5 mm borosilicate capillaries prior to being mounted and aligned on a Empyrean PANalytical powder diffractometer, using Cu Kα radiation (λ = 1.54056 Å). For each sample, five repeated measurements were collected at room temperature (2θ = 2–60°) and merged in a single diffractogram.
+
+**X–ray photoelectron spectroscopy (XPS) measurements**. Samples were prepared by dropping a solid water suspension onto a molybdenum plate followed by air drying, and then measurements were performed on a SPECS spectrometer equipped with a Phoibos 150 MCD–9 analyzer using non–monochromatic Mg KR (1253.6 eV) X–ray source working at 50 W. As an internal reference for the peak positions in the XPS spectra, the C1s peak has been set at 284.5 eV.
+
+**FTIR spectroscopy of adsorbed CO.** Fourier transform infrared (FTIR) using CO as a probe molecule was used to evaluate electronic properties of Pd4–MOF. The spectra were recorded on a Biorad FTS–40A spectrometer equipped with a DTGS detector. The experiments have been carried out in a homemade IR cell able to work in the high and low (77 K) temperature range. Prior to CO adsorption experiments, the sample was evacuated at 298 K under vacuum (10-6 mbar) for 1 h. CO adsorption experiments were performed at 77 K in the 0.2–20 mbar range. Spectra were recorded once complete coverage of CO at the specified CO partial pressure was achieved. Deconvolution of the IR spectra has been performed in the Origin software using Gaussian curves where the full width at half–maximum (fwhm) of the individual bands has been taken as constant. The peak areas are normalized to the sample weight.
+
+**Microscopy measurements.** High–Resolution Transmission Electron Microscopy (HR–TEM), High–Angle Annular Dark–Field Scanning Transmission Electron microscopy (HAADF–STEM) and Energy Dispersive X–Ray Analysis (EDX) characterizations were done using a HAADF–FEI–TITAN G2 electron microscope. 5 mg of the material was redispersed in 1 mL of absolute EtOH. Carbon reinforced copper grids (200 meshs) were submerged into the suspension 30 times and then allowed to dry on air for 24 h.
+
+Scanning Electron Microscopy coupled with Energy Dispersive X–ray (SEM/EDX) was carried out with a XL 30 ESEM (PHILIPS) microscope equipped with a home– made EDX energy dispersive x–ray detector.
+
+![](_page_21_Figure_2.jpeg)
+
+**Supplementary Figure 7.** Cu2Ni4N8O24C38H342- cluster model used in the DFT study. Cu, Ni, N, O, C and H atoms are depicted in green, pink, purple, red, orange and white, respectively.
+
+![](_page_22_Figure_2.jpeg)
+
+**Supplementary Figure 8.** Calculated (bold lines) and experimental (solid lines ) PXRD pattern profiles of **3** and **4** in the 2*θ* range 2.0–60.0°. Experimental PXRD patterns are given before (**3** exp. and **4** exp.) and after (**3'** exp. and **4'** exp.) 5 catalytic cycles.
+
+![](_page_23_Figure_2.jpeg)
+
+**Supplementary Figure 9.** Thermo–Gravimetric Analyses (TGA) of **3** (red) and **4** (blue) under dry N2 atmosphere.
+
+![](_page_24_Figure_2.jpeg)
+
+**Supplementary Figure 10.** Fourier–transformed infrared spectrum (FTIR) of adsorbed CO at room temperature and also at low temperature (-175 ºC) on **4** (a) and, for comparison, FTIR spectrum of Pd supported and reduced on zeolite LH (b), recorded under identical conditions.
+
+![](_page_25_Figure_2.jpeg)
+
+![](_page_25_Figure_3.jpeg)
+
+## **[DOI: 10.1038/NMAT491](http://dx.doi.org/10.1038/nmat4910)0** SUPPLEMENTARY INFORMATION
+
+![](_page_26_Picture_2.jpeg)
+
+**Supplementary Figure 12. a.** SEM image of a polycrystalline sample of **4** and the corresponding EDX elemental mapping of one selected crystal for Cu, Ni, Pd, and Na elements (**b**). **c**. HR–TEM image of **4**. **d**. HAADF–STEM image of **4** and the corresponding EDX elemental mapping for Ni, Pd, and Na elements.
+
+![](_page_27_Picture_2.jpeg)
+
+**Supplementary Figure 13.** HR–TEM image of **4**.
+
+![](_page_28_Picture_2.jpeg)
+
+**Supplementary Figure 14.** HR–TEM image of **4**.
+
+## **[DOI: 10.1038/NMAT491](http://dx.doi.org/10.1038/nmat4910)0** SUPPLEMENTARY INFORMATION
+
+![](_page_29_Picture_2.jpeg)
+
+**Supplementary Figure 15.** SEM image of a polycrystalline sample of **4** (a) as well as the corresponding EDX elemental mapping of the bulk for Cu, Ni, Pd, and Na elements (b).
+
+![](_page_30_Picture_2.jpeg)
+
+**Supplementary Figure 16.** SEM image of a polycrystalline sample of **4** as well as the corresponding EDX elemental mapping of one selected crystal of **4** for Cu, Ni, Pd, and Na elements.
+
+![](_page_31_Picture_2.jpeg)
+
+**Supplementary Figure 17.** SEM image of a polycrystalline sample of **4** as well as the corresponding EDX elemental mapping of one selected crystal of **4** for Cu, Ni, Pd, and Na elements.
+
+![](_page_32_Figure_2.jpeg)
+
+**Supplementary Figure 18.** N2 (77 K) adsorption isotherm for the activated compound **4**. Filled and empty symbols indicate the adsorption and desorption isotherms, respectively. The sample was activated at 80 °C under reduced pressure for 16 h prior to carry out the sorption measurements.
+
+**Preparation of diazocompound 8:** In a 250 ml round–bottomed flask, 3– phenylpropanoyl chloride (1.48 ml, 10 mmol) was dissolved in 50 ml of a 1:1 (*v:v*) mixture of dry THF:CH3CN solvents, and the solution was cooled to 0 ºC. Then, a commercial 2M solution of TMSCHN2 in Et2O (10 ml, 20 mmol, 2 equiv.) was added, and the mixture was magnetically stirred at room temperature for 4 h. After aqueous work–up, drying and rotavapory concentration, product **8** was isolated by column chromatography on silica as an orange oil (1.50 g, 86%).
+
+#### **Catalytic experiments:**
+
+Crystals of **3** and **4** give exactly the same catalytic results than the corresponding powdered polycrystalline samples.
+
+*Buchner reaction.* Pd4 MOF (10 mg, 0.5 mol%) was placed in a 50 ml two–necked round–bottomed flask equipped with a magnetic stirrer and a condenser. Then, the benzene derivative **5** (30 ml) was added and the flask placed in a pre–heated bath oil at 80 ºC. A solution of the corresponding diazoacetate **6** (0.75 mmol) in **5** (10 ml) was added during 5 h with a syringe pump, and the reaction was left for additional 3 h. After cooling, the solid catalyst was filtered off, washed with dichloromethane, and reused. The filtrates were concentrated under reduced pressure to give the final products as yellow oils.
+
+For batch experiments, the diazoacetate solution is added at once, from the beginning of the reaction.
+
+For kinetics, aliquots of 1 ml were periodically taken and analyzed by GC–MS after cooling and derivatization to the more stable conjugated isomers with CF3COOH or Et3N.
+
+For *in–situ* liquid NMR experiments, the reaction was run in deuterated solvents in ten times less scale and analyzed periodically at room temperature.
+
+For reactions with Rh2(OAc)4 catalyst, the procedure was as indicated for Pd4 MOF.
+
+*Alcohol insertion*. Pd4 MOF (0.4 mg, 0.005 mol%) was placed in a 25 ml round– bottomed flask equipped with a magnetic stirrer. Then, the corresponding alcohol **11** (5 ml) and diazoacetate **6** (2.5 mmol) were added, a condenser was fitted, and the flask placed in a pre–heated bath oil at 80 ºC. After 2 h and cooling, the solid catalyst was filtered off, and the filtrates were concentrated under reduced pressure to give the final products as yellow oils.
+
+*Dimerization*. Pd4 MOF (0.4 mg, 0.005 mol%) was placed in a 25 ml round– bottomed flask equipped with a magnetic stirrer. Then, a solution of the corresponding diazoacetate **6** (2.5 mmol) in toluene (5 ml) was added, a condenser was fitted, and the flask placed in a pre–heated bath oil at 80 ºC. After 2 h and cooling, the solid catalyst was filtered off, and the filtrates were concentrated under reduced pressure to give the final products as yellow oils.
+
+**Buchner reaction in flow:** A paper cartridge with catalyst **4** (100 mg) was placed in a 25 mL Soxhlet apparatus connected on the top with a condenser. Benzene **5a** (100 ml) was placed in a 250 ml two–necked round–bottomed flask equipped with a magnetic stirrer and connected to the Soxhlet apparatus at the bottom, and the flask was placed in a pre–heated bath oil at 80 ºC. In this way, **5a** re–circulates all the time through the catalyst. Then, **6a** (10 mmol) was added with a syringe pump under continuously refluxing for 24 h. In this way, a solution of ~1 gram of cycloheptatriene **7a** in 100 ml of benzene (~0.1 M, 90% yield) was obtained. The solid catalyst was recovered and washed with dichloromethane, and reused.
+
+**In–situ magic angle spinning–solid nuclear magnetic resonance (MAS–NMR) experiment:** 50 mg of catalyst **3** were introduced into glass inserts and dehydrated at 80 °C during 18 h. Then, 4.7 μmol of isotopically–labelled **6a** N2 13CH–COOEt, corresponding to Pd/**6a**=1, were introduced onto the dehydrated material. The glass inserts were sealed while they were immersed into liquid nitrogen. 13C Solid–state NMR spectra were recorded at room temperature with a Bruker AVIII HD 400 WB spectrometer. The glass inserts were fitted into 7 mm rotors and were spun at 5 kHz in a Bruker BL7 probe. 13C CP/MAS NMR spectra were recorded with proton decoupling, with <sup>1</sup> H 90° pulse length of 5 μs, and a recycle delay of 3s.
+
+**Product characterization:** All products are yellow oils, prepared as indicated in the general reaction procedure and with satisfactorily analysis according to previous literature (see main text, references 28–29).
+
+Ethyl cyclohepta–2,4,6–trienecarboxylate **7a** (91%). IR (υ, cm–<sup>1</sup> ): 2981, 1737. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 6.58 (2xC*H*, 2H, t, *J*= 3.0), 6.19 (2xC*H,* 2H, d, *J*= 8.9), 5.36 (2xC*H,* 2H, dd, *J*= 8.9, 5.6), 4.19 (C*H*2, 2H, q, *J*= 7.0), 2.46 (C*H*, 1H, t, *J*= 5.6), 1.24 (C*H*3, 3H, t, *J*= 7.1). <sup>13</sup>C NMR (δ, ppm): 173.1 (C), 130.9 (2xCH), 125.6 (2xCH), 117.2 (2xCH), 61.0 (CH2), 44.1 (CH), 14.2 (CH3).
+
+Ethyl methylcyclohepta–2,4,6–trienecarboxylate **7b** (57%, *2–methyl/3–methyl /4–methyl* <5:42:53). IR (υ, cm–<sup>1</sup> ): 2927, 1743. <sup>1</sup> H NMR (δ, ppm; *J*, Hz; diagnostic signals underlined): *2–methyl:* 6.48–5.55 (5xC*H*, 5H), 4.20 (C*H*2, 2H, q, *J*= 7.0), 2.75 (C*H*, 1H, d, *J*= 6.7), 2.19 (C*H*3, 3H, s), 1.26 (C*H*3, 3H, t, *J*= 7.0); *3– methyl:* 6.39–5.98 (3xC*H*, 3H), 4.95–4.65 (2xC*H*, 2H), 4.14 (C*H*2, 2H, q, *J*= 7.0), 2.15 (C*H*, 1H, t, *J*= 5.0), 1.86 (C*H*3, 3H, s), 1.21 (C*H*3, 3H, t, *J*= 7.0); *4–methyl:* 6.39–5.98 (2xC*H*, 2H), 5.35 (3xC*H*, 3H, mult), 4.15 (C*H*2, 2H, q, *J*= 7.0), 2.47 (C*H*, 1H, t, *J*= 5.3), 1.98 (C*H*3, 3H, s), 1.22 (C*H*3, 3H, t, *J*= 7.0). 13C NMR (δ, ppm; unless indicated, indistinguishable signals for each isomer): 173.9–169.7 (C), 139.8 (2xC *2–methyl*), 131.2–113.8 (CH), 68.1–60.7 (CH2), 48.9–39.7 (CH), 24.0–20.7 (CH3), 14.2–14.0 (CH3).
+
+$$
+\begin{array}{c}\n\text{Me} \\
+\hline\n\end{array}
+$$
+
+Ethyl dimethylcyclohepta–2,4,6–trienecarboxylate **7c** (64%, *1,4–dimethyl/2,5–dimethyl /3,6–dimethyl* <5:26:69). IR (υ, cm–<sup>1</sup> ): 2983, 2931, 1741. <sup>1</sup> H NMR (δ, ppm; *J*, Hz; diagnostic signals underlined): *2,5–dimethyl:* 6.14–5.59 (2xC*H*, 2H), 4.71–4.18 (2xC*H*, 2H), 4.24 (C*H*2, 2H, q, *J*= 7.0), 2.79 (C*H*, 1H, d, *J*= 7.0), 1.96 (C*H*3, 3H, s), 1.87 (C*H*3, 3H, s), 1.20 (C*H*3, 3H, t, *J*= 7.0); *3,6–dimethyl:*  7.17–7.02 (2xC*H*, 2H), 5.99–5.92 (2xC*H*, 2H), 4.20 (C*H*2, 2H, q, *J*= 7.0), 2.24 (C*H*, 1H, t, *J*= 10.0), 1.88 (2xC*H*3, 6H, s), 1.21 (C*H*3, 3H, t, *J*= 7.0). 13C NMR (δ, ppm; indistinguishable signals for each isomer): 178.7–171.0 (C), 132.8 (2xC *3,6–dimethyl*), 128.7–119.2 (CH), 63.6–60.6 (CH2), 51.5–47.2 (CH), 23.8–20.4 (CH3), 14.2–13.8 (CH3).
+
+Ethyl fluorocyclohepta–2,4,6–trienecarboxylate **7d** (78%, *2–fluoro/3–fluoro/4–fluoro* n.d.:<5:95). IR (υ, cm–<sup>1</sup> ): 2925, 1741. <sup>1</sup> H NMR (δ, ppm; *J*, Hz; *4–fluoro*): 6.31 (C*H*, 1H, ddd, *J*= 16.8, 6.6, 1.8), 6.29 (C*H,* 1H, mult), 5.61 (C*H,* 1H, quint, *J*= 5.3), 5.30 (C*H*, 1H, dd, *J*= 9.4, 5.6), 4.62 (C*H*, 1H, t, *J*= 5.0), 4.15 (C*H*2, 2H, q, *J*= 7.0), 2.62 (C*H*, 1H, t, *J*= 5.0), 1.22 (C*H*3, 3H, t, *J*= 7.1). <sup>13</sup>C NMR (δ, ppm; *JC–F*, Hz; *4– fluoro*): 169.7 (C), 162.3 (C, *J*= 253.3), 123.3 (CH, *J*= 10.7), 122.1 (CH, *J*= 13.5), 119.8 (CH, *J*= 34.5), 116.5 (CH, *J*=2.7), 112.0 (CH, *J*= 23.7), 68.2 (CH2), 44.7 (CH), 14.1 (CH3). <sup>19</sup>F NMR (δ, ppm; *J*, Hz; *4– fluoro): –98.36.*
+
+Ethyl trifluoromethyllcyclohepta–2,4,6–trienecarboxylate **7e** (48%, *2–trifluoromethyl/3–trifluoromethyl /4–trifluoromethyl* <5:42:58). IR (υ, cm– 1 ): 2924, 1742. <sup>1</sup> H NMR (δ, ppm; *J*, Hz; diagnostic signals underlined): *3– trifluoromethyl:* 6.85–6.17 (2xC*H*, 2H), 4.74–4.42 (3xC*H*, 3H), 4.17 (C*H*2, 2H, q, *J*= 7.0), 1.96 (C*H*, 1H, t, *J*= 6.5), 1.20 (C*H*3, 3H, t, *J*= 7.0); *4–trifluoromethyl:* 6.95–6.23 (3xC*H*, 3H), 5.21–5.78 (2xC*H*, 2H), 4.20 (C*H*2, 2H, q, *J*= 7.0), 2.38 (C*H*, 1H, t, *J*= 3.0), 1.24 (C*H*3, 3H, t, *J*= 7.0). <sup>13</sup>C NMR (δ, ppm; indistinguishable signals for each isomer): 171.5–165.0 (C), 133.6–114.6 (CH and CF3), 63.5–61.0 (CH2), 31.4–30.2 (CH), 14.1– 13.8 (CH3). <sup>19</sup>F NMR (δ, ppm; *J*, Hz*):* –64.99, –65.26.
+
+*tert*–Butyl cyclohepta–2,4,6–trienecarboxylate **7f** (32%). IR (υ, cm–<sup>1</sup> ): 2926, 1732. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 6.56 (2xC*H*, 2H, t, *J*= 4.0), 6.16 (2xC*H,* 2H, d, *J*= 8.9), 5.34 (2xC*H,* 2H, dd, *J*= 8.9, 5.6), 2.38 (C*H*, 1H, t, *J*= 5.6), 1.48 (3xC*H*3, 9H, s). <sup>13</sup>C NMR (δ, ppm): 172.2 (C), 134.5 (2xCH), 128.3 (2xCH), 118.4 (2xCH), 45.1 (CH), 27.9 (3xCH3).
+
+Ethyl methoxycyclohepta–2,4,6–trienecarboxylate **7g** (92%, *2–methoxy/3–methoxy/4–methoxy* 27:<5:68). IR (υ, cm–<sup>1</sup> ): 2984, 1738. <sup>1</sup> H NMR (δ, ppm; *J*, Hz; diagnostic signals underlined): *2–methoxy:* 6.42–6.16 (3xC*H*, 3H), 5.48–5.40 (2xC*H*, 2H), 4.11 (C*H*2, 2H, q, *J*= 7.0), 3.56 (C*H*3, 3H, s), 3.23 (C*H*, 1H, d, *J*= 7.3), 1.18 (C*H*3, 3H, t, *J*= 7.1); *4–methoxy:* 6.13 (C*H*, 1H, ddd, *J*= 8.0, 6.7, 1.1), 6.00 (C*H,* 1H, dt, *J*= 9.9, 3.3), 5.79 (C*H,* 1H, dd, *J*= 6.6, 1.7), 5.54 (C*H*, 1H, quintd, *J*= 5.6, 1.7), 5.19 (C*H*, 1H, ddd, *J*= 8.8, 5.2, 0.7), 4.18 (C*H*2, 2H, q, *J*= 7.0), 3.58 (C*H*3, 3H, s), 2.62 (C*H*, 1H, t, *J*= 5.0), 1.23 (C*H*3, 3H, t, *J*= 7.1). 13C NMR (δ, ppm): *2–methoxy:*  170.1 (C), 149.1 (C), 128.0 (CH), 126.9 (CH), 124.5 (CH), 117.8 (CH), 97.3 (CH), 60.9 (CH2), 56.6 (CH3), 48.9 (CH), 14.3 (CH3); *4–methoxy:* 172.9 (C), 160.0 (C), 124.8 (CH), 122.1 (CH), 119.9 (CH), 117.1 (CH), 104.8 (CH), 61.0 (CH2), 54.7 (CH3), 44.0 (CH), 14.2 (CH3).
+
+![](_page_37_Figure_4.jpeg)
+
+*tert*–Butyl methoxycyclohepta–2,4,6–trienecarboxylate **7h** (46%, *2–methoxy/3–methoxy/4–methoxy* 15:<5:85). IR (υ, cm–<sup>1</sup> ): 2979, 1732. <sup>1</sup> H NMR (δ, ppm; *J*, Hz; diagnostic signals underlined; *4–methoxy*): 6.12 (C*H*, 1H, 7, *J*= 8.8), 5.98 (C*H,* 1H, d, *J*= 8.8), 5.78 (C*H,* 1H, d, *J*= 6.2), 5.53 (C*H*, 1H, dd , *J*= 9.3, 5.4), 5.19 (C*H*, 1H, dd, *J*= 8.8, 5.4), 3.58 (C*H*3, 3H, s), 2.55 (C*H*, 1H, t, *J*= 5.0), 1.43 (3xC*H*3, 9H, s). <sup>13</sup>C NMR (δ, ppm): *4–methoxy:* 174.0 (C), 160.0 (C), 124.5 (CH), 122.0 (CH), 121.1 (CH), 114.4 (CH), 104.7 (CH), 54.7 (CH3), 45.1 (CH), 28.1 (3xCH3).
+
+Benzyl cyclohepta–2,4,6–trienecarboxylate **7i** (73%). IR (υ, cm–<sup>1</sup> ): 2985, 1738. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 7.43–7.34 (5xC*H*, 5H), 6.69 (2xC*H*, 2H, t, *J*= 3.1), 6.30 (2xC*H,* 2H, d, *J*= 8.8), 5.50 (2xC*H,* 2H, dd, *J*= 8.8, 5.6), 5.29 (C*H*2, 2H, s), 2.67 (C*H*, 1H, t, *J*= 5.6). <sup>13</sup>C NMR (δ, ppm): 172.9 (C), 135.9 (C), 130.9 (2xCH), 128.5 (2xCH), 128.4 (CH), 128.2 (2xCH), 125.7 (2xCH), 116.7 (2xCH), 66.8 (CH2), 44.0 (CH).
+
+Benzyl methylcyclohepta–2,4,6–trienecarboxylate **7j** (70%, *2–methyl/3–methyl /4–methyl* <5:60:35). IR (υ, cm–<sup>1</sup> ): 3031, 2955, 2924, 1738. 1 H NMR (δ, ppm; *J*, Hz; diagnostic signals underlined): *2–methyl:* 7.30–7.10 (5xC*H*, 5H), 6.42–4.80 (5xC*H*, 5H), 4.92 (C*H*2, 2H, s), 2.84 (C*H*, 1H, d, *J*= 6.2), 1.84 (C*H*3, 3H, s); *3–methyl:* 7.30–7.10 (5xC*H*, 5H), 6.45–5.75 (3xC*H*, 3H), 5.03 (C*H*2, 2H, s), 4.70– 4.08 (2xC*H*, 2H), 2.21 (C*H*, 1H, t, *J*= 8.6), 1.84 (C*H*3, 3H, s); *4–methyl:* 6.45–5.75 (2xC*H*, 2H), 5.35–4.92 (3xC*H*, 3H, mult), 5.11 (C*H*2, 2H, s), 2.52 (C*H*, 1H, t, *J*= 6.0), 1.95 (C*H*3, 3H, s). 13C NMR (δ, ppm; unless indicated, indistinguishable signals for each isomer): 173.2–164.7 (C), 139.8–134.3 (C), 133.8–113.2 (CH), 68.2–60.7 (CH2), 43.4 (CH, *4–methyl*), 43.0 (CH, *2–methyl*), 39.3 (CH, *3–methyl*), 24.3 (CH3, *2–methyl*), 24.0 (CH3, *4–methyl*), 21.8 (CH3, *3–methyl*).
+
+Benzyl methoxycyclohepta–2,4,6–trienecarboxylate **7k** (95%, *2–methoxy/3–methoxy/4–methoxy* n.d.: n.d.:100). IR (υ, cm–<sup>1</sup> ): 3032, 2955, 2925, 1736. <sup>1</sup> H NMR (δ, ppm; *J*, Hz; diagnostic signals underlined, *4–methoxy):* 7.36–7.19 (5xC*H*, 5H), 6.16 (C*H*, 1H, q, *J*= 8.0), 6.07 (C*H,* 1H, d, *J*= 8.8), 5.77 (C*H,* 1H, d, *J*= 6.2), 5.52 (C*H*, 1H, dd, *J*= 8.8, 6.2), 5.18 (C*H*, 1H, dd, *J*= 8.4, 5.1), 5.11 (C*H*2, 2H, s), 3.53 (C*H*3, 3H, s), 2.66 (C*H*, 1H, t, *J*= 5.3). <sup>13</sup>C NMR (δ, ppm, *4–methoxy*)*:* 172.8 (C), 160.0 (C), 135.9 (C), 128.7 (CH), 128.6 (2xCH), 128.1 (2xCH), 125.0 (CH), 122.1 (CH), 119.4 (CH), 112.8 (CH), 105.0 (CH), 66.8 (CH2), 54.7 (CH3), 44.0 (CH).
+
+Benzyl fluorocyclohepta–2,4,6–trienecarboxylate **7l** (65%, *2–fluoro/3–fluoro/4– fluoro* n.d.:n.d.:100). IR (υ, cm–<sup>1</sup> ): 3032, 2956, 1739. <sup>1</sup> H NMR (δ, ppm; *J*, Hz; *4–fluoro*): 7.28–7.05 (5xC*H*, 5H), 6.40 (C*H*, 1H, t, *J*= 4.8), 6.11 (C*H,* 1H, d, *J*= 7.4), 5.58 (C*H,* 1H, quint, *J*= 5.4), 5.28 (C*H*, 1H, dd, *J*= 8.0, 5.7), 5.12 (C*H*2, 2H, s), 4.66 (C*H*, 1H, t, *J*= 11.0), 2.65 (C*H*, 1H, t, *J*= 5.1). <sup>13</sup>C NMR (δ, ppm; *JC–F*, Hz; *4– fluoro*): 167.3 (C, *J*= 349.0), 164.7 (C), 135.3 (C), 133.8 (CH), 128.7 (2xCH), 128.1 (2xCH), 123.4 (CH, *J*= 10.8), 122.0 (CH, *J*= 13.4), 121.9 (CH, *J*= 2.5), 118.6 (CH, *J*=7.5), 112.1 (CH, *J*= 25.4), 67.1 (CH2), 43.0 (CH).
+
+![](_page_38_Picture_5.jpeg)
+
+hexane)= 0.52. <sup>1</sup>
+
+1–Diazo–4–phenylbutan–2–one **8**. Rf (25% AcOEt in *n*– H NMR (δ, ppm; *J*, Hz): 7.39 (2xC*H*, 2H, t, *J*= 6.8), 7.34–7.27 (3xC*H*,
+
+H NMR (δ, ppm;
+
+3H, mult), 5.39 (C*H,* 1H, bs), 3.06 (C*H2,* 2H, t, *J*= 7.5), 2.73 (C*H2,* 2H, t, *J*= 7.0). 13C NMR (δ, ppm): 195.6 (C), 140.4 (C), 128.2 (2xCH), 128.0 (2xCH), 125.9 (CH), 59.9 (CH), 54.1 (CH2), 30.3 (CH2).
+
+3,4–Dihydronaphthalen–2(1*H*)–one **9**. <sup>1</sup> *J*, Hz): 6.31 (2xC*H*, 2H, mult), 6.04 (2xC*H*, 2H, mult), 4.92 (2xC*H,* 2H, dd, *J*= 9.4,
+
+3.8), 4.04 (C*H,* 1H, d, *J*= 4.7), 2.50 (C*H2,* 2H, mult), 2.38 (C*H2,* 2H, mult). 13C NMR (δ, ppm): 195.6 (C), 140.4 (C), 128.2 (2xCH), 128.0 (2xCH), 125.9 (CH), 59.9 (CH), 54.1 (CH2), 30.3 (CH2).
+
+Ethyl 2–methoxyacetate **12a**. IR (υ, cm–<sup>1</sup> ): 2982, 1729. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 4.16 (C*H*2, 2H, mult), 3.96 (C*H*2, 2H, t, *J*= 2.7), 3.38 (C*H*3, 3H, t, *J*= 2.8), 1.28 (C*H*3, 3H, tt, *J*= 7.0, 2.7). <sup>13</sup>C NMR (δ, ppm): 170.1 (C), 69.7 (CH2), 60.7 (CH2), 59.1 (CH3), 14.0 (CH3).
+
+Ethyl 2–(*tert*–pentyloxy)acetate **12b**. IR (υ, cm–<sup>1</sup> ): 2976, 2937, 1759, 1731. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 4.15 (C*H*2, 2H, qt, *J*= 7.1, 3.6), 3.93 (C*H*2, 2H, t, *J*= 3.7), 1.48 (C*H*2, 2H, qt, *J*= 7.4, 2.8), 1.23 (C*H*3, 3H, tt, *J*= 7.0, 3.5), 1.11 (2xC*H*3, 6H, t, *J*= 4.7), 0.85 (C*H*3, 3H, tt, *J*= 7.6, 3.4). <sup>13</sup>C NMR (δ, ppm): 171.2 (C), 76.5 (C), 60.6 (CH2), 60.4 (CH2), 32.6 (CH2), 24.6 (2xCH3), 13.9 (CH3), 8.1 (CH3).
+
+*tert*–Butyl 2–methoxyacetate **12c**. IR (υ, cm–<sup>1</sup> ): 3004, 2982, 2934, 1735. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 3.85 (C*H2*, 2H, mult), 3.38 (C*H*3, 3H, t, *J*= 4.7), 1.42 (3xC*H*3, 9H, bs). <sup>13</sup>C NMR (δ, ppm): 169.5 (C), 81.6 (C), 70.2 (CH2), 59.0 (CH3), 27.9 (3xCH3).
+
+Benzyl 2–methoxyacetate **12d**. IR (υ, cm–<sup>1</sup> ): 3032, 2940, 1896, 1827, 1755. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 7.39–7.36 (5xC*H*, 5H, mult), 5.21 (C*H*2, 2H, s), 4.08 (C*H*2, 2H, s), 3.45 (C*H*3, 3H, bs). <sup>13</sup>C NMR (δ, ppm): 170.1 (C), 135.4 (C), 128.6 (2xCH), 128.4 (2xCH), 126.9 (CH), 69.8 (CH2), 66.5 (CH2), 59.4(CH3).
+
+$$
+_{BnO_{2}C}\diagdown\diagdown\qquad \qquad \text{12e}
+$$
+
+Benzyl 2–(*tert*–pentyloxy)acetate **12e**. IR (υ, cm– 1 ): 3113, 2953, 1695. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 7.38 (5xC*H*, 5H, mult), 5.23 (C*H*2, 2H, s), 4.81 (C*H*2, 2H, s), 1.53 (C*H*2, 2H, q, *J*= 7.5), 1.22 (2xC*H*3, 6H, s), 0.95 (C*H*3, 3H, s). <sup>13</sup>C NMR (δ, ppm): 166.7 (C), 135.9 (C), 128.6 (2xCH), 128.4 (2xCH), 126.9 (CH), 71.1 (C), 67.1 (CH2), 60.7 (CH2), 36.3 (CH2), 28.6 (2xCH3), 8.6 (CH3).
+
+![](_page_40_Picture_4.jpeg)
+
+1(*D)*–1–(*D3*)Methoxy–4–phenylbutan–2–one **12f**.
+
+1 H NMR (δ, ppm; *J*, Hz): 7.18–7.04 (5xC*H*, 5H, mult), 4.74 (C*H,* 1H, s), 2.77 (C*H2,* 2H, td, *J*= 6.7, 2.0), 2.64 (C*H2,* 2H, td, *J*= 6.8, 1.3). <sup>13</sup>C NMR (δ, ppm): 210.1 (C), 142.3 (C), 129.4 (2xCH), 129.3 (2xCH), 127.1 (CH), 49.9 (CH), 41.1 (CH2), 30.3 (CH2).
+
+Diethyl but–2–enedioate **13a** (*E/Z* 50:50). IR (υ, cm–<sup>1</sup> ): 2984, 1726, 1645. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 6.83 (2xC*H*, 2H, s, *Z*), 6.21 (2xC*H*, 2H, s, *E*), 4.23 (4xC*H2,* 8H, mult), 1.28 (4xC*H3,* 12H, mult). <sup>13</sup>C NMR (δ, ppm): 165.0 (2xC), 164.9 (2xC), 133.6 (2xCH), 129.8 (2xCH), 61.8 (4xCH2), 14.0 (4xCH3).
+
+Di–*tert*–butyl but–2–enedioate **13b** (*E/Z* 50:50). IR (υ, cm–<sup>1</sup> ): 2982, 1742, 1691, 1622. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 4.54 (4xC*H*, 4H, s, *Z+E*), 1.40 (12xC*H3,* 36H, s). <sup>13</sup>C NMR (δ, ppm): 166.2 (4xC), 129.0 (2xCH), 128.2 (2xCH), 81.4 (4C), 27.9 (12xCH3).
+
+Dibenzyl but–2–enedioate **13c** (*E/Z* 65:35). IR (υ, cm–<sup>1</sup> ): 3111, 3036, 2956, 1745, 1694. <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 7.44–7.38 (20xC*H*, 20H, mult, *Z+E*), 5.24 (4xC*H*2, 8H, bs, *Z+E*), 4.82 (2xC*H*, 2H, s, *Z*), 4.72 (2xC*H*, 2H, s, *E*). <sup>13</sup>C NMR (δ, ppm): 166.6 (4xC), 135.8 (4xC), 129.0 (4xCH), 128.6 (8xCH), 128.4 (8xCH), 126.9 (2xCH), 125.3 (2xCH), 65.2 (4xCH2).
+
+1,8–Diphenyloct–4–ene–3,6–dione **13d** 
+
+(*E/Z* 50:50). <sup>1</sup> H NMR (δ, ppm; *J*, Hz): 7.24–7.08 (20xC*H*, 20H, mult, *Z+E*), 6.75 (4xC*H*, 4H, s, *Z+E*), 2.87 (8xC*H*2, 16H, bs, *Z+E*). <sup>13</sup>C NMR (δ, ppm): 199.4 (4xC), 140.4 (4xC), 136.3 (4xCH), 128.6 (8xCH), 128.3 (8xCH), 126.3 (4xCH), 43.1 (4xCH2), 29.6 (4xCH2).
+
+| Product | Isomeric ratio                          | Catalyst 4 | Rh2(OAc)4                |
+|---------|-----------------------------------------|------------|--------------------------|
+| 7b      | 2–methyl/3–methyl/4–methyl              | <5:42:53   | 17:23:56<br>11:17:72a    |
+| 7c      | 1,4–dimethyl/2,5–dimethyl /3,6–dimethyl | <5:26:69   | 5:10:85a,b               |
+| 7d      | 2–fluoro/3–fluoro/4–fluoro              | n.d.:<5:95 | n.d.:<5:95<br>8:12:80a,b |
+| 7g      | 2–methoxy/3–methoxy/4–methoxy           | 27:<5:68   | 19:<5:76<br>31:9:60a,b   |
+
+| Table 3. Isomeric ratio of the intermolecular Buchner reaction with 4 or Rh2(OAc)4<br>as a catalyst. |  |
+|------------------------------------------------------------------------------------------------------|--|
+|------------------------------------------------------------------------------------------------------|--|
+
+*<sup>a</sup>* With Rh(II)trifluoroacetate dimer, taken from reference 47 in the main text. *<sup>b</sup>* With methyldiazoacetate.
+
+![](_page_43_Figure_2.jpeg)
+
+**Supplementary Figure 19.** Kinetics for the intermolecular reaction of **5** and **6** added at once (0.02 M) with **3** or **4** (1 mol%) as catalysts. Average of two measurements. Error bars account for 5% uncertaintity.
+
+![](_page_44_Figure_2.jpeg)
+
+**Supplementary Figure 20.** In–situ magic angle spinning–solid nuclear magnetic resonance (MAS–NMR) measurements of **3** treated with isotopically–labelled **6** N2 13CH–COOEt.
+
+![](_page_45_Figure_2.jpeg)
+
+**Supplementary Figure 21.** Reuses of **4**.
+
+![](_page_46_Figure_2.jpeg)
+
+**Supplementary Figure 22.** Reaction in flow with **4**.
+
+## **[DOI: 10.1038/NMAT491](http://dx.doi.org/10.1038/nmat4910)0** SUPPLEMENTARY INFORMATION
+
+![](_page_47_Figure_2.jpeg)
+
+**Supplementary Figure 23.** Reaction with **4** after use in flow.
+
+![](_page_48_Figure_2.jpeg)
+
+**Supplementary Figure 24.** Determination of the reaction orders for each reactant of the intermolecular Buchner reaction catalysed by **4**. Error bars account for 5% uncertainty.
+
+根据提供的文献内容，生成实验流程复现文献实验

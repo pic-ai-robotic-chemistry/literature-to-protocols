@@ -1,0 +1,584 @@
+<span id="page-0-0"></span>![](_page_0_Picture_0.jpeg)
+
+Article
+
+# Cerium Metal−Organic Framework for Photocatalysis
+
+Xin-Ping Wu,[\\*](#page-6-0) Laura Gagliardi,[\\*](#page-6-0) and Donald G. Truhlar[\\*](#page-6-0)
+
+Department of Chemistry, Chemical Theory Center, and Minnesota Supercomputing Institute, University of Minnesota, Minneapolis, Minnesota 55455-0431, United States
+
+# [\\*](#page-6-0)<sup>S</sup> [Supporting Information](#page-6-0)
+
+ABSTRACT: Ligand-to-metal charge transfer (LMCT) can bring about the separation of photogenerated charges. Here we calculate the electronic structures of metal−organic frameworks (MOFs) having the UiO-66 architecture and M6O4(OH)4 inorganometallic nodes with M = Zr, Hf, Th, Ti, U, or Ce. We find that LMCT is favorable only in the Ce case, where it is promoted by the low-lying empty 4f orbitals of Ce4+. We therefore propose that incorporating Ce4+ into the node is an effective way to facilitate LMCT in a MOF. In addition, we show that by functionalizing the linker, it should be possible to engineer the electronic structure of the Ce-MOF for a desired reaction (e.g., water splitting) while preserving favorable LMCT. We also find that linker functionalization with electron donating or withdrawing groups allows tuning of the LMCT energy, and increasing the number of functional groups on each linker enhances the tuning; these findings are encouraging for applying Ce-MOFs for visible-response photocatalytic water splitting.
+
+![](_page_0_Picture_8.jpeg)
+
+## 1. INTRODUCTION
+
+Porous metal−organic framework (MOF) materials with inorganometallic nodes and tailorable organic ligands find widespread applications such as catalysis,[1](#page-7-0) gas storage,[2](#page-7-0) and gas separation.[3](#page-7-0) Recently, the use of MOFs as photocatalysts has aroused great interest.[4](#page-7-0),[5](#page-7-0) An important promoter of this interest is that MOFs can facilitate the diffusion of reactants to the active sites to potentially overcome the low charge mobility of many nonporous semiconductors. In addition, some MOFs are effective at adsorbing gas molecules;[6](#page-7-0) thus a single MOF has the potential to act as a dual-functional material in both capturing and converting reactants (e.g., CO2), thereby reducing the complexity of the photocatalytic system. Consequently there is great interest in finding the best structure to take advantage of MOF tunability and porosity. Extending the capabilities of MOFs for photocatalysis is still an emerging research field, and searching for promising photocatalytic MOFs is the main objective of this article.
+
+Over the past ten years, UiO-66, which is built from Zr6O4(OH)4 nodes and 1,4-benzene-dicarboxylate (BDC) linkers (see Figure 1), stands out among MOFs due to its exceptional chemical, mechanical, and thermal stabilities.[7](#page-7-0) Furthermore, the UiO-66 framework can be tuned by linker functionalization,[8](#page-7-0) and in recent years complete or partial metal substitutions with Hf, Th, Ti, U, or Ce in the Zr6O4(OH)4 nodes have become feasible as well.[5f](#page-7-0),[9](#page-7-0) Linker functionalization has been found to be a powerful technique to shift the absorption bands of the linker toward visible-light wavelengths,[5c](#page-7-0) and metal substitution with Ti has been shown to prolong the lifetime of the excited states.[5g](#page-7-0) However, there is no research that systematically considers both metal substitutions and linker modifications in UiO-66 for photocatalytic applications, in part because some of the substituted structures (e.g., Ce-based UiO-66) have been synthesized only recen-
+
+![](_page_0_Figure_12.jpeg)
+
+Figure 1. Framework structure of UiO-66 with the primitive cell indicated by a blue background. Color scheme: metal, yellow; O, red; C, brown; H, light pink.
+
+tly.[9c](#page-7-0),[e](#page-7-0) Such a systematic investigation is presented here by using Kohn−Sham density functional theory (DFT). First we show that the excited states are expected to be longer-lived in Ce-based UiO-66 than in UiO-66 MOFs with other metals because charge separation should be more facile in this MOF.
+
+Then we consider 12 monosubstituted and 2 disubstituted variants of the BDC linker (i.e., BDC-X and BDC-2,5X, see [Figure 2](#page-1-0)) to understand how one can further engineer the electronic structure of Ce-based UiO-66 to increase its photocatalytic activity for specific photoredox reactions such
+
+Received: April 3, 2018 Published: May 28, 2018
+
+<span id="page-1-0"></span>![](_page_1_Figure_2.jpeg)
+
+Figure 2. BDC (left), BDC-X (middle), and BDC-2,5X (right) linkers. Color scheme: O, red; C, brown; H, light pink; substituent X, blue. The X groups are discussed in [sections 3.2](#page-3-0) and [3.3.](#page-5-0)
+
+as water splitting or reduction of carbon dioxide to produce methane or methanol.
+
+## 2. COMPUTATIONAL DETAILS
+
+2.1. Geometry and Cell Relaxations. To reduce the computational cost, the primitive cell of the UiO-66 framework (see [Figure 1\)](#page-0-0) was used to perform periodic DFT calculations by using the Vienna ab initio Simulation Package (VASP).[10](#page-7-0) The number of atoms in the primitive cell depends on the functionalization of the linkers. The pristine primitive cell of UiO-66(M) (M = Zr, Hf, Th, Ti, U, Ce) has 114 atoms, including 6 metals, 32 O, 48 C, and 28 H. During the optimization of the UiO-66 framework, both atomic positions and the shape of the cell were allowed to relax using the PBEsol[11](#page-7-0) exchange−correlation functional with a kinetic energy cutoff of 500 eV. The reason for using PBEsol to do optimizations is that PBEsol is superior to PBE for predicting equilibrium lattice constants.[11](#page-7-0) We used a Hellman−Feynman force criterion of 0.02 eV/Å on each relaxed ion. The PBEsol calculated lattice parameters for UiO-66(M) and available experimental data are given in Table S1 (figures and tables with a prefix "S" are in the [Supporting Information](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf)); agreement is better than 1%.
+
+The core−valence electron interactions were described by using the projector augmented wave (PAW) method[12](#page-7-0) with H (1s), C (2s, 2p), N (2s, 2p), O (2s, 2p), S (3s, 3p), F (2s, 2p), Cl (3s, 3p), Br (4s, 4p), I (5s, 5p), Ti (3s, 3p, 4s, 3d), Zr (4s, 4p, 5s, 4d), Hf (5s, 5p, 6s, 5d), Th (6s, 6p, 7s, 6d), Ce (5s, 5p, 6s, 5d, 4f), and U (6s, 6p, 7s, 5f, 6d) electrons being treated as valence states. Spin−orbit coupling is neglected in all calculations; it is not expected to be large enough to affect our conclusions.
+
+The k-point mesh was sampled using a 3 × 3 × 3 Monkhorst−Pack grid. We set a convergence criterion of 10<sup>−</sup><sup>5</sup> eV for electronic minimization.
+
+2.2. Density of States (DOS) Calculations. The details for DOS calculations are the same as described above except:
+
+- (i) The HSE06[13](#page-7-0) exchange−correlation functional was used to obtain electronic properties (we will refer to this protocol as HSE06//PBEsol to indicate the use of PBEsol for geometries) because HSE06 is powerful in predicting band gaps of materials, and previous work reported that the HSE06 band gaps of various functionalized UiO-66(Zr) show quantitative agreement with the experimental values.[5c](#page-7-0)
+- (ii) A 1 × 1 × 1 k-point mesh was used to make the computationally expensive HSE06 calculations feasible since previous studies found that Γ point sampling of the first Brillouin zone is sufficient to obtain correct electronic properties.[5c](#page-7-0),[g](#page-7-0)
+
+2.3. Band Alignment. We used a method developed by Butler et al.[14](#page-7-0) to determine the vacuum levels of porous UiO-66 frameworks. A spherical electrostatic probe with a radius of 1 Å located at the center of the large octahedral cage (∼11 Å) of each UiO-66 framework was used to estimate the electrostatic reference potential. For each case, the variance of the potential values within the spherical probe is less than 10<sup>−</sup><sup>4</sup> V, indicating that we obtained robust results; finally, the mean of the potential values was taken.
+
+2.4. Excited-State Calculations. Excited-state calculations were performed on the cluster models of UiO-66(Ce) [Ce6O4(OH)4(HBDC)2(HCOO)10] and UiO-66(Ce)-X [Ce6O4(OH)4(HBDC-X)2(HCOO)10] (see Figure 3) to obtain
+
+![](_page_1_Figure_14.jpeg)
+
+Figure 3. Cluster models of UiO-66(Ce) (left) and UiO-66(Ce)-X (right). Color scheme: Ce, yellow; O, red; C, brown; H, light pink; substituent X, blue. The X groups will be discussed in [section 3.2](#page-3-0).
+
+node-localized excitations and ligand-to-metal charge-transfer excitations in the UiO-66(Ce) frameworks and on the isolated H2BDC and H2BDC-X linkers to obtain linker-localized excitations in the UiO-66(Ce) frameworks. The cluster models of the UiO-66(Ce) frameworks and the isolated linkers were generated by cutting the [Ce6O4(OH)4(BDC)2(COO)10]<sup>12</sup><sup>−</sup>, [Ce6O4(OH)4(BDC-X)2(COO)10] <sup>12</sup><sup>−</sup>, BDC<sup>2</sup><sup>−</sup>, and BDC-X2<sup>−</sup> anions from the corresponding periodic models optimized using PBEsol and capping the unsaturated sites with protons. The ground-state structures were optimized by relaxing only the proton capping ions to keep their geometries in the periodic frameworks. Excited-state calculations were performed by time-dependent density functional theory (TD-DFT) with the adiabatic linear-response approximation.[15](#page-7-0) All reported excitation energies are for vertical transitions.
+
+For both ground-state and excited-state calculations, we used the HSE06 exchange−correlation functional with the 6- 311+G(d)[16](#page-7-0) basis set for H, C, N, O, S, F, Cl, and Br, the 6- 311G(d)[16](#page-7-0) basis set for I, and the Stuttgart−Dresden−Dunning (SDD, MWB28)[17](#page-7-0) basis set and effective core potential for Ce. These calculations were carried out with the Gaussian 16 program.[18](#page-7-0)
+
+## 3. RESULTS AND DISCUSSION
+
+3.1. Pristine UiO-66(M) Frameworks. For the photocatalytic process in UiO-66(Zr), it is suggested that the linker should be responsible for light absorption and excitation,[5c,g,h](#page-7-0) in which case the absorption energy (Eabs) [5h](#page-7-0) is controlled by the energy gap between the highest occupied and lowest unoccupied linker orbitals. For UiO-66(Zr), both the highest occupied and lowest unoccupied crystal orbitals (HOCO and LUCO) are predominantly on the linkers (see [Figure 4](#page-2-0)), and this indicates that Eabs approximately equals the HOCO− LUCO gap in UiO-66(Zr). We calculated a HOCO−LUCO gap (Eabs) of 3.73 eV for UiO-66(Zr), in good agreement with the reported experimental gap (measured as the extrapolated
+
+![](_page_2_Figure_1.jpeg)
+
+<span id="page-2-0"></span>![](_page_2_Figure_2.jpeg)
+
+Figure 4. Total (black) and projected (red and blue) density of states of the pristine UiO-66(M) with M = Zr, Hf, Th, Ti, U, and Ce. For U, only the most stable case (the FM state) is shown. The unoccupied Zr 4d orbitals, Hf 5d orbitals, Th 6d and 5f orbitals, Ti 3d orbitals, U 5f orbitals, and Ce 4f orbitals are highlighted with a yellow background. The U plot also shows (at higher energy) some unoccupied 6d orbitals.
+
+onset of the UV spectrum) of 3.76 eV.[5a](#page-7-0) This validates the HSE06//PBEsol calculations used in this study.
+
+In general, the photocatalytic activity of a material is correlated with the lifetime of the excited states. To prolong the lifetime of the excited states in UiO-66(Zr), the photogenerated electrons should undergo ligand-to-metal charge transfer (LMCT) to form charge-separated states,[5c,19](#page-7-0) preventing the rapid recombination of photogenerated charges. Therefore, we consider the LMCT energy, ELMCT, [5h](#page-7-0) which is defined as the energy change upon transferring the photogenerated electron from the photoexcited linker orbital to the lowest unoccupied metal orbital.
+
+A desirable photocatalytic MOF material would have a lowlying unoccupied metal orbital with an energy lower than the donor level (lowest unoccupied linker orbital); this leads to a negative ELMCT, that is, efficient LMCT. Our calculations on UiO-66(Zr) show that the lowest unoccupied metal orbital (4d of Zr) is located 2 eV above the lowest unoccupied linker orbital (LUCO) (see Figure 4), indicating inefficient LMCT (ELMCT = 2.00 eV) in UiO-66(Zr), which is consistent with previous theoretical studies.[5g,h](#page-7-0) A recent theoretical study showed that the energies of unoccupied 4d orbitals of Zr in UiO-66(Zr) can be lowered moderately by including missinglinker defects in the framework,[5h](#page-7-0) but this lowering is not enough make the ELMCT of UiO-66(Zr) negative or even close to zero.
+
+We then considered UiO-66 with all Zr replaced by Hf, Th, Ti, U, or Ce. These metals have a variety of valence orbitals including 3d, 5d, 6d, 4f, and 5f. Figure 4 shows that the change of the metallic character of the UiO-66 nodes leaves the linker orbitals relatively unchanged (the U plot looks different because the DOS plots are aligned using the energy level of HOCO, and the presence of occupied 5f orbitals in U shifts everything down, but Eabs is only 0.09 eV lower in U than in Zr).
+
+Figure 4 shows that three UiO-66 MOFs composed with d0 metal ions (Zr4+, Hf4+, and Th4+, where the superscript is the oxidation state) feature similar electronic structures, but UiO-66(Ti), which also contains d0 metal ions (Ti4+), shows quite different electronic properties with the LUCO delocalized over linker and metal orbitals (ELMCT = 0 eV). This could be due to the fact that the 3d orbitals of Ti are low in energy, and thus they can effectively mix with the π\* orbital of the linker. These calculations imply that UiO-66(Ti) should have more efficient LMCT than the other three MOFs with d0 metal sites. Indeed, a recent work by Nasalevich and co-workers confirmed that the photoexcited states in a Ti4+-MOF have longer lifetime than those for isostructural Zr4+ and Hf4+ MOFs.[5g](#page-7-0)
+
+For UiO-66(U), we considered six arrangements of magnetic spins (see [Figure S1](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf)). Although the ferromagnetic (FM) state was determined to be most stable, we found that all six states have similar stabilities with the largest energy difference being only 0.14 eV (see [Table S2](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf)). Therefore, one would expect all these states to coexist in UiO-66(U). We found that their main electronic properties related to photocatalytic performance (i.e., Eabs and ELMCT) are almost identical (see [Figure S2](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf)). Therefore, the FM state of UiO-66(U) is discussed here to illustrate the electronic structure. It is reasonable to assume that linker excitation occurs in UiO-66(U) as well. Then it appears that UiO-66(U), like UiO-66(Zr, Hf, or Th), has a positive ELMCT because the unoccupied 5f orbitals of U are high in energy (see Figure 4).
+
+The low-lying nature of the empty 4f band of Ce in materials containing Ce4+ ions (e.g., CeO2) [20](#page-7-0) makes such materials highly reducible because of the facile formation of Ce3+. [21](#page-8-0) So we can rationally predict that incorporating the f <sup>0</sup> Ce4+ metal ion into the node of a MOF should be a general and effective strategy to facilitate LMCT. To test this, we performed calculations on UiO-66(Ce), and consistent with this hypothesis, we found that the LUCO is predominantly on the metal (4f of Ce4+) (see Figure 4), which introduces a different scenario from the cases discussed above.
+
+Since the empty 4f orbitals of UiO-66(Ce) are distributed within the gap of the linker orbitals, it is necessary to determine the place where excitations mainly occur. Here we consider three types of excitations, that is, node-localized, ligand-tometal charge-transfer, and linker-localized. To study the first two types of excitations, we performed TD-DFT calculations on the cluster model of UiO-66(Ce) (see [Figure 3\)](#page-1-0). With this model, we obtained 300 excited states involving excitations from occupied linker and node orbitals to 4f orbitals (i.e., nodelocalized excitations and ligand-to-metal charge-transfer excitations). However, because the unoccupied linker orbitals are high in energy and the occupied and unoccupied linker orbitals are separated by 42 4f orbitals, we were unable, with the available computer power, to calculate the excitations from the occupied linker orbitals to the unoccupied linker orbitals (i.e., linker-localized excitations) by using such a cluster model. Therefore, to obtain these excitations, we used an isolated H2BDC linker model with the BDC<sup>2</sup><sup>−</sup> anion fixed at the positions of the optimized UiO-66(Ce) framework.
+
+All of the first 300 excited states for the cluster model of UiO-66(Ce) show an oscillator strength smaller than 0.01 (in fact, most of the 300 oscillator strengths are close to or smaller <span id="page-3-0"></span>than 0.001), indicating these transitions are weak. The energy range for these excitations is 3.00 to 3.47 eV. For the isolated H2BDC linker model, the S0 → S3 and S0 → S4 transitions have oscillator strengths of 0.041 and 0.436, respectively, and their excitation energies are 4.54 and 4.93 eV (see Table 1). The
+
+Table 1. First Four Excitations of the Isolated H2BDC Linker
+
+|            | excitation<br>energy (eV) | oscillator<br>strength, f | major contribution                       |
+|------------|---------------------------|---------------------------|------------------------------------------|
+| S0 →<br>S1 | 4.22                      | 0.000                     | HOMO − 2 → LUMO, 93%                     |
+| S0 →<br>S2 | 4.32                      | 0.000                     | HOMO − 3 → LUMO, 92%                     |
+| S0 →<br>S3 | 4.54                      | 0.041                     | HOMO − 1 → LUMO, 31%<br>HOMO → LUMO, 59% |
+| S0 →<br>S4 | 4.93                      | 0.436                     | HOMO − 1 → LUMO, 58%<br>HOMO → LUMO, 36% |
+
+HOMO − 1, HOMO, and LUMO (HOMO and LUMO refer to highest occupied and lowest unoccupied molecular orbitals, respectively, in the cluster calculations) shown in Figure 5 were
+
+![](_page_3_Figure_5.jpeg)
+
+Figure 5. Selected frontier orbitals of the isolated H2BDC linker. The color scheme for the structures is O, red; C, gray; H, white.
+
+found to play important roles in these two excitations. Using the cluster model of UiO-66(Ce), due to the high computational cost, we calculated only the first 300 excitations, and this does not include all the excitations that have lower excitation energies than the linker-localized excitations (S0 → S1, S0 → S2, S0 → S3, and S0 → S4). Nevertheless, we expect that in UiO-66(Ce) linker-localized excitations should be more likely to occur than node-localized excitations and ligand-to-metal charge-transfer excitations for the following two reasons: (i) the excitations in the cluster model of UiO-66(Ce) that have lower excitation energies than the linker-localized excitations (S0 → S1, S0 → S2, S0 → S3, and S0 → S4) are all dominated by 2pC,O → 4fCe configurations; therefore, all these excitations should have similarly small oscillator strength; (ii) π → π\* excitations in the linker are indeed strong (see Table 1). This leads to a negative ELMCT (−1.43 eV) in UiO-66(Ce). Although the LMCT process is complicated and is not solely governed by ELMCT, UiO-66(Ce) would be particularly likely to have more favorable LMCT than UiO-66(Ti). We then conclude that photoexcited charges could be separated effectively in UiO-66(Ce) through favorable LMCT, yielding longer-lived excited states and significantly increasing the photocatalytic performance. This finding is consistent with an experimental study by Wen and co-workers that showed that doping Ce4+/Ce3+ ions into the nodes of MOF MIL-101 can remarkably increase the photocatalytic activity.[22](#page-8-0)
+
+In principle, thermal activation of UiO-66 could result in the dehydroxylation of the M6O4(OH)4 node to M6O6. [23](#page-8-0) Nevertheless, the dehydroxylated nodes would be rehydroxylated in aqueous solution when performing photocatalytic reactions (e.g., water splitting). To study whether this would affect our conclusions, we also studied the novel UiO-66(Ce) with dehydroxylated nodes (Ce6O6). We found that the two photocatalytic properties (Eabs and ELMCT) remain essentially unchanged after node dehydroxylation (see [Figure S3](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf)), probably because the three orbitals (HOCO and the lowest unoccupied 4f and linker orbitals) that determine Eabs and ELMCT are not contributed by the μ3-OH species and protons removed after dehydroxylation, and the structural distortion induced by dehydroxylation has no significant effect on the electronic structure.
+
+3.2. Linker Functionalization and Photoredox Possibilities. An important structural variation that can be used to design a promising photocatalytic UiO-66(Ce) is linker functionalization. We therefore studied UiO-66(Ce) MOFs with 12 different linker designs obtained by monosubstituting NH2, NO2, F, Cl, Br, I, OH, SH, COOH, CH3, CF3, or SO3H on BDC; these substitutions are synthetically feasible.[8a](#page-7-0) [Figure](#page-1-0) [2](#page-1-0) shows the position of the substitution. In practice, the UiO-66(Ce)-X MOF would have different local structures because nodes can have different numbers of BDC-X linkers having the X group on the side of the node. However, different local structures are unable to be fully considered by using the primitive cell. We therefore performed some tests on UiO-66(Ce)-NH2 by using the unit cell and found that different local structures would have similar electronic structures (see [Figure S4\)](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf). Therefore, a primitive cell is adequate to simulate UiO-66(Ce)-X.
+
+Table 2 shows Eabs of the resulting UiO-66(Ce)-X. Encouragingly, all 12 linker designs show a decreased Eabs with a maximum decrease of 1.55 eV for X = SH, indicating that linker functionalization can lower the absorption energy and increase the possibility of absorbing in the visible range of solar radiation. The functionalization roughly follows the trend that the BDC linker substituted by a group with stronger electron donating character will lead to a lower Eabs. The calculated HOMO−LUMO gaps of the isolated H2BDC-X linkers provide a similar trend (see [Table S3](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf)), suggesting that isolated linkers can be used for preliminary screening of the light harvesting capabilities (Eabs) of these linkers in MOFs.
+
+To understand the substituent effects, we analyzed the total DOS of UiO-66(Ce)-X (see [Figure 6\)](#page-4-0). We found that linker functionalization can strongly affect the electronic structure (especially the position of the HOCO) of UiO-66(Ce). For most cases (except UiO-66(Ce)-CF3), new filled states form within the original HOCO−LUCO gap of pristine UiO-66(Ce) after linker functionalization, which pushes the HOCO toward the LUCO and thereby lowers the HOCO−LUCO gap and Eabs. In general, the new filled states tend to appear near the middle of the original HOCO−LUCO gap of pristine UiO-
+
+Table 2. Absorption Energies (Eabs, in eV) and Ligand-to-Metal Charge-Transfer Energies (ELMCT, in eV) of UiO-66(Ce)-X
+
+|       | H     | NH2   | NO2   | F     | Cl    | Br    | I     | OH    | SH    | COOH  | CH3   | CF3   | SO3H  |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Eabs  | 4.09  | 2.74  | 3.77  | 3.83  | 3.57  | 3.42  | 2.97  | 3.02  | 2.54  | 3.43  | 3.83  | 4.03  | 3.70  |
+| ELMCT | −1.43 | −1.57 | −1.33 | −1.38 | −1.39 | −1.42 | −1.44 | −1.61 | −1.59 | −1.65 | −1.47 | −1.35 | −1.50 |
+
+<span id="page-4-0"></span>![](_page_4_Figure_1.jpeg)
+
+Figure 6. Total density of states of UiO-66(Ce)-X (aligned with the energy level of the lowest unoccupied 4f orbital). Only the spin-up manifold is shown. The occupied states are filled with black.
+
+66(Ce) when the BDC linker is substituted by an electron donating group such as NH2, while substituting the BDC linker with an electron withdrawing group (e.g., NO2) introduces new filled states located just above the original HOCO of pristine UiO-66(Ce), which are consistent with previous studies on UiO-66(Zr)[5c](#page-7-0) and MIL-125.[5l](#page-7-0) For UiO-66(Ce)-CF3, we observed the formation of new filled states as well; but they are distributed below the HOCO.
+
+Since linker functionalization introduces new filled states of the linker above the original HOCO of pristine UiO-66(Ce), the favorable type of excitation in UiO-66(Ce)-X could be different from that in pristine UiO-66(Ce). We found that the occupied node orbitals and empty 4f orbitals remain largely unchanged after linker functionalization. Therefore, it is expected that node-localized excitations are still weak. To investigate the ligand-to-metal charge-transfer excitations associated with the newly generated states in UiO-66(Ce)-X, we calculated the first 100 excited states for the cluster model of each UiO-66(Ce)-X (see [Figure 3](#page-1-0) for a schematic view of the cluster model). As for the cluster model of pristine UiO-66(Ce), for each case of UiO-66(Ce)-X, all the calculated excited states have a very small oscillator strength, typically smaller than 0.01 (in fact, most of the oscillator strengths are close to or smaller than 0.001), indicating that new states introduced by the substituent cannot enhance the ligand-tometal charge-transfer excitations. We also performed excited state calculations on isolated H2BDC-X linkers; the results show that for all cases excitations mainly contributed by HOMO → LUMO are strong (see [Tables S4 and S5\)](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf). Therefore, in UiO-66(Ce)-X, linker-localized excitations should be more likely to occur than node-localized excitations and ligand-to-metal charge-transfer excitations as well.
+
+[Table 2](#page-3-0) shows that ELMCT of all UiO-66(Ce)-X are negative. Therefore, all the functionalized UiO-66(Ce)-X frameworks inherit the long-lived LMCT excited state of the pristine UiO-66(Ce).
+
+For photocatalytic applications, it is important to know the band gap (i.e., HOCO−LUCO gap) and the absolute band edge positions (with respect to the vacuum level) of the photocatalyst to predict the thermodynamic feasibility of the photocatalytic reactions. In principle, the valence and conduction band edges (HOCO and LUCO) of a single water splitting photocatalyst should straddle the redox potentials for water splitting reactions,[24](#page-8-0) that is, the HOCO energy should be lower than the energy level of the oxygen evolution reaction (OER), H2O ↔ 2H(aq)<sup>+</sup> + <sup>1</sup> /2O2(g) + 2e<sup>−</sup>, and the LUCO energy should be higher than the energy level of the hydrogen evolution reaction (HER), 2H(aq)<sup>+</sup> + 2e<sup>−</sup> ↔ H2(g). Half-reaction photocatalysts for OER or HER should satisfy the corresponding one of the two requirements. For CO2 photoreduction, the LUCO energy of the photocatalyst should be higher than the energy level of the CO2 reduction reaction, which depends on the product.[5d](#page-7-0),[25](#page-8-0)
+
+The free energy change per electron of a reduction reaction (note that this free energy change has the opposite sign of electrode potentials) is given in electronvolts by
+
+$$
+\Delta G = -e(e^{\circ} + \varepsilon_{\text{SHE}}) + a(\ln 10)(k_{\text{B}}T)(\text{pH})
+$$
+
+where e is the charge on an electron, ε° is the standard electrode potential of the reaction in volts, εSHE is the absolute electrode potential of the standard hydrogen electrode in volts, a is a parameter depending on the stoichiometry, k<sup>B</sup> is Boltzmann's constant, T is temperature, and pH is the usual measure of acidity. The parameter a is the number of H+ per e in the balanced reduction half reaction (the value of a is usually one, but it may be different, for example a = 0.5 for CO2 + H<sup>+</sup> + 2e<sup>−</sup> → HCOO<sup>−</sup>). The recommended value of εSHE is 4.28 V.[26](#page-8-0) The standard electrode potentials and the computed ΔG at pH = 7 and room temperature (298.15 K) of the selected reactions are summarized in Table 3 (for all cases in the table, a is 1).
+
+Table 3. Standard Electrode Potentials (ε°, in V) and the Computed ΔG (in eV) at pH = 7 and Standard Temperature (298.15 K) of the Selected Reactions
+
+| reaction                                              | ε°      | ΔG    |  |  |  |
+|-------------------------------------------------------|---------|-------|--|--|--|
+| H+<br>/H2                                             | 0a      | −3.87 |  |  |  |
+| H2O/O2                                                | 1.229a  | −5.09 |  |  |  |
+| CO2/CO                                                | −0.106b | −3.76 |  |  |  |
+| CO2/CH4                                               | 0.169b  | −4.03 |  |  |  |
+| CO2/CH3OH                                             | 0.016b  | −3.88 |  |  |  |
+| CO2/HCHO                                              | −0.070b | −3.80 |  |  |  |
+| CO2/HCOOH                                             | −0.250b | −3.62 |  |  |  |
+| CO2/C2H4                                              | 0.064b  | −3.93 |  |  |  |
+| CO2/C2H5OH                                            | 0.084b  | −3.95 |  |  |  |
+| a<br>Obtained from ref 27. b<br>Obtained from ref 28. |         |       |  |  |  |
+
+The ΔG in the above equation is the quantity to be compared to the absolute band edge positions relative to the energy of an ionized electron in a vacuum; that is, we compare ΔG to the orbital energies.
+
+The band gaps and absolute band edge positions of various UiO-66(Ce)-X materials are shown in [Figure 7.](#page-5-0) It can be observed that the (vacuum-aligned) absolute position of the LUCO (the lowest unoccupied 4f orbital) can be varied significantly from one substituent to the other, for example, from −4.07 eV for X = H to −6.12 eV for X = COOH. However, Figure 6 shows that the 4f orbitals only show limited variations (in terms of shape and the relative position to the lowest unoccupied linker orbital) with the change of the substituent X. Therefore, it is necessary to check if it is an artifact resulting from the change of the electrostatic potential at cage center by large substituents on the BDC linker. Table S6 in the [Supporting Information](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf) provides the standard deviations of the Kohn−Sham HOCO energy level [i.e., EHOCO(KS)], the HOCO−LUCO gap (i.e., Eg), the spherical average of the total electrostatic potential at the cage center
+
+<span id="page-5-0"></span>![](_page_5_Figure_2.jpeg)
+
+Figure 7. Band alignment of UiO-66(Ce)-X, where the structure of the BDC-X linkers is shown in the box at lower right. For each case of UiO-66(Ce)-X, the HOCO and LUCO are from the linker and the Ce, respectively. The red and blue dashed lines represent energy levels corresponding to redox potentials for water splitting, and the green region covers the energy levels of various CO2 reduction reactions listed in [Table 3](#page-4-0) (pH = 7; T = 298.15 K). The band gaps (black numbers) and the vacuum aligned HOCO energies (white numbers) are given as well.
+
+(i.e., Φav), the ionization potential (i.e., IP, which has the opposite sign of vacuum-aligned absolute position of the HOCO), and the electron affinity (i.e., EA, which has the opposite sign of the vacuum-aligned absolute position of LUCO), and the values of these standard deviations are 0.59, 0.57, 0.68, 1.01, and 0.78 eV, respectively. The standard deviation of Φav is only slightly larger than the standard deviation of EHOCO(KS) or Eg. Thus, [Table S6](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf) shows that the variation in the IP or EA is not dominated by Φav.
+
+As a second check, we note that the gas-phase cluster calculations have an absolute value for the electron affinity (which is correlated with the LUMO energy) without having to use the electrostatic potential. Therefore, we performed cluster calculations (with two HBDC-X<sup>−</sup> and ten formates as linkers) for all cases of substituent X. The absolute positions and deviations (from X = H) of LUCO (periodic model) or LUMO (cluster model) of UiO-66(Ce)-X are summarized in Table S7 in the [Supporting Information](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf). Since only two of the 12 linkers in the cluster models have substituent X, the deviations are multiplied by 6 to estimate the 12-HBDC-X<sup>−</sup>-linker situations. The deviation from that for H of the periodic LUCO energy with various X correlates well with six times the deviation from that for H of the cluster LUMO energy. These results further confirm that the effect is real. Because similar substituentinduced variations in the excitation energies are also seen in cluster calculations, the explanation is the same as for substituent-induced variations in excitations in isolated molecules, and these have been explained in the literature by molecular orbital arguments.[29](#page-8-0)
+
+Figure 7 also shows the vacuum aligned energy levels corresponding to redox potentials for water splitting and various CO2 reduction reactions at pH = 7 and room temperature. Among the materials considered, the UiO-66(Ce)-I framework is most suitable to be a single water splitting photocatalyst though its LUCO almost overlaps with the HER level. Making a further improvement on the UiO-66(Ce)-I photocatalyst requires further lowering the absorption energy (Eabs), thereby allowing for the absorption of visible light. Considering both the absolute positions of band edges and the Eabs, UiO-66(Ce)-NH2 is shown to be a potential photocatalyst for HER and CO2 reduction, while UiO-66(Ce)- SH should be active for OER. The other UiO-66(Ce)-X frameworks can catalyze the OER half-reaction as well, but their high Eabs (>3 eV) limits their application with visible light (note that the visible light region corresponds to 1.7−3.2 eV).
+
+A previous study found that disubstituted BDC (i.e., BDC-2,5X, see [Figure 2](#page-1-0)) linkers show larger shifts toward the visible range in the absorption spectra than their monosubstituted counterparts (BDC-X).[5c](#page-7-0) Accordingly, it would be interesting to systematically investigate the photocatalytic performance of UiO-66(Ce)-2,5X frameworks. The work presented here though already shows the power of linker functionalization for tuning the photoredox possibilities while preserving the LMCT capability of the Ce-MOF.
+
+For UiO-66(Ce) frameworks, LMCT after linker excitation favors the separation of electrons and holes with electrons being localized on Ce ions and holes being localized on linkers. If electron and hole transport are slow, the photo-oxidation half reaction will take place at linkers and the photoreduction half reaction will take place at nodes. However, the mechanism can be complicated, and it is beyond the scope of this paper.
+
+3.3. Tuning the Ligand-to-Metal Charge-Transfer Energy. [Table 2](#page-3-0) shows that the ELMCT of the considered UiO-66(Ce)-X are very negative, spanning the range from −1.33 to −1.65 eV. A very negative ELMCT favors charge separation and thus might be desirable for HER-only, OERonly, and CO2 reduction photocatalysts. However, in the case of the single water splitting photocatalyst (HER + OER), a very negative ELMCT might be undesirable. That is because single water splitting photocatalysts need to have an appropriate HOCO−LUCO gap (i.e., Eg) to straddle the HER and OER levels, and Eabs is the sum of E<sup>g</sup> and −ELMCT (see Scheme 1).
+
+![](_page_5_Figure_10.jpeg)
+
+![](_page_5_Figure_11.jpeg)
+
+Therefore, if E<sup>g</sup> is constant, a more negative ELMCT leads to a larger Eabs; to utilize the visible light (1.7−3.2 eV) while preserving favorable charge separation capability, the ELMCT of UiO-66(Ce) frameworks should be raised moderately but should still be negative.
+
+<span id="page-6-0"></span>In [Table 2](#page-3-0), although the ELMCT only shows minor changes when the functional groups are varied, the electron donating and withdrawing groups indeed affect the ELMCT. For example, UiO-66(Ce) with the BDC linkers monosubstituted with electron donating groups (such as NH2) usually have a more negative ELMCT than pristine UiO-66(Ce), while electron withdrawing groups (such as NO2) usually have an opposite effect (see [Table 2](#page-3-0) and [Figure 6\)](#page-4-0). To further investigate such effects, we studied the electronic structures of UiO-66(Ce) with the BDC linkers disubstituted by NH2 and NO2; more specifically, we studied the UiO-66(Ce)-2,5X with X = NH2 and NO2. The calculated electronic structures of UiO-66(Ce)- 2,5NH2 and UiO-66(Ce)-2,5NO2 as well as the electronic structures of pristine UiO-66(Ce), UiO-66(Ce)-NH2 and UiO-66(Ce)-NO2 are shown in Figure 8. Analyses of the projected
+
+![](_page_6_Figure_2.jpeg)
+
+Figure 8. Density of states (aligned with the energy level of the lowest unoccupied 4f orbital) of the pristine UiO-66(Ce), UiO-66(Ce)-NH2, UiO-66(Ce)-2,5NH2, UiO-66(Ce)-NO2, and UiO-66(Ce)-2,5NO2. Black lines represent total density of states. The projected density of states of substituents (i.e., NH2 and NO2) are filled with blue. The states below 4f are occupied. The green (red) arrow indicates the continuous up (down) shift of the lowest unoccupied linker orbital with the increase of the number of substituent NH2 (NO2) on each BDC linker.
+
+density of states of the substituents (i.e., NH2 and NO2) show that the unoccupied orbitals of the NO2 groups, which should have strong ability to accept electrons, hybridize effectively with the unoccupied orbitals of the rest of the linker, thereby downshifting the lowest unoccupied linker orbital (see Figure 8). In contrast, the substitution on BDC with the electron donating NH2 group up-shifts the lowest unoccupied linker orbital (see Figure 8). We found that disubstituting the BDC linker with NH2 and NO2 enhances the effect by their monosubstituted counterparts on shifting the relative position of the lowest unoccupied linker orbital (with respect to the lowest unoccupied 4f orbital). The ELMCT values for UiO-66(Ce)- 2,5NH2 and UiO-66(Ce)-2,5NO2 are −1.72 and −1.06 eV, respectively. It can be expected that further increasing the number of functional groups on each linker will further enhance the effect.
+
+It is reported that UiO-67(Zr) with 4,4′-biphenyl-dicarboxylate as the linker and UiO-68(Zr) with terphenyl-dicarboxylate as the linker have lower linker absorption energies than UiO-66(Zr).[5h](#page-7-0) Therefore, we propose that when one is searching for visible-response single water splitting photocatalysts based on Ce-MOFs that have a too negative ELMCT, one needs to (i) explore different combinations of the linker and the electron withdrawing group to functionalize the linker and (ii) adjust the number of functional groups on each linker in order to have appropriate band edge positions and a desirable ELMCT, Eabs, and Eg, for example, ELMCT = −0.5 eV, Eabs = 2.0 eV, and E<sup>g</sup> = 1.5 eV.
+
+## 4. CONCLUSIONS
+
+In summary, we first explored the electronic structures of pristine UiO-66(M) with M = Zr, Hf, Th, Ti, U, and Ce; we found that among metal-substituted UiO-66 MOFs, only UiO-66(Ce) favors LMCT because the low-lying nature of the empty 4f orbitals of Ce4+ leads to a negative ELMCT. TD-DFT calculations suggest that excitations are more likely to occur in the linker of UiO-66(Ce) upon light absorption. Therefore, in UiO-66(Ce), the photogenerated charges via linker-localized excitations can be separated effectively through LMCT, prolonging the lifetime of the photoexcited states. We predict that incorporating Ce4+ (f <sup>0</sup> metal ion) into the node of a MOF is an effective way to stabilize the LMCT excited states and increase the photocatalytic activity.
+
+So far there has been only a small amount of experimental work on Ce-MOF photocatalysis, and there has been no previous clear understanding of why Ce incorporation into the node of the MOF can increase the photocatalytic activity. The present work explains this and provides a direction for designing photocatalytic MOFs (by incorporating Ce into the node of a MOF).
+
+We also explored linker functionalization and showed that this leads to promising design possibilities for the promoting the photocatalytic activity.
+
+For applications of Ce-MOFs as single water-splitting photocatalysts, the too negative ELMCT values of Ce-MOFs are required to be raised to have desirable Eabs to enable visible light absorption. We found that linker functionalization with electron-withdrawing groups can raise the ELMCT, and increasing the number of functional groups on each linker enhances such an effect. To find visible-response single water splitting photocatalysts based on Ce-MOFs, further work is required to explore different combinations of the linker and the electron-withdrawing functional group as well as to determine the appropriate number of functional groups on each linker.
+
+4.1. Note Added. After this paper was submitted, a paper[30](#page-8-0) became available on the Web that independently came to the conclusion reached here that UiO-66(Ce) has a negative ligand-to-metal charge-transfer energy.
+
+# ■ ASSOCIATED CONTENT
+
+## \*<sup>S</sup> Supporting Information
+
+The Supporting Information is available free of charge on the [ACS Publications website](http://pubs.acs.org) at DOI: [10.1021/jacs.8b03613](http://pubs.acs.org/doi/abs/10.1021/jacs.8b03613).
+
+Lattice parameters of UiO-66(M) frameworks and additional data for UiO-66(U) and UiO-66(Ce) [\(PDF](http://pubs.acs.org/doi/suppl/10.1021/jacs.8b03613/suppl_file/ja8b03613_si_001.pdf))
+
+# ■ AUTHOR INFORMATION
+
+### Corresponding Authors
+
+\*[xwuphd@umn.edu](mailto:xwuphd@umn.edu) \*[gagliard@umn.edu](mailto:gagliard@umn.edu) \*[truhlar@umn.edu](mailto:truhlar@umn.edu) ORCID
+
+Xin-Ping Wu: [0000-0003-3147-8333](http://orcid.org/0000-0003-3147-8333)
+
+<span id="page-7-0"></span>Laura Gagliardi: [0000-0001-5227-1396](http://orcid.org/0000-0001-5227-1396) Donald G. Truhlar: [0000-0002-7742-7294](http://orcid.org/0000-0002-7742-7294)
+
+#### Notes
+
+The authors declare no competing financial interest.
+
+# ■ ACKNOWLEDGMENTS
+
+The authors thank Christopher J. Cramer for helpful discussions. This research was supported as part of the Nanoporous Materials Genome Center by the U.S. Department of Energy, Office of Basic Energy Sciences, Division of Chemical Sciences, Geosciences, and Biosciences, under award DE-FG02-17ER16362.
+
+# ■ REFERENCES
+
+(1) (a) Farrusseng, D.; Aguado, S.; Pinel, C. Angew. Chem., Int. Ed. 2009, 48, 7502−7513. (b) Li, B.; Wen, H.-M.; Cui, Y.; Zhou, W.; Qian, G.; Chen, B. Adv. Mater. 2016, 28, 8819−8860. (c) Zhu, L.; Liu, X.-Q.; Jiang, H.-L.; Sun, L.-B. Chem. Rev. 2017, 117, 8129−8176. (d) Bernales, V.; Ortuñ o, M. A.; Truhlar, D. G.; Cramer, C. J.; Gagliardi, L. ACS Cent. Sci. 2018, 4, 5−19.
+
+(2) (a) Sculley, J.; Yuan, D.; Zhou, H.-C. Energy Environ. Sci. 2011, 4, 2721−2735. (b) Suh, M. P.; Park, H. J.; Prasad, T. K.; Lim, D. W. Chem. Rev. 2012, 112, 782−835. (c) He, Y.; Zhou, W.; Qian, G.; Chen, B. Chem. Soc. Rev. 2014, 43, 5657−5678.
+
+(3) (a) Britt, D.; Furukawa, H.; Wang, B.; Glover, T. G.; Yaghi, O. M. Proc. Natl. Acad. Sci. U. S. A. 2009, 106, 20637−20640. (b) Li, J.-R.; Sculley, J.; Zhou, H.-C. Chem. Rev. 2012, 112, 869−932. (c) Bloch, E. D.; Queen, W. L.; Krishna, R.; Zadrozny, J. M.; Brown, C. M.; Long, J. R. Science 2012, 335, 1606−1610.
+
+(4) (a) Blake, A. J.; Champness, N. R.; Easun, T. L.; Allan, D. R.; Nowell, H.; George, M. W.; Jia, J.; Sun, X.-Z. Nat. Chem. 2010, 2, 688−694. (b) Wang, C.; Xie, Z.; deKrafft, K. E.; Lin, W. J. Am. Chem. Soc. 2011, 133, 13445−13454. (c) Sun, D.; Fu, Y.; Liu, W.; Ye, L.; Wang, D.; Yang, L.; Fu, X.; Li, Z. Chem. - Eur. J. 2013, 19, 14279− 14285. (d) Zhang, T.; Lin, W. Chem. Soc. Rev. 2014, 43, 5982−5993. (e) Xu, H.-Q.; Hu, J.; Wang, D.; Li, Z.; Zhang, Q.; Luo, Y.; Yu, S.-H.; Jiang, H.-L. J. Am. Chem. Soc. 2015, 137, 13440−13443. (f) Otal, E. H.; Kim, M. L.; Calvo, M. E.; Karvonen, L.; Fabregas, I. O.; Sierra, C. A.; Hinestroza, J. P. Chem. Commun. 2016, 52, 6665−6668. (g) Nguyen, H. L.; Vu, T. T.; Le, D.; Doan, T. L. H.; Nguyen, V. Q.; Phan, N. T. S. ACS Catal. 2017, 7, 338−342. (h) Yang, Z.; Xu, X.; Liang, X.; Lei, C.; Gao, L.; Hao, R.; Lu, D.; Lei, Z. Appl. Surf. Sci. 2017, 420, 276−285. (i) Choi, K. M.; Kim, D.; Rungtaweevoranit, B.; Trickett, C. A.; Barmanbek, J. T. D.; Alshammari, A. S.; Yang, P.; Yaghi, O. M. J. Am. Chem. Soc. 2017, 139, 356−362.
+
+(5) (a) Musho, T.; Li, J.; Wu, N. Phys. Chem. Chem. Phys. 2014, 16, 23646−23653. (b) Yang, L.-M.; Ganz, E.; Svelle, S.; Tilset, M. J. Mater. Chem. C 2014, 2, 7111−7125. (c) Hendrickx, K.; Vanpoucke, D. E. P.; Leus, K.; Lejaeghere, K.; Van Yperen-De Deyne, A.; Van Speybroeck, V.; Van Der Voort, P.; Hemelsoet, K. Inorg. Chem. 2015, 54, 10701− 10710. (d) Hamad, S.; Hernandez, N. C.; Aziz, A.; Ruiz-Salvador, A. R.; Calero, S.; Grau-Crespo, R. J. Mater. Chem. A 2015, 3, 23458− 23465. (e) Grau-Crespo, R.; Aziz, A.; Collins, A. W.; Crespo-Otero, R.; Hernandez, N. C.; Rodriguez-Albelo, L. M.; Ruiz-Salvador, A. R.; Calero, S.; Hamad, S. Angew. Chem., Int. Ed. 2016, 55, 16012−16016. (f) Yasin, A. S.; Li, J.; Wu, N.; Musho, T. Phys. Chem. Chem. Phys. 2016, 18, 12748−12754. (g) Nasalevich, M. A.; Hendon, C. H.; Santaclara, J. G.; Svane, K.; van der Linden, B.; Veber, S. L.; Fedin, M. V.; Houtepen, A. J.; van der Veen, M. A.; Kapteijn, F.; Walsh, A.; Gascon, J. Sci. Rep. 2016, 6, 23676. (h) De Vos, A.; Hendrickx, K.; Van Der Voort, P.; Van Speybroeck, V.; Lejaeghere, K. Chem. Mater. 2017, 29, 3006−3019. (i) Santaclara, J. G.; Olivos-Suarez, A. I.; Gonzalez-Nelson, A.; Osadchii, D.; Nasalevich, M. A.; van der Veen, M. A.; Kapteijn, F.; Sheveleva, A. M.; Veber, S. L.; Fedin, M. V.; Murray, A. T.; Hendon, C. H.; Walsh, A.; Gascon, J. Chem. Mater. 2017, 29, 8963−8967. (j) Santaclara, J. G.; Kapteijn, F.; Gascon, J.; van der Veen, M. A. CrystEngComm 2017, 19, 4118−4125. (k) Yuan, S.; Qin, J.-S.; Xu, H.-Q.; Su, J.; Rossi, D.; Chen, Y.; Zhang, L.; Lollar, C.; Wang, Q.; Jiang, H.-L.; Son, D. H.; Xu, H.; Huang, Z.; Zou, X.; Zhou, H.-C. ACS Cent. Sci. 2018, 4, 105−111. (l) Li, Y.; Fu, Y.; Ni, B.; Ding, K.; Chen, W.; Wu, K.; Huang, X.; Zhang, Y. AIP Adv. 2018, 8, 035012. (6) (a) Britt, D.; Tranchemontagne, D.; Yaghi, O. M. Proc. Natl. Acad. Sci. U. S. A. 2008, 105, 11623−11627. (b) Sumida, K.; Rogow, D. L.; Mason, J. A.; McDonald, T. M.; Bloch, E. D.; Herm, Z. R.; Bae, T.-H.; Long, J. R. Chem. Rev. 2012, 112, 724−781.
+
+(7) Cavka, J. H.; Jakobsen, S.; Olsbye, U.; Guillou, N.; Lamberti, C.; Bordiga, S.; Lillerud, K. P. J. Am. Chem. Soc. 2008, 130, 13850−13851. (8) (a) Hu, Z.; Zhao, D. Dalton Trans. 2015, 44, 19018−19040. (b) Marshall, R. J.; Forgan, R. S. Eur. J. Inorg. Chem. 2016, 2016, 4310−4331.
+
+(9) (a) Jakobsen, S.; Gianolio, D.; Wragg, D. S.; Nilsen, M. H.; Emerich, H.; Bordiga, S.; Lamberti, C.; Olsbye, U.; Tilset, M.; Lillerud, K. P. Phys. Rev. B: Condens. Matter Mater. Phys. 2012, 86, 125429. (b) Falaise, C.; Volkringer, C.; Vigier, J.-F.; Henry, N.; Beaurain, A.; Loiseau, T. Chem. - Eur. J. 2013, 19, 5324−5331. (c) Lammert, M.; Wharmby, M. T.; Smolders, S.; Bueken, B.; Lieb, A.; Lomachenko, K. A.; Vos, D. D.; Stock, N. Chem. Commun. 2015, 51, 12578−12581. (d) Falaise, C.; Assen, A.; Mihalcea, I.; Volkringer, C.; Mesbah, A.; Dacheux, N.; Loiseau, T. Dalton Trans. 2015, 44, 2639−2649. (e) Falaise, C.; Charles, J.-S.; Volkringer, C.; Loiseau, T. Inorg. Chem. 2015, 54, 2235−2242.
+
+(10) (a) Kresse, G.; Hafner, J. Phys. Rev. B: Condens. Matter Mater. Phys. 1994, 49, 14251. (b) Kresse, G.; Furthmüller, J. Comput. Mater. Sci. 1996, 6, 15.
+
+(11) Perdew, J. P.; Ruzsinszky, A.; Csonka, G. I.; Vydrov, O. A.; Scuseria, G. E.; Constantin, L. A.; Zhou, X.; Burke, K. Phys. Rev. Lett. 2008, 100, 136406.
+
+(12) Blö chl, P. E. Phys. Rev. B: Condens. Matter Mater. Phys. 1994, 50, 17953.
+
+(13) Krukau, A. V.; Vydrov, O. A.; Izmaylov, A. F.; Scuseria, G. E. J. Chem. Phys. 2006, 125, 224106.
+
+(14) Butler, K. T.; Hendon, C. H.; Walsh, A. J. Am. Chem. Soc. 2014, 136, 2703−2706.
+
+(15) Casida, M. E.; Jamorski, C.; Casida, K. C.; Salahub, D. R. J. Chem. Phys. 1998, 108, 4439−4449.
+
+(16) Hehre, W. J.; Random, L.; Schleyer, P. v. R.; Pople, J. A. Ab Initio Molecular Orbital Theory. Wiley: New York, 1986.
+
+(17) Dolg, M.; Stoll, H.; Preuss, H. J. Chem. Phys. 1989, 90, 1730− 1734.
+
+(18) Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.; Robb, M. A.; Cheeseman, J. R.; Scalmani, G.; Barone, V.; Petersson, G. A.; Nakatsuji, H.; Li, X.; Caricato, M.; Marenich, A. V.; Bloino, J.; Janesko, B. G.; Gomperts, R.; Mennucci, B.; Hratchian, H. P.; Ortiz, J. V.; Izmaylov, A. F.; Sonnenberg, J. L.; Williams; Ding, F.; Lipparini, F.; Egidi, F.; Goings, J.; Peng, B.; Petrone, A.; Henderson, T.; Ranasinghe, D.; Zakrzewski, V. G.; Gao, J.; Rega, N.; Zheng, G.; Liang, W.; Hada, M.; Ehara, M.; Toyota, K.; Fukuda, R.; Hasegawa, J.; Ishida, M.; Nakajima, T.; Honda, Y.; Kitao, O.; Nakai, H.; Vreven, T.; Throssell, K.; Montgomery, J. A., Jr.; Peralta, J. E.; Ogliaro, F.; Bearpark, M. J.; Heyd, J. J.; Brothers, E. N.; Kudin, K. N.; Staroverov, V. N.; Keith, T. A.; Kobayashi, R.; Normand, J.; Raghavachari, K.; Rendell, A. P.; Burant, J. C.; Iyengar, S. S.; Tomasi, J.; Cossi, M.; Millam, J. M.; Klene, M.; Adamo, C.; Cammi, R.; Ochterski, J. W.; Martin, R. L.; Morokuma, K.; Farkas, O.; Foresman, J. B.; Fox, D. J. Gaussian 16; Gaussian, Inc.: Wallingford, CT, 2016.
+
+(19) (a) Pattengale, B.; Yang, S.; Ludwig, J.; Huang, Z.; Zhang, X.; Huang, J. J. Am. Chem. Soc. 2016, 138, 8072−8075. (b) Gutierrez, M.; Cohen, B.; Sanchez, F.; Douhal, A. ́ Phys. Chem. Chem. Phys. 2016, 18, 27761−27774.
+
+(20) (a) Nolan, M.; Grigoleit, S.; Sayle, D. C.; Parker, S. C.; Watson, G. W. Surf. Sci. 2005, 576, 217−229. (b) Andersson, D. A.; Simak, S. I.; Johansson, B.; Abrikosov, I. A.; Skorodumova, N. V. Phys. Rev. B: Condens. Matter Mater. Phys. 2007, 75, 035109. (c) Kullgren, J.; Castleton, C. W. M.; Müller, C.; Ramo, D. M.; Hermansson, K. J. Chem. Phys. 2010, 132, 054110.
+
+## <span id="page-8-0"></span>Journal of the American Chemical Society Article
+
+(21) (a) Esch, F.; Fabris, S.; Zhou, L.; Montini, T.; Africh, C.; Fornasiero, P.; Comelli, G.; Rosei, R. Science 2005, 309, 752−755. (b) Jerratsch, J.-F.; Shao, X.; Nilius, N.; Freund, H.-J.; Popa, C.; Ganduglia-Pirovano, M. V.; Burow, A. M.; Sauer, J. Phys. Rev. Lett. 2011, 106, 246801. (c) Wu, X.-P.; Gong, X.-Q. Phys. Rev. Lett. 2016, 116, 086102.
+
+(22) Wen, M.; Kuwahara, Y.; Mori, K.; Zhang, D.; Li, H.; Yamashita, H. J. Mater. Chem. A 2015, 3, 14134−14141.
+
+(23) Valenzano, L.; Civalleri, B.; Chavan, S.; Bordiga, S.; Nilsen, M. H.; Jakobsen, S.; Lillerud, K. P.; Lamberti, C. Chem. Mater. 2011, 23, 1700−1718.
+
+(24) (a) Walter, M. G.; Warren, E. L.; McKone, J. R.; Boettcher, S. W.; Mi, Q.; Santori, E. A.; Lewis, N. S. Chem. Rev. 2010, 110, 6446− 6473. (b) Wang, H.; Zhang, L.; Chen, Z.; Hu, J.; Li, S.; Wang, Z.; Liu, J.; Wang, X. Chem. Soc. Rev. 2014, 43, 5234−5244. (c) Hisatomi, T.;
+
+Kubota, J.; Domen, K. Chem. Soc. Rev. 2014, 43, 7520−7535. (25) Kanan, D. K.; Carter, E. A. J. Phys. Chem. C 2012, 116, 9876− 9887.
+
+(26) (a) Kelly, C. P.; Cramer, C. J.; Truhlar, D. G. J. Phys. Chem. B 2006, 110, 16066−16081. (b) Isse, A. A.; Gennaro, A. J. Phys. Chem. B 2010, 114, 7894−7899.
+
+(27) CRC Handbook of Chemistry and Physics, 92nd ed.; Haynes, W. M., Ed.; CRC Press: Boca Raton, FL, 2011; pp 5-82−5-83.
+
+(28) Qiao, J.; Liu, Y.; Hong, F.; Zhang, J. Chem. Soc. Rev. 2014, 43, 631−675.
+
+(29) (a) Tanaka, J.; Nagakura, S.; Kobayashi, M. J. Chem. Phys. 1956, 24, 311−315. (b) Medina, R. M.; García-Vazquez, J. A.; Macazaga, M. ́ J.; Masaguer, J. R. Spectrochim. Acta, Part A 1984, 40, 1−6.
+
+(30) Hendrickx, K.; Joos, J. J.; De Vos, A.; Poelman, D.; Smet, P. F.; Van Speybroeck, V.; Van Der Voort, P.; Lejaeghere, K. Inorg. Chem. 2018, 57, 5463−5474.# SUPPORTING INFORMATION
+
+for a paper in *JACS*
+
+May 24, 2018
+
+# **Cerium Metal-Organic Framework for Photocatalysis**
+
+Xin-Ping Wu, Laura Gagliardi, and Donald G. Truhlar
+
+*Department of Chemistry, Chemical Theory Center, and Minnesota Supercomputing Institute, University of Minnesota, Minneapolis, Minnesota 55455-0431, United States of America*
+
+### **CONTENTS**
+
+| 1. | Corresponding Authors                                                  | S-2  |
+|----|------------------------------------------------------------------------|------|
+| 2. | Lattice Parameters of UiO-66(M) Frameworks (Table S1)                  | S-3  |
+| 3. | Additional Data for UiO-66(U) (Figures<br>S1<br>and S2,<br>Table S2)   | S-4  |
+| 4. | Additional Data for UiO-66(Ce) (Figures<br>S3 and S4, Tables<br>S3–S7) | S-6  |
+| 5. | References                                                             | S-15 |
+
+# **1. CORRESPONDING AUTHORS**
+
+#### *Xin-Ping Wu:*
+
+ORCID: 0000-0003-3147-8333 Email: xwuphd@umn.edu
+
+#### *Laura Gagliardi:*
+
+ORCID: 0000-0001-5227-1396 Email: gagliard@umn.edu
+
+#### *Donald G. Truhlar:*
+
+ORCID: 0000-0002-7742-7294 Email: truhlar@umn.edu
+
+## **2. LATTICE PARAMETERS OF UIO-66(M) FRAMEWORKS**
+
+Table S1. PBEsol calculated lattice (unit cell) parameters for UiO-66(M) (M = Zr, Hf, Th, Ti, U, Ce) and available experimental data
+
+|            |       | Calculateda | Experimental |
+|------------|-------|-------------|--------------|
+|            | a (Å) | 20.8037     | 20.7004b     |
+| UiO-66(Zr) | α (°) | 90.000      | 90           |
+|            | a (Å) | 20.7107     | 20.7006c     |
+| UiO-66(Hf) | α (°) | 90.001      | 90           |
+|            | a (Å) | 21.8214     | 21.9606d     |
+| UiO-66(Th) | α (°) | 90.001      | 90           |
+|            | a (Å) | 20.2114     |              |
+| UiO-66(Ti) | α (°) | 89.999      |              |
+|            | a (Å) | 21.3477     | 21.5151e     |
+| UiO-66(U)  | α (°) | 89.993      | 90           |
+|            | a (Å) | 21.5612     | 21.4727f     |
+| UiO-66(Ce) | α (°) | 89.997      | 90           |
+
+a The *k*-point mesh was sampled using a 2×2×2 Monkhorst–Pack grid. <sup>b</sup>
+
+obtained from ref. 1
+
+c obtained from ref. 2
+
+d Th6O4(OH)4(H2O)6(bdc)6·6DMF·12H2O, which adopts the UiO-66 metal−organic framework topology, obtained from ref. 3 <sup>e</sup>
+
+U6O4(OH)4(H2O)6(bdc)6]·DMF, which adopts the UiO-66 metal−organic framework topology, obtained from ref. 4
+
+f obtained from ref. 5
+
+## **3. ADDITIONAL DATA FOR UIO-66(U)**
+
+![](_page_3_Picture_1.jpeg)
+
+Figure S1. Arrangements of magnetic spins for UiO-66(U). The color scheme for the structures is: U, cyan; O, red; H, light pink.
+
+Table S2. HSE06 relative energies (Δ*E*, in eV) of possible arrangements of magnetic spins in UiO-66(U) with the labels of the arrangements corresponding to Figure S1
+
+|    | a    | b    | c    | d    | e    | f    |
+|----|------|------|------|------|------|------|
+| ΔE | 0.00 | 0.09 | 0.03 | 0.14 | 0.05 | 0.01 |
+
+![](_page_4_Figure_0.jpeg)
+
+Figure S2. Total and projected density of states of the pristine UiO-66(U) with various arrangements of magnetic spins (labeled as in Figure S1). The unoccupied metal orbitals (5*f*U) are highlighted with a yellow background.
+
+# **4. ADDITIONAL DATA FOR UIO-66(CE)**
+
+![](_page_5_Figure_1.jpeg)
+
+Figure S3. Total density of states of the pristine and dehydroxylated UiO-66(Ce). The node structures of pristine and dehydroxylated UiO-66(Ce) are also shown. The color scheme for the structures is: Ce, yellow; O, red; H, light pink.
+
+![](_page_6_Figure_0.jpeg)
+
+Figure S4. Total density of states of two different cases of UiO-66(Ce)-NH2 unit cell. In case 1, the four nodes have 0, 6, 6, and 12 BDC-NH2 linkers having the NH2 group on the side of the node, respectively; in case 2, all of the four nodes have 6 BDC-NH2 linkers having the NH2 group on the side of the node (note that the case 2 has the same situation as the primitive cell of UiO-66(Ce)-NH2). These calculations were performed using the PBE6 functional with the Hubbard *U* correction (PBE+U). We applied a *U* value of 5 eV, which has been widely used for Ce in CeO2, <sup>7</sup> to the localized 4*f* orbitals of Ce. The 1×1×1 and 2×2×2 *k*-point meshes were used for geometry optimizations and density of states calculations, respectively.
+
+Table S3. Rank (energy from low to high) and values (in eV) of *VASP*-calculated *E*abs of the UiO-66(Ce)-X frameworks and *Gaussian*-calculated HOMO–LUMO gaps of the isolated H2BDC-X linkers (the BDC-X2- anions are fixed at the positions of the optimized UiO-66(Ce) frameworks)
+
+|      | UiO-66(Ce)-X framework |      |      | isolated H2BDC-X linker |               |
+|------|------------------------|------|------|-------------------------|---------------|
+| rank | substituent            | Eabs | rank | substituent             | HOMO–LUMO gap |
+| 1    | SH                     | 2.54 | 1    | NH2                     | 3.42          |
+| 2    | NH2                    | 2.74 | 2    | SH                      | 3.45          |
+| 3    | I                      | 2.97 | 3    | OH                      | 3.84          |
+| 4    | OH                     | 3.02 | 4    | I                       | 3.87          |
+| 5    | Br                     | 3.42 | 5    | COOH                    | 4.18          |
+| 6    | COOH                   | 3.43 | 6    | Br                      | 4.19          |
+| 7    | Cl                     | 3.57 | 7    | Cl                      | 4.32          |
+| 8    | SO3H                   | 3.70 | 8    | SO3H                    | 4.46          |
+| 9    | NO2                    | 3.77 | 9    | CH3                     | 4.50          |
+| 10   | CH3                    | 3.83 | 10   | F                       | 4.54          |
+| 10   | F                      | 3.83 | 11   | NO2                     | 4.58          |
+| 12   | CF3                    | 4.03 | 12   | CF3                     | 4.64          |
+| 13   | H                      | 4.09 | 13   | H                       | 4.67          |
+
+|               | Excitation energy | Oscillator strength f | Major contribution         |
+|---------------|-------------------|-----------------------|----------------------------|
+|               | (eV)              |                       |                            |
+| H2BDC-NH2     |                   |                       |                            |
+| →<br>S0<br>S1 | 3.41              | 0.0960                | HOMO →<br>LUMO: 97%        |
+| S0<br>→<br>S2 | 4.29              | 0.0002                | HOMO-2<br>→<br>LUMO: 89%   |
+| S0<br>→<br>S3 | 4.46              | 0.0009                | HOMO-3<br>→<br>LUMO: 87%   |
+| S0<br>→<br>S4 | 4.75              | 0.2198                | HOMO-1 →<br>LUMO: 86%      |
+|               |                   |                       |                            |
+| H2BDC-NO2     |                   |                       |                            |
+| S0<br>→<br>S1 | 3.74              | 0.0001                | HOMO →<br>LUMO+1: 78%      |
+| S0<br>→<br>S2 | 4.11              | 0.0002                | HOMO-2<br>→<br>LUMO: 90%   |
+| S0<br>→<br>S3 | 4.23              | 0.0001                | HOMO-3<br>→<br>LUMO: 92%   |
+| S0<br>→<br>S4 | 4.34              | 0.0071                | HOMO-4<br>→<br>LUMO+1: 83% |
+| S0<br>→<br>S5 | 4.40              | 0.0338                | HOMO →<br>LUMO: 79%        |
+| S0<br>→<br>S6 | 4.76              | 0.0052                | HOMO-1<br>→<br>LUMO+1: 88% |
+| S0<br>→<br>S7 | 4.88              | 0.3267                | HOMO-1<br>→<br>LUMO: 85%   |
+|               |                   |                       |                            |
+| H2BDC-F       |                   |                       |                            |
+| S0<br>→<br>S1 | 4.19              | 0.0000                | HOMO-2<br>→<br>LUMO: 89%   |
+| →<br>S0<br>S2 | 4.32              | 0.0005                | →<br>HOMO-3<br>LUMO: 87%   |
+| S0<br>→<br>S3 | 4.39              | 0.0468                | HOMO →<br>LUMO: 90%        |
+| →<br>S0<br>S4 | 4.92              | 0.4165                | →<br>HOMO-1<br>LUMO: 92%   |
+|               |                   |                       |                            |
+| H2BDC-Cl      |                   |                       |                            |
+| S0<br>→<br>S1 | 4.17              | 0.0067                | HOMO-2<br>→<br>LUMO: 81%   |
+| S0<br>→<br>S2 | 4.18              | 0.0496                | HOMO →<br>LUMO: 80%        |
+| S0<br>→<br>S3 | 4.31              | 0.0000                | HOMO-3<br>→<br>LUMO: 91%   |
+| S0<br>→<br>S4 | 4.85              | 0.3548                | HOMO-1<br>→<br>LUMO: 92%   |
+|               |                   |                       |                            |
+| H2BDC-Br      |                   |                       |                            |
+| S0<br>→<br>S1 | 4.06              | 0.0613                | HOMO →<br>LUMO: 93%        |
+| S0<br>→<br>S2 | 4.15              | 0.0001                | HOMO-2<br>→<br>LUMO: 77%   |
+| S0<br>→<br>S3 | 4.30              | 0.0007                | HOMO-3<br>→<br>LUMO: 61%   |
+|               |                   |                       | HOMO-4<br>→<br>LUMO: 28%   |
+| S0<br>→<br>S4 | 4.67              | 0.0001                | HOMO-3<br>→<br>LUMO: 21%   |
+|               |                   |                       | HOMO-4<br>→<br>LUMO: 62%   |
+| S0<br>→<br>S5 | 4.83              | 0.3096                | HOMO-1<br>→<br>LUMO: 90%   |
+|               |                   |                       |                            |
+| H2BDC-I       |                   |                       |                            |
+| →<br>S0<br>S1 | 3.76              | 0.0628                | HOMO →<br>LUMO: 96%        |
+| S0<br>→<br>S2 | 3.84              | 0.0000                | HOMO-1<br>→<br>LUMO: 96%   |
+| S0<br>→<br>S3 | 4.21              | 0.0001                | HOMO-3<br>→<br>LUMO: 89%   |
+| S0<br>→<br>S4 | 4.32              | 0.0000                | HOMO-4<br>→<br>LUMO: 89%   |
+
+Table S4. Selected excitations of the isolated H2BDC-X linkers
+
+| →<br>S0<br>S5 | 4.73 | 0.0008 | HOMO →<br>LUMO+1: 96%    |
+|---------------|------|--------|--------------------------|
+| S0<br>→<br>S6 | 4.76 | 0.2120 | HOMO-2<br>→<br>LUMO: 84% |
+|               |      |        |                          |
+| H2BDC-OH      |      |        |                          |
+| S0<br>→<br>S1 | 3.80 | 0.0878 | HOMO →<br>LUMO: 96%      |
+| →<br>S0<br>S2 | 4.16 | 0.0004 | →<br>HOMO-2<br>LUMO: 92% |
+| S0<br>→<br>S3 | 4.52 | 0.0012 | HOMO-3<br>→<br>LUMO: 91% |
+| S0<br>→<br>S4 | 4.79 | 0.3399 | HOMO-1<br>→<br>LUMO: 92% |
+|               |      |        |                          |
+| H2BDC-SH      |      |        |                          |
+| S0<br>→<br>S1 | 3.40 | 0.0747 | HOMO →<br>LUMO: 97%      |
+| S0<br>→<br>S2 | 4.17 | 0.0004 | HOMO-2<br>→<br>LUMO: 92% |
+| S0<br>→<br>S3 | 4.41 | 0.0019 | HOMO-3<br>→<br>LUMO: 90% |
+| S0<br>→<br>S4 | 4.70 | 0.2014 | HOMO-1<br>→<br>LUMO: 81% |
+|               |      |        |                          |
+| H2BDC-COOH    |      |        |                          |
+| →<br>S0<br>S1 | 3.89 | 0.0361 | HOMO →<br>LUMO: 83%      |
+| S0<br>→<br>S2 | 3.94 | 0.0099 | HOMO-1<br>→<br>LUMO: 65% |
+|               |      |        | →<br>HOMO-2<br>LUMO: 21% |
+| S0<br>→<br>S3 | 4.33 | 0.0502 | HOMO-1<br>→<br>LUMO: 10% |
+|               |      |        | HOMO-2<br>→<br>LUMO: 41% |
+|               |      |        | HOMO-4<br>→<br>LUMO: 30% |
+| S0<br>→<br>S4 | 4.44 | 0.0270 | HOMO-3<br>→<br>LUMO: 44% |
+|               |      |        | →<br>HOMO-4<br>LUMO: 32% |
+| S0<br>→<br>S5 | 4.84 | 0.2199 | HOMO →<br>LUMO+1: 18%    |
+|               |      |        | →<br>HOMO-2<br>LUMO: 10% |
+|               |      |        | HOMO-3<br>→<br>LUMO: 34% |
+|               |      |        | HOMO-4<br>→<br>LUMO: 23% |
+|               |      |        |                          |
+| H2BDC-CH3     |      |        |                          |
+| S0<br>→<br>S1 | 4.23 | 0.0002 | HOMO-2<br>→<br>LUMO: 93% |
+| S0<br>→<br>S2 | 4.32 | 0.0305 | HOMO →<br>LUMO: 59%      |
+|               |      |        | HOMO-3<br>→<br>LUMO: 26% |
+| S0<br>→<br>S3 | 4.37 | 0.0299 | HOMO →<br>LUMO: 32%      |
+|               |      |        | HOMO-3<br>→<br>LUMO: 55% |
+| S0<br>→<br>S4 | 4.84 | 0.3932 | HOMO-1<br>→<br>LUMO: 83% |
+|               |      |        |                          |
+| H2BDC-CF3     |      |        |                          |
+| S0<br>→<br>S1 | 4.08 | 0.0000 | HOMO-1<br>→<br>LUMO: 93% |
+| S0<br>→<br>S2 | 4.21 | 0.0000 | HOMO-3<br>→<br>LUMO: 87% |
+| S0<br>→<br>S3 | 4.56 | 0.0857 | HOMO →<br>LUMO: 60%      |
+|               |      |        | HOMO-2<br>→<br>LUMO: 27% |
+| S0<br>→<br>S4 | 4.96 | 0.3514 | HOMO →<br>LUMO: 34%      |
+|               |      |        | HOMO-2<br>→<br>LUMO: 53% |
+|               |      |        |                          |
+
+| H<br>2BDC<br>-SO<br>H<br>3 |      |        |                                  |  |  |  |  |
+|----------------------------|------|--------|----------------------------------|--|--|--|--|
+| S<br>→<br>S<br>0<br>1      | 3.86 | 0.0003 | HOMO<br>→<br>LUMO: 30%           |  |  |  |  |
+|                            |      |        | HOMO<br>-<br>1<br>→<br>LUMO: 64% |  |  |  |  |
+| S<br>→<br>S<br>0<br>2      | 4.29 | 0.0447 | HOMO<br>→<br>LUMO: 36%           |  |  |  |  |
+|                            |      |        | →<br>HOMO<br>-<br>1<br>LUMO: 15% |  |  |  |  |
+|                            |      |        | HOMO<br>-<br>4<br>→<br>LUMO: 36% |  |  |  |  |
+| S<br>→<br>S<br>0<br>3      | 4.36 | 0.0265 | HOMO<br>→<br>LUMO: 13%           |  |  |  |  |
+|                            |      |        | HOMO<br>-<br>2<br>→<br>LUMO: 22% |  |  |  |  |
+|                            |      |        | HOMO<br>-<br>4<br>→<br>LUMO: 48% |  |  |  |  |
+| →<br>S<br>S<br>0<br>4      | 4.72 | 0.0123 | →<br>HOMO<br>-<br>3<br>LUMO: 95% |  |  |  |  |
+| S<br>→<br>S<br>0<br>5      | 4.73 | 0.3103 | HOMO<br>→<br>LUMO: 14%           |  |  |  |  |
+|                            |      |        | →<br>HOMO<br>-<br>2<br>LUMO: 64% |  |  |  |  |
+
+|                             | HOMO-4 | HOMO-3 | HOMO-2 | HOMO-1 | <b>HOMO</b> | <b>LUMO</b> | LUMO+1 |
+|-----------------------------|--------|--------|--------|--------|-------------|-------------|--------|
+| $H_2$ BDC-NH <sub>2</sub>   |        |        |        |        |             |             |        |
+| $H_2$ BDC-NO <sub>2</sub>   |        |        |        |        |             |             |        |
+| $H_2$ BDC-F                 |        |        |        |        |             |             |        |
+| $H_2$ BDC-CI                |        |        |        |        |             |             |        |
+| $H_2$ BDC-Br                |        |        |        |        |             |             |        |
+| $H_2$ BDC-I                 |        |        |        |        |             |             |        |
+| $H_2$ BDC-OH                |        |        |        |        |             |             |        |
+| $H2BDC-SH$                  |        |        |        |        |             |             |        |
+| $H_2$ BDC-COOH              |        |        |        |        |             |             |        |
+| $H_2$ BDC-CH <sub>3</sub>   |        |        |        |        |             |             |        |
+| $H2BDC-CF3$                 |        |        |        |        |             |             |        |
+| $H_2$ BDC-SO <sub>3</sub> H |        |        |        |        |             |             |        |
+
+Table S5. Frontier orbitals of the isolated H2BDC-X linkers (the color scheme for the structures is: O, red; C, gray; H, white; N, blue; S, yellow; F, cyan; Cl, green; Br, dark red; I, red violet)
+
+Table S6. Calculated values, averages, and standard deviations of UiO-66(Ce)-X properties, including the Kohn-Sham HOCO energy level [*E*HOCO(KS), in eV], HOCO–LUCO gap (*E*g, in eV), spherical average of the total electrostatic potential at the cage center (Φav, in eV), ionization potential (IP, in eV), and electron affinity (EA, in eV)
+
+| X                     | EHOCO(KS) | Eg   | Φav  | -EHOCO(abs)a<br>IP<br>= | -ELUCO(abs)b<br>EA<br>= |
+|-----------------------|-----------|------|------|-------------------------|-------------------------|
+| H                     | -3.85     | 2.66 | 2.88 | 6.73                    | 4.07                    |
+| NH2                   | -2.14     | 1.17 | 2.58 | 4.72                    | 3.55                    |
+| NO2                   | -3.50     | 2.44 | 4.07 | 7.57                    | 5.13                    |
+| F                     | -3.62     | 2.45 | 3.29 | 6.91                    | 4.46                    |
+| Cl                    | -3.09     | 2.18 | 3.37 | 6.47                    | 4.29                    |
+| Br                    | -2.90     | 2.00 | 3.29 | 6.19                    | 4.19                    |
+| I                     | -2.12     | 1.53 | 3.29 | 5.41                    | 3.88                    |
+| OH                    | -2.83     | 1.41 | 3.56 | 6.40                    | 4.99                    |
+| SH                    | -2.06     | 0.95 | 3.56 | 5.62                    | 4.67                    |
+| COOH                  | -3.28     | 1.78 | 4.61 | 7.90                    | 6.11                    |
+| CH3                   | -3.29     | 2.36 | 3.02 | 6.31                    | 3.95                    |
+| CF3                   | -3.48     | 2.68 | 4.07 | 7.56                    | 4.87                    |
+| SO3H                  | -3.22     | 2.20 | 4.94 | 8.16                    | 5.96                    |
+| average               | -3.03     | 1.99 | 3.58 | 6.61                    | 4.62                    |
+| standard<br>deviation | 0.59      | 0.57 | 0.68 | 1.01                    | 0.78                    |
+
+a IP = -*E*HOCO(abs) = -[*E*HOCO(KS) – Φav] where *E*HOCO(abs) is the vacuum-aligned absolute position of HOCO
+
+b EA = -*E*LUCO(abs) = IP – *E*<sup>g</sup> where *E*LUCO(abs) is the vacuum-aligned absolute position of LUCO
+
+|      |                      | periodic model                |                      | cluster modela                |                   |
+|------|----------------------|-------------------------------|----------------------|-------------------------------|-------------------|
+|      | absolute<br>position | deviation<br>from X<br>=<br>H | absolute<br>position | deviation<br>from X<br>=<br>H | 6b<br>deviation × |
+| H    | -4.07                | 0                             | -4.29                | 0                             | 0                 |
+| NH2  | -3.55                | 0.52                          | -4.28                | 0.01                          | 0.06              |
+| NO2  | -5.13                | -1.06                         | -4.43                | -0.14                         | -0.84             |
+| F    | -4.46                | -0.39                         | -4.32                | -0.03                         | -0.18             |
+| Cl   | -4.29                | -0.22                         | -4.33                | -0.04                         | -0.24             |
+| Br   | -4.19                |                               | -4.34                | -0.05                         | -0.30             |
+| I    | -3.88                | 0.19                          | -4.32                | -0.03                         | -0.18             |
+| OH   | -4.99                | -0.92                         | -4.41                | -0.12                         | -0.72             |
+| SH   | -4.67                | -0.60                         | -4.39                | -0.10                         | -0.60             |
+| COOH | -6.11                | -2.04                         | -4.59                | -0.30                         | -1.80             |
+| CH3  | -3.95                | 0.12                          | -4.28                | 0.01                          | 0.06              |
+| CF3  | -4.87                | -0.80                         | -4.39                | -0.10                         | -0.60             |
+| SO3H | -5.96                | -1.89                         | -4.66                | -0.37                         | -2.22             |
+
+Table S7. Calculated absolute positions and deviations (from X = H) of LUCO (periodic model) or LUMO (cluster model) of UiO-66(Ce)-X
+
+a The cluster models used here have two HBDC-X- and ten formate linkers. The models are same as the models used for TD-DFT calculations.
+
+b Since only two of the twelve linkers in the cluster models have substituent X, the deviations are multiplied by 6 to estimate the twelve-HBDC-X- -linker situations.
+
+## **5. REFERENCES**
+
+- 1. Cavka, J. H.; Jakobsen, S.; Olsbye, U.; Guillou, N.; Lamberti, C.; Bordiga, S.; Lillerud, K. P. *J. Am. Chem. Soc.* **2008**, *130*, 13850–13851.
+- 2. Jakobsen, S.; Gianolio, D.; Wragg, D. S.; Nilsen, M. H.; Emerich, H.; Bordiga, S.; Lamberti, C.; Olsbye, U.; Tilset, M.; Lillerud, K. P. *Phys. Rev. B* **2012**, *86*, 125429.
+- 3. Falaise, C.; Charles, J.-S.; Volkringer, C.; Loiseau, T. *Inorg. Chem.* **2015**, *54*, 2235–2242.
+- 4. Falaise, C.; Volkringer, C.; Vigier, J.-F.; Henry, N.; Beaurain, A.; Loiseau, T. *Chem. Eur. J.* **2013**, *19*, 5324–5331.
+- 5. Lammert, M.; Wharmby, M. T.; Smolders, S.; Bueken, B.; Lieb, A.; Lomachenko, K. A.; Vos, D. D.; Stock, N. *Chem. Commun.* **2015**, *51*, 12578–12581.
+- 6. Perdew, J. P.; Burke, K.; Ernzerhof, M. *Phys. Rev. Lett.* **1996**, *77*, 3865–3868.
+- 7. Nolan, M.; Parker, S. C.; Watson, G.W. *Surf. Sci.* **2005**, *595*, 223–232.
+
+根据提供的文献内容，生成实验流程复现文献实验

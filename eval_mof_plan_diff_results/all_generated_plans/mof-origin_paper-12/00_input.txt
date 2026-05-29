@@ -1,0 +1,410 @@
+# Crystalline coordination framework endowed with dynamic gate-opening behaviour by being downsized to a thin film
+
+Shun Sakaida1 , Kazuya Otsubo1,2\*, Osami Sakata3, Chulho Song4†, Akihiko Fujiwara4†, Masaki Takata4,5† and Hiroshi Kitagawa1,2,6,7\*
+
+The fabrication of porous coordination frameworks in thin-film forms has been investigated intensively with a view to using their structural response to external stimuli and guests for potential nanotechnological applications, for example as membranes for gas separation. Here we report a coordination framework that exhibits a dynamic guest-sorption behaviour in a nanometre-sized thin-film form (16 nm thick), yet shows no guest uptake in the bulk. Highly oriented crystalline thin films of this coordination framework—which consists of interdigitated two-dimensional layers of {Fe(py)2[Pt(CN)4]} (py, pyridine)—were fabricated through liquid-phase layer-by-layer synthesis. The resulting thin film exhibited a clear guest uptake with a structural transformation of the gate-opening type as characterized by in situ X-ray diffraction. Increasing the film's thickness markedly suppressed this behaviour. We envisage that such a crystal-downsizing effect may be observed with other coordination frameworks, and may be of use to develop functional materials, for example, for switching or sensing devices.
+
+S tructural characteristics of surfaces play an important role in the functional response of living systems to external stimuli such as light, temperature, electric fields and pH. Some examples of such stimuli-responsive surfaces include the nanostructures in the super-hydrophobic lotus leaf, the optical effects of the photonic crystal structure on beetle coloration and the stimuli-activated gating of ion channels located on the cell surfac[e1](#page-5-0)–<sup>5</sup> . To understand how the functional properties or processes of chemical reactions correlate with unique surface or interface structures that differ from the internal (bulk) regions, surface chemistry that utilizes several different approaches has been advanced successfully over the past decade. Taking inspiration from biological systems, the development of biomimetic materials, surfaces based on organic polymers and mechanically interlocked molecules with stimuli-responsive properties has attracted significant attention6[–](#page-5-0)<sup>9</sup> .
+
+Among the promising candidates for intelligent nanomaterials on surfaces, coordination framework materials, typically referred to as metal–organic frameworks (MOFs), and porous coordination polymers have been researched intensively[10](#page-5-0)–15. The variety of molecular building components—metal ions and organic-linker ligands —provides not only structural diversity (topology) and robustness, but also unique physical properties derived from their microporosity, such as gas sorption, electrical and proton conduction and catalytic properties<sup>16</sup>–[19.](#page-5-0) Whereas inorganic porous materials comprise metal–oxygen bonds, MOFs are held together by coordination bonds between metal ions and organic linkers that are relatively weaker than covalent bonds and reversible, which often results in a high degree of structural flexibility. In some cases, this flexibility means that structural transformations can be triggered by external stimuli, such as the sorption of a specific guest[20.](#page-6-0) One example of the guest-induced switching property is the 'gate-opening phenomenon': from a specific vapour pressure of guest molecules (the gateopening pressure), the sorption of those guest molecules promotes the rearrangement of the crystal structure of the host framework from a 'closed form' (which does not take up guests) to an 'open form' (which does)<sup>21</sup>–[24.](#page-6-0) This rearrangement is typically a sharp structural transition, and such gate-opening behaviour is often observed in relatively flexible frameworks. For rigid threedimensional (3D) frameworks ([Fig. 1a](#page-1-0)), the structural response is relatively insensitive to adsorbate loading, whereas characteristically a dynamic first-order structural transformation with hysteresis occurs at the gate-opening pressure in structurally flexible MOFs, such as 2D interdigitated frameworks and interpenetrated frameworks [\(Fig. 1b\)](#page-1-0).
+
+To develop an efficient use of MOFs for future nanotechnological applications, including catalysis, sensing and separation by gaspermeable membranes, research on the fabrication, characterization and application of MOF thin films has expanded rapidly in recent years25–[29](#page-6-0). Among the MOF thin-film fabrication techniques proposed, three are well established bottom-up approaches for fabricating nanometre-sized MOF thin films: the layer-by-layer (LbL) method, a combination of the Langmuir–Blodgett (LB) and LbL
+
+Division of Chemistry, Graduate School of Science, Kyoto University, Kitashirakawa-Oiwakecho, Sakyo-ku, Kyoto 606-8502, Japan. <sup>2</sup> Core Research for Evolutional Science and Technology (CREST), Japan Science and Technology Agency (JST), 7 Gobancho, Chiyoda-ku, Tokyo 102-0075, Japan. <sup>3</sup> Synchrotron X-ray Station at SPring-8, National Institute for Materials Science (NIMS), 1-1-1 Kouto, Sayo, Hyogo 679-5148, Japan. <sup>4</sup> Japan Synchrotron Radiation Research Institute (JASRI), SPring-8, 1-1-1 Kouto, Sayo, Hyogo 679-5198, Japan. <sup>5</sup> RIKEN SPring-8 Center, Kouto 1-1-1, Sayo, Hyogo 679-5148, Japan. 6 Institute for Integrated Cell-Material Science (iCeMS), Kyoto University, Yoshida, Sakyo-ku, Kyoto 606-8501, Japan. <sup>7</sup> INAMORI Frontier Research Center, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-3095, Japan. † Present addresses: GREEN, National Institute for Materials Science, 1-1 Namiki, Tsukuba, Ibaraki 305-0044, Japan (C.S.). Synchrotron X-ray Station at SPring-8, National Institute for Materials Science (NIMS), 1-1-1 Kouto, Sayo, Hyogo 679-5148, Japan (C.S.). Department of Nanotechnology for Sustainable Energy, School of Science and Technology, Kwansei Gakuin University, 2-1 Gakuen, Sanda, Hyogo 669-1337, Japan (A.F.). Institute of Multidisciplinary Research for Advanced Materials, Tohoku University, 2-1-1 Katahira, Sendai 980-8577, Japan (M.T.). \*e-mail: [kazuya@kuchem.kyoto-u.ac.jp;](mailto:kazuya@kuchem.kyoto-u.ac.jp) [kitagawa@kuchem.kyoto-u.ac.jp](mailto:kitagawa@kuchem.kyoto-u.ac.jp)
+
+<span id="page-1-0"></span>![](_page_1_Figure_2.jpeg)
+
+Figure 1 | Schematic representation of the various structural responses in different types of coordination frameworks. The guest molecules are denoted by red spheres, and typical examples of the sorption isotherm are also shown in the middle parts of each panel (A, guest uptake; P, gas pressure; red line, adsorption profile; blue line, desorption profile). a, Sorption profile typically observed for a rigid 3D framework, characterized by a gradual guest uptake with little (or no) hysteretic adsorption. b, Gate-opening-type guest uptake observed in a flexible 2D interdigitated framework. Abrupt adsorption occurs at the specific pressure threshold, and a large hysteresis is observed on adsorption/desorption. c, Dynamic structural response to guests induced by crystal downsizing from the bulk state to the nanometre-sized thin film for MOF 1. In this case, the bulk material shows no significant guest uptake, whereas in a thin film, a dynamic gate-opening response to the guest is observed.
+
+(LB–LbL) methods, and the modular assembly method<sup>30</sup>–[38](#page-6-0). The LbL method is a step-by-step approach in a liquid phase using structural components and self-assembled monolayer (SAM)-functionalized substrates, in which the substrates are alternately immersed into solutions of metal ions and organic ligands of the target MOFs[30](#page-6-0)–35. The LB–LbL and modular assembly methods are relatively new approaches for producing crystalline oriented MOF thin films. In the LB–LbL method, a 2D-layered MOF sheet is fabricated first on an aqueous solution via compression of a solution surface that contains metal ions and ligands, similar to an LB method. The step-by-step growth of the target MOF thin film with an intended thickness is then achieved by a repeated transfer of the 2D-layered MOF sheet onto the substrate (LbL)[36,37](#page-6-0). In contrast, in the modular assembly method, 2D MOF flakes are first synthesized in a solvent by solvothermal synthesis and used as structural modules of the MOF thin film. These pre-synthesized flakes are placed on a water surface, where they assemble into a sheet that can then be transferred onto a substrate. The process can be repeated several times to form a MOF thin film on the substrat[e38](#page-6-0). The development of these MOF thin-film fabrication techniques allows for the control not only of film thickness but also of the crystalline orientation, which can be confirmed by X-ray diffraction (XRD) along both the parallel (in-plane) and perpendicular (out-of-plane) directions relative to the substrate surface. Although MOF thin films are expected to be more flexible than MOFs in the bulk state, the guest-induced switching properties of thin films have been investigated only rarely. To date, in situ XRD monitoring of structural changes in flexible 3D MOF thin films under water vapour has been studied[39,](#page-6-0) and showed lattice shrinkage along one direction (the perpendicular direction with regards to the substrate surface); however, no information was obtained concerning changes in the direction parallel to the substrate surface. Dynamic structural transformations, such as gate opening from a closed form to an open form, have not yet been observed directly for MOF thin films.
+
+Here we show the guest uptake of a gate-opening type in a highly oriented crystalline thin film of {Fe(py)2[Pt(CN)4]} (1) (py, pyridine), a MOF that consists of interdigitated 2D layers. In the bulk state (particle size 135 nm), it exhibits no significant guest uptake. However, for a nanometre-sized crystalline thin film of the same MOF (crystal size, approximately 22 × 22 × 16 nm3 estimated from XRD observation), an obvious response to the vapours of guests, accompanied by a dynamic structural transformation, was observed by in situ surface XRD analysis. There are several reports on crystal-downsizing effects in MOF materials, in which changes in the guest-adsorption behaviour (kinetics), crystal structure and magnetic property are discussed40–[45.](#page-6-0) To the best of our knowledge however, such a change in the dynamic guest uptake by downsizing from the bulk to a thin film has not been observed previously (Fig. 1c).
+
+#### Results
+
+Crystal structure and sorption properties in the bulk state. In this work, we focused on the Hofmann-type MOF {Fe(py)2[Pt(CN)4]} (1) as a platform for fabricating thin films. The Hofmann-type MOF
+
+<span id="page-2-0"></span>![](_page_2_Figure_2.jpeg)
+
+Figure 2 | Bulk-state structure of 1, and fabrication of a nanometre-sized thin film. a,b, Solid-state structure obtained from single-crystal X-ray crystallography (orthorhombic, Cmmm, a = 7.5075(8), b = 15.2605(16), c = 7.4436(8) Å, V = 852.80(16) Å3 , 298 K). The unit-cell representation of bulk-1 (a), in which the interplane distance between two adjacent pyridine molecules is approximately 3.8 Å, and the 3D packing structure of bulk-1 (b). c, Schematic illustration of the thin-film fabrication of 1 based on the LbL protocol (see the text and Methods). For a clear representation of film-1-30L, the 4-mercaptopyridine SAM is shown as a space-filling model and the coordination framework 1 on the SAM layer is shown as a ball-and-stick model. C, grey: N, blue; H, pink; Fe, red; Pt, orange.
+
+family is categorized as one of the earliest examples of a MOF: the frameworks consist of 2D layers that contain cyanide-bridged metal ions, which are in turn linked together by axial ligands to form overall networked structures. The first example of such a MOF, [Ni(CN)2(NH3)]·(benzene), was synthesized by Hofmann and Küspert in 189[746](#page-6-0), and its crystal structure was first revealed by XRD in 194[947](#page-6-0). These Hofmann-type MOFs have attracted significant attention in the investigation of a stimuli- or guest-induced cooperative spin-state change (spin-crossover phenomenon)48–[50.](#page-6-0) For 2D Hofmann-type MOFs, only one analogue compound of 1 with a different metal ion, {Fe(py)2[Ni(CN)4]}, has been identified structurally[48.](#page-6-0) We first prepared a single crystal of 1 (Supplementary Fig. 1) using a simple diffusion method to determine the bulk structure (bulk-1). Figure 2 shows the crystal structure of bulk-1 determined by single-crystal XRD at 298 K (see also Supplementary Table 1 and Supplementary Fig. 2). In this framework, the 2D-layer structure is composed of [Pt(CN)4] 2– units and Fe2+ ions, and pyridine molecules coordinate to the apical positions of each Fe2+ ion (Fig. 2a). The 2D layers are uniformly stacked in an interdigitated manner with π–π interaction between the pyridine molecules (Fig. 2b and Supplementary Fig. 3), with an adjacent pyridine–pyridine distance of
+
+approximately 3.8 Å, which is similar to that in the porphyrinbased 2D MOF thin fil[m36](#page-6-0). As, potentially, this type of framework structure is expected to exhibit a dynamical structure transformation induced by guest uptake, we investigated the sorption property of bulk-1 using ethanol and several other adsorbates. However, no significant guest uptake was observed in the bulk state (Supplementary Figs 4–6).
+
+Thin film fabrication and characterization. Next, we fabricated 1 as a nanometre-sized thin film (Fig. 2c) on a gold substrate using the LbL method, as described in our previous report[34.](#page-6-0) A Au/Cr/Si substrate covered with a SAM of pyridine-terminated thiol (4-mercaptopyridine) was soaked alternately in two different ethanol solutions that contained an excess of pyridine—one contained the Fe2+ species and the other [Pt(CN)4] 2– , both at room temperature—for a total of 30 cycles (Fig. 2c). In each cycle, a 2D MOF layer was introduced successively. After 30 cycles of this simple LbL protocol, a thin-film of 1 (film-1-30L) was fabricated successfully under ambient conditions. To monitor the thin-film growth, infrared reflection absorption spectroscopy measurements were performed after every five cycles of depositions (Supplementary Figs 7 and 8). The successive increase
+
+![](_page_3_Figure_2.jpeg)
+
+Figure 3 | Synchrotron XRD profiles of film-1-30L. a,b, Synchrotron XRD patterns (λ = 1.550 Å, room temperature) of film-1-30L in the horizontal direction (grazing incidence 2θ scan mode, in-plane (a)) and in the vertical direction (θ–2θ mode, out-of-plane (b)). The schemes in the top left insets show the orientation of the films for each pattern (horizontal (a) and vertical (b)) The blue circles, red lines, green lines and black crosses denote the experimental data, fitting results, simulated patterns and Bragg peaks, respectively (orthorhombic, Cmmm, a = 7.304(3), b = 15.196(7), c = 7.377(4) Å). The structures in the top right insets show the experimental geometries and periodic orderings observed in each diffraction pattern. a.u., arbitrary units.
+
+in the intensity of the absorbance band indicates that the LbL protocol can realize a successive thin-film growth controlled by the number of deposition cycles. We also performed further characterizations of the thin film using variable-temperature XRD, Raman spectroscopy and X-ray photoelectron spectroscopy (Supplementary Figs 9–12).
+
+Although there are many reports on the fabrication and characterization of MOF thin films, it remains challenging to create these films with a high crystallinity and well-controlled growth directions. In addition, sometimes their low electron density and thickness cause difficulties in characterization using XRD, which can provide direct structural evidence for MOF thin films. Hence, synchrotron surface XRD measurements on the obtained film-1-30L were performed to confirm its fabrication and investigate its crystallinity, including its orientation on the substrate surface. Figure 3 presents the synchrotron XRD patterns of film-1-30L both in the parallel direction (in-plane scan, grazing-incidence 2θ scan mode (Fig. 3a)) and in the perpendicular direction (out-of-plane scan, θ–2θ mode (Fig. 3b)) relative to the substrate surface (see the insets of Fig. 3a,b). As clearly shown in Fig. 3, the diffraction patterns observed for the two experimental geometries are quite different. Comparing the obtained diffraction patterns with the simulated XRD patterns calculated from the single-crystal X-ray structure of bulk-1, the diffraction peaks observed in the in-plane geometry could be indexed mainly as h0l, which reveals the periodicity of the 2D layer, whereas only 0k0 peaks, which correspond to the interlayer spacing mediated by the pyridine ligand, were observed in the out-of-plane geometry. However, two peaks assignable to the 111 and 311 diffraction peaks were also observed (Fig. 3a), which would not be observed in a perfect crystalline oriented thin film. These peaks did not originate from the bare substrate components (Cr or Au). To explain the observation of these diffraction peaks, we also performed rocking-curve (θ scan mode) and azimuthal-angle-dependence (φ scan mode) measurements at the 020 Bragg peak (Supplementary Fig. 13). In the rockingcurve measurement, a very weak single peak at θ of approximately 5.9° with a full-width at half-maximum of 4.5° was observed, which suggests that each 2D layer is stacked with an average tilting angle of ∼4.5°. Therefore, the observed 111 and 311 peaks originate from the canted nature of film-1-30L on the substrate. The result of the azimuthal-angle-dependence measurement clearly indicates the uniformity of the obtained thin film. From the 020 (out-of-plane XRD) and 001 (in-plane XRD) peaks, using Scherrer's equation the average thickness and crystal domain (island) size were calculated to be approximately 16 and 22 nm, respectively. From the atomic force microscopy (AFM) image results, several island structures of this thin film (thickness, 20–40 nm; side, <30 nm and 70–100 nm) were observed (Supplementary Fig. 14).
+
+Specific sorption properties that arise from a thin-film state. As demonstrated above, the synchrotron XRD measurements provide clear evidence that the obtained film-1-30L is crystalline and exhibits a preferentially oriented nature on the substrate surface. The 2D interdigitated structure is expected to enable a guest-responsive structural change in the vertical direction, although bulk-1 shows no significant guest uptake. To investigate the characteristic response to the guest of film-1-30L, we then performed in situ XRD experiments under ethanol vapour at room temperature. In situ in-plane and out-of-plane XRD patterns under different ethanol relative pressure (P/P0) conditions are presented in [Fig. 4.](#page-4-0) No significant change in the in-plane diffraction pattern was observed, which indicates that the 2D layer remains unchanged before and after the introduction of ethanol [\(Fig. 4a](#page-4-0) and Supplementary Fig. 15). However, in [Fig. 4b](#page-4-0) for the out-of-plane geometry, both the 020 and 040 peaks are clearly shifted to the lower 2θ region under the presence of ethanol vapour (2θ = 11.51° for 020, where b = 15.44 Å at P/P<sup>0</sup> = 0.93), and the peaks are shifted back to the original position when the ethanol vapour is removed (2θ = 11.69° for 020, where b = 15.19 Å at P/P<sup>0</sup> = 0). These changes in the diffraction profiles are completely different to those of bulk-1 (Supplementary Fig. 4 inset) and indicate that film-1-30L transformed abruptly from the closed form to the open form, accompanied by the anisotropic expansion of the interlayer spacing induced by the ethanol vapour. We performed further in situ XRD measurements using other solvent vapours. Similar reversible peak shifts were also observed using relatively small molecules, such as water, methanol and acetonitrile, which indicates that such behaviour depends on the molecular size of the adsorbates (Supplementary Figs 16 and 17). Measurements with a quartzcrystal microbalance also confirmed guest uptake in film-1-30L as successive weight changes (Supplementary Figs 18–20). For
+
+## <span id="page-4-0"></span>NATURE CHEMISTRY [DOI: 10.1038/NCHEM.2469](http://dx.doi.org/10.1038/nchem.2469) ARTICLES
+
+![](_page_4_Figure_1.jpeg)
+
+Figure 4 | Anisotropic structural change of film-1-30L induced by guest introduction. a,b, In-plane (a) and out-of-plane (b) XRD profiles of film-1-30L with varying relative pressure (P/P0) of ethanol vapour (λ = 1.550 Å, room temperature), where P<sup>0</sup> is the saturated vapour pressure of ethanol at room temperature (7.833 kPa). The diffraction patterns were collected continuously at three pressure points in the following order (vertical arrows): before the introduction (P/P<sup>0</sup> = 0, blue), at P/P0 = 0.93 (red) and after the removal (P/P<sup>0</sup> = 0, green) of ethanol vapour.
+
+comparison, we also investigated changes in the sorption behaviour by crystal downsizing of bulk-1. Simple mechanical grinding of the as-synthesized powder of bulk-1 (average particle size 135 nm) using a mortar afforded small nanocrystals of 1 (average particle size 8.9 nm (Supplementary Fig. 21)). When the crystal size decreased, vapour-sorption behaviour was observed clearly, which supports the crystal-downsizing effect of 1 (Supplementary Fig. 22).
+
+Confirmation of gate-opening behaviour and downsizing effect. To clarify the details of this unique phenomenon observed in film-1-30L, we performed additional in situ out-of-plane XRD measurements by successively varying the relative pressure of ethanol (Fig. 5a,b). Both the 020 and 040 peaks gradually shifted with increasing relative pressure, and vice versa. The change in interlayer spacing (which corresponds to the lattice parameter b) calculated from the 020 and 040 peak positions enables the illustration of the clear closed-to-open dynamic structural transformation in film-1-30L (Fig. 5c). As observed in Fig. 5c, for the adsorption process, film-1-30L drastically expands in the vertical direction (parallel to the b axis) to the substrate in the
+
+![](_page_4_Figure_6.jpeg)
+
+Figure 5 | Dynamic closed-to-open structural transformation of film-1-30L under ethanol vapour. a,b, The in situ out-of-plane XRD profiles of film-1-30L under various ethanol vapour pressures in the 020 (a) and 040 (b) regions at room temperature. c, Relative lattice constant (b/b0) calculated from the 020 and 040 peak positions plotted against the relative pressure (P/P0) of ethanol vapour, where b<sup>0</sup> is the lattice constant of film-1-30L before guest uptake (P/P<sup>0</sup> = 0, black circles in a and b). The red and blue circles represent the adsorption and desorption processes, respectively. Error bars denote ± s.d. using two b/b<sup>0</sup> values calculated from the 020 and 040 diffraction peaks. The inset figures show schematic illustrations of the response of film-1-30L to the presence of ethanol guests, obtained from in situ X-ray observations, with the MOF, SAM and guest molecules shown in light blue, pink and red, respectively.
+
+lower pressure region below P/P<sup>0</sup> = 0.4 and then gradually expands and reaches the largest interlayer spacing at P/P<sup>0</sup> = 0.93. For the desorption process, there is a small hysteresis in the lower pressure region (P/P<sup>0</sup> ≤ 0.4), which indicates that this dynamical lattice expansion in film-1-30L is a first-order structural transformation. A similar, but small, reversible interlayer-spacing change was also detected when using acetonitrile as an adsorbate, which indicates that the dynamical structural transformation of film-1-30L depends on the guest species (Supplementary Fig. 23). The observed lattice expansions by guest introduction along the b axis were small (approximately 1.6% under ethanol vapour, and approximately 0.5% under acetonitrile vapour). Focusing on the crystal structure of the as-synthesized bulk-1, a capsule-shaped pore with the dimensions 2.9 × 3.0 × 5.2 Å<sup>3</sup> is formed between the 2D layers (Supplementary Fig. 24), a size suitable for the accommodation of small guest molecules (Supplementary Figs 25 and 26). Therefore, it is suggested that 1 can be inherently porous,
+
+<span id="page-5-0"></span>and a small lattice expansion, such as observed in this study (less than 2%), is large enough for guest adsorption.
+
+The results obtained in this study show a switch in the guest-uptake property, accompanied by an anisotropic structural transformation from the closed form to the open one in a nanometre-sized thin film, which implies the existence of the crystal-downsizing effect in this system. To understand precisely this phenomenon, we further investigated the dependency of the thin-film size on the gate-opening behaviour. In this system, it is difficult to control the domain size of the thin film along the in-plane direction parallel to the substrate; however, the domain size along the out-of-plane direction (that is, the thickness) can be controlled using a simple LbL protocol. Three thin films of different thicknesses (film-1-60L, film-1-120L and film-1-150L) were fabricated successfully by varying the number of LbL cycles. The obtained thin films also exhibited crystallinity and a preferentially oriented nature, in a similar way to film-1-30L (Supplementary Figs 27–31). Although the domain sizes of each thin film along the in-plane direction parallel to the substrate were almost constant (19 nm for film-1-30L, 22 nm for film-1-60L, 22 nm for film-1-120L and 23 nm for film-1-150L), the average thickness of the thin film increased successively with the number of LbL cycles (16 nm for film-1-30L, 30 nm for film-1-60L, 45 nm for film-1-120L and 49 nm for film-1-150L (Supplementary Figs 32 and 33). From AFM observations, the island size along the parallel direction relative to the substrate seems to become larger and the interfaces among adjacent domains seem to become more unclear with increasing numbers of LbL cycles (thickness, 50–75 nm; side, >120 nm for film-1-60L (Supplementary Fig. 30)). Structural transformation of the gate-opening type observed in film-1-30L was suppressed by the increase of the thickness of thin film, which clearly demonstrates the existence of the effect of crystal downsizing on 1 (Supplementary Fig. 34).
+
+#### Discussion
+
+In this work, we discovered the gate-opening switching behaviour of 2D interdigitated MOF 1 realized in a nanometre-sized thin film. In addition, this dynamic structural response to the guests is not observed in the bulk-crystal state, and when the crystal size decreases down to the nanometre size, the thin-film state exhibits a selective guest uptake accompanied by anisotropic expansion along the vertical direction to the substrate surface, which is completely different from that of the bulk state. Moreover, the results of the LbL cycle dependency indicate that this type of gate-opening behaviour in the thin film arises from downsizing the film thickness. The origin of such a change in response to the guests (and the transition in an energetically stabilized guest-adsorbed phase) is not yet clear; however, in the thin-film state the diffusion length for guest molecules is decreased compared with that of the bulk crystal. The change in island morphology seen by AFM for the thicker thin films might also hinder the diffusion of guests. In the bulk state, we suggest that the guest penetration within the framework is prevented (or limited to the surface area) by the strong π–π stacking between pyridine ligands (see [Fig. 2\)](#page-2-0). However, the surface area is significantly increased on decreasing the crystal size down to the nanometre scale, where the ligand π–π interaction is not as effective as in the bulk because of the reduced number of ligands at the outermost surface. This situation would contribute to the lowering of the potential barrier height for a gate-opening-type guest uptake, which results in a specific response to the guests and adsorption kinetics in thin films that differs from those of bulk crystals. These findings provide insight towards the understanding of the mechanism that dominates the switchable sorption properties or host–guest interactions of MOF thin films, which may help their development for future applications, such as chemoswitching or sensing applications, gas separation, catalytic devices and integrated systems of functionality (for example, an innovative fuel cell).
+
+#### Methods
+
+#### Preparation of the {Fe(py)2[Pt(CN)4]} single crystal (bulk-1).
+
+Fe(NH4)2(SO4)2·6H2O (196 mg, 0.5 mmol), K2[Pt(CN)4] (189 mg, 0.5 mmol) and citric acid (451 mg, 2.5 mmol) were mixed in 60 ml of water. Then, 1,3-diaminopropane (1.0 ml, 12 mmol) was added to the solution to yield a yellow transparent solution of Fe(NH3)2[Pt(CN)4]. An excess amount of pyridine (5.0 ml) was slowly diffused into H2O that contained this yellow transparent solution (10 ml) using an H-shaped glass tube at room temperature. Block-shaped single crystals of 1 were obtained after three weeks (Supplementary Fig. 1). Elemental analysis (% calculated, % found for C14H10N6FePt: C (32.77, 32.54), H (1.96, 1.91), N (16.38, 16.32)).
+
+Single-crystal X-ray crystallography. X-ray crystal structure analysis of bulk-1 was performed using a Bruker SMART APEX II CCD detector with graphitemonochromated Mo Kα radiation (λ = 0.71073 Å) at 298 K. The details are provided in the Supplementary Information.
+
+Preparation of the {Fe(py)2[Pt(CN)4]} thin film (film-1). A Au/Cr/Si substrate (20 × 15 × 0.5 mm) was soaked in an ethanol solution of 4-mercaptopyridine overnight. The substrate was rinsed with ethanol and dried by N2 flow, then soaked alternately in the ethanol solutions of the building units Fe(BF4)2·6H2O (10 mM) and [(C4H9)4N]2[Pt(CN)4] (10 mM) at room temperature for the total of the intended cycles (30–150 cycles). Both solutions contained an excess amount of pyridine (100 mM). Every soaking process was followed by an ethanolwash treatment.
+
+Synchrotron XRD measurements. Synchrotron XRD experiments were performed at room temperature with a multi-axis diffractometer with a scintillation detector installed on the BL13XU beamline of SPring-8, Japan. Helium gas was always supplied through the cell during the measurement. The relative vapour pressure for in situ XRD and grazing-incidence XRD experiments was controlled by tuning the ratio of vapour/helium using a BEL-Flow apparatus (MicrotracBEL Corp.).
+
+Data availablity. X-ray crystallographic data for bulk-1 have been deposited in the Cambridge Crystallographic Data Centre (CCDC) under deposition number CCDC 1405911, and can be obtained free of charge via [www.ccdc.cam.ac.uk/data\\_request/cif](http://www.ccdc.cam.ac.uk/data_request/cif).
+
+#### Received 12 June 2015; accepted 27 January 2016; published online 7 March 2016
+
+#### References
+
+- 1. Blossey, R. Self-cleaning surfaces—virtual realities. Nature Mater. 2, 301–306 (2003).
+- 2. Parker, A. R., Welch, V. L., Driver, D. & Martini, N. Structural colour: opal analogue discovered in a weevil. Nature 426, 786–787 (2003).
+- 3. Hilf, R. J. C. & Dutzler, R. Structure of a potentially open state of a protonactivated pentameric ligand-gated ion channel. Nature 457, 115–118 (2009).
+- 4. Kato, H. E. et al. Crystal structure of the channelrhodopsin light-gated cation channel. Nature 482, 369–374 (2012).
+- 5. Long, S. B., Campbell, E. B. & MacKinnon, R. Crystal structure of a mammalian voltage-dependent Shaker family K+ channel. Science 309, 897–903 (2005).
+- 6. Green, J. E. et al. A 160-kilobit molecular electronic memory patterned at 1011 bits per square centimetre. Nature 445, 414–417 (2007).
+- 7. Tokarev, I. & Minko, S. Stimuli-responsive hydrogel thin films. Soft Matter 5, 511–524 (2009).
+- 8. Mendes, P. M. Stimuli-responsive surfaces for bio-applications. Chem. Soc. Rev. 37, 2512–2529 (2008).
+- 9. Cohen Stuart, M. A. et al. Emerging applications of stimuli-responsive polymer materials. Nature Mater. 9, 101–113 (2010).
+- 10. Yaghi, O. M. et al. Reticular synthesis and the design of new materials. Nature 423, 705–714 (2003).
+- 11. Férey, G. Hybrid porous solids: past, present, future. Chem. Soc. Rev. 37, 191–214 (2008).
+- 12. Kitagawa, S., Kitaura, R. & Noro, S. Functional porous coordination polymers. Angew. Chem. Int. Ed. 43, 2334–2375 (2004).
+- 13. Yamada, T., Otsubo, K., Makiura, R. & Kitagawa, H. Designer co-ordination polymers: dimensional crossover architectures and proton conduction. Chem. Soc. Rev. 42, 6655–6669 (2013).
+- 14. Furukawa, H., Cordova, K. E., O'Keeffe, M. & Yaghi, O. M. The chemistry and applications of metal–organic frameworks. Science 341, 1230444 (2013).
+- 15. Furukawa, S., Reboul, J., Diring, S., Sumida, K. & Kitagawa, S. Structuring of metal–organic frameworks at the mesoscopic/macroscopic scale. Chem. Soc. Rev. 43, 5700–5734 (2014).
+- 16. Kole, G. K. & Vittal, J. J. Solid-state reactivity and structural transformations involving coordination polymers. Chem. Soc. Rev. 42, 1755–1775 (2012).
+- 17. Chae, H. K. et al. A route to high surface area, porosity and inclusion of large molecules in crystals. Nature 427, 523–527 (2004).
+- <span id="page-6-0"></span>18. Sadakiyo, M., Yamada, T. & Kitagawa, H. Rational designs for highly protonconductive metal–organic frameworks. J. Am. Chem. Soc. 131, 9906–9907 (2009).
+- 19. Yoon, M., Srirambalaji, R. & Kim, K. Homochiral metal–organic frameworks for asymmetric heterogeneous catalysis. Chem. Rev. 112, 1196–1231 (2012).
+- 20. Horike, S., Shimomura, S. & Kitagawa, S. Soft porous crystals. Nature Chem. 1, 695–704 (2009).
+- 21. Serre, C. et al. Very large breathing effect in the first nanoporous chromium(III) based solids: MIL-53 or CrIII(OH)·{O2C–C6H4–CO2}·{HO2C–C6H4– CO2H}x·H2Oy. J. Am. Chem. Soc. 124, 13519–13526 (2002).
+- 22. Kitaura, R., Seki, K., Akiyama, G. & Kitagawa, S. Porous coordination-polymer crystals with gated channels specific for supercritical gases. Angew. Chem. Int. Ed. 42, 428–431 (2003).
+- 23. Matsuda, R. et al. Guest-shape responsive fitting of porous coordination polymer with shrinkable framework. J. Am. Chem. Soc. 126, 14063–14070 (2004).
+- 24. Chen, B. L. et al. A microporous metal–organic framework for gas chromatographic separation of alkanes. Angew. Chem. Int. Ed. 45, 1390–1393 (2006).
+- 25. Bétard, A. & Fischer, R. A. Metal–organic framework thin films: from fundamentals to applications. Chem. Rev. 112, 1055–1083 (2012).
+- 26. Shekhah, O., Liu, J., Fischer, R. A. & Wöll, C. MOF thin films: existing and future applications. Chem. Soc. Rev. 40, 1081–1106 (2011).
+- 27. Zacher, D., Schmid, R., Wöll, C. & Fischer, R. A. Surface chemistry of metal– organic frameworks at the liquid–solid interface. Angew Chem. Int. Ed. 50, 176–199 (2011).
+- 28. Otsubo, K. & Kitagawa, H. Metal–organic framework thin films with wellcontrolled growth directions confirmed by X-ray study. APL Mater. 2, 124105 (2014).
+- 29. Zhuang, J. L., Terfort, A. & Wöll, C. Formation of oriented and patterned films of metal–organic frameworks by liquid phase epitaxy: a review. Coord. Chem. Rev. 307, 391–424 (2016).
+- 30. Shekhah, O. et al. Step-by-step route for the synthesis of metal–organic frameworks. J. Am. Chem. Soc. 129, 15118–15119 (2007).
+- 31. Kanaizuka, K. et al. Construction of highly oriented crystalline surface coordination polymers composed of copper dithiooxamide complexes. J. Am. Chem. Soc. 130, 15778–15779 (2008).
+- 32. Arslan, H. K. et al. Intercalation in layered metal–organic frameworks: reversible inclusion of an extended π-system. J. Am. Chem. Soc. 133, 8158–8161 (2011).
+- 33. Liu, B. et al. Enantiopure metal–organic framework thin films: oriented SURMOF growth and enantioselective adsorption. Angew. Chem. Int. Ed. 51, 807–810 (2012).
+- 34. Otsubo, K., Haraguchi, T., Sakata, O., Fujiwara, A. & Kitagawa, H. Step-by-step fabrication of a highly oriented crystalline three-dimensional pillared-layer-type metal–organic framework thin film confirmed by synchrotron X-ray diffraction. J. Am. Chem. Soc. 134, 9605–9608 (2012).
+- 35. Haraguchi, T., Otsubo, K., Sakata, O., Fujiwara, A. & Kitagawa, H. Remarkable lattice shrinkage in highly oriented crystalline three-dimensional metal–organic framework thin films. Inorg. Chem. 54, 11593–11595 (2015).
+- 36. Makiura, R. et al. Surface nano-architecture of a metal–organic framework. Nature Mater. 9, 565–571 (2010).
+- 37. Motoyama, S., Makiura, R., Sakata, O. & Kitagawa, H. Highly crystalline nanofilm by layering of porphyrin metal–organic framework sheets. J. Am. Chem. Soc. 133, 5640–5643 (2011).
+- 38. Gang, X., Yamada, T., Otsubo, K., Sakaida, S. & Kitagawa, H. Facile "modular assembly" for fast construction of a highly oriented crystalline MOF nanofilm. J. Am. Chem. Soc. 134, 16524–16527 (2012).
+- 39. Scherb, C., Koehn, R. & Bein, T. Sorption behavior of an oriented surface-grown MOF-film studied by in situ X-ray diffraction. J. Mater. Chem. 20, 3046–3051 (2010).
+- 40. Lee, H. J., Cho, W., Jung, S. & Oh, M. Morphology-selective formation and morphology-dependent gas-adsorption properties of coordination polymer particles. Adv. Mater. 21, 674–677 (2009).
+- 41. Farha, O. K. et al. Gas-sorption properties of cobalt(II)–carborane-based coordination polymers as a function of morphology. Small 5, 1727–1731 (2009).
+- 42. Horcajada, P. et al. Colloidal route for preparing optical thin films of nanoporous metal–organic frameworks. Adv. Mater. 21, 1931–1935 (2009).
+- 43. Tanaka, D. et al. Rapid preparation of flexible porous coordination polymer nanocrystals with accelerated guest adsorption kinetics. Nature Chem. 2, 410–416 (2010).
+- 44. Sakata, Y. et al. Shape-memory nanopores induced in coordination frameworks by crystal downsizing. Science 339, 193–196 (2013).
+- 45. Peng, H. et al. Re-appearance of cooperativity in ultra-small spin-crossover [Fe(pz){Ni(CN)4}] nanoparticles. Angew. Chem. Int. Ed. 53, 10894–10898 (2014).
+- 46. Hofmann, K. A. & Küspert, F. Verbindungen von Kohlenwasserstoffen mit Metallsalzen. Z. Anorg. Chem. 15, 204–207 (1897).
+- 47. Powell, H. M. & Rayner, J. H. Clathrate compound formed by benzene with an ammonia–nickel cyanide complex. Nature 163, 566–567 (1949).
+- 48. Kitazawa, T. et al. Spin-crossover behaviour of the coordination polymer FeII(C5H5N)2NiII(CN)4. J. Mater. Chem. 6, 119–121 (1996).
+- 49. Niel, V., Martínez-Agudo, J. M., Muñoz, M. C., Gasper, A. B. & Real, J. A. Cooperative spin crossover behavior in cyanide-bridged Fe(II)–M(II) bimetallic 3D Hofmann-like networks (M = Ni, Pd, and Pt). Inorg. Chem. 40, 3838–3839 (2001).
+- 50. Ohba, M. et al. Bidirectional chemo-switching of spin state in a microporous framework. Angew. Chem. Int. Ed. 48, 4767–4771 (2009).
+
+## Acknowledgements
+
+This work was partly supported by Grants-in-Aid for Scientific Research (A) (Grant No. 20350030 and 23245012) and Grant-in-Aid for Young Scientists (B) (Grant No. 25810039) from the Japan Society for the Promotion of Science. Synchrotron XRD measurements were supported by JASRI (Proposal No. 2010B1468, 2011A1382, 2011A1463, 2011B1013, 2011B1529, 2012A1505, 2012A1508, 2012B1518, 2012B1304, 2013A1146, 2013A1486 and 2013B1410).
+
+#### Author contributions
+
+K.O. and H.K. conceived the work and designed this study. S.S., K.O. and C.S. performed the experiments. O.S., C.S., A.F. and M.T. contributed to the synchrotron XRD measurements. S.S., K.O. and H.K. co-wrote the manuscript. All the authors discussed and commented on the paper.
+
+## Additional information
+
+Supplementary information is available in the [online version of the paper.](http://dx.doi.org/10.1038/nchem.2469) Reprints and permissions information is available online at [www.nature.com/reprints.](http://www.nature.com/reprints) Correspondence and requests for materials should be addressed to K.O. and H.K.
+
+#### Competing financial interests
+
+The authors declare no competing financial interests.# **Crystalline coordination framework endowed with dynamic gate-opening behaviour by being downsized to a thin film**
+
+**Shun Sakaida1 , Kazuya Otsubo1,2\*, Osami Sakata3 , Chulho Song4†,** 
+
+**Akihiko Fujiwara4‡, Masaki Takata4,5**§ **and Hiroshi Kitagawa1,2,6,7\***
+
+1 Division of Chemistry, Graduate School of Science, Kyoto University, Kitashirakawa-Oiwakecho, Sakyo-ku, Kyoto 606-8502, Japan.
+
+2 Core Research for Evolutional Science and Technology (CREST), Japan Science and Technology Agency (JST), 7 Gobancho, Chiyoda-ku, Tokyo 102-0075, Japan.
+
+3 Synchrotron X-ray Station at SPring-8, National Institute for Materials Science (NIMS), 1-1-1 Kouto, Sayo, Hyogo 679-5148, Japan.
+
+4 Japan Synchrotron Radiation Research Institute (JASRI), SPring-8, 1-1-1 Kouto, Sayo, Hyogo 679-5198, Japan.
+
+5 RIKEN SPring-8 Center, 1-1-1 Kouto, Sayo, Hyogo 679-5148, Japan.
+
+6 Institute for Integrated Cell-Material Sciences (iCeMS), Kyoto University, Yoshida, Sakyo-ku, Kyoto 606-8501, Japan.
+
+7 INAMORI Frontier Research Center, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-3095, Japan.
+
+\*e-mail: kazuya@kuchem.kyoto-u.ac.jp; kitagawa@kuchem.kyoto-u.ac.jp.
+
+†Present addresses: GREEN, National Institute for Materials Science, 1-1 Namiki, Tsukuba, Ibaraki, 305-0044, Japan. and Synchrotron X-ray Station at SPring-8, National Institute for Materials Science (NIMS), 1-1-1, Kouto, Sayo, Hyogo 679-5148, Japan.
+
+‡Present address: Department of Nanotechnology for Sustainable Energy, School of Science and Technology, Kwansei Gakuin University, 2-1 Gakuen, Sanda, Hyogo 669-1337, Japan.
+
+§ Present address: Institute of Multidisciplinary Research for Advanced Materials, Tohoku University, 2-1-1 Katahira, Sendai 980-8577, Japan.
+
+### **Table of Contents**
+
+| 1. Materials and Methods pp.2–4            |  |
+|--------------------------------------------|--|
+| 2. Supplementary Figures and Table pp.5–30 |  |
+| 3. Supplementary Notes p.31                |  |
+
+### **1. Materials and Methods**
+
+**General.** All the reagents and solvents were purchased from Wako Pure Chemical Industries Ltd., TCI Co., Ltd., Alfa Aesar Co, and Sigma-Aldrich Chemical Co. and used without further purification. The substrates were prepared by evaporating a 5-nm chromium buffer followed by 100 nm of gold onto polished silicon wafers (Au/Cr/Si, purchased from Nilaco Corp.). The typical substrate size was 20 × 15 × 0.5 mm<sup>3</sup> . H2-annealing was performed on the substrate before the thin-film preparation. Infrared reflection absorption spectra (IRRAS) were collected with a Thermo Nicolet NEXUS 670 FT-IR spectrometer and Thermo Scientific Spectra-Tech Collector diffuse reflectance accessory (incident angle = 80°). Raman spectra were recorded with a JASCO NRS-1000 using a microscope. A CVI Melles Griot 25 LHP 925 He–Ne laser provided the exciting line (632.8 nm). Thermogravimetric analysis was performed with a TG-DTA 2000SA (NETZSCH Japan) at a heating rate of 5 K per min in a constant flow of N2. X-ray photoelectron spectroscopy (XPS) measurements were performed using an ESCA-3400 spectrometer (Shimadzu Corp.) equipped with Mg *K*α radiation as the exciting source (1253.6 eV). The binding energies were calibrated with the Au 4*f*7/2 signal (84.0 eV). Atomic force microscopy (AFM) images were obtained in tapping mode using NanoScope IIIa equipment (Bruker) with a Si cantilever. Adsorption isotherms for ethanol (EtOH), acetonitrile (MeCN) and benzene of the thin film sample were obtained with a BELQCM apparatus (MicrotracBEL Corp.). A sample fabricated on an Au electrode (5 mm *ϕ*) on a quartz tip (14 mm *ϕ*) was used. The vapour pressure in He gas was controlled by mass flow controller (MFC), bubbler, and condenser installed on a BEL-Flow apparatus (MicrotracBEL Corp.).
+
+**Single-crystal X-ray diffraction (XRD) of bulk-1.** X-ray crystal structure analysis of **bulk-1** was performed using a Bruker SMART APEX II CCD detector with Mo *K*α radiation (rotating anode, λ = 0.71073 Å) at 298 K. The structure was determined using direct methods (SIR2004)<sup>51</sup> and refined by full-matrix least-squares refinement on *F*<sup>2</sup> (SHELXL-2013) <sup>52</sup> using the CrystalStructure software package53. Crystallographic data for **bulk-1** (C14H10FeN6Pt): Mr = 513.21, crystal dimensions 0.20 × 0.20 × 0.05 mm<sup>3</sup> , orthorhombic, space group *C*mmm (no. 65), *a* = 7.5075(8) Å, *b* = 15.2605(16) Å, *c* = 7.4436(8) Å, *V* = 852.80(16) Å<sup>3</sup> , *Z* = 2, *d*calc = 1.999 g/cm<sup>3</sup> , *F*(000) = 480.00, µ = 9.047 mm–1, *T* = 298(2) K. A total of 4,737 reflections were collected, of which 587 reflections were unique (*R*int = 0.0176). The refinement of 41
+
+parameters led to the final *R*<sup>1</sup> = 0.0072 (*I* > 2σ(*I*)), *wR*<sup>2</sup> = 0.0173 (all data), goodness of fit (GOF) = 1.014, and residual electron density max/min = 0.243/–0.455 eÅ–3. CCDC 1405911 contains further information and details of crystallographic data for **bulk-1**. These data can be obtained free of charge via www.ccdc.cam.ac.uk/data\_request/cif.
+
+**Synchrotron X-ray powder diffraction (XRPD) measurements.** XRPD measurements of **bulk-1** were performed using a large imaging plate Debye–Scherrer camera installed on the BL02B2 beamline of the SPring-8, Japan. The incident X-ray was monochromated to 8 keV (λ = 1.550 Å) with a Si(111) double crystal monochromator. The samples were sealed in the glass capillaries, and all the XRPD patterns were obtained with a 0.01° step at rt.
+
+**Sorption experiments on bulk-1.** The sorption experiments for water (H2O), methanol (MeOH), ethanol (EtOH), acetonitrile (MeCN), 2-propanol, chloroform, benzene (298 K), N2 (77 K) and CO2 (195 K) were performed using a BELSORP-max apparatus (MicrotracBEL Corp.). The as-synthesised **bulk-1** (approximately 110 mg) was dried under high vacuum (< 10–2 Pa) at 343 K for 12 hours before each measurement.
+
+**Preparation of film-1-30L.** The starting material, [(C4H9)4N]2[Pt(CN)4], was obtained from the cation-exchange reaction of K2[Pt(CN)4] using [(C4H9)4N](ClO4) in methanol. Fe(BF4)2·6H2O, and py were used as purchased. First, the Au/Cr/Si substrate was soaked in an ethanol (EtOH) solution of 4-mercaptopyridine overnight. After this treatment, the substrate was washed with EtOH and dried by N2 flow. Next, the substrate was alternately soaked in two types of EtOH solutions of Fe(BF4)2·6H2O (10 mM) and [(C4H9)4N]2[Pt(CN)4] (10 mM) containing excess amount of py (100 mM), in this order for 3 min. at rt for a total of 30 cycles. In this work, we also varied the cycle numbers up to 150. By repeating this simple LbL protocol, thin films of **1** with various thicknesses (**film-1-60L**, **film-1-120L**, and **film-1-150L**) were successfully obtained. The substrate was washed with EtOH for 1 min. after each soaking.
+
+**Surface XRD measurements.** The preliminary surface XRD measurements on obtained thin film samples were performed using a Rigaku SmartLab X-ray diffractometer with Cu *K*α radiation (rotating anode, λ = 1.5418 Å). For the variable temperature measurements (Supplementary Fig. S9), a dome-type high temperature attachment (DHS-900, Anton Parr) was also used to control the temperature.
+
+**Synchrotron surface XRD measurements.** Synchrotron XRD measurements on the obtained thin film samples were performed using a multi-axis diffractometer (Kohzu-Seiki TDT-17) with a NaI scintillation detector installed on the BL13XU beamline of SPring-8, Japan. The incident X-ray was monochromated to 8 keV (λ = 1.550 Å) with a Si111 double-crystal monochromator. In-plane and out-of-plane XRD patterns were obtained with a 0.1° step. Out-of-plane XRD measurement was performed in a typical θ–2θ scattering geometry. Rocking-curve (θ-scan mode) and azimuthal-angle-dependence (φ-scan mode) measurements were performed at the 020 peak position in the out-of-plane geometry (Supplementary Fig. S13) with 0.1° and 1° steps, respectively. For the in-plane XRD (grazing-incidence (GI) XRD mode), strong diffraction can be observed on the condition that the X-ray incident angle (α) to the sample is below a critical angle. Thus, an incident-angle dependence measurement at the 001 peak position was performed before the in-plane XRD measurement, and the diffraction pattern was collected at α = 0.15°. A Soller slit (Huber 3030-I, 0.4°) was placed between the sample and detector to improve the signal-to-noise (S/N) ratio of the diffraction. Both in-plane and out-of-plane XRD measurements were performed under constant He flow. The XRD profile fittings shown in Fig. 3 were performed using the Topas program54. The simulated XRD patterns shown in Fig. 3 were obtained using the Mercury software package<sup>55</sup> based on the perfectly oriented crystal model of **bulk-1**. For the *in situ* XRD measurements under vapours of several solvents, the vapour pressure in He gas was controlled by MFC, bubbler, and condenser installed on a BEL-Flow apparatus (MicrotracBEL Corp.).
+
+**Molecular mechanics calculations.** Ideally guest-adsorbed model structures were obtained from molecular mechanics calculations installed on HyperChem Pro ver. 8.0.10 (HyperCube Inc.). The basic framework structure of **1** was generated from its single crystal X-ray structure and used as its expanded structure (3 × 1 × 3 supercell) without symmetry restriction. The lattice constants were set to the results of the *in situ* synchrotron surface XRD measurements under the vapour pressure of *P*/*P*<sup>0</sup> = 0.93. For geometry optimisation (MM+)<sup>56</sup> of the guest molecules, the framework structures were fixed, and the PolakRibiere optimiser was used (RMS Gradient: 0.001 kcal/ Å mol).
+
+**2. Supplementary Figures and Table**
+
+![](_page_4_Picture_3.jpeg)
+
+**Supplementary Figure 1** | **A photograph of single crystals of bulk-1.** (Inset) A typical example of the block-shaped single crystal for single-crystal X-ray diffraction.
+
+![](_page_4_Figure_5.jpeg)
+
+**Supplementary Figure 2** | **ORTEP drawing of bulk-1 (50% probability).** 
+
+![](_page_5_Figure_2.jpeg)
+
+**Supplementary Figure 3** | **2D layer stacking structure of bulk-1 viewed along** *b***-axis.** C = grey, N = blue, Fe = red, Pt = orange. H atoms are omitted for clarity.
+
+#### **Supplementary Table S1** | **Crystal data and structure refinement of bulk-1.**
+
+| Empirical Formula               | C14 H10 Fe N6 Pt                                          |
+|---------------------------------|-----------------------------------------------------------|
+| Formula weight                  | 513.21                                                    |
+| Temperature                     | 298(2) K                                                  |
+| Wavelength                      | 0.71073 Å                                                 |
+| Crystal system                  | orthorhombic                                              |
+| Space group                     | Cmmm                                                      |
+| Unit cell dimensions            | a<br>=<br>7.5075(8) Å,<br>= 90°.<br>α                     |
+|                                 | b = 15.2605(16) Å,<br>= 90°.<br>β                         |
+|                                 | c =<br>7.4436(8) Å,<br>= 90°.<br>γ                        |
+| Volume (V)                      | 852.80(16) Å3                                             |
+| Z                               | 2                                                         |
+| Density (calculated)            | g/cm3<br>1.999                                            |
+| Absorption coefficient          | mm–1<br>9.047                                             |
+| F(000)                          | 480                                                       |
+| Crystal size                    | × 0.05 mm3<br>0.20 × 0.20                                 |
+| Theta range for data collection | 2.669 to 27.534°                                          |
+| Index ranges                    | –9 ≤<br>h<br>≤ 9, –19<br>≤<br>k<br>≤ 19, –9 ≤<br>l<br>≤ 9 |
+| Reflections collected           | 4,743                                                     |
+| Independent reflections         | 587 (Rint<br>= 0.0176)                                    |
+| Completeness to theta = 27.534° | 99.8%                                                     |
+| Absorption correction           | Multi-scan                                                |
+| Max. and min. transmission      | 0.660 and 0.573                                           |
+| Refinement method               | Full-matrix least-squares on F2                           |
+| Data/restraints/parameters      | 587/0/41                                                  |
+| Goodness-of-fit on F2           | 1.014                                                     |
+| Final R<br>indices [I>2σ(I)]    | R1<br>= 0.0072, wR2<br>= 0.0173                           |
+| R<br>indices (all reflections)  | R1<br>= 0.0072, wR2<br>= 0.0173                           |
+| Largest diff. peak and hole     | 0.243 and –0.455 eÅ–3                                     |
+| CCDC reference number           | 1405911                                                   |
+
+**\*CheckCIF/PLATON information:** From checkCIF/PLATON report, any levels A, B, and C alerts were not suggested.
+
+![](_page_7_Figure_2.jpeg)
+
+**Supplementary Figure 4** | **EtOH sorption isotherm of bulk-1 at 298 K.** As clearly observed, **bulk-1** shows no EtOH uptake. Inset shows synchrotron XRPD profiles (λ = 1.550 Å) of as synthesized **bulk-1** (blue) and **bulk-1** under saturated vapour of EtOH (red).
+
+![](_page_7_Figure_4.jpeg)
+
+**Supplementary Figure 5** | **Adsorption isotherms of bulk-1 for several solvent vapours at 298 K.** As clearly seen, **bulk-1** shows no significant guest uptake.
+
+![](_page_8_Figure_2.jpeg)
+
+**Supplementary Figure 6** | **Adsorption isotherms of bulk-1 for N2 (77 K, circles) and CO2 (195 K, triangles).**
+
+![](_page_9_Figure_2.jpeg)
+
+**Supplementary Figure 7** | **LbL thin-film growth monitored by IRRAS at rt.** (Inset) Dependence of the maximum absorbance of the ν(CN) mode on the number of cycles. The red dotted line is a visual guide.
+
+![](_page_9_Figure_4.jpeg)
+
+**Supplementary Figure 8 | IR spectra of bulk-1 (blue) and film-1-30L (red) at rt.**
+
+![](_page_10_Figure_2.jpeg)
+
+**Supplementary Figure 9** | **Thermal stability of film-1-30L. a, b,** Out-of-plane XRD profiles of **film-1-30L** in 020 (**a**) and 040 (**b**) region. Decomposition of the thin film occurred at approximately 423 K. The decomposition temperature of the thin film is lower than that of **bulk-1** (see Supplementary Fig. S10).
+
+![](_page_10_Figure_4.jpeg)
+
+**Supplementary Figure 10** | **Thermal stability of bulk-1.** Based on the TG measurement, decomposition of **bulk-1** occurred at approximately 470 K.
+
+![](_page_11_Figure_2.jpeg)
+
+**Supplementary Figure 11 | Raman spectra of bulk-1 (blue) and film-1-30L (red) at rt.**
+
+![](_page_11_Figure_4.jpeg)
+
+**Supplementary Figure 12 | XPS spectra of Au substrate (blue) and film-1-30L (red) at rt.** The peak assignments are also shown.
+
+![](_page_12_Figure_2.jpeg)
+
+![](_page_12_Figure_3.jpeg)
+
+![](_page_13_Figure_2.jpeg)
+
+**Supplementary Figure 14 | AFM observation of film-1-30L at rt. a**, **b**, 2-D images of height mode (**a**) and amplitude mode (**b**). **c**, Line profile of height image. The profile was recorded along the white line shown in panel **d**. The average thickness calculated from the out-of-plane XRD using Scherrer's equation (approximately 16 nm) is consistent with this observation. On the other hand, the crystal domain size of this film estimated from the in-plane XRD using Scherrer's equation was approximately 22 nm. From AFM image, several domains (islands) could be observed of this thin film. Some large domains had a side of 70 – 100 nm, while other small domains had a side of less than 30 nm. Therefore, because of the large size dispersion of the domains, the crystal domain size would be estimated as a small value in the X-ray observation.
+
+![](_page_14_Figure_2.jpeg)
+
+**Supplementary Figure 15 | In-plane XRD profile fitting of film-1-30L under EtOH vapour (***P***/***P***<sup>0</sup> = 0.93,** λ **= 1.550 Å).** The blue circles, red lines, green lines and black crosses denote the experimental data, fitting results, simulated patterns, and Bragg peaks, respectively. (orthorhombic, *C*mmm, *a* = 7.304(3), *c* = 7.377(4) Å). As clearly seen, no significant change was observed in in-plane diffraction pattern showing anisotropic structural change of **film-1-30L** under EtOH vapour.
+
+### **DOI: 10.1038/NCHEM.2469** SUPPLEMENTARY INFORMATION
+
+![](_page_15_Figure_2.jpeg)
+
+**Supplementary Figure 16 | Observations of XRD profile (**λ **= 1.550 Å) under different molecular species (part I). a**, **b**, **c**, *In situ* out-of-plane XRD profiles (020 (left panels) and 040 (right panels) regions) of **film-1-30L** with varying *P*/*P*<sup>0</sup> of water (**a**), MeOH (**b**), and MeCN (**c**) vapours. For relatively small guest molecules, the reversible peak shifts were also observed.
+
+![](_page_16_Figure_2.jpeg)
+
+**Supplementary Figure 17 | Observations of XRD profile (**λ **= 1.550 Å) under different molecular species (part II). a, b, c, d,** *In situ* out-of-plane XRD profiles (020 region) of **film-1-30L** with varying *P*/*P*<sup>0</sup> of benzene (**a**), dimethyl sulfoxide (DMSO) (**b**), chloroform (**c**), and 2-propanol (**d**) vapours. For relatively large guest molecules, no significant change in the XRD profile was observed.
+
+![](_page_17_Figure_2.jpeg)
+
+**Supplementary Figure 18 | Sorption isotherms for EtOH (circles), MeCN (triangles) and benzene (squares) of film-1-30L obtained from QCM measurements at 298 K.** For EtOH and MeCN, clear uptakes were observed. Although clear structural transformations with hysteresis are observed in *in situ* XRD measurements, their adsorption behaviours with slight hysteresis are not so clear compared with ideal gate-opening-type adsorption behaviour. This would be due to the difference in the substrates. For QCM measurements, thin film samples fabricated on commercially available Au electrode on a quartz tip without any annealing procedures were used. Because of the setup limitation for QCM equipment, Au on QCM tip has relatively rough surface compared with the Au/Cr/Si substrate for XRD measurements. Supplementary Figs. S19 and S20 show out-of-plane and in-plane XRD diffraction profiles of **film-1-30L** fabricated on QCM tip. For out-of-plane geometry, clear 020 and 040 diffraction peaks of **1** were observed, whereas any diffraction peaks were not detected in in-plane geometry. This means that average crystal domain size along in-plane (parallel to the QCM tip) direction is too small to be detected, or thin film does not have clear periodic order along in-plane direction, which are derived from the rough surface nature of Au on QCM tip. Therefore, it is suggested that the sorption isotherms obtained from QCM observe the summation of the guest uptakes of the thin film with a variety of domain sizes, resulting in the ambiguous sorption behaviour with slight hysteresis.
+
+![](_page_18_Figure_2.jpeg)
+
+**Supplementary Figure 19 | Out-of-plane XRD profile (Cu K**α**, rt) of film-1-30L fabricated on a QCM tip for sorption experiments.**
+
+![](_page_18_Figure_4.jpeg)
+
+**Supplementary Figure 20 | In-plane XRD profile (Cu K**α**, rt) of film-1-30L fabricated on a QCM tip for sorption experiments.**
+
+![](_page_19_Figure_2.jpeg)
+
+**Supplementary Figure 21 | XRPD patterns of nanocrystal-1 (red), as synthesized bulk-1 (blue) and simulation of bulk-1 (green).** XRPD patterns were collected using Bruker D8 ADVANCE X-ray diffractometer with Cu Kα radiation at rt. For comparison, crystal downsizing effect of bulk sample was also investigated. Nanocrystal sample was prepared by mechanical grinding of as-synthesized **bulk-1** using mortar for 30 min. As clearly seen, clear broadening of diffraction pattern was observed. Crystal sizes estimated from Scherrer's equation were 8.9 nm (**nanocrystal-1**) and 135 nm (as synthesized **bulk-1**), respectively.
+
+![](_page_20_Figure_2.jpeg)
+
+**Supplementary Figure 22 | Comparison of EtOH adsorption isotherms between nanocrystal-1 (red) and as synthesized bulk-1 (blue) at 298 K.** Although **bulk-1** showed no EtOH uptake, **nanocrystal-1** obtained from mechanical grinding showed clear EtOH sorption behaviour.
+
+![](_page_21_Figure_2.jpeg)
+
+**Supplementary Figure 23 | Structural transformation of film-1-30L under MeCN vapour.**  Relative lattice constant (*b*/*b*0) calculated from 020 and 040 diffraction peak positions in *in situ* out-of-plane XRD. For comparison, the data under EtOH vapour is also shown. The error bars denote ± s.d. As clearly observed, the variation of the interlayer spacing was relatively small when MeCN vapour was introduced. Most likely, this result is due to the difference in the molecular shape of the adsorbate because the EtOH molecule is slightly bulky compared with MeCN molecule with its straight molecular shape (see Supplementary Figs. S25 and S26).
+
+## **DOI: 10.1038/NCHEM.2469** SUPPLEMENTARY INFORMATION
+
+![](_page_22_Figure_3.jpeg)
+
+**Supplementary Figure 24 | Capsule-shaped pores formed inside bulk-1 crystal. a**, **b**, Projection of porous structure of **bulk-1** viewed along *a*-axis (**a**) and *c*-axis (**b**). C = grey, N = blue, H = pink, Fe = red, Pt = orange. In each panel, the structure is shown as stick model with superimposed solvent accessible surface (yellow part, probe radius: 1.4 Å, drawn by Discovery Studio Visualizer 4.057). In the crystal of **bulk-1**, a capsule-shaped pore with the dimensions of 2.9 × 3.0 × 5.2 Å<sup>3</sup> is formed between the 2-D layers. The total solvent accessible void volume of **1** determined by PLATON<sup>58</sup> is 10.4% (88.4 Å<sup>3</sup> ) per unit cell volume.
+
+# **DOI: 10.1038/NCHEM.2469** SUPPLEMENTARY INFORMATION
+
+![](_page_23_Picture_2.jpeg)
+
+**Supplementary Figure 25 | Optimised model structure (MM+) of ideally EtOH adsorbed framework.** The guest EtOH molecules are shown as stick with superimposed CPK model.
+
+![](_page_23_Picture_4.jpeg)
+
+**Supplementary Figure 26 | Optimised model structure (MM+) of ideally MeCN adsorbed framework.** The guest MeCN molecules are shown as stick with superimposed CPK model.
+
+![](_page_24_Figure_2.jpeg)
+
+**Supplementary Figure 27 | Out-of-plane XRD profiles (**λ **= 1.550 Å) of film-1-60L (red), film-1-120L (blue), and film-1-150L (green).**
+
+![](_page_24_Figure_4.jpeg)
+
+**Supplementary Figure 28 | In-plane XRD profiles (**λ **= 1.550 Å) of film-1-60L (red), film-1-120L (blue), and film-1-150L (green).**
+
+![](_page_25_Figure_2.jpeg)
+
+**Supplementary Figure 29 | Rocking-curve measurements on film-1-60L, film-1-120L and film-1-150L.** The blue circles in each panel and the red and green lines in each panel denote the experimental data, fitting result, and background subtracted fitting diffraction patterns, respectively. The inset figures in each panel show the experimental geometry. The average tilting angle estimated from fitting analysis is almost constant (approximately 6°), slightly increasing from that of **film-1-30L** (4.5°), while experimental rocking curve profile becomes vaguer with increasing the number of LbL cycle. This would be due to large size and tilting angle dispersion by addition of more layers.
+
+![](_page_26_Figure_2.jpeg)
+
+**Supplementary Figure 30 | AFM observation of film-1-60L (red) at rt. a**, **b**, 2-D images of height mode (**a**) and amplitude mode (**b**). **c**, Line profile of height image. The profile was recorded along the white line shown in panel **d**. For film-1-60L, clear AFM image was collected, where thickness and the domain (island) size are remarkably increased compared with those of **film-1-30L** (Supplementary Fig. S14). Estimated domain sizes from AFM image are as follows: 50 – 75 nm (thickness) and > 120 nm (side).
+
+![](_page_27_Figure_2.jpeg)
+
+**Supplementary Figure 31 | AFM observation of film-1-90L at rt. a**, **b**, 2-D images of height mode (**a**) and amplitude mode (**b**). **c**, Line profile of height image. The profile was recorded along the white line shown in panel **d**. For **film-1-120L** and **film-1-150L**, AFM observations were not possible because of experimental difficulty derived from the large thickness and softness of MOF film. Therefore, for comparison, we fabricated similar thin film using 90 LbL cycles (**film-1-90L**) only for this AFM observation. As clearly observed, thickness and the domain (island) size are increased compared with those of **film-1-60L**. From the AFM observations of **film-1-60L** and **-90L**, the island size along the parallel direction relative to the substrate seems to become larger and interfaces among adjacent domains seem to become more unclear with increasing the LbL cycle. Although the calculated domain (island) size from in-plane XRD is almost constant (~ 22 nm), island morphology and surface structure are clearly changed via increase in the LbL cycle. Estimated domain sizes from AFM image are as follows: 100 – 130 nm (thickness) and > 150 nm (side).
+
+![](_page_28_Figure_2.jpeg)
+
+**Supplementary Figure 32 | LbL cycle dependency of the 020 diffraction peak (**λ **= 1.550** 
+
+**Å).** As clearly observed, 020 peak width decreased remarkably with increasing LbL cycles.
+
+![](_page_28_Figure_5.jpeg)
+
+**Supplementary Figure 33 | LbL cycle dependency of the domain size.** *D*OP and *D*IP denote the domain sizes along the out-of-plane (i.e., average thickness) and in-plane directions, respectively. These values were calculated from the XRD profiles using Scherrer's equation.
+
+![](_page_29_Figure_2.jpeg)
+
+**Supplementary Figure 34 | Realization of the dynamical structural transformation induced by thickness downsizing.** Relative lattice constant (*b*/*b*0) calculated from 020 and 040 diffraction peak positions in *in situ* out-of-plane XRD measurements on each thin films. The error bars denote ± s.d. As clearly seen, the structural transformation triggered by EtOH introduction is suppressed remarkably with increasing film thickness, which shows clear thickness downsizing effect of this thin film.
+
+### **3. Supplementary Notes**
+
+#### **References**
+
+51. Burla, M. C. *et al.* SIR2004: an improved tool for crystal structure determination and refinement. *J. App. Cryst.* **38,** 381–388 (2005).
+
+52. Sheldrick, G. M. A short history of SHELX. *Acta Cryst. A* **64,** 112–122 (2008).
+
+53. CrystalStructure 3.8.0: Crystal Structure Analysis Package, Rigaku and Rigaku/MSC (2000–2006).
+
+54. Bruker AXS, *TOPAS V3*: General profile and structure analysis software for powder diffraction data, Bruker AXS, Karlsruhe, Germany (2005).
+
+55. Macrae, C. F. *et al.* Mercury: visualization and analysis of crystal structures. *J. App. Cryst.* **39,** 453–457 (2006).
+
+56. Allinger, N.L., Conformational analysis. 130. MM2. A hydrocarbon force field utilizing V1 and V2 torsional terms. *J. Am. Chem. Soc.* **99,** 8127–8134, (1977).
+
+57. Discovery Studio Visualizer, v.4.0.1: Accelrys Software Inc., (2005–2013).
+
+58. Spek, A. L. PLATON, a multipurpose crystallographic tool; Utrecht University: Utrecht, The Netherlands, (2001).
+
+根据提供的文献内容，生成实验流程复现文献实验

@@ -1,0 +1,925 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+[pubs.acs.org/JACS](pubs.acs.org/JACS?ref=pdf) Article
+
+### **Molecular Engineering of a Conductive Metal**−**Organic Framework for Ultrasensitive, Rapid, Selective, and Reversible Sensing of Nitric Oxide**
+
+[Joseph](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Joseph+Y.+M.+Chan"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Y. M. Chan, Elissa O. [Shehayeb,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Elissa+O.+Shehayeb"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) Doran L. [Pennington,](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Doran+L.+Pennington"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) [Christopher](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Christopher+H.+Hendon"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) H. Hendon,[\\*](#page-6-0) and [Katherine](https://pubs.acs.org/action/doSearch?field1=Contrib&text1="Katherine+A.+Mirica"&field2=AllField&text2=&publication=&accessType=allContent&Earliest=&ref=pdf) A. Mirica[\\*](#page-6-0)
+
+![](_page_0_Figure_6.jpeg)
+
+monitoring, industrial safety, and medical diagnostics. While tremendous progress has been made in detecting NO, existing technologies exhibit significant trade-offs in sensitivity, selectivity, portability, and power requirements for broad implementation. This paper presents the first synthesis of a novel class of two-dimensional conductive tetrapyrazinoporphyrazine-based metal−organic frameworks (MOFs) interconnected with Cu (DC-100 and DC-102) and Zn ions (DC-101) with unprecedented chemiresistive performance toward NO detection. DC-100 achieves an ultralow detection limit (0.47 parts-per-trillion (ppt)), rapid response (within seconds), high selectivity of NO over H2S, SO2, CO, NH3, and NO2, excellent reversibility, operation at room temper-
+
+![](_page_0_Figure_8.jpeg)
+
+ature, and low power requirements. The novel structural features and material−analyte interactions of DC-100 with NO represent a significant conceptual advance in molecular engineering of materials for NO detection, with potential applications in environmental monitoring, industrial safety, and medical diagnostics.
+
+# ■ **INTRODUCTION**
+
+Molecular engineering of novel electrically conductive metal− organic framework (cMOF) materials drives progress in advancing the fields of spintronics,[1](#page-6-0) electrocatalysis,[2](#page-6-0) energy storage,[3](#page-6-0) and electronics[4](#page-6-0) as well as electronically transduced chemical sensing[.5](#page-6-0) Despite tremendous advances in creating highly modular chemical structures through judicious selection of metal nodes and organic linkers, strategic tuning of properties of these materials toward desired applications has remained an unresolved challenge. In part, this challenge arises due to limited chemical diversity of cMOFs, which is primarily restricted by the synthetic accessibility of organic linkers that has, with few exceptions, remained highly reliant on prototypical functionalized benzene,[6](#page-6-0) triphenylene,[7](#page-7-0) and metallophthalocyanine-based molecular building blocks.[8](#page-7-0) As such, enhancing the functional performance of cMOFs in devices requires fundamental advances in molecular design that enable strategic tuning of material properties through molecularly precise synthetic approaches.
+
+Although advancing molecular engineering of cMOFs has a high potential impact in multiple aforementioned fields, this activity is particularly well suited to offer transformative function in the realm of electrically transduced chemical sensing of toxic gases, such as NO, with significant importance in environmental monitoring,[9](#page-7-0) industrial safety,[10](#page-7-0) and medical diagnostics.[11](#page-7-0) As a small and highly reactive gas, NO constitutes an important indicator of air quality and environmental pollutio[n12](#page-7-0) while also playing a critical role as a signaling molecule in biological systems with implications in vasodilation,[13](#page-7-0) neurotransmissions[,14](#page-7-0) and immune response.[15](#page-7-0) While the development of portable, selective, sensitive, reversible, and low power sensors for NO has the potential to offer transformative solutions for remediation of atmospheric pollution, ensuring personal and industrial safety, as well as noninvasive monitoring of diseases, such as asthma, cardiovascular disease, and inflammatory disorders,[16](#page-7-0),[17](#page-7-0) progress in this field is limited by the available NO sensing technologies that possess significant trade-offs in sensor capabilities. Traditional methods for NO detection include infrared spectroscopy,[18](#page-7-0) gas chromatography,[19](#page-7-0) and chemilu-
+
+| Received: | April 29, 2025 |
+|-----------|----------------|
+| Revised:  | July 17, 2025  |
+| Accepted: | July 21, 2025  |
+
+![](_page_0_Picture_16.jpeg)
+
+minescence.[20](#page-7-0) These conventional analytical techniques require bulky and costly instrumentation, high power, and trained technicians to operate, which make them unsuitable for portable NO detection. In turn, recent advancements in materials chemistry have played a significant role in enabling portable detection of NO. The use of nanomaterials, such as metal oxide semiconductors[,21](#page-7-0) zeolites,[22](#page-7-0) conjugated polymers,[23](#page-7-0) carbon nanotubes,[24](#page-7-0) graphenes,[25](#page-7-0) metal dichalcogenides[,26](#page-7-0) covalent organic frameworks[,27](#page-7-0) and cMOFs[28](#page-7-0) has achieved impressive gains in NO detection, such as high sensitivity in a portable sensing format. Despite these achievements, many of the reported sensing systems suffer from trade-offs related to synthetic accessibility, requirements for postsynthetic modification, cross-reactivity, limited chemical stability, lack of reversibility, or high-temperature operation.[29](#page-7-0) Moreover, from a molecular design perspective, the combined features of ultrasensitive, selective, reversible, and low power detection have proven extremely challenging to achieve,[30](#page-7-0) because they require access to disparate material properties of strong and selective material−analyte interactions that are prone to be highly labile to ensure reversibility. Thus, despite the significant gains in sensitive and selective detection of NO, developing fundamental molecular design criteria that can ensure ultrasensitive detection of NO with high reversibility, long-term stability, and low power detection, while minimizing interference from other gases, remains a major unresolved challenge.
+
+This paper describes the synthesis of a novel class of twodimensional, intrinsically cMOFs through the coordination of nickel(II) octahydroxytetrapyrazinoporphyrazine (NiTPz- (OH)8) with copper ions (DC-100) and zinc ions (DC-101), as well as the coordination of the metal-free ligand octahydroxytetrapyrazinoporphyrazine (H2TPz-(OH)8) with copper ions (DC-102). The molecular design of these cMOFs is based on a novel metallotetrapyrazinoporphyrazine (MTPz) ligand,[31](#page-7-0) an analog of metallophthalocyanine (MPc), where the *α*-position carbon atoms are replaced with nitrogen. This substitution offers two strategic advantages for designing a highly reversible and sensitive sensor: (1) the replacement of *α*-position carbon atoms with electronegative nitrogen in NiTPz increases its oxidation potential by lowering the energy of its highest occupied molecular orbital (HOMO);[32](#page-7-0) and (2) a monomer building block that in our preliminary studies showed strong sensitivity and reversibility toward chemiresistive NO detection ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S26d), compared to MPc analog ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S26e). By leveraging the high porosity and conductivity of cMOFs, we reasoned that incorporating the NiTPz building block into a 2D cMOF would enhance NO detection by achieving fast response times, improved sensitivity, and reversibility at low driving voltages. To understand the structure−property relationships in material− analyte interactions, we systematically compared DC-100 with control materials DC-101 and DC-102 to investigate how variations in the bridging ion and complex metal center influence MOF interactions with NO.
+
+DC-100 exhibits good conductivity (3 × 10<sup>−</sup><sup>6</sup> S cm<sup>−</sup><sup>1</sup> ), a large surface area (396 m2 g<sup>−</sup><sup>1</sup> ), low dimensionality, and ordered presentation of binding sites to the gases. This material enables four major innovations in chemical sensing: (1) ultrasensitive NO detection, with a theoretical limit of 0.47 parts-per-trillion (ppt) within 5 min of gas exposure and an initial response rate surpassing 100,000% per minute at 1 ppm of NO, both the highest among all chemiresistive NO sensors made from metal oxides,[21](#page-7-0) dichalcogenides[,26](#page-7-0) nanocomposites,[33](#page-7-0) and cMOFs;[34,35](#page-7-0) (2) short saturation time (<5 min) and a broad dynamic range at low ppb levels (10−1000 ppb), uncommon in previously reported NO gas sensors ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) [S10\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf);[34](#page-7-0)<sup>−</sup>[50](#page-8-0) (3) exceptional selectivity, with distinct resistance changes for reducing and oxidizing gases and a 250-fold stronger response to NO over NO2 within 5 min at 1 ppm; and (4) unparalleled reversibility and reusability for NO detection at room temperature compared to most of the NO gas sensors ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S10).[34](#page-7-0)−[50](#page-8-0) These achievements showcase the tremendous power of molecular engineering through precise selection of molecular building blocks to obtain cMOFs with tailored function, which, when combined with the rapid and lower power detection, make DC-100 a promising material for versatile applications of continuous monitoring of NO. Building on former reports on reversible NO sensing, this work introduces a conceptually novel design strategy based on a previously unreported, oxidation-resistant monomer that enables exceptional reversibility and reusability without requiring high crystallinity. The dual-active-site ligand allows tunable structure−property relationships, as demonstrated through control analogs (DC-101 and DC-102). Compared with state-of-the-art materials, DC-100 exhibits unmatched sensitivity, selectivity, and response time, establishing it as a new benchmark in chemiresistive NO sensing.
+
+# ■ **RESULTS AND DISCUSSION**
+
+**MOF Synthesis and Characterization.** We synthesized DC-100 using NiTPz-(OH)8, which is prepared in six steps from 4,5-dimethoxybenzene-1,2-diamine ([Scheme](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S1). Optimization studies (see the Supporting [Information](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf), Section 2.2) indicated that a low concentration of NiTPz-(OH)8 and excess ethylenediamine (EDA), which slows down the nucleation process,[51](#page-8-0) were essential for crystallinity. A reaction mixture of NiTPz-(OH)8 (0.44 mM), Cu(NO3)2 (2.1 equiv), and EDA (1600 equiv) in anhydrous dimethyl sulfoxide (DMSO) at 85 °C for 2 days yielded the desired crystalline product. Similarly, we synthesized DC-101 and DC-102 by reacting NiTPz- (OH)8 with Zn(NO3)2 and H2TPz-(OH)8 with Cu(NO3)2, respectively. The MOF preparation followed a procedure similar to that of DC-100, as described in the [Supporting](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) [Information](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf), Section 2.3.
+
+Powder X-ray diffraction (PXRD) analysis suggested the 2D framework structures of DC-100, DC-101, and DC-102 with peaks at 2*θ* = 3.9, 5.6, 7.8, and 27.5° [\(Figure](#page-2-0) 1b), matching the (100), (110), (200), and (001) facets, respectively. These results aligned with simulations based on the *P*4/*mmm* space group assuming AA-stacked NiTPz subunits. Scanning electron microscopy (SEM) revealed nanoscale cubic crystallites of DC-100 [\(Figure](#page-2-0) 1d), DC-101 [\(Figure](#page-2-0) 1e), and DC-102 [\(Figure](#page-2-0) [1](#page-2-0)f). High-resolution transmission electron microscopy (HR-TEM) visualized 2.2−2.3 nm square pores in all three MOFs ([Figure](#page-2-0) 1d−f), with corresponding fast Fourier transform (FFT) patterns shown in [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S18g, confirming MOF formation.
+
+The chemical composition of DC-100, DC-101, and DC-102 was analyzed using combustion analysis, inductively coupled plasma mass spectrometry (ICP-MS) (see the Supporting [Information,](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) Section 6), and thermogravimetric analysis (TGA) (see the Supporting [Information,](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) Section 8). The results indicated the presence of EDA and water within the crystal lattice of all of the MOFs. The presence of EDA is likely due to the chelating interaction of EDA with the bridging
+
+<span id="page-2-0"></span>![](_page_2_Figure_1.jpeg)
+
+Figure 1. (a) Preparation of DC-100, DC-101, and DC-102. The product shows the simulated top and side views of eclipsed stacking MOF. (b) Experimental and simulated PXRD patterns for DC-100, DC-101, and DC-102. (c) Simulated top and side views of the staggered stacking MOF. SEM (top) and TEM (bottom) images for (d) DC-100, (e) DC-101, and (f) DC-102.
+
+ions[,13](#page-7-0) while the water content is attributed to the hydrophilic nature of the MOF pores, which absorb moisture from the atmosphere. X-ray photoelectron spectroscopy (XPS) of DC-100 (see the Supporting [Information](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf), Section 5) identified C, O, N, Ni, and Cu, with the Ni 2p-to-Cu 2p peak area ratio aligning with theoretical expectations (1:2). The Cu 2p3/2 peak revealed partial reduction of Cu(II) (934.0 eV) to Cu(I) (932.5 eV)[52](#page-8-0) in a 4:6 ratio. The presence of C−O and C=O bonds in the O 1s region ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S11b) supported the semiquinone structure of the MOF, and −NH2 groups in the N 1s regio[n53](#page-8-0) ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S11c) suggested the presence of EDA. The XPS spectra of DC-101 [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S12) and DC-102 ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S13) exhibited similar patterns in the O 1s and N 1s regions, demonstrating the chemical similarity among the three MOFs. Electron paramagnetic resonance (EPR) spectroscopy of DC-100 and DC-102 exhibited a broad symmetric line shape attributed to a Cu-centered radical (Figure [S14a,b](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf))[,54](#page-8-0) while the EPR spectrum of DC-101 closely resembled that of its monomer ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S14a). The charge neutrality of the material was confirmed by dye uptake experiments, where neither positively nor negatively charged dyes were absorbed by DC-100 overnight ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S20).
+
+Conductivity measurements of DC-100, DC-101, and DC-102 at ambient conditions using a four-point probe method yielded values of 3 ± 1 × 10<sup>−</sup><sup>6</sup> S cm<sup>−</sup><sup>1</sup> (*n* = 7), 2 ± 1 × 10<sup>−</sup><sup>6</sup> S cm<sup>−</sup><sup>1</sup> (*n* = 7) and 2 ± 1 × 10<sup>−</sup><sup>7</sup> S cm<sup>−</sup><sup>1</sup> (*n* = 7), respectively. These values represent a 2 orders of magnitude improvement over their corresponding monomers: NiTPz-(OH)8: 5 ± 3 × 10<sup>−</sup><sup>8</sup> S cm<sup>−</sup><sup>1</sup> (*n* = 7) and H2TPz-(OH)8: 6 ± 3 × 10<sup>−</sup><sup>9</sup> S cm<sup>−</sup><sup>1</sup> (*n* = 7). Gas adsorption analysis revealed Brunauer−Emmett− Teller (BET) surface areas of 396, 305, and 408 m<sup>2</sup> /g for DC-100, DC-101, and DC-102, respectively [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S9a−c).
+
+**Chemiresistive Response of DC-100 and Its Control Materials.** Each sensing experiment was performed by using at least three devices to ensure reproducibility. Additionally, both the first and second authors independently conducted sensing experiments using different batches of DC-100 to ensure batch-to-batch consistency and minimize human error. To illustrate the chemiresistive gas sensing ability of DC-100 (see the Supporting [Information,](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) Section 12.1, for device fabrication), we tested six analytes: NO, H2S, SO2, CO, NH3, and NO2, which are toxic pollutants or biological signaling molecules.[30](#page-7-0)[,55](#page-8-0),[56](#page-8-0) DC-100 can easily distinguish reducing gases and oxidizing gases, as shown in [Figure](#page-3-0) 2a, with distinct positive percentage changes in the normalized sensing response (see the Supporting [Information,](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) Section 12.2, for the data processing) toward reducing gases (H2S, SO2, CO, and NH3) and negative percentage changes in the normalized sensing response toward oxidizing gases (NO and NO2). Among the tested oxidizing gases, DC-100 exhibited a 250-fold stronger response to NO than to NO2 at 1 ppm over 5 min. This exceptional selectivity for NO over NO2, based on response magnitude, is unprecedented among the reported MOF sensors.[35](#page-7-0),[40,](#page-7-0)[57](#page-8-0)
+
+As shown in [Figure](#page-3-0) 2b, DC-100 demonstrated a rapid response and excellent reversibility. The response to 1 ppm of NO reached saturation within 5 min, a significant improvement over previously reported MPc-based cMOFs (>30 min). The initial response rates of DC-100 over the first minute of exposure at 20−1000 ppb NO ranged from 370 to 102,000% min<sup>−</sup><sup>1</sup> , 370−2600 times faster than prior MPc-based cMOFs[.34](#page-7-0),[35](#page-7-0) To further investigate the kinetics between DC-100 and NO, we plotted the initial response rate over the first minute of exposure against the NO concentration. A linear relationship (*R*<sup>2</sup> = 0.98, [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S30a) suggests a pseudo-firstorder reactio[n58](#page-8-0) with a rate constant of 118 min<sup>−</sup><sup>1</sup> , around 3000 times greater than other MPc-based cMOFs.[34,35](#page-7-0) Through a comparison of saturation time and analysis of initial response rates, DC-100 demonstrates an exceptionally fast response to extremely low concentrations of NO. DC-100 exhibited high sensitivity, detecting 10 ppb NO with a −1500% normalized sensing response change ([Figure](#page-3-0) 2b and [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) [S23g\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf), significantly outperforming all chemiresistive NO sensors ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S10).[34](#page-7-0)−[50,59](#page-8-0)−[70](#page-8-0) The calculated limit of detection ranged from 0.47 to 6.20 ppt for 1−5 min exposures ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S7), among the lowest reported for NO sensors ([Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) [S10\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf).[34](#page-7-0)−[50](#page-8-0),[59](#page-8-0)−[70](#page-8-0) Additionally, DC-100 showed almost full reversibility, recovering 83−96% of its response within 30 min in nitrogen [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S8), a notable improvement over most of the NO gas sensors [\(Table](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S10).[34](#page-7-0)−[50](#page-8-0),[59](#page-8-0)−[70](#page-8-0)
+
+To investigate the role of NiTPz and Cu bridging ions on NO sensitivity, NO sensing experiments were conducted using two isoreticular MOFs, DC-101 and DC-102. DC-101 was used as a control because Zn(II) ions cannot form stable nitrosyl complexes,[71,72](#page-8-0) meaning its electronic signal primarily
+
+<span id="page-3-0"></span>![](_page_3_Figure_2.jpeg)
+
+Figure 2. Mean normalized response (−Δ*G*/*G*0) of DC-100 devices (*n* = 3) to (a) six gaseous analytes at 1 ppm over 5 min (inset: magnified view excluding NO), and (b) NO concentrations from 10 to 1000 ppb. (c) Saturated −Δ*G*/*G*<sup>0</sup> of DC-100, DC-101, and DC-102 to 1 ppm of NO in dry N2. −Δ*G*/*G*<sup>0</sup> of DC-100 to (d) 1 ppm of NO over five exposure−recovery cycles and (e) 1 ppm of NO under different relative humidity levels after 5 min exposure. (f) Time-dependent current (green) and average maximum % change per cycle (red bars) of DC-100 devices during exposure−recovery cycles in 98% RH nitrogen.
+
+arises from the interaction between NiTPz and NO. DC-102 was selected as another control, as the metal-free ligand should not interact strongly with NO, meaning its electronic signal should originate from interactions between Cu bridging ions and NO. As shown in Figure 2c, MOFs with single active sites produced significantly weaker changes in normalized sensing response (DC-100: −184,000%, DC-101: −57,000%, and DC-102: −107,000%). The combined response of the single active site MOFs remained below that of DC-100, showing that embedding dual active sites within a single MOF enables a synergistic effect, significantly enhancing the NO detection sensitivity.
+
+The reusability of DC-100 as an NO sensor was evaluated through a 5-cycle exposure−recovery experiment (5 min exposure and 30 min recovery) (Figure 2d) and a 15-cycle test (5 min exposure and 10 min recovery) [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S27b). In both experiments, the initial responses in the first cycle were comparable (−205,000% in the 5-cycle test vs −201,000% in the 15-cycle test). The maximum responses were observed in the third cycle (−279,000 and −284,000%, respectively), followed by a gradual decline in subsequent cycles. Under the 5-cycle conditions, DC-100 maintained full sensitivity (i.e., maximum −Δ*G*/*G*<sup>0</sup> comparable to the first cycle) throughout all five cycles. In the 15-cycle test with a shortened recovery time, full sensitivity was retained for the first four cycles. Collectively, these results demonstrate the reproducibility and reusability of DC-100 across different sample batches and testing conditions.
+
+The performance of DC-100 under humid conditions is shown in Figure 2e. The sensor response sharply decreased from −183,000 to −7400% as relative humidity (RH) increased from 0 to 15%, then stabilized in the RH range of 40−98% (−120 to −146%). Despite the significant drop, the signal-to-noise ratio of DC-100 remains robust when compared to previously reported NO sensors such as Cu3(HHTP)2 ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S26f) and NiPc−CuMOF ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) [S26g](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf)), both of which exhibited negligible response to 1 ppm of NO under 98% RH in N2. Notably, DC-100 exhibited reversible and consistent responses over eight exposure− recovery cycles under these humid conditions (Figure 2f and [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S27c−e). The average responses over eight cycles remained highly reproducible: RH 40%: −121 ± 7%, RH 70%: −118 ± 7%, and RH 98%: −143 ± 8%. This observation can be interpreted based on the water adsorption isotherm [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) [S9d](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf)), which shows that pore filling begins at approximately 13% RH. Below this threshold, the MOF pores remain accessible to NO, allowing strong interactions with the active sites (bridging ions and the central TPz ion), resulting in high sensitivity. Above 13% RH, water molecules begin to block the pores and compete with NO for binding at the metal sites, sharply reducing the response. At RH above 40%, multilayer water films form on the MOF. In this regime, NO interacts weakly with the MOF surface rather than the metal nodes, resulting in lower but stable and reversible sensing responses.
+
+In addition to humidity, oxygen is another atmospheric component that can influence the sensing performance. Response of DC-100 in air was examined using 1 ppm of NO ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S23h). The maximum normalized response within 5 min in air (−176,000%) was comparable to that in dry nitrogen (−183,000%), but with a significantly faster response time in air. This result indicates that oxygen does not interfere with the NO detection. The long-term stability of DC-100 was further evaluated using a sample stored under ambient conditions for 5 months. When tested with 1 ppm of NO in
+
+![](_page_4_Figure_3.jpeg)
+
+Figure 3. Comparison of the (a) PXRD spectra, (b) EPR spectra, (c) Cu 2p XPS spectra, (d) N 1s XPS spectra, and (e) O 1s XPS spectra of the pristine DC-100 and DC-100 after 2 h exposure to 1 ppm of NO.
+
+nitrogen, the aged sample showed a slightly reduced overall response (−156,000%, ∼85% of the original) but retained the same saturation time (5 min) and recovery rate (96%) as freshly prepared samples ([Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S23i). These findings confirm the excellent long-term stability and reliability of DC-100 for practical sensing applications.
+
+**Spectroscopic Assessment of the Interaction between NO and DC-100 and Its Control Materials.** We employed *ex situ* PXRD, EPR, and XPS spectroscopy to investigate the structural and redox stability of DC-100 in 1 ppm of NO. After exposure to 1 ppm of NO in N2 for 2 h, followed by a 15 min N2 purge, the PXRD spectra remained almost identical to the pristine MOF (Figure 3a), confirming its structural stability. The EPR signal exhibited only a slight 4% increase (Figure 3b), indicating minimal oxidation of Cu(I) to Cu(II). XPS spectroscopy further confirmed the redox stability of DC-100 at 1 ppm of NO exposure: (1) Cu 2p spectra (Figure 3c) showed only 0.2% of Cu(I) ions oxidized to Cu(II) ions, indicating minimal redox changes; (2) N 1s spectra (Figure 3d) showed similar peak areas for the C=N and C=N−Ni regions before and after NO exposure, supporting MOF stability. However, a small new peak (2.4%) appeared at 403.0 eV, corresponding to amine *N*-oxide[,73](#page-8-0) while the −NH2 peak area decreased. These minor changes may be attributed to ethylenediamine oxidation; (3) the O 1s spectra (Figure 3e) indicated minimal MOF oxidation, with only a slight 0.2% decrease in the C−O bond peak area. The peak area at 532.4 eV increased by 1.1%, likely due to the overlap of amine *N*oxide binding energies[73](#page-8-0) with the C=O bond region. Overall, the EPR and XPS results demonstrated the high redox stability of DC-100 after 1 ppm of NO exposure, aligning with the exceptional reversibility and reusability observed in the sensing experiments.
+
+In the diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) experiments, a 1% NO concentration was used to enhance the detection of subtle spectroscopic changes upon NO exposure. Additionally, experiments were conducted at a lower NO concentration (100 ppm) to better simulate the conditions in NO detection. As shown in [Figure](#page-5-0) [4](#page-5-0)a, the spectra obtained from both experiments were largely similar, except for the absence of the NO(g) band at 1900 cm<sup>−</sup><sup>1</sup> in the lower concentration case, likely due to weak signal intensity. The DRIFTS spectra revealed four distinct spectral regions of interest: (1) the metal−heteroatom bond stretching region (<800 cm<sup>−</sup><sup>1</sup> ), (2) the aromatic ring vibration and C−O bond stretching regions (800−1600 cm<sup>−</sup><sup>1</sup> ), (3) the N−O bond stretching region of the metal nitrosyl complex (M···N−O) and the C=O bond stretching region (1600−2000 cm<sup>−</sup><sup>1</sup> ), and (4) the broad electronic absorbance (BEA) region (>2000 cm<sup>−</sup><sup>1</sup> ).
+
+The BEA region is associated with changes in the conduction band electron population and charge-transfer reactions.[74](#page-8-0) Upon exposure to 1% NO, an increase in BEA intensity was observed within the first minute [\(Figure](#page-5-0) 4a), followed by a gradual decrease to its original absorbance level after 10 min. This pattern mirrors the response decay observed in the consecutive exposure−recovery sensing experiments ([Figure](#page-3-0) 2d). During the second through fifth cycles, the normalized response decayed after reaching its peak during NO exposure. The response decay during exposure typically indicates secondary interactions between the material and NO after saturation.[43](#page-7-0),[57](#page-8-0),[75](#page-8-0) The combined results from DRIFTS and sensing experiments suggest that the electronic properties of DC-100 may recover through secondary interactions with NO. A similar pattern was observed with 100 ppm of NO exposure. However, while the BEA region initially increased, it
+
+<span id="page-5-0"></span>![](_page_5_Figure_2.jpeg)
+
+Figure 4. (a) DRIFTS difference spectra of DC-100 after continuous exposure to 100 ppm of NO for 15 min (red lines) and 1% NO for 10 min (blue lines). (b) Fourier transform infrared (FT-IR) spectrum of DC-100 (green lines), magnified DRIFTS difference spectra of the aromatic and metal−ligand regions (500−1300 cm<sup>−</sup><sup>1</sup> ). (c) DRIFTS difference spectra of DC-100, DC-101, NiTPz-(OH)8, and DC-102 after continuous exposure to 1% NO (balance N2) for 10 min.
+
+did not fully return to its original absorbance after 15 min (Figure 4a). When NO was replaced with N2, the BEA intensity continued to decrease over time [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S34d). In the aromatic and metal−ligand regions (Figure 4b), spectral shifts to higher wavenumbers were observed at 1206 cm<sup>−</sup><sup>1</sup> (C−O stretching)[,76](#page-8-0) 892 cm<sup>−</sup><sup>1</sup> (aromatic C−H bending),[76](#page-8-0) and 555 cm<sup>−</sup><sup>1</sup> (Cu−O stretching),[77](#page-8-0) showing a change of the chemical environment upon NO interaction with DC-100.
+
+In the M···N−O and C=O stretching regions (Figure 4c], the DC-100 spectrum exhibited a broad absorption feature between 1666 and 1748 cm<sup>−</sup><sup>1</sup> . To clarify the nature of this band, we examined structural analogs DC-101, DC-102, and NiTPz-(OH)8. A distinct peak at 1694 cm<sup>−</sup><sup>1</sup> was observed in the spectra of DC-100 (NiTPz-CuMOF), DC-101 (NiTPz-ZnMOF), and NiTPz-(OH)8, but it was absent in DC-102 (H2TPz-CuMOF). Since the former three materials contain Ni, the peak at 1694 cm<sup>−</sup><sup>1</sup> is likely associated with the Ni···N− O interaction. However, in typical octahedral or square pyramidal Ni(II) nitrosyl complexes, the N−O stretching frequency is generally observed near the NO(g) frequency (1850−1920 cm<sup>−</sup><sup>1</sup> ), making it indistinguishable from free NO(g). [78,79](#page-8-0) If the Ni(II) ion partially distorts from the TPz ligand cavity, forming a 3-coordinated (1570−1820 cm<sup>−</sup><sup>1</sup> ) [80](#page-8-0) or 4-coordinated (1690−1780 cm<sup>−</sup><sup>1</sup> ) [81,82](#page-8-0) nitrosyl complex, it could potentially exhibit an N−O stretching signal at 1694 cm<sup>−</sup><sup>1</sup> . Additionally, a weak band at 1717 cm<sup>−</sup><sup>1</sup> was detected in DC-100 and DC-102 but was absent in DC-101 and NiTPz- (OH)8, suggesting an association with Cu···N−O interactions in Cu-containing materials DC-100 and DC-102. The Cu(II)···N−O species typically exhibit sharp peaks in the 1855−1920 cm<sup>−</sup><sup>1</sup> range[,83](#page-9-0) while Cu(I)···N−O complexes tend to form weak peaks around 1730 cm<sup>−</sup><sup>1</sup> . [84](#page-9-0),[85](#page-9-0) Based on the peak position and intensity, the 1717 cm<sup>−</sup><sup>1</sup> peak is more likely to correspond to a Cu(I)···N−O interaction. These findings suggest that the broad absorption band in DC-100 comprises two distinct and independent contributions, a sharp peak at 1694 cm<sup>−</sup><sup>1</sup> (purple dotted line) and a weaker peak at 1717 cm<sup>−</sup><sup>1</sup> (orange dotted line). We employed DFT calculations to probe potential material−analyte interactions responsible for the highly sensitive and reversible detection of NO.
+
+**Computational Investigation of NO Binding in DC-100 and Its Structural Analogs.** To inspect the mechanism of sensing in DC-100 and its structural analogs, density functional theory simulations using the PBEsol functional were employed to probe the thermodynamics of binding between the MOF sensors and NO. After structural optimization, NO was initialized at different sites on the framework and further relaxed; upon binding, the NO vibrational frequency was computed using the finite differences method. In DC-100, NO binding at both Ni and Cu was observed. The Ni···NO bond was slightly endothermic (*E*ads = +360 meV) and gave an NO stretching mode of 1834 cm<sup>−</sup><sup>1</sup> , close to free NO. At bridging metal sites in the framework (Cu for DC-100 and DC-102 and Zn for DC-101), NO desorbed. However, these bridging metals are all nominally in the +2 oxidation state. To model the majority population of Cu(I) by XPS, as well as the incorporation of EDA suggested by XPS and ICP-MS, a ribbon model of DC-100 was constructed, which contained Cu(I) edge sites coordinated by EDA [\(Figure](#page-6-0) 5). At these Cu(I) edge sites, a slightly exothermic Cu···NO bond formed (*E*ads = −308 meV) with an NO stretching mode of 1685 cm<sup>−</sup><sup>1</sup> , in excellent agreement with the experimental DRIFTS spectra. NO binding at these isolated Cu(I) edge sites adds a new manifold of conduction band states associated with N−O *ϖ*\* orbitals, but the bulk transport properties of the material remain unperturbed [\(Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S38). Additional molecular models were developed to search for similar vibrational features in nonperiodic examples, but only EDA-coordinated Cu(I) yielded the appropriate match to the experiment (see the
+
+<span id="page-6-0"></span>![](_page_6_Figure_3.jpeg)
+
+Figure 5. Periodic ribbon model of DC-100, showing Cu(I) edge sites coordinated by EDA that bind NO in a square pyramidal configuration with the Cu−N distance labeled. The simulated NO vibrational frequency of 1685 cm<sup>−</sup><sup>1</sup> is in close agreement with the experimental DRIFTS spectrum.
+
+Supporting [Information](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf), Section 15, [Figure](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf) S39). This analysis suggests that NO adsorption at the EDA-coordinated edge sites contributes to the sensing performance for this group of materials.
+
+# ■ **CONCLUSIONS AND OUTLOOK**
+
+In conclusion, this study presents the synthesis and characterization of DC-100, DC-101, and DC-102, a novel class of 2D cMOFs. Among them, DC-100 demonstrates remarkable NO sensitivity, with a detection limit as low as 0.47 ppt within 5 min and rapid response rates exceeding 100,000% per minute at 1 ppm of NO. It shows high selectivity for NO over other reactive gases (e.g., H2S, SO2, CO, NH3, and NO2). Notably, DC-100 offers outstanding reversibility and reusability, maintaining sensitivity across multiple cycles and stable performance in low humidity conditions, promising for realtime and continuous monitoring. Furthermore, PXRD analysis confirms the structural stability of DC-100, while XPS and EPR results demonstrate its redox stability, supporting its durability in NO detection. DRIFTS analysis, supported by DFT calculations, suggests that Cu(I)···NO interactions play a crucial role in MOF···NO interactions. This work demonstrates the importance of molecular engineering of linkers in tuning structure−function relationships of MOFs. This approach provides a distinct molecular design strategy for creating materials with tailored sensing functions, merging high sensitivity and reversibility. While DC-100 is highly promising for sensing applications, practical deployment will require addressing challenges such as synthetic complexity, potential environmental interferences, and device fragility. However, only microgram-scale quantities are needed per device, making the material feasible for integration. In addition, sensor arrays based on structurally tunable TPz-based analogs can mitigate cross-reactivity in complex gas mixtures. Together, these insights highlight the high potential utility of DC-100 in continuous and distributed NO monitoring systems.
+
+# ■ **ASSOCIATED CONTENT**
+
+### \***sı Supporting Information**
+
+The Supporting Information is available free of charge at [https://pubs.acs.org/doi/10.1021/jacs.5c07229.](https://pubs.acs.org/doi/10.1021/jacs.5c07229?goto=supporting-info)
+
+Details for synthetic conditions, PXRD test, SEM and TEM characterizations, XPS, FT-IR spectroscopy, dye adsorption experiments, BET analysis, TGA, EPR, conductivity measurement, sensing experiments, elemental analysis, DRIFTS experiments, and computational studies [\(PDF\)](https://pubs.acs.org/doi/suppl/10.1021/jacs.5c07229/suppl_file/ja5c07229_si_001.pdf)
+
+# ■ **AUTHOR INFORMATION**
+
+### **Corresponding Authors**
+
+Christopher H. Hendon − *Department of Chemistry and Biochemistry, University of Oregon, Eugene, Oregon 97403, United States;* [orcid.org/0000-0002-7132-768X;](https://orcid.org/0000-0002-7132-768X) Email: [Chendon@uoregon.edu](mailto:Chendon@uoregon.edu)
+
+Katherine A. Mirica − *Department of Chemistry, Burke Laboratory, Dartmouth College, Hanover, New Hampshire 03755, United States;* [orcid.org/0000-0002-1779-7568](https://orcid.org/0000-0002-1779-7568); Email: [Katherine.A.Mirica@dartmouth.edu](mailto:Katherine.A.Mirica@dartmouth.edu)
+
+### **Authors**
+
+Joseph Y. M. Chan − *Department of Chemistry, Burke Laboratory, Dartmouth College, Hanover, New Hampshire 03755, United States;* [orcid.org/0000-0002-6066-9385](https://orcid.org/0000-0002-6066-9385)
+
+Elissa O. Shehayeb − *Department of Chemistry, Burke Laboratory, Dartmouth College, Hanover, New Hampshire 03755, United States;* [orcid.org/0009-0006-6810-617X](https://orcid.org/0009-0006-6810-617X)
+
+Doran L. Pennington − *Department of Chemistry and Biochemistry, University of Oregon, Eugene, Oregon 97403, United States*
+
+Complete contact information is available at: [https://pubs.acs.org/10.1021/jacs.5c07229](https://pubs.acs.org/doi/10.1021/jacs.5c07229?ref=pdf)
+
+### **Notes**
+
+The authors declare no competing financial interest.
+
+# ■ **ACKNOWLEDGMENTS**
+
+The authors acknowledge support from the NIH MIRA Award (R35GM138318), NSF CAREER Award (#1945218), and NSF Research Traineeship Award (#2125733). Joseph Y. M. Chan gratefully thanks Evan Cline and Patrick Damacet for providing NiPc−CuMOF and Cu3(HHTP)2 powders, which were used for comparative sensing performance studies with DC-100 under humid conditions. C.H.H. and D.L.P. acknowledge the support from the National Science Foundation under grant no. 2237345.
+
+# ■ **REFERENCES**
+
+(1) Yan, X.; Su, X.; Chen, J.; Jin, C.; Chen, L. [Two-dimensional](https://doi.org/10.1002/anie.202305408) [Metal-organic](https://doi.org/10.1002/anie.202305408) Frameworks towards Spintronics. *Angew. Chem., Int. Ed.* 2023, *62* (41), No. e202305408.
+
+(2) Peng, Y.; Sanati, S.; Morsali, A.; García, H. [Metal-Organic](https://doi.org/10.1002/anie.202214707) Frameworks as [Electrocatalysts.](https://doi.org/10.1002/anie.202214707) *Angew. Chem., Int. Ed.* 2023, *62* (9), No. e202214707.
+
+(3) He, B.; Zhang, Q.; Pan, Z.; Li, L.; Li, C.; Ling, Y.; Wang, Z.; Chen, M.; Wang, Z.; Yao, Y.; Li, Q.; Sun, L.; Wang, J.; Wei, L. Freestanding [Metal-Organic](https://doi.org/10.1021/acs.chemrev.1c00978?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Frameworks and Their Derivatives: An Emerging Platform for [Electrochemical](https://doi.org/10.1021/acs.chemrev.1c00978?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Energy Storage and [Conversion.](https://doi.org/10.1021/acs.chemrev.1c00978?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Chem. Rev.* 2022, *122* (11), 10087−10125.
+
+(4) Stavila, V.; Talin, A. A.; Allendorf, M. D. [MOF-Based](https://doi.org/10.1039/C4CS00096J) Electronic and [Opto-Electronic](https://doi.org/10.1039/C4CS00096J) Devices. *Chem. Soc. Rev.* 2014, *43* (16), 5994− 6010.
+
+(5) Benedetto, G.; Mirica, K. A. [Conductive](https://doi.org/10.1021/acs.accounts.4c00319?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Framework Materials for [Chemiresistive](https://doi.org/10.1021/acs.accounts.4c00319?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Detection and Differentiation of Toxic Gases. *Acc. Chem. Res.* 2024, *57* (19), 2775−2789.
+
+(6) Park, J.; Hinckley, A. C.; Huang, Z.; Feng, D.; Yakovenko, A. A.; Lee, M.; Chen, S.; Zou, X.; Bao, Z. [Synthetic](https://doi.org/10.1021/jacs.8b06666?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Routes for a 2D <span id="page-7-0"></span>Semiconductive Copper [Hexahydroxybenzene](https://doi.org/10.1021/jacs.8b06666?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal-Organic Frame[work.](https://doi.org/10.1021/jacs.8b06666?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2018, *140* (44), 14533−14537.
+
+(7) Contreras-Pereda, N.; Pané, S.; Puigmartí-Luis, J.; Ruiz-Molina, D. Conductive Properties of [Triphenylene](https://doi.org/10.1016/j.ccr.2022.214459) MOFs and COFs. *Coord. Chem. Rev.* 2022, *460*, No. 214459.
+
+(8) Yi, J.-D.; Si, D.-H.; Xie, R.; Yin, Q.; Zhang, M.-D.; Wu, Q.; Chai, G.-L.; Huang, Y.-B.; Cao, R. Conductive [Two-dimensional](https://doi.org/10.1002/anie.202104564) [Phthalocyanine-based](https://doi.org/10.1002/anie.202104564) Metal-Organic Framework Nanosheets for Efficient [Electroreduction](https://doi.org/10.1002/anie.202104564) of CO2. *Angew. Chem., Int. Ed.* 2021, *60* (31), 17108−17114.
+
+(9) Warneck, P. *Chemistry of the Natural Atmosphere*, 2nd ed.; Academic Press: San Diego, CA, 1999.
+
+(10) Barbinova, L.; Baur, X. [Increase](https://doi.org/10.1007/s00420-005-0051-x) in Exhaled Nitric Oxide (eNO) after [Work-Related](https://doi.org/10.1007/s00420-005-0051-x) Isocyanate Exposure. *Int. Arch. Occup. Environ. Health* 2006, *79* (5), 387−395.
+
+(11) Roszer, T. *The Biology of Subcellular Nitric Oxide*, 2012th ed.; Springer Science & Business: Dordrecht, Netherlands, 2012.
+
+(12) Seinfeld, J. H.; Pandis, S. N. *Atmospheric Chemistry and Physics: From Air Pollution to Climate Change*, 3rd ed.; Wiley-Blackwell: Hoboken, NJ, 2016.
+
+(13) van Faassen, E. E.; Bahrami, S.; Feelisch, M.; Hogg, N.; Kelm, M.; Kim-Shapiro, D. B.; Kozlov, A. V.; Li, H.; Lundberg, J. O.; Mason, R.; Nohl, H.; Rassaf, T.; Samouilov, A.; Slama-Schwok, A.; Shiva, S.; Vanin, A. F.; Weitzberg, E.; Zweier, J.; Gladwin, M. T. [Nitrite](https://doi.org/10.1002/med.20151) as Regulator of Hypoxic Signaling in [Mammalian](https://doi.org/10.1002/med.20151) Physiology. *Med. Res. Rev.* 2009, *29* (5), 683−741.
+
+(14) Hancock, J. *Cell Signalling*, 3rd ed.; Oxford University Press: London, England, 2010.
+
+(15) Green, S. J.; Mellouk, S.; Hoffman, S. L.; Meltzer, M. S.; Nacy, C. A. Cellular [Mechanisms](https://doi.org/10.1016/0165-2478(90)90083-3) of Nonspecific Immunity to Intracellular Infection: [Cytokine-Induced](https://doi.org/10.1016/0165-2478(90)90083-3) Synthesis of Toxic Nitrogen Oxides from L-Arginine by [Macrophages](https://doi.org/10.1016/0165-2478(90)90083-3) and Hepatocytes. *Immunol. Lett.* 1990, *25* (1−3), 15−19.
+
+(16) Lincoln, J.; Hoyle, C. H. V.; Burnstock, G. *Biomedical Research Topics: Nitric Oxide in Health and Disease*; Cambridge University Press: Cambridge, England, 1997.
+
+(17) Das, S.; Pal, M. Review�[Non-Invasive](https://doi.org/10.1149/1945-7111/ab67a6) Monitoring of Human Health by Exhaled Breath Analysis: A [Comprehensive](https://doi.org/10.1149/1945-7111/ab67a6) Review. *J. Electrochem. Soc.* 2020, *167* (3), No. 037562.
+
+(18) Sigrist, M. W.; Bartlome, R.; Marinov, D.; Rey, J. M.; Vogler, D. E.; Wächter, H. Trace Gas Monitoring with Infrared [Laser-Based](https://doi.org/10.1007/s00340-007-2875-4) [Detection](https://doi.org/10.1007/s00340-007-2875-4) Schemes. *Appl. Phys. B: Laser Opt.* 2008, *90* (2), 289−300. (19) Kipping, P. J.; Jeffery, P. G. [Detection](https://doi.org/10.1038/2001314a0) of Nitric Oxide by Gas-[Chromatography.](https://doi.org/10.1038/2001314a0) *Nature* 1963, *200* (4913), 1314−1314.
+
+(20) Fontijn, A.; Sabadell, A. J.; Ronco, R. J. [Homogeneous](https://doi.org/10.1021/ac60288a034?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) [Chemiluminescent](https://doi.org/10.1021/ac60288a034?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Measurement of Nitric Oxide with Ozone. [Implications](https://doi.org/10.1021/ac60288a034?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) for Continuous Selective Monitoring of Gaseous Air [Pollutants.](https://doi.org/10.1021/ac60288a034?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Anal. Chem.* 1970, *42* (6), 575−579.
+
+(21) Sun, C.; Maduraiveeran, G.; Dutta, P. Nitric Oxide [Sensors](https://doi.org/10.1016/j.snb.2013.05.090) Using Combination of P- and N-Type [Semiconducting](https://doi.org/10.1016/j.snb.2013.05.090) Oxides and Its [Application](https://doi.org/10.1016/j.snb.2013.05.090) for Detecting NO in Human Breath. *Sens. Actuators, B* 2013, *186*, 117.
+
+(22) Breck, D. W. *Zeolite molecular sieves: structure, chemistry, and use*; Wiley, 1973.
+
+(23) Shirakawa, H.; Louis, E. J.; MacDiarmid, A. G.; Chiang, C. K.; Heeger, A. J. Synthesis of Electrically [Conducting](https://doi.org/10.1039/c39770000578) Organic Polymers: Halogen Derivatives of [Polyacetylene.](https://doi.org/10.1039/c39770000578) *J. Chem. Soc., Chem. Commun.* 1977, *16*, 578.
+
+(24) Iijima, S. Helical [Microtubules](https://doi.org/10.1038/354056a0) of Graphitic Carbon. *Nature* 1991, *354* (6348), 56−58.
+
+(25) Novoselov, K. S.; Geim, A. K.; Morozov, S. V.; Jiang, D.; Zhang, Y.; Dubonos, S. V.; Grigorieva, I. V.; Firsov, A. A. [Electric](https://doi.org/10.1126/science.1102896) Field Effect in [Atomically](https://doi.org/10.1126/science.1102896) Thin Carbon Films. *Science* 2004, *306* (5696), 666−669.
+
+(26) Li, H.; Yin, Z.; He, Q.; Li, H.; Huang, X.; Lu, G.; Fam, D. W.; Tok, A. I.; Zhang, Q.; Zhang, H. [Fabrication](https://doi.org/10.1002/smll.201101016) of Single- and Multilayer MoS2 Film-Based [Field-Effect](https://doi.org/10.1002/smll.201101016) Transistors for Sensing NO at Room [Temperature.](https://doi.org/10.1002/smll.201101016) *Small* 2012, *8*, 63.
+
+(27) Emmerling, S. T.; Maschita, J.; Lotsch, B. V. Nitric [Oxide](https://doi.org/10.1021/jacs.2c11967?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) (NO) as a Reagent for Topochemical Framework [Transformation](https://doi.org/10.1021/jacs.2c11967?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) and Controlled NO Release in Covalent Organic [Frameworks.](https://doi.org/10.1021/jacs.2c11967?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2023, *145* (14), 7800−7809.
+
+(28) Yaghi, O. M.; Li, H. [Hydrothermal](https://doi.org/10.1021/ja00146a033?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Synthesis of a Metal-Organic Framework Containing Large [Rectangular](https://doi.org/10.1021/ja00146a033?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Channels. *J. Am. Chem. Soc.* 1995, *117* (41), 10401−10402.
+
+(29) Meng, Z.; Stolz, R. M.; Mendecki, L.; Mirica, K. A. [Electrically-](https://doi.org/10.1021/acs.chemrev.8b00311?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as)Transduced Chemical Sensors Based on [Two-Dimensional](https://doi.org/10.1021/acs.chemrev.8b00311?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Nanoma[terials.](https://doi.org/10.1021/acs.chemrev.8b00311?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Chem. Rev.* 2019, *119* (1), 478−598.
+
+(30) Herrald, A. L.; Ambrogi, E. K.; Mirica, K. A. [Electrochemical](https://doi.org/10.1021/acssensors.3c02529?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Detection of [Gasotransmitters:](https://doi.org/10.1021/acssensors.3c02529?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Status and Roadmap. *ACS Sens.* 2024, *9* (4), 1682−1705.
+
+(31) Linstead, R. P.; Noble, E. G.; Wright, J. M. [Phthalocyanines.](https://doi.org/10.1039/jr9370000911) Part IX. Derivatives of thiophen, [thionaphthen,](https://doi.org/10.1039/jr9370000911) pyridine, and pyrazine, and a note on the [nomenclature.](https://doi.org/10.1039/jr9370000911) *Journal of Chemistry Society* 1937, 911−921.
+
+(32) Novakova, V.; Donzello, M. P.; Ercolani, C.; Zimcik, P.; Stuzhin, P. A. [Tetrapyrazinoporphyrazines](https://doi.org/10.1016/j.ccr.2018.01.015) and Their Metal Derivatives. Part II: Electronic Structure, [Electrochemical,](https://doi.org/10.1016/j.ccr.2018.01.015) Spectral, [Photophysical](https://doi.org/10.1016/j.ccr.2018.01.015) and Other Application Related Properties. *Coord. Chem. Rev.* 2018, *361*, 1−73.
+
+(33) Zhang, R.; Teoh, W. Y.; Amal, R.; Chen, B.; Kaliaguine, S. Catalytic Reduction of NO by Co over [Cu/CexZr1](https://doi.org/10.1016/j.jcat.2010.04.001)−xO2 Prepared by Flame [Synthesis.](https://doi.org/10.1016/j.jcat.2010.04.001) *J. Catal.* 2010, *272* (2), 210−219.
+
+(34) Meng, Z.; Aykanat, A.; Mirica, K. A. [Welding](https://doi.org/10.1021/jacs.8b11257?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Metal[lophthalocyanines](https://doi.org/10.1021/jacs.8b11257?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) into Bimetallic Molecular Meshes for Ultrasensitive, Low-Power [Chemiresistive](https://doi.org/10.1021/jacs.8b11257?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Detection of Gases. *J. Am. Chem. Soc.* 2019, *141* (5), 2046−2053.
+
+(35) Aykanat, A.; Meng, Z.; Stolz, R. M.; Morrell, C. T.; Mirica, K. A. Bimetallic [Two-dimensional](https://doi.org/10.1002/anie.202113665) Metal-Organic Frameworks for the [Chemiresistive](https://doi.org/10.1002/anie.202113665) Detection of Carbon Monoxide. *Angew. Chem., Int. Ed.* 2022, *61* (6), No. e202113665.
+
+(36) Meng, Z.; Stolz, R. M.; Mirica, K. A. [Two-Dimensional](https://doi.org/10.1021/jacs.9b03441?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) [Chemiresistive](https://doi.org/10.1021/jacs.9b03441?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Covalent Organic Framework with High Intrinsic [Conductivity.](https://doi.org/10.1021/jacs.9b03441?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 2019, *141* (30), 11929−11937.
+
+(37) Li, W.; Geng, X.; Guo, Y.; Rong, J.; Gong, Y.; Wu, L.; Zhang, X.; Li, P.; Xu, J.; Cheng, G.; Sun, M.; Liu, L. Reduced [Graphene](https://doi.org/10.1021/nn201433r?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Oxide [Electrically](https://doi.org/10.1021/nn201433r?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Contacted Graphene Sensor for Highly Sensitive Nitric Oxide [Detection.](https://doi.org/10.1021/nn201433r?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *ACS Nano* 2011, *5* (9), 6955−6961.
+
+(38) Xu, Y.; Stanko, A. M.; Cerione, C. S.; Lohrey, T. D.; McLeod, E.; Stoltz, B. M.; Su, J. Low [Part-per-Trillion,](https://doi.org/10.1021/acsami.3c16012?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Humidity Resistant Detection of Nitric Oxide Using [Microtoroid](https://doi.org/10.1021/acsami.3c16012?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Optical Resonators. *ACS Appl. Mater. Interfaces* 2024, *16* (4), 5120−5128.
+
+(39) Jeon, J.-Y.; Kang, B.-C.; Byun, Y. T.; Ha, T.-J. [High-](https://doi.org/10.1039/C8NR07393G)[Performance](https://doi.org/10.1039/C8NR07393G) Gas Sensors Based on Single-Wall Carbon Nanotube Random Networks for the [Detection](https://doi.org/10.1039/C8NR07393G) of Nitric Oxide down to the [ppb-Level.](https://doi.org/10.1039/C8NR07393G) *Nanoscale* 2019, *11* (4), 1587−1594.
+
+(40) Yue, Y.; Cai, P.; Xu, X.; Li, H.; Chen, H.; Zhou, H.-C.; Huang, N. Conductive [Metallophthalocyanine](https://doi.org/10.1002/anie.202100717) Framework Films with High Carrier Mobility as Efficient [Chemiresistors.](https://doi.org/10.1002/anie.202100717) *Angew. Chem., Int. Ed.* 2021, *60* (19), 10806−10813.
+
+(41) Ho, K.-C.; Tsou, Y.-H. [Chemiresistor-Type](https://doi.org/10.1016/S0925-4005(01)00742-0) NO Gas Sensor Based on Nickel [Phthalocyanine](https://doi.org/10.1016/S0925-4005(01)00742-0) Thin Films. *Sens. Actuators B Chem.* 2001, *77* (1−2), 253−259.
+
+(42) Ho, K.-C.; Chen, C.-M.; Liao, J.-Y. Enhancing [Chemiresistor-](https://doi.org/10.1016/j.snb.2004.12.109)Type NO Gas-Sensing Properties Using [Ethanol-Treated](https://doi.org/10.1016/j.snb.2004.12.109) Lead [Phthalocyanine](https://doi.org/10.1016/j.snb.2004.12.109) Thin Films. *Sens. Actuators B Chem.* 2005, *108* (1− 2), 418−426.
+
+(43) Meng, Z.; Stolz, R. M.; De Moraes, L. S.; Jones, C. G.; Eagleton, A. M.; Nelson, H. M.; Mirica, K. A. [Gas-induced](https://doi.org/10.1002/anie.202404290) Electrical and Magnetic Modulation of [Two-dimensional](https://doi.org/10.1002/anie.202404290) Conductive Metal-Organic [Framework.](https://doi.org/10.1002/anie.202404290) *Angew. Chem., Int. Ed.* 2024, *63* (24), No. e202404290.
+
+(44) Ko, M.; Aykanat, A.; Smith, M. K.; Mirica, K. A. [Drawing](https://doi.org/10.3390/s17102192) Sensors with Ball-Milled Blends of [Metal-Organic](https://doi.org/10.3390/s17102192) Frameworks and [Graphite.](https://doi.org/10.3390/s17102192) *Sensors* 2017, *17*, 2192.
+
+(45) Smith, M. K.; Mirica, K. A. [Self-Organized](https://doi.org/10.1021/jacs.7b08840?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Frameworks on Textiles (SOFT): Conductive Fabrics for [Simultaneous](https://doi.org/10.1021/jacs.7b08840?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Sensing, <span id="page-8-0"></span>Capture, and [Filtration](https://doi.org/10.1021/jacs.7b08840?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of Gases. *J. Am. Chem. Soc.* 2017, *139*, 16759− 16767.
+
+(46) Aykanat, A.; Jones, C. G.; Cline, E.; Stolz, R. M.; Meng, Z.; Nelson, H. M.; Mirica, K. A. Conductive [Stimuli-Responsive](https://doi.org/10.1021/acsami.1c14453?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Coordination Network Linked with Bismuth for [Chemiresistive](https://doi.org/10.1021/acsami.1c14453?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Gas [Sensing.](https://doi.org/10.1021/acsami.1c14453?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *ACS Appl. Mater. Interfaces* 2021, *13* (50), 60306−60318.
+
+(47) Zhang, W.; Uchida, H.; Katsube, T.; Nakatsubo, T.; Nishioka, Y. A Novel [Semiconductor](https://doi.org/10.1016/S0925-4005(98)00129-4) NO Gas Sensor Operating at Room [Temperature.](https://doi.org/10.1016/S0925-4005(98)00129-4) *Sens. Actuators B Chem.* 1998, *49* (1−2), 58−62.
+
+(48) Singh, P.; Hu, L.-L.; Zan, H.-W.; Tseng, T.-Y. Highly [Sensitive](https://doi.org/10.1088/1361-6528/aaf7cb) Nitric Oxide Gas Sensor Based on [ZnO-Nanorods](https://doi.org/10.1088/1361-6528/aaf7cb) Vertical Resistor Operated at Room [Temperature.](https://doi.org/10.1088/1361-6528/aaf7cb) *Nanotechnology* 2019, *30* (9), 095501−1−8.
+
+(49) Jeong, D.-W.; Kim, K. H.; Kim, B. S.; Byun, Y. T. [Characteristics](https://doi.org/10.1016/j.apsusc.2021.149250) of Highly Sensitive and Selective Nitric Oxide Gas Sensors Using [Defect-Functionalized](https://doi.org/10.1016/j.apsusc.2021.149250) Single-Walled Carbon Nanotubes at Room [Temperature.](https://doi.org/10.1016/j.apsusc.2021.149250) *Appl. Surf. Sci.* 2021, *550*, No. 149250. (50) Lim, N.; Kim, K. H.; Byun, Y. T. [Preparation](https://doi.org/10.1039/D0NR08919B) of Defected SWCNTs Decorated with En-APTAS for [Application](https://doi.org/10.1039/D0NR08919B) in High-[Performance](https://doi.org/10.1039/D0NR08919B) Nitric Oxide Gas Detection. *Nanoscale* 2021, *13* (13), 6538−6544.
+
+(51) Liu, Y.; Li, S.; Dai, L.; Li, J.; Lv, J.; Zhu, Z.; Yin, A.; Li, P.; Wang, B. The Synthesis of [Hexaazatrinaphthylene-based](https://doi.org/10.1002/anie.202105966) 2D Conjugated Copper [Metal-organic](https://doi.org/10.1002/anie.202105966) Framework for Highly Selective and Stable [Electroreduction](https://doi.org/10.1002/anie.202105966) of CO2 to Methane. *Angew. Chem., Int. Ed.* 2021, *60* (30), 16409−16415.
+
+(52) Ghodselahi, T.; Vesaghi, M. A.; Shafiekhani, A.; Baghizadeh, A.; Lameii, M. XPS Study of the Cu@Cu2O Core-Shell [Nanoparticles.](https://doi.org/10.1016/j.apsusc.2008.08.110) *Appl. Surf. Sci.* 2008, *255* (5), 2730−2734.
+
+(53) Graf, N.; Yegen, E.; Gross, T.; Lippitz, A.; Weigel, W.; Krakert, S.; Terfort, A.; Unger, W. E. S. XPS and [NEXAFS](https://doi.org/10.1016/j.susc.2009.07.029) Studies of Aliphatic and Aromatic Amine Species on [Functionalized](https://doi.org/10.1016/j.susc.2009.07.029) Surfaces. *Surf. Sci.* 2009, *603* (18), 2849−2860.
+
+(54) Shang, S.; Du, C.; Liu, Y.; Liu, M.; Wang, X.; Gao, W.; Zou, Y.; Dong, J.; Liu, Y.; Chen, J. A [One-Dimensional](https://doi.org/10.1038/s41467-022-35315-0) Conductive Metal-Organic Framework with Extended *π*-d Conjugated [Nanoribbon](https://doi.org/10.1038/s41467-022-35315-0) [Layers.](https://doi.org/10.1038/s41467-022-35315-0) *Nat. Commun.* 2022, *13* (1), 7599.
+
+(55) Calvert, J. G.; Lazrus, A.; Kok, G. L.; Heikes, B. G.; Walega, J. G.; Lind, J.; Cantrell, C. A. Chemical [Mechanisms](https://doi.org/10.1038/317027a0) of Acid Generation in the [Troposphere.](https://doi.org/10.1038/317027a0) *Nature* 1985, *317*, 27−35.
+
+(56) Singer, M. A. Ammonia Functions as a [Regulatory](https://doi.org/10.1054/mehy.2001.1478) Molecule to Mediate [Adjustments](https://doi.org/10.1054/mehy.2001.1478) in Glomerular Filtration Rate in Response to Changes in [Metabolic](https://doi.org/10.1054/mehy.2001.1478) Rate. *Med. Hypotheses* 2001, *57*, 740−744.
+
+(57) Noh, H.-J.; Pennington, D. L.; Seo, J.-M.; Cline, E.; Benedetto, G.; Baek, J.-B.; Hendon, C. H.; Mirica, K. A. [Reversible](https://doi.org/10.1002/anie.202419869) and [Ultrasensitive](https://doi.org/10.1002/anie.202419869) Detection of Nitric Oxide Using a Conductive Twodimensional [Metal-Organic](https://doi.org/10.1002/anie.202419869) Framework. *Angew. Chem., Int. Ed.* 2025, *64* (7), No. e202419869.
+
+(58) Bohrer, F. I.; Sharoni, A.; Colesniuc, C.; Park, J.; Schuller, I. K.; Kummel, A. C.; Trogler, W. C. Gas Sensing [Mechanism](https://doi.org/10.1021/ja0689379?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) in Chemiresistive Cobalt and Metal-Free [Phthalocyanine](https://doi.org/10.1021/ja0689379?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Thin Films. *J. Am. Chem. Soc.* 2007, *129*, 5640−5646.
+
+(59) Qiu, J.; Hu, X.; Min, X.; Quan, W.; Tian, R.; Ji, P.; Zheng, H.; Qin, W.; Wang, H.; Pan, T.; Cheng, S.; Chen, X.; Zhang, W.; Wang, X. Observation of Switchable [Dual-Conductive](https://doi.org/10.1021/acsami.9b20776?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Channels and Related Nitric Oxide Gas-Sensing Properties in the [N-rGO/ZnO](https://doi.org/10.1021/acsami.9b20776?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Heterogeneous [Structure.](https://doi.org/10.1021/acsami.9b20776?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *ACS Appl. Mater. Interfaces* 2020, *12* (17), 19755− 19767.
+
+(60) Shiba, S.; Yamada, K.; Matsuguchi, M. [Humidity-Resistive](https://doi.org/10.3390/s20051295) Optical NO Gas Sensor Devices Based on Cobalt [Tetraphenylpor](https://doi.org/10.3390/s20051295)phyrin Dispersed in [Hydrophobic](https://doi.org/10.3390/s20051295) Polymer Matrix. *Sensors* 2020, *20* (5), 1295.
+
+(61) Mondal, S. P.; Dutta, P. K.; Hunter, G. W.; Ward, B. J.; Laskowski, D.; Dweik, R. A. [Development](https://doi.org/10.1016/j.snb.2011.05.063) of High Sensitivity [Potentiometric](https://doi.org/10.1016/j.snb.2011.05.063) NOx Sensor and Its Application to Breath Analysis. *Sens. Actuators, B: Chem.* 2011, *158*, 292−298.
+
+(62) Aylott, J. W.; Richardson, D. J.; Russell, D. A. [Optical](https://doi.org/10.1021/cm970324v?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Biosensing of Gaseous Nitric Oxide Using [Spin-Coated](https://doi.org/10.1021/cm970324v?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Sol−Gel Thin [Films.](https://doi.org/10.1021/cm970324v?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *Chem. Mater.* 1997, *9* (11), 2261−2263.
+
+(63) Dacres, H.; Narayanaswamy, R. A New Optical [Sensing](https://doi.org/10.1016/S0925-4005(03)00032-7) [Reaction](https://doi.org/10.1016/S0925-4005(03)00032-7) for Nitric Oxide. *Sens. Actuators, B* 2003, *90* (1−3), 222− 229.
+
+(64) Toda, K.; Hato, Y.; Ohira, S.-I.; Namihira, T. [Micro-Gas](https://doi.org/10.1016/j.aca.2007.09.052) Analysis System for [Measurement](https://doi.org/10.1016/j.aca.2007.09.052) of Nitric Oxide and Nitrogen Dioxide: Respiratory Treatment and [Environmental](https://doi.org/10.1016/j.aca.2007.09.052) Mobile Monitor[ing.](https://doi.org/10.1016/j.aca.2007.09.052) *Anal. Chim. Acta* 2007, *603* (1), 60−66.
+
+(65) Petruci, J. F. D. S.; Tütüncü, E.; Cardoso, A. A.; Mizaikoff, B. Real-Time and [Simultaneous](https://doi.org/10.1177/0003702818801371) Monitoring of NO, NO2, and N2O Using [Substrate-Integrated](https://doi.org/10.1177/0003702818801371) Hollow Waveguides Coupled to a Compact Fourier Transform Infrared (FT-IR) [Spectrometer.](https://doi.org/10.1177/0003702818801371) *Appl. Spectrosc.* 2019, *73* (1), 98−103.
+
+(66) Gondal, M. A.; Khalil, A. A. I.; Al-Suliman, N. High [Sensitive](https://doi.org/10.1364/AO.51.005724) Detection of Nitric Oxide Using Laser Induced [Photoacoustic](https://doi.org/10.1364/AO.51.005724) [Spectroscopy](https://doi.org/10.1364/AO.51.005724) at 213 Nm. *Appl. Opt.* 2012, *51* (23), 5724−5734.
+
+(67) Funazo, K.; Tanaka, M.; Shono, T. Gas [Chromatographic](https://doi.org/10.1016/S0003-2670(01)93629-3) [Determination](https://doi.org/10.1016/S0003-2670(01)93629-3) of Nitric Oxide at Sub-Ppm Levels. *Anal. Chim. Acta* 1980, *119* (2), 291−297.
+
+(68) Robinson, J. K.; Bollinger, M. J.; Birks, J. W. [Luminol/H2O2](https://doi.org/10.1021/ac990646d?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) [Chemiluminescence](https://doi.org/10.1021/ac990646d?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Detector for the Analysis of Nitric Oxide in [Exhaled](https://doi.org/10.1021/ac990646d?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Breath. *Anal. Chem.* 1999, *71* (22), 5131−5136.
+
+(69) Harper, J.; Sailor, M. J. [Detection](https://doi.org/10.1021/ac960642y?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of Nitric Oxide and Nitrogen Dioxide with [Photoluminescent](https://doi.org/10.1021/ac960642y?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Porous Silicon. *Anal. Chem.* 1996, *68* (21), 3713−3717.
+
+(70) Toda, K.; Koga, T.; Kosuge, J.; Kashiwagi, M.; Oguchi, H.; Arimoto, T. Micro Gas Analyzer [Measurement](https://doi.org/10.1021/ac901131d?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of Nitric Oxide in Breath by Direct Wet Scrubbing and [Fluorescence](https://doi.org/10.1021/ac901131d?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Detection. *Anal. Chem.* 2009, *81* (16), 7031−7037.
+
+(71) Enemark, J. H.; Feltham, R. D. [Principles](https://doi.org/10.1016/S0010-8545(00)80259-3) of Structure, Bonding, and Reactivity for Metal Nitrosyl [Complexes.](https://doi.org/10.1016/S0010-8545(00)80259-3) *Coord. Chem. Rev.* 1974, *13* (4), 339−406.
+
+(72) Nguyen, T. Q.; Padama, A. A. B.; Escano, M. C. S.; Kasai, H. Theoretical Study on the Adsorption of NO on Metal [Macrocycles,](https://doi.org/10.1149/04520.0091ecst) [metal](https://doi.org/10.1149/04520.0091ecst) = Mn, Fe Co, Ni, Cu. *Zn. ECS Trans.* 2013, *45* (20), 91−100.
+
+(73) Batich, C. D.; Donald, D. S. X-Ray [Photoelectron](https://doi.org/10.1021/ja00322a004?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Spectroscopy of Nitroso [Compounds:](https://doi.org/10.1021/ja00322a004?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Relative Ionicity of the Closed and Open [Forms.](https://doi.org/10.1021/ja00322a004?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Am. Chem. Soc.* 1984, *106* (10), 2758−2761.
+
+(74) Stolz, R. M.; Mahdavi-Shakib, A.; Frederick, B. G.; Mirica, K. A. Host-Guest [Interactions](https://doi.org/10.1021/acs.chemmater.0c01007?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) and Redox Activity in Layered Conductive [Metal-Organic](https://doi.org/10.1021/acs.chemmater.0c01007?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Frameworks. *Chem. Mater.* 2020, *32*, 7639−7652.
+
+(75) Verma, V. P.; Das, S.; Hwang, S.; Choi, H.; Jeon, M.; Choi, W. Nitric Oxide Gas Sensing at Room Temperature by [Functionalized](https://doi.org/10.1016/j.mseb.2010.03.066) Single Zinc Oxide [Nanowire.](https://doi.org/10.1016/j.mseb.2010.03.066) *Mater. Sci. Eng. B Solid State Mater. Adv. Technol.* 2010, *171* (1−3), 45−49.
+
+(76) Socrates, G. *Infrared and Raman Characteristic Group Frequencies: Tables and Charts*, 3rd ed.; John Wiley & Sons: Chichester, England, 2004.
+
+(77) Hadjiivanov, K. I.; Panayotov, D. A.; Mihaylov, M. Y.; Ivanova, E. Z.; Chakarova, K. K.; Andonova, S. M.; Drenchev, N. L. [Power](https://doi.org/10.1021/acs.chemrev.0c00487?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of Infrared and Raman [Spectroscopies](https://doi.org/10.1021/acs.chemrev.0c00487?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) to Characterize Metal-Organic [Frameworks](https://doi.org/10.1021/acs.chemrev.0c00487?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) and Investigate Their Interaction with Guest Molecules. *Chem. Rev.* 2021, *121* (3), 1286−1424.
+
+(78) Barth, B.; Mendt, M.; Pöppl, A.; Hartmann, M. [Adsorption](https://doi.org/10.1016/j.micromeso.2015.02.020) of Nitric Oxide in [Metal-Organic](https://doi.org/10.1016/j.micromeso.2015.02.020) Frameworks: Low Temperature IR and EPR [Spectroscopic](https://doi.org/10.1016/j.micromeso.2015.02.020) Evaluation of the Role of Open Metal Sites. *Microporous Mesoporous Mater.* 2015, *216*, 97−110.
+
+(79) Hadjiivanov, K. I. [Identification](https://doi.org/10.1081/CR-100100260) of Neutral and Charged NxOy Surface Species by IR [Spectroscopy.](https://doi.org/10.1081/CR-100100260) *Catal. Rev. Sci. Eng.* 2000, *42*, 71−144.
+
+(80) Varonka, M. S.; Warren, T. H. [Three-Coordinate](https://doi.org/10.1021/om900706z?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) N-[Heterocyclic](https://doi.org/10.1021/om900706z?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Carbene Nickel Nitrosyl Complexes. *Organometallics* 2010, *29*, 717−720.
+
+(81) Nieto, I.; Bontchev, R. P.; Ozarowski, A.; Smirnov, D.; Krzystek, J.; Telser, J.; Smith, J. M. Synthesis and [Spectroscopic](https://doi.org/10.1016/j.ica.2009.05.015) Investigations of [Four-Coordinate](https://doi.org/10.1016/j.ica.2009.05.015) Nickel Complexes Supported by a Strongly Donating [Scorpionate](https://doi.org/10.1016/j.ica.2009.05.015) Ligand. *Inorg. Chim. Acta* 2009, *362* (12), 4449−4460.
+
+(82) Soma, S.; Van Stappen, C.; Kiss, M.; Szilagyi, R. K.; Lehnert, N.; Fujisawa, K. Distorted Tetrahedral [Nickel-Nitrosyl](https://doi.org/10.1007/s00775-016-1366-7) Complexes: <span id="page-9-0"></span>Spectroscopic [Characterization](https://doi.org/10.1007/s00775-016-1366-7) and Electronic Structure. *J. Biol. Inorg. Chem.* 2016, *21*, 757−775.
+
+(83) Xiao, B.; Wheatley, P. S.; Zhao, X.; Fletcher, A. J.; Fox, S.; Rossi, A. G.; Megson, I. L.; Bordiga, S.; Regli, L.; Thomas, K. M.; Morris, R. E. [High-Capacity](https://doi.org/10.1021/ja066098k?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Hydrogen and Nitric Oxide Adsorption and Storage in a [Metal-Organic](https://doi.org/10.1021/ja066098k?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Framework. *J. Am. Chem. Soc.* 2007, *129* (5), 1203−1209.
+
+(84) Fu, Y.; Tian, Y.; Lin, P. A [Low-Temperature](https://doi.org/10.1016/0021-9517(91)90249-4) IR Spectroscopic Study of Selective [Adsorption](https://doi.org/10.1016/0021-9517(91)90249-4) of NO and CO on CuO/*γ*-Al2O3. *J. Catal.* 1991, *132*, 85−91.
+
+(85) Zdravkova, V.; Drenchev, N.; Ivanova, E.; Mihaylov, M.; Hadjiivanov, K. Surprising [Coordination](https://doi.org/10.1021/acs.jpcc.5b03213?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) Chemistry of Cu+ Cations in Zeolites: FTIR Study of Adsorption and [Coadsorption](https://doi.org/10.1021/acs.jpcc.5b03213?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) of CO, NO, N2, and H2O on Cu−[ZSM-5.](https://doi.org/10.1021/acs.jpcc.5b03213?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as) *J. Phys. Chem. C* 2015, *119*, 15292− 15302.
+
+![](_page_9_Picture_7.jpeg)
+
+![](_page_9_Picture_12.jpeg)#### **Molecular Engineering of a Conductive Metal–Organic Framework for Ultrasensitive,**
+
+#### **Rapid, Selective, and Reversible Sensing of Nitric Oxide**
+
+Joseph Y. M. Chan,[a] Elissa O. Shehayeb,[a] Doran L. Pennington,[b] Christopher H. Hendon\*[b] and Katherine A. Mirica\*[a]
+
+[a] Department of Chemistry, Burke Laboratory, Dartmouth College, Hanover, New Hampshire 03755, United States
+
+[b] Department of Chemistry and Biochemistry, University of Oregon, Eugene, Oregon 97403, United States
+
+\* Correspondence: Chendon@uoregon.edu;
+
+Katherine.A.Mirica@dartmouth.edu
+
+#### **Contents**
+
+| 1.  | Materials and Methods                                                      | S3  |
+|-----|----------------------------------------------------------------------------|-----|
+| 2.  | Synthesis of DC-100,<br>DC-101, and<br>DC-102                              |     |
+|     | 2.1 Synthesis of NiTPz-(OH)8                                               | S4  |
+|     | 2.2 Optimization of DC-100                                                 | S13 |
+|     | 2.3 Synthesis of DC-101<br>and DC-102                                      | S18 |
+| 3.  | Brunauer–Emmett–Teller (BET) Analysis                                      | S20 |
+| 4.  | Measurements of Conductivity                                               | S21 |
+| 5.  | X-ray photoelectron spectroscopy (XPS)                                     | S22 |
+| 6.  | Elemental Analysis                                                         | S27 |
+| 7.  | Electron Paramagnetic Resonance (EPR) Spectroscopy                         | S29 |
+| 8.  | Thermal Gravimetric Analyses (TGA)                                         | S30 |
+| 9.  | SEM and TEM                                                                | S31 |
+| 10. | ATR-FTIR spectroscopy                                                      | S35 |
+| 11. | Dye uptake experiments                                                     | S36 |
+| 12. | Sensing experiments                                                        |     |
+|     | 12.1 Fabrication of Gas Sensors                                            | S37 |
+|     | 12.2<br>Sensing Experiments                                                | S38 |
+|     | 12.3 NO sensing performance                                                | S42 |
+|     | 12.4 Other gaseous analytes sensing performance                            | S50 |
+|     | 12.5 Representative examples of NO detection by MOFs and other             | S51 |
+|     | nanomaterials/methods                                                      |     |
+| 13. | XPS and EPR studies of NO<br>exposure                                      | S53 |
+| 14. | Diffuse Reflectance Infrared Fourier Transform Spectroscopy (DRIFTS) of NO | S55 |
+|     | exposure and N2<br>recovery                                                |     |
+| 15. | Density functional theory experiments                                      | S59 |
+| 16. | References                                                                 | S63 |
+
+# **1. Materials and Methods**
+
+1-Hexanol and DMSO were distilled from anhydrous 4 Å molecular sieve. All other solvents and reagents were of reagent grade and used without further purification. All the reactions were performed under an atmosphere of nitrogen and were monitored by thin-layer chromatography (TLC; Merck pre-coated silica gel 60F<sup>254</sup> plates). Chromatographic purification was performed on silica gel (Macherey-Nagel, 230–400 mesh) with the indicated eluents. 6,7-dimethoxy-1,4-dihydroquinoxaline-2,3-dione (S3)R1 and 4,5-dimethoxybenzene-1,2-diamineR2 were prepared as described.
+
+<sup>1</sup>H and <sup>13</sup>C{<sup>1</sup>H} NMR spectra were recorded on a Bruker 600 MHz NMR spectrometer ( <sup>1</sup>H, 600 MHz; <sup>13</sup>C, 150.9 MHz) in CDCl3, CF3COOD or D2SO4. Spectra were referenced internally by using the residual solvent [<sup>1</sup>H: δ = 7.26 (for CDCl3), δ = 11.5 (for CF3COOD), δ = 11.2 (for D2SO4)] relative to tetramethylsilane. High-resolution electrospray ionization (ESI & MALDI) mass spectrum was recorded on a Waters Q-TOF Ultima ESI. Powder X-ray diffraction (PXRD) measurements were performed with a Rigaku sixth generation MiniFlex X-ray diffractometer with a 600 W (40 kV, 15 mA) CuK ( = 1.54 Å) radiation source.
+
+# **2. Synthesis of DC-100**
+
+### **2.1 Synthesis of MTPz-(OH)<sup>8</sup>**
+
+![](_page_3_Figure_2.jpeg)
+
+**Scheme S1.** Preparation of NiTPz-(OH)8.
+
+#### **Preparation of S2**
+
+A round-bottom flask was charged with **S3** (4 g, 18 mmol),R1 phosphoryl bromide (12 g, 42 mmol), and 40 mL of dry toluene. The reaction mixture was heated at 110 °C for 2 days until a brown suspension was observed. The reaction mixture was then cooled to room temperature and carefully poured over a beaker containing excess ice. The product was extracted with DCM (25 mL) three times. The organic layer was collected and evaporated to yield a yellow solid (2.88 g, 46%). <sup>1</sup>H NMR (CDCl3, 600 MHz): 7.28 (s, 2H) and 4.04 (s, 6H). <sup>13</sup>C{<sup>1</sup>H} NMR (CDCl3, 150.9 MHz): 153.75, 142.72, 137.97, 105.74, 56.55. HRMS (ESI): calcd for C10H9Br2N2O<sup>2</sup> [M+H]<sup>+</sup> 346.9031, found 346.9032.
+
+#### **Preparation of S1**
+
+**S2** (400 mg, 1.15 mmol), potassium cyanide (165 mg, 2.53 mmol), and p-toluene sulfinic acid sodium salt (225 mg, 1.27 mmol) were added to a Schlenk tube with a stir bar and degassed by three vacuum-nitrogen cycles. Under nitrogen, 2 mL of anhydrous DMF was added via syringe. The reaction mixture was heated at 65 °C under nitrogen for 48 hours. The mixture was then diluted with a large amount of water to precipitate the product, which was collected by suction filtration and washed thoroughly with water. After drying, the solid was soaked and washed extensively with dichloromethane. The organic solution was evaporated to obtain the crude product. Column chromatography over a silica bed using a DCM/hexane mixture (3:2, v/v) afforded the pure product as a yellow powder (116 mg, 42%). <sup>1</sup>H-NMR (CDCl3, 600 MHz): 7.41 (s, 2H) and 4.13 (s, 2H). <sup>13</sup>C{<sup>1</sup>H} NMR (CDCl3, 150.9 MHz): 157.18, 140.48, 128.23, 114.02, 106.36, 57.16. HRMS (ESI): calcd for C12H9N4O<sup>2</sup> [M+H]<sup>+</sup> 241.0726, found 241.0735.
+
+![](_page_5_Figure_0.jpeg)
+
+**Figure S1.** <sup>1</sup>H NMR spectrum of **S1** in CDCl3.
+
+![](_page_5_Figure_2.jpeg)
+
+**Figure S2.** <sup>13</sup>C{<sup>1</sup>H} NMR spectrum of **S1** in CDCl3.
+
+#### **Preparation of H2TPz-(OMe)<sup>8</sup>**
+
+![](_page_6_Figure_1.jpeg)
+
+A mixture of **S1** (200 mg, 0.83 mmol) and magnesium (82 mg, 3.37 mmol) in 1-pentanol (5 mL) was heated at 150 °C overnight. The mixture was allowed to cool, and hexane (20 mL) was added to precipitate the crude product, which was separated by suction filtration. The solid was collected and subsequently washed and decanted using the following solutions in a centrifuge tube: i) methanol, ii) methanol/acetic acid (4:1, v/v), iii) acetone, iv) acetone/acetic acid (4:1, v/v), and v) acetone. The remaining precipitate was dried in a vacuum and stirred in TFA overnight to yield the pure product (101 mg, 49%). <sup>1</sup>H NMR (CF3COOD, 600 MHz): δ 8.51 (s, 8 H, Ar-H), 4.57 (s, 24 H, -OCH3), -0.01 (br, 2 H, -NH). <sup>13</sup>C NMR spectrum was not obtained due to the poor solubility in all common solvents. HRMS (MALDI): calcd for C48H35N16O<sup>8</sup> [M+H] <sup>+</sup> 963.2818, found 963.2839; calcd for C48H34N16O8Na [M+Na]<sup>+</sup> 985.2638, found 985.2671.
+
+![](_page_7_Figure_0.jpeg)
+
+**Figure S3**. <sup>1</sup>H NMR spectrum of **H2TPz-(OMe)<sup>8</sup>** in CF3COOD.
+
+![](_page_7_Figure_2.jpeg)
+
+**Preparation of NiTPz-(OMe)<sup>8</sup>**
+
+150 mg of H2TPz-(OMe)<sup>8</sup> and nickel(II) acetate tetrahydrate (149 mg, 0.60 mmol) were dissolved in pyridine (10 mL) and heated under reflux for 1 hour. The solvent was removed under vacuum. The remaining solid was heated in TFA (10 mL) at 80 <sup>o</sup>C overnight. The solvent was removed under vacuum. The remaining solid was was washed with 25 mL of i) water, ii)
+
+DMF/acetone (1:4, v/v), and iii) acetone in a centrifuge tube. The precipitate was dried in a vacuum oven to yield the pure dark green product (114.0 mg, 72%).<sup>1</sup>H NMR (CF3COOD, 600 MHz): δ 8.46 (s, 8 H, Ar-H), 4.55 (s, 24 H, -OCH3). <sup>13</sup>C NMR spectrum was not obtained due to the poor solubility in all common solvents. HRMS (MALDI): calcd for C48H32N16O8Ni [M]<sup>+</sup> 1018.1937, found 1018.1917.
+
+![](_page_8_Figure_1.jpeg)
+
+**Figure S4.**  <sup>1</sup>H NMR spectrum of **NiTPz-(OMe)<sup>8</sup>** in CF3COOD.
+
+#### **Preparation of NiTPz-(OH)<sup>8</sup>**
+
+![](_page_9_Figure_1.jpeg)
+
+NiTPz-(OMe)<sup>8</sup> (100 mg, 98.1 μmol) was suspended in dry dichloromethane (6.5 mL), and boron tribromide (0.75 mL, 7.85 mmol) was added under nitrogen. The mixture was heated at 40 °C for 2 days. The reaction mixture was quenched with a mixture of ice and methanol (30 mL), and the resulting suspension was centrifuged and decanted. The obtained solid was then washed, centrifuged, and decanted successively with 25 mL of i) methanol/acetic acid mixture (4:1, v/v), ii) DMF, and iii) acetone. The precipitate was dried in a vacuum oven to yield the pure dark green product (75.2 mg, 88%). <sup>1</sup>H NMR (D2SO4, 600 MHz): δ 9.32 (s, 8 H, Ar-H). <sup>13</sup>C NMR spectrum was not obtained due to the poor solubility in all common solvents. HRMS (MALDI): calcd for C40H16N16O8Ni [M]<sup>+</sup> 906.0685, found 906.0699.
+
+![](_page_10_Figure_0.jpeg)
+
+**Figure S5**. <sup>1</sup>H NMR spectrum of **NiTPz-(OH)<sup>8</sup>** in D2SO4.
+
+H2TPz-(OMe)<sup>8</sup> (94.5 mg, 98.1 μmol) was suspended in dry dichloromethane (6.5 mL), and boron tribromide (0.75 mL, 7.85 mmol) was added under nitrogen. The mixture was heated at 40 °C for 2 days. The reaction mixture was quenched with a mixture of ice and methanol (30 mL), and the resulting suspension was centrifuged and decanted. The obtained solid was then washed, centrifuged, and decanted successively with 25 mL of i) methanol/acetic acid mixture (4:1, v/v), ii) DMF, and iii) acetone. The precipitate was dried in a vacuum oven to yield the pure dark green product (54.2 mg, 65%). <sup>1</sup>H NMR (D2SO4, 600 MHz): δ 9.04 (s, 8 H, Ar-H), 3.25 (s, 8 H, O-H), 0.81 (s, 2 H, N-H). <sup>13</sup>C NMR spectrum was not obtained due to the poor solubility in all common solvents. HRMS (MALDI): calcd for C40H19N16O<sup>8</sup> [M+H] <sup>+</sup> 851.1572, found 851.1566.
+
+![](_page_11_Figure_0.jpeg)
+
+**Figure S6**. <sup>1</sup>H NMR spectrum of **H2TPz-(OH)<sup>8</sup>** in D2SO4.
+
+### **2.2 Optimization of DC-100**
+
+![](_page_12_Figure_1.jpeg)
+
+To optimize the crystallinity and yield of the synthesized MOF, we utilized NiTPz-(OH)<sup>8</sup> as a model compound and investigated various reaction parameters. We systematically altered the solvents, reaction temperature, reaction duration, the source of copper(II) salts, and concentrations of NiTPz-(OH)8. Our studies revealed that high dilution and the addition of excess ethylenediamine (EDA) were crucial for synthesizing crystalline MOFs. We conducted the MOF synthesis at three different concentrations (5.79 mM, 1.93 mM, and 0.44 mM) of NiTPz-(OH)<sup>8</sup> in DMSO. The PXRD spectra of MOF samples isolated from conditions at 5.79 mM and 1.93 mM ligand concentrations exhibited similar patterns (Table S1, entries 6-8), while the MOF prepared at 0.44 mM ligand concentration showed a stronger (100) peak, although the (110) peak was still not evident in the PXRD spectrum (Table S1, entry 8). Ensuring complete dissolution of NiTPz-(OH)<sup>8</sup> through a high dilution strategy was key for optimizing MOF crystallinity. To enhance the crystallinity of the MOF further, we utilized EDA as a
+
+mediator, which can bind with Cu(II) ions to slow down MOF precipitation.R34 The addition of 20 equivalents of EDA notably decelerated the MOF precipitation process, leading to the presence of sharp (100) and (200) diffraction peaks in the PXRD spectrum (Table S1, entry 10). Increasing the amount of EDA to 1600 equivalents effectively prevented MOF precipitation at room temperature, allowing the MOF crystallites to maximize growth before crystallizing out from the reaction mixture. The resulting MOF displayed sharp (100) and (200) peaks, and a small (110) peak eventually emerged in the PXRD spectrum (Table S1, entry 13), indicating a significant increase in crystallite size. After optimization, we determined that a reaction mixture comprising NiTPz-(OH)<sup>8</sup> (0.44 mM), Cu(NO3)<sup>2</sup> (2.1 equivalents), and EDA (1600 equivalents) in anhydrous DMSO at a temperature of 85°C for a duration of 2 days yielded the desired product with good crystallinity.
+
+**Table S1**. The optimization of synthetic conditions for **DC-100**.
+
+| Entry | Solvent              | [NiTPz-(OH)8]<br>/ mM | Cu(II) salt   | Base                          | Temperature<br>/ oC |
+|-------|----------------------|-----------------------|---------------|-------------------------------|---------------------|
+| 1     | DMSO                 | 5.79                  | Cu(OAc)2      | -                             | 155                 |
+| 2     | DMSO                 | 5.79                  | Cu(OAc)2      | -                             | 105                 |
+| 3     | DMSO                 | 5.79                  | Cu(OAc)2      | -                             | 85                  |
+| 4     | Formamide            | 5.79                  | Cu(OAc)2      | -                             | 85                  |
+| 5     | Ethylene<br>glycerol | 5.79                  | Cu(OAc)2      | -                             | 85                  |
+| 6     | DMSO                 | 5.79                  | Cu(C5H4F3O2)2 | -                             | 85                  |
+| 7     | DMSO                 | 1.93                  | Cu(OAc)2      | -                             | 85                  |
+| 8     | DMSO                 | 0.44                  | Cu(OAc)2      | -                             | 85                  |
+| 9     | DMSO                 | 0.44                  | Cu(NO3)2      | NH3(aq) (20 eq.)              | 85                  |
+| 10    | DMSO                 | 0.44                  | Cu(NO3)2      | Ethylenediamine<br>(20 eq.)   | 85                  |
+| 11    | DMSO                 | 0.44                  | Cu(NO3)2      | Ethylenediamine<br>(40 eq.)   | 85                  |
+| 12    | DMSO                 | 0.44                  | Cu(NO3)2      | Ethylenediamine<br>(60 eq.)   | 85                  |
+| 13    | DMSO                 | 0.44                  | Cu(NO3)2      | Ethylenediamine<br>(1600 eq.) | 85                  |
+
+![](_page_15_Figure_0.jpeg)
+
+**Figure S7**. PXRD spectra of the materials obtained under synthetic conditions described in **Table S1**.
+
+#### **Synthesis of DC-100 under optimized conditions (Entry 13)**
+
+In a 100 mL Schlenk flask, 10 mg of NiTPz-(OH)<sup>8</sup> were dissolved in 25 mL of anhydrous DMSO. The mixture was sonicated for 15 minutes until the NiTPz-(OH)<sup>8</sup> was completely dissolved. 1.118 mL of ethylenediamine (1600 eq.) was added to the solution and the mixture was shaken well. 5.4 mg (2.1 eq.) of Cu(NO3)2·2.5H2O was added to the resulting solution. The solution was then heated in an oven at 85 °C for 2 days. After cooling to room temperature, the black solid was collected by centrifugation, washed with methanol (20 mL × 2), deionized water (20 mL × 2), and acetone (20 mL × 3) using a vortex, and transferred to a vacuum (20 mTorr) oven at 65 °C. The solid was then dried for 24 hours to obtain **DC-100**, a dark black powder. (Yield: 78%)
+
+### **2.3 Synthesis of DC-101 and DC-102**
+
+#### **Synthesis of DC-101**
+
+In a 25 mL Schlenk flask, 10 mg of NiTPz-(OH)<sup>8</sup> were dissolved in 5 mL of anhydrous DMSO. The mixture was sonicated for 15 minutes until the NiTPz-(OH)<sup>8</sup> was completely dissolved. 29.5 µL of ethylenediamine (40 eq.) was added to the solution and the mixture was shaken well. 6.9 mg (2.1 eq.) of Zn(NO3)2·6H2O was added to the resulting solution. The solution was then heated in an oven at 85 °C for 18 hours. After cooling to room temperature, the black solid was collected by centrifugation, washed with methanol (20 mL × 2), deionized water (20 mL × 2), and acetone (20 mL × 3) using a vortex, and transferred to a vacuum (20 mTorr) oven at 65 °C. The solid was then dried for 24 hours to obtain **DC-101**, a dark black powder. (Yield: 89%)
+
+#### **Synthesis of DC-102**
+
+In a 100 mL Schlenk flask, 10 mg of H2TPz-(OH)<sup>8</sup> were dissolved in 25 mL of anhydrous DMSO. The mixture was sonicated for 15 minutes until the H2TPz-(OH)<sup>8</sup> was completely dissolved. 2.236 mL of ethylenediamine (3200 eq.) was added to the solution and the mixture was shaken well. 4.8 mg (2 eq.) of Cu(NO3)2·2.5H2O was added to the resulting solution. The solution was then heated in an oven at 85 °C for 2 days. After cooling to room temperature, the black solid was collected by centrifugation, washed with methanol (20 mL × 2), deionized water (20 mL × 2), and acetone (20 mL × 3) using a vortex, and transferred to a vacuum (20 mTorr) oven at 65 °C. The solid was then dried for 24 hours to obtain **DC-102**, a dark black powder. (Yield: 61%)
+
+![](_page_18_Figure_0.jpeg)
+
+**Figure S8**. PXRD spectra of **DC-101** and **DC-102**.
+
+# **3. Brunauer–Emmett–Teller (BET) Analysis**
+
+In order to assess the porosity of the MOFs, gas adsorption measurements were performed on an ASAP Plus 2020 (Mircromeritics, Norcross, Georgia) 3FLEX instrument with N<sup>2</sup> at 77K. To remove the residual high boiling point solvent used in the synthesis of the MOFs, the samples of MOFs were activated by soaking in DMSO for 2 days during which the DMSO was changed every 24 hours and then in THF for 1 day. The samples were then dried in the oven under vacuum (20 mTorr, 70 °C for 24 hours). Before gas adsorption measurements, the samples were degassed under vacuum at 85 °C for 12 hours. For BET calculations, a full isotherm with a fitting range of 0 to 0.3
+
+![](_page_19_Figure_2.jpeg)
+
+**Figure S9.** Nitrogen sorption curves (Red dots: adsorption, black dots: desorption, STP=standard temperature pressure) at 77 K of activated (a) **DC-100**, (b) **DC-101**, and (c) **DC-102**. (d) Water sorption curves at 298 K of activated **DC-100**.
+
+# **4. Measurements of Conductivity**
+
+were 2.6 ± 1.3 x 10-6 S cm-1
+
+To make a pressed pellet, 25 mg of the MOF sample was put into a 6 mm inner-diameter split sleeve pressing die and pressed for 10 min under a pressure of approximately 1000 psi. A Signatone tungsten carbide four-point linear probe was employed to collect bulk conductivity measurements of the MOFs with a space between tips of 1.25 mm. We calculated the bulk conductivity measurements (S/cm) using the equation = 1 2 . Herein, I (A) is current, V is the voltage of cross the probes, s (cm) is distance of between the probes (1.25 mm), F (unitless) is the correction factor accounting for the diameter and thickness of the pellet.R3 Conductivities of the **DC-100**, **DC-101**, and **DC-102** measured by four-point probe method
+
+(n = 7), 1.9 ± 0.8 x 10-6 (n = 7), and 2.0 ± 0.6 x 10-7
+
+(n = 7) respectively.
+
+# **5. X-ray photoelectron spectroscopy (XPS)**
+
+X-ray photoelectron spectroscopy (XPS) experiments were conducted on a Physical Electronics Versaprobe II X-ray Photoelectron Spectrometer under ultrahigh vacuum (base pressure 10-10 mbar). The measurement chamber was equipped with a monochromatic Al (Kα) X-ray source. Both survey and high-resolution spectra were obtained using a beam diameter of 200 μm. The spectra were processed with CasaXPS.
+
+![](_page_21_Figure_2.jpeg)
+
+**Figure S10**. XPS survey spectrum of **DC-100** showing the presence of C, N, O, Ni and Cu elements.
+
+| Table S2. Chemical composition in the XPS of DC-100. |  |
+|------------------------------------------------------|--|
+|------------------------------------------------------|--|
+
+| Peak identification | C<br>1s | N<br>1s | O<br>1s | Ni<br>2p | Cu<br>2p |
+|---------------------|---------|---------|---------|----------|----------|
+| Position (eV)       | 285.0   | 398.5   | 532.0   | 855.0    | 934.0    |
+| Area (%)            | 44.6    | 22.1    | 23.4    | 3.3      | 6.6      |
+
+![](_page_22_Figure_0.jpeg)
+
+**Figure S11**. Deconvoluted XPS spectra of the **DC-100**: (a) N 1s, (b) O 1s, (c) Ni 2p, and (d) Cu 2p. The red, brown, and grey curve represent original data, background and the sum of the deconvoluted peaks, respectively.
+
+XPS analysis confirmed the presence of C, O, N, Ni, and Cu in **DC-100** (Figure S10), consistent with the expected elemental composition. The Ni 2p to Cu 2p peak area ratio of 1:2 (Table S2) closely matched the theoretical 1:2 ratio expected from NiTPz-(OH)<sup>8</sup> polymerization with Cu(II) ions. High-resolution Cu 2p scans revealed two peaks: Cu 2p3/2 (932.5 eV) and Cu 2p1/2 (952.5 eV). The Cu 2p3/2 peak comprised two components [932.5 eV for Cu(I) and 934.0 eV for Cu(II)] R35 with an area ratio of 6:4, indicating substantial Cu(II) reduction. This finding aligns
+
+with the EPR spectrum, which showed a peak at g = 2.1, confirming the presence of paramagnetic Cu(II) ions [Figure S14(a)]. O 1s scans revealed two environments: C-O (530.3 eV) and C=O (532.3 eV) in a 4:6 ratio [Figure S11(b)],R36 suggesting a semiquinone structure for each dihydroxyquinoxaline unit of TPz. N 1s scans [Figure S11(a)] showed three environments: non-coordinated N (398.4 eV), Ni-coordinated N (399.7 eV),R37 and hydrogenbonded primary amine (401.1 eV)R38 in a 3:1:1 ratio, indicating two ethylenediamine molecules per TPz ligand. Based on these analyses, we propose a charge neutral skeleton with the formula (NiTPz)1Cu2·2EDA.
+
+![](_page_24_Figure_0.jpeg)
+
+**Figure S12**. (a) XPS survey spectrum of **DC-101** showing the presence of C, N, O, Ni and Zn elements. Deconvoluted XPS spectra of the **DC-101**: (b) N 1s, (c) O 1s, (d) Ni 2p, and (e) Zn 2p. The red, brown, and grey curve represent original data, background and the sum of the deconvoluted peaks, respectively.
+
+![](_page_25_Figure_0.jpeg)
+
+**Figure S13**. (a) XPS survey spectrum of **DC-102** showing the presence of C, N, O, and Cu elements. Deconvoluted XPS spectra of the **DC-102**: (b) N 1s, (c) O 1s, and (d) Cu 2p. The red, purple, and grey curve represent original data, background and the sum of the deconvoluted peaks, respectively.
+
+# **6. Elemental analysis**
+
+Elemental analyses, including C, H, N, and S were performed by Atlantic Microlab inc. using combustion method by automatic analyzers. The metal contents (Ni, Cu & Zn) were analyzed by ICP-MS. The results are listed below.
+
+| Elemental | Found<br>(2) | Theoretical1<br>(3) | Diff. (3) –<br>(2) | Theoretical2<br>(5) | Diff. (5) –<br>(2) |
+|-----------|--------------|---------------------|--------------------|---------------------|--------------------|
+| C         | 44.53        | 46.81               | +2.28              | 43.60               | -0.93              |
+| H         | 3.73         | 0.79                | -2.94              | 2.68                | -1.05              |
+| N         | 21.83        | 21.83               | 0                  | 22.60               | +0.77              |
+| S         | 1.07         | 0                   | -1.07              | 1.3                 | +0.23              |
+| Ni        | 4.44         | 5.72                | +1.28              | 4.73                | +0.29              |
+| Cu        | 9.98         | 12.38               | +2.40              | 10.25               | +0.27              |
+| O         | -            | 12.47               | -                  | 14.84               | -                  |
+
+**Table S3.** Elemental analysis of **DC-100**
+
+<sup>1</sup> Based on the formula (NiTPz)1Cu<sup>2</sup>
+
+<sup>2</sup> Based on the formula (NiTPz)1Cu<sup>2</sup> + 2 EDA + 3 H2O + 0.5 DMSO
+
+Elemental analysis and ICP-MS results deviated by more than 2% from the theoretical (NiTPz)1Cu<sup>2</sup> formula (Table S3, column 4). Considering the use of high-boiling-point DMSO, hydrophilic nature of the MOF, and the N 1s XPS peak ratios, we propose the refined formula (NiTPz)1Cu2·2EDA·3H2O·0.5DMSO. This composition aligns well with experimental data, showing ≤1% error (Table S3, column 6).
+
+### **Table S4.** Elemental analysis of **DC-101**
+
+| Elemental | Found<br>(2) | Theoretical1<br>(3) | Diff. (3) –<br>(2) | Theoretical2<br>(5) | Diff. (5) –<br>(2) |
+|-----------|--------------|---------------------|--------------------|---------------------|--------------------|
+| C         | 40.37        | 46.64               | 6.27               | 40.29               | -0.08              |
+| H         | 3.35         | 0.78                | -2.57              | 2.47                | -0.88              |
+| N         | 19.23        | 21.76               | 2.53               | 19.48               | 0.25               |
+| S         | 0            | 0                   | 0                  | 0                   | 0                  |
+| Ni        | 4.28         | 5.70                | 0.85               | 4.80                | 0.52               |
+| Zn        | 10.67        | 12.69               | 0.59               | 10.7                | 0.03               |
+| O         | -            | 12.43               | -                  | 22.25               | -                  |
+
+<sup>1</sup> Based on the formula (NiTPz)1Zn<sup>2</sup>
+
+<sup>2</sup> Based on the formula (NiTPz)1Zn<sup>2</sup> + 0.5 EDA + 9 H2O
+
+#### **Table S5.** Elemental analysis of **DC-102**
+
+| Elemental | Found<br>(2) | Theoretical1<br>(3) | Diff. (3) –<br>(2) | Theoretical2<br>(5) | Diff. (5) –<br>(2) |
+|-----------|--------------|---------------------|--------------------|---------------------|--------------------|
+| C         | 43.86        | 49.54               | 5.68               | 42.97               | -0.89              |
+| H         | 3.44         | 1.04                | -2.4               | 2.92                | -0.52              |
+| N         | 20.67        | 23.11               | 2.44               | 21.48               | 0.81               |
+| S         | 0.14         | 0                   | -0.14              | 0                   | -0.14              |
+| Cu        | 10.81        | 13.11               | 1.3                | 10.83               | 0.02               |
+| O         | -            | 13.20               | -                  | 21.81               | -                  |
+
+<sup>1</sup> Based on the formula (H2TPz)1Cu<sup>2</sup>
+
+<sup>2</sup> Based on the formula (H2TPz)1Cu<sup>2</sup> + EDA + 8 H2O
+
+# **7. Electron paramagnetic resonance spectroscopy**
+
+EPR spectra were collected on a Bruker BioSpin Gmbh spectrometer equipped with a standard mode cavity. For each sample, about 2 mg material was used. The samples were flushed with N<sup>2</sup> for 15 minutes and then sealed in the EPR tube under N<sup>2</sup> atmosphere. The EPR spectrum was collected in room temperature. **DC-100** and **DC-102** showed EPR signal at g=2.101 and 2.088 from the Cu(II) unpaired electron respectively.
+
+![](_page_28_Figure_2.jpeg)
+
+**Figure S14**. EPR spectra of (a) **DC-100** (black line), **DC-101** (red line) and NiTPz-(OH)<sup>8</sup> (blue line),
+
+(b) **DC-102** (black line) and H2TPz-(OH)<sup>8</sup> (red line).
+
+# **8. Thermal Gravimetric Analyses**
+
+Thermal gravimetric analysis was performed using a TA Instruments TGA Q150 with a 5 <sup>o</sup>C/min ramp from room temperature to 900 <sup>o</sup>C.
+
+![](_page_29_Figure_2.jpeg)
+
+**Figure S15**. TGA curves of (a) **DC-100** in nitrogen and (b) in air, (c) **DC-101** in nitrogen and (d) **DC-102** in nitrogen.
+
+TGA curves in nitrogen and air [Figure S15(a) and S15(b)] support this proposed composition (NiTPz)1Cu2·2EDA·3H2O·0.5DMSO. Initial mass losses of 11–12% at 100°C correspond well to the volatile components (EDA and water, 14% of the proposed composition). At 900°C in air, the remaining mass was 19% [Figure S15(b)]. After correcting for initial mass loss and assuming that only NiO and CuO remain, the experimental mass (22%) closely matches the theoretical weight percentage of NiO and CuO (23%).
+
+# **9. SEM and TEM**
+
+Scanning electron microscopy was obtained using a Hitachi TM3000 SEM. The material was pressed onto carbon conductive tape that was attached to the aluminum plate. The images were taken at a 10 mm working distance using a 15 kV beamline in a to 10-6 torr vacuum chamber. Transmission electron microscopy was carried out in a Tecnai F20ST FEG TEM instrument. The sample was prepared by drop casting a water suspension (0.5 mg in 5 mL) of the MOF onto a copper grid (300 mesh, 3.0 mm O.D). An operating voltage of 120 kV was used for imaging. Energy dispersive X-Ray spectroscopy was collected using SDD X-ray microanalysis system with Octane Pro 10 sq. mm detector and TEAM software.
+
+![](_page_30_Picture_2.jpeg)
+
+![](_page_30_Picture_3.jpeg)
+
+**Figure S16**. SEM images of (a) **DC-100**, (b) **DC-101** and (c) **DC-102**.
+
+![](_page_31_Figure_0.jpeg)
+
+**Figure S17.** SEM EDX mapping of (a) **DC-100,** (b) **DC-101,** and (c) **DC-102.**
+
+| Element             | C    | N    | O    | Ni  | Cu  | Zn   | S   |
+|---------------------|------|------|------|-----|-----|------|-----|
+| (a) Counting (%)    | 66.9 | 19.5 | 8.8  | 1.5 | 3.1 | -    | 0.2 |
+| (b)<br>Counting (%) | 59.3 | 14.6 | 12.3 | 3.8 | -   | 10.0 | -   |
+| (c)<br>Counting (%) | 64.8 | 21.1 | 9.8  | -   | 4.2 | -    | 0.1 |
+
+**Table S6**. Elemental counting of (a) **DC-100,** (b) **DC-101,** and (c) **DC-102** by SEM EDX.
+
+![](_page_33_Figure_0.jpeg)
+
+**Figure S18**. TEM images of (a–d) **DC-100**, (e) **DC-101**, and (f) **DC-102**. (g) The characterized region of TEM images (yellow box) and the corresponding fast Fourier transform (FFT) diffraction patterns of **DC-100**, **DC-101**, and **DC-102**.
+
+# **10. ATR-FTIR spectroscopy**
+
+Infrared spectra were collected using a JASCO model FT IR-6100 Fourier transform infrared spectrophotometer.
+
+![](_page_34_Figure_2.jpeg)
+
+**Figure S19.** ATR-FTIR spectra of the NiTPz-(OH)8, **DC-100**, **DC-101**, and **DC-102.**
+
+# **11. Dye uptake experiments**
+
+The dye adsorption behavior of **DC-100** was carried out with two different kinds of dyes, anionic dye (methyl orange, MO) and cationic dye (methylene blue, MB). The dye adsorption experiments were performed by immersing 2 mg of **DC-100** in 10 mL of 1×10-5 M aqueous solutions of dyes. The adsorption was monitored by the UV-vis spectra of the aqueous solution at various time intervals.
+
+![](_page_35_Figure_2.jpeg)
+
+**Figure S20**. UV-vis spectra for the uptake of (a) methylene blue (MB) and (b) methyl orange
+
+(MO) from aqueous solutions at various time intervals by **DC-100**.
+
+# **12. Sensing experiments**
+
+#### **12.1. Fabrication of Gas Sensors**
+
+1 mg of **DC-100** was dispersed in 1 mL of deionized water. The mixture was then sonicated for 90 minutes and a homogeneous suspension was obtained. 25 µL of the suspension was drop casted onto interdigitated gold electrodes with 5 μm gaps (part NO. G-IDEAU5, purchased form Metrohm), which was then allowed to dry in the air under room temperature for overnight before use. The resistance values of electrodes in the range of 100-200 kΩ. Images of the electrodes are shown in **Figure S22**.
+
+![](_page_36_Figure_3.jpeg)
+
+**Figure S21.** PXRD spectra of **DC-100** as-synthesized and after sonication for around 90 minutes.
+
+![](_page_36_Picture_5.jpeg)
+
+**Figure S22.** Representative photographs of the electrodes after dropcasting and drying the MOF suspensions overnight.
+
+#### **12.2. Sensing Experiments**
+
+The sensing performance of the fabricated devices was monitored in a sealed gas-sensing chamber at room temperature. An electrical feed-through and gas inlet and outlet were installed in the chamber. Dry N<sup>2</sup> was used as the balance/purging gas. A Sierra Micro-Trak and a Smart-Trak mass flow controllers were used in combination to deliver controlled concentrations of gases from custom-ordered pre-mixed tanks (100 ppm of NO in N2, 10000 ppm of H2S, SO2, CO, and NH<sup>3</sup> in N2, and 10000 ppm of NO<sup>2</sup> in air) equipped with two-stage stainless steel regulators. Gas streams from the tanks were diluted with dry N<sup>2</sup> for delivery of controlled concentrations of gases. The concentrations of target gases were adjusted by controlling the flow rates of the target gas and balance gas, which was achieved using two mass-flow controllers. The system was limited to mixing of one gas at a time with a dry N<sup>2</sup> or humidified N<sup>2</sup> stream. The flow of balance/purging gas was controlled at 0.4 or 1 L/min and the flow of the analyte was controlled at 0.1 to 4 mL/min. Before target gas exposure, the gas sensors were stabilized under N<sup>2</sup> exposure for 5 minutes to obtain a flat base line. All sensing experiments were performed under a constant applied voltage of 1V.
+
+Raw current data (collected under constant applied voltage) was normalized and converted to normalized conductance according to the equation − ∆ 0 = − − 0 0 × 100%, wherein I<sup>o</sup> = initial current and I = current at various points during measurement.
+
+A FlexStream Trace Gas Standards Generator equipped with a humidity sensor was used to produce the humid gas stream. This generator delivered a wet nitrogen flow of 1 L/min at 20% relative humidity (RH). To achieve the desired humidity level, this wet nitrogen was diluted with 1 mL/min of dry nitrogen, controlled by a mass flow controller. The resulting diluted vapor was then mixed with a controlled stream containing the NO gaseous analyte. This setup allowed for the delivery of a humidified stream containing 1 ppm of NO for the sensing experiments.
+
+The theoretical limits of detection (LOD) were calculated using reported protocols.R4 First, the root mean squared (rms) value — representing the noise-based deviation in −∆G/G<sup>o</sup> — was calculated using the baseline trace before exposure to analyte. We took 600 consecutive points (N) and fit the data to a polynomial (5th order). We then calculated sum of squared residuals (SSR) from equation = ∑( − ) 2 , where yi is measured −∆G/G<sup>o</sup> and y is the value calculated from the polynomial fit. The root-mean-square deviation (RMS) was then calculated by the equation = √ . We plotted concentration of analyte versus response (−∆G/Go) after a specific exposure time and isolated the range of values wherein this relationship was linear. Linear regression provided an equation of best-fit (slope = m). With these values, we extrapolated the theoretical LOD from the equation = 3 × .
+
+The degree of saturation (DS) of the sensor, which is defined as the ratio of the quantity of the analyte adsorbed after a specific amount of time by the sensor to the quantity of the analyte absorbed upon the saturation, R5 was calculated using the equation % = 0 = −0 5−0 × 100%. This calculation was based on the saturation point achieved after 5 minutes exposure and that the current change (∆*I*t) of the device after *t* min exposure is linear proportional to the quantity of the adsorbed analytes (*Ct*) by the sensing materials.R6(a)
+
+In this equation, *I0*, *I1*, *I2*, *I3*, *I4*, and *I<sup>5</sup>* are the current of the devices after analyte dosing for 0, 1, 2, 3, 4, and 5 min exposure, respectively, and *C<sup>o</sup>* is the quantity of the adsorbed analytes upon saturation.
+
+In the NO experiment conducted in air, the rate of NO oxidation in air at 25 °C can be estimated using the following equation: rate = -1.5 × 10⁴ [NO][O₂]².R6(b) At 1 ppm NO in air, the NO concentration remains nearly constant over a 5-minute exposure. The detailed calculations are shown below:
+
+Since 1 ppm by volume = 1×10<sup>−</sup><sup>6</sup> L of NO per 1L of air.
+
+At STP, 1 mol of gas occupies 22.414 L No. of mol of NO in air = 1×10−6 22.414 ≈ 4.46 ×10<sup>−</sup><sup>8</sup> mol [NO]<sup>0</sup> = 4.46×10<sup>−</sup><sup>8</sup> mol / 1L = 4.46×10<sup>−</sup><sup>8</sup> mol/L
+
+Since there is 21% oxygen in air, 1 mol air contains 0.21 mol oxygen.
+
+At STP, 1 mol of gas occupies 22.414 L.
+
+[O2] = 0.21 / 22.414 = 0.009369 mol/L
+
+Since [O2] is in large excess, we can treat it as constant, we have a pseudo-second-order reaction:
+
+$$
+\frac{d[NO]}{dt} = -k[O_2][NO]^2
+$$
+
+This integrates to:
+
+$$
+\frac{1}{[NO]_t} - \frac{1}{[NO]_0} = k[O_2]t
+$$
+
+Plug in [NO]<sup>0</sup> = 4.46 × 10<sup>−</sup><sup>8</sup> , t = 300, k = 1.5 × 10⁴, [O2] = 0.009369
+
+$$
+\frac{1}{[NO]_t} = (1.5 \times 10^4)(0.009369)(300) + \frac{1}{4.46 \times 10^{-8}}
+$$
+  
+[NO]<sub>t</sub> = 4.4516 × 10<sup>-8</sup> mol/L
+
+It shows that the concentration of NO is expected to remain almost constant over a 5-minute exposure.
+
+The potential sources of error in the gas sensing experiments include:
+
+• Accuracy limitations in mass flow controllers (MFCs)**:** The low-flow MFC delivering
+
+toxic gas (NO) has an error of 0.4 sccm, and the high-flow MFC delivering nitrogen
+
+background has an error of 0.2 L/min. For a 10 ppb NO concentration (using a 100 ppm NO tank), the low-flow MFC was set to 0.1 sccm and the high-flow MFC to 1 L/min. Consequently, measurement errors at this concentration may arise from inaccuracies in gas delivery rates.
+
+- Fluctuations in gas flow stability: These could affect the homogeneity and consistency of the 10 ppb NO concentration due to variations in either MFC.
+- Measurement limitations at low current levels: The detection sensitivity of the DC-100 electrodes may be limited by the resolution and accuracy of the potentiostat used (PalmSens EmStatMUX8-R2; potential resolution: 0.1 mV, accuracy: 0.2%).
+- Baseline signal fluctuations: These may be caused by the intrinsic signal-to-noise ratio of DC-100.
+
+#### **12.3. NO sensing performance**
+
+![](_page_41_Figure_1.jpeg)
+
+**Figure S23.** Normalized responses of **DC-100** devices to (a) 1000, (b) 400, (c) 200, (d) 100, (e) 40, (f) 20, (g) 10 ppb of NO in dry N2; (h) 1000 ppb of NO in dry air; and (i) 1000 ppb of NO in dry N₂ using devices fabricated from aged **DC-100** stored under ambient conditions for 5 months. For each condition, 3 freshly prepared devices were tested.
+
+![](_page_42_Figure_0.jpeg)
+
+**Figure S24**. Normalized responses of **DC-100** devices to 1000 ppb of NO in N₂ under (a) 10% RH, (b) 15% RH, (c) 20% RH, (d) 40% RH, (e) 70% RH, and (f) 98% RH.
+
+![](_page_42_Figure_2.jpeg)
+
+**Figure S25**. Time-dependent current responses of **DC-100** devices upon exposure to (a) 1000,
+
+(b) 400, (c) 200, (d) 100, (e) 40, (f) 20, (g) 10 ppb of NO in dry N2.
+
+![](_page_43_Figure_0.jpeg)
+
+**Figure S26.** Responses of (a) **DC-101**, (b) **DC-102**, and (c) NiTPz-(OH)₈ devices to 1 ppm NO in dry N₂; (d) NiTPz-(OH)₈ and (e) NiPc-(OH)₈ devices to 80 ppm NO in dry N₂; (f) Cu₃(HHTP)₂ and (g) NiPc–CuMOF devices to 1 ppm NO in wet N₂ (98% RH); and (h) H₂TPz-(OH)₈ device to 80 ppm NO in dry N₂. For each test, three freshly prepared devices were used, except for panel (h), in which only one device was functional.
+
+![](_page_44_Figure_0.jpeg)
+
+**Figure S27.** Consecutive exposure–recovery responses of **DC-100** devices to 1 ppm NO under (a) dry N₂ with 5-minute exposure and 30-minute recovery; (b) dry N₂ with 5-minute exposure and 10-minute recovery; wet N₂ at (c) 40% RH, (d) 70% RH, and (e) 98% RH.
+
+![](_page_45_Figure_0.jpeg)
+
+**Figure S28.** Response of **DC-100** device as a function of NO concentration. The values of response after the exposure for (a) 1, (b) 2, (c) 3, (d) 4, and (e) 5 min were plotted. The slopes of the curves are -49, -165, -335, -505, and -641. SSR is 8.009. N = 600, RMS is 0.1013.
+
+### **Table S7**. Calculated limits of detection for NO using **DC-100** under different exposure time.
+
+| Exposure time (min) | 1    | 2    | 3    | 4    | 5    |
+|---------------------|------|------|------|------|------|
+| LOD/ppt             | 6.20 | 1.84 | 0.91 | 0.60 | 0.47 |
+
+**Table S8.** Calculated degree of saturation after 5 minutes at various NO concentrations and the recovery percentage after 30 minutes in N<sup>2</sup> following 5 minutes of exposure to different NO concentrations.
+
+| Concentration (ppb)      | 10    | 20    | 40    | 100   | 200   | 400   | 1000  |
+|--------------------------|-------|-------|-------|-------|-------|-------|-------|
+| Degree of saturation (%) | 0.70  | 4.29  | 12.18 | 25.19 | 36.83 | 62.23 | 100a  |
+| Recovery percentage (%)  | 83.37 | 83.00 | 85.40 | 92.02 | 92.36 | 92.31 | 95.73 |
+
+a Saturation reached at 4.97 min.
+
+![](_page_47_Figure_0.jpeg)
+
+**Figure S29.** Responses of **DC-100** devices to 1000, 400, 200, 100, 40, 20, and 10 ppb of NO after 1 min of exposure and the linear fitting of the response.
+
+**Table S9.** Linear fit equations and R² values for **DC-100** device responses to NO concentrations (1000, 400, 200, 100, 40, 20, and 10 ppb) after 1 min of exposure.
+
+| Concentration (ppb) | Linear fit equation | 2 value<br>R |
+|---------------------|---------------------|--------------|
+| 10                  | 802 –<br>112x       | 0.98         |
+| 20                  | 3324 –<br>368x      | 0.95         |
+| 40                  | 5852 –<br>1137x     | 0.95         |
+| 100                 | 27960 –<br>5440x    | 0.96         |
+| 200                 | 33877 –<br>6544x    | 0.92         |
+| 400                 | 248170 –<br>47381x  | 0.91         |
+| 1000                | 521730 –<br>102326x | 0.99         |
+
+![](_page_48_Figure_0.jpeg)
+
+**Figure S30.** Plots of (a) the initial response rate, (b) the degree of saturation, and (c) the recovery time of **DC-100** as a function of NO concentration.
+
+In Figure S30(b), the degree of saturation increases sharply from 10 to 400 ppb and fits an exponential saturation model, indicating rapid adsorption kinetics at low NO concentrations. This behavior is characteristic of pseudo-first-order kinetics with respect to NO concentration. The recovery time, defined as the time required for the sensor response to decay to 20% of its maximum value during desorption, remains stable (~150 s) at high concentrations (100– 1000 ppb NO in N₂) but increases significantly at lower concentrations. Specifically, it rises to nearly 700 s at 10 ppb, as shown in Figure S30(c), suggesting slower desorption kinetics in the low-concentration regime.
+
+![](_page_49_Figure_0.jpeg)
+
+**12.4. Other gaseous analytes sensing performance**
+
+**Figure S31.** Responses of **DC-100** devices to 1 ppm of (a) H2S, (b) SO2, (c) CO, (d) NH3, (e) NO2, and (f) 4000 ppm CO<sup>2</sup> after 5 min. All experiments were conducted in dry N2, except for NO₂, which was tested in dry air. For each test, 3 freshly prepared devices were used.
+
+Although **DC-100** exhibits excellent selectivity toward NO, robust differentiation of analytes in complex gas mixtures may require an array of MTPz-based materials.
+
+**12.5. Representative examples of NO detection by MOFs and other nanomaterials/methods Table S10**. Examples of NO detection by MOFs and other nanomaterials/methods
+
+| Material                                           | Sensing devices<br>or method                | Detection<br>range | LOD                  | Response<br>time<br>(min) | Recovery<br>(%)      | No. of cycle<br>with full<br>sensitivity | Ref.         |
+|----------------------------------------------------|---------------------------------------------|--------------------|----------------------|---------------------------|----------------------|------------------------------------------|--------------|
+| DC-100                                             |                                             | 10-1000<br>ppb     | 0.47-<br>6.20 ppt    | 5                         | 96% @ 1<br>ppm       | 5 @ 1 ppm                                | This<br>work |
+| NiPc-Ni                                            |                                             | 20-1000<br>ppb     | 0.06-<br>1.06<br>ppb | 30                        | 23% @ 1<br>ppm       | -                                        | (R7)         |
+| NiPc-Cu                                            | Pc-based MOF                                | 20-1000<br>ppb     | 0.13-1<br>ppb        | 30                        | 0% @ 1<br>ppm        | -                                        | (R7)         |
+| NiNPc-Ni                                           | chemiresistor                               | 1 ppm              | -                    | 30                        | 26% @ 1<br>ppm       | -                                        | (R7)         |
+| NiNPc-Cu                                           |                                             | 1 ppm              | -                    | 30                        | 29% @ 1<br>ppm       | -                                        | (R7)         |
+| CoPc-Cu                                            |                                             | 10-80<br>ppm       | -                    | 30                        | 30% @ 80<br>ppm      | -                                        | (R8)         |
+| COF-DC-8                                           | Pc-based COF<br>chemiresistor               | 20 ppb -<br>80 ppm | 0.85-5.4<br>ppb      | 30                        | 25% @ 80<br>ppm      | 0 @ 40 ppm                               | (R9)         |
+| NiPc-CoTAA                                         | Pc-based<br>MOF/COF hybrid<br>chemiresistor | 1 ppm              | -                    | 5                         | 90% @ 1<br>ppm       | -                                        | (R10)        |
+| NiPc                                               | Pc molecular film                           | 5-500<br>ppm       | -                    | 20                        | 94% @ 5<br>ppm       | 0 @ 50 ppm                               | (R11)        |
+| PbPc                                               | chemiresistor                               | 20-100<br>ppm      | -                    | 25                        | 92% @ 20<br>ppm      | -                                        | (R12)        |
+| Cu3(C6O6)2                                         |                                             | 1-40 ppm           | 12.8<br>ppb          | 10                        | 53% @ 40<br>ppm      | 0 @ 40 ppm                               | (R13)        |
+| M3HHTP2−<br>Graphene (M<br>= Fe, Co, Ni, or<br>Cu) | MOF<br>chemiresistor                        | 5-80 ppm           | 17 ppm               | 5                         | 17%-30%<br>@ 80 ppm  | 0 @ 80 ppm                               | (R14)        |
+| Ni3HITP2,<br>Ni3HHTP2                              |                                             | 5-80 ppm           | 0.16,<br>1.4 ppm     | 60                        | 0%, 0% @<br>5-80 ppm | -                                        | (R15)        |
+| Bi(HHTP)                                           |                                             | 5-40 ppm           | 150 ppb              | 15                        | 50% @ 40<br>ppm      | -                                        | (R16)        |
+| Pd–Pt/WO3/p<br>Si/Al                               |                                             | 50-250<br>ppm      | -                    | 3                         | 88% @<br>200 ppm     | 0 @ 200<br>ppm                           | (R17)        |
+| ZnO                                                |                                             | 10-1000<br>ppb     | 10 ppb               | 1.5                       | 15% @ 25<br>ppb      | -                                        | (R18)        |
+| functionalized<br>carbon<br>nanotubes              | chemiresistor                               | 1-100<br>ppm       | -                    | 10                        | 17% @<br>100 ppb     | 0 @ 100 ppb                              | (R19)        |
+| SWCNTs/en<br>APTAS                                 |                                             | 100 ppb            | -                    | 10                        | 90% @<br>100 ppb     | 2 @ 100 ppb                              | (R20)        |
+| N-rGO/ZnO                                          | p-n<br>heterojunction                       | 100-1000<br>ppb    | 100 ppb              | 10                        | 97% @<br>800 ppb     | 5 @ 800 ppb                              | (R21)        |
+| N-rGO/Pd                                           | Field-effect<br>transistors                 | 2-420<br>ppb       | 2 ppb                | 4.5                       | 43% @ 2<br>ppb       | -                                        | (R22)        |
+| CoTPP<br>polymer                                   | Optical<br>absorption<br>spectroscopy       | 100-1000<br>ppb    | 33 ppb               | 30                        | 94% @ 1<br>ppm       | 2 @ 1 ppm                                | (R23)        |
+| WO3                                                | potentiometric<br>sensor array              | 1-100<br>ppb       | -                    | 15                        | 70% @ 56<br>ppb      | -                                        | (R24)        |
+
+| Cytochrome<br>c–doped<br>xerogel                                            |                        | 1-25 ppm       | 1 ppm          | 3.3            | ≈ 100% @<br>20 ppm            | -         | (R25) |
+|-----------------------------------------------------------------------------|------------------------|----------------|----------------|----------------|-------------------------------|-----------|-------|
+| Cu(II)<br>eriochrome<br>cyanine R<br>complex                                |                        | 0-6 ppm        | 0.23<br>ppm    | 10             | ≈ 100% @<br>2 ppm             | 3 @ 2 ppm | (R26) |
+| Griess assay<br>(microgas<br>analysis<br>system)                            | Spectroscopic          | 0-200<br>ppb   | 7 ppb          | ≈13            | -                             | -         | (R27) |
+| Substrate<br>integrated<br>hollow<br>waveguides                             |                        | 50-400<br>ppm  | 10 ppm         | <1             | -                             | -         | (R28) |
+| Photoacoustic<br>spectroscopy                                               |                        | 90-9000<br>ppm | 11-41<br>ppb   | Few<br>seconds | -                             | -         | (R29) |
+| 3,4-<br>dichloroaniline<br>and copper(II)<br>bromide system                 | Gas Chromato<br>graphy | 0-0.5<br>ppm   | 0.01<br>ppm    | 6              | -                             | -         | (R30) |
+| Luminol<br>(polypropylene<br>hollow fiber<br>membranes)                     |                        | 20-90<br>ppb   | 0.3 ppb        | 0.2            | ≈ 100% @<br>20, 40, 60<br>ppb | -         | (R31) |
+| Photo<br>luminescent<br>porous silicon                                      | Chemi                  | 2-160<br>ppm   | 2 ppm          | Few<br>seconds | ≈98% @<br>11 ppm              | -         | (R32) |
+| Diamino<br>fluorescein-2<br>(flow-based<br>micro gas<br>analysis<br>system) | luminescence           | 50-250<br>ppb  | 0.82-25<br>ppb | 7              | -                             | -         | (R33) |
+
+# **13. XPS and EPR studies of NO exposure**
+
+For both XPS and EPR tests, 2 mg of **DC-100** was used for each analyte exposure sample. The analyte-exposed samples were prepared using a specific procedure. First, samples were evacuated using a home vacuum for 15 minutes. The container was then filled with 1 ppm NO gas until it reached atmospheric pressure. This evacuation-filling cycle was repeated three times in total. After the final filling, samples were kept in the 1 ppm NO environment for 2 hours. EPR tests were conducted immediately after exposure, using the operational conditions described in Section 7. For XPS tests, the analyte-exposed samples were stored under N<sup>2</sup> at room temperature until analysis. XPS measurements were performed under a pressure of approximately 10<sup>−</sup><sup>9</sup> psi.
+
+![](_page_52_Figure_2.jpeg)
+
+**Figure S32.** Comparison of the EPR of the pristine **DC-100** and **DC-100** at room temperature after 2-hour exposure of 1 ppm NO.
+
+![](_page_53_Figure_0.jpeg)
+
+**Figure S33.** Comparison of the Cu2P, N1s, and O1s XPS spectra of pristine **DC-100** and **DC-100**
+
+after exposure to 1 ppm NO for 2 hours.
+
+# **14. DRIFTS of NO exposure and N<sup>2</sup> recovery**
+
+DRIFTS data were collected on a Nicolet 6700 FT-IR spectrometer at room temperature. An environmental chamber was mounted within the DRIFTS housing. The chamber consisted of an air-tight steel domed volume that housed a sample cup. A gas inlet and a gas outlet port were affixed to the chamber with Swagelok fittings. The IR beam path accessed the sample cup through KBr windows. The sample cup within the environmental chamber was first loaded with a bed of dry KBr. A background spectrum of KBr was collected and used as the background for further experiments. Pristine **DC-100**, **DC-101**, and **DC-102** (2 mg) were mixed with KBr homogeneously by gently combining the two materials. The sample/KBr blend was then transferred to the sample cup and dried under N<sup>2</sup> stream at 110 <sup>o</sup>C. After 1 hour, a spectrum was collected under N<sup>2</sup> flow as the background for future experiments. Spectra were collected as a single beam (unsubtracted) and as the difference (subtracted) from a single beam of KBr. Single beam spectra were recorded as raw absorbance intensity across the spectral range accounting for contributions from KBr. Absorbance spectra were the result of subtracting the single beam obtained from pure KBr and that obtained from KBr blended with MOF. All spectra were collected at 32 scans with 4 cm-1 resolution from 400 cm-1 to 4000 cm-1 . After collecting an initial spectrum for the pristine sample, NO (1 % or 100 ppm in N2) was introduced to the sample. Difference Spectra were collected continuously (around every 1 min). After the peaks reached to the maximum intensity (10 min for 1% NO and 15 min for 100 ppm NO), the NO flow was switched off, the difference spectra were continuously collected for 90 min (100 ppm NO) or 30 min (1% NO).
+
+We used 1% NO and 100 ppm NO in the experiment for two main reasons: (1) 1 ppm NO, the highest concentration used in the sensing experiment, was too dilute to produce noticeable spectroscopic changes in DRIFTS. Therefore, 100 ppm NO was selected as a compromise to ensure reliable spectroscopic evidence while maintaining relevant sensing conditions. (2) To compare the subtle spectroscopic changes among **DC-100**, **DC-101**, and **DC-102** when exposed to NO, a higher concentration (1%) was used to enhance the detection of these changes.
+
+![](_page_55_Figure_1.jpeg)
+
+**Figure S34**. DRIFTS difference spectra of **DC-100** after continuous exposure to (a) 1% NO for
+
+10 min and (b) 100 ppm of NO for 15 min. DRIFTS difference spectra of **DC-100** exposed to N<sup>2</sup> after the exposure of (c) 1% and (d) 100 ppm NO.
+
+![](_page_56_Figure_0.jpeg)
+
+**Figure S35**. DRIFTS difference spectra of **DC-101** (a) after continuous exposure to 1% NO for
+
+10 min and (b) exposed to N2 after the exposure of 1% NO.
+
+![](_page_56_Figure_3.jpeg)
+
+**Figure S36**. DRIFTS difference spectra of **DC-101** (a) after continuous exposure to 1% NO for
+
+10 min and (b) exposed to N2 after the exposure of 1% NO.
+
+![](_page_57_Figure_0.jpeg)
+
+**Figure S37**. DRIFTS difference spectra of NiTPz-(OH)<sup>8</sup> (a) after continuous exposure to 1% NO
+
+for 10 min and (b) exposed to N2 after the exposure of 1% NO.
+
+# **15. Density functional theory experiments**
+
+A series of molecular models were investigated to confirm the spectral features observed in the periodic framework materials using the Gaussian09 software package.R39 Molecular models included the **DC-100** monomer [NiTPz-(OH)₈], the **DC-100** monomer with hydroxyl protons progressively removed to furnish 1, 2, and 4 CO groups, the **DC-100** monomer with two removed protons and a single Cu atom coordinated by 2 CO groups from the monomer, and the **DC-100** monomer with two removed protons and a single Cu atom coordinated by both 2 CO groups from the monomer as well as ethylenediamine. In the single-metal molecules, NO was initialized at Ni. In the mixed-metal molecules, NO was initialized at both Ni and Cu. All molecules were geometrically optimized using the PBE hybrid exchange and correlation functional (PBE1PBE) including Grimme's empirical D3 dispersion corrections with Becke-Johnson damping (D3BJ) before a frequency calculation was performed on the optimized structure at the same level of theory. A def2svp basis was used with tight convergence and a superfine density grid. For thoroughness, the **DC-100** monomer with NO initialized at Ni was also optimized at the PBEh1PBE/def2svp, B3P86/def2tzvp, B3PW91/def2tzvp + D3BJ, PBE1PBE/def2svp + D3BJ, OLYP/def2tzvp, TPSSTPSS/def2tzvp + D3BJ, and TPSSh/def2tzvp levels of theory. These disparate models were employed due to the notorious difficulty of accurately reproducing metal-NO interactions with DFT.R40 Notably, only the PBE1PBE/def2svp + D3BJ level of theory yielded a stable Ni-NO bond, whereas the rest of the models resulted in NO desorption. Therefore, this level of theory was applied to the remaining molecular models. For the **DC-100** monomer with NO bound to Ni, the NO vibrational frequency was 1986 cm-1 , near the free NO stretch and suggestive of weak bonding. For the **DC-100** monomer with one proton removed to furnish 1 CO group, the Ni-NO bond
+
+was similarly weak and resulted in an NO vibrational frequency of 1988 cm-1 . For all other proton-deficient single-metal monomers, the NO molecule desorbed. When Cu(I) was included by coordination to 2 CO groups but without ethylenediamine, a slightly stronger Cu-NO bond formed with an NO vibrational frequency of 1893 cm-1 , still far from the experimentally-observed feature near 1700 cm-1 . However, when the molecular model incorporated ethylenediamine to yield 4-coordinate Cu(I), NO formed a stronger bond to the Cu atom and the resulting NO vibrational frequency was 1693 cm-1 , in excellent agreement with the NO vibrational mode obtained in the corresponding periodic model with VASP (1685 cm-1 ).
+
+![](_page_60_Figure_0.jpeg)
+
+**Figure S38**. Density of states plotted for the edge-site Cu(I) model before and after NO binding, showing the appearance of unoccupied antibonding N-O states ~0.7 eV above the Fermi level while conserving the other features. The real space wavefunction is plotted for the band containing the new states. The DOS of single-layer periodic **DC-100** is included for comparison.
+
+![](_page_61_Figure_0.jpeg)
+
+**Figure S39**. Molecular model of **DC-100** composed of the NiTPz-(OH)<sup>8</sup> monomer with two protons removed to form 2 CO groups, a single Cu atom, and coordinating ethylenediamine. NO bonds to the Cu(I) atom and vibrates at a frequency of 1693 cm-1 .
+
+# **16. References**
+
+- (R1) Zhou, Z.-L.; Weber, E.; Keana, J. F., Acetoxylation of 6, 7-dialkoxy-substituted 1, 4 dihydroquinoxaline-2, 3-diones (Qxs) using fuming nitric acid in acetic acid: A facile synthesis of 5-acyloxy-6, 7-dialkoxy QXs. *Tetrahedron letters* **1995,** *36* (42), 7583-7586.
+- (R2) Ottenwaelder, X.; Ruiz-García, R.; Blondin, G.; Carasco, R.; Cano, J.; Lexa, D.; Journaux, Y.; Aukauloo, A. From Metal to Ligand Electroactivity in Nickel(II) Oxamato Complexes. *Chem. Commun.* **2004**, 5, 504-505.
+- (R3) (a) Schroder, D. K. *Semiconductor Material and Device Characterization*. John Wiley & Sons, Inc.: 2005. (b) Smits, F. M. Measurement of Sheet Resistivities with the Four-Point Probe. *Bell System Technical Journal* **1958**, *37*, 711-718.
+- (R4) (a) Li, J.; Lu, Y.; Ye, Q.; Cinke, M.; Han, J.; Meyyappan, M. Carbon Nanotube Sensors for Gas and Organic Vapor Detection. *Nano Lett.* **2003**, *3*, 929. S20. (b) Ammu, S.; Dua, V.; Agnihotra, S. R.; Surwade, S. P.; Phulgirkar, A.; Patel, S.; Manohar, S. K. Flexible, All-Organic Chemiresistor for Detecting Chemically Aggressive Vapors. *J. Am. Chem. Soc*. **2012**, *134*, 4553-4556.
+- (R5) Samarghandi, M. R.; Hadi, M.; McKay, G. Breakthrough Curve Analysis for Fixed-Bed Adsorption of Azo Dyes Using Novel Pine Cone—Derived Active Carbon. *Adsorption Science & Technology* **2014**, *32*, 791-806.
+- (R6) (a) Garcia, S.; Gil, M. V.; Martin, C. F.; Pis, J. J.; Rubiera, F.; Pevida, C. Breakthrough Adsorption Study of a Commercial Activated Carbon for Pre-Combustion CO<sup>2</sup> Capture. *Chem. Eng. J*. **2011**, *171*, 549-556; (b) England, C.; Corcoran, W. H. The Rate and Mechanism of the Air Oxidation of Parts-per-Million Concentrations of Nitric Oxide in the Presence of Water Vapor. *Ind. Eng. Chem. Fundam.* **1975**, *14*, 55–63.
+- (R7) Meng, Z.; Aykanat, A.; Mirica, K. A. Welding Metallophthalocyanines into Bimetallic Molecular Meshes for Ultrasensitive, Low-Power Chemiresistive Detection of Gases. *J. Am. Chem. Soc.* **2019**, *141* (5), 2046-2053.
+- (R8) Aykanat, A.; Meng, Z.; Stolz, R. M.; Morrell, C. T.; Mirica, K. A. Bimetallic Twodimensional Metal–Organic Frameworks for the Chemiresistive Detection of Carbon Monoxide. *Angew. Chem. Int. Ed.* **2022**, *61* (6), e202113665.
+- (R9) Meng, Z.; Stolz, R. M.; Mirica, K. A. Two-Dimensional Chemiresistive Covalent Organic Framework with High Intrinsic Conductivity. *J. Am. Chem. Soc.* **2019**, *141* (30), 11929- 11937.
+- (R10) Yue, Y.; Cai, P.; Xu, X.; Li, H.; Chen, H.; Zhou, H.-C.; Huang, N. Conductive Metallophthalocyanine Framework Films with High Carrier Mobility as Efficient Chemiresistors. *Angew. Chem. Int. Ed.* **2021**, *60* (19), 10806-10813.
+- (R11) Ho, K.-C.; Tsou, Y.-H. Chemiresistor-Type NO Gas Sensor Based on Nickel Phthalocyanine Thin Films. *Sens. Actuators B Chem.* **2001**, *77* (1–2), 253-259.
+- (R12) Ho, K.-C.; Chen, C.-M.; Liao, J.-Y. Enhancing Chemiresistor-Type NO Gas-Sensing Properties Using Ethanol-Treated Lead Phthalocyanine Thin Films. *Sens. Actuators B Chem.* **2005**, *108* (1–2), 418-426.
+- (R13) Meng, Z.; Stolz, R. M.; De Moraes, L. S.; Jones, C. G.; Eagleton, A. M.; Nelson, H. M.; Mirica, K. A. Gas-induced Electrical and Magnetic Modulation of Two-dimensional Conductive Metal–Organic Framework. *Angew. Chem. Int. Ed.* **2024**, *63* (24), e202404290.
+- (R14) Ko, M.; Aykanat, A.; Smith, M. K.; Mirica, K. A. Drawing Sensors with Ball-Milled Blends of Metal–Organic Frameworks and Graphite. *Sensors* **2017**, *17*, 2192 (1-17).
+- (R15) Smith, M. K.; Mirica, K. A. Self-Organized Frameworks on Textiles (SOFT): Conductive Fabrics for Simultaneous Sensing, Capture, and Filtration of Gases. *J. Am. Chem. Soc.* **2017**, *139*, 16759-16767.
+- (R16) Aykanat, A.; Jones, C. G.; Cline, E.; Stolz, R. M.; Meng, Z.; Nelson, H. M.; Mirica, K. A. Conductive Stimuli-Responsive Coordination Network Linked with Bismuth for Chemiresistive Gas Sensing. *ACS Appl. Mater. Interfaces* **2021**, *13* (50), 60306-60318.
+- (R17) Zhang, W.; Uchida, H.; Katsube, T.; Nakatsubo, T.; Nishioka, Y. A Novel Semiconductor NO Gas Sensor Operating at Room Temperature. *Sens. Actuators B Chem.* **1998**, *49* (1– 2), 58-62.
+- (R18) Singh, P.; Hu, L.-L.; Zan, H.-W.; Tseng, T.-Y. Highly Sensitive Nitric Oxide Gas Sensor Based on ZnO-Nanorods Vertical Resistor Operated at Room Temperature. *Nanotechnology* **2019**, *30* (9), 095501 (1-7).
+- (R19) Jeong, D.-W.; Kim, K. H.; Kim, B. S.; Byun, Y. T. Characteristics of Highly Sensitive and Selective Nitric Oxide Gas Sensors Using Defect-Functionalized Single-Walled Carbon Nanotubes at Room Temperature. *Appl. Surf. Sci.* **2021**, *550* (149250), 149250 (1-7).
+- (R20) Lim, N.; Kim, K. H.; Byun, Y. T. Preparation of Defected SWCNTs Decorated with En-APTAS for Application in High-Performance Nitric Oxide Gas Detection. *Nanoscale* **2021**, *13* (13), 6538-6544.
+- (R21) Qiu, J.; Hu, X.; Min, X.; Quan, W.; Tian, R.; Ji, P.; Zheng, H.; Qin, W.; Wang, H.; Pan, T.; Cheng, S.; Chen, X.; Zhang, W.; Wang, X. Observation of Switchable Dual-Conductive Channels and Related Nitric Oxide Gas-Sensing Properties in the N-rGO/ZnO Heterogeneous Structure. *ACS Appl. Mater. Interfaces* **2020**, *12* (17), 19755-19767.
+- (R22) Li, W.; Geng, X.; Guo, Y.; Rong, J.; Gong, Y.; Wu, L.; Zhang, X.; Li, P.; Xu, J.; Cheng, G.; Sun, M.; Liu, L. Reduced Graphene Oxide Electrically Contacted Graphene Sensor for Highly Sensitive Nitric Oxide Detection. *ACS Nano* **2011**, *5* (9), 6955-6961.
+- (R23) Shiba, S.; Yamada, K.; Matsuguchi, M. Humidity-Resistive Optical NO Gas Sensor Devices Based on Cobalt Tetraphenylporphyrin Dispersed in Hydrophobic Polymer Matrix. *Sensors* **2020**, *20* (5), 1295 (1-8).
+- (R24) Mondal, S. P.; Dutta, P. K.; Hunter, G. W.; Ward, B. J.; Laskowski, D.; Dweik, R. A. Development of High Sensitivity Potentiometric NOx Sensor and Its Application to Breath Analysis. *Sens. Actuators, B: Chem*. **2011**, *158*, 292-298.
+- (R25) Aylott, J. W.; Richardson, D. J.; Russell, D. A. Optical Biosensing of Gaseous Nitric Oxide Using Spin-Coated Sol−Gel Thin Films. *Chem. Mater.* **1997**, *9* (11), 2261–2263.
+- (R26) Dacres, H.; Narayanaswamy, R. A New Optical Sensing Reaction for Nitric Oxide. *Sens. Actuators B Chem.* **2003**, *90* (1–3), 222–229.
+- (R27) Toda, K.; Hato, Y.; Ohira, S.-I.; Namihira, T. Micro-Gas Analysis System for Measurement of Nitric Oxide and Nitrogen Dioxide: Respiratory Treatment and Environmental Mobile Monitoring. *Anal. Chim. Acta* **2007**, *603* (1), 60–66.
+- (R28) Petruci, J. F. da S.; Tütüncü, E.; Cardoso, A. A.; Mizaikoff, B. Real-Time and Simultaneous Monitoring of NO, NO2, and N2O Using Substrate-Integrated Hollow Waveguides Coupled to a Compact Fourier Transform Infrared (FT-IR) Spectrometer. *Appl. Spectrosc.* **2019**, *73* (1), 98–103.
+- (R29) Gondal, M. A.; Khalil, A. A. I.; Al-Suliman, N. High Sensitive Detection of Nitric Oxide Using Laser Induced Photoacoustic Spectroscopy at 213 Nm. *Appl. Opt.* **2012**, *51* (23), 5724–5734.
+- (R30) Funazo, K.; Tanaka, M.; Shono, T. Gas Chromatographic Determination of Nitric Oxide at Sub-Ppm Levels. *Anal. Chim. Acta* **1980**, *119* (2), 291–297.
+- (R31) Robinson, J. K.; Bollinger, M. J.; Birks, J. W. Luminol/H2O2 Chemiluminescence Detector for the Analysis of Nitric Oxide in Exhaled Breath. *Anal. Chem.* **1999**, *71* (22), 5131–5136.
+- (R32) Harper, J.; Sailor, M. J. Detection of Nitric Oxide and Nitrogen Dioxide with Photoluminescent Porous Silicon. *Anal. Chem.* **1996**, *68* (21), 3713–3717.
+- (R33) Toda, K.; Koga, T.; Kosuge, J.; Kashiwagi, M.; Oguchi, H.; Arimoto, T. Micro Gas Analyzer Measurement of Nitric Oxide in Breath by Direct Wet Scrubbing and Fluorescence Detection. *Anal. Chem.* **2009**, *81* (16), 7031–7037.
+- (R34) Liu, Y.; Li, S.; Dai, L.; Li, J.; Lv, J.; Zhu, Z.; Yin, A.; Li, P.; Wang, B. The Synthesis of Hexaazatrinaphthylene-based 2D Conjugated Copper Metal-organic Framework for Highly Selective and Stable Electroreduction of CO<sup>2</sup> to Methane. *Angew. Chem. Int. Ed.* **2021**, *60* (30), 16409–16415.
+- (R35) Ghodselahi, T.; Vesaghi, M. A.; Shafiekhani, A.; Baghizadeh, A.; Lameii, M. XPS Study of the Cu@Cu2O Core-Shell Nanoparticles. *Appl. Surf. Sci.* **2008**, *255* (5), 2730–2734.
+- (R36) (a) Wu, S.; Wen, G.; Schlogl, R.; Su, D. S. Carbon Nanotubes Oxidized by a Green Method as Efficient Metal-Free Catalysts for Nitroarene Reduction. *Phys. Chem. Chem. Phys*. **2015**, *17*, 1567-1571. (b) Qi, W.; Liu, W.; Zhang, B.; Gu, X.; Guo, X.; Su, D. Oxidative Dehydrogenation on Nanocarbon: Identification and Quantification of Active Sites by Chemical Titration. *Angew. Chem. Int. Ed*. **2013**, *52*, 14224–14228.
+- (R37) de Oteyza, D. G.; El-Sayed, A.; Garcia-Lastra, J. M.; Goiri, E.; Krauss, T. N.; Turak, A.; Barrena, E.; Dosch, H.; Zegenhagen, J.; Rubio, A.; Wakayama, Y.; Ortega, J. E.
+
+Copper-Phthalocyanine Based Metal–Organic Interfaces: The Effect of Fluorination, the Substrate, and Its Symmetry. *J. Chem. Phys.* **2010**, *133* (21), 214703 (1-6).
+
+- (R38) Graf, N.; Yegen, E.; Gross, T.; Lippitz, A.; Weigel, W.; Krakert, S.; Terfort, A.; Unger, W. E. S. XPS and NEXAFS Studies of Aliphatic and Aromatic Amine Species on Functionalized Surfaces. *Surf. Sci.* **2009**, *603* (18), 2849–2860.
+- (R39) Frisch, M. J. et al. *Gaussian 09, Revision E.01*, Gaussian Inc. 2013.
+- (R40) Boguslawski, K.; Jacob, C. R.; Reiher, M. Can DFT Accurately Predict Spin Densities? Analysis of Discrepancies in Iron Nitrosyl Complexes. *J. Chem. Theory Comput.* **2011**, *7* (9), 2740–2752.
+
+根据提供的文献内容，生成实验流程复现文献实验
+

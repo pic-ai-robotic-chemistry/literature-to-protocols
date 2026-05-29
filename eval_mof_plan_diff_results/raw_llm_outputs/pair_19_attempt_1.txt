@@ -1,0 +1,135 @@
+{
+  "pair_id": 19,
+  "winner": "origin_paper",
+  "winner_reason_short": "The origin_paper plan provides a more granular, fully decomposed, and platform-mapped automation workflow with explicit boundaries and no application overreach.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid dosing",
+      "liquid dosing",
+      "precursor solution preparation",
+      "mixing/stirring/dispersion",
+      "main synthesis reaction",
+      "washing/purification/centrifugation/filtration",
+      "drying",
+      "final dispersion/storage",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "electrochemical testing",
+      "gas sensing/product analysis",
+      "performance evaluation"
+    ],
+    "notes": "Both plans cover the full MOF material-preparation lifecycle (multi-variant synthesis, washing, drying, dispersion, waste), but origin_paper gives a more detailed, stepwise, automation-ready mapping with explicit module and boundary handling."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 10,
+      "covered_material_stage_count": 10,
+      "material_coverage": 1.0,
+      "coverage_reason": "All required material-preparation stages are explicitly covered in detail."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "Manual/external steps (e.g., nitrogen protection, vacuum drying) are clearly marked as boundaries or platform prerequisites."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 2,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "Downstream tests and analysis are explicitly excluded from the automation workflow."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 19.0,
+      "practicality_reason": "Stepwise mapping to platform modules, clear vessel/sample transitions, actionable parameters, and explicit handling of platform limitations."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 20.0,
+      "fidelity_reason": "Material-preparation lifecycle is fully preserved, downstream is excluded, and all manual/external boundaries are explicit."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Three MOF variants are clearly separated with independent containers and steps."
+    },
+    "main_strengths": [
+      "Highly granular, stepwise automation mapping",
+      "Explicit boundaries for manual/external steps and downstream exclusion"
+    ],
+    "main_weaknesses": [
+      "Slightly more complex workflow may require careful scheduling",
+      "Some platform parameter defaults required due to missing literature details"
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 10,
+      "covered_material_stage_count": 9,
+      "material_coverage": 0.9,
+      "coverage_reason": "Covers all major stages but omits explicit final dispersion/storage and detailed waste handling."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 1,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": [
+        "explicit final dispersion/storage"
+      ]
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 4.5,
+      "boundary_reason": "Manual/external boundaries are mostly explicit, but some transitions (e.g., dispersion, waste) are less granular."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 1,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or analysis steps are included in the main workflow."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 17.0,
+      "practicality_reason": "Good module mapping and container handling, but some step transitions (e.g., sample splitting, final dispersion) are less explicit."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 18.0,
+      "fidelity_reason": "Material-preparation lifecycle is mostly preserved, but some workflow decomposition and explicit boundaries are less detailed than origin_paper."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Three MOF variants are handled as parallel, independent branches."
+    },
+    "main_strengths": [
+      "Concise, clear mapping of major material-preparation steps",
+      "No application overreach and explicit exclusion of downstream tests"
+    ],
+    "main_weaknesses": [
+      "Less granular workflow decomposition",
+      "Some step transitions and final material state are less explicit"
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "origin_paper",
+    "fewer_material_omissions": "origin_paper",
+    "better_automation_boundary_quality": "origin_paper",
+    "less_application_overreach": "tie",
+    "better_platform_adaptation_practicality": "origin_paper",
+    "better_automation_scope_fidelity": "origin_paper",
+    "better_branch_handling": "tie",
+    "better_overall_for_automation_scope_material_workflow": "origin_paper"
+  }
+}

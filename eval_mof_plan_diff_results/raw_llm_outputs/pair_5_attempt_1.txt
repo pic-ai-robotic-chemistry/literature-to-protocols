@@ -1,0 +1,136 @@
+{
+  "pair_id": 5,
+  "winner": "protocol",
+  "winner_reason_short": "The protocol plan provides clearer, more precise, and more platform-adapted automation-ready material-preparation steps with explicit boundaries and no downstream overreach.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid dosing",
+      "liquid dosing",
+      "precursor solution preparation",
+      "mixing/stirring",
+      "main synthesis reaction (metal exchange, ligand exchange)",
+      "washing/purification (multi-solvent, multi-cycle)",
+      "centrifugation",
+      "ultrasonic dispersion",
+      "drying/activation",
+      "final material collection/storage",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "catalytic testing",
+      "electrochemical testing",
+      "GC-MS/NMR/DRIFTS/Mössbauer/NRVS/EPR analysis",
+      "product performance evaluation"
+    ],
+    "notes": "Both plans focus on Fe-doped MOF synthesis with multi-step washing, drying, and activation; protocol plan is more precise, concise, and avoids downstream/application steps."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 12,
+      "covered_material_stage_count": 12,
+      "material_coverage": 1.0,
+      "coverage_reason": "All required material-preparation stages are represented, including washing, drying, activation, and waste handling."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 4,
+      "correctly_isolated_boundary_count": 4,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 4.5,
+      "boundary_reason": "Manual/external steps (glovebox, vacuum, low temp, analysis) are clearly marked as external or unsupported."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 4,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "Downstream analysis and application steps are explicitly excluded or marked as external."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 17.0,
+      "practicality_reason": "Good module mapping and sample transitions, but some vessel/volume ambiguity and less concise than protocol."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 17.0,
+      "fidelity_reason": "Faithfully preserves the material-preparation lifecycle and boundaries, but is more verbose and less streamlined than protocol."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": false,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "No unnecessary branching; any variants are clearly separated."
+    },
+    "main_strengths": [
+      "Covers all material-preparation lifecycle stages",
+      "Clearly marks manual/external boundaries and excludes downstream tests"
+    ],
+    "main_weaknesses": [
+      "Verbose and somewhat redundant step structure",
+      "Some ambiguity in vessel/sample mapping and parameter defaults"
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 12,
+      "covered_material_stage_count": 12,
+      "material_coverage": 1.0,
+      "coverage_reason": "All required material-preparation stages are precisely and concisely covered with actionable parameters."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 3,
+      "correctly_isolated_boundary_count": 3,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "Manual/external steps (vacuum, gas, glovebox) are clearly isolated and not treated as automated."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 2,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or analysis steps are included in the main workflow."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 19.0,
+      "practicality_reason": "Highly actionable, concise, clear vessel/sample mapping, and all steps are directly executable or properly bounded."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 19.0,
+      "fidelity_reason": "Faithfully and efficiently converts the protocol into an automation-scope workflow, with no unnecessary steps or omissions."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": false,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "No unnecessary branching; all variants are clearly separated if present."
+    },
+    "main_strengths": [
+      "Highly concise and precise material-preparation workflow",
+      "Excellent platform adaptation and explicit automation boundaries"
+    ],
+    "main_weaknesses": [
+      "Slightly less explicit about some rare manual contingencies",
+      "Does not enumerate all possible MOF variants (but not required)"
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "tie",
+    "fewer_material_omissions": "tie",
+    "better_automation_boundary_quality": "protocol",
+    "less_application_overreach": "tie",
+    "better_platform_adaptation_practicality": "protocol",
+    "better_automation_scope_fidelity": "protocol",
+    "better_branch_handling": "tie",
+    "better_overall_for_automation_scope_material_workflow": "protocol"
+  }
+}

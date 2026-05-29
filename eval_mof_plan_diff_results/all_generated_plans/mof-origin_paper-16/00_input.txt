@@ -1,0 +1,1139 @@
+# **An elastic metal–organic crystal with a densely catenated backbone**
+
+<https://doi.org/10.1038/s41586-021-03880-x>
+
+Received: 25 February 2021
+
+Accepted: 6 August 2021
+
+Published online: 13 October 2021
+
+ [C](http://crossmark.crossref.org/dialog/?doi=10.1038/s41586-021-03880-x&domain=pdf)heck for updates
+
+**Wenjing Meng1,8,9, Shun Kondo2,9, Takuji Ito3 , Kazuki Komatsu4 , Jenny Pirillo5 , Yuh Hijikata5 , Yuichi Ikuhara2 , Takuzo Aida1,6** ✉ **& Hiroshi Sato1,6,7** ✉
+
+What particular mechanical properties can be expected for materials composed of interlocked backbones has been a long-standing issue in materials science since the frst reports on polycatenane and polyrotaxane in the 1970[s1](#page-4-0)[–3](#page-4-1) . Here we report a three-dimensional porous metal–organic crystal, which is exceptional in that its warps and wefts are connected only by catenation. This porous crystal is composed of a tetragonal lattice and dynamically changes its geometry upon guest molecule release, uptake and exchange, and also upon temperature variation even in a low temperature range. We indente[d4](#page-4-2) the crystal along its *a*/*b* axes and obtained the Young's moduli of 1.77 ± 0.16 GPa in *N*,*N*-dimethylformamide and 1.63 ± 0.13 GPa in tetrahydrofuran, which are the lowest among those reported so far for porous metal– organic crystal[s5](#page-4-3) . To our surprise, hydrostatic compression showed that this elastic porous crystal was the most deformable along its *c* axis, where 5% contraction occurred without structural deterioration upon compression up to 0.88 GPa. The crystal structure obtained at 0.46 GPa showed that the catenated macrocycles move translationally upon contraction. We anticipate our mechanically interlocked molecule-based design to be a starting point for the development of porous materials with exotic mechanical properties. For example, squeezable porous crystals that may address an essential difculty in realizing both high abilities of guest uptake and release are on the horizon.
+
+A variety of mechanically interlocked structures have been found in nature[6](#page-4-4) , of which the geometries and large potential to exert unique functions are of major scientific interest. Historically, the concept of 'chemical topology' was introduced for the first time in 1961 and afforded a new challenge in chemistry[7](#page-4-5) . Unlike covalently constructed molecules, mechanically interlocked molecules (MIMs) such as catenanes[8](#page-4-6),[9](#page-4-7) and rotaxanes[10](#page-4-8),[11](#page-4-9) bear spatially restricted freedom of motion[12](#page-4-10),[13](#page-4-11), and a wide variety of synthetic molecular machines and switches based on MIMs have been developed so far[14](#page-4-12)[,15.](#page-4-13) Meanwhile, since the first success in the synthesis of polycatenane and polyrotaxane in the 1970[s1](#page-4-0)[–3](#page-4-1) , such mechanically interlocked polymers have attracted particular attentio[n16](#page-4-14)–[21](#page-4-15) as their densely populated mechanical bonds are expected to move coherently along the main chains, providing anomalous mechanical properties[22](#page-4-16),[23](#page-4-17) (Supplementary Table 1). Although peculiar mechanical properties are yet to be reported, precision synthesis of poly[*n*]catenanes, whose chains are composed solely of catenanes, has been impressiv[e19.](#page-4-18) We envisaged that if the backbone of a metal–organic crystal were composed of a catenane structure, such a porous crystal might exhibit rubber-like elastic properties. This idea may address the dilemma of porous materials: the higher the guest uptake ability, the less easily guest release occurs. Although most practically useful porous materials are mechanically robust[24](#page-4-19)[,25,](#page-4-20) elastic porous materials, if available, could be mechanically squeezable for the forcing of guest molecules out of the pores. Several different metal–organic crystals[26](#page-4-21),[27](#page-4-22) carrying MIMs as backbone pendants[28](#page-4-23)[–35](#page-5-0) have been reported, exploring their rotar[y32](#page-5-1),[33,](#page-5-2)[35](#page-5-0) and shuttlin[g34](#page-5-3) motions in the solid state. However, as for metal–organic crystals composed of MIM-based backbones, only a few examples have been reported without exploration of their mechanical properties[36–](#page-5-4)[39.](#page-5-5)
+
+Here, we report a porous metal–organic crystal, [2]catenane-based metal–organic framework (CTNMOF), that is exceptional in that all of its warps and wefts are three-dimensionally (3D) connected only by catenation (Fig. [1b](#page-1-0)), and it can reversibly deform its crystalline framework in response to an externally applied pressure. The crystal adopts a thin rectangular shape, which technically allows for compression only along the crystallographic *a*/*b* axes (crystallographically equivalent to each other), producing Young's moduli of 1.77 ± 0.16 GPa in *N*,*N*-dimethylformamide (DMF) and 1.63 ± 0.13 GPa in tetrahydrofuran (THF). These values are among the smallest of the metal–organic crystals so far reported[5](#page-4-3) , whereas the crystal, when placed under a high hydrostatic pressure, predominantly contracts along the crystallographic *c* axis. For the synthesis of CTNMOF, we designed a [2] catenane-base[d40](#page-5-6) ligand, H4 CTNL, (Fig. [1a](#page-1-0), Supplementary Figs. 9–15 and 18), where each of its catenated benzylamide macrocycles carries
+
+Department of Chemistry and Biotechnology, School of Engineering, The University of Tokyo, Tokyo, Japan. 2 Institute of Engineering Innovation, School of Engineering, The University of Tokyo, Tokyo, Japan. 3 ELIONIX INC., Tokyo, Japan. 4 Geochemical Research Center, Graduate School of Science, The University of Tokyo, Tokyo, Japan. 5 Institute for Chemical Reaction Design and Discovery (WPI-ICReDD), Hokkaido University, Sapporo, Japan. 6 RIKEN Center for Emergent Matter Science, Saitama, Japan. 7 Japan Science and Technology Agency (JST), Precursory Research for Embryonic Science and Technology (PRESTO), Saitama, Japan. 8 Present address: Research Center for Functional Materials, National Institute for Materials Science, Ibaraki, Japan. 9 These authors contributed equally: Wenjing Meng, Shun Kondo. ✉e-mail: [aida@macro.t.u-tokyo.ac.jp](mailto:aida@macro.t.u-tokyo.ac.jp); [hiroshi.sato@riken.jp](mailto:hiroshi.sato@riken.jp)
+
+![](_page_1_Figure_0.jpeg)
+
+<span id="page-1-0"></span>**Fig. 1 | Crystal structure of CTNMOF at 25 °C with a space group of** *P***4122. a**, Chemical structure of the [2]catenane-based ligand H4 CTNL. **b**, Schematics of CTNMOF, whose warps and wefts are mechanically interlocked by catenation, viewed along the *b* axis. **c**, Space-filling representations of CTNMOF viewed along the *b* axis. **d**, Wireframe representations of CTNMOF viewed along the
+
+two carboxylic acid groups, which have the ability to share a metal ion with the adjacent catenane units by coordination. In its crystalline state, these catenated macrocycles are geometrically fixed by an inter-component hydrogen-bonding interaction and adopt either a chair or boat conformation (Supplementary Fig. 19, Supplementary Table 3). By contrast, when Me4 CTNL (Supplementary Figs. 4–7, 17, 20, Supplementary Table 4), a methyl ester derivative of H4 CTNL, was dissolved in DMF-*d*7, these hydrogen bonds are attenuated, granting the catenated macrocycles a certain conformational freedom from each other (Supplementary Figs. 2 and 3). When a mixture of H4 CTNL and cobalt(II) nitrate hexahydrate (1:8 in mol) in DMF was heated at 90 °C for 18 h, needle-like dark-green crystals of CTNMOF formed (Supplementary Fig. 1). Single-crystal X-ray diffraction (SCXRD) analysis (Supplementary Table 5) at 26 °C revealed that this crystalline material belongs to the chiral space group of *P*4122 with a composition of [Co2( CTNL)• 7H2O•4DMF]*n*, indicating the occurrence of mirror symmetry breaking in the crystallization process. In regard to this observation, the CTNL units in CTNMOF adopt a chiral topology and are helically arranged along the four-fold screw axis, that is, *a* axis (Supplementary Fig. 24; left handed, *M* helicity). As shown in Supplementary Fig. 21e, f, the catenated macrocycles in CTNL form two one-dimensional (1D) metal– organic chains running along the crystallographic *a*/*b* axes that are equivalent to each other and correspond to the warps and wefts of the 3D framework of CTNMOF. Consequently, CTNL is located at all of the intersections between the warps and wefts and mechanically interlocks
+
+*b* axis. A pair of orthogonally arranged 1D metal–organic chains and a pair of catenated macrocycles of CTNL in CTNMOF are highlighted, where dashed green lines represent hydrogen bonds. Except for those involved in the hydrogen bonds in **d**, axial ligands of the Co2+-paddle-wheel units, solvent molecules and hydrogen atoms are omitted for clarity.
+
+these 1D metal–organic chains (Fig. [1d,](#page-1-0) Supplementary Fig. 21g, h). Unlike the catenated macrocycles in the H4 CTNL crystal (Supplementary Fig. 19), those in CTNMOF all adopt a boat conformation, where two pairs of intramolecular hydrogen bonds are formed between the benzylamide groups. As a result, the crystal composed of the mechanically interlocked warps and wefts carried 3D-interconnected channels (Supplementary Fig. 25) with cross-sectional areas along the *c* and *a*/*b* axes of 6.2 × 6.2 Å<sup>2</sup> (Supplementary Fig. 21c) and 4.5 × 4.0 Å<sup>2</sup> (Fig. [1c\)](#page-1-0), respectively. By using PLATON[41,](#page-5-7) the solvent-accessible void volume of CTNMOF was calculated to be 59% of the unit cell volume. Accordingly, CTNMOF was able to accommodate gaseous molecules into its crystalline channels. For example, its CO2 adsorption isotherm at −78 °C (Supplementary Fig. 41) showed the presence of a permanent microporous structure with a CO2 sorption capacity of 65 ml STP g−1 at *P*/*P*0 = 0.98.
+
+Crystalline CTNMOF is structurally dynami[c42](#page-5-8) and undergoes geometrical changes upon guest release, uptake and exchange. As-synthesized CTNMOF in DMF included DMF molecules as guests in its interconnected channels. As observed by thermogravimetric analysis (Supplementary Fig. 39), CTNMOF lost its included DMF molecules upon heating to 100 °C. Notably, guest-free CTNMOF thus obtained showed a high thermal stability and survived up to a temperature of nearly 360 °C without decomposition. The powder X-ray diffraction (PXRD) pattern of CTNMOF soaked in DMF (Fig. [2a](#page-2-0), top) agreed well with the simulated pattern (Fig. [2a,](#page-2-0) bottom) derived from its SCXRD structure (Fig. [1](#page-1-0)), indicating that CTNMOF has a high phase purity. When the included guest was
+
+### **Article**
+
+![](_page_2_Figure_1.jpeg)
+
+<span id="page-2-0"></span>**Fig. 2 | Guest-responsive properties of CTNMOF. a**, PXRD pattern of CTNMOF soaked in DMF (top) and its simulated pattern (bottom). **b**, PXRD pattern of guest-free CTNMOF after being heated at 80 °C for 18 h under a reduced
+
+removed from CTNMOF, its PXRD pattern became relatively featureless (Fig. [2b](#page-2-0)). However, when guest-free CTNMOF thus obtained was soaked in DMF at 25 °C for 24 h, this solid recovered its original PXRD pattern (Fig. [2c](#page-2-0)). We also found that the crystal structure of CTNMOF is sensitive to the type of included guest. For example, when DMF-including CTNMOF (Fig. [2a\)](#page-2-0) was soaked in acetonitrile (MeCN) at 25 °C for 1 h, its PXRD pattern changed to a different one, as shown in Fig. [2d](#page-2-0). However, when MeCN-soaked CTNMOF was immersed in DMF at 25 °C for 1 h, its PXRD pattern returned to that of DMF-including CTNMOF (Fig. [2e](#page-2-0)). Meanwhile, when ethanol was used instead of MeCN for soaking DMF-including CTNMOF at 25 °C for 30 min, a single-crystal-to-single-crystal transition took place, where the space group of CTNMOF was transformed from *P*4122 to *P*41, as confirmed by SCXRD at −180 °C, as a result of the guest exchange from DMF to ethanol (Fig. [3f,](#page-3-0) Supplementary Table 11). These observations allow us to conclude that CTNMOF dynamically changes its geometrical feature upon guest release, uptake and exchange while maintaining its porous structure.
+
+CTNMOF also displayed a thermally adaptive feature. In a set of variable-temperature SCXRD measurements, we collected the diffraction data for a single crystal of DMF-including CTNMOF, upon sequential temperature changes from 26 °C (Figs. [1](#page-1-0) and [3a\)](#page-3-0) to −180 °C, −130 °C, −80 °C, −58 °C and finally to −52 °C (Fig. [3b–e](#page-3-0), Supplementary Table 12). Upon heating from −180 °C (Fig. [3b,](#page-3-0) Supplementary Table 6) to −130 °C (Supplementary Table 7), the space group of CTNMOF remained unchanged as *C*2221. Upon subsequent heating from −130 °C to −80 °C (Fig. [3c,](#page-3-0) Supplementary Table 8) and then to −58 °C (Fig. [3d,](#page-3-0) Supplementary Table 9), the space group adaptively changed from *C*2221 to *P*41212 and then to *P*4122, respectively. The space group at −58 °C was the same as that initially observed for DMF-including CTNMOF at 26 °C (Figs. [1](#page-1-0) and [3a\)](#page-3-0), which is characterized by the most symmetric polymorph among those observed for CTNMOF, with only one macrocycle from CTNL and one Co2+ ion in the asymmetric unit (Supplementary Fig. 23c). However, when CTNMOF was heated from −58 °C to
+
+**300** | Nature | Vol 598 | 14 October 2021
+
+pressure. **c**, PXRD pattern of heated CTNMOF resoaked in DMF at 25 °C for 24 h. **d**, PXRD pattern of CTNMOF soaked in MeCN at 25 °C for 1 h. **e**, PXRD pattern of DMF-soaked CTNMOF immersed in DMF at 25 °C for 1 h.
+
+−52 °C and kept at the same temperature for 24 h, the crystal changed its space group to *P*212121 (Fig. [3e](#page-3-0), Supplementary Table 10), which is the least symmetric geometry among those observed for CTNMOF, with four macrocycles (two CTNL) and four Co2+ ions in the asymmetric unit (Supplementary Fig. 23d). Such a temperature-adaptive structural variation, one of the most characteristic features of CTNMOF due to its 3D catenated backbone, was clearly confirmed from the change in cross-sectional shape of the largest channel running along the *c* axis (Fig. [3\)](#page-3-0): from a square at 26 °C to a rectangle at −180 °C, a rhombus at −80 °C, a square at −58 °C and then a parallelogram at −52 °C.
+
+Our motivation for the synthesis of crystalline CTNMOF was to explore the mechanical properties of metal–organic crystals with densely catenated backbones. Encouraged by the dynamic and adaptive nature of crystalline CTNMOF described above, we investigated its deformation properties by means of nanoindentation. To confirm the maximum load that can be applied to the crystal for the nanoindentation test, CTNMOF was subjected to a fracture test, where a fatal fracture of the crystal occurred when a load of 33 mN was applied to a CTNMOF single crystal (Supplementary Fig. 30). For the nanoindentation test, a single crystal of CTNMOF was placed on a low melting-point (47 °C) alloy firmly attached to a glass plate (Supplementary Fig. 29a). Because the CTNMOF crystal adopted a thin rectangular shape, only pressing along the *a*/*b* axes was technically possible. We pressed the crystal surface at 30 °C using a triangular pyramidal Berkovich diamond tip and released to obtain the loading and unloading mechanical features (Supplementary Fig. 32, Supplementary Table 17b), respectively (Fig. [4a,](#page-3-1) red trace). From the unloading curve, the Young's modulus of CTNMOF was determined to be 6.31 ± 0.14 GPa (Fig. [4a](#page-3-1), red trace). Although the observed Young's modulus was much smaller than those of representative metal–organic crystals (Supplementary Table 19b), such as HKUST-[143](#page-5-9) (Fig. [4c](#page-3-1), red trace, 10.65 ± 0.11 GPa (reported: 9.3 GPa)[44](#page-5-10)), it is obviously larger than that of Zn-MOF (Zn2(NO2-BDC)2(DABCO) ⊃ DMF (ref. [45](#page-5-11)), where NO2-BDC is 2-nitro-1,4-benzene dicarboxylate and DABCO is 1,4-diazabicyclo[2.2.2]
+
+![](_page_3_Figure_0.jpeg)
+
+<span id="page-3-0"></span>**Fig. 3 | Temperature- and guest-dependent structural transformations of CTNMOF. a**–**e**, Crystal structures of CTNMOF in DMF viewed along the *c* axis with space groups of *P*4122 (**a**), *C*2221 (**b**), *P*41212 (**c**), *P*4122 (**d**) and *P*212121 (**e**). **f**, Crystal structures of CTNMOF in ethanol viewed along the *c* axis with the space group of *P*41. The axial ligands of the Co2+-paddle-wheel units, solvent molecules and
+
+hydrogen atoms are omitted for clarity. Because the above crystal structures are analogous to each other, the energy barriers required for their transitions are probably small, so that they can be smoothly interconverted without any structural deterioration.
+
+octane), the most elastic metal–organic crystal reported so far (Fig. [4e,](#page-3-1) red trace, 2.04 ± 0.26 GPa (reported: 2.1 GPa[\)45](#page-5-11)). This result is not disappointing, considering that the catenated macrocycles in CTNMOF are hydrogen-bonded with each other in an inter-component manner. Therefore, we soaked CTNMOF in DMF for 60 min to allow these hydrogen bonds to be attenuated. In fact, the vibrational band due to the hydrogen-bonded amide moieties of CTNMOF showed a 9 cm−1 shift from 1,631 cm−1 in air to 1,640 cm−1 in DMF (Supplementary Fig. 37). Then, DMF-including CTNMOF was subjected to the nanoindentation test in DMF (Supplementary Fig. 29b), where the unloading curve, in contrast to that in air (Fig. [4a](#page-3-1), red trace), nearly returned to the origin (Fig. [4a](#page-3-1), blue trace). As expected from this elastic nature, the Young's
+
+![](_page_3_Figure_5.jpeg)
+
+<span id="page-3-1"></span>**Fig. 4 | Elastic properties of CTNMOF.a**, Load–displacement curves for CTNMOF in DMF (blue trace) and air-dried CTNMOF (red trace). The average Young's moduli (*E*) in DMF (blue) and in air (red) are shown. The average Young's moduli with standard deviation were evaluated using seven and eighteen measurement data points in DMF and in air, respectively. **b**, Micrograph of the surface of single-crystalline CTNMOF after the nanoindentation test in DMF. **c**, Load– displacement curves for HKUST-1 in DMF (blue trace) and air-dried HKUST-1 (red trace). The average Young's moduli in DMF (blue) and in air (red) are shown. The average Young's moduli with standard deviation were evaluated using eight and five measurement data points in DMF and in air, respectively. **d**, Micrograph of
+
+![](_page_3_Figure_7.jpeg)
+
+the surface of single-crystalline HKUST-1 after the nanoindentation test in DMF. **e**, Load–displacement curves for Zn-MOF in DMF (blue trace) and air-dried Zn-MOF (red trace). The average Young's moduli in DMF (blue) and in air (red) are shown. The average Young's moduli with standard deviation were evaluated using five and five measurement data points in DMFand in air, respectively. **f**, Micrograph of the surface of single-crystalline Zn-MOF after the nanoindentation test in DMF. The white dashed boxes in b, d, f indicate the locations tested for nanoindentation. **g**, Changes in the crystallographic parameters of CTNMOF upon applying high pressures (0–0.88 GPa). Scale bars, 50 µm.
+
+## **Article**
+
+modulus of CTNMOF in DMF was determined to be 1.77 ± 0.16 GPa (Supplementary Table 17a), which is very small and comparable only to that of polypropylene[46](#page-5-12) (1.5–2.0 GPa, Supplementary Table 19a). By contrast, the Young's moduli of HKUST-1 (Supplementary Table 20) evaluated in air (Fig. [4c](#page-3-1), red trace, Young's modulus: 10.65 ± 0.11 GPa) and DMF (Fig. [4c,](#page-3-1) blue trace, Young's modulus: 10.24 ± 0.33 GPa) differed only slightly from each other. Also, air-dried Zn-MOF (Fig. [4e](#page-3-1), red trace, Young's modulus: 2.04 ± 0.26 GPa), when soaked in DMF, even became 1.5 times less deformable (Fig. [4e](#page-3-1), blue trace, Young's modulus: 3.03 ± 0.35 GPa, Supplementary Table 21). When HKUST-1 (Fig. [4d\)](#page-3-1) and Zn-MOF (Fig. [4f\)](#page-3-1) were pressed, clear indentation footprints were left, as usual, on their surfaces. However, to our surprise, no indentation was left behind on the pressed parts of the CTNMOF surface (Fig. [4b](#page-3-1)). This observation may reflect the elastic nature of CTNMOF.
+
+Upon immersion in THF of DMF-including as-synthesized CTNMOF, we successfully obtained THF-including CTNMOF (Supplementary Fig. 28), whose load–displacement curve indicated an elastic nature with the Young's modulus of 1.63 ± 0.13 GPa (Supplementary Fig. 34). Again, the vibrational band due to the hydrogen-bonded amide moieties of CTNMOF showed a 13 cm−1 shift from 1,631 cm−1 in air to 1,644 cm−1 in THF (Supplementary Fig. 37). Upon immersion in an additional 15 hydrogen bond competing and non-competing solvents, as-synthesized CTNMOF cracked, thereby making the nanoindentation test impossible. Therefore, we performed molecular dynamics simulations for a [2] catenane in hexane (Supplementary Figs. 44 and 45) as a representative of non-hydrogen bond competing solvents as well as in DMF (Supplementary Figs. 42 and 43) and gas phase (Supplementary Figs. 46 and 47), to explore how the hydrogen bonds between the catenated macrocycles in gas phase are modulated by solvation. The results clearly indicate that the hydrogen bonds are not attenuated in hexane but partially cleaved in DMF.
+
+In relation to the above-mentioned nanoindentation experiments (Supplementary Fig. 31), we tested the behaviour of CTNMOF by applying a high isotropic pressure in a hydrostatic medium using a diamond anvil cell[47,](#page-5-13)[48.](#page-5-14) For this test, a single crystal of DMF-containing CTNMOF was placed in a diamond anvil cell with a diameter of 400 µm (Supplementary Fig. 26), and pressure-induced structural changes were investigated by in situ SCXRD. Unexpectedly, this elastic porous crystal was the most deformable along the *c* axis, rather than the *a*/*b* axes tested for nanoindentation: upon compression up to 0.88 GPa, 5% contraction occurred along the *c* axis without structural deterioration, whereas less than 0.4% contraction occurred along the *a*/*b* axes (Fig. [4g,](#page-3-1) Supplementary Tables 13–15). The crystal structure obtained at 0.46 GPa revealed that the observed anisotropic structural change was caused by the mutual sliding motions of the catenated macrocycles along the *c* axis, where the distance between the interlocked arms was extended by about 3%, resulting in 5% anisotropic contraction along the *c* axis (Supplementary Table 14 and Supplementary Fig. 27). Meanwhile, in THF, we found that THF-including CTNMOF showed a pressure-induced anisotropic deformation analogous to DMF-including CTNMOF in DMF (Supplementary Table 16) despite a smaller level of deformation than that of DMF-including CTNMOF in DMF. For spectroscopic understanding of this pressure-induced deformation, we carried out in situ Fourier transform infrared) spectroscopy of CTNMOF to investigate how the applied pressure affects the behaviour of the NHCO hydrogen bonds in the catenated macrocycles. For the guest-including CTNMOF, we chose the one including THF (Supplementary Fig. 28), rather than DMF, because included DMF interferes with the Fourier transform infrared spectroscopy. As shown in Supplementary Fig. 38a, the vibrational band due to the hydrogen-bonded NHCO groups showed an expected shift to a higher wavenumber region upon increasing the applied pressure to 2.4 GPa. By contrast, dried CTNMOF, upon being pressurized up to 2.1 GPa, did not show any shift in the NHCO vibrational band (Supplementary Fig. 38b).
+
+Although the first polycatenane and polyrotaxane were synthesized more than 40 years ago, mechanical properties of such MIM-based materials have been little explored to date, because 3D materials that are densely composed of MIMs are very rar[e36.](#page-5-4) CTNMOF, as one of the first backbone-catenated 3D metal–organic crystals[39,](#page-5-5) allows for switching between the mechanically rigid and elastic states by solvent-assisted modulation of the H-bonding lock of the MIM parts. If the elastic properties can be further enhanced by elaborating the MIM design, a squeezable MOF may be realized that can address the dilemma of porous materials where highly affinitive guests are not easily released.
+
+#### **Online content**
+
+Any methods, additional references, Nature Research reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at<https://doi.org/10.1038/s41586-021-03880-x>.
+
+- <span id="page-4-0"></span>1. Agam, G., Graiver, D. & Zilkha, A. Studies on the formation of topological isomers by statistical methods. *J. Am. Chem. Soc.* **98**, 5206–5214 (1976).
+- 2. Ogata, N., Sanui, K. & Wada, J. Novel synthesis of inclusion polyamides. *J. Polym. Sci. Polym. Lett. Ed.* **14**, 459−462 (1976).
+- <span id="page-4-1"></span>3. Raymo, F. M. & Stoddart, J. F. Interlocked macromolecules. *Chem. Rev.* **99**, 1643−1663 (1999).
+- <span id="page-4-2"></span>4. Bhushan, B. & Li, X. A review of nanoindentation continuous stiffness measurement technique and its applications. *Mater. Charact.* **48**, 11–36 (2002).
+- <span id="page-4-3"></span>5. Tan, J. C. & Cheetham, A. K. Mechanical properties of hybrid inorganic–organic framework materials: establishing fundamental structure–property relationships. *Chem. Soc. Rev.* **40**, 1059–1080 (2011).
+- <span id="page-4-4"></span>6. Bruns, C. J. & Stoddart, J. F. *The Nature of the Mechanical Bond: From Molecules to Machines* Ch. 1 (John Wiley & Sons, 2017).
+- <span id="page-4-5"></span>7. Frisch, H. L. & Wasserman, E. Chemical topology. *J. Am. Chem. Soc.* **83**, 3789–3795 (1961).
+- <span id="page-4-6"></span>8. Evans, N. H. & Beer, P. D. Progress in the synthesis and exploitation of catenanes since the millennium. *Chem. Soc. Rev.* **43**, 4658–4683 (2014).
+- <span id="page-4-7"></span>9. Gil-Ramírez, G., Leigh, D. A. & Stephens, A. J. Catenanes: fifty years of molecular links. *Angew. Chem. Int. Ed.* **54**, 6110–6150 (2015).
+- <span id="page-4-8"></span>10. Xue, M., Yang, Y., Chi, X., Yan, X. & Huang, F. Development of pseudorotaxanes and rotaxanes: from synthesis to stimuli-responsive motions to applications. *Chem. Rev.* **115**, 7398–7501 (2015).
+- <span id="page-4-9"></span>11. Sauvage, J.-P. EurJOC—50 years of rotaxanes. *Eur. J. Org. Chem*. **2019**, 3287–3288 (2019).
+- <span id="page-4-10"></span>12. Amabilino, D. B. & Stoddart, J. F. Interlocked and intertwined structures and superstructures. *Chem. Rev.* **95**, 2725–2828 (1995).
+- <span id="page-4-11"></span>13. Sauvage, J.-P. & Dietrich-Buchecker, C. *Molecular Catenanes, Rotaxanes and Knots: a Journey Through the World of Molecular Topology* (Wiley-VCH, 1999).
+- <span id="page-4-13"></span><span id="page-4-12"></span>14. Kassem, S. et al. Artificial molecular motors. *Chem. Soc. Rev.* **46**, 2592–2621 (2017). 15. Erbas-Cakmak, S., Leigh, D. A., McTernan, C. T. & Nussbaumer, A. L. Artificial molecular
+- <span id="page-4-14"></span>machines. *Chem. Rev.* **115**, 10081–10206 (2015).
+- 16. Niu, Z. & Gibson, H. W. Polycatenanes. *Chem. Rev.* **109**, 6024–6046 (2009). 17. Takata, T. Polyrotaxane and polyrotaxane network: supramolecular architectures based
+- on the concept of dynamic covalent bond chemistry. *Polym. J.* **38**, 1–20 (2006). 18. Harada, A., Hashidzume, A., Yamaguchi, H. & Takashima, Y. Polymeric rotaxanes. *Chem. Rev.* **109**, 5974–6023 (2009).
+- <span id="page-4-18"></span>19. Wu, Q. et al. Poly[*n*]catenanes: synthesis of molecular interlocked chains. *Science* **358**, 1434–1439 (2017).
+- 20. Mena-Hernando, S. & Pérez, E. M. Mechanically interlocked materials. Rotaxanes and catenanes beyond the small molecule. *Chem. Soc. Rev.* **48**, 5016–5032 (2019).
+- <span id="page-4-15"></span>21. Qiu, Y. et al. A precise polyrotaxane synthesizer. *Science* **368**, 1247–1253 (2020).
+- <span id="page-4-16"></span>22. Okumura, Y. & Ito, K. The polyrotaxane gel: a topological gel by figure‐of‐eight cross‐ links. *Adv. Mater.* **13**, 485–487 (2001).
+- <span id="page-4-17"></span>23. Choi, S., Kwon, T.-W., Coskun, A. & Choi, J. W. Highly elastic binders integrating polyrotaxanes for silicon microparticle anodes in lithium ion batteries. *Science*, **357**, 279–283 (2017).
+- <span id="page-4-19"></span>24. Young's modulus and specific stiffness, [http://www-materials.eng.cam.ac.uk/mpsite/](http://www-materials.eng.cam.ac.uk/mpsite/properties/non-IE/stiffness.html) [properties/non-IE/stiffness.html](http://www-materials.eng.cam.ac.uk/mpsite/properties/non-IE/stiffness.html)
+- <span id="page-4-20"></span>25. Charitidis, C. A., Koumoulos, E. P., Nikolakis, V. & Dragatogiannis, D. A. Structural and nanomechanical properties of a zeolite membrane measured using nanoindentation. *Thin Solid Films* **526**, 168–175 (2012).
+- <span id="page-4-21"></span>26. Kitagawa, S., Kitaura, R. & Noro, S. Functional porous coordination polymers. *Angew. Chem. Int. Ed.* **43**, 2334–2375 (2004).
+- <span id="page-4-22"></span>27. Yaghi, O. M. et al. Reticular synthesis and the design of new materials. *Nature* **423**, 705–714 (2003).
+- <span id="page-4-23"></span>28. Loeb, S. J. Metal–organic rotaxane frameworks; MORFs. *Chem. Commun*. 1511–1518 (2005). 29. Li, Q. et al. A catenated strut in a catenated metal–organic framework. *Angew. Chem. Int.*
+- *Ed.* **49**, 6751–6755 (2010).
+- 30. Li, Q. et al. A metal–organic framework replete with ordered donor–acceptor catenanes. *Chem. Commun.* **46**, 380–382 (2010).
+- 31. Zhao, Y.-L. et al. Rigid-strut-containing crown ethers and [2]catenanes for incorporation into metal–organic frameworks. *Chem. Eur. J.* **15**, 13356–13380 (2009).
+- <span id="page-5-1"></span>32. Vukotic, V. N., Harris, K. J., Zhu, K., Schurko, R. W. & Loeb, S. J. Metal–organic frameworks with dynamic interlocked components. *Nat. Chem.* **4**, 456–460 (2012).
+- <span id="page-5-2"></span>33. Zhu, K., Vukotic, V. N., O'Keefe, C. A., Schurko, R. W. & Loeb, S. J. Metal–organic frameworks with mechanically interlocked pillars: controlling ring dynamics in the solid-state via a reversible phase change. *J. Am. Chem. Soc.* **136**, 7403–7409 (2014).
+- <span id="page-5-3"></span>34. Zhu, K., O'Keefe, C. A., Vukotic, V. N., Schurko, R. W. & Loeb, S. J. A molecular shuttle that operates inside a metal–organic framework. *Nat. Chem.* **7**, 514–519 (2015).
+- <span id="page-5-0"></span>35. Chen, Q. et al. A redox-active bistable molecular switch mounted inside a metal–organic framework. *J. Am. Chem. Soc.* **138**, 14242–14245 (2016).
+- <span id="page-5-4"></span>36. Frank, N. C., Mercer, D. J. & Loeb, S. J. An interwoven metal-organic framework combining mechanically interlocked linkers and interpenetrated networks. *Chem. Eur. J.* **19**, 14076–14080 (2013).
+- 37. Gholami, G., Zhu, K., Ward, J. S., Kruger, P. E. & Loeb, S. J. Formation of a polythreaded, metal–organic framework utilizing an interlocked hexadentate, carboxylate linker. *Eur. J. Inorg. Chem*. 4524–4529 (2016).
+- 38. Gholami, G., Baggi, G., Zhu, K. & Loeb, S. J. Metal–organic frameworks utilising an interlocked, hexadentate linker containing a tetra-carboxylate axle and a bis(pyridine) wheel. *Dalton Trans.* **46**, 2462–2470 (2017).
+- <span id="page-5-5"></span>39. Lewis, J. E. M. Self-templated synthesis of amide catenanes and formation of a catenane coordination polymer. *Org. Biomol. Chem.* **17**, 2442–2447 (2019).
+- <span id="page-5-6"></span>40. Johnston, A. G., Leigh, D. A., Pritchard, R. J. & Deegan, M. D. Facile synthesis and solid-state structure of a benzylic amide [2]catenane. *Angew. Chem. Int. Ed. Engl.* **34**, 1209–1212 (1995).
+- <span id="page-5-7"></span>41. Spek, A. L. Single-crystal structure validation with the program PLATON. *J. Appl. Cryst.* **36**, 7–13 (2003).
+- <span id="page-5-8"></span>42. Schneemann, A. et al. Flexible metal–organic frameworks. *Chem. Soc. Rev.* **43**, 6062–6096 (2014).
+- <span id="page-5-9"></span>43. Chui, S. S.-Y., Lo, S. M.-F., Charmant, J. P. H., Orpen, A. G. & Williams, I. D. A chemically functionalizable nanoporous material [Cu3(TMA)2(H2O)3]*n*. *Science* **283**, 1148–1150 (1999).
+- <span id="page-5-10"></span>44. Bundschuh, S. et al. Mechanical properties of metal–organic frameworks: an indentation study on epitaxial thin films. *Appl. Phys. Lett.* **101**, 101910 (2012).
+- <span id="page-5-11"></span>45. Henke, S., Li, W. & Cheetham, A. K. Guest-dependent mechanical anisotropy in pillaredlayered soft porous crystals—a nanoindentation study. *Chem. Sci.* **5**, 2392–2397 (2014).
+- <span id="page-5-12"></span>46. Engineering ToolBox. Young's modulus—tensile and yield strength for common materials, [https://www.engineeringtoolbox.com/young-modulus-d\\_417.html](https://www.engineeringtoolbox.com/young-modulus-d_417.html) (2003).
+- <span id="page-5-13"></span>47. Boehler, R. New diamond cell for single-crystal X-ray diffraction. *Rev. Sci. Instrum.* **77**, 115103 (2006).
+- <span id="page-5-14"></span>48. Ratajczyk, P., Sobczak, S. & Katrusial, A. High-pressure structure and properties of *N*,*N*-dimethylformamide. *Cryst. Growth Des.* **19**, 896–901 (2019).
+
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+© The Author(s), under exclusive licence to Springer Nature Limited 2021
+
+## **Article**
+
+### **Methods**
+
+#### **SCXRD**
+
+Analysis for H4 CTNL and Me4 CTNL was performed using a Rigaku model VariMax Dual diffractometer equipped with a fine-focus sealed-tube X-ray source (*λ* = 0.71075 Å) and a confocal graphite monochromator. Data were collected and processed using CrystalClear (Rigaku[\)49.](#page-6-0) The analysis for CTNMOF was performed using a Rigaku XtaLAB P200 diffractometer with Mo-Kα radiation. Data were collected and processed using CrysAlisPro (Rigaku Oxford Diffraction)[50](#page-6-1). All data were corrected for Lorentzian and polarization effects. The structure was solved by direct methods[51](#page-6-2),[52](#page-6-3) expanded using Fourier techniques. The non-hydrogen atoms were refined anisotropically. Hydrogen atoms were refined using the riding model. The final cycle of fullmatrix least-squares refinement (SHELXL97: ∑*w*(*F*<sup>o</sup> 2  − *F*<sup>c</sup> 2 ) 2 where *w* is least-squares weights) on *F*<sup>2</sup> was converged (the largest parameter shift was 0.00 times its estimated standard deviation (esd)) with unweighted and weighted agreement factors calculated based on the following equations: *R*1 = ∑||*F*o| − |*F*c||/∑|*F*o| and *wR*2 = {∑[*w*(*F*<sup>o</sup> 2  − *F*<sup>c</sup> 2 ) 2 ]/ ∑[*w*(*F*<sup>o</sup> 2 ) 2 ]}½. Neutral atom scattering factors were taken from table 6.1.1.4 of ref. [53.](#page-6-4) Anomalous dispersion effects were included in *F*calc (calculated structure factor) (ref. [54](#page-6-5)); the values for ∆*f*′ (the real part of the anomalous-scattering factor) and ∆*f*″ (the imaginary part of the anomalous-scattering factor) were taken from table 4.2.6.8 of ref. [55.](#page-6-6) The values for the mass attenuation coefficients were taken from table 4.2.4.3 of ref. [56](#page-6-7). All calculations were performed using the Crystal-Structur[e57](#page-6-8) crystallographic software package, except for refinement, which was performed using SHELXL9[758.](#page-6-9) The heavily disordered solvent molecules were not modelled, and the SQUEEZE protocol inside PLA-TON[41](#page-5-7) was used to remove the void electron density at the end of the structure refinement. The crystallographic data have been deposited with the Cambridge Crystallographic Data Center (CCDC) (2080330– 2080336, 2080245–2080247, 2080270). Details about structures and their corresponding CCDC numbers are listed in Supplementary Table 2.
+
+#### **PXRD**
+
+PXRD measurements were carried out using a Rigaku model RINT-ULTIMA III X-ray powder diffractometer equipped with a Cu sealed tube (*λ* = 1.54056 Å), which was operated at 40 kV and 40 mA. The PXRD data were collected in a 2*θ* range of 3° to 30° by using a step-scan mode with a step size of 0.02°. The powder sample was placed in a borosilicate glass capillary (WJM-Glas/Müller) with a diameter of 0.5 mm. For experiments shown in Fig. [2a–c,](#page-2-0) a small amount of the sample was taken for PXRD measurement at each step, namely, pristine, heated in vacuo and resoaked. For the experiments shown in Fig. [2d, e,](#page-2-0) all of the spectra were obtained from the same sample within a capillary. The solvent was added to/removed from the sample by centrifugation (3,000*g*, 2 min).
+
+#### **Thermogravimetric analysis**
+
+Thermogravimetric analysis was conducted using a Mettler-Toledo model TGA/SDTA851<sup>e</sup> in a temperature range from 25 °C to 600 °C at a heating rate of 1 °C min−1 under N2 with a flow rate of 20 ml min−1.
+
+#### **Gas sorption**
+
+A CO2 (99.995%) sorption experiment was conducted by using an automatic volumetric adsorption apparatus (BELSORP-max12-G-SP; MicrotracBEL) equipped with a cryostat system at −78 °C. A weighed sample (26 mg) of powdery CTNMOF was placed into a metallic copper cell and then kept under high vacuum for 6 h at 80 °C to remove the guest molecules. The sample cell was then placed into a cryostat system and evacuated at <10−2 Pa. The internal pressure change was monitored, and the amount of CO2 adsorbed was evaluated at each equilibrium point.
+
+#### **Nanoindentation**
+
+Experiments were carried out using an ENT-NEXUS (ELIONIX) instrument that is capable of performing nanoindentation tests in both dry and liquid environments. Nanoindentations were performed under the load-control mode at 30 °C. The CTNMOF crystals were fixed onto a glass plate using a Bi-based fusible alloy (Osaka Asahi U-47) to rigidly fix the specimens, even in DMF or THF. A diamond indenter tip with a Berkovich geometry was used. A maximum load value of 15 mN (except for Zn-MOF, where a maximum load of 8 mN (ref. [44](#page-5-10)) was applied) and a loading/unloading rate of 1.5 mN s−1 was used for all of the experiments. The holding time at the maximum load was set to be 5 s. The indentation moduli were obtained from the load–displacement curves using the standard Oliver–Pharr method[59](#page-6-10), where we assumed a Poisson's ratio of 0.433 for the specimen[44](#page-5-10).
+
+#### **In situ high-pressure SCXRD**
+
+In situ SCXRD measurements under high pressure were performed using a Rigaku model Synergy custom diffractometer with a hybrid photon-counting detector (HyPix-6000HE). The X-ray source was a rotating Mo anode (*λ* = 0.7107 Å, Micromax-007), and the incident X-ray was focused on the sample position using a Rigaku model VariMax Mo confocal mirror. The single-crystal sample was loaded into a diamond anvil cell made of CuBe alloy equipping Boehler-Almax-type diamond anvils with a culet size of 800 µm and an opening angle of 40°. The gasket was a plate of CuBe alloy with a hole of 400 µm diameter and 200 µm thickness. DMF or THF was used as a pressure-transmitting medium. The sample pressures were estimated by a ruby fluorescence method[60](#page-7-0). The diffraction data were analysed using CrysAlisPro (Rigaku Oxford Diffraction[\)50](#page-6-1) and the obtained cell parameters.
+
+#### **In situ high-pressure Fourier transform infrared spectroscopy**
+
+THF-containing CTNMOF and air-dried CTNMOF were used. THF-containing CTNMOF was prepared from as-synthesized CTNMOF by washing the crystals with THF several times and then soaking in THF for 24 h. CTNMOF and KBr were ground to fine powder in a mortar with a pestle. When THF-containing CTNMOF was used, THF was added to the sample mixture to prevent it from drying out. For THF-containing CTNMOF, an Inconel gasket was used with a hole of 300 µm diameter and 100 µm thickness. The gasket used for air-dried CTNMOF was a plate of CuBe alloy with a hole of 400 µm diameter and 200 µm thickness. A pair of Boehler-Almax-type conical diamonds with 400 µm culet were used as anvils. The sample pressures were estimated by a ruby fluorescence metho[d60.](#page-7-0) Spectra were collected using a Bruker Hyperion 1000 infrared microscope.
+
+#### **Data availability**
+
+All data are available in the Article or its Supplementary Information.
+
+- <span id="page-6-0"></span>49. CrystalClear v.1.3.6 (Rigaku, 2015).
+- <span id="page-6-1"></span>50. CrysAlis v.40.84a (Rigaku, 2015).
+- <span id="page-6-2"></span>51. Burla, M. C. et al. SIR2011: a new package for crystal structure determination and refinement. *J. Appl. Cryst.* **45**, 357–361 (2012).
+- <span id="page-6-3"></span>52. Burla, M. C. et al. IL MILIONE: a suite of computer programs for crystal structure solution of proteins. *J. Appl. Cryst.* **40**, 609–613 (2007).
+- <span id="page-6-4"></span>53. Creagh, D. C. & McAuley, W. J. in *International Tables for Crystallography* Vol. C (ed. Wilson, A. J. C.) 572 (Kluwer Academic, 1992).
+- <span id="page-6-5"></span>54. Ibers, J. A. & Hamilton, W. C. Dispersion corrections and crystal structure refinements. *Acta Crystallogr.* **17**, 781–782 (1964).
+- <span id="page-6-6"></span>55. Creagh, D. C. & McAuley, W. J. in *International Tables for Crystallography* Vol. C (ed. Wilson, A. J. C.) 219–222 (Kluwer Academic, 1992).
+- <span id="page-6-7"></span>56. Creagh, D. C. & Hubbell, J. H. in *International Tables for Crystallography*, Vol. C (ed. Wilson, A. J. C.) 200–206 (Kluwer Academic, 1992).
+- <span id="page-6-8"></span>57. CrystalStructure v.4.2.5 (Rigaku, 2017).
+- <span id="page-6-9"></span>58. Sheldrick, G. A. A short history of SHELX. *Acta Crystallogr. A* **64**, 112–122 (2008).
+- <span id="page-6-10"></span>59. Oliver, W. C. & Pharr, G. M. Measurement of hardness and elastic modulus by instrumented indentation: advances in understanding and refinements to methodology. *J. Mater. Res.* **19**, 3–20 (2004).
+
+<span id="page-7-0"></span>60. Piermarini, G. J., Block, S. J., Barnett, D. & Forman, R. A. Calibration of the pressure dependence of the *R*1 ruby fluorescence line to 195 kbar. *J. Appl. Phys.* **46**, 2774–2780 (1975).
+
+**Acknowledgements** A part of this work was conducted at the Advanced Characterization Nanotechnology Platform of the University of Tokyo, supported by 'Nanotechnology Platform' of the Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan. We thank K. Okitsu and K. Fukawa for technical assistance with SCXRD and PXRD, respectively; D. Hamane for discussions on high-pressure experiments; T. Uemura, N. Hosono and H. Taketomi for help with thermogravimetry/mass spectrometry measurements; S. Suginome for help with NMR spectral measurements and J.-S. M. Lee and K. Morishita for discussion on preparing the manuscript. T.A. acknowledges the Japan Society for the Promotion of Science (JSPS) for a JSPS Grant-In-Aid for Scientific Research (S) (18H05260) on 'Innovative Functional Materials based on Multi-Scale Interfacial Molecular Science'. This work was also supported by JST, PRESTO (grant number JPMJPR20A5), Japan. H.S. is grateful for JSPS KAKENHI grant numbers 17H05357 (Coordination Asymmetry), 18H04501 (Soft Crystal) and 20H02705 (Scientific Research (B)). W.M. acknowledges the receipt of a JSPS Postdoctoral Fellowship for Research in Japan and JSPS KAKENHI grant number 20K15251.
+
+**Author contributions** W.M., H.S. and T.A. conceived the project, designed experiments and directed the research. W.M. performed and interpreted all of the experiments associated with molecular synthesis, crystal growth and structural characterization. H.S. performed the sorption experiments. S.K., W.M. and Y.I. designed nanoindentation experiments. S.K., T.I. and W.M. conducted nanoindentation experiments. K.K., W.M. and H.S. performed high-pressure experiments. J.P. and Y.H. conducted the computational studies. All authors contributed to the writing and editing of the manuscript.
+
+**Competing interests** The authors declare no competing interests.
+
+#### **Additional information**
+
+**Supplementary information** The online version contains supplementary material available at <https://doi.org/10.1038/s41586-021-03880-x>.
+
+**Correspondence and requests for materials** should be addressed to Takuzo Aida or Hiroshi Sato.
+
+**Peer review information** *Nature* thanks the anonymous reviewers for their contribution to the peer review of this work. Peer reviewer reports are available.
+
+**Reprints and permissions information** is available at<http://www.nature.com/reprints>.# **Supplementary information**
+
+# **An elastic metal–organic crystal with a densely catenated backbone**
+
+In the format provided by the authors and unedited
+
+| 1. General and materials1                 |   |
+|-------------------------------------------|---|
+| 2. Synthesis4                             |   |
+| 2.1. Synthesis of the ligand              | 4 |
+| 2.2. Synthesis of CTNMOF                  | 7 |
+| 3. NMR spectra9                           |   |
+| 4. MALDI-TOF-MS spectra21                 |   |
+| 5. Single crystal X-ray crystallography22 |   |
+| 6. PXRD patterns<br>43                    |   |
+| 7. Nanoindentation<br>44                  |   |
+| 8. Infrared spectra59                     |   |
+| 9. Thermogravimetry<br>61                 |   |
+| 10. Thermogravimetry/mass spectrometry62  |   |
+| 11. CO2<br>sorption<br>63                 |   |
+| 12. Computational studies64               |   |
+| References69                              |   |
+
+#### **1. General and materials**
+
+#### **General:**
+
+1 H (500 MHz) and 13C (126 MHz) NMR spectra were recorded using a JEOL model JNM-ECA 500II spectrometer. Chemical shifts (*δ*) are reported in ppm relative to the solvent signal of DMSO (*δ* = 2.50 ppm, 1 H NMR; *δ* = 39.52 ppm, 13C NMR) and CHCl3 (*δ* = 7.26 ppm, 1 H NMR; *δ* = 77.16 ppm, 13C NMR).
+
+Matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF-MS) measurements were carried out using a Bruker Daltonics autoflexTM speed MALDI-TOF/TOF spectrometer utilizing *α*-cyano-4-hydroxy cinnamic acid (CCA) as the matrix.
+
+Infrared spectroscopy was performed using a JASCO FT/IR-6600 spectrometer.
+
+Nanoindentation experiments were carried out using an ENT-NEXUS (ELIONIX Inc.) instrument that is capable of performing nanoindentation tests in both dry and liquid environments. Nanoindentations were performed under the load-control mode at 30 °C. The crystals of **CTNMOF**, HKUST-1 and Zn2(NO2-BDC)2(DABCO)⊃DMF (Zn-MOF) were fixed onto a glass plate using a Bi-based fusible alloy (Osaka Asahi Co., Ltd. U-47) to rigidly fix the specimens even in DMF. A diamond indenter tip with a Berkovich geometry was used in the nanoindentation experiments. A maximum load value of 15 mN (except for Zn-MOF where a maximum load of 8 mN45(main text reference) was applied) and a loading/unloading rate of 1.5 mN/s was used for all of the experiments. The holding time at the maximum load was set to 5 s. For Me4 **CTNL**, the measurement was performed using an ENT-1100a (ELIONIX INC.) instrument. The maximum load value was 10 mN, and the loading/unloading rate was 1 mN/s. The holding time at the maximum load was set to 1 s. A value of 0.4331 was used for Poisson's ratio of the specimen.
+
+Thermogravimetry/mass spectrometry (TG/MS) was performed with a Rigaku Thermo Plus EVO II equipped with ThermoMass Photo/S by using the photoionization (PI) method.
+
+**Materials**: All reagents were purchased from Aldrich, Tokyo Chemical Industry (TCI) or Wako Pure Chemical Industries and used as received without further purification. A low-melting point (47 °C) alloy was purchased from Osaka Asahi Co., Ltd.
+
+**Supplementary Table 1. Comparison between b, this work and a, related works for mechanically interlocked molecule (MIM)-based materials reported previously.**
+
+![](_page_4_Figure_1.jpeg)
+
+#### **2. Synthesis**
+
+2.1. Synthesis of the ligand
+
+![](_page_5_Figure_2.jpeg)
+
+The synthesis of compound 5-(methoxycarbonyl)isophthalic acid was adapted from a literature procedure3 :
+
+Trimethyl benzene-1,3,5-tricarboxylate (25.4 g, 0.10 mol, 1 equiv.) and NaOH solution (0.5 M in MeOH, 400 mL, 0.2 mol, 2 equiv.) were mixed in a 500 mL round-bottomed flask. The resulting mixture was heated under reflux at 80 °C for 1 hour and then stirred at 20 °C overnight. Then, the solvent was removed; the residue was dissolved in water and acidified by 1 M HCl first to pH 6. The resulting solution was extracted with EtOAc to remove the mono-acid byproduct. The remaining aqueous solution was subsequently acidified to pH 4 and extracted with EtOAc five times. The organics were combined, dried over MgSO4 and concentrated. The solid precipitate was filtered and dried under reduced pressure to afford the desired product as a white solid (12.6 g, 55%).
+
+1 H NMR (500 MHz, DMSO-*d*6): *δ* (ppm) 8.65 (t, *J* = 1.0 Hz, 1H, Ph-*H para* to CO2Me), 8.63 (d, *J* = 2.0 Hz, 1H, Ph-*H ortho* to CO2Me), 3.92 (s, 3H, C*H*3). 13C NMR (126 MHz, DMSO): *δ* (ppm) 165.75, 164.86, 133.91, 133.37, 132.07, 130.67, 52.70.
+
+![](_page_5_Figure_6.jpeg)
+
+5-(Methoxycarbonyl)isophthalic acid (4 g, 17.8 mmol, 1 equiv.) was dissolved in anhydrous THF (15 mL) in a preoven-dried two-necked 50 mL round-bottomed flask. Ten drops of anhydrous DMF were added to the resulting mixture. Separately, oxalyl chloride (3.5 mL, 41.0 mmol, 2.3 equiv.) was mixed with anhydrous THF (5 mL) in a preoven-dried two-necked 10 mL round-bottomed flask. The mixture containing oxalyl chloride was added dropwise *via* a syringe to the THF solution of 5(methoxycarbonyl)isophthalic acid prepared as described above. The reaction mixture was stirred at 20 °C for 1 hour before removing the volatile content under reduced pressure. The residue was washed with a small amount of anhydrous toluene and then anhydrous DCM to afford the desired product, methyl 3,5-bis(chlorocarbonyl)benzoate, (3.98 g, 85%) as an off-white solid. The product was used for the next step without further purification immediately after isolation.
+
+1 H NMR (500 MHz, CDCl3): *δ* (ppm) 9.02 (d, *J* = 1.5 Hz, 1H, Ph-*H ortho* to CO2Me), 8.98 (t, *J* = 2.0 Hz, 1H, Ph-*H para* to CO2Me), 4.03 (s, 3H, C*H*3). 13C NMR (126 MHz, CDCl3): *δ* (ppm) 166.76, 164.16, 137.58, 136.77, 135.08, 132.76, 53.33.
+
+![](_page_6_Figure_2.jpeg)
+
+The synthesis of Me4 **CTNL** was adapted from a literature procedure4,5:
+
+A solution of methyl 3,5-bis(chlorocarbonyl)benzoate in anhydrous CHCl3 (amylene added 150 ppm, 230 mL, 33 mM) and a solution of 1,4-phenylenedimethanamine in anhydrous CHCl3 (amylene added 150 ppm, 230 mL, 33 mM, 1 equiv.) were added to a solution of freshly distilled triethylamine in anhydrous CHCl3 (amylene added 150 ppm, 4.2 mL in 230 mL CHCl3, 4 equiv.) *via* a syringe pump over 1 hour. The reaction mixture was stirred at 20 °C for 12 hours. The resulting mixture was then filtered, and the filtrate was concentrated and subjected to silica gel column chromatography (1% to 4% v/v MeOH in CH2Cl2 as the eluent). The fractions containing the product were combined and evaporated to dryness. The residue was suspended in DCM, filtered and dried in vacuo to afford the product as a white solid (130 mg, 5%) (Supplementary Figs. 2–8 and 16). Single crystals were obtained by layering MeOH on top of a DMF solution of Me4 **CTNL** at room temperature for a few days (Supplementary Fig. 19 and Supplementary Table 4). 1 H NMR (500 MHz, DMSO-*d*6): *δ* (ppm) 9.19 (t, 4H, N*H*), 8.35 (s, 4H, Ph-*H ortho* to CO2Me), 8.20 (t, 4H, N*H*), 8.10 (s, 4H, Ph-*H ortho* to CO2Me), 7.55 (s, 4H, Ph-*H para* to CO2Me), 7.43 (s, 8H, Ph-*H*), 6.11 (s, 8H, Ph-*H*), 4.38 (d, *J* = 5.0, 8H, C*H*2), 3.89 (s, 12H, C*H*3), 3.60 (d, *J* = 5.0, 8H, C*H*2). 13C NMR (126 MHz, DMSO-*d*6): *δ* (ppm) 165.17, 164.62, 138.49, 136.56, 134.94, 134.88, 131.46, 129.72, 129.43, 129.25, 128.78, 127.78, 52.51, 43.37, 42.98. MALDI-TOF-MS: *m*/*z* found: 1319.433 ([M + Na+] calcd: 1319.434).
+
+![](_page_7_Figure_1.jpeg)
+
+The synthesis of H4 **CTNL**:
+
+Me4 **CTNL** (123 mg, 0.099 mmol, 1 equiv.) was dissolved in DMF (3 mL) and diluted with MeOH (3 mL), and aqueous NaOH solution (5% w/v 1.5 mL, 19 equiv.) was added to the resulting mixture. The resulting reaction mixture was placed above a 90 °C oil bath and stirred for 12 hours. The volatile content was removed under reduced pressure; the residue was dissolved in water and acidified to pH 2 with 1 M HCl. The precipitate was filtered, washed with water, and dried in vacuo to afford the product as a white solid (117 mg, 82%) (Supplementary Figs. 9–15 and 17). Crystals suitable for single crystal X-ray analysis were obtained by diffusion of water vapor into a DMF solution of H4 **CTNL** (Supplementary Fig. 18 and Supplementary Table 3).
+
+[Note] When NaOH is used, if the temperature is too high, the compound will decompose. An alternative method can be used based on the reported procedure6 : Me4 **CTNL** (65 mg, 0.05 mmol, 1 equiv.) was dissolved in DMF (1.5 mL) in a 30 mL round bottom flask. The mixture was then diluted with THF (3 mL). LiOH·H2O (42 mg, 1 mmol, 20 equiv.) was added followed by the addition of water (0.5 mL). The reaction mixture was heated at 65 °C for 24 hours before being concentrated using a rotary evaporator. The residue was diluted with a small amount of water and then the mixture was acidified using diluted HCl to pH 1. The precipitate was collected by filtration, dried at 70 °C for 1 hour to afford the desired product H4 **CTNL** as a white solid (47 mg, 76%).
+
+1 H NMR (500 MHz, DMSO-*d*6): *δ* (ppm) 9.28 (t, 4H, N*H*), 8.43 (s, 4H, Ph-*H ortho* to CO2Me), 8.27 (t, 4H, N*H*), 8.14 (s, 4H, Ph-*H ortho* to CO2Me), 7.90 (s, 4H, Ph-*H para* to CO2Me), 7.37 (s, 8H, Ph-*H*), 5.99 (s, 8H, Ph-*H*), 4.38 (d, *J* = 5.0, 8H, C*H*2), 3.48 (d, *J*
+
+= 5.0, 8H, C*H*2). 13C NMR (126 MHz, DMSO-*d*6): *δ* (ppm) 166.28, 165.15, 164.98, 138.38, 136.38, 134.72, 134.67, 130.96, 130.84, 130.22, 130.00, 128.95, 127.51, 43.33, 42.62. MALDI-TOF-MS: *m*/*z* found: 1263.369 ([M + Na+] calcd: 1263.371). Elemental analysis: Found: C, 61.56; H, 5.09; N, 8.38%. Calcd. for C68H56N8O16・5H2O: C, 61.35; H, 5.00; N, 8.42%.
+
+#### 2.2. Synthesis of **CTNMOF**
+
+Equal volumes of a solution of H4 **CTNL** (50 mM in DMF, 100 *μ*L) and a solution of Co(NO3)2·6H2O (400 mM in DMF, 100 *μ*L) were mixed in a glass tube. The resulting mixture was heated at 90 °C for 18 hours. Dark-emerald-green needle-shaped crystals were formed, which were subsequently isolated by filtration (8 mg, 90% based on the formula obtained in the elemental analysis). The green crystal quickly turned pink in the air, which is attributed to the absorption of water. Elemental analysis for the sample dried under vacuum at room temperature for 2 hours: Found: C, 54.32; H, 5.48; N, 9.53%. Calc. for C68H52Co2N8O16·7H2O·4DMF(C3H7NO): C, 54.18; H, 5.34; N, 9.48%.
+
+Note on the colour change of **CTNMOF**: If exposed to air for a while, as-synthesized **CTNMOF** crystals will become pink. A colour change from green to pink will also occur when as-synthesized crystals are immersed in a solvent such as acetonitrile and hexane. When as-synthesized **CTNMOF** crystals are dried under vacuum, they become purple.
+
+![](_page_9_Picture_0.jpeg)
+
+**Supplementary Fig. 1**. As-synthesized **CTNMOF** crystal soaked in DMF.
+
+### **3. NMR spectra**
+
+![](_page_10_Figure_1.jpeg)
+
+**Supplementary Fig. 2.** <sup>1</sup> H NMR spectrum of Me4 **CTNL** in DMF-*d*<sup>7</sup> at 22 °C.
+
+![](_page_10_Figure_3.jpeg)
+
+**Supplementary Fig. 3.** Variable temperature <sup>1</sup> H NMR spectra of Me4 **CTNL** in DMF-*d*7.
+
+![](_page_11_Figure_0.jpeg)
+
+**Supplementary Fig. 4.** <sup>1</sup> H NMR spectrum of Me4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_11_Figure_2.jpeg)
+
+**Supplementary Fig. 5.** 13C NMR spectrum of Me4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_12_Figure_0.jpeg)
+
+**Supplementary Fig. 6.** <sup>1</sup> H-1 H COSY NMR spectrum of Me4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_13_Figure_0.jpeg)
+
+**Supplementary Fig. 7.** <sup>1</sup> H-13C HSQC NMR spectrum of Me4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_14_Figure_0.jpeg)
+
+**Supplementary Fig. 8.** <sup>1</sup> H-13C HMBC NMR spectrum of Me4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_15_Figure_0.jpeg)
+
+**Supplementary Fig. 9.** <sup>1</sup> H NMR spectrum of H4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_15_Figure_2.jpeg)
+
+**Supplementary Fig. 10.** 13C NMR spectrum of H4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_16_Figure_0.jpeg)
+
+**Supplementary Fig. 11.** DEPT-135 NMR spectrum of H4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_17_Figure_0.jpeg)
+
+**Supplementary Fig. 12.** <sup>1</sup> H-1 H COSY NMR spectrum of H4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_18_Figure_0.jpeg)
+
+**Supplementary Fig. 13.** <sup>1</sup> H-1 H NOESY NMR spectrum of H4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_19_Figure_0.jpeg)
+
+**Supplementary Fig. 14.** <sup>1</sup> H-13C HSQC NMR spectrum of H4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_20_Figure_0.jpeg)
+
+**Supplementary Fig. 15.** <sup>1</sup> H-13C HMBC NMR spectrum of H4 **CTNL** in DMSO-*d*<sup>6</sup> at 22 °C.
+
+![](_page_21_Figure_0.jpeg)
+
+**Supplementary Fig. 16.** <sup>1</sup> H NMR spectrum of air-dried **CTNMOF** digested in DMSO*d*6/DCl at 22 °C. The integration ratio indicates that there is one molecule of DMF per one ligand molecule.
+
+#### **4. MALDI-TOF-MS spectra**
+
+![](_page_22_Figure_1.jpeg)
+
+**Supplementary Fig. 17.** MALDI-MS spectrum of Me4 **CTNL**.
+
+![](_page_22_Figure_3.jpeg)
+
+**Supplementary Fig. 18.** MALDI-MS spectrum of H4 **CTNL**.
+
+#### **5. Single crystal X-ray crystallography**
+
+**Supplementary Table 2. Summary of CCDC numbers and the corresponding samples** (DAC abbreviates Diamond Anvil Cell)**.**
+
+| Sample                                   | CCDC number |
+|------------------------------------------|-------------|
+| CTNL<br>at -180 °C<br>Me4                | 2080332     |
+| CTNL<br>H4<br>at -180 °C                 | 2080333     |
+| CTNMOF<br>at 26 °C in DMF<br>(capillary) | 2080334     |
+| CTNMOF<br>at -52 °C in DMF               | 2080245     |
+| CTNMOF<br>at -58 °C in DMF               | 2080246     |
+| CTNMOF<br>at -80 °C in DMF               | 2080247     |
+| CTNMOF<br>at -130 °C in DMF              | 2080336     |
+| CTNMOF<br>-180 °C in DMF<br>at           | 2080335     |
+| CTNMOF<br>at -180 °C in EtOH             | 2080330     |
+| CTNMOF<br>DAC 0.28 GPa<br>in DMF         | 2080270     |
+| CTNMOF<br>DAC 0.46 GPa<br>in DMF         | 2080331     |
+
+![](_page_23_Figure_3.jpeg)
+
+**Supplementary Fig. 19.** Crystal structure of H4 **CTNL**. **a**, Boat and chair conformations in the catenane unit. The green and orange dotted lines indicate intramolecular and intermolecular hydrogen bonds, respectively, observed in the solid state. **b**, Layered packing of the catenane molecules in the solid.
+
+| Empirical Formula                   | C34H28N4O8                           |
+|-------------------------------------|--------------------------------------|
+| Formula Weight                      | 620.62                               |
+| Temperature                         | 93 K                                 |
+| Crystal Color, Habit                | colorless, block                     |
+| Crystal Dimensions                  | 0.200 × 0.200 × 0.200 mm             |
+| Crystal System                      | monoclinic                           |
+| Space Group                         | P21/n (#14)                          |
+| Lattice Parameters                  | a<br>= 9.539(3) Å                    |
+|                                     | b<br>= 33.830(10) Å                  |
+|                                     | c<br>= 25.724(7) Å                   |
+|                                     | α<br>= γ<br>= 90°, β<br>= 97.220(5)° |
+| Volume                              | = 8235 (4) Å3<br>V                   |
+| Z<br>value                          | 8                                    |
+| μ(MoKα)                             | 0.725 cm–1                           |
+| Dcalc                               | 1.001 g/cm3                          |
+| F(000)                              | 2592                                 |
+| Transmission factors min, max       | 0.796, 0.986                         |
+| 2θmax                               | 56.3                                 |
+| hklmax                              | 12, 44, 32                           |
+| Rint                                | 0.1446                               |
+| No. Observations (All reflections)  | 18823                                |
+| No. Variables                       | 833                                  |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.1342                               |
+| Residuals: R<br>(All reflections)   | 0.2016                               |
+| Residuals: wR2<br>(All reflections) | 0.3632                               |
+| Goodness of Fit Indicator           | 1.148                                |
+| Data completeness                   | 0.981                                |
+| Δρmin, max                          | –0.34, 0.37 e–<br>/Å3                |
+
+**Supplementary Table 3. Crystal data for** H4 **CTNL obtained at** -**180 °C.**
+
+![](_page_25_Figure_0.jpeg)
+
+**Supplementary Fig. 20. Crystal structure of** Me4 **CTNL.** The two macrocycles in one catenane unit are crystallographically equivalent. **a**, Top view, where the green and orange dotted lines indicate intramolecular and intermolecular hydrogen bonds, respectively, observed in the solid state. **b**, Side view showing that the macrocycle adopts a chair conformation and also the π-π interactions between the two neighboring catenane units. The distance between stacking benzene rings is approximately 3.1 Å. **c**, Catenane unit observed in **CTNMOF** with the intramolecular hydrogen bonds shown as dotted lines. Hydrogen atoms except those involved in hydrogen bonds shown in (**a**) are omitted for clarity.
+
+| Empirical Formula                   | C36H32N4O8                             |
+|-------------------------------------|----------------------------------------|
+| Formula Weight                      | 648.67                                 |
+| Temperature                         | 93 K                                   |
+| Crystal Color, Habit                | colorless, block                       |
+| Crystal Dimensions                  | 0.100 × 0.060 × 0.050 mm               |
+| Crystal System                      | monoclinic                             |
+| Space Group                         | C2/c<br>(#15)                          |
+| Lattice Parameters                  | a<br>= 28.1390(0) Å                    |
+|                                     | b<br>= 15.5212 (0) Å                   |
+|                                     | c<br>= 18.8716(0) Å                    |
+|                                     | α<br>= γ<br>= 90°, β<br>= 124.4550(0)° |
+| Volume                              | = 6796.269 (70) Å3<br>V                |
+| Z value                             | 8                                      |
+| μ(MoKα)                             | 0.908 cm–1                             |
+| Dcalc                               | 1.268 g/cm3                            |
+| F(000)                              | 2720                                   |
+| Transmission factorsmin, max        | 0.826, 0.995                           |
+| 2θmax                               | 54.9                                   |
+| hklmax                              | 36, 20, 24                             |
+| Rint                                | 0.0675                                 |
+| No. Observations (All reflections)  | 7708                                   |
+| No. Variables                       | 442                                    |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.0522                                 |
+| Residuals: R<br>(All reflections)   | 0.0776                                 |
+| Residuals: wR2<br>(All reflections) | 0.1429                                 |
+| Goodness of Fit Indicator           | 0.973                                  |
+| Data completeness                   | 0.989                                  |
+| Δρmin, max                          | –0.31, 0.33 e–<br>/Å3                  |
+
+**Supplementary Table 4. Crystal data for** Me4 **CTNL obtained at** -**180 °C.**
+
+### *CTNMOF***:**
+
+### **Supplementary Table 5. Crystal data for CTNMOF** *P***4122 obtained at 26 °C in a capillary.**
+
+| Empirical Formula                   | C34H26CoN4O9             |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 693.53                   |
+| Temperature                         | 299 K                    |
+| Crystal Color, Habit                | green, prism             |
+| Crystal Dimensions                  | 1.200 × 0.250 × 0.150 mm |
+| Crystal System                      | tetragonal               |
+| Space Group                         | P4122 (#91)              |
+| Lattice Parameters                  | a<br>= 17.5111(2) Å      |
+|                                     | c<br>= 40.0267(8) Å      |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 12273.7 (3) Å3<br>V    |
+| Z value                             | 8                        |
+| μ(MoKα)                             | 3.122 cm–1               |
+| Dcalc                               | 0.751 g/cm3              |
+| F(000)                              | 2856                     |
+| Transmission factorsmin, max        | 0.687, 0.954             |
+| 2θmax                               | 57.6                     |
+| hklmax                              | 22, 23, 54               |
+| Rint                                | 0.0298                   |
+| No. Observations (All reflections)  | 14388                    |
+| No. Variables                       | 433                      |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.0526                   |
+| Residuals: R<br>(All reflections)   | 0.0648                   |
+| Residuals: wR2<br>(All reflections) | 0.1609                   |
+| Goodness of Fit Indicator           | 1.009                    |
+| Data completeness                   | 0.988                    |
+| Δρmin, max                          | –0.24, 0.85 e–<br>/Å3    |
+
+| Empirical Formula                   | C71H59Co2N9O18           |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 1444.16                  |
+| Temperature                         | 93 K                     |
+| Crystal Color, Habit                | green, needle            |
+| Crystal Dimensions                  | 0.200 × 0.150 × 0.060 mm |
+| Crystal System                      | orthorhombic             |
+| Space Group                         | C2221<br>(#20)           |
+| Lattice Parameters                  | a<br>= 24.1033(0) Å      |
+|                                     | b<br>= 25.5285(0) Å      |
+|                                     | c<br>= 40.1075(0) Å      |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 24678.99078 Å3<br>V    |
+| Z<br>value                          | 8                        |
+| μ(MoKα)                             | 3.124 cm–1               |
+| Dcalc                               | 0.777 g/cm3              |
+| F(000)                              | 5968                     |
+| Transmission factorsmin, max        | 0.808, 0.978             |
+| 2θmax                               | 54.5                     |
+| hklmax                              | 30, 32, 51               |
+| Rint                                | 0.1247                   |
+| No. Observations (All reflections)  | 27339                    |
+| No. Variables                       | 902                      |
+| Residuals: R1<br>(I>2.00s(I))       | 0.1031                   |
+| Residuals: R<br>(All reflections)   | 0.1387                   |
+| Residuals: wR2<br>(All reflections) | 0.2909                   |
+| Goodness of Fit Indicator           | 1.046                    |
+| Data completeness                   | 0.993                    |
+| Δρmin, max                          | –0.41, 0.68 e–<br>/Å3    |
+
+**Supplementary Table 6. Crystal data for CTNMOF** *C***2221 obtained at** -**180 °C.**
+
+| Empirical Formula                   | C68H59Co2N8O18           |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 1387.07                  |
+| Temperature                         | 143 K                    |
+| Crystal Color, Habit                | green, needle            |
+| Crystal Dimensions                  | 0.250 × 0.120 × 0.080 mm |
+| Crystal System                      | orthorhombic             |
+| Space Group                         | C2221<br>(#20)           |
+| Lattice Parameters                  | a<br>= 23.712(2) Å       |
+|                                     | b<br>= 25.301(2) Å       |
+|                                     | c<br>= 39.735(4) Å       |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 23839(4)Å3<br>V        |
+| Z<br>value                          | 8                        |
+| μ(MoKα)                             | 3.214 cm–1               |
+| Dcalc                               | 0.773 g/cm3              |
+| F(000)                              | 5712                     |
+| Transmission factorsmin, max        | 0.707, 0.975             |
+| 2θmax                               | 54.7                     |
+| hklmax                              | 30, 32, 51               |
+| Rint                                | 0.1609                   |
+| No. Observations (All reflections)  | 26780                    |
+| No. Variables                       | 866                      |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.1036                   |
+| Residuals: R<br>(All reflections)   | 0.1365                   |
+| Residuals: wR2<br>(All reflections) | 0.2773                   |
+| Goodness of Fit Indicator           | 1.074                    |
+| Data completeness                   | 0.995                    |
+| Δρmin, max                          | –0.49, 0.77 e–/Å3        |
+
+**Supplementary Table 7. Crystal data for CTNMOF** *C***2221 collected at** -**130 °C after the measurement at** -**180 °C.**
+
+| Empirical Formula                   | C83H87Co2N13O22          |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 1736.54                  |
+| Temperature                         | 193 K                    |
+| Crystal Color, Habit                | green, needle            |
+| Crystal Dimensions                  | 0.200 × 0.100 × 0.060 mm |
+| Crystal System                      | tetragonal               |
+| Space Group                         | P41212 (#92)             |
+| Lattice Parameters                  | a<br>= 24.9280(13) Å     |
+|                                     | c<br>= 39.247(2) Å       |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 24388 (2) Å3<br>V      |
+| Z value                             | 8                        |
+| μ(MoKα)                             | 3.280 cm–1               |
+| Dcalc                               | 0.946 g/cm3              |
+| F(000)                              | 7248                     |
+| Transmission factorsmin, max        | 0.829, 0.981             |
+| 2θmax                               | 54.8                     |
+| hklmax                              | 32, 32, 50               |
+| Rint                                | 0.1213                   |
+| No. Observations (All reflections)  | 27612                    |
+| No. Variables                       | 1082                     |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.1029                   |
+| Residuals: R<br>(All reflections)   | 0.1152                   |
+| Residuals: wR2<br>(All reflections) | 0.2447                   |
+| Goodness of Fit Indicator           | 1.202                    |
+| Data completeness                   | 0.995                    |
+| Δρmin, max                          | –0.46, 1.29 e–<br>/Å3    |
+
+**Supplementary Table 8. Crystal data for CTNMOF** *P***41212 obtained at** -**80 °C.**
+
+| Empirical Formula                   | C37H33Co2N5O9            |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 750.63                   |
+| Temperature                         | 215 K                    |
+| Crystal Color, Habit                | green, needle            |
+| Crystal Dimensions                  | 0.200 × 0.100 × 0.060 mm |
+| Crystal System                      | tetragonal               |
+| Space Group                         | P4122 (#91)              |
+| Lattice Parameters                  | a<br>= 17.707(9) Å       |
+|                                     | c<br>= 40.18(2) Å        |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 12598 (12) Å3<br>V     |
+| Z<br>value                          | 8                        |
+| μ(MoKα)                             | 3.078 cm–1               |
+| Dcalc                               | 0.791 g/cm3              |
+| F(000)                              | 3112                     |
+| Transmission factorsmin, max        | 0.852, 0.979             |
+| 2θmax                               | 54.6                     |
+| hklmax                              | 22, 22, 51               |
+| Rint                                | 0.1288                   |
+| No. Observations (All reflections)  | 14156                    |
+| No. Variables                       | 470                      |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.1193                   |
+| Residuals: R<br>(All reflections)   | 0.1423                   |
+| Residuals: wR2<br>(All reflections) | 0.3321                   |
+| Goodness of Fit Indicator           | 1.112                    |
+| Data completeness                   | 0.997                    |
+| Δρmin, max                          | –0.48, 0.97 e–<br>/Å3    |
+
+**Supplementary Table 9. Crystal data for CTNMOF** *P***4122 obtained at –58 °C.**
+
+| Empirical Formula                   | C154H146Co4N22O39        |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 3164.70                  |
+| Temperature                         | 221 K                    |
+| Crystal Color, Habit                | green, needle            |
+| Crystal Dimensions                  | 0.180 × 0.150 × 0.080 mm |
+| Crystal System                      | orthorhombic             |
+| Space Group                         | P212121<br>(#19)         |
+| Lattice Parameters                  | a<br>= 24.021(9) Å       |
+|                                     | b<br>= 25.336(9) Å       |
+|                                     | c<br>= 39.231(14) Å      |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 23875 (15) Å3<br>V     |
+| Z<br>value                          | 4                        |
+| μ(MoKα)                             | 3.284 cm–1               |
+| Dcalc                               | 0.880 g/cm3              |
+| F(000)                              | 6576                     |
+| Transmission factorsmin, max        | 0.660, 0.974             |
+| 2θmax                               | 55.0                     |
+| hklmax                              | 31, 32, 49               |
+| Rint                                | 0.1358                   |
+| No. Observations (All reflections)  | 53043                    |
+| No. Variables                       | 1973                     |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.1148                   |
+| Residuals: R<br>(All reflections)   | 0.1644                   |
+| Residuals: wR2<br>(All reflections) | 0.3294                   |
+| Goodness of Fit Indicator           | 1.011                    |
+| Data completeness                   | 0.989                    |
+| Δρmin, max                          | –0.51, 0.84 e–<br>/Å3    |
+
+**Supplementary Table 10. Crystal data for CTNMOF** *P***212121 obtained at –52 °C.**
+
+| Empirical Formula                   | C68H52Co2N8O18・C2H6O     |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 1433.14                  |
+| Temperature                         | 93 K                     |
+| Crystal Color, Habit                | green, needle            |
+| Crystal Dimensions                  | 0.20 × 0.20 × 0.20 mm    |
+| Crystal System                      | tetragonal               |
+| Space Group                         | P41<br>(#76)             |
+| Lattice Parameters                  | a<br>= 16.87060 Å        |
+|                                     | c<br>= 40.02360 Å        |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 11391.40274 Å3<br>V    |
+| Z<br>value                          | 4                        |
+| μ(MoKα)                             | 3.384 cm–1               |
+| Dcalc                               | g/cm3<br>0.836           |
+| F(000)                              | 2960                     |
+| Transmission factorsmin, max        | 0.686, 0.935             |
+| 2θmax                               | 54.9                     |
+| hklmax                              | 21, 21, 51               |
+| Rint                                | 0.1448                   |
+| No. Observations (All reflections)  | 25273                    |
+| No. Variables                       | 897                      |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.1353                   |
+| Residuals: R<br>(All reflections)   | 0.1543                   |
+| Residuals: wR2<br>(All reflections) | 0.3538                   |
+| Goodness of Fit Indicator           | 1.184                    |
+| Data completeness                   | 0.987                    |
+| Δρmin, max                          | e–<br>/Å3<br>–0.83, 0.79 |
+
+**Supplementary Table 11. Crystal data for CTNMOF** *P***41 obtained at –180 °C.**
+
+| Temperature          | –180 °C                                                 | –180 ℃                                                                    | –80 ℃                                                   | –58 ℃                                                 | –52 ℃                                                                      |
+|----------------------|---------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------|
+| Solvent              | EtOH                                                    | DMF                                                                       | DMF                                                     | DMF                                                   | DMF                                                                        |
+| Empirical<br>Formula | C68H52Co2N8O18·EtOH C68H52Co2N8O18                      |                                                                           |                                                         |                                                       | C68H52Co2N8O17·5DMF C34H26CoN4O9·DMF C136H104Co4N16O33·6DMF                |
+| Crystal System       | tetragonal                                              | orthorhombic                                                              | tetragonal                                              | tetragonal                                            | orthorhombic                                                               |
+| Lattice Parameter    | a = 16.87060 Å<br>c = 40.02360 Å<br>V = 11391.40274 Å3  | a = 24.29(2) Å<br>b = 25.83(2) Å<br>c = 40.70(4) Å<br>V = 25537(42)<br>Å3 | a = 24.9280(13) Å<br>c = 39.247(2) Å<br>V = 24388(2) Å3 | a = 17.707(9) Å<br>c = 40.18(2) Å<br>V = 12598(12) Å3 | a = 24.021(9) Å<br>b = 25.336(9) Å<br>c = 39.231(14) Å<br>V = 23875(15) Å3 |
+| Space Group          | P41<br>(#76)                                            | C2221<br>(#20)                                                            | P41212 (#92)                                            | P4122 (#91)                                           | P212121<br>(#19)                                                           |
+| Z                    | 4                                                       | 8                                                                         | 8                                                       | 8                                                     | 4                                                                          |
+| Dcalc                | 0.836 g/cm3                                             | 0.672 g/cm3                                                               | 0.946 g/cm3                                             | 0.791 g/cm3                                           | 0.880 g/cm3                                                                |
+| Free volume*         | 23.3%                                                   | 26.9%                                                                     | 25.3%                                                   | 25.0%                                                 | 23.3%                                                                      |
+| Asymmetric<br>unit** | 2 × Co2+,<br>2 × macrocycle (from<br>a single catenane) | 2 × Co2+,<br>2 × macrocycle<br>(from two<br>different<br>catenanes)       | 2 × Co2+,<br>2 × macrocycle (from a<br>single catenane) | 1 × Co2+,<br>1 × macrocycle                           | 4 × Co2+,<br>4 × macrocycle (from two<br>different catenanes)              |
+
+### **Supplementary Table 12. Comparison of the parameters for different polymorphs.**
+
+[Note] \*The free volume was calculated using a probe with a radius of 1.4 Å in Mercury.
+
+\*\*Asymmetric unit: the smallest part that can be used to generate the entire crystal. When DMF was used as the solvent, data obtained at –180 °C, –80 °C and –58 °C are from the same crystal through a set of consecutive experiments. The data obtained at – 52 °C is from an as-synthesized crystal cooled from RT.
+
+![](_page_35_Figure_0.jpeg)
+
+**Supplementary Fig. 21. a**, Chemical structure of the [2]catenane-based ligand H4 **CTNL**. **b,** Schematic representations of **CTNMOF**, whose warps and wefts are mechanically interlocked by catenation, viewed along the *c*-axis (left) and *b*-axis (right). **c, d,** Spacefilling representations of **CTNMOF** viewed along the *c*- and *b*-axes, respectively. **e, f,** Wireframe representations of **CTNMOF** viewed along the *c*- and *b*-axes, respectively. A pair of orthogonally arranged 1D metal–organic chains is highlighted in each panel. **g, h,** Wireframe representations of two orthogonally arranged 1D metal–organic chains viewed along the *c*- and *b*-axes, respectively. Each of the stick representations shows a pair of catenated macrocycles of **CTNL** in **CTNMOF**, where dashed green lines represent hydrogen bonds. Except for those involved in the hydrogen bonds in **g** and **h,** axial ligands of the Co2+-paddle-wheel units, solvent molecules and hydrogen atoms are omitted for clarity.
+
+![](_page_36_Figure_0.jpeg)
+
+**Supplementary Fig. 22.** Interactions between DMF molecules and macrocycles of the catenane ligands in the crystal structure of **CTNMOF** observed at –80 °C. [Note] Hydrogen atoms and solvent molecules, except those involved in hydrogen bonds are omitted for clarity. N-O distances in the hydrogen bonds are highlighted in blue (H-bonds between the amide moieties and DMF) and pink (H-bonds between the macrocycles in CTNL) broken lines.
+
+![](_page_37_Figure_0.jpeg)
+
+**Supplementary Fig. 23.** Asymmetric unit for polymorphs with space groups *C*2221 (**a**), *P*41212 (**b**), *P*4122 (**c**), and *P*212121 (**d**), superimposed onto the bulk structure viewed along the *c* axis of the unit cell. (N.B. In the case of (**a**), a catenane contains two identical rings. In the case of (**d**), the red ring forms a catenane with the yellow ring, and the blue ring interlocks with the green ring.)
+
+![](_page_38_Figure_0.jpeg)
+
+**Supplementary Fig. 24.** Highlights of a chiral channel of **CTNMOF** (*P*4122) with *M*helicity.
+
+![](_page_38_Figure_2.jpeg)
+
+**Supplementary Fig. 25.** Solvent accessible surface (blue) of **CTNMOF**. **a**, viewed along the *c*-axis. **b**, viewed along the *b*-axis. N.B. The calculation was performed in Material Studio using a probe with a radius of 1.2 Å.
+
+### *High pressure study of CTN***MOF** *in a diamond anvil cell at room temperature:*
+
+N.B. Substantial number of reflections are unobservable due to the geometrical restriction of diamond anvil cells. As a result, data completeness is low. Data shown in **Supplementary Table 13** and **14** are obtained from the same crystal.
+
+![](_page_39_Figure_2.jpeg)
+
+**Supplementary Fig. 26.** Schematic representation of the setup for high-pressure experiments in solvents.
+
+| Empirical Formula                   | C68H52Co2N8O18           |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 1387.06                  |
+| Temperature                         | 293 K                    |
+| Crystal Color, Habit                | green, block             |
+| Crystal Dimensions                  | 0.20 × 0.20 × 0.40 mm    |
+| Crystal System                      | tetragonal               |
+| Space Group                         | P41212 (#92)             |
+| Lattice Parameters                  | a<br>= 24.7507(6) Å      |
+|                                     | c<br>= 39.2898(11) Å     |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 24068.8(13) Å3<br>V    |
+| Z<br>value                          | 8                        |
+| μ(MoKα)                             | 0.318 mm–1               |
+| Dcalc                               | 0.761 g/cm3              |
+| F(000)                              | 5640.0                   |
+| Transmission factorsmin, max        | 0.852, 1.000             |
+| 2θmax                               | 49.286                   |
+| hklmax                              | 24, 22, 44               |
+| Rint                                | 0.0393                   |
+| No. Observations (All reflections)  | 43995                    |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.0499                   |
+| Residuals: R<br>(All reflections)   | 0.0904                   |
+| Residuals: wR2<br>(All reflections) | 0.1587                   |
+| Goodness of Fit Indicator           | 0.969                    |
+| Data completeness                   | 0.51                     |
+| Δρmin, max                          | e–<br>/Å3<br>–0.23, 0.25 |
+
+**Supplementary Table 13. Crystal data for CTNMOF** *P***41212 obtained at 0.28 GPa.**
+
+| Empirical Formula                   | C34H26CoN4O9             |
+|-------------------------------------|--------------------------|
+| Formula Weight                      | 1377.96                  |
+| Temperature                         | 293 K                    |
+| Crystal Color, Habit                | green, block             |
+| Crystal Dimensions                  | 0.20 × 0.20 × 0.40 mm    |
+| Crystal System                      | tetragonal               |
+| Space Group                         | P4122 (#91)              |
+| Lattice Parameters                  | a<br>= 17.4863(4) Å      |
+|                                     | c<br>= 39.1704(10) Å     |
+|                                     | α<br>= β<br>= γ<br>= 90° |
+| Volume                              | = 11977.2(6) Å3<br>V     |
+| Z<br>value                          | 8                        |
+| μ(MoKα)                             | 0.320 mm–1               |
+| Dcalc                               | 0.769 g/cm3              |
+| F(000)                              | 2856.0                   |
+| Transmission factorsmin, max        | 0.881, 1.000             |
+| 2θmax                               | 49.214                   |
+| hklmax                              | 5, 20, 44                |
+| Rint                                | 0.0335                   |
+| No. Observations (All reflections)  | 31888                    |
+| Residuals: R1<br>(I<br>> 2.00σ(I))  | 0.0458                   |
+| Residuals: R<br>(All reflections)   | 0.0643                   |
+| Residuals: wR2<br>(All reflections) | 0.1395                   |
+| Goodness of Fit Indicator           | 1.046                    |
+| Data completeness                   | 0.54                     |
+| Δρmin, max                          | –0.16, 0.17 e–<br>/Å3    |
+
+**Supplementary Table 14. Crystal data for CTNMOF** *P***4122 obtained at 0.46 GPa.**
+
+| P<br>/ GPa | a<br>/ Å   | c<br>/ Å    | V / Å3     |
+|------------|------------|-------------|------------|
+| 0.00       | 17.470(3)  | 39.909(6)   | 12180(3)   |
+| 0.28       | 17.5053(9) | 39.302(2)   | 12044(1)   |
+| 0.46       | 17.4863(4) | 39.1704(10) | 11977.2(6) |
+| 0.55       | 17.462(2)  | 38.812(8)   | 11835(3)   |
+| 0.59       | 17.409(5)  | 38.679(14)  | 11723(6)   |
+| 0.77       | 17.449(3)  | 37.862(8)   | 11527(4)   |
+| 0.88       | 17.459(5)  | 37.878(12)  | 11546(6)   |
+
+**Supplementary Table 15. Summary of the cell parameters of DMF-containing CTNMOF at various pressures.**
+
+**Supplementary Table 16. Summary of the cell parameters of THF-containing CTNMOF at various pressures.**
+
+| P<br>/ GPa | a<br>/ Å    | c<br>/ Å    | V / Å3     |
+|------------|-------------|-------------|------------|
+| 0.0        | 17.4568(1)  | 40.039 (2)  | 12201(1)   |
+| 0.12       | 17.3609(7)  | 39.6061(18) | 11948.4(9) |
+| 0.34       | 17.3709(13) | 39.625(3)   | 11957(2)   |
+| 0.44       | 17.2948(12) | 39.445(3)   | 11803(1)   |
+| 0.70       | 17.2142(3)  | 39.2325(8)  | 11625.8(4) |
+| 0.91       | 17.1576(12) | 39.051(3)   | 11496(1)   |
+
+![](_page_43_Figure_0.jpeg)
+
+**Supplementary Fig. 27.** Superimposed views of crystal structures of **CTNMOF** at ambient (blue) and high pressure (yellow) conditions. (**a**) **CTNMOF** shrinks its structure along the *c*-axis when pressure is applied, and (**b**) the extension of the distance between the interlocked arms of the macrocycles.
+
+#### **6. PXRD patterns**
+
+![](_page_44_Figure_1.jpeg)
+
+**Supplementary Fig. 28.** PXRD pattern of **CTNMOF** soaked in THF (top), in DMF (middle) and its simulated pattern obtained from the crystal structure observed at 26 °C.
+
+#### **7. Nanoindentation**
+
+For nanoindentation experiments, a flat, smooth crystal surface is necessary. The single crystallinity of metal–organic crystals with guest-filling pores is highly sensitive to guest (solvent) exchange. **CTNMOF** is highly porous and tends to crack upon solvent exchange. Therefore, it is highly challenging to conduct nanoindentation experiments in different solvents. After many trials with 17 different solvents (i.e. DMF, acetone, acetonitrile, acetyl acetone, ethyl acetate, *n*-hexane, toluene, 1,4-dioxane, 1,2-dichloroethane, 2 butanone, cyclohexanone, methylcyclohexane, chloroform, dichloromethane, dimethylacetamide, nitromethane, and THF), we found that, in only DMF and THF, **CTNMOF** was able to maintain its single crystallinity; therefore, the crystals immersed in DMF or THF were subjected to nanoindentation.
+
+Air-dried **CTNMOF** was prepared by placing freshly prepared **CTNMOF** onto a watch glass that was covered by another watch glass inside a fume hood for several days until all the crystals turned pink. Crystals without cracks on their surface are selected for the experiment. N.B. Crystals are easily cracked during the drying process; therefore, slow evaporation of the solvent could be helpful to maintain their quality.
+
+Crystals of as-synthesized **CTNMOF** were used for the experiments performed in DMF.
+
+For the experiments performed in THF, as-synthesized **CTNMOF** was fixed on to a glass plate using a Bi-based fusible alloy (Osaka Asahi Co., Ltd. U-47), and then it was soaked in THF for 24 hours before the measurement.
+
+![](_page_46_Figure_0.jpeg)
+
+**Supplementary Fig. 29.** Schematic representation of the experimental setup for nanoindentation in (**a**) air and (**b**) DMF. Nanoindentation in air was conducted using the same setup except that there was no solvent in the setup.
+
+![](_page_47_Figure_0.jpeg)
+
+**Supplementary Fig. 30.** Fracture test for **CTNMOF** in DMF by nanoindentation. **a**, the sample before test. **b**, the sample after test. **c**, load-displacement curve for the test.
+
+## **Supplementary Table 17. Summary of the average Young's moduli. a**, for **CTNMOF** soaked in DMF. **b**, for air-dried **CTNMOF**. Nanoindentation experiments were performed several times for multiple crystals.
+
+| a |         |            | b |       |            |
+|---|---------|------------|---|-------|------------|
+|   | Entry   | E<br>/ GPa |   | Entry | E<br>/ GPa |
+|   | 1       | 1.67       |   | 1     | 6.21       |
+|   | 2       | 1.62       |   | 2     | 6.21       |
+|   | 3       | 1.64       |   | 3     | 6.22       |
+|   | 4       | 1.68       |   | 4     | 6.25       |
+|   | 5       | 1.88       |   | 5     | 6.06       |
+|   | 6       | 1.95       |   | 6     | 6.24       |
+|   | 7       | 1.98       |   | 7     | 6.08       |
+|   | Average | 1.77       |   | 8     | 6.24       |
+|   | σ       | 0.16       |   | 9     | 6.49       |
+
+| Entry   | E<br>/ GPa | Entry   | E<br>/ GPa |
+|---------|------------|---------|------------|
+| 1       | 1.67       | 1       | 6.21       |
+| 2       | 1.62       | 2       | 6.21       |
+| 3       | 1.64       | 3       | 6.22       |
+| 4       | 1.68       | 4       | 6.25       |
+| 5       | 1.88       | 5       | 6.06       |
+| 6       | 1.95       | 6       | 6.24       |
+| 7       | 1.98       | 7       | 6.08       |
+| Average | 1.77       | 8       | 6.24       |
+| σ       | 0.16       | 9       | 6.49       |
+|         |            | 10      | 6.52       |
+|         |            | 11      | 6.49       |
+|         |            | 12      | 6.38       |
+|         |            | 13      | 6.33       |
+|         |            | 14      | 6.44       |
+|         |            | 15      | 6.38       |
+|         |            | 16      | 6.27       |
+|         |            | 17      | 6.26       |
+|         |            | 18      | 6.54       |
+|         |            | Average | 6.31       |
+|         |            | σ       | 0.14       |
+
+![](_page_49_Figure_0.jpeg)
+
+**Supplementary Fig. 31.** Miller index for the indenting face of **CTNMOF** in DMF. **a**, A postindentation photo of the top face of **CTNMOF** used in the experiments in DMF. **b**, Crystal structure of **CTNMOF** (*P*4122) viewed along the *c*-axis of the unit cell. The (1 0 0) and (0 1 0) planes are indicated by dotted lines.
+
+![](_page_50_Picture_0.jpeg)
+
+**Supplementary Fig. 32.** Photos of the air-dried **CTNMOF** crystals used after nanoindentation experiments. Indentation marks are labeled with numbers corresponding to the entry numbers shown in Supplementary Table 17b. **a**, Crystal used for indentation entries 1-7. **b**, Crystal used for indentation entries 8–18.
+
+![](_page_51_Figure_0.jpeg)
+
+**Supplementary Fig. 33.** Cycle tests of load-displacement curves for **CTNMOF** in DMF by nanoindentation (**a**) with and (**b**) without 10 min interval. The nanoindentation experiments were repeatedly conducted at the same positions on the crystal surfaces.
+
+![](_page_51_Figure_2.jpeg)
+
+**Supplementary Fig. 34.** An example of a load-displacement curve obtained for **CTNMOF** crystals in THF by nanoindentation. The Young's modulus is shown as the average value.
+
+#### *Me4 CTNL***:**
+
+The Me4 **CTNL** crystal was prepared by layering MeOH on top of a DMF solution of Me4 **CTNL** at 25 °C.
+
+**Supplementary Table 18. Summary of the average Young's modulus of** Me4 **CTNL obtained from each indentation.**
+
+| Entry   | E<br>/<br>GPa |
+|---------|---------------|
+| 1       | 8.29          |
+| 2       | 8.13          |
+| 3       | 8.43          |
+| 4       | 8.64          |
+| 5       | 7.67          |
+| 6       | 8.05          |
+| 7       | 8.44          |
+| 8       | 7.97          |
+| Average | 8.20          |
+| σ       | 0.31          |
+
+![](_page_53_Figure_0.jpeg)
+
+**Supplementary Fig. 35.** An example of a load-displacement curve obtained for Me4 **CTNL** by nanoindentation experiments.
+
+![](_page_53_Picture_2.jpeg)
+
+**Supplementary Fig. 36.** A photograph of the Me4 **CTNL** crystal used in the nanoindentation experiments. Indentation marks are labeled with numbers corresponding to the entry number shown in Supplementary Table 18.
+
+#### **Supplementary Table 19. Comparison between the Young's moduli** obtained for **a**, some common materials7 and **b**, for other MOFs reported in the literature1,8–11 .
+
+| Material                         | E<br>/<br>GPa |
+|----------------------------------|---------------|
+| Rubber, small strain             | 0.01–0.1      |
+| Polytetrafluoroethylene (PTFE)   | 0.5           |
+| Polyethylene HDPE (high density) | 0.8           |
+| Polypropylene, PP                | 1.5–2         |
+| CTNMOF in DMF                    | 1.8           |
+| Polystyrene, PS                  | 3–3.5         |
+| slow dried CTNMOF                | 6.3           |
+| CTNL<br>Me4                      | 8.2           |
+| Oak Wood (along grain)           | 11            |
+| Concrete                         | 17            |
+| Magnesium metal (Mg)             | 45            |
+| Glass                            | 50–90         |
+| Iron                             | 210           |
+| Diamond (C)                      | 1220          |
+
+**b**
+
+**a**
+
+| Material                  | E<br>/<br>GPa |
+|---------------------------|---------------|
+| CTNMOF in DMF             | 1.8           |
+| Zn2(NO2-BDC)2(DABCO)⊃DMF  |               |
+| {110} orientation 8       | 2.1           |
+| IRMOF-1 (MOF-5) 9         | 2.7           |
+| slow dried CTNMOF         | 6.3           |
+| ZIFs 10                   | 3–10          |
+| HKUST-1 1                 | 9.3           |
+| [(CH2)3NH2][Mn(HCOO)3] 11 | 11–13         |
+| [C(NH2)3][Mn(HCOO)3] 11   | 23–29         |
+
+#### *HKUST-1***:**
+
+HKUST-1 was prepared following a literature procedure12 :
+
+Copper nitrate trihydrate (Cu(NO3)2·3H2O, 0.49 g, 2.0 mmol) was dissolved in deionized water (3 mL). Benzene-1,3,5-tricarboxylic acid (H3BTC, 0.24 g, 1.1 mmol) was dissolved in ethanol (3 mL, heating was needed to fully dissolve this organic linker). The Cu(NO3)2 solution was first mixed with DMF (3 mL) in a 20 mL microwave vial, and then the H3BTC solution and glacial acetic acid (12 mL) were added. The reaction mixture was heated at 55 °C for 3 days in an oven.
+
+To store the as-synthesized crystal, the mother liquor was replaced by DMF and the reaction vial was kept at 4 °C. A square surface (i.e. along the [100] direction12 ) of the selected crystal was used for the measurement.
+
+A nanoindentation experiment was first performed with the crystal immersed in DMF, then DMF was removed (the residual solvent surrounding the crystal was removed using tissue paper), and the sample was allowed to dry in air for 1 hour. The second set of measurements was conducted using the same crystal in air. Next, the crystal was soaked in DMF again, and the third set of data was taken.
+
+| 8       | 10.31 |
+|---------|-------|
+| Average | 10.24 |
+| σ       | 0.33  |
+
+| Supplementary Table 20.<br>Summary of the average Young's moduli<br>of HKUST-1. |
+|---------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------|
+
+| in DMF |               | in the air |         |               | back in DMF |               |
+|--------|---------------|------------|---------|---------------|-------------|---------------|
+| Entry  | E<br>/<br>GPa |            | Entry   | E<br>/<br>GPa | Entry       | E<br>/<br>GPa |
+| 1      | 10.13         |            | 1       | 10.53         | 1           | 10.39         |
+| 2      | 9.96          |            | 2       | 10.71         | 2           | 10.06         |
+| 3      | 9.99          |            | 3       | 10.80         | 3           | 10.29         |
+| 4      | 10.47         |            | 4       | 10.61         | 4           | 10.17         |
+| 5      | 10.80         |            | 5       | 10.58         | 5           | 10.07         |
+| 6      | 10.47         |            | Average | 10.65         | Average     | 10.19         |
+| 7      | 9.80          |            | σ       | 0.11          | σ           | 0.13          |
+
+| back in DMF |       |  |  |
+|-------------|-------|--|--|
+| Entry       | E/GPa |  |  |
+| 1           | 10.39 |  |  |
+| 2           | 10.06 |  |  |
+| 3           | 10.29 |  |  |
+| 4           | 10.17 |  |  |
+| 5           | 10.07 |  |  |
+| Average     | 10.19 |  |  |
+|             | 0.13  |  |  |
+
+As shown in Supplementary Table 20, in DMF, HKUST-1 showed a slightly smaller Young's modulus than the value obtained in the absence of the bulk solvent. The similarity of the values obtained in air and in DMF suggests that there is no significant influence of the solvent on the elasticity of HKUST-1. The Young's modulus obtained in our experiments is approximately 10 GPa, which is consistent with the reported values (in-the-air nanoindentation) of 9.3 GPa1 and 10.03 GPa1 (a theoretical value obtained from the computational method).
+
+#### *Zn2(NO2-BDC)2(DABCO)*⊃*DMF***:**
+
+Zn2(NO2-BDC)2(DABCO)⊃DMF (NO2-BDC = 2-nitro-1,4-benzenedicarboxylate) was prepared following a literature procedure8 :
+
+Zn(NO3)2·6H2O (250 mg, 0.84 mmol), 2-nitroterephthalic acid (178 mg, 0.84 mmol), and 1,4-diazabicyclo[2.2.2]octane (DABCO, 49 mg, 0.44 mmol) were suspended in DMF (20 mL). After stirring for 15 min, the suspension was filtered, and part of the obtained clear solution was transferred into a Teflon lined steel autoclave (volume of 7 mL) and heated to 125 °C for 48 h. Brownish-yellow cuboid crystals were obtained with each dimension approximately 100 µm in size. Facet {110} has a smoother surface than facet {001}.
+
+Nanoindentation experiments were first performed with the crystal soaked in DMF. Then, DMF was removed, and the crystal was dried in air for 15 min before the measurement in air.
+
+| facet ${110}$ in DMF |       |  |  |  |
+|----------------------|-------|--|--|--|
+| Entry                | E/GPa |  |  |  |
+| 1                    | 2.88  |  |  |  |
+| 2                    | 2.53  |  |  |  |
+| 3                    | 3.06  |  |  |  |
+| 4                    | 3.47  |  |  |  |
+| 5                    | 3.19  |  |  |  |
+| Average              | 3.03  |  |  |  |
+| Ω                    | 0.35  |  |  |  |
+
+| Supplementary Table 21. | Summary of the average Young's moduli | of Zn2(NO2- |
+|-------------------------|---------------------------------------|-------------|
+| BDC)2(DABCO)⊃DMF.       |                                       |             |
+
+|         | facet {110} in DMF |         | facet {110} in the air |       | facet {001} in DMF |
+|---------|--------------------|---------|------------------------|-------|--------------------|
+| Entry   | E<br>/<br>GPa      | Entry   | E<br>/<br>GPa          | Entry | E<br>/<br>GPa      |
+| 1       | 2.88               | 1       | 1.85                   | 1     | 9.44               |
+| 2       | 2.53               | 2       | 1.97                   | 2     | 8.04               |
+| 3       | 3.06               | 3       | 2.10                   | 3     | 10.10              |
+| 4       | 3.47               | 4       | 1.81                   | 4     | 9.28               |
+| 5       | 3.19               | 5       | 2.45                   | 5     | 8.96               |
+| Average | 3.03               | Average | 2.04                   | 6     | 9.45               |
+| σ       | 0.35               | σ       | 0.26                   | 7     | 7.65               |
+
+| 8       | 8.53 |  |  |
+|---------|------|--|--|
+| 9       | 9.29 |  |  |
+| 10      | 8.50 |  |  |
+| Average | 8.92 |  |  |
+| σ       | 0.73 |  |  |
+
+For facet {110}, the crystal became less deformable when soaked in DMF. The average Young's modulus obtained in our experiment performed in air is 2.04 ± 0.24 GPa, which is in excellent agreement with the reported value of 2.08 GPa8 . For facet {001}, the Young's modulus obtained with the crystal in DMF is 8.92 ± 0.73 GPa, which is slightly smaller than the reported value of 9.26 GPa8 obtained in the absence of the bulk solvent.
+
+| MOF                      | E<br>/ GPa     |              |
+|--------------------------|----------------|--------------|
+|                          | in DMF         | in Air       |
+| CTNMOF                   | 1.77<br>± 0.16 | 6.31 ± 0.14  |
+| Zn2(NO2-BDC)2(DABCO)⊃DMF | 3.03 ± 0.35    | 2.04 ± 0.26  |
+| {110} orientation        |                |              |
+| Zn2(NO2-BDC)2(DABCO)⊃DMF | 8.92 ± 0.73    | N/A          |
+| {001} orientation        |                |              |
+| HKUST-1                  | 10.24 ± 0.33   | 10.65 ± 0.11 |
+
+**Supplementary Table 22. Summary of the average Young's moduli of MOFs measured in DMF and in air.**
+
+**Supplementary Table 23. Summary of the average hardness of MOFs.**
+
+| MOF                      | H<br>/ GPa          |                     |
+|--------------------------|---------------------|---------------------|
+|                          | in DMF              | in Air              |
+| CTNMOF                   | 0.138<br>±<br>0.013 | 0.340<br>±<br>0.012 |
+| Zn2(NO2-BDC)2(DABCO)⊃DMF | 0.253<br>±<br>0.069 | 0.205<br>±<br>0.031 |
+| {110} orientation        |                     |                     |
+| HKUST-1                  | 0.556<br>±<br>0.029 | 0.532<br>±<br>0.008 |
+
+#### **8. Infrared spectra**
+
+![](_page_60_Figure_1.jpeg)
+
+**Supplementary Fig. 37.** IR spectra of DMF-including, THF-including and dried **CTNMOF** at 25 °C. These spectra were collected using an ATR (attenuated total reflectance) unit.
+
+![](_page_61_Figure_0.jpeg)
+
+**Supplementary Fig. 38.** Variable-pressure IR spectra of C=O stretching bands for (**a**) THF-including and (**b**) air-dried **CTNMOF** at 25 °C. These spectra were collected for **CTNMOF** suspended in KBr upon increasing the applied pressure using a diamond anvil cell.
+
+#### **9. Thermogravimetry**
+
+![](_page_62_Figure_1.jpeg)
+
+**Supplementary Fig. 39.** Thermogravimetric analysis (TGA) profile of **CTNMOF** assynthesized in DMF.
+
+![](_page_63_Figure_0.jpeg)
+
+#### **10. Thermogravimetry/mass spectrometry**
+
+**Supplementary Fig. 40.** Thermogravimetry/mass spectrometry (TG/MS) profile of assynthesized **CTNMOF**. (a) TG profile of ay-synthesized **CTNMOF**. (b) DMF (red) and water (blue) release profile from ay-synthesized **CTNMOF** in DMF. (c) 2D MS profile of as-synthesized **CTNMOF**. These profiles were recorded for as-synthesized **CTNMOF** freshly prepared in DMF.
+
+#### **11. CO2 sorption**
+
+![](_page_64_Figure_1.jpeg)
+
+**Supplementary Fig. 41.** CO2 adsorption and desorption isotherms (–78 °C, *P*<sup>0</sup> = 101.3 kPa) for **CTNMOF** after heated at 80 °C for 6 h under a reduced pressure.
+
+#### **12. Computational studies**
+
+#### 1. Model construction for molecular dynamics (MD) simulations
+
+For MD simulation, we constructed the model structure consisting of catenane moiety, where the four carboxylate groups originally coordinated to the cobalt atoms in the MOF were replaced with methyl groups. Three systems were prepared to perform MD simulation in gas phase, in hexane, and in DMF. The model was placed at the center of 8 Å cubic box for gas phase simulation, while the model was solvated by 1693 hexane molecules or 3997 DMF molecules in the cases of simulation in solutions.
+
+#### 2. Details of MD simulations
+
+First, we performed quantum mechanical calculations at HF/6-31G\* level of theory by Gaussian 16 Rev. C.013 software to obtain atomic charges. The topology files of the model and solvent were generated by the antechamber package14 with GAFF15 force field. Amber topology files generated by the package were converted into a GROMACS format using the python script, Acpype16 . Second, equilibration of the systems in gas phase and in the solvents was conducted by following procedure. Energy minimization of the systems was performed based on the conjugate gradient algorithm with the threshold of the maximum force, 10.0 kJ/mol/nm. Next, NVT equilibration for 100 ps at 300 K followed by NPT ensemble equilibration for 100 ps at 1 bar pressure were carried out for relaxation of solvent molecules, while the atomic positions of the model are restrained with a harmonic potential. Third, the final MD simulations were performed without any restraints and NPT ensemble. The temperature and pressure are kept constant (300K and 1 bar) by using the velocity rescale thermostat17 and the Parrinello-Rahman barostat18 , respectively. The cutoff value of 14 Å was assigned for non-bonded interactions. Longrange electrostatic interactions were treated using a particle-mesh Ewald scheme19 . Dynamics were propagated with a leapfrog integrator using a time step of 0.2 fs, while preserving bond lengths using LINCS20. All simulations were carried out under periodic boundary conditions using GROMACS software version 2020.521 . To analyze the results, we used GROMACS inbuilt tools, where we defined that the hydrogen bond has shorter N-O distance than 3.5 Å and smaller angle of N-H-O than 30°. The MD simulation for 2000 ps was conducted, and the snapshots every 1ps were collected. Then, the analysis of the hydrogen bonds in each structure the series of the snapshots were analyzed to summarize the number of the hydrogen bonds between the macrocycles (Supplementary Figs. 42, 44 and 46). Typical snapshots of the simulations in gas phase, in hexane and in DMF are shown as Supplementary Figs. 43, 45 and 47.
+
+![](_page_67_Figure_0.jpeg)
+
+**Supplementary Fig. 42.** The counted number of hydrogen bonds in the series of the snapshots collected every 1 ps during the MD simulation for 2000 ps at 300 K in DMF. The average number of the hydrogen bonds in the catenane molecule is 4.142, and that between the catenane molecule and DMF is 2.269.
+
+![](_page_67_Figure_2.jpeg)
+
+**Supplementary Fig. 43.** The snapshot of the model at 15 ps during the simulation, where we found 4 hydrogen bonds in the catenane molecule and 2 hydrogen bonding with DMF. Ocher, red, blue, and white indicate carbon, oxygen, nitrogen, hydrogen atoms, respectively. Light bule solid lines show hydrogen bonds between the macrocycles. Broken lines represent hydrogen bonds between the macrocycle and DMF. Solvent molecules are omitted for clarity, except for two DMF molecules interacting with the catenane molecule via hydrogen bond.
+
+![](_page_68_Figure_0.jpeg)
+
+**Supplementary Fig. 44.** The counted number of hydrogen bonds in the series of the snapshots collected every 1 ps during the MD simulation for 2000 ps at 300 K in hexane solution. The average number of the hydrogen bonds in the catenane molecule is 4.926.
+
+![](_page_68_Figure_2.jpeg)
+
+**Supplementary Fig. 45.** The snapshot of the model at 57 ps during the simulation, where we found 5 hydrogen bonds. Ocher, red, blue, and white indicate carbon, oxygen, nitrogen, hydrogen atoms, respectively. Light blue solid lines show hydrogen bonds between the macrocycles. Solvent molecules are omitted for clarity.
+
+![](_page_69_Figure_0.jpeg)
+
+**Supplementary Fig. 46.** The counted number of hydrogen bonds in the series of the snapshots collected every 1 ps during the MD simulation for 2000 ps at 300 K in gas phase. The average number of the hydrogen bonds in the catenane molecule is 5.201.
+
+![](_page_69_Figure_2.jpeg)
+
+**Supplementary Fig. 47.** The snapshot of the model at 10 ps during the simulation, where we found 5 hydrogen bonds. Ocher, red, blue, and white indicate carbon, oxygen, nitrogen, hydrogen atoms, respectively. Light blue solid lines show hydrogen bonds between the macrocycles.
+
+#### **References**
+
+- 1. Bundschuh, S. *et al*. Mechanical properties of metal–organic frameworks: an indentation study on epitaxial thin films. *Appl. Phys. Lett.* **101**, 101910 (2012).
+- 2. Oliver, W. C. & Pharr, G. M. Measurement of hardness and elastic modulus by instrumented indentation: advances in understanding and refinements to methodology. *J. Mater. Res.* **19**, 3–20 (2004).
+- 3. Kim, J.-H., Lee, E., Jeong, Y.-H. & Jang, W.-D. Unique photoluminescence of diacetylene containing dendrimer self-assemblies: application in positive and negative luminescence patterning. *Chem. Mater.* **24**, 2356–2363 (2012).
+- 4. Johnston, A. G., Leigh, D. A., Nezhat, L., Smart, J. P. & Deegan, M. D. Structurally diverse and dynamically versatile benzylic amide [2]catenanes assembled directly from commercially available precursors. *Angew. Chem. Int. Ed. Engl.* **34**, 1212–1216 (1995).
+- 5. Johnston, A. G., Leigh, D. A., Pritchard, R. J. & Deegan, M. D. Facile synthesis and solid-state structure of a benzylic amide [2]catenane. *Angew. Chem. Int. Ed. Engl.* **34**, 1209–1212 (1995).
+- 6. Saura-Sanmartin, A., Martinez-Cuezva, A., Marin-Luna, M., Bautista, D. & JBerna, J. Effective Encapsulation of C60 by Metal–Organic Frameworks with Polyamide Macrocyclic Linkers. *Angew. Chem. Int. Ed.* **60**, 10814–10819 (2021).
+- 7. Young's modulus tensile and yield strength for common materials. https://www.engineeringtoolbox.com/young-modulus-d\_417.html
+- 8. Henke, S., Li, W. & Cheetham, A. K. Guest-dependent mechanical anisotropy in pillared-layered soft porous crystals – a nanoindentation study. *Chem. Sci.* **5**, 2392–2397 (2014).
+- 9. Bahr, D. F. *et al*. Mechanical properties of cubic zinc carboxylate IRMOF-1 metalorganic framework crystals. *Phys. Rev. B* **76**, 184106 (2007).
+- 10. Tan, J. C., Bennett, T. D. & Cheetham, A. K. Chemical structure, network topology, and porosity effects on the mechanical properties of Zeolitic Imidazolate Frameworks. *Proc. Natl. Acad. Sci. U.S.A.* **107**, 9938–9943 (2010).
+- 11. Li, W. *et al*. Mechanical tunability via hydrogen bonding in metal−organic frameworks with the perovskite architecture. *J. Am. Chem. Soc.* **136**, 7801−7804 (2014).
+- 12. Tovar, T. M. et al. Diffusion of CO2 in large crystals of Cu-BTC MOF. *J. Am. Chem. Soc.* **138**, 11449–11452 (2016).
+- 13. Frisch, M. J. et al. Gaussian 16, Revision C.01, Gaussian, Inc., Wallingford CT (2016).
+- 14. Wang, J., Wang, W., Kollman P. A. & Case, D. A. Automatic atom type and bond type perception in molecular mechanical calculations. *J. Mol. Graph. Model.* **25**, 247260 (2006).
+- 15. Wang, J., Wolf, R. M., Caldwell, J. W., Kollman, P. A. & Case, D. A. Development and testing of a general AMBER force field. *J. Comput. Chem.* **25**, 1157-1174 (2004).
+- 16. Sousa da Silva, A. W. & Vranken, W. F. ACPYPE AnteChamber PYthon Parser interfacE. *BMC Res. Notes* **5**, 367 (2012).
+- 17. Bussi, G., Donadio, D. & Parrinello, M. Canonical sampling through velocity rescaling. *J. Chem. Phys.* **126**, 014101 (2007).
+- 18. Parrinello, M. & Rahman, A. Polymorphic transitions in single crystals: a new molecular dynamics method, *J. Appl. Phys.* **52**, 7182–7190 (1981).
+- 19. Darden, T., York, D. & Pedersen, L. Particle mesh Ewald an N.Log(N) method for Ewald sums in large systems. *J. Chem. Phys.* **98**, 10089−10092 (1993).
+- 20. Hess, B., Bekker, H., Berendsen, H. J. C. & Fraaije, J. G. E. M. LINCS: A linear constraint solver for molecular simulations. *J. Comput. Chem.* **18**, 1463−1472 (1997).
+- 21. Abraham, M. J. *et al*. GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers. *SoftwareX* **1**, 19−25 (2015).
+
+根据提供的文献内容，生成实验流程复现文献实验

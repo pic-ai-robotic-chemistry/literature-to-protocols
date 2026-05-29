@@ -1,0 +1,134 @@
+{
+  "pair_id": 18,
+  "winner": "protocol",
+  "winner_reason_short": "PLAN_B_PROTOCOL cleanly restricts the workflow to material preparation, omitting downstream electrochemical testing that PLAN_A_ORIGIN_PAPER incorrectly includes in the main workflow.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid/liquid dosing",
+      "precursor solution preparation",
+      "mixing/stirring/dispersion",
+      "main synthesis reaction",
+      "post-synthetic modification (ion exchange)",
+      "washing/purification/centrifugation",
+      "drying",
+      "activation (vacuum/thermal)",
+      "final material state",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "electrochemical testing",
+      "battery assembly",
+      "performance evaluation"
+    ],
+    "notes": "Both plans cover the full MOF and ion-exchange material preparation lifecycle, but only PLAN_B_PROTOCOL correctly ends at purified/activated material, while PLAN_A_ORIGIN_PAPER inappropriately includes electrochemical testing as part of the main workflow."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 11,
+      "covered_material_stage_count": 11,
+      "material_coverage": 1.0,
+      "coverage_reason": "All key material preparation stages are present, including synthesis, ion exchange, washing, drying, activation, and waste handling."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 1,
+      "unsupported_as_automated_count": 1,
+      "automation_boundary_score_5": 3.0,
+      "boundary_reason": "Most boundaries are handled, but downstream electrochemical testing is not clearly separated from material preparation."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 1,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 0,
+      "application_overreach_penalty_5": 2.0,
+      "overreach_reason": "Electrochemical testing and battery assembly are included as main workflow steps instead of being marked as downstream/external."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 15.0,
+      "practicality_reason": "Platform mapping is generally clear and actionable, but the inclusion of downstream testing complicates automation boundaries."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 13.0,
+      "fidelity_reason": "Material preparation is faithfully converted, but downstream application steps are inappropriately included in the automation scope."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": false,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "No unnecessary or conflicting branches; workflow is linear and clear."
+    },
+    "main_strengths": [
+      "Covers all material preparation stages including ion exchange and activation.",
+      "Waste handling is explicitly included."
+    ],
+    "main_weaknesses": [
+      "Downstream electrochemical testing is included as part of the main workflow.",
+      "Automation boundary between material preparation and application testing is unclear."
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 11,
+      "covered_material_stage_count": 11,
+      "material_coverage": 1.0,
+      "coverage_reason": "All required material preparation stages are present, ending with purified and activated MOF material."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "Manual/external steps are clearly isolated and all downstream testing is explicitly excluded."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 0,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream or application testing steps are included in the main workflow."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 19.0,
+      "practicality_reason": "All steps are mapped to platform modules with clear transitions and actionable parameters; workflow is cleanly automatable."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 19.0,
+      "fidelity_reason": "Material preparation lifecycle is fully preserved, with downstream steps excluded and boundaries clear."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": false,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "No branching required; workflow is linear and well-structured."
+    },
+    "main_strengths": [
+      "Strictly limited to material preparation with clear automation boundaries.",
+      "All platform steps are actionable and well-mapped."
+    ],
+    "main_weaknesses": [
+      "Some minor default parameters are required where the protocol is incomplete.",
+      "No explicit mention of final dispersion, but this is noted as requiring platform default."
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "tie",
+    "fewer_material_omissions": "tie",
+    "better_automation_boundary_quality": "protocol",
+    "less_application_overreach": "protocol",
+    "better_platform_adaptation_practicality": "protocol",
+    "better_automation_scope_fidelity": "protocol",
+    "better_branch_handling": "tie",
+    "better_overall_for_automation_scope_material_workflow": "protocol"
+  }
+}

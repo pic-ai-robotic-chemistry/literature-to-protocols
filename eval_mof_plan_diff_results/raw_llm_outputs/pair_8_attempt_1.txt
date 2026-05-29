@@ -1,0 +1,138 @@
+{
+  "pair_id": 8,
+  "winner": "origin_paper",
+  "winner_reason_short": "Origin_paper provides a more complete, stepwise, and automation-ready material-preparation workflow, including all relevant synthesis, modification, washing, and waste handling steps, with clear boundaries and no application overreach.",
+  "evaluation_basis": {
+    "inferred_material_preparation_stages": [
+      "reagent/container preparation",
+      "solid/liquid dosing",
+      "precursor solution preparation",
+      "mixing/dispersion",
+      "main synthesis reaction",
+      "post-synthetic modification (e.g., amine modification)",
+      "washing/purification/centrifugation",
+      "solvent exchange",
+      "drying (implied or defaulted)",
+      "final dispersion/storage (platform default)",
+      "waste handling"
+    ],
+    "excluded_downstream_stages": [
+      "electrochemical testing",
+      "PL/CPL/characterization",
+      "performance evaluation"
+    ],
+    "notes": "Both plans focus on MOF and MOF@metal halide synthesis and post-modification, but origin_paper covers all key preparation, modification, washing, and waste steps in a modular, automatable format, while protocol omits post-synthetic modification and some sample transitions."
+  },
+  "origin_paper": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 11,
+      "covered_material_stage_count": 11,
+      "material_coverage": 1.0,
+      "coverage_reason": "All required material-preparation stages, including synthesis, post-modification, washing, and waste handling, are explicitly covered."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 0,
+      "severe_material_omission_count": 0,
+      "missing_material_stages": []
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "Manual/external steps (e.g., freeze-pump-seal for NiBr2@MOF) are clearly marked as requiring manual intervention if not supported, with no unsupported steps treated as automated."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 0,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream testing or analysis is included in the main workflow; all application/testing steps are excluded."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 19.0,
+      "practicality_reason": "All modules, containers, and transitions are well-mapped and actionable, with only minor reliance on platform default parameters where literature is missing."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 20.0,
+      "fidelity_reason": "Faithfully translates the experimental protocol into an automation-scope workflow, preserving all relevant preparation and modification steps, with clear boundaries for manual/external actions."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Multiple MOF and MOF@metal halide branches are clearly separated and independently handled."
+    },
+    "main_strengths": [
+      "Complete coverage of all material-preparation and modification stages",
+      "Explicit automation boundaries and clear exclusion of downstream testing"
+    ],
+    "main_weaknesses": [
+      "Some parameters (e.g., washing volumes, drying) rely on platform defaults due to missing literature data",
+      "Complexity may be higher due to full branching and stepwise detail"
+    ]
+  },
+  "protocol": {
+    "material_preparation_coverage": {
+      "required_material_stage_count": 11,
+      "covered_material_stage_count": 8,
+      "material_coverage": 0.73,
+      "coverage_reason": "Covers core synthesis, washing, drying, and waste handling, but omits post-synthetic modification (amine modification, metal halide@MOF), and some sample transitions are unclear."
+    },
+    "material_stage_omission": {
+      "material_omission_count": 3,
+      "severe_material_omission_count": 1,
+      "missing_material_stages": [
+        "post-synthetic modification (amine modification)",
+        "MOF@metal halide superlattice growth",
+        "explicit final dispersion/storage"
+      ]
+    },
+    "automation_boundary_quality": {
+      "manual_or_external_step_count": 2,
+      "correctly_isolated_boundary_count": 2,
+      "unsupported_as_automated_count": 0,
+      "automation_boundary_score_5": 5.0,
+      "boundary_reason": "Manual/external steps (e.g., fire-seal activation) are clearly marked as requiring platform adaptation or manual intervention."
+    },
+    "application_overreach": {
+      "downstream_test_in_main_count": 0,
+      "offline_analysis_in_main_count": 0,
+      "optional_or_external_downstream_count": 0,
+      "application_overreach_penalty_5": 5.0,
+      "overreach_reason": "No downstream testing or analysis is included in the main workflow."
+    },
+    "platform_adaptation_practicality": {
+      "platform_adaptation_practicality_score_20": 16.0,
+      "practicality_reason": "Most modules and transitions are clear, but omission of post-modification and some sample handoffs reduces completeness and practical readiness for all target materials."
+    },
+    "automation_scope_fidelity": {
+      "automation_scope_fidelity_score_20": 15.0,
+      "fidelity_reason": "Faithfully covers core synthesis and handling, but omits key post-synthetic modification and MOF@metal halide steps that are part of the material-preparation lifecycle in this context."
+    },
+    "branch_handling": {
+      "multi_branch_material_workflow": true,
+      "branch_conflict_count": 0,
+      "branch_handling_score_5": 5.0,
+      "branch_reason": "Branches for different MOFs are handled distinctly and without conflict."
+    },
+    "main_strengths": [
+      "Clear, modular synthesis and washing workflow for multiple MOFs",
+      "No application overreach and good automation boundary marking"
+    ],
+    "main_weaknesses": [
+      "Omits post-synthetic modification and MOF@metal halide growth, which are part of the intended material-preparation scope",
+      "Some sample transitions and final state handling are less explicit"
+    ]
+  },
+  "comparison": {
+    "better_material_coverage": "origin_paper",
+    "fewer_material_omissions": "origin_paper",
+    "better_automation_boundary_quality": "tie",
+    "less_application_overreach": "tie",
+    "better_platform_adaptation_practicality": "origin_paper",
+    "better_automation_scope_fidelity": "origin_paper",
+    "better_branch_handling": "tie",
+    "better_overall_for_automation_scope_material_workflow": "origin_paper"
+  }
+}

@@ -1,0 +1,817 @@
+--------------------------------------------------------------------------------
+MESSAGE #1 [human]
+--------------------------------------------------------------------------------
+# **Porous isoreticular non-metal organic frameworks**
+
+<https://doi.org/10.1038/s41586-024-07353-9>
+
+Received: 20 November 2023
+
+Accepted: 26 March 2024
+
+Published online: 22 May 2024
+
+Open access
+
+ [C](http://crossmark.crossref.org/dialog/?doi=10.1038/s41586-024-07353-9&domain=pdf)heck for updates
+
+**Megan O'Shaughnessy1 , Joseph Glover2 , Roohollah Hafizi2 , Mounib Barhi3 , Rob Clowes1 , Samantha Y. Chong1,4, Stephen P. Argent5 , Graeme M. Day2** ✉ **& Andrew I. Cooper1,4** ✉
+
+Metal–organic frameworks (MOFs) are useful synthetic materials that are built by the programmed assembly of metal nodes and organic linkers[1](#page-6-0) . The success of MOFs results from the isoreticular principle[2](#page-6-1) , which allows families of structurally analogous frameworks to be built in a predictable way. This relies on directional coordinate covalent bonding to defne the framework geometry. However, isoreticular strategies do not translate to other common crystalline solids, such as organic salt[s3](#page-6-2)[–5](#page-6-3) , in which the intermolecular ionic bonding is less directional. Here we show that chemical knowledge can be combined with computational crystal-structure predictio[n6](#page-6-4) (CSP) to design porous organic ammonium halide salts that contain no metals. The nodes in these salt frameworks are tightly packed ionic clusters that direct the materials to crystallize in specifc ways, as demonstrated by the presence of well-defned spikes of low-energy, low-density isoreticular structures on the predicted lattice energy landscapes[7,](#page-6-5)[8](#page-6-6) . These energy landscapes allow us to select combinations of cations and anions that will form thermodynamically stable, porous salt frameworks with channel sizes, functionalities and geometries that can be predicted a priori. Some of these porous salts adsorb molecular guests such as iodine in quantities that exceed those of most MOFs, and this could be useful for applications such as radio-iodine captur[e9](#page-6-7)–[12.](#page-6-8) More generally, the synthesis of these salts is scalable, involving simple acid–base neutralization, and the strategy makes it possible to create a family of non-metal organic frameworks that combine high ionic charge density with permanent porosity.
+
+Porous crystalline solids are interesting both for their fundamental chemistry and their potential in applications such as gas capture, catalysis and molecular separations. The ability to position chemical functionality with atomic precision in crystalline porous frameworks has created properties that do not exist in classical porous materials, such as activated carbons. Porous crystalline solids can be divided into two classes: extended, covalently bonded frameworks, such as MOFs[1,](#page-6-0)[2](#page-6-1) and covalent organic frameworks (COFs[\)13](#page-6-9)[,14;](#page-6-10) and porous molecular crystals, such as hydrogen-bonded frameworks (HOFs[\)7](#page-6-5)[,8](#page-6-6)[,15,](#page-6-11)[16](#page-6-12) and porous organic cages[17.](#page-6-13) Porous bonded frameworks exploit strong, directional covalent or coordinate covalent bonding, which underpins the isoreticular principle[2](#page-6-1) , whereby series of structurally related frameworks can be synthesized. By contrast, porous molecular crystals involve weaker, non-covalent intermolecular interactions. They are therefore harder to design for a specific, programmed function and are less amenable to generalization.
+
+Crystalline porous organic salts (CPOS)[5](#page-6-3) are a subclass of porous molecular solids that are composed of acids and bases assembled through ionic interactions. Work on this began in the early 1990s[3](#page-6-2),[4](#page-6-14) , before the first porous MOFs were discovered[18](#page-6-15),[19](#page-6-16). However, whereas considerable progress has been made in creating MOFs, work on CPOS materials has not had the same success. MOFs have the advantages of reticular design, high levels of permanent porosity and, in some cases, good physicochemical stability. By contrast, although porous salts show promise for some applications[5](#page-6-3)[,20](#page-6-17),[21](#page-6-18), they lack many of the basic design principles that apply to isoreticular frameworks. For example, porous molecular salts can be subject to polymorphism[22](#page-6-19) because the interactions between net charges in organic salts are less directional than is the case for coordinate covalent bonding in MOFs.
+
+The potential for polymorphism in neutral HOFs has been tackled by using a priori CSP[7](#page-6-5),[8](#page-6-6) to map the landscape of stable crystal packing modes and hence to predict the resulting physical properties. Work on MOFs has also seen recent developments in CSP[23](#page-6-20)[,24](#page-6-21) that could be used to anticipate likely stable structures for particular metal–linker combinations. The covalent bonding between metal nodes and organic linkers requires periodic density functional theory to adequately describe the relative energies of alternative structures, unlike organic molecular CSP in which intermolecular force fields can often capture the balance between the competing non-bonded interactions. This makes searching for structures much more expensive in MOF CSP, so these
+
+Materials Innovation Factory and Department of Chemistry, University of Liverpool, Liverpool, UK. 2 Computational System Chemistry, School of Chemistry, University of Southampton, Southampton, UK. 3 Albert Crewe Centre for Electron Microscopy, University of Liverpool, Liverpool, UK. 4 Leverhulme Research Centre for Functional Materials Design, University of Liverpool, Liverpool, UK. 5 School of Chemistry, University of Nottingham, Nottingham, UK. ✉e-mail: [g.m.day@soton.ac.uk](mailto:g.m.day@soton.ac.uk); [aicooper@liverpool.ac.uk](mailto:aicooper@liverpool.ac.uk)
+
+studies have made heavy use of symmetry to guide the placement of MOF building blocks during random structure searching to reduce the computational expense.
+
+CSP has not yet been applied to CPOS materials. Moreover, CSP has only rarely been applied to organic salt[s6](#page-6-4),[25,](#page-6-22)[26](#page-6-23) because of the difficulty in modelling the range of interactions that govern their structure, the conformational flexibility in the building blocks, and the high dimensionality of the energy landscape that results from having multiple independent units in the crystallographic asymmetric unit.
+
+Recent advances in the crystal engineering of porous organic salts and related systems have shown that some directionality can be forced in salts by using nonpolar steric hindrance around the charged sites[27,](#page-6-24) but those materials were not porous. A level of reticular chemistry was made possible by using carboxylic acids and amidines[28](#page-6-25), but this strategy is less generalizable than for isoreticular MOFs. Again, the amidine salts were not activated successfully to yield porous structures. It has been shown that guanidinium organodisulfonates, despite being formally metastable with respect to dense packings, can retain microporosity for extended periods[29](#page-6-26). More broadly, a review of CPOS materials in 2020 concluded: "Most crystalline porous organic salts formed by noncovalent bonding remain unstable, leading to collapse of the framework after removing the guest molecules["5](#page-6-3) . Compared with MOFs, there are very few porous organic salts, and most of those reported are not actually permanently porous.
+
+Although permanently porous organic salts have proved hard to design, they retain a conceptual and practical allure. For example, a wide range of salt-forming reactions exists as a toolkit for forming porous salts, making them potentially analogous to MOFs without the metals. Furthermore, one might expect to find unique physical properties in all-organic porous salt frameworks that have a high density of permanent charges lining the pores.
+
+Ammonium halides are an archetypal class of organic salts that have been widely studied in pharmaceutical chemistry, making up a sizeable percentage of drug molecules. However, they are largely unexplored in the area of porous frameworks. Densely packed ammonium salts have been reported[30,](#page-6-27)[31](#page-6-28) and some have the ability to capture sulfate ion[s32.](#page-6-29) A different dense ammonium salt has been reporte[d33](#page-6-30) that could efficiently catalyse the reduction of U(IV) to U(VI). And last year, porous ammonium halide salts were reported that could adsorb gases such as krypton and xeno[n34,](#page-6-31) although those materials were synthesized without any computational structural design.
+
+We show here that ammonium halide salts can form porous, thermodynamically stable frameworks that can be targeted by using a priori CSP. We also demonstrate that these porous salts can form predictable, isoreticular structure families, as is the case for MOF[s1](#page-6-0),[2](#page-6-1),[33](#page-6-30) and COFs[35,](#page-6-32)[36.](#page-6-33) For example, we show that isoreticular forms persist across compound families if the length of the amine linkers is extended. These porous salts show robust, desolvatable porosity and exhibit useful properties such as high levels of iodine capture[9](#page-6-7)–[12.](#page-6-8)
+
+#### **Reticular design principle**
+
+Typically, MOFs consist of positively charged metal nodes connected by negatively charged organic linker[s18](#page-6-15) (Fig. [1a](#page-2-0)) or neutral coordinating linkers with counter-anions to balance the charg[e19.](#page-6-16) An inverse approach is to construct frameworks in which negatively charged nodes are connected by positively charged linkers (Fig. [1a](#page-2-0)). Our basic design principle was to use rigid organic linkers that bear multiple amine groups (Fig. [1b](#page-2-0)). We imagined that crystals of the halide salts of these linkers would necessarily pack such that the cations and anions were in close proximity, and that this clustering of the salt functionality, coupled with the rigidity and length of the linkers, might lead to permanent porosity. Beyond this simple mental picture, however, it was impossible to anticipate the precise packing in such crystals because of the lack of strong directional intermolecular bonding in ammonium halide salts. For this reason, we applied CSP to explore the likely low-energy packing modes for these salts before synthesis.
+
+#### **CSP to guide synthesis**
+
+First we explored a tetrahedral amine linker, tetrakis-(4-aminophenyl) methane (TAPM) (Fig. [1b\)](#page-2-0). The energy-structure landscapes derived from CSP calculations for the hypothetical chloride and bromide salts of TAPM are shown in Extended Data Fig. 1. In both cases, the lowest-energy structures were predicted to be dense and non-porous, indicating that TAPM was not a promising candidate for stable, permanently porous CPOS materials, at least with halide counterions, even though structurally analogous anionic tetrahedral sulfonates had been used previously to create porous salts[5](#page-6-3) . To test this predicted outcome, single crystals of TAPM.X (X = Cl or Br) (**TAPM.X**) were grown by reacting TAPM with either HCl or HBr. By exploring a range of crystallization conditions, we found that two polymorphs, **TAPM.X/P1** and **TAPM.X/P2**, can be formed and that these polymorphs are isostructural for both halides. CSP finds structures with the experimental crystal packings observed in the two polymorphic forms for both TAPM salts (Extended Data Fig. 1c,d). As predicted, both **TAPM.X/P1** and **TAPM.X/P2** are dense and non-porous. **TAPM.X/P1** was identified as the lower-energy structure on both CSP landscapes (Extended Data Fig. 1a,b) and it was found to be the dominant form, produced under most crystallization conditions. Although these two salts did not yield porous frameworks, the results gave us confidence in the CSP methodology for these challenging systems, in which the calculations involved five independent structural units: the TAPM tetracation and four halide anions.
+
+Next, we did CSP calculations for a wider range of amines and halides to search for candidate porous salt frameworks. The predicted structural landscapes for three promising candidate salts are shown in Fig. [2a–c,](#page-3-0) all of which involve trigonal, triamine linkers. For each of these salts, the lowest-energy predicted structures have pore channels that would be large enough to accommodate molecular guests. Moreover, the energy-density distributions of predicted crystal structures show pronounced 'spikes' containing multiple porous crystal packings that are broadly isostructural. Such features of CSP landscapes had previously been shown for neutral HOFs[7](#page-6-5),[8](#page-6-6),[37](#page-6-34) to correspond to deep, isolated basins on the lattice energy surface[38](#page-6-35) and this is most obvious in the energy-density distributions for **TT.Br** and **TTBT.Cl** (TT denotes 4,4′,4′′-(1,3,5-triazine-2,4,6-triyl)tris[benzenamine] and TTBT denotes 4′,4′′′,4′′′′′-(1,3,5-triazine-2,4,6-triyl)tris[[1,1′-biphenyl]−4-amine]). For **TAPT.Cl** (TAPT denotes 1,3,5-tris(4-aminophenyl)benzene), the additional structural dimension of cation flexibility obscures similar spikes in the overall energy-density distribution (TAPT-1,2 and 4 in Fig. [2a](#page-3-0)); nevertheless, spikes formed by some cation conformers are expected to correspond to isolated, deep basins on the combined intramolecular–intermolecular energy surface. The prediction of global energy-minimum porous structures for these salts contrasts sharply with the porous metastable polymorphs that we predicted for neutral HOFs, which had lattice energies of up to 50 kJ mol−1 above that of the predicted close-packed crystal structures[7,](#page-6-5)[8,](#page-6-6)[37.](#page-6-34) This provides an insight that organic salts might be suitable for creating intrinsic porosity, which is important for applications because metastable crystals are subject to porosity loss by densification[29](#page-6-26).
+
+The CSP calculations indicated that this series of salts might also be isoreticular, as is the case for MOFs[2](#page-6-1) . That is, the linker with the longest arms, TTBT, was predicted to yield salts with crystal packings that are isoreticular with salts of the short-armed linkers, TT and TAPT, but with larger pore channels and a higher pore volume (Fig. [2e,f\)](#page-3-0).
+
+### **Synthesis of porous salts**
+
+Bulk crystalline powders of **TAPT.Cl,TT.Br** and **TTBT.Cl** were isolated through simple dropwise addition of either HCl or HBr solutions into
+
+![](_page_2_Figure_1.jpeg)
+
+<span id="page-2-0"></span>**Fig. 1 | Inverse reticular design strategy for porous salt frameworks. a**, Most MOFs (top) comprise positively charged metal nodes (M*<sup>n</sup>*<sup>+</sup> ) and negatively charged organic ligands (L*<sup>m</sup>*<sup>−</sup> ). An inverse strategy (bottom) is to design organic salt frameworks with negatively charged nodes (X*<sup>n</sup>*<sup>−</sup> ) and positively charged
+
+organic linkers (L*<sup>m</sup>*<sup>+</sup> ). **b**, Structures of the aniline derivatives used as linkers. These linkers take the form of cationic ammonium halide salts in the resulting salt frameworks.
+
+solutions of the respective amines, whereby the salts precipitated instantaneously. Structural matches for the three isolated salts could be found on their CSP landscapes by comparing the predicted and experimental powder X-ray diffraction (PXRD) data patterns (Fig. [2g–i\)](#page-3-0), as indicated by the red stars in Fig. [2a–c.](#page-3-0) In all three cases, these matches were found to lie at the tip of a spike in the CSP landscape, and for **TT.Br** and **TTBT.Cl**, these structures corresponded to the predicted global energy-minimum structures.
+
+The three predicted crystal packings that best matched the experimental data were all isoreticular and comprised two distinct one-dimensional (1D) pore channels (Fig. [2d–f\)](#page-3-0). The first pore (A) is defined by clusters or 'tubes' of the protonated amines and the halide counterions; it is cylindrical, highly charged and has a narrow pore diameter (4.86–5.87 Å). The second pore (B) is diamond shaped, is less polar and is defined by the aromatic linkers; this pore diameter is larger in **TTBT.Cl** (14.3 Å × 8.5 Å) than in **TAPT.Cl** (7.9 Å × 4.6 Å) or **TT. Br** (7.0 Å ×  5.8 Å), but the dimensions of the ionic pore (A) are almost the same in all three predicted structures. This dual-channel structure leads to predicted pore volumes in these trigonal amine salts that are higher than for 4,4′,4′′,4′′′-(ethene-1,1,2,2-tetrayl)tetraaniline (ETTA) salts[34](#page-6-31). For example, using a probe radius of 1.2 Å, the calculated solvent-accessible pore volume for **TAPT.Cl** is 31.9% of the unit-cell volume, 31.4% for **TT.Br**, and 43.2% for the larger-pore isoreticular framework, **TTBT.Cl**. The equivalent calculated pore volume calculated for the chloride salt of ETTA (ETTA\_Cl) is 18.2% (ref. [34](#page-6-31)). This four-arm linker, ETTA, is closer in structure and geometry to TAPM (Fig. [1b](#page-2-0)), which gives dense, non-porous salts here (Extended Data Fig. 1).
+
+Single crystals of **TAPT.Cl** grown from methanol and chlorobenzene revealed that the salt crystallized in a trigonal space group, *P*3*m*1 (Supplementary Fig. 6). This experimental crystal structure, albeit for a partial solvate (**TAPT.Cl**, 1.25[C6H5Cl], 1.5[H2O]), confirmed the match for the computationally predicted structure. In this solvate, the solvent occupies around 78% of the void volume. A structural overlay of the predicted and experimental structure is shown in Extended Data Fig. 2b. This is, to our knowledge, the first experimental evidence that organic salts can form porous frameworks that follow an a priori atomistic structure prediction.
+
+Crystals also formed for both **TT.Br** and **TTBT.Cl**, but the lower solubility and higher reactivity of those systems meant that publishable single-crystal X-ray data could not be obtained. Conversely, this high reactivity and low solubility allowed us to obtain multiple grams of (poly)crystalline powders for these materials within hours by the simple dropwise addition of acid at room temperature (Methods). Comparison of experimental PXRD data with equivalent data derived from the global energy-minimum CSP structures (Fig. [2h,i](#page-3-0)) suggested that **TT.Br** and **TTBT.Cl** formed crystal packings that were broadly isoreticular; that is, extension of the organic linkers led to larger pores, as for isoreticular MOFs. Given the challenges in growing single crystals, high-resolution transmission electron microscopy (HR-TEM) was used to further characterize these materials, as used to provide structural information for other porous frameworks[39](#page-6-36),[40.](#page-6-37) HR-TEM further demonstrates the crystallinity of **TT.Br** and **TTBT.Cl** (Extended Data Fig. 3a,b). The highly crystalline structure of **TT.Br** is shown in Extended Data Fig. 3a; the inset shows an expansion of the rectangle in the middle of the particle, showing the anticipated pore structure. To further confirm the proposed crystal packing of **TT.Br**, we compared the fast Fourier transform (FFT) of the experimental HR-TEM (Extended Data Fig. 3a, top right) with the simulated electron diffraction pattern for the best-matched CSP structure (Extended Data Fig. 2a, bottom right). The yellow and blue dashed circles in both patterns correspond to the first and second hexagonal order, with d-spacing values of 1.572 nm and 0.92 nm, respectively. For **TTBT.Cl** (Extended Data Fig. 3b), HR-TEM shows the 1D pore channels in the crystal and the corresponding FFT image (Extended Data Fig. 3b, top right) shows the (010), (020) and (030) axes with an alignment along the [010] zone axis determined after comparison with the simulated pattern from the best-matched CSP-derived structure (Extended Data Fig. 3b, bottom right). The halos observed in the FFT images indicate that there is uncorrelated disorder in these two materials, particularly for **TTBT.Cl** (Extended Data Fig. 3b). The crystal structure of **TTBT.Cl**
+
+![](_page_3_Figure_0.jpeg)
+
+<span id="page-3-0"></span>**Fig. 2 | CSP suggests porous, isoreticular ammonium halide salts. a**–**c**, CSP energy landscapes for **TAPT.Cl** (**a**),**TT.Br** (**b**) and **TTBT.Cl** (**c**). For TAPT and TTBT, we considered the four lowest-energy molecular conformers predicted for the amine linker, and these are colour-coded in the CSP landscapes. TT was assumed to adopt a planar conformation (the computed minimum-energy conformer) because of its triazine core. We carried out CSP for both the chloride and bromide salts for all three systems; the **TT.Br** landscape is shown because this salt crystallized more effectively than did the corresponding chloride. For all three salts, the lowest-energy, most thermodynamically stable structures are predicted to be porous. **d**–**f**, Space-filling representations of the closest
+
+was solved using PXRD data (Extended Data Fig. 3c). All these data support the structure assignments made in Fig. [2](#page-3-0).
+
+#### **Ionic interactions create porosity**
+
+Analysis of the CSP energy landscapes reveals that our initial design hypothesis of charge adjacency was satisfied, at least for the three trigonal amine linkers. The anion coordination of the ammonium groups is summarized in Fig. [3](#page-4-0), represented as the mean count of nitrogen– halide close contacts per ammonium in each predicted crystal structure. Low-density spikes of structures correspond to the maximization of such close contacts, reaching an average of four close halides per ammonium in the most-stable porous structures. That is, porosity arises from the crystal packing constraints introduced by closely adjacent net charges attached to rigid aromatic linkers. The trigonal organic linkers express this charge adjacency more effectively than the two tetrahedral salts do. For **TAPM.Cl** and **TAPM.Br**, there are no low-energy crystal structures predicted that allow more than three close contacts between the ammonium nitrogen atoms in the organic linkers and the halide nodes (Fig. [3a,b](#page-4-0)). This means that the electrostatic interactions do not overrule the stabilization that can be achieved by close packing. Therefore, these salts do not form open porous frameworks.
+
+CSP matches (indicated by stars in **a**–**c**) found for the observed experimental structures of **TAPT.Cl** (**d**), **TT.Br** (**e**) and **TTBT.Cl** (**f**). For **TT.Br** and **TTBT.Cl**, the closest matches are the global minimum-energy structures. The labels A and B denote the two kinds of pores in these three isoreticular frameworks. **g**–**i**, Comparison of the experimental PXRD data (bottom, black) with the PXRD pattern predicted from the closest match in the CSP landscape. 2*θ* is the diffraction angle, which is the angle between the incident and the detected X-rays. (top, red) for **TAPT.Cl** (**g**), **TT.Br** (**h**) and **TTBT.Cl** (**i**). Details of the analyses for **TAPT.Cl** and **TT.Br**, and the refinement of **TTBT.Cl**, are given in Supplementary Information section 2.
+
+By contrast, the trigonal amine linkers **TT.Br** and **TTBT.Cl** yield CSP landscapes that contain structures with four close halide contacts per ammonium nitrogen (Fig. [3d,e](#page-4-0)); these structures predominate in the spikes of low-energy, low-density predicted packings. The **TT.Br** and **TTBT.Cl** energy landscapes show clearly why an open, low-density structure is formed: structures with higher densities form fewer ammonium– halide close contacts and are therefore less energetically stable. For **TAPT.Cl**, the predicted crystal packing that corresponds to the experiment has three close chloride contacts per ammonium, according to the distance thresholds in Fig. [3](#page-4-0). However, the number of close contacts is sensitive to the threshold value, and for **TAPT.Cl** it increases to four chloride close contacts around two arms of the cation, with a 25% increase in the distance cutoff (Supplementary Fig. 34). For all three trigonal amine salts (Fig. [2d–f](#page-3-0)), the packing arrangement with four close halide–ammonium contacts is expressed by the cylindrical ionic pores (A) (Fig. [3f\)](#page-4-0), which in turn create the diamond-shaped pores (B).
+
+#### **Other potential porous polymorphs**
+
+As found for neutral HOFs[7](#page-6-5)[,8](#page-6-6),[37,](#page-6-34) these CSP landscapes suggest that other porous polymorphs might also be accessible in the laboratory (Extended Data Figs. 4–6). For example, alternative porous structures
+
+![](_page_4_Figure_1.jpeg)
+
+<span id="page-4-0"></span>**Fig. 3 | Charge adjacency dictates crystal packing.a**–**e**, CSP plots colour coded by the mean number of short contacts (below the sum of nitrogen and halide van der Waals radii, which are 3.3 Å for chloride salts and 3.4 Å for bromide salts) between ammonium nitrogens and halide ions for **TAPM.Br** (**a**), **TAPM.Cl** (**b**), **TAPT.Cl** (**c**), **TT.Br** (**d**) and **TTBT.Cl** (**e**). Experimentally observed dominant
+
+polymorphs are indicated by a star. **f**, Global energy-minimum predicted structure for **TTBT.Cl** emphasizing the four short ammonium–halide contacts (blue dotted lines) that define the cylindrical pore channel (A) in Fig. [2f](#page-3-0). Purple, nitrogen atoms in the NH3 + cation (hydrogens not shown); green, Cl<sup>−</sup> anions.
+
+were predicted for **TAPT.Cl**, some of which had lower predicted lattice energies than the experimentally observed crystal packing (such as **TAPT.Cl**/4 and **TAPT.Cl**/5 in Extended Data Fig. 4), at least in the absence of solvent. We also predicted structures with much higher pore volumes, such as **TAPT.Cl**/3 (Extended Data Fig. 4), which lies 29.7 kJ mol−1 above the global minimum. By analogy with HOFs, in which solvent stabilization of at least 50 kJ mol−1 has been observed for porous polymorph[s7](#page-6-5)[,8](#page-6-6),[37](#page-6-34), **TAPT.Cl**/3 or a nearby structure in the predicted set could in principle be accessible under different experimental conditions. Likewise, the CSP landscapes for **TT.Br** (Extended Data Fig. 5) and **TTBT. Cl** (Extended Data Fig. 6) indicate that there might be other potential porous forms in a relative lattice energy window of 50 kJ mol−1, although in these two cases the experimentally observed polymorphs match the global minimum-energy predicted structures (Fig. [2b,c](#page-3-0)). Closely related crystalline forms can be found across the three energy landscapes. For example, **TT.Br**/4 and **TTBT.Cl**/3 are isoreticular with **TAPT.Cl**/3 (Extended Data Fig. 7). Similarly, **TAPT.Cl**/2, **TT.Br**/1 and **TTBT.Cl**/1 are all isoreticular (albeit with high relative lattice energies), as are the structures of **TT.Br**/5 and **TTBT.Cl**/4, and the structures of **TAPT.Cl**/4 and **TT.Br**/6, which have more competitive predicted lattice energies.
+
+We can also use energy–structure–function maps[7](#page-6-5) to predict global property tendencies. For example, the dominance of red data points in the energy–structure–function maps coloured by pore channel dimensionality (Extended Data Fig. 8a–c) shows that all three of these salts would be expected to express 1D channel geometries, rather than 2D or 3D channels, if a porous structure is formed. Likewise, energy– structure–function maps suggest that **TTBT.Cl** has the greatest chance of forming a mesoporous structure with pores larger than 2 nm in diameter (Extended Data Fig. 8d–f), such as **TTBT.Cl**/3, although only microporous materials (with pores narrower than 2 nm) were observed under the experimental conditions tested here.
+
+#### **Gas sorption in porous salts**
+
+These materials did not adsorb much nitrogen at 77 K, but this is relatively common for small-pore microporous solids and may reflect limited guest mobility at such temperatures. By contrast, all three porous salts adsorbed carbon dioxide reversibly at temperatures in the range 195 K to 298 K (Extended Data Fig. 9). **TAPT.Cl** and **TT.Br** adsorb 4.0 mmol  g−1 and 4.6 mmol g−1 CO2, respectively, at 195 K as saturation is approached. **TT.Br** in particular adsorbs more CO2 than do the other porous organic salts at this temperature[5](#page-6-3),[34](#page-6-31),[41,](#page-6-38)[42](#page-6-39). By contrast, **TTBT.Cl** adsorbed around 2.4 mmol g−1 despite having the lowest predicted crystal density and the largest nominal pore volume (Fig. [2](#page-3-0)). The CO2 desorption isotherm for **TTBT.Cl** at this temperature also shows pronounced hysteresis, unlike those of **TAPT.Cl** and **TT.Br**, and the isotherm collection time was long (more than 90 h). It is likely that the low-density **TTBT.Cl** crystals are less stable under the degassing conditions used here (14 h at either 80 °C or 110 °C), so some porosity is lost during sample preparation or during sorption and desorption (Supplementary Fig. 14). By contrast, as discussed below, **TTBT.Cl** exhibits the highest capacity, good stability and the most rapid adsorption kinetics for guests such as iodine when activated under less-rigorous conditions. Unlike the CO2 isotherms, this supports our prediction that **TTBT.Cl** should have the greatest pore volume in this isoreticular series of porous salts.
+
+#### **Porous salts for iodine capture**
+
+The capture of radio-iodine is important in the nuclear industry and for environmental protection[9–](#page-6-7)[12](#page-6-8),[43.](#page-6-40) These salts, which have highly polar pore channels, struck us as potentially useful adsorbents for iodine capture. Non-porous **TAPM.Cl/P1** showed little iodine uptake (3.6 wt%; Fig. [4a\)](#page-5-0), which we ascribed to adsorption on the crystal surface. By contrast, the three porous salts, **TAPT.Cl**, **TT.Br** and **TTBT.Cl**, showed high iodine uptakes of 248 wt% (6.8 mol per mol), 213 wt% (4.99 mol per mol) and 211 wt% (3.83 mol per mol), respectively. These iodine uptakes outperform most MOFs studied at comparable temperatures (60–80 °C), including ZIF-8 (125 wt% iodine[\)9](#page-6-7) , Cu-BTC (175 wt%[\)10](#page-6-41), MFM-300(Sc) (154 wt%)[11](#page-6-42) and NU-1000 (145 wt%[\)12](#page-6-8). Indeed, a review[43](#page-6-40) suggests that **TTBT.Cl** adsorbs more iodine than all but five MOFs reported, all of which have high surface areas (more than 2,000 m<sup>2</sup>  g−1) and lower
+
+![](_page_5_Figure_0.jpeg)
+
+<span id="page-5-0"></span>**Fig. 4 | Reversible iodine uptake in porous organic salts. a**, Iodine uptake in porous **TAPT.Cl**, **TT.Br** and **TTBT.Cl** frameworks and non-porous **TAPM.Cl/P1** as a function of time. Note that the **TAPT.Cl** and **TT.Br** plots overlay almost exactly. **b**, Photographs of the salts before (left) and after (right) exposure to
+
+framework densities than this non-metal organic framework. Moreover, the iodine uptake in these salt frameworks is reversible over multiple cycles (Fig. [4c,d\)](#page-5-0).
+
+#### **Water stability**
+
+The stability of frameworks to water is another important practical consideration. For these ammonium halide salts, this depends on the organic linker. **TAPT.Cl** is water soluble, whereas **TT.Br** has very low water solubility but becomes amorphous when immersed in water. By contrast, the more-hydrophobic **TTBT.Cl** framework is insoluble in water and a sample submerged in water was shown by PXRD to have stable crystallinity for at least 48 h (Supplementary Fig. 23). Water adsorption isotherms were also collected for **TTBT.Cl** and it was shown to adsorb 12.4 mmol g−1 water (Supplementary Fig. 24). PXRD analysis before and after water sorption showed that the sample had retained a good level of crystallinity.
+
+#### **Outlook**
+
+In this study, we have introduced a computational design-led strategy for non-metal-containing framework materials. The frameworks can be produced on multigram scales from abundant elements by the simple dropwise addition of acid to solutions of the amine linkers. The first examples of these materials already show practical promise, outperforming most MOFs for iodine capture[43](#page-6-40). Other applications might take advantage of the highly charged pore channels (Figs. [2](#page-3-0) and [3f\)](#page-4-0), such as proton conduction, catalysis, water capture or hydrogen storage.
+
+These frameworks can be thought of as 'inverted' MOFs in which the halide anions are analogous to the metal cations (Fig. [1a](#page-2-0)); that is, non-metal organic frameworks. Just as MOFs can be structurally diversified by changing the metal nodes and the organic linkers, it should be possible to create similar families of non-metal organic frameworks. We chose ammonium halides here because they are easy to synthesize and
+
+iodine. **c**, Recyclability tests over five cycles for **TTBT.Cl**; 100% efficiency is defined as the initial iodide uptake (cycle 1). **d**, PXRD data showing the reversibility of iodine adsorption in **TTBT.Cl**; similar reversibility was observed for **TAPT.Cl** and **TT.Br** (Supplementary Figs. 20 and 21).
+
+are well known in a pharmaceutical context, but this inverse reticular strategy should be diversifiable. For example, a wide variety of other counter-ions can be considered, such as nitrates, sulfates and hydrogen sulfates, tetrafluoroborates, hydrogen carbonates, phosphates, cyclic phosphates, arsenates, carboxylates and tetrafluoroborates, all of which are known to form salts with ammonium cations. Mixed-anion frameworks are also possible[34](#page-6-31), although predicting the most stable salt composition a priori could be computationally expensive. Just as for MOFs, a range of organic amine linkers can be conceived, including aliphatic amines, if they are sufficiently rigid, as well as pyridinium or imidazolium analogues.
+
+Like MOFs, but unlike other covalent non-metal frameworks, such as COFs[13](#page-6-9),[14,](#page-6-10) these materials are synthesized by salt formation. This is reversible enough to produce single crystalline materials (Supplementary Fig. 6), which is still relatively uncommon for COFs[44](#page-6-43)[–48.](#page-6-44) These molecular salts also have properties that are not found in bonded frameworks, such as solubility in certain solvents (Supplementary Figs. 5, 7 and 10), which may aid processing and purification.
+
+We observed polymorphism for **TAPM.X** salts (Extended Data Fig. 1), and CSP calculations suggest that other ammonium halide salts might in principle also be polymorphic (Extended Data Figs. 4–6), although CSP is known to overpredict polymorphism[49](#page-6-45),[50](#page-6-46). Interestingly, polymorphism has not been observed in crystalline guanidinium organosulfonate material[s3](#page-6-2)[,4](#page-6-14)[,29.](#page-6-26) This might be due to more directional hydrogen bonding between guanidinium ions and sulfonate groups restricting the possibilities for low-energy crystal packings, in comparison with ammonium halide salts that comprise simple spherical anions. This could have broader implications for the design of non-metal organic frameworks using anions other than halides.
+
+We see CSP as the key to exploring this area because the ionic bonding in these salts is weaker and less directional than for most MOFs, and CSP allows us to evaluate the propensity for new combinations of organic cations and counterions to form stable, porous crystals before synthesis. This will identify candidates for porous frameworks from the
+
+much larger pool of organic salts that form dense, non-porous crystals, or that cannot be activated because they are metastabl[e5](#page-6-3) . Moreover, the ability to predict frameworks that have thermodynamically stable porous forms is a major advantage for finding applications. The robust porosity of **TTBT.Cl** and its stability to multiple iodine sorption– desorption cycles (Fig. [4c](#page-5-0)) can be explained by the absence of denser, more-stable packings available to this crystal (Fig. [2c\)](#page-3-0). This is not the case for most hydrogen-bonded organic frameworks, nor indeed for many MOFs. For example, our earlier neutral porous HOFs[7](#page-6-5) may be unsuitable for iodine-capture applications because there are multiple, denser polymorphs available that are more stable, and the porosity would be lost under practical capture conditions.
+
+#### **Online content**
+
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at<https://doi.org/10.1038/s41586-024-07353-9>.
+
+- <span id="page-6-0"></span>1. Furukawa, H., Cordova, K. E., O'Keeffe, M. & Yaghi, O. M. The chemistry and applications of metal–organic frameworks. *Science* **341**, 1230444 (2013).
+- <span id="page-6-1"></span>2. Yaghi, O. M. et al. Reticular synthesis and the design of new materials. *Nature* **423**, 705–714 (2003).
+- <span id="page-6-2"></span>3. Russell, V. A., Etter, M. C. & Ward, M. D. Layered materials by molecular design: structural enforcement by hydrogen bonding in guanidinium alkane- and arenesulfonates. *J. Am. Chem. Soc.* **116**, 1941–1952 (1994).
+- <span id="page-6-14"></span>4. Holman, K. T., Pivovar, A. M., Swift, J. A. & Ward, M. D. Metric engineering of soft molecular host frameworks. *Acc. Chem. Res.* **34**, 107–118 (2001).
+- <span id="page-6-3"></span>5. Yu, S., Xing, G.-L., Chen, L.-H., Ben, T. & Su, B.-L. Crystalline porous organic salts: from micropore to hierarchical pores. *Adv. Mater.* **32**, 2003270 (2020).
+- <span id="page-6-4"></span>6. Reilly, A. M. et al. Report on the sixth blind test of organic crystal structure prediction methods. *Acta Crystallogr. B Struct. Sci. Cryst. Eng. Mater.* **72**, 439–459 (2016).
+- <span id="page-6-5"></span>7. Pulido, A. et al. Functional materials discovery using energy–structure–function maps. *Nature* **543**, 657–664 (2017).
+- <span id="page-6-6"></span>8. Shields, C. E. et al. Experimental confirmation of a predicted porous hydrogen-bonded organic framework. *Angew. Chem. Int. Ed. Engl.* **62**, e202303167 (2023).
+- <span id="page-6-7"></span>9. Sava, D. F. et al. Capture of volatile iodine, a gaseous fission product, by zeolitic imidazolate framework-8. *J. Am. Chem. Soc.* **133**, 12398–12401 (2011).
+- <span id="page-6-41"></span>10. Sava, D. F. et al. Competitive I2 sorption by Cu-BTC from humid gas streams. *Chem. Mater.* **25**, 2591–2596 (2013).
+- <span id="page-6-42"></span>11. Zhang, X. et al. Confinement of iodine molecules into triple-helical chains within robust metal–organic frameworks. *J. Am. Chem. Soc.* **139**, 16289–16296 (2017).
+- <span id="page-6-8"></span>12. Chen, P. et al. Iodine capture using Zr-based metal–organic frameworks (Zr–MOFs): adsorption performance and mechanism. *ACS Appl. Mater. Interfaces* **12**, 20429–20439 (2020).
+- <span id="page-6-9"></span>13. Ding, S.-Y. & Wang, W. Covalent organic frameworks (COFs): from design to applications. *Chem. Soc. Rev.* **42**, 548–568 (2013).
+- <span id="page-6-10"></span>14. Diercks, C. S. & Yaghi, O. M. The atom, the molecule, and the covalent organic framework. *Science* **355**, eaal1585 (2017).
+- <span id="page-6-11"></span>15. Chen, L. et al. Hydrogen-bonded organic frameworks: design, applications, and prospects. *Mater. Adv.* **3**, 3680–3708 (2022).
+- <span id="page-6-12"></span>16. Simard, M., Su, D. & Wuest, J. D. Use of hydrogen bonds to control molecular aggregation. Self-assembly of three-dimensional networks with large chambers. *J. Am. Chem. Soc.* **113**, 4696–4698 (1991).
+- <span id="page-6-13"></span>17. Mastalerz, M. Porous shape-persistent organic cage compounds of different size, geometry, and function. *Acc. Chem. Res.* **51**, 2411–2422 (2018).
+- <span id="page-6-15"></span>18. Yaghi, O. M., Li, G. & Li, H. Selective binding and removal of guests in a microporous metal–organic framework. *Nature* **378**, 703–706 (1995).
+- <span id="page-6-16"></span>19. Kondo, M., Yoshitomi, T., Matsuzaka, H., Kitagawa, S. & Seki, K. Three-dimensional framework with chaneling cavities for small molecules: {[M2(4, 4′-bpy)3(NO3)4]·xH2O}n (M = Co, Ni, Zn). *Angew. Chem. Int. Ed. Engl.* **36**, 1725–1727 (1997).
+- <span id="page-6-17"></span>20. Xing, G., Yan, T., Das, S., Ben, T. & Qiu, S. Synthesis of crystalline porous organic salts with high proton conductivity. *Angew. Chem. Int. Ed. Engl.* **57**, 5345–5349 (2018).
+- <span id="page-6-18"></span>21. Liang, W. et al. Enzyme encapsulation in a porous hydrogen-bonded organic framework. *J. Am. Chem. Soc.* **141**, 14298–14305 (2019).
+- <span id="page-6-19"></span>22. O'Shaughnessy, M. et al. Controlling the crystallisation and hydration state of crystalline porous organic salts. *Chem. Eur. J.* **29**, e202302420 (2023).
+- <span id="page-6-20"></span>23. Xu, Y. et al. Experimentally validated ab initio crystal structure prediction of novel metal– organic framework materials. *J. Am. Chem. Soc.* **145**, 3515–3525 (2023).
+- <span id="page-6-21"></span>24. Darby, J. P. et al. Ab initio prediction of metal–organic framework structures. *Chem. Mater.* **32**, 5835–5844 (2020).
+- <span id="page-6-22"></span>25. Leusen, F. J. J. Crystal structure prediction of diastereomeric salts: a step toward rationalization of racemate resolution. *Cryst. Growth Des.* **3**, 189–192 (2003).
+- <span id="page-6-23"></span>26. Shunnar, A. F. et al. Efficient screening for ternary molecular ionic cocrystals using a complementary mechanosynthesis and computational structure prediction approach. *Chem. Eur. J.* **26**, 4752–4765 (2020).
+- <span id="page-6-24"></span>27. Hutskalov, I., Linden, A. & Čorić, I. Directional ionic bonds. *J. Am. Chem. Soc.* **145**, 8291–8298 (2023).
+- <span id="page-6-25"></span>28. Boer, S. A., Morshedi, M., Tarzia, A., Doonan, C. J. & White, N. G. Molecular tectonics: a node-and-linker building block approach to a family of hydrogen-bonded frameworks. *Chem. A Eur. J.* **25**, 10006–10012 (2019).
+- <span id="page-6-26"></span>29. Brekalo, I. et al. Microporosity of a guanidinium organodisulfonate hydrogen-bonded framework. *Angew. Chem. Int. Ed. Engl.* **59**, 1997–2002 (2020).
+- <span id="page-6-27"></span>30. Morshedi, M. & White, N. G. Mixed halide/oxoanion-templated frameworks. *CrystEngComm* **19**, 2367–2371 (2017).
+- <span id="page-6-28"></span>31. Morshedi, M., Thomas, M., Tarzia, A., Doonan, C. J. & White, N. G. Supramolecular anion recognition in water: synthesis of hydrogen-bonded supramolecular frameworks. *Chem. Sci.* **8**, 3019–3025 (2017).
+- <span id="page-6-29"></span>32. Tzioumis, N. A., Cullen, D. A., Jolliffe, K. A. & White, N. G. Selective removal of sulfate from water by precipitation with a rigid bis-amidinium compound. *Angew. Chemie Int. Ed. Engl.* **62**, e202218360 (2023).
+- <span id="page-6-30"></span>33. Feng, L. et al. Halogen hydrogen-bonded organic framework (XHOF) constructed by singlet open-shell diradical for efficient photoreduction of U(VI). *Nat. Commun.* **13**, 1389 (2022).
+- <span id="page-6-31"></span>34. Xie, Y., Ding, X., Wang, J. & Ye, G. Hydrogen-bonding assembly meets anion coordination chemistry: framework shaping and polarity tuning for xenon/krypton separation.*Angew. Chem. Int. Ed. Engl.* **62**, e202313951 (2023).
+- <span id="page-6-32"></span>35. Chen, Z. et al. Applying the power of reticular chemistry to finding the missing alb–MOF platform based on the (6,12)-coordinated edge-transitive net. *J. Am. Chem. Soc.* **139**, 3265–3274 (2017).
+- <span id="page-6-33"></span>36. Nguyen, H. L. Reticular design and crystal structure determination of covalent organic frameworks. *Chem. Sci.* **12**, 8632–8647 (2021).
+- <span id="page-6-34"></span>37. Cui, P. et al. Mining predicted crystal structure landscapes with high throughput crystallisation: old molecules, new insights. *Chem. Sci.* **10**, 9988–9997 (2019).
+- <span id="page-6-35"></span>38. Yang, S. & Day, G. M. Global analysis of the energy landscapes of molecular crystal structures by applying the threshold algorithm. *Commun. Chem.* **5**, 86 (2022).
+- <span id="page-6-36"></span>39. Zhu, L., Zhang, D., Xue, M., Li, H. & Qiu, S. Direct observations of the MOF (UiO-66) structure by transmission electron microscopy. *CrystEngComm* **15**, 9356–9359 (2013).
+- <span id="page-6-37"></span>40. Wang, X. et al. A cubic 3D covalent organic framework with nbo topology. *J. Am. Chem. Soc.* **143**, 15011–15016 (2021).
+- <span id="page-6-38"></span>41. Xing, G. et al. A double helix of opposite charges to form channels with unique CO2 selectivity and dynamics. *Chem. Sci.* **10**, 730–736 (2019).
+- <span id="page-6-39"></span>42. Yamamoto, A., Hirukawa, T., Hisaki, I., Miyata, M. & Tohnai, N. Multifunctionalized porosity in zeolitic diamondoid porous organic salt: selective adsorption and guest-responsive fluorescent properties. *Tetrahedron Lett.* **54**, 1268–1273 (2013).
+- <span id="page-6-40"></span>43. Zhang, X. et al. Adsorption of iodine in metal–organic framework materials. *Chem. Soc. Rev.* **51**, 3243–3262 (2022).
+- <span id="page-6-43"></span>44. Haase, F. & Lotsch, B. V. Solving the COF trilemma: towards crystalline, stable and functional covalent organic frameworks. *Chem. Soc. Rev.* **49**, 8469–8500 (2020).
+- 45. Xiao, Y. et al. Constructing a 3D covalent organic framework from 2D hcb nets through inclined interpenetration. *J. Am. Chem. Soc.* **145**, 13537–13541 (2023).
+- 46. Evans, A. M. et al. Seeded growth of single-crystal two-dimensional covalent organic frameworks. *Science* **361**, 52–57 (2018).
+- 47. Ma, T. et al. Single-crystal x-ray diffraction structures of covalent organic frameworks. *Science* **361**, 48–52 (2018).
+- <span id="page-6-44"></span>48. Beaudoin, D., Maris, T. & Wuest, J. D. Constructing monocrystalline covalent organic networks by polymerization. *Nat. Chem.* **5**, 830–834 (2013).
+- <span id="page-6-45"></span>49. Francia, N. F., Price, L. S., Nyman, J., Price, S. L. & Salvalaglio, M. Systematic finitetemperature reduction of crystal energy landscapes. *Cryst. Growth Des.* **20**, 6847–6862 (2020).
+- <span id="page-6-46"></span>50. Butler, P. W. V. & Day, G. M. Reducing overprediction of molecular crystal structures via threshold clustering. *Proc. Natl Acad. Sci. USA* **120**, e2300516120 (2023).
+
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+
+© The Author(s) 2024
+
+### **Methods**
+
+#### **CSP**
+
+Two of the four amines studied, TAPM and TT, have only one predicted conformer (Supplementary Fig. 25). By contrast, TAPT and TTBT both have four predicted low-energy conformers (Supplementary Figs. 26 and 27). These molecular structures were obtained by performing a conformer search using the low-mode sampling method in the Schrödinger MacroModel software package, with energies being modelled using the OPLS2005 force fiel[d51,](#page-8-0)[52](#page-8-1). For each amine, the unique conformers from the search were reoptimized using density functional theory at the PBE0/6-311 G\*\* level of theory with GD3BJ empirical dispersion correction, as implemented in the Gaussian09 software package[53,](#page-8-2)[54.](#page-8-3) The TT, TAPT and TTBT cations were assigned a charge of +3, whereas the TAPM cation was assigned a charge of +4. Owing to the small energy difference between conformers (a spread of less than a 1.5 kJ mol−1), they have the same chance of forming a low-energy crystal structure, so each of these conformers was used as a starting point for CSP calculations.
+
+CSP was done using the Global Lattice Energy Explorer program[55,](#page-8-4) which uses low-discrepancy, quasi-random sampling of crystal packing variables to produce uniform sampling of the lattice energy surface. The cation geometry was kept rigid throughout the initial CSP process. Trial crystal structures were generated across 11 space groups and their lattice energies were minimized until a target number of valid crystal structures was met (Supplementary Table 8). Crystal structures were generated with one cation in the asymmetric unit cell and *X* anions, where *X* = 3 for TT, TAPT and TTBT, and *X* = 4 for TAPM. Rigid-molecule lattice energy optimizations were performed using the DMACRYS software[56](#page-8-5). Lattice energies were calculated using an anisotropic atom–atom energy model based on a revised version of the Williams 99 force-field, combined with atom-centred multipoles calculated from a distributed multipole analysis of the PBE0/6-311 G\*\* density[57](#page-8-6)[,58.](#page-8-7) Multipoles up to hexadecapole on each atom were included, and the polarizable continuum model was applied to the distributed multipole analysis to further improve the electrostatic model using a dielectric constant of 3.0. Chloride parameters were taken from a previously published fitting[59](#page-8-8), and bromide parameters were taken from molecular-dynamics studies of ionic liquid[s60.](#page-8-9) The bromide parameters were deemed suitable from the results of a small CSP test on bromide salts in the Cambridge Structural Database (Supplementary Figs. 28 and 29). Duplicate crystal structures were removed from the final CSP landscape by calculating the similarities of simulated PXRD patterns.
+
+To test the sensitivity of the CSP to the final energy model and the rigid-cation approximation during lattice energy minimization, predicted crystal structures of **TAPM.Cl** were reoptimized using thirdorder density functional tight-binding theory with self-consistent charges, as implemented in DFTB+[61,](#page-8-10)[62.](#page-8-11) We used 3OB Slater–Koster parameter files for all simulations, and hydrogen-containing pair-potentials were further damped using an exponent of 4.0. We corrected for missing London dispersion interactions with the atom-pairwise D3 scheme in the rational damping varian[t52](#page-8-1). The tolerance for self-consistent charges was set to 10−5 atomic units and each optimization was considered converged when the maximum force on each atom dropped below 0.03 eV per Å. The k-point grid sampling was set to achieve a maximum spacing of 0.05 Å−1 between sampled k-points. Dispersion interactions were accounted for using the D3 correction with the following parameters: *S*6 = 1.0, *S*8 = 0.0, *a*1 = 0.841 and *a*2 = 3.834, in a cutoff radius of 64 Å, where *S* and *a* are adjustable parameters that scale the damping term of the dispersion energy. These parameters have previously been shown to improve the geometrical properties of large molecular crystals when optimized[62](#page-8-11). Crystal structures that were deemed a match with experimental crystal structures were further optimized using periodic density functional theory, as implemented in the VASP software packag[e63–](#page-8-12)[67](#page-8-13). VASP calculations involved two steps with the first step involving optimization of both atomic positions and unit-cell parameters, and the second step involved a single-point energy calculation. All optimizations used the PBE exchange correlation functional with Grimmes D3(BJ) dispersion correctio[n54](#page-8-3). The projector-augmented-wave method was used for all calculations with the standard supplied pseudopotentials. A plane wave cutoff of 500 eV was used in all calculations and k-point sampling was done using a regular k-point mesh with a maximum spacing of 0.05 Å−1 between sampled k-points. Optimizations were considered converged when the forces on all atoms were smaller than 0.03 eV per Å.
+
+#### **Synthesis of porous salts**
+
+The organic amine linkers were synthesized using previous methods[68](#page-8-14). The halide salts were synthesized by simple dropwise addition of HCl or HBr solutions to the amine linkers and can be prepared on multigram scales. The specific conditions for each salt are provided in Supplementary Information section 2. As an example, bulk powders of **TAPT.Cl** were formed by dissolving 2 g TAPT in a good solvent (such as tetrahydrofuran; see Supplementary Table 2 for a list of good and bad solvents) at a concentration of 5 mg ml−1. Methanolic HCl was then added dropwise over 5 min with stirring at room temperature. The mixture was stirred for a further 1 h before the solvent was removed under reduced pressure, and the resulting solid was washed with tetrahydrofuran, providing crystalline **TAPT.Cl** as an off-white solid (2.57 g, 98% yield).
+
+#### **Single crystal growth**
+
+Specific crystallization conditions are given in the Supplementary Information section 2. As an example, single crystals of **TAPT.Cl** suitable for X-ray diffraction were grown by dissolving 3 mg **TAPT.Cl** in a mixture of methanol (0.5 ml) and chlorobenzene (0.05 ml). The solvent was then left to evaporate at room temperature for 16 h, resulting in block crystals of **TAPT.Cl**.
+
+#### **Crystallography**
+
+PXRD data were collected in transmission mode on powder samples held on thin Mylar films in aluminium well plates using a Panalytical Empyrean diffractometer equipped with a high-throughput screening XYZ stage, X-ray focusing mirror and a PIXcel detector using Cu-Kα (wavelength *λ* = 1.541 Å) radiation. PXRD data for further structural analysis of **TTBT.Cl** were collected using a sample contained in a 0.7 mm borosilicate glass capillary tube on the same instrument in Debye-Scherrer geometry with a capillary spinner. Data were collected over the diffraction angle range 2° ≤ 2*θ* ≤ 50° with a step size of 0.013° over 4 h, and the data were analysed using TOPAS Academi[c69](#page-8-15) for indexing, structure solution and refinement. Single-crystal X-ray data were obtained using a Rigaku MicroMax-007 HF rotating anode diffractometer (Mo-Kα radiation, *λ* = 0.71073 Å, Kappa 4-circle goniometer, Rigaku Saturn724+ detector), or at beamline I19 at the Diamond Light Source in Didcot, UK, using silicon double-crystal monochromated synchrotron radiation (*λ* = 0.6889 Å, Pilatus 2M detector). Data reduction was performed using CrysAlisPro. Structures were solved with SHELXT[70](#page-8-16) and refined by full-matrix least-squares on |*F*| 2 by SHELXL[71](#page-8-17), interfaced through the program OLEX2 (ref. [72](#page-8-18)). All non-hydrogen atoms were refined anisotropically, and all hydrogen atoms were fixed in geometrically estimated positions and refined using the riding model. For full refinement details, see Supplementary Tables 3 and 4.
+
+#### **HR-TEM**
+
+The salt samples were dispersed in chloroform at a concentration of 1 mg ml−1 using sonication. The samples were then dropcast onto copper grids. TEM images were obtained using a JEOL 2100+ microscope operating at 200 kV and equipped with a Gatan Rio Camera.
+
+#### **Gas sorption analysis**
+
+Nitrogen isotherms were collected at 77 K using a Micromeritics ASAP2420 volumetric adsorption analyser. Carbon dioxide isotherms
+
+were collected up to a pressure of 1,200 mbar on a Micrometrics ASAP2020 volumetric adsorption analyser at 273 K or 298 K. Carbon dioxide isotherms at 195 K were collected using Micromeritics 3flex volumetric adsorption analyser. All samples were activated at 110 °C for 14 h under vacuum for all gas sorptions except for the carbon dioxide isotherms measured at 195 K, for which the samples were activated at 353 K for 14 h under vacuum.
+
+#### **Iodine-capture experiments**
+
+Iodine adsorption tests were done on five separate samples of each porous salt at 70 °C to volatilize the iodine; the adsorption results were averaged across the five samples. The salt samples were heated under vacuum at 343 K for 16 h to remove the organic solvent before the iodine-capture experiments were done. To perform the tests, the salts were placed into 4-ml vials, which were then placed into larger 14-ml vials containing an excess of iodine. The outer vial was then sealed and placed into an incubator at 343 K. At particular time intervals, the samples were removed from the incubator and, once cooled to room temperature, the inner vial containing the salts was removed and the vial was weighed to monitor the iodine uptake. For each salt, five samples were tested (5 mg salt). All five samples gave consistent uptakes and the average uptake values were used. To test the recyclability of the salts for iodine capture, the iodine was removed and the capture was repeated over five cycles. Owing to the high mass of iodine captured in each system, and the slow release using the vacuum alone, chloroform was first used to remove the bulk of the iodine before the final traces were removed at 70 °C under vacuum for 16 h (Supplementary Fig. 19). Thermogravimetric analysis and PXRD further confirmed the capture of iodine in these three frameworks (Supplementary Figs. 15–22). To test the recyclability of these salts, the iodine was removed after adsorption by extraction with chloroform, followed by evacuation. Sample colour, thermogravimetric analysis and PXRD data confirmed that the iodine was eventually removed in all three systems. The samples were subjected to five cycles of iodine capture and release, demonstrating excellent recyclability for all three porous salts (Fig. [4c](#page-5-0) and Supplementary Figs. 20 and 21). PXRD data indicated that a structural change occurs in all three porous salts at the point of iodine adsorption, as might be expected for such high guest uptakes, but the original guest-free crystal structure was regenerated for all three frameworks after iodine removal (Fig. [4d\)](#page-5-0).
+
+#### **Data availability**
+
+The crystal-structure data are in the Supplementary Information. CSP structures with calculated energies and properties are available at <https://doi.org/10.5258/SOTON/D2857>. The experimentally determined crystal structures, including structure factors, have been deposited as CIFs with the Cambridge Crystallographic Data Centre (entries 2308598 (**TAPM.Cl/P1**), 2308599 (**TAPM.Cl/P2**), 2308596 (**TAPM.Br/ P1**), 2308597 (**TAPM.Br/P2**), 2308662 (**TAPT.Cl**)). CIFs are available free of charge at [http://www.ccdc.cam.ac.uk/data\\_request/cif.](http://www.ccdc.cam.ac.uk/data_request/cif)
+
+#### **Code availability**
+
+The code implementing the CSP methods is being prepared for open source release in early 2024. In advance of release, please contact G.M.D. at g.m.day@soton.ac.uk.
+
+- <span id="page-8-0"></span>51. Schrödinger MacroModel v.2017-4 (Schrödinger LLC, 2017).
+- <span id="page-8-1"></span>52. Jorgensen, W. L. & Tirado-Rives, J. The OPLS [optimized potentials for liquid simulations] potential functions for proteins, energy minimizations for crystals of cyclic peptides and crambin. *J. Am. Chem. Soc.* **110**, 1657–1666 (1988).
+- <span id="page-8-2"></span>53. Frisch, M. J. et al. Gaussian v.09 (Gaussian, Inc., 2009).
+- <span id="page-8-3"></span>54. Grimme, S., Ehrlich, S. & Goerigk, L. Effect of the damping function in dispersion corrected density functional theory. *J. Comput. Chem.* **32**, 1456–1465 (2011).
+- <span id="page-8-4"></span>55. Case, D. H., Campbell, J. E., Bygrave, P. J. & Day, G. M. Convergence properties of crystal structure prediction by quasi-random sampling. *J. Chem. Theory Comput.* **12**, 910–924 (2016).
+- <span id="page-8-5"></span>56. Price, S. L. et al. Modelling organic crystal structures using distributed multipole and polarizability-based model intermolecular potentials. *Phys. Chem. Chem. Phys.* **12**, 8478–8490 (2010).
+- <span id="page-8-6"></span>57. Pyzer-Knapp, E. O., Thompson, H. P. G. & Day, G. M. An optimized intermolecular force field for hydrogen-bonded organic molecular crystals using atomic multipole electrostatics. *Acta Crystallogr. B Struct. Sci. Cryst. Eng. Mater.* **72**, 477–487 (2016).
+- <span id="page-8-8"></span><span id="page-8-7"></span>58. Stone, A. J. & Alderton, M. Distributed multipole analysis. *Mol. Phys.* **56**, 1047–1064 (1985). 59. Hejczyk, K. E. *Application of Crystal Structure Prediction to Salts and Cocrystals*. PhD thesis,
+- <span id="page-8-9"></span>Univ. Cambridge (2010). 60. Cruz, F. J. A. L., Lopes, J. N. C., Calado, J. C. G. & Minus da Piedade, M. E. A molecular dynamics study of the thermodynamic properties of calcium apatites. 1. Hexagonal phases. *J. Phys. Chem. B* **109**, 24473–24479 (2005).
+- <span id="page-8-10"></span>61. Hourahine, B. et al. DFTB+, a software package for efficient approximate density functional theory based atomistic simulations. *J. Chem. Phys.* **152**, 124101 (2020).
+- <span id="page-8-11"></span>62. Luzzolino, L., McCabe, P., Price, S. L. & Brandenburg, J. G. Crystal structure prediction of flexible pharmaceutical-like molecules: density functional tight-binding as an intermediate optimisation method and for free energy estimation. *Faraday Discuss.* **211**, 275–296 (2018).
+- <span id="page-8-12"></span>63. Kresse, G. & Hafner, J. Ab initio molecular dynamics for liquid metals. *Phys. Rev. B Condens. Matter* **47**, 558–561 (1993).
+- 64. Kresse, G. & Hafner, J. Ab initio molecular-dynamics simulation of the liquid-metal– amorphous-semiconductor transition in germanium. *Phys. Rev. B Condens. Matter* **49**, 14251–14269 (1994).
+- 65. Kresse, G. & Furthmüller, J. Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set. *Comput. Mater. Sci.* **6**, 15–50 (1996).
+- 66. Kresse, G. & Furthmüller, J. Efficient iterative schemes for ab initio total-energy calculations using a plane-wave basis set. *Phys. Rev. B Condens. Matter* **54**, 11169–11186 (1996).
+- <span id="page-8-13"></span>67. Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector augmented-wave method. *Phys. Rev. B Condens. Matter Mater. Phys.* **59**, 1758–1775 (1999).
+- <span id="page-8-14"></span>68. An, S. et al. Porosity modulation in two-dimensional covalent organic frameworks leads to enhanced iodine adsorption performance. *Ind. Eng. Chem. Res.* **58**, 10495–10502 (2019).
+- <span id="page-8-15"></span>69. Coelho, A. A. *TOPAS* and *TOPAS-Academic*: an optimization program integrating computer algebra and crystallographic objects written in C++. *J. Appl. Crystallogr.* **51**, 210–218 (2018).
+- <span id="page-8-16"></span>70. Sheldrick, G. M. SHELXT-integrated space-group and crystal-structure determination. *Acta Crystallogr. A Found. Adv.* **71**, 3–8 (2015).
+- <span id="page-8-17"></span>71. Sheldrick, G. M.Crystal structure refinement with SHELXL. *Acta Crytsallogr. C Struct. Chem.***71**, 3–8 (2015).
+- <span id="page-8-18"></span>72. Dolomanov, O. V., Bourhis, L. J., Gildea, R. J., Howard, J. A. K. & Puschmann, H. *OLEX2*: a complete structure solution, refinement and analysis program. *J. Appl. Crystallogr.* **42**, 339–341 (2009).
+
+**Acknowledgements** This project has received funding from the European Research Council under the European Union's Horizon 2020 research and innovation program (grant agreement 856405). The authors also received funding from the Engineering and Physical Sciences Research Council (EPSRC, EP/V026887/1) and the Leverhulme Trust via the Leverhulme Research Centre for Functional Materials Design. A.I.C. thanks the Royal Society for a Research Professorship (RSRP\S2\232003). Through our membership of the UK HEC Materials Chemistry Consortium, which is funded by EPSRC (EP/L000202), this work used the computational resources of the UK Materials and Molecular Modelling Hub, which is partly funded by EPSRC (EP/T022213/1, EP/W032260/1 and EP/P020194/1). The authors acknowledge the IRIDIS High Performance Computing Facility and associated support services at the University of Southampton in the completion of this work. The authors thank K. Arnold and O. Gallagher for collecting scanning electron microscopy images. We acknowledge the Diamond Light Source for access to beamline I19. M.O'S. thanks B. Li, A. He and A. Kai for support during the synchrotron diffraction experiments.
+
+**Author contributions** M.O'S. led the experimental work. M.O'S. and R.C. collected the gas sorption data. M.O'S. and S.P.A. solved and refined the **TAPT.Cl** crystal structure. M.O'S. did all the other experimental work, including synthesis, crystallizations, single-crystal X-ray diffraction and PXRD, and the iodine-uptake experiments and analysis. J.G. and R.H. performed and analysed the CSP calculations. G.M.D. led the computational work. M.B. obtained and interpreted the HR-TEM data. S.Y.C. carried out PXRD analyses to solve the **TTBT.Cl** structure. A.I.C. conceived the idea, supervised the experimental work and carried out the initial CSP calculations. All authors contributed to the preparation of the manuscript.
+
+**Competing interests** The authors declare no competing interests.
+
+#### **Additional information**
+
+**Supplementary information** The online version contains supplementary material available at [https://doi.org/10.1038/s41586-024-07353-9.](https://doi.org/10.1038/s41586-024-07353-9)
+
+**Correspondence and requests for materials** should be addressed to Graeme M. Day or Andrew I. Cooper.
+
+**Peer review information** *Nature* thanks Dejan-Krešimir Bučar and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+
+**Reprints and permissions information** is available at<http://www.nature.com/reprints>.
+
+![](_page_9_Figure_0.jpeg)
+
+**Extended Data Fig. 1 | Crystal structure prediction suggests dense, non-porous tetrahedral ammonium halide salts.** Energy–density landscapes of the CSP structures for **a**, **TAPM.Cl** and **b**, **TAPM.Br** coloured by dimensionality of pores within each structure. Black data points (*i.e*., most structures) are either non-porous or contain isolated cavities. Overlay images for experimental structures (coloured by element) and CSP structures (green) for the two experimentally accessible polymorphs of these two salts; **c**, **TAPM.Cl/P1**,
+
+**d**, **TAPM.Cl/P2**, **e**, **TAPM.Br/P1** and **f**, **TAPM.Br/P2**. The structural agreement between CSP and experiment is improved by re-optimization of the predicted structures using density functional based tight binding DFTB), which reranks **TAPM.Cl/P1** as the second lowest energy predicted structure (Supplementary Fig. 28). The higher energies of the P2 polymorphs can be explained because these experimental structures are solvates (Supplementary Fig. 2), and solvent is not considered here.
+
+![](_page_10_Figure_1.jpeg)
+
+**Extended Data Fig. 2 | A non-metal organic framework by computational design. a**, Structure of **TAPT.Cl**, as predicted using CSP (red star in Fig. [2a](#page-3-0)). The accessible pore surface is shown in yellow (1.2 Å probe diameter); **b**, Overlay of
+
+the experimental single crystal structure (atom colouring by element), obtained for a partial solvate, and the CSP derived structure (green) for **TAPT.Cl**.
+
+![](_page_11_Figure_0.jpeg)
+
+**Extended Data Fig. 3 | Structural characterisation of TT.Br and TTBT.Cl. a**, HR-TEM images of **TT.Br**; the FFT of the TEM data (top right) is shown with the simulated electron diffraction pattern (bottom right) for the best-matched CSP structure (Fig. [3b\)](#page-4-0), aligned in the zone axis [001] (bottom). **c**, HR-TEM images of **TTBT.Cl**; the FFT of the TEM data (top right) is shown, highlighting the (010), (020) and (030) planes, with the simulated electron diffraction pattern (bottom right) for the best-matched CSP structure (Fig. [3c](#page-4-0)), aligned in
+
+the zone axis [001]. **c**, Observed (red circles), calculated (black line) and difference (blue line) PXRD profiles for structural refinement of a monoclinic model of **TTBT.Cl** (*R*wp = 1.97 %, *R*p = 1.51 %, *χ* <sup>2</sup>  = 3.70). Reflection positions are marked below. Full refinement details are given in the Supplementary Information, Section 2. **d**, Comparison of refined experimental structure for **TTBT.Cl** and global minimum CSP structure, **TTBT.Cl**/5.
+
+![](_page_12_Figure_1.jpeg)
+
+| structure | ID                                    | Relative<br>total energy<br>-1)<br>(kJ mol | Density<br>(g cm-3) | Largest Cavity<br>Diameter (Å) |
+|-----------|---------------------------------------|--------------------------------------------|---------------------|--------------------------------|
+| TAPT.Cl/1 | TAPT_4_opt.chloridex3-QR-148-171620-3 | 82.4                                       | 0.386               | 22.36                          |
+| TAPT.Cl/2 | TAPT_4_opt.chloridex3-QR-148-463610-3 | 67.1                                       | 0.491               | 22.60                          |
+| TAPT.Cl/3 | TAPT_4_opt.chloridex3-QR-1-22232-3    | 29.7                                       | 0.688               | 10.50                          |
+| TAPT.Cl/4 | TAPT_4_opt.chloridex3-QR-148-425326-3 | 2.0                                        | 0.928               | 10.81                          |
+| expt      | TAPT_4_opt.chloridex3-QR-148-86448-3  | 9.9                                        | 0.974               | 6.49                           |
+| TAPT.Cl/5 | TAPT_4_opt.chloridex3-QR-14-363486-3  | 1.6                                        | 1.019               | 4.88                           |
+| TAPT.Cl/6 | TAPT_4_opt.chloridex3-QR-9-24434-3    | 0                                          | 1.123               | 3.70                           |
+
+**Extended Data Fig. 4 | Alternative structures on the CSP landscape for TAPT.Cl. a**, Lattice energy plot, as colour-coded by largest cavity diameter, highlighting six alternative packings across a range of physical densities on the leading edge of the landscape for **TAPT.Cl**, focusing on structures in low energy 'spikes'. **b**, Space-filling representations of the six selected **TAPT.Cl** structures. **c**, Table summarizing structure ID's, relative energies relative to the global energy minimum predicted structure, and physical densities of the six highlighted structures, and the observed structure.
+
+![](_page_13_Figure_0.jpeg)
+
+**Extended Data Fig. 5 | Alternative structures on the CSP landscape for TT.Br. a**, Lattice energy plot, as colour-coded by largest cavity diameter, highlighting the observed polymorph (**TT.Br**/7) and seven alternative packings across a range of physical densities on the leading edge of the landscape for **TT.Br**,
+
+focusing on structures in low energy 'spikes'. **b**, Space-filling representations of the 8 selected **TT.Br** structures. **c**, Table summarizing structure ID's, relative energies relative to the global energy minimum predicted structure, and physical densities of the eight highlighted structures.
+
+![](_page_14_Figure_1.jpeg)
+
+| Number    | ID                              | Relative total<br>energy<br>$(kJ \text{ mol}^{-1})$ | Density<br>$(g cm-3)$ | <b>Largest Cavity</b><br>Diameter (Å) |
+|-----------|---------------------------------|-----------------------------------------------------|-----------------------|---------------------------------------|
+| TTBT.CI/1 | triamine 4.clx3-QR-15-1842063-3 | 67.2                                                | 0.462                 | 32.31                                 |
+| TTBT.CI/2 | triamine 2.clx3-QR-33-1053256-3 | 50.8                                                | 0.517                 | 16.98                                 |
+| TTBT.CI/3 | triamine 5.clx3-QR-33-27436-3   | 12.2                                                | 0.598                 | 17.25                                 |
+| TTBT.CI/4 | triamine 5.clx3-QR-148-382604-3 | 8.7                                                 | 0.727                 | 17.51                                 |
+| TTBT.CI/5 | triamine 5.clx3-QR-15-573433-3  |                                                     | 0.861                 | 7.90                                  |
+
+**Extended Data Fig. 6 | Alternative structures on the CSP landscape for TTBT.Cl. a**, Lattice energy plot, as colour-coded by largest cavity diameter, highlighting the observed polymorph (**TTBT.Cl**/5) and four alternative packings on the leading edge of the landscape for **TTBT.Cl**, focusing on structures in low energy 'spikes'. **b**, Space-filling representations of the five selected structures. These structures are defined by ionic tubes and rings comprising 6 chlorides (**TTBT.Cl**/5, **TTBT.Cl**/4), 4 chlorides (**TTBT.Cl**/4), 3 chlorides (**TTBT.Cl**/3, **TTBT.Cl**/2) and 2 chlorides (**TTBT.Cl**/1). Equivalent motifs can be found on the structure landscapes for the other two trigonal linkers; for example, **TT.Br**/7 (Extended Data Fig. 5) and has 6-chloride rings, **TTBr**/6 and **TAPT.Cl**/4 (Extended Data Fig. 4) both have a mixture of 4- and 6-chloride rings (*c.f*., **TTBT.Cl**/4). Also, **TAPT.Cl**/3, **TT.Br**/5 and **TT.Br**/4 are all predicted to form 3-chloride rings (Extended Data Fig. 7). **c**, Table summarizing structure ID's, relative energies, and physical densities of the five highlighted **TTBT.Cl** structures.
+
+![](_page_15_Picture_0.jpeg)
+
+**Extended Data Fig. 7 | Hypothetical isoreticular non-metal organic frameworks found on the CSP landscapes for three different organic salts.** These structures were not observed experimentally, despite investigating multiple solvent conditions (Supplementary Information, Section 2), but they all fall within a lattice energy window that suggests that they could in principle be experimentally accessible (<40 kJ mol−1 above global energy minimum, see Extended Data Figs. 4–6). All three structures are defined by ionic tubular pores comprising 3 chlorides, unlike the larger ionic pore (A) observed in the three experimental structures (Fig. [3f](#page-4-0)), which is formed by 6 chloride anions. The orange pore surface was calculated using a 1.2 Å probe in each case.
+
+![](_page_16_Figure_0.jpeg)
+
+**Extended Data Fig. 8 | Global property analysis using energy-structurefunction maps.** The plots show analysis of pore channel geometry and pore limiting diameter for the CSP landscapes of the three trigonal ammonium halide salts. **a**–**c**, CSP landscapes colour coded for pore channel geometry for **a**, **TAPT.Cl**,
+
+**b**, **TT.Br** and **c**, **TTBT.Cl**. **d**–**f**, CSP landscapes colour coded for pore limiting diameter for **a**, **TAPT.Cl**, **b**, **TT.Br** and **c**, **TTBT.Cl**. All channel dimensionality calculations used a probe radius of 1.65 Å.
+
+![](_page_17_Figure_0.jpeg)
+
+**Extended Data Fig. 9 | Carbon dioxide isotherms for porous salts at different temperatures. a**, **TAPT.Cl**, **b**, **TT.Br** and **c**, **TTBT.Cl**. Filled symbols are for adsorption isotherms, open symbols are for desorption isotherms.# **Supplementary information**
+
+# **Porous isoreticular non-metal organic frameworks**
+
+In the format provided by the authors and unedited
+
+# **Porous isoreticular non-metal organic frameworks**
+
+Megan O'Shaughnessy,<sup>1</sup> Joseph Glover,<sup>2</sup> Roohollah Hafizi,<sup>2</sup> Mounib Barhi,<sup>3</sup> Rob Clowes,<sup>1</sup> Samantha Y. Chong,1,4 Stephen P. Argent,<sup>5</sup> Graeme M. Day2\* and Andrew I. Cooper1,4 \*
+
+<sup>1</sup>Materials Innovation Factory and Department of Chemistry, University of Liverpool, Liverpool, L7 3NY, UK. <sup>2</sup>Computational System Chemistry, School of Chemistry, University of Southampton, Southampton, SO17 IBJ, UK. <sup>3</sup>Albert Crewe Centre for Electron Microscopy, University of Liverpool, Liverpool, L69 3GL, UK. <sup>4</sup>Leverhulme Research Centre for Functional Materials Design, University of Liverpool, Liverpool, L7 3NY, UK. <sup>5</sup>School of Chemistry, University of Nottingham, University Park, Nottingham, NG72 RD, UK.
+
+# **Supplementary Information**
+
+- Pg. 2–3 **Section 1. Materials and methods**
+- Pg. 3–19 **Section 2. Synthesis and characterisation of bulk salts**
+- Pg. 20–21 **Section 3. Single crystal refinement details**
+- Pg. 22–27 **Section 4. Iodine capture experiments**
+- Pg. 28–36 **Section 5. Crystal structure prediction**
+- Pg. 36–37 **Section 6. Supplementary references**
+
+# **Section 1. Materials and methods**
+
+# **Materials**
+
+All reagents were obtained from Sigma-Aldrich, Manchester Organics, Fluorochem and Alfa Aesar and used as received. All gases for sorption analysis were supplied by BOC at a purity of ≥ 99.9%
+
+#### **NMR**
+
+<sup>1</sup>H NMR spectra were recorded at 400 MHz on a Bruker Advance 400 NMR spectrometer. Chemical shifts are reported in ppm with reference to internal residual protonated species of the deuterated solvents used for <sup>1</sup>H analysis.
+
+# **Thermogravimetric analysis (TGA)**
+
+Thermogravimetric analysis was carried out using a Q5000IR (TA Instruments) with an automated vertical overhead thermobalance. Samples (3–5 mg) were heated in platinum pans at a rate of 10 °C min-1 unless stated otherwise.
+
+#### **Gas sorption analysis**
+
+Nitrogen isotherms were collected at 77 K using an ASAP2420 volumetric adsorption analyser (micrometrics instruments Corporation). Carbon dioxide isotherms were collected up to a pressure of 1200 mbar on a micrometrics ASAP2020 volumetric adsorption analyser at 273 K. Carbon dioxide isotherm at 195 K were collected using Micromeritics 3flex volumetric adsorption analyser. See **Methods**, main text, for further details.
+
+# **Scanning electron microscopy**
+
+The salt samples were dispersed in chloroform at a concentration of 1mg mL-1 before being drop cast onto copper grids. TEM images were obtained using a JEOL 2100+ microscope operating at 200KV and equipped with a Gatan Rio Camera.SEM images were collected using a Hitachi S-4800 cold field emission scanning electron microscope. Samples were coated with a 2 nm layer of gold using an Emitech K550X automated sputter coater. Imaging was
+
+conducted at a working voltage of 3 kV and a working distance of 8 mm using a combination of upper and lower secondary electron detectors.
+
+## **Calculation of pore volumes from crystal structures**
+
+Solvent accessible pore volumes, as a fraction of the unit cell volume, were calculated using the "Void" tool in Olex2 (ref. 72, main text) using a probe radius of 1.2 Å and a grid spacing of 0.3 Å.
+
+# **Section 2. Synthesis and characterisation of bulk salts**
+
+# **Synthesis of bulk crystalline TAPM.Cl**
+
+**TAPM** (0.1 g) was dissolved in acetone (20 mL) and methanolic HCl (1.25 M, 0.7 mL) was added dropwise over 1 min to the solution at room temperature with stirring. The reaction mixture was stirred for 1 h before the solid product was filtered off and dried under vacuum to give crystalline **TAPT.Cl\_P1** as an off-white powder (95%).
+
+## **Crystallisation procedure for TAPM.Cl\_P1**
+
+To grow suitable crystals for x-ray diffraction, **TAPM** (5 mg) was dissolved in aqueous HCl (5 mL, 1.7 M in water). The resulting clear solution was left for 4 weeks at room temperature, after which thin needles formed on the side of the vial. SCXRD data of the crystals revealed that **TAPM.Cl\_P1** crystallises in the tetragonal space group *P*42/*nmc* (Figure 3.1a). This structure is densely packed with no pore channels (Figure 1).
+
+Crystal data for **TAPM.Cl\_P1**: Formula C25H28N44(Cl); M = 64.28, Tetragonal *P*42/*nmc*, colourless needle shaped crystals; crystal size = 0.065 x 0.024 x 0.02 mm<sup>3</sup> ; a = 13.2945(5) Å, b = 13.2945(5) Å, c = 7.5715(4) α,β,γ = 90°, V = 1338.22(12) Å<sup>3</sup> ; ρ = 1.276 g cm-3 ; µ(rotating anode Mo-Kα λ = 0.71073 Å) = 0.461 mm-3 ; *F* (000) = 524; T = 100 K; 5172 reflections measured (2.166 < 2ϴ < 30.161 °), 949 unique (*R*int = 0.0357), 781 (*I* > 2σ(*I*)); *R*1 = 0.0357 for observed and *R*<sup>1</sup> = 0.0447 for all reflections; *wR*2 = 0.1036 for all reflections; max/min difference electron density = 0.459 and -0.223 e.A-3 ; data/restraints/parameters = 949/0/46; GOF = 1.035. CCDC code; 2308598, see CIF for all refinement details.
+
+![](_page_4_Figure_0.jpeg)
+
+**Figure 1. a**, Displacement ellipsoid plot from the single crystal structure of **TAPM.Cl\_P1**. Ellipsoids are displayed at 50% probability. Atom labels are omitted for clarity. **b–d**, Crystal packing of **TAPM.Cl\_P1** viewed along the *a*, *b,* and *c* crystallography axis respectively. grey: carbon; red: oxygen; blue: nitrogen green: chlorine; white: hydrogen.
+
+#### **Crystallisation procedure for TAPM.Cl\_P2**
+
+Powdered crystalline **TAPM.Cl** (4 mg) was added to chlorobenzene (0.1 mL) followed by MeOH (0.5 mL) giving a clear solution. The solution was then heated at 60 ºC for 2 h resulting in thin, long red needles of **TAPM.Cl\_P2**. SCXRD revealed that **TAPM.Cl\_P2** crystallises in the monoclinic space group *C12/c1* (Figure 2). Again, like **TAPM.Cl\_P1** this structure is a nonporous, densely packed salt (Figure 2b-d)
+
+Crystal data for **TAPM.Cl\_P2**: Formula: 3.2(Cl), 0.8(C<sup>25</sup> H<sup>28</sup> N4), 1.6(C H<sup>4</sup> O), 0.2(O): M = 529.51, Monoclinic *C12/c1*, red colourless needle shaped crystals; crystal size = 0.069 x 0.027 x 0.02 mm<sup>3</sup> ; a = 12.4607(4) Å, b = 20.2943(7) Å, c = 11.9466(4) Å, β = 101.801(4) °, V = 2957.220 Å<sup>3</sup> ; ρ = 1.487 g cm-3 ; µ(rotating anode Mo-Kα λ = 0.71073 Å) = 0.524 mm-3 ; *F* (000) = 524; T = 100 K; 10396 reflections measured (2.390 < 2ϴ < 60.746 °), 3589 unique (*R*int = 0.0357), 781 (*I* > 2σ(*I*)); *R*1 = 0.0240 for observed and *R*<sup>1</sup> = 0.0755 for all reflections; *wR*2 = 0.2007 for all reflections; max/min difference electron density = 1.032 and -0.829 e.A-3 ; data/restraints/parameters = 3589 /0/176; GOF = 1.067. CCDC code; 2308599, see CIF for all refinement details.
+
+![](_page_5_Figure_1.jpeg)
+
+**Figure 2**. **a**, Displacement ellipsoid plot from the single crystal structure of **TAPM.Cl\_P2**. Ellipsoids are displayed at 50% probability. Atom labels are omitted for clarity. **b–d**, Crystal packing of viewed along the *a*, *b,* and *c* crystallography axis respectively. Solvent molecules have been omitted for clarity. grey: carbon; red: oxygen; blue: nitrogen green: chlorine; white: hydrogen.
+
+#### **Synthesis of bulk crystalline TAPM.Br**
+
+TAPM (0.1 g) was dissolved in acetone (20 mL) and HBr (0.15 mL, 48 wt. % in water) was added dropwise over 1 min to the solution at room temperature with stirring. The reaction mixture was stirred for 1 h before the solid product was filtered and dried under vacuum to give crystalline **TAPT.Br\_P1** as an off-white powder (97%).
+
+# **Crystallisation procedure for TAPM.Br\_P1**
+
+Single crystals of **TAPM.Br** suitable for x-ray diffraction were grown by dissolving **TAPM** (5 mg) in aqueous hydrobromic acid (3 mL, 48 wt. % in water) with heating at 80 ºC. After heating for 6 h, the resulting clear solution was cooled to room temperature and left open to the air. After 2 days, a large block of single crystals of **TAPM.Br\_P1** was formed. SCXRD revealed that **TAPM.Br\_P1** crystallises into the triclinic space group *P* (Figure 3a). The structure was a non-porous, densely packed salt (Figure 3b-d).
+
+Crystal data for **TAPM.Br\_P1**: Crystal data for TAPM.Br\_P1: Formula: C<sup>25</sup> H27.25 N4, 4(Br); M =238.78, Triclinic *P*, brownish colourless block shaped crystals; crystal size = 0.2 x 0.2 x 0.23 mm<sup>3</sup> ; a = 11.2877(5) Å, b = 11.7704(5) Å, c = 11.9638(5) Å, *Α =* 90.265(3)ᵒ β = 107.249(4)ᵒ, *γ* = 114.896(4) ᵒ, V = 1361.50(11) Å<sup>3</sup> ; ρ = 1.718 g cm-3 ; µ(rotating anode Mo-Kα λ = 0.71073 Å) = 4.439 mm-3 ; *F* (000) = 692; T = 113 K; 16628 reflections measured (2.106 < 2ϴ < 30.356°), 6616 unique (*R*int = 0.0319), 5147 (*I* > 2σ(*I*)); *R*1 = 0.0322 for observed and *R*<sup>1</sup> = 0.0503 or all reflections; *wR*2 = 0.0503 for all reflections; max/min difference electron density = 0.855 and - 0.854 e.A-3 ; data/restraints/parameters = 6616/0/302; GOF = 1.034. CCDC code; 2308596, see CIF for all refinement details.
+
+![](_page_6_Figure_2.jpeg)
+
+**Figure 3**. **a**, Displacement ellipsoid plot from the single crystal structure of **TAPM.Br\_P1**. Ellipsoids are displayed at 50% probability. Atom labels are omitted for clarity. **b–d**, Crystal
+
+packing of **TAPM.Br\_P1** viewed along the *a*, *b,* and *c* crystallography axis respectively. Solvent molecules have been omitted for clarity. grey: carbon; red: oxygen; blue: nitrogen; brown: bromine; white: hydrogen.
+
+# **Crystallisation procedure for TAPM.Br\_P2**
+
+Single crystals of **TAPM.Br\_P2** suitable for x-ray diffraction were grown by dissolving TAPM.Br in MeOH (0.2 mL) and adding the solution to benzonitrile (0.1 mL). The clear solution was then heated at 60 °C to evaporate the MeOH evaporating over 30 minutes, which left long, thin needles of **TAPM.Br\_P2** in the remaining benzonitrile. CCDC code; 2308597, see CIF for crystal and refinement details. The crystal structure for **TAPM.Br\_P2** was isostructural with **TAPM.Cl\_P2** (see Extended Data Fig. 1 for a comparison of the two crystal packings); the similarities in their unit cells are summarised in Table 1.
+
+**Table 1**. Cell parameters for the isostructural chloride (**TAPM.Cl\_P2**) and bromide (**TAPT.Br\_P2**) salts of TAPM.
+
+|            | Space<br>group | α (Å) | b<br>(Å) | c<br>(Å) | β (ᵒ)  | V (Å3<br>) |
+|------------|----------------|-------|----------|----------|--------|------------|
+| TAPM.Cl_P2 | C12/c1         | 12.46 | 20.29    | 11.94    | 101.80 | 2957.22    |
+| TAPM.Br_P2 | C12/c1         | 12.84 | 21.04    | 12.17    | 101.28 | 3225.14    |
+
+# **Synthesis of bulk crystalline TAPT.Cl**
+
+Bulk powders of **TAPT.Cl** were formed by dissolving TAPT (2 g) in an effective solvent (see Table 2 below for list of 60 solvents investigated) at a concentration of 5 mg mL-1 . Methanolic HCl was then added dropwise over 5 min at room temperature with stirring. The mixture was stirred for a further 1 h before the solvent was removed under reduced pressure and the resulting solid was washed with THF, giving crystalline **TAPT.Cl** as an off-white solid (2.57 g, 98%).
+
+**Table 2**. Solubility tests for **TAPT** in a range of 60 different organic solvents; the solvents in the darker orange cells gave a solubility > 5 mg mL-1 ; the solvents in the lighter orange cells gave a solubility 1–5 mg mL-1 . The uncoloured entries in the table refer to solvents that did not dissolve the TAPT appreciably. These same 60 solvents were evaluated for all the amine linkers. HFP = hexafluoropropanol, DCM = dichloromethane, THF = tetrahydrofuran, DMF = dimethylformamide, DMA = Dimethylacetamide, DEF = diethylformamide, DMSO = dimethylsulfoxide, NMP = *N*-methylpyrrolidone.
+
+| Diethyl ether     | Pentane              | <b>DCM</b>                         | Acetone                    | Methyl acetate            |
+|-------------------|----------------------|------------------------------------|----------------------------|---------------------------|
+| <b>HFP</b>        | Chloroform           | Methanol                           | <b>THF</b>                 | Hexane                    |
+| Diisopropyl ether | 1,3-Dioxolane        | <b>Ethyl acetate</b>               | Trifluoroethanol           | Ethanol                   |
+| Cyclohexane       | Acetonitrile         | 2-Propanol                         | 2,2<br>-Dimethoxypropane   | Tetrahydropyran           |
+| 1-Propanol        | n-heptane            | Water                              | 1,4-Dioxane                | $1,4-$<br>Difluorobenzene |
+| Hexafluorobenzene | 1-Butanol            | Cyclopentanone                     | Chlorobenzene              | Toluene                   |
+| <b>DMF</b>        | Cyclohexanone        | m-xylene                           | p-xylene                   | o-xylene                  |
+| <b>DMA</b>        | <b>DEF</b>           | <b>DMSO</b>                        | <b>NMP</b>                 | Mesitylene                |
+| y-Butyrolactone   | <b>Butyl Benzene</b> | $1,2-$<br>Dimethoxybenzene         | $1,3-$<br>Dimethoxybenzene | 1,3-Propanediol           |
+| Diphenyl ether    | Anisole              | Methyl<br>tetrahydrofuran<br>(MTF) | tert-butyl<br>methyl ether | N-methyl-<br>morpholine   |
+
+The effective solvents (dark orange entries) for this material were further narrowed down to focus on those that had either low boiling points and/or were likely to be less coordinating. Our aim was to limit the chance of solvates forming and to minimize difficulties in activating any potentially porous solvates that were formed. Based on these criteria, the focused library of solvents that was chosen was DCM, acetone, methyl acetate (MeOAC), chloroform (CHCl3), THF, ethyl acetate (EtOAc), and methyl tetrahydrofuran (MTF). Apart from DCM and CHCl3, instant precipitation occurred upon addition of HX (X = Cl, Br). After up to two hours of stirring, the solvent either evaporated or the solid was filtered off to give the salt products. PXRD data showed that the same polymorph formed in all seven of the solvent conditions tested (Figure 4). To search other polymorphs, we also evaluated HCl solutions in other solvents such as in diethyl ether, EtOAc, and dioxane, but these also produced what appeared, qualitatively, to be the same polymorph based on PXRD data
+
+![](_page_9_Figure_1.jpeg)
+
+**Figure 4**. PXRD patterns for bulk crystalline powders of **TAPT.Cl** formed using a range of solvents. These results suggest that the same polymorph is formed in all conditions tested, which could be matched with a low-energy CSP structure (main text, Figure 2a,d,g). The salt appeared to be notably less crystalline when prepared in MeOAc. THF, CHCl3, acetone and DCM appeared to give the most crystalline powders based on qualitative analysis of the PXRD data.
+
+![](_page_10_Figure_0.jpeg)
+
+**Figure 5**. <sup>1</sup>H NMR (400 MHz, DMSO) of the product peaks for **TAPT.Cl**. <sup>1</sup>H NMR (400 MHz, DMSO) δ 7.8 (s, 1H), 7.83 (d, 2H), 7.24 (d, 2H), 1.37 (s, 2H).
+
+# **Crystallisation procedure for TAPT.Cl**
+
+Single crystals of **TAPT.Cl** suitable for x-ray diffraction were grown by dissolving **TAPT.Cl** (3 mg) in MeOH (0.5 mL) and chlorobenzene (0.05 mL). The solvent was left to evaporate at room temperature over 16 h, which gave block crystals of **TAPT.Cl**. While the crystals were of a sufficient size (Figure 8) they showed weak diffraction to low angles using a laboratorybased diffractometer. To solve the structure, we used synchrotron radiation at the Diamond Light Source. Synchrotron SCXRD revealed that the salt crystallised as a solvate in the trigonal space group (Figure 6a).
+
+The crystal structure contains two different types of channels running parallel to the c-axis; a cylindrical channel bounded by protonated amines and chloride anions (labelled as pore 'A' in Figure 2d) and two inequivalent diamond-shaped channels bound by C-H moieties (labelled as pore 'B' in Figure 2d). All these channels contained residual electron density, but only one of the narrow diamond-shaped channels contained chlorobenzene solvent molecules that could be modelled reasonably. The chlorobenzene molecules are disordered over an inversion centre, resulting in disorder of the chlorine atom in the solvent. SADI and FLAT restraints were used on the disordered chlorobenzene molecules. A solvent mask was used on the other two channels; the electron density in the second diamond-shaped channel was indicative of disordered chlorobenzene residues. The electron density in the much more polar circular channel (pore A, Figure 2d) was indicative of disordered water molecules. The number of electrons and void volumes were consistent with an average of one chlorobenzene molecule in the diamond-shaped channels (pore B) and 1.5 water molecules in the cylindrical channel (pore A) per asymmetric unit cell. All residues treated with solvent mask are included in the unit cell contents and formula moiety. A SADI restraint was used on the phenyl rings in the TAPT molecule.
+
+Crystal data for **TAPT.Cl**: Formula 3(Cl), C<sup>24</sup> H<sup>24</sup> N3, 1.25[C6H5Cl], 1.5[H2O]; M = 628.52, Trigonal *P3m1*, colourless block shaped crystals; crystal size = 0.02 x 0.02 x 0.01 mm<sup>3</sup> ; a = 35.3856(2) Å, b = 35.3856(2) Å, c = 8.17500(10) Å α = 90° ,β, = 90°, γ = 120°, V = 8864.85 (15) Å<sup>3</sup> ; ρ = 1.413 g cm-3 ; µ(synchrotron λ = 0.6889 Å) = 0.422 mm-3 ; *F* (000) = 3930; T = 100 K; 144458 reflections measured (2.232 < 2ϴ < 54.678°), 7685 unique (*R*int = 0.0797), 5263 (*I* > 2σ(*I*)); *R*1 = 0.0797 for observed and *R*<sup>1</sup> = 0.0962 for all reflections; *wR*2 = 0.2710 for all reflections; max/min difference electron density = 0.706 and -0.440 e.A-3 ; data/restraints/parameters = 7685/245/329; GOF = 1.116. CCDC code; 2308662, see CIF for all refinement details.
+
+![](_page_12_Figure_0.jpeg)
+
+**Figure 6**. **a**, Displacement ellipsoid plot from the single crystal structure of **TAPT.Cl**. Ellipsoids are displayed at 50% probability. Atom labels are omitted for clarity. **b–d**, Crystal packing of **TAPT.Cl** viewed along the *a*, *b,* and *c* crystallography axis respectively. grey: carbon; red: oxygen; blue: nitrogen green: chlorine; white: hydrogen. Solvent is omitted for clarity.
+
+# **Synthesis of bulk crystalline TT.Br**
+
+The solubility of **TT** was also tested in the solvents listed in Table 2 and it was found to be significantly less soluble than **TAPT**; indeed, the only 'good' solvents (>5 mg mL-1 ) were acetone, MeOAc, THF, and EtOAc. The solvent that gave powders with the highest crystallinity was THF. The **TT** concentration was 5 mg mL-1 and HBr (0.15 mL, 48 wt.% in water on a 0.1 g scale) was added dropwise with stirring and the mixture was left for 1 h before collecting the product (97%).
+
+![](_page_13_Figure_2.jpeg)
+
+**Figure 7**. <sup>1</sup>H NMR (400 MHz, DMSO) of the product peaks for **TT.Br**. <sup>1</sup>H NMR (400 MHz, DMSO) δ 8.53 (d, 6H), 7.03 (d, 6H), 6.63 (s, broad 6H).
+
+# **Crystallisation conditions for TT.Br**
+
+The best crystals obtained for **TT.Br** were obtained using the following conditions: **TT.Br** (3 mg) in benzonitrile (0.1 mL) and MeOH (0.5 mL) were heated at 60 °C for 2 h to give long, thin needles (Figure 8). Synchrotron radiation at the Diamond Light Source was used in an attempt to determine the structure. While the **TT.Br** crystals showed good diffraction initially, they rapidly degraded under synchrotron irradiation before enough data could be collected. Various attempts were made to collect data for these crystals by varying the radiation and collection times, but due to both the small size of the crystals and their sensitivity to radiation damage, solving the structure was impossible. However, unit cells collected during these structure solution attempts showed the material had a similar unit cell to that determined by
+
+SCXRD for **TAPT.Cl**, providing further evidence that these two samples might be isostructural, as predicted (main text, Figure 2). The differences in the crystal sizes of both **TAPT.Cl** and **TT.Br** can be seen in Figure 8.
+
+![](_page_14_Figure_1.jpeg)
+
+**Figure 8.** Scanning electron microscope images for the best crystals from the crystallisations of **TT.Br** (left) from benzonitrile/MeOH and **TAPT.Cl** (right) in chlorobenzene/MeOH. Scale bars are included in the bottom right corner of the images; note the much smaller size of the **TT.Br** crystals which, combined with sensitivity to synchrotron beam damage, precluded structure solution by SCXRD.
+
+# **Crystallisation of TTBT.Cl**
+
+The solubility of **TTBT** was tested in the same solvents as **TAPT** and **TT** (Table 2). It was shown to have good solubility (>5 mg mL-1 ) in acetone, THF, HFIP, and MTF. The same **TTBT.Cl** polymorph was formed in all these solvents, based on PXRD data (Figure 9). Matching these PXRD data against diffraction patterns derived from CSP structures for **TTBT.Cl** indicated that the structure was an extended form of the packing observed for **TAPT.Cl** and **TT.Br**. The match between the experimental PXRD pattern and calculated pattern for the most similar CSP-derived structure is shown in Figure 9. The disagreement in peak intensities may be due to preferred orientation in the experimental samples. Other discrepancies at higher angles could be due, for example, to the CSP methodology not totally capturing the torsion angles in the more torsionally complex biphenyl struts in **TTBT**. This is the most complex system that we attempted by CSP here; it has four independent units (**TTBT** plus three chloride ions) and a significantly larger number of potential conformers for the **TTBT**  molecule itself. As such, the structural search space is much larger in terms of the number of degrees of freedom that are available.
+
+![](_page_15_Figure_0.jpeg)
+
+**Figure 9**. **a**, PXRD patterns for **TTBT.Cl** as obtained under different solvent conditions indicating that the same polymorph was formed in all cases. **b**, PXRD comparison for experimental data and the most closely matched CSP derived data (see Figure 2c).
+
+![](_page_15_Figure_2.jpeg)
+
+**Figure 10**. <sup>1</sup>H NMR (400 MHz, DMSO) of the product peaks for **TTBT.Cl**. <sup>1</sup>H NMR (400 MHz, DMSO) δ 8.73 (d, J = 8.5 Hz, 6H), 7.85 (d, J = 8.5 Hz, 6H), 7.56 (d, J = 8.5 Hz, 6H), 6.71 (d, J = 8.5 Hz, 6H), 5.46 (s, 6H).
+
+Only one crystallisation condition investigated appeared to give single crystals of **TTBT.Cl** this used MTF as the solvent and HCl in water as the source of HCl. The exact conditions were as follows: TTBT (5 mg) was dissolved in MTF (0.3 mL) in a vial containing a small hole, this vial was then left placed inside a larger vial containing 0.5 mL of aqueous HCl (37%) and 0.5 mL of H2O. The outer vial was capped and left undisturbed for 16–24 h, after which small needles could be seen in the MTF solution. Attempts at isolating the single crystals from the solvent proved to be very difficult. After 16–24 h, only a small amount of **TTBT.Cl** crystals were observed, meaning that most of the **TTBT** was unreacted. Leaving the sample for longer resulted in formation of polycrystalline powders. To avoid this, the small vial containing the crystals was isolated and placed in a freezer; the crystal survived for ~3 days in the freezer, but beyond this time, the crystals re-dissolved in the solvent. Two problems were encountered in trying to collect a crystal for SCXRD; (i) the rapid evaporation of the volatile MTF solution, which resulted in fast crystallisation of the free amine, whose crystals were larger, and; (ii) the size and fragility of the **TTBT.Cl** single crystals: typically, they would shatter into smaller fragments when trying to mount the crystals. This precluded the collection of suitable SCXRD data for **TTBT.Cl** from this solvent system. SEM images of **TTBT.Cl** formed using these conditions are shown in Figure 11.
+
+![](_page_16_Picture_1.jpeg)
+
+**Figure 11**. SEM images of **TTBT.Cl** crystals isolated from MTF and aqueous HCl; the lefthand image shows the bulk material and the righthand image shows a close-up of a single particle.
+
+#### **PXRD analysis for experimental and predicted TAPT.Cl, TT.Br and TTBT.Cl**
+
+Diffraction profiles were simulated for the structures most closely matching the experimental **TAPT.Cl**, **TT.Br** and **TTBT.Cl** patterns. Stack plots of the simulated and experimental patterns (Fig. 2g-i) show the similarity of the **TAPT.Cl** and **TT.Br** profiles in particular. Minor differences in the experimentally observed unit cell and predicted structure, and experimental effects such as background scattering and peak broadening tend to dominate the difference curves; hence
+
+these are not included. To investigate the differences in the **TTBT.Cl** profiles, constrained structural refinement of **TTBT.Cl** was performed as described below.
+
+#### **PXRD analysis of TTBT.Cl**
+
+To reduce the possible effects of preferred orientation and improve powder averaging, PXRD data for **TTBT.Cl** were collected on a sample Debye-Scherrer geometry with a capillary spinner. The pattern has relatively low resolution with significant broadening of the diffraction peaks, probably due to a combination of the short ordered length scale, the presence of residual disordered solvent and molecular conformation. It proved challenging to identify and fit more than thirteen individual peaks in the pattern to perform autoindexing. A set of trigonal and hexagonal cells were identified by the indexing routine as candidates. These cells indicated a lattice repeat of approximately 27.4 Å within the layers and an intralayer distance of ~3.9 Å; these dimensions were consistent with the molecular structure of **TTBT.Cl**. However, the profile can be also indexed using a monoclinic unit cell, similar to lowest energy structure on the CSP landscape (Figure 2c,f in main text), and Le Bail refinement of this cell with the *C*2/*c* space group affords lattice parameters of *a* = 27.581(3), *b* = 47.314(5), *c* = 8.0051(9) Å, = 97.61(1)°, *V* = 10355(2) Å<sup>3</sup> . It is possible that the true symmetry of the **TTBT.Cl** structure is higher than in the predicted structure, due to the equivalence of the biphenyl substituents allowing threefold rotational molecular symmetry, noting that the CSP calculations were only performed in the 11 most common space groups.
+
+The monoclinic unit cell and a molecular fragment consisting of the full TTBT molecule with fixed geometry and three chloride ions was used as the basis for simulated annealing structure solution. The *y*-coordinate of one Cl- ion was fixed; the fragments were otherwise allowed to translate and rotate freely within the cell. The Fourier difference maps for the initial solutions indicated significant electron density in the channels, which was inferred to be due to residual water. The calculation was repeated with the inclusion of up to six oxygen atom positions with variable occupancies. The best solution was used as a basis for structural refinement (Extended Data Fig. 3c) in which the position and orientation of the TTBT molecule were refined, in addition to the chloride and oxygen atom positions. The oxygen occupancies refined to approximately five water molecules per TTBT. Due to the low resolution of the data, individual atomic positions were not refined and the molecular conformation was fixed; hence it was not possible to explore the symmetry of the TTBT molecule further to investigate its compatibility with higher symmetry space groups. A single isotropic displacement parameter was refined for the TTBT molecule with one displacement parameter for all chloride ions. Oxygen displacement parameters were fixed at 0.05 Å<sup>2</sup> . The refined structure confirmed that the packing arrangement of the TTBT molecule and chloride ions are consistent with the lowest energy CSP structure.
+
+![](_page_18_Figure_1.jpeg)
+
+#### **Stability of salts to activation**
+
+**Figure 12. a**. TGA trace of **TAPT.Cl** after heating under vacuum at 110 ˚C for 16 h. **b**, PXRD of the **TAPT.Cl** sample after activation and before gas sorption experiments (red) and after the gas sorption experiments (black) showing the stability of the framework to desolvation.
+
+![](_page_18_Figure_4.jpeg)
+
+**Figure 13. a**. TGA trace of **TT.Br** after heating under vacuum at 110 ˚C for 16 h. **b**, PXRD of the **TT.Br** sample after activation and before gas sorption experiments (red) and after the gas sorption experiments (black) showing the stability of the framework to desolvation.
+
+![](_page_19_Figure_0.jpeg)
+
+**Figure 14. a**. TGA trace of **TTBT.Cl** after heating under vacuum at 110 ˚C for 16 h. **b**, PXRD of the **TTBT.Cl** sample after activation and before gas sorption experiments (red) and after the gas sorption experiments (black). After the gas sorption experiments, which involve a further on-port degassing step, there is a decrease in the intensity of the Bragg peaks, suggest a loss of order under these activation / adsorption conditions that was not apparent for **TATP.Cl** (Figure 13b) or **TT.Br** (Figure 14b). The reduces the CO<sup>2</sup> sorption in this material (Extended Data Fig. 9). By contrast, as discussed in the main text and in Section 4 here, **TTBT.Cl** is robust over repeated iodine sorption / desorption cycles (Figure 4c) and it exhibits the highest iodine uptake of the salt frameworks studied here (248 wt. %), suggesting that the framework stability depends on the specific activation, sorption, and regeneration conditions.
+
+# **Section 3. Single crystal refinement details**
+
+| Molecule                          | TAPM.Cl_P1           | TAPM.Cl_P2                      |
+|-----------------------------------|----------------------|---------------------------------|
+| λ [Å]                             | 0.71073              | 0.71073                         |
+| Collection Temperature            | 100 K                | 100 K                           |
+| Formula                           | C25H28N44(Cl);       | 3.2(Cl), 0.8(C25<br>H28<br>N4), |
+|                                   |                      | 1.6(C H4<br>O), 0.2(O):         |
+| Mr [g mol-1<br>]                  | 64.28                | 529.51                          |
+| Crystal Size [mm]                 | 0.065 x 0.024 x 0.02 | 0.069 x 0.027 x 0.02            |
+| Crystal System                    | Tetragonal           | Monoclinic                      |
+| Space Group                       | P42/nmc              | C12/c1                          |
+| a<br>[Å]                          | 13.2945(5)           | 12.4607(4)                      |
+| b<br>[Å]                          |                      | 20.2943(7)                      |
+| c<br>[Å]                          | 7.5715(4)            | 11.9466(4)                      |
+| [°]<br>                          |                      |                                 |
+| β<br>[°]                          | 90                   | 101.801(4),                     |
+| γ [°]                             |                      |                                 |
+| [Å3<br>V<br>]                     | 1338.22(12)          | 2957.21(17)                     |
+| Z                                 | 16                   | 5                               |
+| [g cm-3<br>Dcalcd<br>]            | 1.276                | 1.487                           |
+| μ [mm-1<br>]                      | 0.461                | 0.313                           |
+| F(000)                            | 524                  | 524                             |
+| 2<br>range [°]<br>               | 2.166 –<br>30.161    | 1.195–<br>30.382                |
+| Reflections collected             | 5172                 | 10396                           |
+| Independent reflections,          | 949, 0.0287          | 3589, 0.1253                    |
+| Rint                              |                      |                                 |
+| Obs. Data [I<br>> 2σ(I)]          | 781                  | 781                             |
+| Data /restraints /                | 949/ 0 / 46          | 3589 / 2 / 241                  |
+| parameters                        |                      |                                 |
+| Final R1<br>values (I<br>> 2σ(I)) | 0.0357               | 0.0357                          |
+| Final R1<br>values (all data)     | 0.0447               | 0.0755                          |
+| Final wR(F2) values (all          | 0.1036               | 0.2007                          |
+| data)                             |                      |                                 |
+| 2<br>Goodness-of-fit on F         | 1.035                | 1.067                           |
+| Largest difference peak and       | 0.459 / -0.223       | 1.032 / -0.829                  |
+| hole [e.A-3<br>]                  |                      |                                 |
+| CCDC                              | 2308598              | 2308599                         |
+
+**Table 3.** Single crystal refinement data for **TAMP.Cl\_P1** and **TAMP.Cl\_P2**
+
+| Molecule                          | TAPM.Br_P1              | TAPT.Cl                  |
+|-----------------------------------|-------------------------|--------------------------|
+| λ [Å]                             | 0.71073                 | 0.6889                   |
+| Collection Temperature            | 113<br>K                | 100 K                    |
+| Formula                           | C25<br>H27.25 N4, 4(Br) | 3(Cl), C24<br>H24<br>N3, |
+|                                   |                         | 1.25[C6H5Cl], 1.5[H2O];  |
+| [g mol-1<br>Mr<br>]               | 238.78                  | 628.52                   |
+| Crystal Size [mm]                 | 0.2 x 0.2 x 0.23        | 0.02 x 0.02 x 0.01       |
+| Crystal System                    | Trigonal                | Trigonal                 |
+| Space Group                       | P1                      | P3m1                     |
+| a<br>[Å]                          | 11.2877(5)              | 35.3856(2)               |
+| b<br>[Å]                          | 11.7704(5)              |                          |
+| c<br>[Å]                          | 11.9638(5)              | 8.17500(10)              |
+| [°]<br>                          | 90.265(3)               |                          |
+| β<br>[°]                          | 107.249(4)              | 90                       |
+| γ [°]                             | 114.896(4)              | 120                      |
+| [Å3<br>V<br>]                     | 1361.50(11)             | 8864.85(15)              |
+| Z                                 | 2                       | 12                       |
+| [g cm-3<br>Dcalcd<br>]            | 1.718                   | 1.413                    |
+| μ [mm-1<br>]                      | 4.439                   | 0.422                    |
+| F(000)                            | 692                     | 3930                     |
+| 2<br>range [°]<br>               | 2.106 –<br>30.3553      | 1.116–<br>27.339         |
+| Reflections collected             | 16628                   | 144458                   |
+| Independent reflections,          | 6616, 0.0348            | 7685, 0.0797             |
+| Rint                              |                         |                          |
+| Obs. Data [I<br>> 2σ(I)]          | 5147                    | 5263                     |
+| Data /restraints /                | 6616<br>/ 0 / 302       | 7685/ 245 / 329          |
+| parameters                        |                         |                          |
+| Final R1<br>values (I<br>> 2σ(I)) | 0.0322                  | 0.0797                   |
+| Final R1<br>values (all data)     | 0.0503                  | 0.0962                   |
+| Final wR(F2) values (all          | 0.067                   | 0.2710                   |
+| data)                             |                         |                          |
+| 2<br>Goodness-of-fit on F         | 1.034                   | 1.116                    |
+| Largest difference peak and       | 0.855 / -0.854          | 0.706 / -0.440           |
+| hole [e.A-3<br>]                  |                         |                          |
+| CCDC                              | 2308596                 | 2308662                  |
+
+|  | Table 4. Single crystal refinement data for TAMP.Br_P1 |  |  | and TAPT.Cl |  |
+|--|--------------------------------------------------------|--|--|-------------|--|
+|  |                                                        |  |  |             |  |
+
+# **Section 4. Iodine capture experiments**
+
+These porous salt frameworks were found to absorb greater quantities of iodine vapour than most MOFs studied so far (see Refs. 9–12 in main text and in particular review article in Ref. 43). For additional reviews on iodine capture in other classes of porous solids, see Section 6 (Supplementary Refs. R1–R5).
+
+#### **Iodine capture / desorption in TAPM.Cl\_P1**
+
+**TAPM.Cl\_P1** is dense and non-porous, and it absorbs almost no iodine (Figure 4a, main text); as such, the weight losses observed in Figure 15 result from thermal decomposition of the **TAPM.Cl\_P1** crystals.
+
+![](_page_22_Figure_4.jpeg)
+
+**Figure 15**. **a**, TGA trace of pure iodine (black) and both **TAPM.Cl\_P1** before and after iodine exposure (red and blue); note that these two traces are completely superimposed. **b**, PXRD pattern for **TAPM.Cl\_P1** before and after iodine exposure showing no changes.
+
+#### **Iodine capture / desorption in TAPT.Cl**
+
+The porous **TAPT.Cl** structure absorbs 211 wt. % iodine prior to desorption during TGA (Figure 4a, main text).
+
+![](_page_23_Figure_2.jpeg)
+
+**Figure 16. a**, TGA traces for pure iodine (black) and **TAPT.Cl** both before (red) and after (blue) iodine exposure. **b**, PXRD patterns for **TAPT.Cl** before and after iodine exposure, suggesting changes in the structure. We would expect significant changes in the PXRD pattern, given that 211 wt. % iodine is absorbed: this highly scattering species would influence the PXRD pattern, particularly if it is ordered in the pores, even if the basic framework topology was retained.
+
+#### **Iodine capture / desorption in TT.Br**
+
+Like **TAPT.Cl**, the porous **TT.Br** structure absorbs significant quantities of iodine (213 wt. %) prior to desorption during TGA (Figure 4a). The time-dependent absorption profiles for these two crystalline frameworks are almost identical and reproducible over 5 separate repeats (see **Methods** in main text); that is, **TAPT.Cl** and **TT.Br** are isostructural, as predicted, and their iodine capture and release properties are therefore very similar.
+
+![](_page_24_Figure_2.jpeg)
+
+**Figure 17**. **a**, TGA traces for pure iodine (black) and **TT.Br** both before (red) and after (blue) iodine exposure. **b**, PXRD patterns for **TT.Br** before and after iodine exposure suggesting changes in the structure. We would expect significant changes in the PXRD pattern, given that 213 wt. % iodine is absorbed: this highly scattering species would influence the PXRD pattern, particularly if it is ordered in the pores, even if the basic framework topology was retained.
+
+#### **Iodine capture / loss in TTBT.Cl**
+
+The porous **TTBT.Cl** structure absorbs 248 wt. % iodine prior to desorption during TGA (Figure 4a, main text).
+
+![](_page_25_Figure_2.jpeg)
+
+**Figure 18**. **a**, TGA traces for pure iodine (black) and **TTBT.Cl** both before (red) and after (blue) iodine exposure. **b**, PXRD patterns for **TTBT.Cl** before and after iodine exposure suggesting changes in the structure. We would expect that there could be significant structural changes to the **TTBT.Cl** framework and associated changes in the PXRD pattern, given that 248 wt. % iodine is absorbed. Moreover, even if the framework topology were unchanged, iodine is a good x-ray scatterer, and any ordered iodine in the framework pores might be expected to affect the PXRD pattern. Significant changes to the PXRD pattern are indeed observed after iodine sorption, but we note that the original PXRD pattern is completely regenerated upon iodine removal (Figure 4d, main text) and that this can be done at least five times without any loss in iodine adsorption capacity (Figure 4c, main text), demonstrating that any structural changes in the framework are fully reversible.
+
+## **Recyclability experiments for iodine capture**
+
+To test the recyclability of the salts for iodine capture, the iodine was removed from each sample and the iodine capture and release performance was measured over five cycles (*e.g.*, Figure 4c, main text). Due to the high mass of iodine captured in each system and the slow release using vacuum alone, chloroform (CHCl3) was first used to remove the bulk of the iodine (Figure 19) before the final traces of iodine were removed at 70 °C under vacuum for 16 h.
+
+![](_page_26_Picture_2.jpeg)
+
+**Figure 19**. **a**, **TAPT.Cl** sample containing iodine; image recorded 2 min after the first addition of CHCl3, showing almost instant iodine release. **b**, The same sample after 2 days of CHCl<sup>3</sup> solvent swaps, at which point the colour in the solvent is much paler. The iodine is rather difficult to extract / release from these salts, but this should be advantageous for radioiodine capture applications.
+
+![](_page_26_Figure_4.jpeg)
+
+**Figure 20. a**, TGA trace of **TAPT.Cl** with iodine (red), and before (black) and after (blue) iodine removal. **b**, PXRD pattern for **TAPT.Cl** before iodine exposure, after iodine absorption, and after subsequent iodine removal that the original PXRD pattern for the salt is regenerated and the absorption process is reversible. **c**, Recyclability tests over 5 cycles for **TAPT.Cl**, where 100% efficiency is defined as the initial iodide uptake (cycle 1). Figure 4, main text, shows comparable data for **TTBT.Cl**.
+
+![](_page_27_Figure_0.jpeg)
+
+**Figure 21. a**, TGA trace of **TT.Br** with iodine (red), and before (black) and after (blue) iodine removal. **b**, PXRD pattern for **TT.Br** before iodine exposure, after iodine absorption, and after subsequent iodine removal that the original PXRD pattern for the salt is regenerated and the absorption process is reversible. **c**, Recyclability tests over 5 cycles for **TT.Br**, where 100% efficiency is defined as the initial iodide uptake (cycle 1). Figure 4, main text, shows comparable data for **TTBT.Cl**.
+
+![](_page_27_Figure_2.jpeg)
+
+**Figure 22. a**, TGA trace of **TTBT.Cl** with iodine (red), and before (black) and after (blue) iodine removal. **b**, PXRD pattern for **TTBT.Cl** before iodine exposure, after iodine absorption, and after subsequent iodine removal that the original PXRD pattern for the salt is regenerated and the absorption process is reversible (see also Figure 4, main text).
+
+![](_page_28_Figure_0.jpeg)
+
+**Figure S23.** PXRD patterns for a porous **TTBT.Cl** sample that was submerged in water at room temperature, as sampled at different time intervals. By contrast, the porous **TAPT.Cl** framework is soluble in water, and **TT.Br** becomes amorphous upon immersion in water.
+
+![](_page_28_Figure_2.jpeg)
+
+**Figure S24.** Water adsorption isotherm for the porous **TTBT.Cl** framework. The maximum water uptake is 12.4 mmol g -1 .
+
+# **Section 5. Crystal structure prediction**
+
+The main details for the CSP methodology are given in the **Methods** section of the main text. Additional details are given here regarding (i) amine linker conformers, (ii) space groups, (iii) bromide potential parameters, (iv) tight-binding DFT corrections and (v) the influence of distance thresholds on energy–structure maps for ammonium halide charge adjacency.
+
+# **Conformers of the amine linkers**
+
+It should be noted that the ammonium group at the end of each linker arms also has rotational flexibility, but this was fixed rigid because the energy barrier between various rotations of this group is generally < 0.3 kJ mol-1 in PBE0/6-311G calculations. Nevertheless, to ensure that the rotation of the amine group would not alter the CSP outcome, we performed CSPs with different rotations of the amine group at the end of the leg and found that this reproduced the same energy landscapes.
+
+![](_page_29_Figure_4.jpeg)
+
+**Figure 25.** Conformers of **TAPM** (left) and **TT** (right) used in the CSP searches.
+
+![](_page_29_Figure_6.jpeg)
+
+**Figure 26.** The four **TAPT** conformers used in the CSP searches. The hypothetical planar **TAPT** structure is also shown, but because of its dynamic instability, it was not used for crystal structure prediction.
+
+![](_page_30_Figure_0.jpeg)
+
+**Figure 27.** The four **TTBT** conformers used in the CSP searches. The hypothetical planar **TTBT** structure is also shown, but because of its dynamic instability, it was not used for crystal structure prediction.
+
+| Conformer | Relative energy<br>mol-1<br>(kJ<br>) |
+|-----------|--------------------------------------|
+| TAPT-1    | 0.00                                 |
+| TAPT-2    | 0.05                                 |
+| TAPT-3    | 0.15                                 |
+| TAPT-4    | 1.32                                 |
+
+**Table 5.** Relative stabilities of the four **TAPT** conformers
+
+**Table 6.** Relative stabilities of the four **TTBT** conformers
+
+| Conformer | Relative energy<br>mol-1<br>(kJ<br>) |
+|-----------|--------------------------------------|
+| TTBT-1    | 0.00                                 |
+| TTBT-2    | 0.28                                 |
+| TTBT-3    | 0.11                                 |
+| TTBT-4    | 0.36                                 |
+
+#### **Bromide potential parameters**
+
+The bromide parameters used in the work were taken from a molecular dynamics study of the thermodynamic properties of calcium apatitesR6 . To complete the set of force-field parameters, interactions between bromide ions and other atoms were determined using a series of mixing rules that were introduced with the revised version of the Williams 99 force-fieldR7. To determine the suitability of these parameters, we performed CSP on a small series of bromide salts from the Cambridge Structural Database (Figure 28). This allowed us to determine whether we could predict the known polymorphs of these salts and whether the force-field ranked them low in energy on the CSP landscape. CSP was performed using the methodology outlined in the main text, with the exception that we only sampled the space group in which the experimental polymorph was observed.
+
+![](_page_31_Figure_2.jpeg)
+
+**Figure 28.** CCDC REFCODEs and images of the benchmark salt structures used in the bromide potential parameter tests.
+
+In general, the force-field was able to generate the experimentally observed polymorph structures with good accuracy and rank them low in energy on the CSP landscape (Table 7). The overlay RMSDs range between 0.141 and 0.409 Å, which indicates good agreement between the CSP match and experimental polymorphs. In the case of **DICJEE,** the energy ranking of the observed polymorph was poorer than what we observed for the other salts. Its CSP match was found 10.4 kJ mol-1 above the global minimum structure and ranked 63rd overall. However, by expanding the CSP search into other sub-groups such as *P*21/*c*, *P*1̅ and *Pna*21, a lower energy match with an improved overlay RMSD was found. A visual aid for these RMSD values is given in Figure 29.
+
+**Table 8.** Results of the energy ranking and overlay accuracy for the CSP structures that matched the observed polymorphs of five bromide salts.
+
+| REFCODE  | Space<br>group | Number of<br>sampled<br>structures | Experimental<br>match RMSD<br>(Å) | ΔE from global<br>minimum,<br>mol-1<br>(kJ<br>) | Energy ranking on<br>CSP landscape |
+|----------|----------------|------------------------------------|-----------------------------------|-------------------------------------------------|------------------------------------|
+| ADEYEQ   | P1̅            | 10,000                             | 0.409                             | +0.187                                          | rd<br>3                            |
+| ANLINB02 | P21/c          | 20,000                             | 0.197                             | +2.67                                           | th<br>6                            |
+| DICJEE   | Pnma           | 10,000                             | 0.254                             | +10.8                                           | 63rd                               |
+|          | Pna21          | 20,000                             | 0.141                             | +3.48                                           | rd<br>3                            |
+| QEHTIH   | P21/c          | 20,000                             | 0.357                             | +0.240                                          | nd<br>2                            |
+| QEHVIJ   | P1             | 10,000                             | 0.225                             | +1.34                                           | rd<br>3                            |
+
+![](_page_32_Figure_2.jpeg)
+
+**Figure 29**. Crystal structure overlays of ADEYEQ, ANLINB02, DICJEE, QEHTIH, and QEHVIJ with their matching CSP structures shown in green.
+
+#### **Space groups sampled in CSP calculations**
+
+Trial crystal structures were generated across eleven space groups and their lattice energies were minimized until a target number of valid crystal structures was met (Table 8).
+
+| Space group name | Space group number | Number of valid structures to generate |
+|------------------|--------------------|----------------------------------------|
+| P1               | 1                  | 10,000                                 |
+| P1̅              | 2                  | 10,000                                 |
+| P212121          | 19                 | 10,000                                 |
+| Pna21            | 33                 | 20,000                                 |
+| P21              | 4                  | 20,000                                 |
+| C2               | 5                  | 20,000                                 |
+| Cc               | 9                  | 20,000                                 |
+| Pbca             | 61                 | 20,000                                 |
+| P21/c            | 14                 | 50,000                                 |
+| C2/c             | 15                 | 50,000                                 |
+| R3̅              | 148                | 50,000                                 |
+
+**Table 8**. List of space groups that were sampled in this study.
+
+#### **Tight-binding DFT corrections**
+
+For CSPs involving the **TAPM** cation, a model of **TAPM** was constructed and optimised to the nearest local gas-phase minimum. Unlike **TAPT**, which has multiple gas-phase conformers, we found that **TAPM** only adopts one (Figure 26) due to the steric demand of the four anilinium groups around the central sp<sup>3</sup> carbon. After performing CSP on **TAPM.Cl**, we were able to locate two matches to the experimental polymorphs on the CSP landscape (main text, Figure 2a). However, for the predicted structure of **TAPM.Cl/P1**, there was a clear mismatch between the conformation adopted by the cation in the gas phase and its conformation in the **TAPM.Cl** crystal. To investigate this further, all structures up to a relative total energy of 100 kJ mol-1 were re-optimised via tight-binding DFT (see **Methods**, main text) resulting in a new CSP landscape (Figure 30). After allowing the cations intramolecular degrees of freedom to relax within the crystal environment, we were able to improve the matches to both experimental polymorphs (Figure 31).
+
+![](_page_34_Figure_0.jpeg)
+
+**Figure 30**. CSP landscape for **TAPM.Cl** after tight binding DFT-based optimisations of all crystal structures within 100 kJ mol-1 of the global energy minimum.
+
+![](_page_34_Figure_2.jpeg)
+
+**Figure 31**. Overlay images for experimental structures (coloured by element) and DFTB reoptimised structures (green) for the two experimentally accessible polymorphs: **TAPM.Cl/P1**  (left) and **TAPM.Cl/P2** (right).
+
+![](_page_35_Figure_0.jpeg)
+
+**Figure 32.** CSP landscape of **TAPM.Br** where each structure is coloured by the mean number of N-Br short contacts per ammonium. N-Br contacts were evaluated at a distance of 4.25 Å.
+
+![](_page_35_Figure_2.jpeg)
+
+**Figure 33.** CSP landscape of **TAPM.Cl** where each structure is coloured by the mean number of N-Cl short contacts per ammonium. N-Cl contacts were evaluated at a distance of 4.125 Å.
+
+![](_page_36_Figure_0.jpeg)
+
+**Figure 34.** CSP landscape of **TAPT.Cl** where each structure is coloured by the mean number of N-Cl short contacts per ammonium. N-Cl contacts were evaluated at a distance of 4.125 Å.
+
+![](_page_36_Figure_2.jpeg)
+
+**Figure 35.** CSP landscape of **TT.Br** where each structure is coloured by the mean number of N-Br short contacts per ammonium. N-Br contacts were evaluated at a distance of 4.25 Å.
+
+![](_page_37_Figure_0.jpeg)
+
+**Figure 36.** CSP landscape of **TTBT.Cl** where each structure is coloured by the mean number of N-Cl short contacts per ammonium. N-Cl contacts were evaluated at a distance of 4.125 Å.
+
+# **Section 6. Supplementary references**
+
+- R1. Yang, Y. T., Tu, C. Z., Yin, H. J., Liu, J. J., Cheng, F. X. & Luo, F., Molecular iodine capture by covalent organic frameworks, *Molecules*, **27**, 9045 (2022).
+- R2. Yu, Y.-N., Yin, Z., Cao, L.-H. & Ma, Y.-M., Organic porous solid as promising iodine capture materials, *J. Incl. Phenom. Macrocycl. Chem.*, **102**, 395–427 (2022).
+- R3. Kurisingal, J. F., Yun, H. & Hong, C. S., Porous organic materials for iodine adsorption, *J. Hazard. Mater.*, **458**, 10.1016/j.jhazmat.2023.131835 (2023).
+- R4. Huve, J., Ryzhikov, A., Nuoali, H., Lalia, V., Augé, G. & Daou, T. J., Porous sorbents for the capture of radioactive iodine compounds: a review, *RSC Adv.*, **8**, 29248–29273 (2018).
+- R5. Xie, W., Cui, D., Zhang, S. R., Xu, Y. H. & Jiang, D. L., Iodine capture in porous organic polymers and metal-organic frameworks materials, Mater. Horiz., 6, 1571–1595 (2019).
+- R6. Cruz, F. J. A. L. , Lopes, J. N. C. , Calado, J. C. G. & Minus da Piedade, M. E., A molecular dynamics study of the thermodynamic properties of calcium apatites. 1. hexagonal phases, *J. Phys. Chem. B*, **109**, 51, 24473–24479 (2005).
+- R7. Pyzer-Knapp, E. O., Thompson, H. P. G. & Day, G. M., An optimized intermolecular force field for hydrogen-bonded organic molecular crystals using atomic multipole electrostatics, *Acta Cryst*., **B72**, 477–487 (2016).
+
+根据提供的文献内容，生成实验流程复现文献实验
+
